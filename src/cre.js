@@ -3,7 +3,7 @@
 /*
  * Variable Initialization
  */
-var cheeseCost = 0, sampleSize = 0, rank = '';
+var cheeseCost = 0, sampleSize = 0;
 
 function loadCharmDropdown() {
     loadDropdown("charm", charmKeys, charmChanged, "<option>No Charm</option>");
@@ -101,7 +101,7 @@ window.onload = function () {
         showPop(2);
     };
 
-    document.getElementById("rank").onchange = rankOnChange;
+    document.getElementById("rank").onchange = rankChange;
 
     //Send to google analytics that link to setup was clicked
     document.getElementById("link").onclick = function () {
@@ -155,7 +155,7 @@ function checkLoadState() {
         checkToxicParam();
 
         updateInputFromParameter("battery", batteryChanged);
-        updateInputFromParameter("rank", rankOnChange);
+        rankParamCheck();
 
         getSliderValue();
         calculateBonusLuck();
@@ -252,7 +252,7 @@ function showPop(type) { //type = 2 means don't reset charms
     function getHeaderRow() {
         var headerHTML = "<tr align='left'><th align='left'>Mouse</th><th data-filter='false'>Attraction<br>Rate</th><th data-filter='false'>Catch<br>Rate</th><th data-filter='false'>Catches per<br>100 hunts</th><th data-filter='false'>Gold</th><th data-filter='false'>Points</th><th data-filter='false'>Tournament<br>Points</th><th data-filter='false'>Min.<br>Luck</th>";
         if (rank) {
-            headerHTML += "<th data-filter='false'>Rank<br>Advancement</th>";
+            headerHTML += "<th data-filter='false'>Rank % per<br>100 hunts</th>";
         }
         if (locationName.indexOf("Seasonal Garden") >= 0) {
             headerHTML += "<th data-filter='false'>Amp %</th>";
@@ -493,9 +493,10 @@ function showPop(type) { //type = 2 means don't reset charms
                 var mouseRow = "<td align='left'>" + mouseName + "</td><td>" + attractions.toFixed(2) + "%</td><td>" + catchRate + "%</td><td>" + catches + "</td><td>" + commafy(mouseGold) + "</td><td>" + commafy(mousePoints) + "</td><td>" + tourneyPoints + "</td><td>" + minLuckValue + "</td>";
 
                 if (rank) {
-                    var adv = advancementArray.hasOwnProperty(mouseName) && advancementArray[ mouseName ][ rank ];
-                    mouseRow += "<td>" + (adv ? (adv*100).toFixed(4)+'%' : '&nbsp;') + "</td>";
-                    overallAdvancement += adv ? catches*adv/100 : 0;
+                    var adv = advancementArray.hasOwnProperty(mouseName) && advancementArray[ mouseName ][ rank ] || 0;
+                    adv *= catches
+                    mouseRow += "<td>" + (adv ? (adv * 100).toFixed(4)+'%' : '&nbsp;') + "</td>";
+                    overallAdvancement += adv;
                 }
 
                 if (locationName.indexOf("Seasonal Garden") >= 0) {
@@ -799,7 +800,8 @@ function updateLink() {
         "tourney" : tournamentName,
         "riftstalker" : riftStalkerCodex,
         "ballistaLevel" : fortRox.ballistaLevel,
-        "canonLevel" : fortRox.canonLevel
+        "canonLevel" : fortRox.canonLevel,
+        "rank": rank
     };
     var URLString = buildURL('cre.html',urlParams);
     document.getElementById("link").href = URLString;
@@ -889,9 +891,4 @@ function tourneyChanged() {
     tournamentName = select.value;
     updateLink();
     calculateTrapSetup();
-}
-
-function rankOnChange() {
-    rank = document.getElementById("rank").value;
-    showPop(2);
 }

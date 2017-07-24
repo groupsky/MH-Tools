@@ -16,7 +16,7 @@ var basePower = 0, baseBonus = 0, baseLuck = 0, baseAtt = 0, baseEff = 0;
 var charmPower = 0, charmBonus = 0, charmAtt = 0, charmLuck = 0, charmEff = 0;
 var gsLuck = 7, bonusLuck = 0, pourBonus = 0, pourLuck = 0, isToxic = "", batteryPower = 0, lanternStatus = "";
 var trapPower = 0, trapLuck = 0, trapType = "", trapAtt = 0, trapEff = 0;
-var baseName = "", charmName = "", locationName = "", cheeseName = "", tournamentName = "", weaponName = "", phaseName = "";
+var baseName = "", charmName = "", locationName = "", cheeseName = "", tournamentName = "", weaponName = "", phaseName = "", rank = "";
 var cheeseBonus = 0;
 var cheeseLoaded = 0, charmLoaded = 0;
 var riftStalkerCodex;
@@ -102,14 +102,6 @@ function processPop(popText) {
  * @param advText advancement data in CSV format
  */
 function processAdvancement(advText) {
-    // for now only in cre is used
-    if (user !== CRE_USER) {
-        advancementLoaded = 1;
-        if (typeof checkLoadState !== 'undefined' ) {
-            checkLoadState();
-        }
-    }
-
     var advCSV = csvToArray(advText);
     var advCSVLength = advCSV.length;
     advancementArray = {};
@@ -557,6 +549,24 @@ function riftstalkerChange() {
 function fortRoxParamCheck() {
     updateInputFromParameter("ballistaLevel", genericOnChange);
     updateInputFromParameter("canonLevel", genericOnChange);
+}
+
+function getRankKey () {
+    return "rank-" + user;
+}
+
+function rankParamCheck() {
+    var key = getRankKey();
+    rank = getURLParameter("rank") || localStorage.getItem(key) || "";
+    document.getElementById("rank").value = rank;
+    genericOnChange();
+}
+
+function rankChange() {
+    var key = getRankKey();
+    rank = document.getElementById("rank").value;
+    localStorage.setItem(key, rank);
+    genericOnChange();
 }
 
 function checkToxicWidget(custom) {
