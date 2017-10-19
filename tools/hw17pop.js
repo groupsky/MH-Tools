@@ -38,18 +38,35 @@ console.log('Location,Phase,Cheese,Charm,Attraction Rate,Mouse,Sample Size')
 Promise.all(_.map(locations, function (name, id) {
   var loc = {}
   loc[ id ] = { exclude: false }
-  return print(htpop({
-    Location: loc,
-    // Ghastly Galleon Gouda
-    Cheese: { 156: { exclude: false } },
-  }, {
-    retry: true,
-    location: name,
-    cheese: 'Ghastly Galleon Gouda',
-  }).then(function (data) {
-    console.error(name, ':', data.length && data[ 0 ].sample || 0)
-    return data
-  }))
+  return Promise.all([
+    print(htpop({
+      Location: loc,
+      // Ghastly Galleon Gouda
+      Cheese: { 156: { exclude: false } },
+      Charm: { 76: { exclude: true }, 164: { exclude: true } },
+    }, {
+      retry: true,
+      location: name,
+      cheese: 'Ghastly Galleon Gouda',
+    }).then(function (data) {
+      console.error(name, ':', data.length && data[ 0 ].sample || 0)
+      return data
+    })),
+    print(htpop({
+      Location: loc,
+      // Ghastly Galleon Gouda
+      Cheese: { 156: { exclude: false } },
+      Charm: { 76: { exclude: false }, 164: { exclude: false } },
+    }, {
+      retry: true,
+      location: name,
+      cheese: 'Ghastly Galleon Gouda',
+      charm: 'Spooky',
+    }).then(function (data) {
+      console.error(name, '(Spooky) :', data.length && data[ 0 ].sample || 0)
+      return data
+    })),
+  ])
 })).finally(function () {
   console.error('Total hunts', total)
 })
