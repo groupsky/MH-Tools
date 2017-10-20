@@ -981,34 +981,34 @@
             },
             "Ghastly Galleon Gouda": {
                 "Spooky": {
-                    "Tricky Witch": 16.67,
-                    "Spirit Light": 13.19,
-                    "Zombot Unipire": 9.03,
-                    "Cobweb": 9.03,
-                    "Grey Recluse": 8.33,
-                    "Hollowhead": 8.33,
-                    "Spectral Swashbuckler": 8.33,
-                    "Candy Cat": 7.64,
-                    "Treat": 6.94,
-                    "Teenage Vampire": 6.25,
-                    "Trick": 4.17,
-                    "Grave Robber": 1.39,
-                    "Gourdborg": 0.69
+                    "Tricky Witch": 16.35,
+                    "Spirit Light": 12.58,
+                    "Cobweb": 9.43,
+                    "Hollowhead": 9.43,
+                    "Candy Cat": 8.81,
+                    "Zombot Unipire": 8.81,
+                    "Spectral Swashbuckler": 8.18,
+                    "Grey Recluse": 7.55,
+                    "Treat": 6.29,
+                    "Teenage Vampire": 5.66,
+                    "Trick": 5.03,
+                    "Grave Robber": 1.26,
+                    "Gourdborg": 0.63
                 },
                 "-": {
-                    "Spirit Light": 11.44,
-                    "Cobweb": 10.89,
-                    "Spectral Swashbuckler": 10.02,
-                    "Teenage Vampire": 9.91,
-                    "Candy Cat": 9.8,
-                    "Hollowhead": 9.48,
-                    "Tricky Witch": 9.26,
-                    "Zombot Unipire": 8.28,
-                    "Trick": 6.21,
-                    "Treat": 5.88,
-                    "Grey Recluse": 5.77,
-                    "Gourdborg": 1.96,
-                    "Grave Robber": 1.09
+                    "Cobweb": 11.11,
+                    "Hollowhead": 10.87,
+                    "Spirit Light": 10.71,
+                    "Candy Cat": 10.3,
+                    "Teenage Vampire": 10.3,
+                    "Spectral Swashbuckler": 9.57,
+                    "Tricky Witch": 9,
+                    "Zombot Unipire": 8.68,
+                    "Trick": 5.76,
+                    "Treat": 5.52,
+                    "Grey Recluse": 4.95,
+                    "Gourdborg": 2.19,
+                    "Grave Robber": 1.05
                 }
             }
         }
@@ -1911,54 +1911,54 @@
         },
         "-": {
             "Ghastly Galleon Gouda": {
-                "-": {
-                    "Wild Chainsaw": 7.33,
-                    "Pumpkin Hoarder": 6.89,
-                    "Scorned Pirate": 6.44,
-                    "Candy Goblin": 6.44,
-                    "Grey Recluse": 6,
-                    "Hollowed": 6,
-                    "Spectral Swashbuckler": 5.56,
-                    "Spectral Butler": 5.11,
-                    "Gourd Ghoul": 4.89,
-                    "Candy Cat": 4.89,
-                    "Sugar Rush": 4.67,
-                    "Hollowed Minion": 4.67,
-                    "Shortcut": 4.22,
-                    "Dire Lycan": 3.78,
-                    "Maize Harvester": 3.78,
-                    "Tricky Witch": 3.33,
-                    "Trick": 3.11,
-                    "Grave Robber": 2.89,
-                    "Treat": 2.67,
-                    "Swamp Thang": 2.44,
-                    "Bonbon Gummy Globlin": 1.78,
-                    "Gourdborg": 1.56,
-                    "Titanic Brain-Taker": 1.56
-                },
                 "Spooky": {
-                    "Grey Recluse": 10.13,
-                    "Spectral Swashbuckler": 10.13,
-                    "Dire Lycan": 8.86,
-                    "Gourd Ghoul": 7.59,
-                    "Pumpkin Hoarder": 7.59,
-                    "Candy Goblin": 6.33,
-                    "Swamp Thang": 5.06,
-                    "Gourdborg": 5.06,
-                    "Scorned Pirate": 3.8,
-                    "Treat": 3.8,
-                    "Shortcut": 3.8,
-                    "Spectral Butler": 3.8,
-                    "Grave Robber": 3.8,
-                    "Sugar Rush": 3.8,
-                    "Maize Harvester": 3.8,
-                    "Hollowed": 2.53,
-                    "Wild Chainsaw": 2.53,
-                    "Titanic Brain-Taker": 2.53,
-                    "Hollowed Minion": 1.27,
-                    "Trick": 1.27,
-                    "Tricky Witch": 1.27,
-                    "Candy Cat": 1.27
+                    "Spectral Swashbuckler": 9.64,
+                    "Grey Recluse": 9.64,
+                    "Gourd Ghoul": 8.43,
+                    "Dire Lycan": 8.43,
+                    "Pumpkin Hoarder": 8.43,
+                    "Candy Goblin": 6.02,
+                    "Scorned Pirate": 4.82,
+                    "Swamp Thang": 4.82,
+                    "Gourdborg": 4.82,
+                    "Spectral Butler": 4.82,
+                    "Shortcut": 3.61,
+                    "Treat": 3.61,
+                    "Grave Robber": 3.61,
+                    "Sugar Rush": 3.61,
+                    "Maize Harvester": 3.61,
+                    "Hollowed": 2.41,
+                    "Wild Chainsaw": 2.41,
+                    "Titanic Brain-Taker": 2.41,
+                    "Hollowed Minion": 1.2,
+                    "Trick": 1.2,
+                    "Tricky Witch": 1.2,
+                    "Candy Cat": 1.2
+                },
+                "-": {
+                    "Wild Chainsaw": 7.47,
+                    "Pumpkin Hoarder": 6.58,
+                    "Scorned Pirate": 6.58,
+                    "Spectral Swashbuckler": 6.23,
+                    "Hollowed": 6.05,
+                    "Gourd Ghoul": 5.69,
+                    "Candy Goblin": 5.52,
+                    "Sugar Rush": 5.34,
+                    "Spectral Butler": 5.34,
+                    "Grey Recluse": 5.16,
+                    "Hollowed Minion": 4.8,
+                    "Candy Cat": 4.45,
+                    "Dire Lycan": 4.45,
+                    "Maize Harvester": 3.74,
+                    "Shortcut": 3.38,
+                    "Tricky Witch": 3.38,
+                    "Grave Robber": 3.02,
+                    "Treat": 2.85,
+                    "Trick": 2.85,
+                    "Swamp Thang": 1.96,
+                    "Bonbon Gummy Globlin": 1.96,
+                    "Gourdborg": 1.78,
+                    "Titanic Brain-Taker": 1.42
                 }
             }
         }
@@ -2300,66 +2300,62 @@
             },
             "Ghastly Galleon Gouda": {
                 "Spooky": {
-                    "Scorned Pirate": 10.15,
-                    "Spectral Swashbuckler": 8.94,
-                    "Creepy Marionette": 7.42,
-                    "Ghost Pirate Queen": 7.12,
-                    "Gourd Ghoul": 6.36,
-                    "Maize Harvester": 6.36,
-                    "Grey Recluse": 5.45,
-                    "Dire Lycan": 4.7,
-                    "Wild Chainsaw": 4.7,
-                    "Hollowed Minion": 4.55,
-                    "Sugar Rush": 3.94,
-                    "Spectral Butler": 3.79,
-                    "Shortcut": 3.48,
-                    "Mousataur Priestess": 2.73,
-                    "Sandmouse": 2.58,
-                    "Hollowed": 2.12,
-                    "Mousevina von Vermin": 1.82,
-                    "Trick": 1.82,
-                    "Gourdborg": 1.67,
-                    "Bonbon Gummy Globlin": 1.52,
-                    "Grave Robber": 1.52,
-                    "Swamp Thang": 1.52,
-                    "Treat": 1.52,
-                    "Titanic Brain-Taker": 1.36,
-                    "Candy Cat": 1.21,
-                    "Cobweb": 1.21,
-                    "Tricky Witch": 0.45
+                    "Scorned Pirate": 9.48,
+                    "Spectral Swashbuckler": 8.87,
+                    "Creepy Marionette": 7.39,
+                    "Ghost Pirate Queen": 7.27,
+                    "Gourd Ghoul": 6.4,
+                    "Maize Harvester": 6.4,
+                    "Grey Recluse": 5.3,
+                    "Hollowed Minion": 5.05,
+                    "Wild Chainsaw": 4.8,
+                    "Dire Lycan": 4.31,
+                    "Spectral Butler": 3.82,
+                    "Shortcut": 3.45,
+                    "Sugar Rush": 3.45,
+                    "Mousataur Priestess": 3.08,
+                    "Sandmouse": 2.83,
+                    "Hollowed": 1.97,
+                    "Gourdborg": 1.85,
+                    "Mousevina von Vermin": 1.72,
+                    "Trick": 1.72,
+                    "Swamp Thang": 1.6,
+                    "Treat": 1.6,
+                    "Bonbon Gummy Globlin": 1.48,
+                    "Grave Robber": 1.48,
+                    "Titanic Brain-Taker": 1.35,
+                    "Cobweb": 1.35,
+                    "Candy Cat": 1.23,
+                    "Tricky Witch": 0.74
                 },
                 "-": {
-                    "Ghost Pirate Queen": 10.28,
-                    "Scorned Pirate": 9.11,
-                    "Spectral Swashbuckler": 8.48,
-                    "Creepy Marionette": 8.41,
-                    "Gourd Ghoul": 5.72,
-                    "Dire Lycan": 5.03,
-                    "Shortcut": 4.89,
-                    "Spectral Butler": 4.4,
+                    "Ghost Pirate Queen": 9.93,
+                    "Scorned Pirate": 8.66,
+                    "Spectral Swashbuckler": 8.49,
+                    "Creepy Marionette": 8.35,
+                    "Gourd Ghoul": 5.6,
+                    "Dire Lycan": 4.85,
+                    "Shortcut": 4.82,
+                    "Sugar Rush": 4.57,
+                    "Spectral Butler": 4.42,
                     "Wild Chainsaw": 4.38,
-                    "Sugar Rush": 4.33,
-                    "Maize Harvester": 4.15,
-                    "Hollowed Minion": 4.08,
-                    "Grey Recluse": 3.94,
-                    "Hollowed": 2.24,
-                    "Mousataur Priestess": 2.17,
-                    "Sandmouse": 2.14,
-                    "Trick": 2.05,
-                    "Gourdborg": 1.82,
-                    "Titanic Brain-Taker": 1.78,
-                    "Mousevina von Vermin": 1.71,
-                    "Bonbon Gummy Globlin": 1.66,
-                    "Cobweb": 1.64,
-                    "Treat": 1.52,
-                    "Swamp Thang": 1.43,
-                    "Candy Cat": 0.88,
-                    "Grave Robber": 0.83,
-                    "Tricky Witch": 0.83,
-                    "Dirt Thing": 0.05,
-                    "Captain Cannonball": 0.02,
-                    "Quillback": 0.02,
-                    "Splintered Stone Sentry": 0.02
+                    "Maize Harvester": 4.33,
+                    "Hollowed Minion": 4.23,
+                    "Grey Recluse": 4.12,
+                    "Sandmouse": 2.17,
+                    "Mousataur Priestess": 2.15,
+                    "Trick": 2.1,
+                    "Hollowed": 2.06,
+                    "Mousevina von Vermin": 2.03,
+                    "Titanic Brain-Taker": 1.91,
+                    "Bonbon Gummy Globlin": 1.78,
+                    "Gourdborg": 1.68,
+                    "Cobweb": 1.68,
+                    "Treat": 1.51,
+                    "Swamp Thang": 1.51,
+                    "Candy Cat": 0.92,
+                    "Grave Robber": 0.9,
+                    "Tricky Witch": 0.76
                 }
             }
         }
@@ -2544,65 +2540,60 @@
             },
             "Ghastly Galleon Gouda": {
                 "Spooky": {
-                    "Spectral Swashbuckler": 11.11,
-                    "Creepy Marionette": 9.88,
-                    "Ghost Pirate Queen": 9.67,
-                    "Scorned Pirate": 8.85,
-                    "Grey Recluse": 5.97,
-                    "Hollowed Minion": 5.76,
-                    "Hollowed": 5.35,
-                    "Shortcut": 5.14,
-                    "Dire Lycan": 3.91,
-                    "Wild Chainsaw": 3.91,
-                    "Gourd Ghoul": 3.7,
-                    "Spectral Butler": 3.09,
-                    "Sugar Rush": 3.09,
-                    "Maize Harvester": 2.88,
-                    "Mousevina von Vermin": 2.88,
-                    "Swamp Thang": 2.06,
-                    "Trick": 1.65,
-                    "Bonbon Gummy Globlin": 1.65,
-                    "Mousataur Priestess": 1.44,
-                    "Candy Cat": 1.44,
-                    "Gourdborg": 1.23,
-                    "Titanic Brain-Taker": 1.03,
-                    "Treat": 1.03,
-                    "Tomb Exhumer": 0.82,
-                    "Tricky Witch": 0.82,
-                    "Sandmouse": 0.82,
-                    "Greyrun": 0.41,
-                    "Excitable Electric": 0.21,
-                    "Captain Cannonball": 0.21
+                    "Spectral Swashbuckler": 11.25,
+                    "Ghost Pirate Queen": 10.19,
+                    "Scorned Pirate": 9.67,
+                    "Creepy Marionette": 9.14,
+                    "Grey Recluse": 6.33,
+                    "Hollowed Minion": 5.98,
+                    "Hollowed": 5.27,
+                    "Shortcut": 4.75,
+                    "Gourd Ghoul": 3.87,
+                    "Wild Chainsaw": 3.87,
+                    "Spectral Butler": 3.69,
+                    "Dire Lycan": 3.69,
+                    "Maize Harvester": 3.16,
+                    "Sugar Rush": 2.99,
+                    "Mousevina von Vermin": 2.64,
+                    "Swamp Thang": 1.76,
+                    "Trick": 1.58,
+                    "Bonbon Gummy Globlin": 1.41,
+                    "Candy Cat": 1.41,
+                    "Mousataur Priestess": 1.41,
+                    "Gourdborg": 1.05,
+                    "Sandmouse": 0.88,
+                    "Titanic Brain-Taker": 0.88,
+                    "Tomb Exhumer": 0.88,
+                    "Treat": 0.88,
+                    "Tricky Witch": 0.7
                 },
                 "-": {
-                    "Scorned Pirate": 9.35,
-                    "Spectral Swashbuckler": 9.25,
-                    "Ghost Pirate Queen": 8.65,
-                    "Creepy Marionette": 8.55,
-                    "Hollowed": 6.25,
-                    "Hollowed Minion": 6.19,
-                    "Gourd Ghoul": 5.09,
-                    "Spectral Butler": 4.88,
-                    "Grey Recluse": 4.18,
-                    "Wild Chainsaw": 3.9,
-                    "Maize Harvester": 3.66,
-                    "Shortcut": 3.52,
-                    "Sugar Rush": 3.44,
-                    "Dire Lycan": 2.88,
-                    "Sandmouse": 2.28,
-                    "Swamp Thang": 2.24,
-                    "Mousataur Priestess": 1.92,
-                    "Candy Cat": 1.88,
-                    "Bonbon Gummy Globlin": 1.72,
-                    "Mousevina von Vermin": 1.7,
-                    "Trick": 1.66,
-                    "Gourdborg": 1.64,
-                    "Titanic Brain-Taker": 1.64,
-                    "Treat": 1.62,
-                    "Tomb Exhumer": 1.1,
-                    "Tricky Witch": 0.8,
-                    "Goliath Field": 0.02,
-                    "Excitable Electric": 0.02
+                    "Spectral Swashbuckler": 9.41,
+                    "Scorned Pirate": 9.27,
+                    "Ghost Pirate Queen": 8.94,
+                    "Creepy Marionette": 8.92,
+                    "Hollowed": 6.12,
+                    "Hollowed Minion": 6.04,
+                    "Gourd Ghoul": 5.06,
+                    "Spectral Butler": 4.71,
+                    "Grey Recluse": 4.21,
+                    "Maize Harvester": 3.78,
+                    "Wild Chainsaw": 3.75,
+                    "Sugar Rush": 3.43,
+                    "Shortcut": 3.34,
+                    "Dire Lycan": 2.78,
+                    "Sandmouse": 2.34,
+                    "Swamp Thang": 2.15,
+                    "Bonbon Gummy Globlin": 1.85,
+                    "Candy Cat": 1.8,
+                    "Mousataur Priestess": 1.79,
+                    "Mousevina von Vermin": 1.72,
+                    "Treat": 1.69,
+                    "Trick": 1.68,
+                    "Titanic Brain-Taker": 1.65,
+                    "Gourdborg": 1.61,
+                    "Tomb Exhumer": 1.11,
+                    "Tricky Witch": 0.81
                 }
             }
         }
@@ -4882,32 +4873,32 @@
             },
             "Ghastly Galleon Gouda": {
                 "Spooky": {
-                    "Cobweb": 20.69,
-                    "Candy Cat": 13.79,
-                    "Tricky Witch": 13.79,
-                    "Treat": 13.79,
-                    "Spirit Light": 10.34,
-                    "Teenage Vampire": 6.9,
-                    "Trick": 6.9,
-                    "Spectral Swashbuckler": 3.45,
-                    "Hollowhead": 3.45,
-                    "Grey Recluse": 3.45,
-                    "Zombot Unipire": 3.45
+                    "Cobweb": 21.05,
+                    "Spirit Light": 13.16,
+                    "Candy Cat": 13.16,
+                    "Hollowhead": 10.53,
+                    "Treat": 10.53,
+                    "Tricky Witch": 10.53,
+                    "Spectral Swashbuckler": 5.26,
+                    "Teenage Vampire": 5.26,
+                    "Trick": 5.26,
+                    "Grey Recluse": 2.63,
+                    "Zombot Unipire": 2.63
                 },
                 "-": {
-                    "Cobweb": 11.38,
-                    "Candy Cat": 10.94,
-                    "Hollowhead": 10.04,
-                    "Teenage Vampire": 9.82,
-                    "Tricky Witch": 9.6,
-                    "Zombot Unipire": 9.6,
-                    "Spirit Light": 9.38,
-                    "Spectral Swashbuckler": 8.71,
-                    "Trick": 8.26,
-                    "Treat": 5.13,
-                    "Grey Recluse": 4.02,
-                    "Gourdborg": 2.46,
-                    "Grave Robber": 0.67
+                    "Cobweb": 11.37,
+                    "Candy Cat": 11.19,
+                    "Hollowhead": 10.29,
+                    "Tricky Witch": 9.39,
+                    "Teenage Vampire": 9.39,
+                    "Zombot Unipire": 9.21,
+                    "Spirit Light": 9.21,
+                    "Spectral Swashbuckler": 9.21,
+                    "Trick": 8.12,
+                    "Treat": 5.23,
+                    "Grey Recluse": 4.51,
+                    "Gourdborg": 2.35,
+                    "Grave Robber": 0.54
                 }
             }
         }
@@ -5088,54 +5079,54 @@
             },
             "Ghastly Galleon Gouda": {
                 "Spooky": {
-                    "Shortcut": 11.11,
-                    "Gourd Ghoul": 8.64,
-                    "Candy Cat": 8.64,
-                    "Maize Harvester": 7.41,
-                    "Wild Chainsaw": 6.17,
-                    "Treat": 6.17,
-                    "Dire Lycan": 6.17,
-                    "Hollowed": 6.17,
-                    "Pumpkin Hoarder": 4.94,
-                    "Sugar Rush": 4.94,
-                    "Hollowed Minion": 3.7,
-                    "Scorned Pirate": 3.7,
-                    "Spectral Swashbuckler": 3.7,
-                    "Grey Recluse": 3.7,
+                    "Candy Cat": 10.19,
+                    "Pumpkin Hoarder": 8.33,
+                    "Shortcut": 8.33,
+                    "Treat": 7.41,
+                    "Gourd Ghoul": 7.41,
+                    "Maize Harvester": 6.48,
+                    "Wild Chainsaw": 5.56,
+                    "Scorned Pirate": 5.56,
+                    "Spectral Swashbuckler": 4.63,
+                    "Hollowed": 4.63,
+                    "Dire Lycan": 4.63,
+                    "Sugar Rush": 3.7,
                     "Tricky Witch": 3.7,
-                    "Spectral Butler": 2.47,
-                    "Candy Goblin": 2.47,
-                    "Swamp Thang": 1.23,
-                    "Grave Robber": 1.23,
-                    "Trick": 1.23,
-                    "Bonbon Gummy Globlin": 1.23,
-                    "Gourdborg": 1.23
+                    "Grey Recluse": 2.78,
+                    "Spectral Butler": 2.78,
+                    "Hollowed Minion": 2.78,
+                    "Candy Goblin": 2.78,
+                    "Grave Robber": 1.85,
+                    "Titanic Brain-Taker": 1.85,
+                    "Trick": 1.85,
+                    "Bonbon Gummy Globlin": 0.93,
+                    "Gourdborg": 0.93,
+                    "Swamp Thang": 0.93
                 },
                 "-": {
-                    "Scorned Pirate": 7.5,
-                    "Gourd Ghoul": 6.76,
-                    "Spectral Swashbuckler": 6.67,
-                    "Hollowed Minion": 5.83,
-                    "Grey Recluse": 5.83,
-                    "Wild Chainsaw": 5.56,
-                    "Dire Lycan": 5.19,
-                    "Maize Harvester": 5.09,
-                    "Candy Cat": 5,
-                    "Shortcut": 4.91,
-                    "Hollowed": 4.91,
-                    "Sugar Rush": 4.63,
-                    "Spectral Butler": 4.35,
-                    "Pumpkin Hoarder": 4.35,
-                    "Candy Goblin": 3.7,
-                    "Trick": 3.43,
-                    "Treat": 3.33,
-                    "Tricky Witch": 2.59,
-                    "Gourdborg": 2.41,
-                    "Swamp Thang": 2.41,
-                    "Titanic Brain-Taker": 1.94,
-                    "Bonbon Gummy Globlin": 1.85,
-                    "Grave Robber": 1.67,
-                    "Limestone Miner": 0.09
+                    "Scorned Pirate": 7.36,
+                    "Spectral Swashbuckler": 7.14,
+                    "Wild Chainsaw": 6.36,
+                    "Gourd Ghoul": 6.29,
+                    "Grey Recluse": 5.59,
+                    "Hollowed Minion": 5.52,
+                    "Dire Lycan": 5.23,
+                    "Pumpkin Hoarder": 5.16,
+                    "Hollowed": 4.95,
+                    "Shortcut": 4.88,
+                    "Spectral Butler": 4.6,
+                    "Candy Cat": 4.53,
+                    "Maize Harvester": 4.46,
+                    "Sugar Rush": 4.31,
+                    "Candy Goblin": 4.17,
+                    "Trick": 3.47,
+                    "Treat": 3.11,
+                    "Tricky Witch": 2.69,
+                    "Swamp Thang": 2.19,
+                    "Gourdborg": 2.12,
+                    "Titanic Brain-Taker": 1.98,
+                    "Bonbon Gummy Globlin": 1.98,
+                    "Grave Robber": 1.84
                 }
             }
         }
@@ -5606,20 +5597,20 @@
                     "Teenage Vampire": 1.82
                 },
                 "-": {
-                    "Hollowhead": 12.95,
-                    "Candy Cat": 12.44,
-                    "Cobweb": 10.88,
-                    "Teenage Vampire": 10.36,
-                    "Spirit Light": 9.33,
-                    "Zombot Unipire": 9.33,
-                    "Tricky Witch": 7.77,
-                    "Spectral Swashbuckler": 7.77,
-                    "Treat": 6.22,
-                    "Trick": 5.18,
-                    "Grey Recluse": 4.15,
-                    "Gourdborg": 2.59,
-                    "Captain Cannonball": 0.52,
-                    "Grave Robber": 0.52
+                    "Cobweb": 13.1,
+                    "Candy Cat": 11.82,
+                    "Hollowhead": 11.5,
+                    "Teenage Vampire": 10.22,
+                    "Spirit Light": 9.9,
+                    "Treat": 8.31,
+                    "Tricky Witch": 7.99,
+                    "Spectral Swashbuckler": 7.67,
+                    "Zombot Unipire": 7.03,
+                    "Trick": 5.11,
+                    "Grey Recluse": 4.47,
+                    "Gourdborg": 2.24,
+                    "Captain Cannonball": 0.32,
+                    "Grave Robber": 0.32
                 }
             }
         }
@@ -6266,54 +6257,51 @@
         "-": {
             "Ghastly Galleon Gouda": {
                 "Spooky": {
-                    "Wild Chainsaw": 10.17,
-                    "Scorned Pirate": 6.78,
-                    "Trick": 6.78,
-                    "Gourd Ghoul": 6.78,
-                    "Treat": 6.78,
-                    "Shortcut": 6.78,
-                    "Grey Recluse": 6.78,
-                    "Candy Cat": 5.08,
-                    "Pumpkin Hoarder": 5.08,
-                    "Grave Robber": 5.08,
-                    "Spectral Butler": 5.08,
-                    "Dire Lycan": 5.08,
-                    "Gourdborg": 5.08,
-                    "Maize Harvester": 3.39,
-                    "Hollowed": 3.39,
-                    "Candy Goblin": 3.39,
-                    "Titanic Brain-Taker": 3.39,
-                    "Swamp Thang": 1.69,
-                    "Sugar Rush": 1.69,
-                    "Spectral Swashbuckler": 1.69
+                    "Wild Chainsaw": 9.52,
+                    "Scorned Pirate": 7.94,
+                    "Shortcut": 6.35,
+                    "Dire Lycan": 6.35,
+                    "Trick": 6.35,
+                    "Treat": 6.35,
+                    "Grey Recluse": 6.35,
+                    "Gourd Ghoul": 6.35,
+                    "Maize Harvester": 4.76,
+                    "Candy Cat": 4.76,
+                    "Gourdborg": 4.76,
+                    "Grave Robber": 4.76,
+                    "Spectral Butler": 4.76,
+                    "Pumpkin Hoarder": 4.76,
+                    "Spectral Swashbuckler": 3.17,
+                    "Titanic Brain-Taker": 3.17,
+                    "Hollowed": 3.17,
+                    "Candy Goblin": 3.17,
+                    "Swamp Thang": 1.59,
+                    "Sugar Rush": 1.59
                 },
                 "-": {
-                    "Gourd Ghoul": 7.09,
-                    "Wild Chainsaw": 6.73,
-                    "Spectral Swashbuckler": 6.65,
-                    "Dire Lycan": 5.85,
-                    "Scorned Pirate": 5.7,
-                    "Sugar Rush": 5.34,
-                    "Shortcut": 5.34,
-                    "Hollowed Minion": 5.34,
-                    "Hollowed": 5.26,
-                    "Spectral Butler": 5.19,
-                    "Pumpkin Hoarder": 5.19,
-                    "Candy Goblin": 4.97,
-                    "Grey Recluse": 4.9,
-                    "Maize Harvester": 4.75,
-                    "Treat": 3.65,
-                    "Candy Cat": 3.29,
-                    "Swamp Thang": 2.41,
-                    "Trick": 2.34,
-                    "Tricky Witch": 2.27,
-                    "Titanic Brain-Taker": 2.12,
-                    "Grave Robber": 2.12,
-                    "Gourdborg": 1.75,
-                    "Bonbon Gummy Globlin": 1.54,
-                    "Angelfish": 0.07,
-                    "Carnivore": 0.07,
-                    "Pearl": 0.07
+                    "Gourd Ghoul": 6.99,
+                    "Spectral Swashbuckler": 6.71,
+                    "Wild Chainsaw": 6.43,
+                    "Scorned Pirate": 6.2,
+                    "Dire Lycan": 5.81,
+                    "Shortcut": 5.41,
+                    "Hollowed": 5.3,
+                    "Hollowed Minion": 5.24,
+                    "Spectral Butler": 5.07,
+                    "Grey Recluse": 5.02,
+                    "Candy Goblin": 4.96,
+                    "Sugar Rush": 4.96,
+                    "Pumpkin Hoarder": 4.85,
+                    "Maize Harvester": 4.68,
+                    "Candy Cat": 3.55,
+                    "Treat": 3.21,
+                    "Trick": 2.59,
+                    "Swamp Thang": 2.54,
+                    "Tricky Witch": 2.48,
+                    "Titanic Brain-Taker": 2.25,
+                    "Grave Robber": 1.97,
+                    "Bonbon Gummy Globlin": 1.92,
+                    "Gourdborg": 1.69
                 }
             }
         }
@@ -6608,34 +6596,33 @@
             },
             "Ghastly Galleon Gouda": {
                 "Spooky": {
-                    "Teenage Vampire": 14.71,
-                    "Zombot Unipire": 13.24,
-                    "Candy Cat": 11.76,
-                    "Hollowhead": 10.29,
-                    "Cobweb": 10.29,
-                    "Grey Recluse": 8.82,
-                    "Tricky Witch": 8.82,
-                    "Spirit Light": 7.35,
-                    "Spectral Swashbuckler": 5.88,
-                    "Trick": 5.88,
-                    "Gourdborg": 1.47,
-                    "Treat": 1.47
+                    "Candy Cat": 12.94,
+                    "Zombot Unipire": 12.94,
+                    "Teenage Vampire": 11.76,
+                    "Tricky Witch": 11.76,
+                    "Hollowhead": 10.59,
+                    "Cobweb": 9.41,
+                    "Trick": 8.24,
+                    "Grey Recluse": 7.06,
+                    "Spectral Swashbuckler": 7.06,
+                    "Spirit Light": 5.88,
+                    "Gourdborg": 1.18,
+                    "Treat": 1.18
                 },
                 "-": {
-                    "Zombot Unipire": 11.77,
-                    "Candy Cat": 11.41,
-                    "Cobweb": 10.82,
-                    "Tricky Witch": 10.34,
-                    "Spectral Swashbuckler": 9.99,
-                    "Spirit Light": 9.27,
-                    "Hollowhead": 9.27,
-                    "Teenage Vampire": 8.56,
-                    "Trick": 6.54,
-                    "Treat": 5.35,
-                    "Grey Recluse": 3.69,
-                    "Gourdborg": 2.02,
-                    "Grave Robber": 0.83,
-                    "Grey": 0.12
+                    "Zombot Unipire": 11.4,
+                    "Candy Cat": 11.11,
+                    "Spectral Swashbuckler": 10.64,
+                    "Cobweb": 10.16,
+                    "Spirit Light": 10.07,
+                    "Hollowhead": 9.69,
+                    "Tricky Witch": 9.5,
+                    "Teenage Vampire": 8.64,
+                    "Trick": 6.27,
+                    "Treat": 5.7,
+                    "Grey Recluse": 3.89,
+                    "Gourdborg": 1.99,
+                    "Grave Robber": 0.85
                 }
             }
         }
@@ -8617,211 +8604,65 @@
         }
     },
     "Moussu Picchu": {
-        "Low/Low": {
-            "SB+": {
-                "-": {
-                    "Cloud Collector": 21.98,
-                    "Windy Farmer": 21.41,
-                    "Rainwater Purifier": 19.34,
-                    "Breeze Borrower": 17.67,
-                    "Nightshade Maiden": 9.09,
-                    "Nightshade Flower Girl": 7.24,
-                    "Spore Salesman": 3.21
-                }
-            },
-            "Brie": {
-                "-": {
-                    "Windy Farmer": 22.1,
-                    "Cloud Collector": 21.46,
-                    "Spore Salesman": 16.83,
-                    "Nightshade Flower Girl": 13.92,
-                    "Breeze Borrower": 13.32,
-                    "Rainwater Purifier": 12.37
-                }
-            },
-            "Glowing Gruyere": {
-                "-": {
-                    "Rainwater Purifier": 30.4,
-                    "Breeze Borrower": 28.38,
-                    "Cloud Collector": 16.06,
-                    "Windy Farmer": 15.62,
-                    "Homeopathic Apothecary": 9.48
-                }
-            },
-            "Gouda": {
-                "-": {
-                    "Windy Farmer": 22.19,
-                    "Cloud Collector": 21.83,
-                    "Spore Salesman": 15.77,
-                    "Nightshade Flower Girl": 14.91,
-                    "Rainwater Purifier": 12.69,
-                    "Breeze Borrower": 12.61
-                }
-            },
-            "Dragonvine": {
-                "-": {
-                    "Thunder Strike": 60,
-                    "Violet Stormchild": 40
-                }
-            }
-        },
-        "Rain Low": {
-            "Rainy": {
-                "-": {
-                    "Rain Wallower": 60,
-                    "Rain Collector": 40
-                }
-            }
-        },
-        "Rain Medium": {
-            "Rainy": {
-                "-": {
-                    "Rain Summoner": 58,
-                    "Monsoon Maker": 42
-                }
-            }
-        },
-        "Rain High": {
-            "Rainy": {
-                "-": {
-                    "Monsoon Maker": 60,
-                    "Rainmancer": 40
-                }
-            }
-        },
-        "Rain Max": {
-            "Rainy": {
-                "-": {
-                    "Rainmancer": 100
-                }
-            }
-        },
-        "Wind Low": {
-            "Windy": {
-                "-": {
-                    "Wind Watcher": 60,
-                    "Charming Chimer": 40
-                }
-            }
-        },
-        "Wind Medium": {
-            "Windy": {
-                "-": {
-                    "Fluttering Flutist": 58,
-                    "Cycloness": 42
-                }
-            }
-        },
-        "Wind High": {
-            "Windy": {
-                "-": {
-                    "Cycloness": 60,
-                    "Wind Warrior": 40
-                }
-            }
-        },
-        "Wind Max": {
-            "Windy": {
-                "-": {
-                    "Wind Warrior": 100
-                }
-            }
-        },
-        "Medium/Medium": {
-            "Dragonvine": {
-                "-": {
-                    "Thunderlord": 58,
-                    "Thundering Watcher": 42
-                }
-            }
-        },
-        "High/High": {
-            "Dragonvine": {
-                "-": {
-                    "Thundering Watcher": 60,
-                    "Ful'Mina": 35,
-                    "Dragon": 5
-                }
-            }
-        },
-        "Max/Max": {
-            "Dragonvine": {
-                "-": {
-                    "Ful'Mina": 100
-                }
-            }
-        },
         "-": {
             "Ghastly Galleon Gouda": {
                 "Spooky": {
-                    "Creepy Marionette": 13.29,
-                    "Spectral Swashbuckler": 9.97,
-                    "Scorned Pirate": 8.76,
-                    "Ghost Pirate Queen": 7.55,
-                    "Maize Harvester": 5.44,
-                    "Wild Chainsaw": 5.14,
-                    "Shortcut": 4.53,
-                    "Gourd Ghoul": 4.53,
-                    "Dire Lycan": 4.23,
-                    "Hollowed": 4.23,
-                    "Spectral Butler": 3.93,
-                    "Mousevina von Vermin": 3.32,
-                    "Grey Recluse": 3.32,
-                    "Hollowed Minion": 3.02,
-                    "Titanic Brain-Taker": 2.72,
-                    "Mousataur Priestess": 2.42,
-                    "Gourdborg": 2.11,
-                    "Sugar Rush": 2.11,
-                    "Candy Cat": 1.81,
-                    "Swamp Thang": 1.81,
-                    "Sandmouse": 1.21,
-                    "Teenage Vampire": 0.91,
-                    "Tomb Exhumer": 0.91,
-                    "Trick": 0.91,
-                    "Bonbon Gummy Globlin": 0.91,
-                    "Treat": 0.6,
-                    "Tricky Witch": 0.3
+                    "Creepy Marionette": 13.64,
+                    "Spectral Swashbuckler": 9.89,
+                    "Scorned Pirate": 9.36,
+                    "Ghost Pirate Queen": 7.75,
+                    "Maize Harvester": 5.61,
+                    "Spectral Butler": 4.55,
+                    "Wild Chainsaw": 4.55,
+                    "Hollowed": 4.28,
+                    "Dire Lycan": 4.28,
+                    "Gourd Ghoul": 4.28,
+                    "Shortcut": 4.01,
+                    "Hollowed Minion": 3.21,
+                    "Grey Recluse": 3.21,
+                    "Mousevina von Vermin": 2.94,
+                    "Titanic Brain-Taker": 2.41,
+                    "Gourdborg": 2.14,
+                    "Mousataur Priestess": 2.14,
+                    "Sugar Rush": 1.87,
+                    "Swamp Thang": 1.87,
+                    "Candy Cat": 1.87,
+                    "Trick": 1.34,
+                    "Bonbon Gummy Globlin": 1.07,
+                    "Teenage Vampire": 1.07,
+                    "Sandmouse": 1.07,
+                    "Tomb Exhumer": 0.8,
+                    "Treat": 0.53,
+                    "Tricky Witch": 0.27
                 },
                 "-": {
-                    "Scorned Pirate": 10.05,
-                    "Creepy Marionette": 8.67,
-                    "Ghost Pirate Queen": 8.64,
-                    "Spectral Swashbuckler": 8.47,
-                    "Spectral Butler": 5.22,
-                    "Hollowed": 5.1,
-                    "Grey Recluse": 5.08,
-                    "Dire Lycan": 4.88,
-                    "Maize Harvester": 4.69,
-                    "Gourd Ghoul": 4.44,
-                    "Hollowed Minion": 4.32,
-                    "Shortcut": 3.69,
-                    "Wild Chainsaw": 3.5,
-                    "Sugar Rush": 2.02,
-                    "Treat": 1.92,
+                    "Scorned Pirate": 9.57,
+                    "Creepy Marionette": 8.79,
+                    "Ghost Pirate Queen": 8.71,
+                    "Spectral Swashbuckler": 8.65,
+                    "Spectral Butler": 5.38,
+                    "Grey Recluse": 5,
+                    "Dire Lycan": 4.92,
+                    "Hollowed": 4.82,
+                    "Maize Harvester": 4.7,
+                    "Gourd Ghoul": 4.49,
+                    "Hollowed Minion": 4.37,
+                    "Shortcut": 3.75,
+                    "Wild Chainsaw": 3.43,
+                    "Sugar Rush": 2.09,
+                    "Sandmouse": 1.93,
                     "Gourdborg": 1.87,
                     "Bonbon Gummy Globlin": 1.85,
-                    "Sandmouse": 1.85,
-                    "Mousataur Priestess": 1.82,
-                    "Teenage Vampire": 1.77,
-                    "Mousevina von Vermin": 1.72,
-                    "Candy Cat": 1.72,
-                    "Swamp Thang": 1.68,
-                    "Trick": 1.63,
-                    "Titanic Brain-Taker": 1.48,
-                    "Tomb Exhumer": 0.95,
-                    "Tricky Witch": 0.83,
-                    "Captain Cannonball": 0.1,
-                    "Spore Salesman": 0.02,
-                    "Nightshade Flower Girl": 0.02
-                }
-            }
-        }
-    },
-    "Location": {
-        "Phase": {
-            "Cheese": {
-                "Charm": {
-                    "Mouse": "Attraction Rate"
+                    "Candy Cat": 1.79,
+                    "Swamp Thang": 1.79,
+                    "Mousevina von Vermin": 1.77,
+                    "Mousataur Priestess": 1.77,
+                    "Treat": 1.75,
+                    "Teenage Vampire": 1.73,
+                    "Trick": 1.59,
+                    "Titanic Brain-Taker": 1.56,
+                    "Tomb Exhumer": 0.88,
+                    "Tricky Witch": 0.82
                 }
             }
         }
