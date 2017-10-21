@@ -3614,7 +3614,7 @@ var miceArray = {
     "Thunder Strike": [10000, 60000],
     "Violet Stormchild": [10000, 70000],
     "Thunderlord": [15000, 90000],
-    "Thunder Watcher": [18000, 100000],
+    "Thundering Watcher": [18000, 100000],
     "Dragoon": [20000, 100000],
     "Ful'Mina": [30000, 120000],
 };
