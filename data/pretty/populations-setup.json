@@ -8471,6 +8471,149 @@
                     "Nightshade Flower Girl": 0.01
                 }
             }
+        },
+        "Low/Low": {
+            "SB+": {
+                "-": {
+                    "Cloud Collector": 21.98,
+                    "Windy Farmer": 21.41,
+                    "Rainwater Purifier": 19.34,
+                    "Breeze Borrower": 17.67,
+                    "Nightshade Maiden": 9.09,
+                    "Nightshade Flower Girl": 7.24,
+                    "Spore Salesman": 3.21
+                }
+            },
+            "Brie": {
+                "-": {
+                    "Windy Farmer": 22.1,
+                    "Cloud Collector": 21.46,
+                    "Spore Salesman": 16.83,
+                    "Nightshade Flower Girl": 13.92,
+                    "Breeze Borrower": 13.32,
+                    "Rainwater Purifier": 12.37
+                }
+            },
+            "Glowing Gruyere": {
+                "-": {
+                    "Rainwater Purifier": 30.4,
+                    "Breeze Borrower": 28.38,
+                    "Cloud Collector": 16.06,
+                    "Windy Farmer": 15.62,
+                    "Homeopathic Apothecary": 9.48
+                }
+            },
+            "Gouda": {
+                "-": {
+                    "Windy Farmer": 22.19,
+                    "Cloud Collector": 21.83,
+                    "Spore Salesman": 15.77,
+                    "Nightshade Flower Girl": 14.91,
+                    "Rainwater Purifier": 12.69,
+                    "Breeze Borrower": 12.61
+                }
+            },
+            "Dragonvine": {
+                "-": {
+                    "Thunder Strike": 60,
+                    "Violet Stormchild": 40
+                }
+            }
+        },
+        "Rain Low": {
+            "Rainy": {
+                "-": {
+                    "Rain Wallower": 60,
+                    "Rain Collector": 40
+                }
+            }
+        },
+        "Rain Medium": {
+            "Rainy": {
+                "-": {
+                    "Rain Summoner": 58,
+                    "Monsoon Maker": 42
+                }
+            }
+        },
+        "Rain High": {
+            "Rainy": {
+                "-": {
+                    "Monsoon Maker": 60,
+                    "Rainmancer": 40
+                }
+            }
+        },
+        "Rain Max": {
+            "Rainy": {
+                "-": {
+                    "Rainmancer": 100
+                }
+            }
+        },
+        "Wind Low": {
+            "Windy": {
+                "-": {
+                    "Wind Watcher": 60,
+                    "Charming Chimer": 40
+                }
+            }
+        },
+        "Wind Medium": {
+            "Windy": {
+                "-": {
+                    "Fluttering Flutist": 58,
+                    "Cycloness": 42
+                }
+            }
+        },
+        "Wind High": {
+            "Windy": {
+                "-": {
+                    "Cycloness": 60,
+                    "Wind Warrior": 40
+                }
+            }
+        },
+        "Wind Max": {
+            "Windy": {
+                "-": {
+                    "Wind Warrior": 100
+                }
+            }
+        },
+        "Medium/Medium": {
+            "Dragonvine": {
+                "-": {
+                    "Thunderlord": 58,
+                    "Thundering Watcher": 42
+                }
+            }
+        },
+        "High/High": {
+            "Dragonvine": {
+                "-": {
+                    "Thundering Watcher": 60,
+                    "Ful'Mina": 35,
+                    "Dragoon": 5
+                }
+            }
+        },
+        "Max/Max": {
+            "Dragonvine": {
+                "-": {
+                    "Ful'Mina": 100
+                }
+            }
+        }
+    },
+    "Location": {
+        "Phase": {
+            "Cheese": {
+                "Charm": {
+                    "Mouse": "Attraction Rate"
+                }
+            }
         }
     }
 }
