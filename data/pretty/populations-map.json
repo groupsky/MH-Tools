@@ -3851,28 +3851,28 @@
         "Slushy Shoreline": {
             "-": {
                 "Ghastly Galleon Gouda": {
-                    "-": 11.37
+                    "-": 9.92
                 }
             }
         },
         "Mountain": {
             "-": {
                 "Ghastly Galleon Gouda": {
-                    "-": 8.15
+                    "-": 8.88
                 }
             }
         },
         "Dojo": {
             "-": {
                 "Ghastly Galleon Gouda": {
-                    "-": 8.66
+                    "-": 9.97
                 }
             }
         },
         "Town of Gnawnia": {
             "-": {
                 "Ghastly Galleon Gouda": {
-                    "-": 11.71
+                    "-": 11.48
                 }
             }
         }
@@ -3898,56 +3898,56 @@
         "Slushy Shoreline": {
             "-": {
                 "Ghastly Galleon Gouda": {
-                    "-": 0.24
+                    "-": 0.93
                 }
             }
         },
         "Mountain": {
             "-": {
                 "Ghastly Galleon Gouda": {
-                    "-": 0.62
+                    "-": 0.67
                 }
             }
         },
         "Fiery Warpath": {
             "-": {
                 "Ghastly Galleon Gouda": {
-                    "-": 2.93
-                }
-            }
-        },
-        "Dojo": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 1.07
+                    "-": 2.7
                 }
             }
         },
         "Sunken City": {
             "-": {
                 "Ghastly Galleon Gouda": {
-                    "-": 2.2
+                    "-": 2.15
+                }
+            }
+        },
+        "Dojo": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 0.96
                 }
             }
         },
         "Town of Gnawnia": {
             "-": {
                 "Ghastly Galleon Gouda": {
-                    "-": 0.85
+                    "-": 0.73
                 }
             }
         },
         "Muridae Market": {
             "-": {
                 "Ghastly Galleon Gouda": {
-                    "-": 1.91
+                    "-": 1.77
                 }
             }
         },
         "Fungal Cavern": {
             "-": {
                 "Ghastly Galleon Gouda": {
-                    "-": 0.99
+                    "-": 0.94
                 }
             }
         }
@@ -7754,7 +7754,7 @@
                     "-": 18.11
                 },
                 "Ghastly Galleon Gouda": {
-                    "-": 0.03
+                    "-": 0.02
                 }
             }
         }
@@ -8353,7 +8353,7 @@
                     "-": 18.42
                 },
                 "Ghastly Galleon Gouda": {
-                    "-": 0.03
+                    "-": 0.02
                 }
             }
         }
@@ -8410,7 +8410,7 @@
                     "-": 14.35
                 },
                 "Ghastly Galleon Gouda": {
-                    "-": 0.03
+                    "-": 0.02
                 }
             }
         }
@@ -8479,7 +8479,7 @@
                     "-": 100
                 },
                 "Ghastly Galleon Gouda": {
-                    "-": 0.04
+                    "-": 0.03
                 }
             }
         }
@@ -9680,7 +9680,7 @@
                     "-": 17.33
                 },
                 "Ghastly Galleon Gouda": {
-                    "-": 0.08
+                    "-": 0.07
                 }
             }
         },
@@ -14177,7 +14177,7 @@
                     "Artisan": 18.07
                 },
                 "Ghastly Galleon Gouda": {
-                    "-": 0.06
+                    "-": 0.05
                 }
             }
         }
@@ -16336,7 +16336,7 @@
             },
             "-": {
                 "Ghastly Galleon Gouda": {
-                    "-": 0.05
+                    "-": 0.04
                 }
             }
         }
@@ -16367,7 +16367,7 @@
             },
             "-": {
                 "Ghastly Galleon Gouda": {
-                    "-": 0.05
+                    "-": 0.04
                 }
             }
         }
@@ -16490,7 +16490,7 @@
             },
             "-": {
                 "Ghastly Galleon Gouda": {
-                    "-": 0.05
+                    "-": 0.04
                 }
             }
         }
@@ -20289,32 +20289,146 @@
             }
         }
     },
-    "Hollowhead": {
+    "Candy Cat": {
         "Slushy Shoreline": {
             "-": {
                 "Ghastly Galleon Gouda": {
-                    "-": 11.61
+                    "-": 11.16
                 }
             }
         },
         "Mountain": {
             "-": {
                 "Ghastly Galleon Gouda": {
-                    "-": 10.92
+                    "-": 11.44
+                }
+            }
+        },
+        "Fiery Warpath": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 4.15
+                }
+            }
+        },
+        "Sunken City": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 3.55
                 }
             }
         },
         "Dojo": {
             "-": {
                 "Ghastly Galleon Gouda": {
-                    "-": 10.52
+                    "-": 10.2
                 }
             }
         },
         "Town of Gnawnia": {
             "-": {
                 "Ghastly Galleon Gouda": {
-                    "-": 9.68
+                    "-": 10.89
+                }
+            }
+        },
+        "Muridae Market": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 4.5
+                }
+            }
+        },
+        "Moussu Picchu": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 1.84
+                }
+            }
+        },
+        "Gnawnia Rift": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 1.78
+                }
+            }
+        },
+        "Fungal Cavern": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 0.98
+                }
+            }
+        }
+    },
+    "Tricky Witch": {
+        "Slushy Shoreline": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 10.7
+                }
+            }
+        },
+        "Mountain": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 8.75
+                }
+            }
+        },
+        "Fiery Warpath": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 3.22
+                }
+            }
+        },
+        "Sunken City": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 2.48
+                }
+            }
+        },
+        "Dojo": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 10.03
+                }
+            }
+        },
+        "Town of Gnawnia": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 9.36
+                }
+            }
+        },
+        "Muridae Market": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 2.54
+                }
+            }
+        },
+        "Moussu Picchu": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 0.79
+                }
+            }
+        },
+        "Gnawnia Rift": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 0.87
+                }
+            }
+        },
+        "Fungal Cavern": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 0.73
                 }
             }
         }
@@ -20323,86 +20437,471 @@
         "Slushy Shoreline": {
             "-": {
                 "Ghastly Galleon Gouda": {
-                    "-": 11.37
+                    "-": 10.54
                 }
             }
         },
         "Mountain": {
             "-": {
                 "Ghastly Galleon Gouda": {
-                    "-": 11.85
+                    "-": 11.44
                 }
             }
         },
         "Dojo": {
             "-": {
                 "Ghastly Galleon Gouda": {
-                    "-": 10.79
+                    "-": 9.92
                 }
             }
         },
         "Town of Gnawnia": {
             "-": {
                 "Ghastly Galleon Gouda": {
-                    "-": 10.36
+                    "-": 10.31
                 }
             }
         },
         "Fungal Cavern": {
             "-": {
                 "Ghastly Galleon Gouda": {
-                    "-": 1.67
+                    "-": 1.63
                 }
             }
         }
     },
-    "Candy Cat": {
+    "Hollowhead": {
         "Slushy Shoreline": {
             "-": {
                 "Ghastly Galleon Gouda": {
-                    "-": 10.43
+                    "-": 10.54
                 }
             }
         },
         "Mountain": {
             "-": {
                 "Ghastly Galleon Gouda": {
-                    "-": 11.54
-                }
-            }
-        },
-        "Fiery Warpath": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 4.26
+                    "-": 11.17
                 }
             }
         },
         "Dojo": {
             "-": {
                 "Ghastly Galleon Gouda": {
-                    "-": 9.99
-                }
-            }
-        },
-        "Sunken City": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 3.51
+                    "-": 10.37
                 }
             }
         },
         "Town of Gnawnia": {
             "-": {
                 "Ghastly Galleon Gouda": {
-                    "-": 11.38
+                    "-": 9.87
+                }
+            }
+        }
+    },
+    "Spirit Light": {
+        "Slushy Shoreline": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 10.08
+                }
+            }
+        },
+        "Mountain": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 8.75
+                }
+            }
+        },
+        "Dojo": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 11.21
+                }
+            }
+        },
+        "Town of Gnawnia": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 9.72
+                }
+            }
+        }
+    },
+    "Teenage Vampire": {
+        "Slushy Shoreline": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 8.37
+                }
+            }
+        },
+        "Mountain": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 9.02
+                }
+            }
+        },
+        "Dojo": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 9.8
+                }
+            }
+        },
+        "Town of Gnawnia": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 9.5
+                }
+            }
+        },
+        "Moussu Picchu": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 1.71
+                }
+            }
+        }
+    },
+    "Spectral Swashbuckler": {
+        "Slushy Shoreline": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 7.6
+                }
+            }
+        },
+        "Mountain": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 9.83
+                }
+            }
+        },
+        "Fiery Warpath": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 6.33
+                }
+            }
+        },
+        "Sunken City": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 6.86
+                }
+            }
+        },
+        "Dojo": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 9.13
+                }
+            }
+        },
+        "Town of Gnawnia": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 10.38
                 }
             }
         },
         "Muridae Market": {
             "-": {
                 "Ghastly Galleon Gouda": {
-                    "-": 4.86
+                    "-": 6.75
+                }
+            }
+        },
+        "Moussu Picchu": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 8.96
+                }
+            }
+        },
+        "Gnawnia Rift": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 9.48
+                }
+            }
+        },
+        "Fungal Cavern": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 8.4
+                }
+            }
+        }
+    },
+    "Treat": {
+        "Slushy Shoreline": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 6.82
+                }
+            }
+        },
+        "Mountain": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 5.38
+                }
+            }
+        },
+        "Fiery Warpath": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 3.73
+                }
+            }
+        },
+        "Sunken City": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 3.1
+                }
+            }
+        },
+        "Dojo": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 5.3
+                }
+            }
+        },
+        "Town of Gnawnia": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 5.34
+                }
+            }
+        },
+        "Muridae Market": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 3.35
+                }
+            }
+        },
+        "Moussu Picchu": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 1.83
+                }
+            }
+        },
+        "Gnawnia Rift": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 1.65
+                }
+            }
+        },
+        "Fungal Cavern": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 1.78
+                }
+            }
+        }
+    },
+    "Trick": {
+        "Slushy Shoreline": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 6.36
+                }
+            }
+        },
+        "Mountain": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 7.4
+                }
+            }
+        },
+        "Fiery Warpath": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 3.01
+                }
+            }
+        },
+        "Sunken City": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 2.93
+                }
+            }
+        },
+        "Dojo": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 5.92
+                }
+            }
+        },
+        "Town of Gnawnia": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 6.58
+                }
+            }
+        },
+        "Muridae Market": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 3.35
+                }
+            }
+        },
+        "Moussu Picchu": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 1.61
+                }
+            }
+        },
+        "Gnawnia Rift": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 1.76
+                }
+            }
+        },
+        "Fungal Cavern": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 1.94
+                }
+            }
+        }
+    },
+    "Grey Recluse": {
+        "Slushy Shoreline": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 4.03
+                }
+            }
+        },
+        "Mountain": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 5.11
+                }
+            }
+        },
+        "Fiery Warpath": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 6.33
+                }
+            }
+        },
+        "Sunken City": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 5.2
+                }
+            }
+        },
+        "Dojo": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 4.96
+                }
+            }
+        },
+        "Town of Gnawnia": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 4.02
+                }
+            }
+        },
+        "Muridae Market": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 5.55
+                }
+            }
+        },
+        "Moussu Picchu": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 4.59
+                }
+            }
+        },
+        "Gnawnia Rift": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 4.41
+                }
+            }
+        },
+        "Fungal Cavern": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 4.3
+                }
+            }
+        }
+    },
+    "Gourdborg": {
+        "Slushy Shoreline": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 2.79
+                }
+            }
+        },
+        "Mountain": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 2.15
+                }
+            }
+        },
+        "Fiery Warpath": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 2.49
+                }
+            }
+        },
+        "Sunken City": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 1.78
+                }
+            }
+        },
+        "Dojo": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 2.2
+                }
+            }
+        },
+        "Town of Gnawnia": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 1.75
+                }
+            }
+        },
+        "Muridae Market": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 1.63
                 }
             }
         },
@@ -20416,513 +20915,14 @@
         "Gnawnia Rift": {
             "-": {
                 "Ghastly Galleon Gouda": {
-                    "-": 1.72
+                    "-": 1.56
                 }
             }
         },
         "Fungal Cavern": {
             "-": {
                 "Ghastly Galleon Gouda": {
-                    "-": 0.93
-                }
-            }
-        }
-    },
-    "Spirit Light": {
-        "Slushy Shoreline": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 10.19
-                }
-            }
-        },
-        "Mountain": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 9.08
-                }
-            }
-        },
-        "Dojo": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 10.85
-                }
-            }
-        },
-        "Town of Gnawnia": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 9.51
-                }
-            }
-        }
-    },
-    "Teenage Vampire": {
-        "Slushy Shoreline": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 8.77
-                }
-            }
-        },
-        "Mountain": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 8.92
-                }
-            }
-        },
-        "Dojo": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 10.12
-                }
-            }
-        },
-        "Town of Gnawnia": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 8.83
-                }
-            }
-        },
-        "Moussu Picchu": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 1.65
-                }
-            }
-        }
-    },
-    "Tricky Witch": {
-        "Slushy Shoreline": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 8.06
-                }
-            }
-        },
-        "Mountain": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 8.92
-                }
-            }
-        },
-        "Fiery Warpath": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 3.46
-                }
-            }
-        },
-        "Dojo": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 9.92
-                }
-            }
-        },
-        "Sunken City": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 2.34
-                }
-            }
-        },
-        "Town of Gnawnia": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 9.68
-                }
-            }
-        },
-        "Muridae Market": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 2.66
-                }
-            }
-        },
-        "Moussu Picchu": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 0.77
-                }
-            }
-        },
-        "Gnawnia Rift": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 0.8
-                }
-            }
-        },
-        "Fungal Cavern": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 0.73
-                }
-            }
-        }
-    },
-    "Spectral Swashbuckler": {
-        "Slushy Shoreline": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 8.06
-                }
-            }
-        },
-        "Mountain": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 9.85
-                }
-            }
-        },
-        "Fiery Warpath": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 6.52
-                }
-            }
-        },
-        "Dojo": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 9.45
-                }
-            }
-        },
-        "Sunken City": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 6.54
-                }
-            }
-        },
-        "Town of Gnawnia": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 10.44
-                }
-            }
-        },
-        "Muridae Market": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 6.94
-                }
-            }
-        },
-        "Moussu Picchu": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 8.94
-                }
-            }
-        },
-        "Gnawnia Rift": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 9.49
-                }
-            }
-        },
-        "Fungal Cavern": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 8.28
-                }
-            }
-        }
-    },
-    "Treat": {
-        "Slushy Shoreline": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 7.58
-                }
-            }
-        },
-        "Mountain": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 5.85
-                }
-            }
-        },
-        "Fiery Warpath": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 3.06
-                }
-            }
-        },
-        "Dojo": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 5.59
-                }
-            }
-        },
-        "Sunken City": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 3.32
-                }
-            }
-        },
-        "Town of Gnawnia": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 5.26
-                }
-            }
-        },
-        "Muridae Market": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 3.41
-                }
-            }
-        },
-        "Moussu Picchu": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 1.75
-                }
-            }
-        },
-        "Gnawnia Rift": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 1.65
-                }
-            }
-        },
-        "Fungal Cavern": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 1.6
-                }
-            }
-        }
-    },
-    "Trick": {
-        "Slushy Shoreline": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 5.45
-                }
-            }
-        },
-        "Mountain": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 7.54
-                }
-            }
-        },
-        "Fiery Warpath": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 2.66
-                }
-            }
-        },
-        "Dojo": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 5.79
-                }
-            }
-        },
-        "Sunken City": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 2.68
-                }
-            }
-        },
-        "Town of Gnawnia": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 6.2
-                }
-            }
-        },
-        "Muridae Market": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 3.06
-                }
-            }
-        },
-        "Moussu Picchu": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 1.53
-                }
-            }
-        },
-        "Gnawnia Rift": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 1.76
-                }
-            }
-        },
-        "Fungal Cavern": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 2.03
-                }
-            }
-        }
-    },
-    "Grey Recluse": {
-        "Slushy Shoreline": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 3.79
-                }
-            }
-        },
-        "Mountain": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 4.46
-                }
-            }
-        },
-        "Fiery Warpath": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 6.52
-                }
-            }
-        },
-        "Dojo": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 5.13
-                }
-            }
-        },
-        "Sunken City": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 5.02
-                }
-            }
-        },
-        "Town of Gnawnia": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 4.07
-                }
-            }
-        },
-        "Muridae Market": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 5.32
-                }
-            }
-        },
-        "Moussu Picchu": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 4.67
-                }
-            }
-        },
-        "Gnawnia Rift": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 4.42
-                }
-            }
-        },
-        "Fungal Cavern": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 4.4
-                }
-            }
-        }
-    },
-    "Gourdborg": {
-        "Slushy Shoreline": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 2.84
-                }
-            }
-        },
-        "Mountain": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 2.31
-                }
-            }
-        },
-        "Fiery Warpath": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 2.26
-                }
-            }
-        },
-        "Dojo": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 2.06
-                }
-            }
-        },
-        "Sunken City": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 1.66
-                }
-            }
-        },
-        "Town of Gnawnia": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 1.95
-                }
-            }
-        },
-        "Muridae Market": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 1.79
-                }
-            }
-        },
-        "Moussu Picchu": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 1.88
-                }
-            }
-        },
-        "Gnawnia Rift": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 1.59
-                }
-            }
-        },
-        "Fungal Cavern": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 1.76
+                    "-": 1.78
                 }
             }
         }
@@ -20931,21 +20931,21 @@
         "Slushy Shoreline": {
             "-": {
                 "Ghastly Galleon Gouda": {
-                    "-": 0.24
+                    "-": 0.16
                 }
             }
         },
         "Dojo": {
             "-": {
                 "Ghastly Galleon Gouda": {
-                    "-": 0.07
+                    "-": 0.06
                 }
             }
         },
         "Moussu Picchu": {
             "-": {
                 "Ghastly Galleon Gouda": {
-                    "-": 0.07
+                    "-": 0.06
                 }
             }
         },
@@ -20959,7 +20959,7 @@
         "Fungal Cavern": {
             "-": {
                 "Ghastly Galleon Gouda": {
-                    "-": 0.03
+                    "-": 0.04
                 }
             }
         }
@@ -20968,42 +20968,42 @@
         "Fiery Warpath": {
             "-": {
                 "Ghastly Galleon Gouda": {
-                    "-": 7.06
+                    "-": 7.26
                 }
             }
         },
         "Sunken City": {
             "-": {
                 "Ghastly Galleon Gouda": {
-                    "-": 6.49
+                    "-": 6.03
                 }
             }
         },
         "Muridae Market": {
             "-": {
                 "Ghastly Galleon Gouda": {
-                    "-": 7.05
+                    "-": 6.99
                 }
             }
         },
         "Moussu Picchu": {
             "-": {
                 "Ghastly Galleon Gouda": {
-                    "-": 9.52
+                    "-": 9.43
                 }
             }
         },
         "Gnawnia Rift": {
             "-": {
                 "Ghastly Galleon Gouda": {
-                    "-": 9.05
+                    "-": 9.03
                 }
             }
         },
         "Fungal Cavern": {
             "-": {
                 "Ghastly Galleon Gouda": {
-                    "-": 8.92
+                    "-": 8.85
                 }
             }
         }
@@ -21012,37 +21012,37 @@
         "Fiery Warpath": {
             "-": {
                 "Ghastly Galleon Gouda": {
-                    "-": 6.39
+                    "-": 6.43
                 }
             }
         },
         "Sunken City": {
             "-": {
                 "Ghastly Galleon Gouda": {
-                    "-": 5.02
+                    "-": 4.87
                 }
             }
         },
         "Muridae Market": {
             "-": {
                 "Ghastly Galleon Gouda": {
-                    "-": 5.43
+                    "-": 5.41
                 }
             }
         }
     },
-    "Wild Chainsaw": {
+    "Gourd Ghoul": {
         "Fiery Warpath": {
             "-": {
                 "Ghastly Galleon Gouda": {
-                    "-": 6.39
+                    "-": 6.33
                 }
             }
         },
         "Sunken City": {
             "-": {
                 "Ghastly Galleon Gouda": {
-                    "-": 6.83
+                    "-": 7.27
                 }
             }
         },
@@ -21056,109 +21056,65 @@
         "Moussu Picchu": {
             "-": {
                 "Ghastly Galleon Gouda": {
-                    "-": 3.51
+                    "-": 4.53
                 }
             }
         },
         "Gnawnia Rift": {
             "-": {
                 "Ghastly Galleon Gouda": {
-                    "-": 3.83
+                    "-": 5.03
                 }
             }
         },
         "Fungal Cavern": {
             "-": {
                 "Ghastly Galleon Gouda": {
-                    "-": 4.29
+                    "-": 5.56
                 }
             }
         }
     },
-    "Hollowed": {
+    "Wild Chainsaw": {
         "Fiery Warpath": {
             "-": {
                 "Ghastly Galleon Gouda": {
-                    "-": 5.86
+                    "-": 5.6
                 }
             }
         },
         "Sunken City": {
             "-": {
                 "Ghastly Galleon Gouda": {
-                    "-": 5.22
+                    "-": 6.57
                 }
             }
         },
         "Muridae Market": {
             "-": {
                 "Ghastly Galleon Gouda": {
-                    "-": 5.09
+                    "-": 6.7
                 }
             }
         },
         "Moussu Picchu": {
             "-": {
                 "Ghastly Galleon Gouda": {
-                    "-": 4.62
+                    "-": 3.47
                 }
             }
         },
         "Gnawnia Rift": {
             "-": {
                 "Ghastly Galleon Gouda": {
-                    "-": 6.13
+                    "-": 3.81
                 }
             }
         },
         "Fungal Cavern": {
             "-": {
                 "Ghastly Galleon Gouda": {
-                    "-": 1.95
-                }
-            }
-        }
-    },
-    "Gourd Ghoul": {
-        "Fiery Warpath": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 5.73
-                }
-            }
-        },
-        "Sunken City": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 6.68
-                }
-            }
-        },
-        "Muridae Market": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 6.13
-                }
-            }
-        },
-        "Moussu Picchu": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 4.49
-                }
-            }
-        },
-        "Gnawnia Rift": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 5.13
-                }
-            }
-        },
-        "Fungal Cavern": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 5.67
+                    "-": 4.14
                 }
             }
         }
@@ -21167,278 +21123,35 @@
         "Fiery Warpath": {
             "-": {
                 "Ghastly Galleon Gouda": {
-                    "-": 5.46
+                    "-": 5.5
                 }
             }
         },
         "Sunken City": {
             "-": {
                 "Ghastly Galleon Gouda": {
-                    "-": 4.88
+                    "-": 5
                 }
             }
         },
         "Muridae Market": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 4.57
-                }
-            }
-        },
-        "Moussu Picchu": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 2.05
-                }
-            }
-        },
-        "Gnawnia Rift": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 3.42
-                }
-            }
-        },
-        "Fungal Cavern": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 4.59
-                }
-            }
-        }
-    },
-    "Candy Goblin": {
-        "Fiery Warpath": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 5.19
-                }
-            }
-        },
-        "Sunken City": {
             "-": {
                 "Ghastly Galleon Gouda": {
                     "-": 4.93
                 }
             }
         },
-        "Muridae Market": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 4.1
-                }
-            }
-        }
-    },
-    "Spectral Butler": {
-        "Fiery Warpath": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 4.79
-                }
-            }
-        },
-        "Sunken City": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 5.17
-                }
-            }
-        },
-        "Muridae Market": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 4.68
-                }
-            }
-        },
         "Moussu Picchu": {
             "-": {
                 "Ghastly Galleon Gouda": {
-                    "-": 5.4
+                    "-": 1.99
                 }
             }
         },
         "Gnawnia Rift": {
             "-": {
                 "Ghastly Galleon Gouda": {
-                    "-": 4.56
-                }
-            }
-        },
-        "Fungal Cavern": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 4.31
-                }
-            }
-        }
-    },
-    "Dire Lycan": {
-        "Fiery Warpath": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 4.53
-                }
-            }
-        },
-        "Sunken City": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 5.95
-                }
-            }
-        },
-        "Muridae Market": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 5.14
-                }
-            }
-        },
-        "Moussu Picchu": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 4.81
-                }
-            }
-        },
-        "Gnawnia Rift": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 2.85
-                }
-            }
-        },
-        "Fungal Cavern": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 4.71
-                }
-            }
-        }
-    },
-    "Hollowed Minion": {
-        "Fiery Warpath": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 4.39
-                }
-            }
-        },
-        "Sunken City": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 5.02
-                }
-            }
-        },
-        "Muridae Market": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 5.14
-                }
-            }
-        },
-        "Moussu Picchu": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 4.2
-                }
-            }
-        },
-        "Gnawnia Rift": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 6.09
-                }
-            }
-        },
-        "Fungal Cavern": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 4.44
-                }
-            }
-        }
-    },
-    "Shortcut": {
-        "Fiery Warpath": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 3.6
-                }
-            }
-        },
-        "Sunken City": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 5.32
-                }
-            }
-        },
-        "Muridae Market": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 5.03
-                }
-            }
-        },
-        "Moussu Picchu": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 3.78
-                }
-            }
-        },
-        "Gnawnia Rift": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 3.54
-                }
-            }
-        },
-        "Fungal Cavern": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 4.63
-                }
-            }
-        }
-    },
-    "Maize Harvester": {
-        "Fiery Warpath": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 3.46
-                }
-            }
-        },
-        "Sunken City": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 4.44
-                }
-            }
-        },
-        "Muridae Market": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 4.86
-                }
-            }
-        },
-        "Moussu Picchu": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 4.99
-                }
-            }
-        },
-        "Gnawnia Rift": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 3.76
+                    "-": 3.32
                 }
             }
         },
@@ -21450,11 +21163,298 @@
             }
         }
     },
+    "Hollowed": {
+        "Fiery Warpath": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 5.5
+                }
+            }
+        },
+        "Sunken City": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 5.12
+                }
+            }
+        },
+        "Muridae Market": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 4.78
+                }
+            }
+        },
+        "Moussu Picchu": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 4.44
+                }
+            }
+        },
+        "Gnawnia Rift": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 6.08
+                }
+            }
+        },
+        "Fungal Cavern": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 1.84
+                }
+            }
+        }
+    },
+    "Spectral Butler": {
+        "Fiery Warpath": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 5.19
+                }
+            }
+        },
+        "Sunken City": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 5.12
+                }
+            }
+        },
+        "Muridae Market": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 4.55
+                }
+            }
+        },
+        "Moussu Picchu": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 5.44
+                }
+            }
+        },
+        "Gnawnia Rift": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 4.66
+                }
+            }
+        },
+        "Fungal Cavern": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 4.22
+                }
+            }
+        }
+    },
+    "Candy Goblin": {
+        "Fiery Warpath": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 4.88
+                }
+            }
+        },
+        "Sunken City": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 4.79
+                }
+            }
+        },
+        "Muridae Market": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 4.31
+                }
+            }
+        }
+    },
+    "Hollowed Minion": {
+        "Fiery Warpath": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 4.46
+                }
+            }
+        },
+        "Sunken City": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 4.92
+                }
+            }
+        },
+        "Muridae Market": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 5.12
+                }
+            }
+        },
+        "Moussu Picchu": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 4.14
+                }
+            }
+        },
+        "Gnawnia Rift": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 6.11
+                }
+            }
+        },
+        "Fungal Cavern": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 4.55
+                }
+            }
+        }
+    },
+    "Dire Lycan": {
+        "Fiery Warpath": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 4.15
+                }
+            }
+        },
+        "Sunken City": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 5.7
+                }
+            }
+        },
+        "Muridae Market": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 5.26
+                }
+            }
+        },
+        "Moussu Picchu": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 4.83
+                }
+            }
+        },
+        "Gnawnia Rift": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 2.82
+                }
+            }
+        },
+        "Fungal Cavern": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 4.71
+                }
+            }
+        }
+    },
+    "Shortcut": {
+        "Fiery Warpath": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 3.94
+                }
+            }
+        },
+        "Sunken City": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 5.25
+                }
+            }
+        },
+        "Muridae Market": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 4.78
+                }
+            }
+        },
+        "Moussu Picchu": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 3.91
+                }
+            }
+        },
+        "Gnawnia Rift": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 3.66
+                }
+            }
+        },
+        "Fungal Cavern": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 4.83
+                }
+            }
+        }
+    },
+    "Maize Harvester": {
+        "Fiery Warpath": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 3.73
+                }
+            }
+        },
+        "Sunken City": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 4.54
+                }
+            }
+        },
+        "Muridae Market": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 4.93
+                }
+            }
+        },
+        "Moussu Picchu": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 4.97
+                }
+            }
+        },
+        "Gnawnia Rift": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 3.69
+                }
+            }
+        },
+        "Fungal Cavern": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 4.64
+                }
+            }
+        }
+    },
     "Swamp Thang": {
         "Fiery Warpath": {
             "-": {
                 "Ghastly Galleon Gouda": {
-                    "-": 2.53
+                    "-": 2.28
                 }
             }
         },
@@ -21468,28 +21468,28 @@
         "Muridae Market": {
             "-": {
                 "Ghastly Galleon Gouda": {
-                    "-": 2.14
+                    "-": 2.15
                 }
             }
         },
         "Moussu Picchu": {
             "-": {
                 "Ghastly Galleon Gouda": {
-                    "-": 1.92
+                    "-": 1.81
                 }
             }
         },
         "Gnawnia Rift": {
             "-": {
                 "Ghastly Galleon Gouda": {
-                    "-": 2.09
+                    "-": 2.02
                 }
             }
         },
         "Fungal Cavern": {
             "-": {
                 "Ghastly Galleon Gouda": {
-                    "-": 1.64
+                    "-": 1.73
                 }
             }
         }
@@ -21498,42 +21498,42 @@
         "Fiery Warpath": {
             "-": {
                 "Ghastly Galleon Gouda": {
-                    "-": 1.6
+                    "-": 1.45
                 }
             }
         },
         "Sunken City": {
             "-": {
                 "Ghastly Galleon Gouda": {
-                    "-": 1.8
+                    "-": 1.9
                 }
             }
         },
         "Muridae Market": {
             "-": {
                 "Ghastly Galleon Gouda": {
-                    "-": 1.91
+                    "-": 1.82
                 }
             }
         },
         "Moussu Picchu": {
             "-": {
                 "Ghastly Galleon Gouda": {
-                    "-": 1.78
+                    "-": 1.83
                 }
             }
         },
         "Gnawnia Rift": {
             "-": {
                 "Ghastly Galleon Gouda": {
-                    "-": 1.83
+                    "-": 1.87
                 }
             }
         },
         "Fungal Cavern": {
             "-": {
                 "Ghastly Galleon Gouda": {
-                    "-": 1.8
+                    "-": 1.78
                 }
             }
         }
@@ -21542,42 +21542,42 @@
         "Fiery Warpath": {
             "-": {
                 "Ghastly Galleon Gouda": {
-                    "-": 1.33
+                    "-": 1.35
                 }
             }
         },
         "Sunken City": {
             "-": {
                 "Ghastly Galleon Gouda": {
-                    "-": 2.39
+                    "-": 2.31
                 }
             }
         },
         "Muridae Market": {
             "-": {
                 "Ghastly Galleon Gouda": {
-                    "-": 2.08
+                    "-": 2.15
                 }
             }
         },
         "Moussu Picchu": {
             "-": {
                 "Ghastly Galleon Gouda": {
-                    "-": 1.68
+                    "-": 1.74
                 }
             }
         },
         "Gnawnia Rift": {
             "-": {
                 "Ghastly Galleon Gouda": {
-                    "-": 1.67
+                    "-": 1.73
                 }
             }
         },
         "Fungal Cavern": {
             "-": {
                 "Ghastly Galleon Gouda": {
-                    "-": 1.79
+                    "-": 1.81
                 }
             }
         }
@@ -21593,14 +21593,14 @@
         "Gnawnia Rift": {
             "-": {
                 "Ghastly Galleon Gouda": {
-                    "-": 8.88
+                    "-": 9.07
                 }
             }
         },
         "Fungal Cavern": {
             "-": {
                 "Ghastly Galleon Gouda": {
-                    "-": 8.27
+                    "-": 8.42
                 }
             }
         }
@@ -21609,21 +21609,21 @@
         "Moussu Picchu": {
             "-": {
                 "Ghastly Galleon Gouda": {
-                    "-": 8.51
+                    "-": 8.6
                 }
             }
         },
         "Gnawnia Rift": {
             "-": {
                 "Ghastly Galleon Gouda": {
-                    "-": 9.03
+                    "-": 8.94
                 }
             }
         },
         "Fungal Cavern": {
             "-": {
                 "Ghastly Galleon Gouda": {
-                    "-": 9.59
+                    "-": 9.35
                 }
             }
         }
@@ -21632,7 +21632,7 @@
         "Moussu Picchu": {
             "-": {
                 "Ghastly Galleon Gouda": {
-                    "-": 1.83
+                    "-": 1.9
                 }
             }
         },
@@ -21646,7 +21646,7 @@
         "Fungal Cavern": {
             "-": {
                 "Ghastly Galleon Gouda": {
-                    "-": 1.91
+                    "-": 1.92
                 }
             }
         }
@@ -21655,21 +21655,21 @@
         "Moussu Picchu": {
             "-": {
                 "Ghastly Galleon Gouda": {
-                    "-": 1.83
+                    "-": 1.86
                 }
             }
         },
         "Gnawnia Rift": {
             "-": {
                 "Ghastly Galleon Gouda": {
-                    "-": 2.09
+                    "-": 1.97
                 }
             }
         },
         "Fungal Cavern": {
             "-": {
                 "Ghastly Galleon Gouda": {
-                    "-": 2.2
+                    "-": 2.22
                 }
             }
         }
@@ -21678,21 +21678,21 @@
         "Moussu Picchu": {
             "-": {
                 "Ghastly Galleon Gouda": {
-                    "-": 1.82
+                    "-": 1.71
                 }
             }
         },
         "Gnawnia Rift": {
             "-": {
                 "Ghastly Galleon Gouda": {
-                    "-": 1.67
+                    "-": 1.74
                 }
             }
         },
         "Fungal Cavern": {
             "-": {
                 "Ghastly Galleon Gouda": {
-                    "-": 2.24
+                    "-": 2.25
                 }
             }
         }
@@ -21701,14 +21701,14 @@
         "Moussu Picchu": {
             "-": {
                 "Ghastly Galleon Gouda": {
-                    "-": 0.91
+                    "-": 0.93
                 }
             }
         },
         "Gnawnia Rift": {
             "-": {
                 "Ghastly Galleon Gouda": {
-                    "-": 1.05
+                    "-": 1.04
                 }
             }
         }
@@ -21722,20 +21722,11 @@
             }
         }
     },
-    "Nightshade Flower Girl": {
-        "Moussu Picchu": {
-            "-": {
-                "Ghastly Galleon Gouda": {
-                    "-": 0.02
-                }
-            }
-        }
-    },
     "Cycloness": {
         "Moussu Picchu": {
             "-": {
                 "Ghastly Galleon Gouda": {
-                    "-": 0.02
+                    "-": 0.01
                 }
             }
         }
@@ -21744,7 +21735,16 @@
         "Moussu Picchu": {
             "-": {
                 "Ghastly Galleon Gouda": {
-                    "-": 0.02
+                    "-": 0.01
+                }
+            }
+        }
+    },
+    "Nightshade Flower Girl": {
+        "Moussu Picchu": {
+            "-": {
+                "Ghastly Galleon Gouda": {
+                    "-": 0.01
                 }
             }
         }
