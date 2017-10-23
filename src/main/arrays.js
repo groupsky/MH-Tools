@@ -219,6 +219,8 @@ var baselineAttArray = {
     "Ascended": 0.99,
     "Crescent": 0.85, // Slightly higher than Gouda?
     "Moon": 0.9995,
+    "Runic String": 0.99,
+    "Ancient String": 0.99,
     "Ghastly Galleon Gouda": 1.00,
 };
 
@@ -1933,6 +1935,7 @@ Mouse power & power type effectiveness
 9 =>  Law (%)
 10 =>  Rift (%)
  */
+//TODO: Put this in an external file (csv) abd add to CI build
 var powersArray = {
     "Swabbie":      [570, 0, 0, 0, 175, 0, 100, 0, 100, 0, 0],
     "Pinchy":       [635, 0, 0, 0, 175, 0, 100, 0, 100, 0, 0],
@@ -2737,6 +2740,26 @@ var powersArray = {
     "Wealthy Werewarrior": [18900, 100, 0, 0, 0, 0, 0, 150, 0, 0, 0],
     "Werehauler": [17000, 100, 0, 0, 0, 0, 0, 150, 0, 0, 0],
     "Wereminer": [29001, 100, 0, 0, 0, 0, 0, 150, 0, 0, 0],
+    "Chronomaster" : [2000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 200],
+    "Epoch Golem" : [1250, 0, 0, 0, 0, 0, 0, 0, 0, 0, 100],
+    "Chamber Cleaver" : [1400, 0, 0, 0, 0, 0, 0, 0, 0, 0, 100],
+    "Skeletal Champion" : [1550, 0, 0, 0, 0, 0, 0, 0, 0, 0, 100],
+    "Record Keeper's Assistant" : [1650, 0, 0, 0, 0, 0, 0, 0, 0, 0, 100],
+    "Portal Plunderer" : [1650, 0, 0, 0, 0, 0, 0, 0, 0, 0, 100],
+    "Sentient Slime" : [1750, 0, 0, 0, 0, 0, 0, 0, 0, 0, 100],
+    "Record Keeper" : [2300, 0, 0, 0, 0, 0, 0, 0, 0, 0, 100],
+    "Clockwork Timespinner" : [2300, 0, 0, 0, 0, 0, 0, 0, 0, 0, 100],
+    "Dread Knight" : [2450, 0, 0, 0, 0, 0, 0, 0, 0, 0, 100],
+    "Harbinger of Death" : [4250, 0, 0, 0, 0, 0, 0, 0, 0, 0, 200],
+    "Absolute Acolyte" : [7020, 0, 0, 0, 0, 0, 0, 0, 0, 0, 325],
+    "Timelost Thaumaturge" : [4700, 0, 0, 0, 0, 0, 0, 0, 0, 0, 200],
+    "Vigilant Ward" : [5000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 200],
+    "Carrion Medium" : [6667, 0, 0, 0, 0, 0, 0, 0, 0, 0, 250],
+    "Shackled Servant" : [5800, 0, 0, 0, 0, 0, 0, 0, 0, 0, 200],
+    "Timeless Lich" : [7128, 0, 0, 0, 0, 0, 0, 0, 0, 0, 225],
+    "Timeslither Pythoness" : [8800, 0, 0, 0, 0, 0, 0, 0, 0, 0, 200],
+    "Portal Paladin" : [8000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 100],
+    "Portal Pursuer" : [7500, 0, 0, 0, 0, 0, 0, 0, 0, 0, 75],
     // Moussu Picchu
     "Breeze Borrower": [3500, 100, 100, 0, 0, 0, 0, 100, 0, 0, 0],
     "Cloud Collector": [2400, 100, 100, 0, 0, 0, 0, 100, 0, 0, 0],
@@ -2756,12 +2779,12 @@ var powersArray = {
     "Rain Summoner": [7000, 100, 50, 0, 0, 0, 0, 150, 0, 0, 0],
     "Monsoon Maker": [9500, 100, 50, 0, 0, 0, 0, 150, 0, 0, 0],
     "Rainmancer": [18500, 100, 50, 0, 0, 0, 0, 150, 0, 0, 0],
-    "Thunder Strike": [1700*2, 0, 200, 0, 0, 0, 0, 0, 0, 0, 0],
-    "Violet Stormchild": [2500*2, 0, 200, 0, 0, 0, 0, 0, 0, 0, 0],
-    "Thunderlord": [4500*5, 0, 500, 0, 0, 0, 0, 0, 0, 0, 0],
-    "Thundering Watcher": [5500*5, 0, 500, 0, 0, 0, 0, 0, 0, 0, 0],
-    "Dragoon": [9600*2.5, 0, 250, 0, 0, 0, 0, 0, 0, 0, 0],
-    "Ful'Mina": [260000, 0, 3000, 0, 0, 0, 0, 0, 0, 0, 0],
+    "Thunder Strike": [1700*2, 0, 200, 0, 0, 0, 0, 0, 0, 0, 0], // unconfirmed
+    "Violet Stormchild": [2500*2, 0, 200, 0, 0, 0, 0, 0, 0, 0, 0], // unconfirmed
+    "Thunderlord": [4500*5, 0, 500, 0, 0, 0, 0, 0, 0, 0, 0], // unconfirmed
+    "Thundering Watcher": [5500*5, 0, 500, 0, 0, 0, 0, 0, 0, 0, 0], // unconfirmed
+    "Dragoon": [9600*2.5, 0, 250, 0, 0, 0, 0, 0, 0, 0, 0], // unconfirmed
+    "Ful'Mina": [260000, 0, 3000, 0, 0, 0, 0, 0, 0, 0, 0], // unconfirmed
 };
 /* [Gold, Points] */
 var miceArray = {
@@ -3592,6 +3615,26 @@ var miceArray = {
     "Wealthy Werewarrior": [5000, 36000],
     "Werehauler": [1500, 19000],
     "Wereminer": [2900, 28000],
+    "Chronomaster" : [20000,170000],
+    "Epoch Golem" : [10000,60000],
+    "Chamber Cleaver" : [10000,60000],
+    "Skeletal Champion" : [1000,20000],
+    "Record Keeper's Assistant" : [3000,27000],
+    "Portal Plunderer" : [9000,50000],
+    "Sentient Slime" : [6000,30000],
+    "Record Keeper" : [4000,28000],
+    "Clockwork Timespinner" : [7000,38000],
+    "Dread Knight" : [10000,60000],
+    "Harbinger of Death" : [50000,200000],
+    "Absolute Acolyte" : [300000,1000000],
+    "Timelost Thaumaturge" : [7500,70000],
+    "Vigilant Ward" : [5000,42275],
+    "Carrion Medium" : [8340,10000],
+    "Shackled Servant" : [8000,55000],
+    "Timeless Lich" : [18000,130000],
+    "Timeslither Pythoness" : [20000,100000],
+    "Portal Paladin" : [3000,32000],
+    "Portal Pursuer" : [2500,28000],
     // Moussu Picchu
     "Breeze Borrower": [2250, 32000],
     "Cloud Collector": [2500, 42000],
@@ -3614,7 +3657,7 @@ var miceArray = {
     "Thunder Strike": [10000, 60000],
     "Violet Stormchild": [10000, 70000],
     "Thunderlord": [15000, 90000],
-    "Thundering Watcher": [18000, 100000],
+    "Thunder Watcher": [18000, 100000],
     "Dragoon": [20000, 100000],
     "Ful'Mina": [30000, 120000],
 };

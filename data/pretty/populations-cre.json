@@ -259,6 +259,472 @@
             }
         }
     },
+    "Bristle Woods Rift": {
+        "Acolyte": {
+            "Runic String": {
+                "-": {
+                    "Absolute Acolyte": 8.82,
+                    "SampleSize": 28931,
+                    "Carrion Medium": 3.85,
+                    "Chronomaster": 0.59,
+                    "Dread Knight": 23.82,
+                    "Harbinger of Death": 3.76,
+                    "Portal Paladin": 8.25,
+                    "Shackled Servant": 5.15,
+                    "Skeletal Champion": 22.95,
+                    "Timeless Lich": 2.68,
+                    "Timelost Thaumaturge": 6.06,
+                    "Timeslither Pythoness": 5.24,
+                    "Vigilant Ward": 8.83
+                },
+                "Rift Antiskele": {
+                    "Chronomaster": 0.64,
+                    "SampleSize": 1101,
+                    "Timeless Lich": 3,
+                    "Carrion Medium": 4.54,
+                    "Harbinger of Death": 5.18,
+                    "Portal Paladin": 6.27,
+                    "Shackled Servant": 7.36,
+                    "Timeslither Pythoness": 7.45,
+                    "Timelost Thaumaturge": 8.9,
+                    "Absolute Acolyte": 12.17,
+                    "Vigilant Ward": 12.44,
+                    "Dread Knight": 32.06
+                }
+            }
+        },
+        "Ancient Lab": {
+            "Ancient String": {
+                "-": {
+                    "Clockwork Timespinner": 4.58,
+                    "SampleSize": 698,
+                    "Dread Knight": 9.17,
+                    "Epoch Golem": 45.85,
+                    "Portal Paladin": 5.16,
+                    "Portal Plunderer": 21.63,
+                    "Record Keeper": 5.01,
+                    "Record Keeper's Assistant": 1.15,
+                    "Sentient Slime": 1.29,
+                    "Skeletal Champion": 6.16
+                }
+            },
+            "Brie String": {
+                "-": {
+                    "Clockwork Timespinner": 40.79,
+                    "SampleSize": 26922,
+                    "Dread Knight": 1.05,
+                    "Epoch Golem": 4.3,
+                    "Portal Paladin": 5.2,
+                    "Portal Plunderer": 37.36,
+                    "Record Keeper": 5.11,
+                    "Record Keeper's Assistant": 0.45,
+                    "Sentient Slime": 0.53,
+                    "Skeletal Champion": 5.21
+                }
+            },
+            "Magical String": {
+                "-": {
+                    "Clockwork Timespinner": 12.91,
+                    "SampleSize": 2610,
+                    "Epoch Golem": 39.69,
+                    "Portal Paladin": 5.75,
+                    "Portal Plunderer": 21.23,
+                    "Record Keeper": 5.21,
+                    "Record Keeper's Assistant": 5.44,
+                    "Sentient Slime": 4.87,
+                    "Skeletal Champion": 4.9
+                }
+            },
+            "Runic String": {
+                "-": {
+                    "Chamber Cleaver": 26.66,
+                    "SampleSize": 1294,
+                    "Clockwork Timespinner": 1.85,
+                    "Dread Knight": 12.29,
+                    "Epoch Golem": 33.85,
+                    "Portal Paladin": 3.25,
+                    "Portal Plunderer": 13.99,
+                    "Record Keeper": 1.47,
+                    "Record Keeper's Assistant": 0.85,
+                    "Sentient Slime": 0.62,
+                    "Skeletal Champion": 5.18
+                }
+            },
+            "Swiss String": {
+                "-": {
+                    "Clockwork Timespinner": 26.19,
+                    "SampleSize": 1634,
+                    "Dread Knight": 1.71,
+                    "Portal Paladin": 6.73,
+                    "Portal Plunderer": 26.74,
+                    "Record Keeper": 15.85,
+                    "Record Keeper's Assistant": 7.16,
+                    "Sentient Slime": 5.81,
+                    "Skeletal Champion": 9.79
+                }
+            }
+        },
+        "Frozen Alcove": {
+            "Ancient String": {
+                "-": {
+                    "Dread Knight": 35.57,
+                    "SampleSize": 672,
+                    "Harbinger of Death": 0.15,
+                    "Portal Paladin": 8.63,
+                    "Sentient Slime": 55.65
+                }
+            },
+            "Brie String": {
+                "-": {
+                    "Dread Knight": 10,
+                    "SampleSize": 760,
+                    "Portal Paladin": 6.71,
+                    "Sentient Slime": 83.29
+                }
+            },
+            "Magical String": {
+                "-": {
+                    "Dread Knight": 11.22,
+                    "SampleSize": 882,
+                    "Portal Paladin": 8.16,
+                    "Sentient Slime": 80.61
+                }
+            },
+            "Runic String": {
+                "-": {
+                    "Dread Knight": 37.47,
+                    "SampleSize": 2255,
+                    "Harbinger of Death": 0.53,
+                    "Portal Paladin": 6.3,
+                    "Sentient Slime": 55.7
+                }
+            }
+        },
+        "Gearworks": {
+            "Brie String": {
+                "-": {
+                    "Clockwork Timespinner": 8.01,
+                    "SampleSize": 7844,
+                    "Dread Knight": 16.52,
+                    "Portal Paladin": 7.25,
+                    "Portal Plunderer": 5.37,
+                    "Record Keeper": 15.15,
+                    "Record Keeper's Assistant": 22.88,
+                    "Sentient Slime": 13.12,
+                    "Skeletal Champion": 11.7
+                }
+            },
+            "Magical String": {
+                "-": {
+                    "Clockwork Timespinner": 4.43,
+                    "SampleSize": 1353,
+                    "Dread Knight": 16.85,
+                    "Epoch Golem": 3.84,
+                    "Portal Paladin": 8.57,
+                    "Portal Plunderer": 4.21,
+                    "Record Keeper": 17.59,
+                    "Record Keeper's Assistant": 20.03,
+                    "Sentient Slime": 14.78,
+                    "Skeletal Champion": 9.68
+                }
+            },
+            "Runic String": {
+                "-": {
+                    "Harbinger of Death": 0.08,
+                    "SampleSize": 1300,
+                    "Shackled Servant": 0.08,
+                    "Timelost Thaumaturge": 0.46,
+                    "Vigilant Ward": 0.15,
+                    "Chamber Cleaver": 26.15,
+                    "Clockwork Timespinner": 4.08,
+                    "Dread Knight": 37.38,
+                    "Portal Paladin": 5.69,
+                    "Portal Plunderer": 10.54,
+                    "Record Keeper": 2.15,
+                    "Record Keeper's Assistant": 1,
+                    "Sentient Slime": 2.92,
+                    "Skeletal Champion": 9.31
+                }
+            },
+            "Swiss String": {
+                "-": {
+                    "Clockwork Timespinner": 4.7,
+                    "SampleSize": 468,
+                    "Dread Knight": 8.33,
+                    "Portal Paladin": 8.55,
+                    "Portal Plunderer": 2.14,
+                    "Record Keeper": 17.95,
+                    "Record Keeper's Assistant": 20.3,
+                    "Sentient Slime": 23.5,
+                    "Skeletal Champion": 14.53
+                }
+            }
+        },
+        "Guard Barracks": {
+            "Ancient String": {
+                "-": {
+                    "Clockwork Timespinner": 6.04,
+                    "SampleSize": 1060,
+                    "Dread Knight": 14.81,
+                    "Epoch Golem": 8.77,
+                    "Portal Paladin": 58.02,
+                    "Sentient Slime": 12.36
+                }
+            },
+            "Brie String": {
+                "-": {
+                    "Clockwork Timespinner": 28.09,
+                    "SampleSize": 1264,
+                    "Dread Knight": 9.26,
+                    "Portal Paladin": 39,
+                    "Sentient Slime": 23.66
+                }
+            },
+            "Magical String": {
+                "-": {
+                    "Clockwork Timespinner": 14.16,
+                    "SampleSize": 1215,
+                    "Dread Knight": 10.21,
+                    "Epoch Golem": 11.93,
+                    "Portal Paladin": 45.93,
+                    "Sentient Slime": 17.78
+                }
+            },
+            "Runic String": {
+                "-": {
+                    "Clockwork Timespinner": 1.91,
+                    "SampleSize": 3563,
+                    "Dread Knight": 17.65,
+                    "Epoch Golem": 13.42,
+                    "Portal Paladin": 66.04,
+                    "Sentient Slime": 0.98
+                }
+            }
+        },
+        "Hidden Treasury": {
+            "Brie String": {
+                "-": {
+                    "Carrion Medium": 6.96,
+                    "SampleSize": 1020,
+                    "Dread Knight": 11.27,
+                    "Epoch Golem": 8.82,
+                    "Harbinger of Death": 2.35,
+                    "Portal Paladin": 5.39,
+                    "Portal Plunderer": 35.39,
+                    "Shackled Servant": 5.1,
+                    "Skeletal Champion": 4.8,
+                    "Timeless Lich": 9.9,
+                    "Timeslither Pythoness": 10
+                }
+            },
+            "Runic String": {
+                "-": {
+                    "Carrion Medium": 3.02,
+                    "SampleSize": 463,
+                    "Dread Knight": 5.4,
+                    "Epoch Golem": 10.15,
+                    "Harbinger of Death": 2.38,
+                    "Portal Paladin": 4.75,
+                    "Portal Plunderer": 10.8,
+                    "Shackled Servant": 5.62,
+                    "Skeletal Champion": 3.67,
+                    "Timeless Lich": 27.43,
+                    "Timeslither Pythoness": 26.78
+                }
+            }
+        },
+        "Ingress": {
+            "Ancient String": {
+                "-": {
+                    "Clockwork Timespinner": 18.06,
+                    "SampleSize": 432,
+                    "Dread Knight": 16.2,
+                    "Harbinger of Death": 0.93,
+                    "Portal Pursuer": 24.77,
+                    "Sentient Slime": 15.74,
+                    "Shackled Servant": 12.27,
+                    "Vigilant Ward": 12.04
+                }
+            },
+            "Brie String": {
+                "-": {
+                    "Clockwork Timespinner": 18.76,
+                    "SampleSize": 581,
+                    "Dread Knight": 3.1,
+                    "Harbinger of Death": 1.89,
+                    "Portal Pursuer": 32.7,
+                    "Sentient Slime": 27.02,
+                    "Shackled Servant": 6.37,
+                    "Vigilant Ward": 10.15
+                }
+            },
+            "Runic String": {
+                "-": {
+                    "Clockwork Timespinner": 19.51,
+                    "SampleSize": 1261,
+                    "Dread Knight": 19.67,
+                    "Harbinger of Death": 1.11,
+                    "Portal Pursuer": 19.51,
+                    "Sentient Slime": 20.54,
+                    "Shackled Servant": 8.64,
+                    "Vigilant Ward": 11.02
+                }
+            }
+        },
+        "Lucky Tower": {
+            "Brie String": {
+                "-": {
+                    "Clockwork Timespinner": 19.51,
+                    "SampleSize": 1317,
+                    "Dread Knight": 10.48,
+                    "Epoch Golem": 6,
+                    "Harbinger of Death": 1.14,
+                    "Portal Paladin": 3.64,
+                    "Portal Plunderer": 20.27,
+                    "Record Keeper": 10.86,
+                    "Record Keeper's Assistant": 11.01,
+                    "Sentient Slime": 11.47,
+                    "Skeletal Champion": 5.62
+                }
+            },
+            "Magical String": {
+                "-": {
+                    "Clockwork Timespinner": 17.81,
+                    "SampleSize": 421,
+                    "Dread Knight": 9.03,
+                    "Epoch Golem": 23.52,
+                    "Harbinger of Death": 1.9,
+                    "Portal Paladin": 4.04,
+                    "Portal Plunderer": 12.35,
+                    "Record Keeper": 10.45,
+                    "Record Keeper's Assistant": 11.64,
+                    "Sentient Slime": 4.75,
+                    "Skeletal Champion": 4.51
+                }
+            },
+            "Runic String": {
+                "-": {
+                    "Clockwork Timespinner": 13.54,
+                    "SampleSize": 517,
+                    "Dread Knight": 10.25,
+                    "Epoch Golem": 23.79,
+                    "Harbinger of Death": 2.13,
+                    "Portal Paladin": 4.64,
+                    "Portal Plunderer": 15.28,
+                    "Record Keeper": 9.48,
+                    "Record Keeper's Assistant": 11.8,
+                    "Sentient Slime": 3.09,
+                    "Skeletal Champion": 6
+                }
+            }
+        },
+        "Runic Laboratory": {
+            "Ancient String": {
+                "-": {
+                    "Harbinger of Death": 2.21,
+                    "SampleSize": 11093,
+                    "Portal Paladin": 5.54,
+                    "Sentient Slime": 9.64,
+                    "Shackled Servant": 20.18,
+                    "Skeletal Champion": 5.03,
+                    "Timelost Thaumaturge": 25.97,
+                    "Timeslither Pythoness": 10.37,
+                    "Vigilant Ward": 21.07
+                },
+                "Rift Antiskele": {
+                    "Harbinger of Death": 2.5,
+                    "SampleSize": 240,
+                    "Portal Paladin": 4.17,
+                    "Sentient Slime": 9.17,
+                    "Timeslither Pythoness": 12.5,
+                    "Vigilant Ward": 17.92,
+                    "Shackled Servant": 19.17,
+                    "Timelost Thaumaturge": 34.58
+                }
+            },
+            "Brie String": {
+                "-": {
+                    "Dread Knight": 26.27,
+                    "SampleSize": 1321,
+                    "Harbinger of Death": 2.35,
+                    "Portal Paladin": 4.92,
+                    "Sentient Slime": 38.53,
+                    "Shackled Servant": 8.48,
+                    "Skeletal Champion": 4.92,
+                    "Vigilant Ward": 14.53
+                }
+            },
+            "Runic String": {
+                "-": {
+                    "Chamber Cleaver": 15.64,
+                    "SampleSize": 3319,
+                    "Dread Knight": 10.85,
+                    "Harbinger of Death": 1.78,
+                    "Portal Paladin": 4.04,
+                    "Sentient Slime": 0.3,
+                    "Shackled Servant": 15.31,
+                    "Skeletal Champion": 4.19,
+                    "Timelost Thaumaturge": 29.56,
+                    "Timeslither Pythoness": 11.75,
+                    "Vigilant Ward": 6.6
+                }
+            }
+        },
+        "Security": {
+            "Brie String": {
+                "-": {
+                    "Shackled Servant": 1.94,
+                    "SampleSize": 516,
+                    "Skeletal Champion": 90.7,
+                    "Timelost Thaumaturge": 3.1,
+                    "Vigilant Ward": 4.26
+                }
+            }
+        },
+        "Timewarp": {
+            "Ancient String": {
+                "-": {
+                    "Carrion Medium": 14.77,
+                    "SampleSize": 447,
+                    "Dread Knight": 30.65,
+                    "Portal Paladin": 4.25,
+                    "Sentient Slime": 29.08,
+                    "Skeletal Champion": 6.71,
+                    "Timeless Lich": 14.54
+                }
+            },
+            "Brie String": {
+                "-": {
+                    "Carrion Medium": 8.12,
+                    "SampleSize": 1084,
+                    "Dread Knight": 40.96,
+                    "Portal Paladin": 3.78,
+                    "Sentient Slime": 39.3,
+                    "Skeletal Champion": 5.44,
+                    "Timeless Lich": 2.4
+                }
+            },
+            "Runic String": {
+                "-": {
+                    "Carrion Medium": 33.92,
+                    "SampleSize": 21772,
+                    "Chronomaster": 26.4,
+                    "Portal Paladin": 5.17,
+                    "Sentient Slime": 9.94,
+                    "Skeletal Champion": 5.43,
+                    "Timeless Lich": 19.14
+                },
+                "Rift Antiskele": {
+                    "Portal Paladin": 6.19,
+                    "SampleSize": 1261,
+                    "Sentient Slime": 11.5,
+                    "Timeless Lich": 20.06,
+                    "Chronomaster": 28.47,
+                    "Carrion Medium": 33.78
+                }
+            }
+        }
+    },
     "Burroughs Rift": {
         "Mist Level 0": {
             "Magical String": {
@@ -1462,17 +1928,17 @@
             },
             "Ghastly Galleon Gouda": {
                 "-": {
-                    "Spirit Light": 11.18,
-                    "SampleSize": 2370,
-                    "Hollowhead": 10.88,
-                    "Candy Cat": 10.7,
-                    "Tricky Witch": 10.36,
-                    "Teenage Vampire": 10.23,
-                    "Zombot Unipire": 10.23,
-                    "Cobweb": 10.05,
+                    "Spirit Light": 11.17,
+                    "SampleSize": 2395,
+                    "Hollowhead": 10.91,
+                    "Candy Cat": 10.65,
+                    "Tricky Witch": 10.35,
+                    "Teenage Vampire": 10.22,
+                    "Zombot Unipire": 10.22,
+                    "Cobweb": 10.09,
                     "Spectral Swashbuckler": 9.27,
-                    "Trick": 6.05,
-                    "Treat": 5.57,
+                    "Trick": 6.08,
+                    "Treat": 5.56,
                     "Grey Recluse": 5.48
                 }
             }
@@ -2472,18 +2938,18 @@
         "-": {
             "Ghastly Galleon Gouda": {
                 "-": {
-                    "Gourd Ghoul": 11.5,
-                    "SampleSize": 1363,
-                    "Spectral Swashbuckler": 10.92,
-                    "Scorned Pirate": 10.45,
-                    "Pumpkin Hoarder": 9.29,
-                    "Wild Chainsaw": 9.29,
-                    "Grey Recluse": 9.18,
-                    "Sugar Rush": 9.06,
-                    "Hollowed": 8.59,
-                    "Candy Goblin": 7.67,
-                    "Spectral Butler": 7.2,
-                    "Hollowed Minion": 6.85
+                    "Gourd Ghoul": 11.69,
+                    "SampleSize": 1366,
+                    "Spectral Swashbuckler": 10.88,
+                    "Scorned Pirate": 10.42,
+                    "Pumpkin Hoarder": 9.26,
+                    "Grey Recluse": 9.26,
+                    "Wild Chainsaw": 9.26,
+                    "Sugar Rush": 9.03,
+                    "Hollowed": 8.56,
+                    "Candy Goblin": 7.64,
+                    "Spectral Butler": 7.18,
+                    "Hollowed Minion": 6.83
                 }
             }
         }
@@ -2839,56 +3305,39 @@
             },
             "Ghastly Galleon Gouda": {
                 "-": {
-                    "Ghost Pirate Queen": 9.16,
-                    "SampleSize": 12431,
-                    "Scorned Pirate": 8.99,
-                    "Spectral Swashbuckler": 8.67,
-                    "Creepy Marionette": 8.58,
-                    "Gourd Ghoul": 5.5,
+                    "Ghost Pirate Queen": 9.13,
+                    "SampleSize": 12572,
+                    "Scorned Pirate": 9,
+                    "Spectral Swashbuckler": 8.73,
+                    "Creepy Marionette": 8.6,
+                    "Gourd Ghoul": 5.49,
                     "Shortcut": 4.93,
-                    "Dire Lycan": 4.6,
-                    "Grey Recluse": 4.57,
-                    "Maize Harvester": 4.56,
-                    "Sugar Rush": 4.49,
+                    "Grey Recluse": 4.61,
+                    "Dire Lycan": 4.56,
+                    "Maize Harvester": 4.53,
+                    "Sugar Rush": 4.47,
                     "Hollowed Minion": 4.44,
-                    "Spectral Butler": 4.34,
-                    "Wild Chainsaw": 4.2,
+                    "Spectral Butler": 4.33,
+                    "Wild Chainsaw": 4.17,
                     "Mousataur Priestess": 2.21,
-                    "Sandmouse": 2.11,
-                    "Bonbon Gummy Globlin": 1.81,
-                    "Trick": 1.8,
+                    "Sandmouse": 2.09,
+                    "Bonbon Gummy Globlin": 1.84,
+                    "Trick": 1.82,
                     "Gourdborg": 1.8,
-                    "Hollowed": 1.79,
-                    "Titanic Brain-Taker": 1.79,
-                    "Mousevina von Vermin": 1.77,
-                    "Treat": 1.76,
-                    "Cobweb": 1.72,
-                    "Swamp Thang": 1.68,
-                    "Grave Robber": 0.99,
-                    "Candy Cat": 0.93,
-                    "Tricky Witch": 0.83
+                    "Hollowed": 1.78,
+                    "Titanic Brain-Taker": 1.78,
+                    "Mousevina von Vermin": 1.76,
+                    "Treat": 1.74,
+                    "Swamp Thang": 1.71,
+                    "Cobweb": 1.7,
+                    "Grave Robber": 1,
+                    "Candy Cat": 0.92,
+                    "Tricky Witch": 0.84
                 }
             }
         }
     },
     "Furoma Rift": {
-        "Training Grounds": {
-            "Brie String": {
-                "-": {
-                    "Armored Archer": 25.47,
-                    "SampleSize": 22546,
-                    "Dumpling Delivery": 23.97,
-                    "Shinobi": 22.87,
-                    "Raw Diamond": 7.96,
-                    "Wealth": 4.87,
-                    "Rift Guardian": 4.02,
-                    "Shaolin Kung Fu": 3.73,
-                    "Wandering Monk": 3.02,
-                    "Militant Samurai": 2.05,
-                    "Enlightened Labourer": 2.03
-                }
-            }
-        },
         "Pagoda": {
             "Brie String": {
                 "-": {
@@ -2961,23 +3410,20 @@
                 }
             }
         },
-        "Combined": {
-            "Magical String": {
+        "Training Grounds": {
+            "Brie String": {
                 "-": {
-                    "Dumpling Delivery": 16.71,
-                    "SampleSize": 11474,
-                    "Shinobi": 16.65,
-                    "Armored Archer": 15.67,
-                    "Raw Diamond": 7.83,
-                    "Wealth": 7.43,
-                    "Shaolin Kung Fu": 6.2,
-                    "Wandering Monk": 5.58,
-                    "Militant Samurai": 5.08,
-                    "Student of the Chi Claw": 4.88,
-                    "Student of the Chi Fang": 4.58,
-                    "Student of the Chi Belt": 4.44,
-                    "Enlightened Labourer": 3.5,
-                    "Dancing Assassin": 1.47
+                    "Armored Archer": 25.47,
+                    "SampleSize": 22546,
+                    "Dumpling Delivery": 23.97,
+                    "Shinobi": 22.87,
+                    "Raw Diamond": 7.96,
+                    "Wealth": 4.87,
+                    "Rift Guardian": 4.02,
+                    "Shaolin Kung Fu": 3.73,
+                    "Wandering Monk": 3.02,
+                    "Militant Samurai": 2.05,
+                    "Enlightened Labourer": 2.03
                 }
             }
         }
@@ -3061,32 +3507,32 @@
             "Ghastly Galleon Gouda": {
                 "-": {
                     "Creepy Marionette": 9.24,
-                    "SampleSize": 11581,
-                    "Spectral Swashbuckler": 9.22,
-                    "Scorned Pirate": 9.15,
-                    "Ghost Pirate Queen": 8.81,
-                    "Hollowed": 6.24,
-                    "Hollowed Minion": 5.97,
-                    "Gourd Ghoul": 5.23,
-                    "Spectral Butler": 4.68,
-                    "Grey Recluse": 4.28,
-                    "Wild Chainsaw": 3.93,
+                    "SampleSize": 11672,
+                    "Spectral Swashbuckler": 9.21,
+                    "Scorned Pirate": 9.14,
+                    "Ghost Pirate Queen": 8.89,
+                    "Hollowed": 6.23,
+                    "Hollowed Minion": 5.96,
+                    "Gourd Ghoul": 5.21,
+                    "Spectral Butler": 4.69,
+                    "Grey Recluse": 4.25,
+                    "Wild Chainsaw": 3.94,
                     "Maize Harvester": 3.76,
-                    "Shortcut": 3.66,
-                    "Sugar Rush": 3.37,
-                    "Dire Lycan": 2.77,
-                    "Swamp Thang": 1.94,
-                    "Bonbon Gummy Globlin": 1.93,
-                    "Sandmouse": 1.86,
+                    "Shortcut": 3.64,
+                    "Sugar Rush": 3.36,
+                    "Dire Lycan": 2.76,
+                    "Bonbon Gummy Globlin": 1.94,
+                    "Swamp Thang": 1.93,
+                    "Sandmouse": 1.85,
                     "Mousevina von Vermin": 1.83,
                     "Trick": 1.8,
-                    "Candy Cat": 1.77,
+                    "Candy Cat": 1.78,
                     "Treat": 1.75,
-                    "Mousataur Priestess": 1.73,
-                    "Titanic Brain-Taker": 1.69,
+                    "Mousataur Priestess": 1.72,
+                    "Titanic Brain-Taker": 1.71,
                     "Gourdborg": 1.55,
                     "Tomb Exhumer": 1.02,
-                    "Tricky Witch": 0.83
+                    "Tricky Witch": 0.82
                 }
             }
         }
@@ -7772,16 +8218,16 @@
             },
             "Ghastly Galleon Gouda": {
                 "-": {
-                    "Candy Cat": 13.08,
-                    "SampleSize": 922,
-                    "Cobweb": 12.96,
-                    "Hollowhead": 11.82,
-                    "Spectral Swashbuckler": 11.45,
-                    "Tricky Witch": 11.19,
-                    "Zombot Unipire": 10.94,
-                    "Spirit Light": 10.31,
-                    "Teenage Vampire": 9.69,
-                    "Trick": 8.55
+                    "Candy Cat": 13.05,
+                    "SampleSize": 924,
+                    "Cobweb": 12.92,
+                    "Hollowhead": 11.92,
+                    "Spectral Swashbuckler": 11.42,
+                    "Tricky Witch": 11.17,
+                    "Zombot Unipire": 10.92,
+                    "Spirit Light": 10.29,
+                    "Teenage Vampire": 9.66,
+                    "Trick": 8.66
                 }
             }
         }
@@ -7975,28 +8421,28 @@
             },
             "Ghastly Galleon Gouda": {
                 "-": {
-                    "Scorned Pirate": 7.68,
-                    "SampleSize": 2981,
-                    "Spectral Swashbuckler": 7.16,
-                    "Wild Chainsaw": 6.99,
+                    "Scorned Pirate": 7.74,
+                    "SampleSize": 3028,
+                    "Spectral Swashbuckler": 7.26,
+                    "Wild Chainsaw": 7.05,
                     "Gourd Ghoul": 6.78,
-                    "Grey Recluse": 5.67,
-                    "Dire Lycan": 5.6,
-                    "Sugar Rush": 5.6,
-                    "Pumpkin Hoarder": 5.46,
-                    "Hollowed Minion": 5.32,
-                    "Maize Harvester": 4.97,
+                    "Grey Recluse": 5.68,
+                    "Dire Lycan": 5.61,
+                    "Sugar Rush": 5.55,
+                    "Pumpkin Hoarder": 5.37,
+                    "Hollowed Minion": 5.31,
+                    "Maize Harvester": 5,
                     "Shortcut": 4.83,
-                    "Hollowed": 4.73,
+                    "Hollowed": 4.72,
                     "Candy Goblin": 4.59,
                     "Spectral Butler": 4.52,
-                    "Candy Cat": 3.93,
-                    "Treat": 3.27,
-                    "Trick": 3.2,
-                    "Tricky Witch": 2.78,
-                    "Titanic Brain-Taker": 2.64,
-                    "Swamp Thang": 2.22,
-                    "Bonbon Gummy Globlin": 2.09
+                    "Candy Cat": 3.9,
+                    "Treat": 3.22,
+                    "Trick": 3.15,
+                    "Tricky Witch": 2.77,
+                    "Titanic Brain-Taker": 2.6,
+                    "Swamp Thang": 2.23,
+                    "Bonbon Gummy Globlin": 2.12
                 }
             }
         }
@@ -9284,29 +9730,28 @@
         "-": {
             "Ghastly Galleon Gouda": {
                 "-": {
-                    "Wild Chainsaw": 7.18,
-                    "SampleSize": 3195,
-                    "Gourd Ghoul": 7.08,
-                    "Spectral Swashbuckler": 7.02,
-                    "Scorned Pirate": 6.44,
-                    "Dire Lycan": 5.68,
-                    "Grey Recluse": 5.55,
-                    "Shortcut": 5.23,
-                    "Spectral Butler": 5.04,
-                    "Hollowed Minion": 5.01,
-                    "Pumpkin Hoarder": 5.01,
-                    "Sugar Rush": 4.98,
-                    "Candy Goblin": 4.88,
-                    "Hollowed": 4.75,
-                    "Maize Harvester": 4.69,
-                    "Candy Cat": 3.99,
-                    "Treat": 3.32,
-                    "Trick": 2.9,
-                    "Tricky Witch": 2.49,
-                    "Swamp Thang": 2.46,
-                    "Titanic Brain-Taker": 2.36,
-                    "Grave Robber": 2.04,
-                    "Bonbon Gummy Globlin": 1.91
+                    "Wild Chainsaw": 7.28,
+                    "SampleSize": 3211,
+                    "Gourd Ghoul": 7.28,
+                    "Spectral Swashbuckler": 7.18,
+                    "Scorned Pirate": 6.54,
+                    "Dire Lycan": 5.76,
+                    "Grey Recluse": 5.63,
+                    "Shortcut": 5.31,
+                    "Spectral Butler": 5.11,
+                    "Hollowed Minion": 5.11,
+                    "Pumpkin Hoarder": 5.11,
+                    "Sugar Rush": 5.08,
+                    "Candy Goblin": 5.01,
+                    "Hollowed": 4.85,
+                    "Maize Harvester": 4.79,
+                    "Candy Cat": 4.08,
+                    "Treat": 3.4,
+                    "Trick": 2.94,
+                    "Tricky Witch": 2.52,
+                    "Swamp Thang": 2.49,
+                    "Titanic Brain-Taker": 2.43,
+                    "Grave Robber": 2.1
                 }
             }
         }
@@ -9727,17 +10172,17 @@
             "Ghastly Galleon Gouda": {
                 "-": {
                     "Zombot Unipire": 11.3,
-                    "SampleSize": 1666,
-                    "Candy Cat": 11.06,
-                    "Cobweb": 10.75,
+                    "SampleSize": 1678,
+                    "Candy Cat": 11.05,
+                    "Cobweb": 10.74,
                     "Spectral Swashbuckler": 10.19,
                     "Tricky Witch": 10.19,
-                    "Teenage Vampire": 9.94,
+                    "Teenage Vampire": 10.07,
                     "Spirit Light": 9.94,
                     "Hollowhead": 9.82,
-                    "Trick": 6.67,
-                    "Treat": 5.68,
-                    "Grey Recluse": 4.45
+                    "Trick": 6.63,
+                    "Treat": 5.65,
+                    "Grey Recluse": 4.42
                 }
             }
         }
@@ -12382,40 +12827,6 @@
         }
     },
     "Moussu Picchu": {
-        "-": {
-            "Ghastly Galleon Gouda": {
-                "-": {
-                    "Scorned Pirate": 9.29,
-                    "SampleSize": 8814,
-                    "Creepy Marionette": 9.2,
-                    "Spectral Swashbuckler": 8.98,
-                    "Ghost Pirate Queen": 8.88,
-                    "Spectral Butler": 5.5,
-                    "Maize Harvester": 5.05,
-                    "Dire Lycan": 4.82,
-                    "Gourd Ghoul": 4.55,
-                    "Grey Recluse": 4.51,
-                    "Hollowed": 4.49,
-                    "Hollowed Minion": 4.19,
-                    "Shortcut": 3.84,
-                    "Wild Chainsaw": 3.5,
-                    "Mousevina von Vermin": 1.94,
-                    "Sugar Rush": 1.9,
-                    "Candy Cat": 1.86,
-                    "Treat": 1.84,
-                    "Swamp Thang": 1.84,
-                    "Gourdborg": 1.81,
-                    "Bonbon Gummy Globlin": 1.79,
-                    "Sandmouse": 1.78,
-                    "Titanic Brain-Taker": 1.7,
-                    "Mousataur Priestess": 1.7,
-                    "Teenage Vampire": 1.67,
-                    "Trick": 1.65,
-                    "Tomb Exhumer": 0.91,
-                    "Tricky Witch": 0.81
-                }
-            }
-        },
         "Low/Low": {
             "SB+": {
                 "-": {
@@ -12551,6 +12962,40 @@
             "Dragonvine": {
                 "-": {
                     "Ful'Mina": 100
+                }
+            }
+        },
+        "-": {
+            "Ghastly Galleon Gouda": {
+                "-": {
+                    "Scorned Pirate": 9.28,
+                    "SampleSize": 8884,
+                    "Creepy Marionette": 9.21,
+                    "Spectral Swashbuckler": 9.01,
+                    "Ghost Pirate Queen": 8.87,
+                    "Spectral Butler": 5.5,
+                    "Maize Harvester": 5.06,
+                    "Dire Lycan": 4.79,
+                    "Gourd Ghoul": 4.53,
+                    "Hollowed": 4.48,
+                    "Grey Recluse": 4.47,
+                    "Hollowed Minion": 4.2,
+                    "Shortcut": 3.83,
+                    "Wild Chainsaw": 3.5,
+                    "Mousevina von Vermin": 1.97,
+                    "Sugar Rush": 1.9,
+                    "Candy Cat": 1.86,
+                    "Swamp Thang": 1.86,
+                    "Treat": 1.85,
+                    "Gourdborg": 1.8,
+                    "Bonbon Gummy Globlin": 1.79,
+                    "Sandmouse": 1.78,
+                    "Mousataur Priestess": 1.7,
+                    "Titanic Brain-Taker": 1.69,
+                    "Teenage Vampire": 1.66,
+                    "Trick": 1.66,
+                    "Tomb Exhumer": 0.91,
+                    "Tricky Witch": 0.82
                 }
             }
         }
