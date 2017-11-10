@@ -17,7 +17,7 @@
     "baselines": "node build/processBaselines.js",
     "wisdom": "node build/processWisdom.js",
     "loot": "node build/processLoot.js",
-    "build": "npm-run-all --parallel bookmarklet population baselines wisdom"
+    "build": "npm-run-all --parallel bookmarklet population baselines wisdom loot"
   },
   "repository": {
     "type": "git",
