@@ -1156,5 +1156,45 @@
                 }
             }
         }
+    },
+    "-": {
+        "-": {
+            "-": {
+                "-": {
+                    "Super Nightshade Farming Charm": {
+                        "-": {
+                            "-": {
+                                "Nightshade": 1,
+                                "SampleSize": 4943
+                            }
+                        }
+                    },
+                    "Rift Vacuum Charm": {
+                        "-": {
+                            "-": {
+                                "Calcified Rift Mist": 0.2650533065998049
+                            }
+                        }
+                    },
+                    "Enerchi Charm": {
+                        "-": {
+                            "-": {
+                                "Enerchi": 2
+                            }
+                        },
+                        "Enerchi Induction Base": {
+                            "-": {
+                                "Enerchi": 4
+                            }
+                        },
+                        "Attuned Enerchi Induction Base": {
+                            "-": {
+                                "Enerchi": 5
+                            }
+                        }
+                    }
+                }
+            }
+        }
     }
 }
