@@ -8,7 +8,8 @@ var WISDOM_URL = "data/mouse-wisdom.json";
 
 var popLoaded = 0,
   baselineLoaded = 0,
-  wisdomLoaded = 0;
+  wisdomLoaded = 0,
+  lootLoaded = 0;
 
 /**
  * Population data parsed from CSV
@@ -29,12 +30,21 @@ var baselineArray = {};
 var mouseWisdom = {};
 
 /**
+ * Mouse loot drops
+ * @type {{mouse: {location: {phase: {cheese: {charm: {base: {trap: {loot: number}}}}}}}}}
+ */
+var mouseLoot = {};
+
+/**
  * Start population and baseline loading
  */
-function startPopulationLoad(populationJsonUrl) {
+function startPopulationLoad(populationJsonUrl, lootJsonUrl) {
   $.getJSON(populationJsonUrl, setPopulation);
   $.getJSON(BASELINES_URL, setBaseline);
   $.getJSON(WISDOM_URL, setWisdom);
+  if (lootJsonUrl) {
+    $.getJSON(lootJsonUrl, setLoot);
+  }
 
   function setPopulation(jsonData) {
     popArray = jsonData;
@@ -51,6 +61,12 @@ function startPopulationLoad(populationJsonUrl) {
   function setWisdom(jsonData) {
     mouseWisdom = jsonData;
     wisdomLoaded = true;
+    checkLoadState();
+  }
+
+  function setLoot(lootData) {
+    mouseLoot = lootData;
+    lootLoaded = true;
     checkLoadState();
   }
 }
