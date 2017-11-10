@@ -1,5 +1,38 @@
 "use strict";
 
+// Utility function for determining size of multi-level array
+Object.size = function (obj) {
+    var size = 0;
+    for (var key in obj) {
+        if (obj.hasOwnProperty(key)) {
+            size++;
+        }
+    }
+    return size;
+};
+
+var rankupDiff = {
+    "novice": 2000, //2000-0
+    "recruit": 3000, //5000-2000
+    "apprentice": 7500, //12500-5000
+    "initiate": 18750, //31250-12500
+    "journeyman": 34190, //65440-31250
+    "master": 72373, //137813-65440
+    "grandmaster": 165375, //303188-137813
+    "legendary": 363825, //667013-303188
+    "hero": 800415, //1467428-667013
+    "knight": 1760913, //3228341-1467428
+    "lord": 3874008, //7102349-3228341
+    "baron": 8522819, //15625168-7102349
+    "count": 18750202, //34375370-15625168
+    "duke": 41250443, //75625813-34375370
+    "grandduke": 90750976, //166376789-75625813
+    "archduke": 199652147, //366028936-166376789
+    "viceroy": 439234723, //805263659-366028936
+    "elder": 966316389, //1771580048-805263659
+    "sage": 2125896058, //3897476106-1771580048
+}
+
 var standardCheeseCost = {
     "Cheddar" : 10,
     "Marble" : 50,
@@ -9,16 +42,6 @@ var standardCheeseCost = {
     "Marble String" : 300,
     "Swiss String" : 800,
     "Brie String" : 1600,
-};
-//Function for determining size of multi-level array
-Object.size = function (obj) {
-    var size = 0;
-    for (var key in obj) {
-        if (obj.hasOwnProperty(key)) {
-            size++;
-        }
-    }
-    return size;
 };
 
 var ztAmp = 100;
@@ -49,7 +72,8 @@ var riftCharms = [
     "Gnarled Charm",
     "Stagnant Charm",
     "Super Enerchi Charm",
-    "Timesplit Charm"
+    "Timesplit Charm",
+    "Extra Spooky Charm"
 ];
 
 var labyrinthMiceClues = {
@@ -82,6 +106,7 @@ var labyrinthMiceClues = {
 };
 
 var dragons = ["Dragon", "Dragoon", "Ful'Mina", "Thunder Strike", "Thundering Watcher", "Thunderlord", "Violet Stormchild"];
+var tauntings = ["Centaur Ranger", "Cyclops Barbarian", "Monstrous Black Widow", "Tri-dra"];
 
 var berglings = ["Incompetent Ice Climber", "Polar Bear", "Snow Slinger", "Snow Soldier", "Iceblock", "Wolfskie", "Snowblind"];
 var brutes = ["Snow Bowler", "Yeti", "Mammoth"];
@@ -219,9 +244,8 @@ var baselineAttArray = {
     "Ascended": 0.99,
     "Crescent": 0.85, // Slightly higher than Gouda?
     "Moon": 0.9995,
-    "Runic String": 0.99,
-    "Ancient String": 0.99,
-    "Ghastly Galleon Gouda": 1.00,
+    "Runic String": 0.99, //Guesstimate
+    "Ancient String": 0.99, //Guesstimate
 };
 
 /* Its okay using strings as keys here, JS will convert it */
@@ -1622,6 +1646,7 @@ var weaponsArray = {
     "Grand Arcanum Trap": ["Arcane", 4800, 12, 5, 22, "No Effect"],
     "Grungy Deathbot": ["Physical", 2400, 15, 10, 2, "Stale"],
     "Harpoon Gun": ["Hydro", 3000, 7, 0, 0, "Stale"],
+    "Haunted Shipwreck Trap": ["Hydro", 5000, 20, 10, 10, "Very Stale"],
     "Heat Bath": ["Hydro", 4000, 5, 0, 14, "Stale"],
     "High Tension Spring": ["Physical", 75, 5, 20, 2, "No Effect"],
     "HitGrab Horsey": ["Physical", 550, 2, 0, 20, "Very Fresh"],
@@ -2740,7 +2765,7 @@ var powersArray = {
     "Wealthy Werewarrior": [18900, 100, 0, 0, 0, 0, 0, 150, 0, 0, 0],
     "Werehauler": [17000, 100, 0, 0, 0, 0, 0, 150, 0, 0, 0],
     "Wereminer": [29001, 100, 0, 0, 0, 0, 0, 150, 0, 0, 0],
-    "Chronomaster" : [2000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 200],
+    "Chronomaster" : [1000*2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 200], // unconfirmed eff
     "Epoch Golem" : [1250, 0, 0, 0, 0, 0, 0, 0, 0, 0, 100],
     "Chamber Cleaver" : [1400, 0, 0, 0, 0, 0, 0, 0, 0, 0, 100],
     "Skeletal Champion" : [1550, 0, 0, 0, 0, 0, 0, 0, 0, 0, 100],
@@ -2750,16 +2775,16 @@ var powersArray = {
     "Record Keeper" : [2300, 0, 0, 0, 0, 0, 0, 0, 0, 0, 100],
     "Clockwork Timespinner" : [2300, 0, 0, 0, 0, 0, 0, 0, 0, 0, 100],
     "Dread Knight" : [2450, 0, 0, 0, 0, 0, 0, 0, 0, 0, 100],
-    "Harbinger of Death" : [4250, 0, 0, 0, 0, 0, 0, 0, 0, 0, 200],
-    "Absolute Acolyte" : [7020, 0, 0, 0, 0, 0, 0, 0, 0, 0, 325],
-    "Timelost Thaumaturge" : [4700, 0, 0, 0, 0, 0, 0, 0, 0, 0, 200],
-    "Vigilant Ward" : [5000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 200],
-    "Carrion Medium" : [6667, 0, 0, 0, 0, 0, 0, 0, 0, 0, 250],
-    "Shackled Servant" : [5800, 0, 0, 0, 0, 0, 0, 0, 0, 0, 200],
-    "Timeless Lich" : [7128, 0, 0, 0, 0, 0, 0, 0, 0, 0, 225],
-    "Timeslither Pythoness" : [8800, 0, 0, 0, 0, 0, 0, 0, 0, 0, 200],
+    "Harbinger of Death" : [2125*2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 200], // unconfirmed eff
+    "Absolute Acolyte" : [2160*3.25, 0, 0, 0, 0, 0, 0, 0, 0, 0, 325], // unconfirmed eff
+    "Timelost Thaumaturge" : [2350*2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 200], // unconfirmed eff
+    "Vigilant Ward" : [2500*2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 200], // unconfirmed eff
+    "Carrion Medium" : [2667*2.5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 250], // unconfirmed eff
+    "Shackled Servant" : [2900*2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 200], // unconfirmed eff
+    "Timeless Lich" : [3168*2.25, 0, 0, 0, 0, 0, 0, 0, 0, 0, 225], // unconfirmed eff
+    "Timeslither Pythoness" : [4400*2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 200], // unconfirmed eff
     "Portal Paladin" : [8000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 100],
-    "Portal Pursuer" : [7500, 0, 0, 0, 0, 0, 0, 0, 0, 0, 75],
+    "Portal Pursuer" : [10000*0.75, 0, 0, 0, 0, 0, 0, 0, 0, 0, 75], // unconfirmed eff
     // Moussu Picchu
     "Breeze Borrower": [3500, 100, 100, 0, 0, 0, 0, 100, 0, 0, 0],
     "Cloud Collector": [2400, 100, 100, 0, 0, 0, 0, 100, 0, 0, 0],
@@ -2779,12 +2804,12 @@ var powersArray = {
     "Rain Summoner": [7000, 100, 50, 0, 0, 0, 0, 150, 0, 0, 0],
     "Monsoon Maker": [9500, 100, 50, 0, 0, 0, 0, 150, 0, 0, 0],
     "Rainmancer": [18500, 100, 50, 0, 0, 0, 0, 150, 0, 0, 0],
-    "Thunder Strike": [1700*2, 0, 200, 0, 0, 0, 0, 0, 0, 0, 0], // unconfirmed
-    "Violet Stormchild": [2500*2, 0, 200, 0, 0, 0, 0, 0, 0, 0, 0], // unconfirmed
-    "Thunderlord": [4500*5, 0, 500, 0, 0, 0, 0, 0, 0, 0, 0], // unconfirmed
-    "Thundering Watcher": [5500*5, 0, 500, 0, 0, 0, 0, 0, 0, 0, 0], // unconfirmed
-    "Dragoon": [9600*2.5, 0, 250, 0, 0, 0, 0, 0, 0, 0, 0], // unconfirmed
-    "Ful'Mina": [260000, 0, 3000, 0, 0, 0, 0, 0, 0, 0, 0], // unconfirmed
+    "Thunder Strike": [1650, 0, 100, 0, 0, 0, 0, 0, 0, 0, 0], // unconfirmed power
+    "Violet Stormchild": [2500, 0, 100, 0, 0, 0, 0, 0, 0, 0, 0], // unconfirmed power
+    "Thunderlord": [4500*2.25, 0, 225, 0, 0, 0, 0, 0, 0, 0, 0], // unconfirmed eff
+    "Thundering Watcher": [5500*2, 0, 200, 0, 0, 0, 0, 0, 0, 0, 0], // unconfirmed eff
+    "Dragoon": [9600*2, 0, 200, 0, 0, 0, 0, 0, 0, 0, 0], // unconfirmed eff
+    "Ful'Mina": [8667*30, 0, 3000, 0, 0, 0, 0, 0, 0, 0, 0], // unconfirmed eff
 };
 /* [Gold, Points] */
 var miceArray = {
@@ -3657,7 +3682,7 @@ var miceArray = {
     "Thunder Strike": [10000, 60000],
     "Violet Stormchild": [10000, 70000],
     "Thunderlord": [15000, 90000],
-    "Thunder Watcher": [18000, 100000],
+    "Thundering Watcher": [18000, 100000],
     "Dragoon": [20000, 100000],
     "Ful'Mina": [30000, 120000],
 };

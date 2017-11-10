@@ -1,6 +1,7 @@
 "use strict";
 
 var POPULATION_JSON_URL = "data/populations-cre.json";
+var LOOT_JSON_URL = "data/loot-cre.json";
 
 var cheeseCost = 0, sampleSize = 0, rank = '';
 
@@ -24,7 +25,7 @@ window.onload = function () {
     });
 
     loadBookmarkletFromJS(CRE_BOOKMARKLET_URL, "creBookmarklet", "#bookmarklet");
-    startPopulationLoad(POPULATION_JSON_URL);
+    startPopulationLoad(POPULATION_JSON_URL, LOOT_JSON_URL);
 
     loadDropdown("weapon", weaponKeys, weaponChanged, "<option></option>");
     loadDropdown("base", baseKeys, baseChanged, "<option></option>");
@@ -132,7 +133,7 @@ function updateCustomSetup() {
 }
 
 function checkLoadState() {
-    var loadPercentage = (popLoaded + baselineLoaded + advancementLoaded) / 3 * 100;
+    var loadPercentage = (popLoaded + baselineLoaded + wisdomLoaded + lootLoaded) / 4 * 100;
     var status = document.getElementById("status");
     status.innerHTML = "<td>Loaded " + loadPercentage + "%...</td>";
 
@@ -242,9 +243,9 @@ function showPop(type) { //type = 2 means don't reset charms
     }
 
     function getHeaderRow() {
-        var headerHTML = "<tr align='left'><th align='left'>Mouse</th><th data-filter='false'>Attraction<br>Rate</th><th data-filter='false'>Catch<br>Rate</th><th data-filter='false'>Catches per<br>100 hunts</th><th data-filter='false'>Gold</th><th data-filter='false'>Points</th><th data-filter='false'>Tournament<br>Points</th><th data-filter='false'>Min.<br>Luck</th>";
+        var headerHTML = "<tr align='left'><th align='left'>Mouse</th><th data-filter='false'>Attraction<br>Rate</th><th data-filter='false'>Catch<br>Rate</th><th data-filter='false'>Catches /<br>100 hunts</th><th data-filter='false'>Gold</th><th data-filter='false'>Points</th><th data-filter='false'>Tourney<br>Points</th><th data-filter='false'>Min.<br>Luck</th><th>Loot</th>";
         if (rank) {
-            headerHTML += "<th data-filter='false'>Rank %</th>";
+            headerHTML += "<th data-filter='false'>Rank</th>";
         }
         if (locationName.indexOf("Seasonal Garden") >= 0) {
             headerHTML += "<th data-filter='false'>Amp %</th>";
@@ -312,7 +313,8 @@ function showPop(type) { //type = 2 means don't reset charms
         var overallPX2 = 0;
         var percentSD = 0;
         var minLuckOverall = 0;
-        var overallAdvancement = 0;
+        var overallProgress = 0;
+        var overallLoot = {};
 
         if (specialCharmsList && specialCharmsList.indexOf(charmName.slice(0, -1)) >= 0) {
             sampleSize = 0;
@@ -419,6 +421,24 @@ function showPop(type) { //type = 2 means don't reset charms
                     catchRate = calcCR(eff, trapPower, trapLuck, mousePower);
                     charmBonus -= 300;
                     calculateTrapSetup(true);
+                } else if (charmName === "Taunting Charm" && contains(tauntings, mouseName)) {
+                    var riftCount = getRiftCount(weaponName, baseName, charmName);
+                    var multiplier = (riftStalkerCodex) ? 2 : 1;
+                    if (riftCount === 1) {
+                        weaponPower *= (1 + (1/10 * multiplier));
+                    } else if (riftCount === 2) {
+                        weaponPower *= (1 + (1/10 * multiplier));
+                        bonusLuck += 5 * multiplier;
+                    }
+                    calculateTrapSetup(true);
+                    catchRate = calcCR(eff, trapPower, trapLuck, mousePower);
+                    if (riftCount === 1) {
+                        weaponPower /= (1 + (1/10 * multiplier));
+                    } else if (riftCount === 2) {
+                        weaponPower /= (1 + (1/10 * multiplier));
+                        bonusLuck -= 5 * multiplier;
+                    }
+                    calculateTrapSetup(true);
                 }
 
                 var minLuckValue = minLuck(eff, mousePower);
@@ -477,6 +497,10 @@ function showPop(type) { //type = 2 means don't reset charms
                 var TP = catches * tourneyPoints / 100;
                 var PX2 = TP * tourneyPoints;
 
+                var loot = extractMouseLoot(mouseLoot, locationName, phaseName, weaponName, baseName, cheeseName, charmName, mouseName);
+                var catchAffectedLoot = multiplyLoot(loot, catches)
+                accumulateLoot(overallLoot, catchAffectedLoot)
+
                 overallCR += catches;
                 overallTP += TP;
                 overallPX2 += PX2;
@@ -488,13 +512,14 @@ function showPop(type) { //type = 2 means don't reset charms
                 catchRate = catchRate.toFixed(2);
                 catches = catches.toFixed(2);
 
-                var mouseRow = "<td align='left'>" + mouseName + "</td><td>" + attractions.toFixed(2) + "%</td><td>" + catchRate + "%</td><td>" + catches + "</td><td>" + commafy(mouseGold) + "</td><td>" + commafy(mousePoints) + "</td><td>" + tourneyPoints + "</td><td>" + minLuckValue + "</td>";
+                var mouseRow = "<td align='left'>" + mouseName + "</td><td>" + attractions.toFixed(2) + "%</td><td>" + catchRate + "%</td><td>" + catches + "</td><td>" + commafy(mouseGold) + "</td><td>" + commafy(mousePoints) + "</td><td>" + tourneyPoints + "</td><td>" + minLuckValue + "</td><td>" + lootToString(loot) + "</td>";
 
                 if (rank) {
-                    var adv = advancementArray.hasOwnProperty(mouseName) && advancementArray[ mouseName ][ rank ] || 0;
-                    mouseRow += "<td>" + (adv ? (adv * 100).toFixed(4)+'%' : '&nbsp;') + "</td>";
-                    adv *= catches
-                    overallAdvancement += adv;
+                    var adv = mouseWisdom[mouseName] / rankupDiff[rank];
+                    var helpMessage = '<a href=\'https://docs.google.com/spreadsheets/d/1nzD6iiHauMMwD2eHBuAyRziYJtCVnNwSYzCKbBnrRgc/edit#gid=1426419522\' target=\'blank\'>Missing</a>';
+                    mouseRow += "<td>" + (adv ? (adv * 100).toFixed(4)+'%' : helpMessage) + "</td>";
+                    adv *= catches;
+                    overallProgress += adv;
                 }
 
                 if (locationName.indexOf("Seasonal Garden") >= 0) {
@@ -584,16 +609,16 @@ function showPop(type) { //type = 2 means don't reset charms
             }
         }
 
-        //Formatting
+        // Formatting
         overallAR *= 100;
         overallPX2 -= overallTP * overallTP;
         overallPX2 = Math.sqrt(overallPX2);
-
         percentSD = overallPX2 / overallTP * 100;
+        var averageCR = overallCR / overallAR * 100;
 
-        resultsHTML += "</tbody><tr align='right'><td align='left'><b>Overall</b></td><td>" + overallAR.toFixed(2) + "%</td><td></td><td>" + overallCR.toFixed(2) + "</td><td>" + commafy(Math.round(overallGold)) + "</td><td>" + commafy(Math.round(overallPoints)) + "</td><td>" + overallTP.toFixed(2) + "</td><td>" + minLuckOverall + "</td>";
+        resultsHTML += "</tbody><tr align='right'><td align='left'><b>Sums / Averages</b></td><td>" + overallAR.toFixed(2) + "%</td><td>" + averageCR.toFixed(2) + "%</td><td>" + overallCR.toFixed(2) + "</td><td>" + commafy(Math.round(overallGold)) + "</td><td>" + commafy(Math.round(overallPoints)) + "</td><td>" + overallTP.toFixed(2) + "</td><td>" + minLuckOverall + "</td><td>" + lootToString(overallLoot) + "</td>";
         if (rank) {
-            resultsHTML += "<td>" + (overallAdvancement*100).toFixed(4) + "%</td>";
+            resultsHTML += "<td>" + (overallProgress).toFixed(4) + "%</td>";
         }
         if (locationName.indexOf("Seasonal Garden") >= 0) {
             deltaAmpOverall += (100 - overallAR) / 100 * -3; //Accounting for FTAs (-3%)

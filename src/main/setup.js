@@ -111,7 +111,7 @@ $(window).load(function () {
 
 function checkLoadState() {
     var batteryParameter;
-    var loadPercentage = (popLoaded + baselineLoaded) / 2 * 100;
+    var loadPercentage = (popLoaded + baselineLoaded + wisdomLoaded) / 3 * 100;
     var status =document.querySelector("#status");
     status.innerHTML = "<td>Loaded " + loadPercentage + "%...</td>";
 
@@ -556,10 +556,11 @@ function showPop() {
         for (var mouseName in population) {
             resultsHeader += "<th data-filter='false'>" + mouseName + "</th>";
         }
+        resultsHeader += "<th id='overallHeader' data-filter='false'>Overall</th>";
         if (rank) {
-            resultsHeader += "<th data-filter='false' title='Rank progress per 100 hunts'>Rank %</th>";
+            resultsHeader += "<th data-filter='false' title='Rank progress per 100 hunts'>Rank</th>";
         }
-        resultsHeader += "<th id='overallHeader' data-filter='false'>Overall</th></tr></thead>";
+        resultsHeader += "</tr></thead>";
         return resultsHeader;
     }
 }
@@ -639,18 +640,18 @@ function buildMiceCRCells(micePopulation) {
         overallCR += catches;
         if (rank) {
             // handle missing data
-            if (advancementArray[ mouse ]) {
-                overallProgress += advancementArray[ mouse ][ rank ] * catches;
+            if (mouseWisdom[mouse]) {
+                overallProgress += mouseWisdom[mouse] / rankupDiff[rank] * catches;
             }
         }
         html += "<td align='right'>" + catches.toFixed(2) + "</td>";
     }
 
+    html += "<td align='right'>" + overallCR.toFixed(2) + "</td>";
     if (rank) {
-        // numbers are usually 0.00##% per hunt, so for 100 hunts it is easier to grasp
+        // numbers are usually 0.00##% per hunt, but per 100 hunts is consistent with values shown
         html += "<td>" + (overallProgress*100).toFixed(2) + "%</td>";
     }
-    html += "<td>" + overallCR.toFixed(2) + "</td>";
     return html;
 }
 
@@ -797,6 +798,9 @@ function getMouseACR(micePopulation, mouseName, overallAR, effectivenessArray, p
             mousePower /= 2;
         }
     }
+    if (contains(dragons, mouseName) && charmName === "Dragonbane Charm") {
+        charmBonus += 300;
+    }
 
     calculateTrapSetup();
 
@@ -843,10 +847,9 @@ function getMouseCatches(micePopulation, mouse, overallAR, effectivenessArray, p
     var catchRate = mouseACDetails.catchRate;
 
 
-    //Exceptions, modifications to catch rates
+    //Exceptions, final modifications to catch rates
     if (charmName == "Ultimate Charm") catchRate = 1;
     else if (locationName == "Sunken City" && charmName == "Ultimate Anchor Charm" && phaseName != "Docked") catchRate = 1;
-    else if (mouse == "Dragon" && charmName == "Dragonbane Charm") catchRate *= 2;
     else if (mouse == "Bounty Hunter" && charmName == "Sheriff's Badge Charm") catchRate = 1;
     else if (mouse == "Zurreal the Eternal" && weaponName != "Zurreal's Folly") catchRate = 0;
 
