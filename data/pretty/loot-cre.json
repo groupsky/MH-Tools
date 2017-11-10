@@ -556,5 +556,605 @@
                 }
             }
         }
+    },
+    "Bitter Root": {
+        "Fungal Cavern": {
+            "-": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Cavern Fungus": 0.32277213687027095,
+                                "SampleSize": 112866
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Cavern Crumbler": {
+        "Fungal Cavern": {
+            "-": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Mineral": 0.10177873404602855,
+                                "SampleSize": 88771
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Crag Elder": {
+        "Fungal Cavern": {
+            "-": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Mineral": 3.938006613504434,
+                                "SampleSize": 152113
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Crystal Behemoth": {
+        "Fungal Cavern": {
+            "-": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Crystal Crucible": 10,
+                                "SampleSize": 6364
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Crystal Cave Worm": {
+        "Fungal Cavern": {
+            "-": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Gemstone": 1.5008447729672652,
+                                "SampleSize": 18940
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Crystal Controller": {
+        "Fungal Cavern": {
+            "-": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Gemstone": 0.4717878426698451,
+                                "SampleSize": 83900
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Crystal Golem": {
+        "Fungal Cavern": {
+            "-": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Diamond": 1,
+                                "SampleSize": 6926
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Crystal Lurker": {
+        "Fungal Cavern": {
+            "-": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Diamond": 0.5595966980413659,
+                                "SampleSize": 32829
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Crystal Observer": {
+        "Fungal Cavern": {
+            "-": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Diamond": 0.5479446717319306,
+                                "SampleSize": 25665
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Crystal Queen": {
+        "Fungal Cavern": {
+            "-": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Diamond": 0.5581636256621542,
+                                "SampleSize": 42475
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Crystalback": {
+        "Fungal Cavern": {
+            "-": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Gemstone": 0.47304946775203505,
+                                "SampleSize": 79850
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Crystalline Slasher": {
+        "Fungal Cavern": {
+            "-": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Mineral": 11.003669440281152,
+                                "SampleSize": 116094
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Diamondhide": {
+        "Fungal Cavern": {
+            "-": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Crystal Crucible": 1.9974048442906573,
+                                "SampleSize": 1156
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Dirt Thing": {
+        "Fungal Cavern": {
+            "-": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Mineral": 6.762323419459424,
+                                "SampleSize": 120908
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Floating Spore": {
+        "Fungal Cavern": {
+            "-": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Nightshade": 1.500855099924534,
+                                "SampleSize": 184189
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Funglore": {
+        "Fungal Cavern": {
+            "-": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Cavern Fungus": 3.496464353470578,
+                                "SampleSize": 191337
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Gemstone Worshipper": {
+        "Fungal Cavern": {
+            "-": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Mineral": 20,
+                                "SampleSize": 14929,
+                                "Diamond": 0.04199879429298681,
+                                "Gemstone": 0.03221917074150981
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Huntereater": {
+        "Fungal Cavern": {
+            "-": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Crystal Crucible": 1,
+                                "SampleSize": 3832
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Lumahead": {
+        "Fungal Cavern": {
+            "-": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Cavern Fungus": 1.2774751961929294,
+                                "SampleSize": 183238
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Mush": {
+        "Fungal Cavern": {
+            "-": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Cavern Fungus": 0.731628381827463,
+                                "SampleSize": 195900
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Mushroom Sprite": {
+        "Fungal Cavern": {
+            "-": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Nightshade": 0.5513164319850146,
+                                "SampleSize": 124921
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Nightshade Masquerade": {
+        "Fungal Cavern": {
+            "-": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Cavern Fungus": 6.523905803996194,
+                                "SampleSize": 42040,
+                                "Nightshade": 1.5017602283539486
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Quillback": {
+        "Fungal Cavern": {
+            "-": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Cavern Fungus": 0.7310971616395022,
+                                "SampleSize": 161854
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Shattered Obsidian": {
+        "Fungal Cavern": {
+            "-": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Mineral": 19.987995712754554,
+                                "SampleSize": 32655,
+                                "Gemstone": 0.031113152656561015,
+                                "Diamond": 0.01999693768182514
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Splintered Stone Sentry": {
+        "Fungal Cavern": {
+            "-": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Mineral": 14.002206100716982,
+                                "SampleSize": 23571,
+                                "Diamond": 0.02036400661830215,
+                                "Gemstone": 0.01968520639769208
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Stalagmite": {
+        "Fungal Cavern": {
+            "-": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Gemstone": 1,
+                                "SampleSize": 44244
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Stone Maiden": {
+        "Fungal Cavern": {
+            "-": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Mineral": 1.4854213681485275,
+                                "SampleSize": 144458
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Student of the Chi Belt": {
+        "Furoma Rift": {
+            "Pagoda": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Battery Fragment": 0.75,
+                                "Enerchi": 1,
+                                "Chi Belt Token": 1
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Student of the Chi Claw": {
+        "Furoma Rift": {
+            "Pagoda": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Battery Fragment": 0.75,
+                                "Enerchi": 1,
+                                "Chi Claw Token": 1
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Student of the Chi Fang": {
+        "Furoma Rift": {
+            "Pagoda": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Battery Fragment": 0.75,
+                                "Enerchi": 1,
+                                "Chi Fang Token": 1
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Master of the Chi Belt": {
+        "Furoma Rift": {
+            "Pagoda": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Battery Fragment": 1.5,
+                                "Enerchi": 2,
+                                "Rift Circuitry": 0.15,
+                                "Chi Belt Heirloom": 1
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Master of the Chi Claw": {
+        "Furoma Rift": {
+            "Pagoda": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Battery Fragment": 1.5,
+                                "Enerchi": 2,
+                                "Rift Circuitry": 0.15,
+                                "Chi Claw Heirloom": 1
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Master of the Chi Fang": {
+        "Furoma Rift": {
+            "Pagoda": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Battery Fragment": 1.5,
+                                "Enerchi": 2,
+                                "Rift Circuitry": 0.15,
+                                "Chi Fang Heirloom": 1
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Grand Master of the Dojo": {
+        "Furoma Rift": {
+            "Pagoda": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Battery Fragment": 3.4,
+                                "Enerchi": 3,
+                                "Rift Circuitry": 0.25,
+                                "Null Onyx Stone": 1
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Supreme Sensei": {
+        "Furoma Rift": {
+            "Pagoda": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Battery Fragment": 8,
+                                "Enerchi": 4,
+                                "Rift Circuitry": 0.6,
+                                "Rift Blossom Branch": 1
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Ascended Elder": {
+        "Furoma Rift": {
+            "Pagoda": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Unstable Broom": 1,
+                                "SampleSize": 5353,
+                                "Rift Ultimate Luck Charm": 0.5501587895,
+                                "Rift Ultimate Power Charm": 0.7593872595,
+                                "Enerchi Charm": 25,
+                                "Rift Circuit Chips": 0.8128152438
+                            }
+                        }
+                    }
+                }
+            }
+        }
     }
 }
