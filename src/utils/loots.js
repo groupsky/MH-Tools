@@ -1,7 +1,8 @@
 "use strict";
 
 /**
- * Extract the loot the specific mouse should drop in the given location, phase, weapon, base, cheese and charm
+ * Extract the loot the specific mouse should drop in the given location, phase, weapon, base, cheese and charm.
+ *
  * @param {{mouse: {location: {phase: {cheese: {charm: {base: {trap: {loot: number}}}}}}}}} mouseLoots
  * @param {string} locationName
  * @param {string} phaseName
@@ -13,39 +14,59 @@
  * @returns {object} a list with all loots
  */
 function extractMouseLoot (mouseLoots, locationName, phaseName, weaponName, baseName, cheeseName, charmName, mouseName) {
+  var WEIGHTS = [ 100, 100, 100, 1, 10, 10, 10 ]
+  var lootSets = {}
   var path = [ mouseName, locationName, phaseName, cheeseName, charmName, baseName, weaponName ]
-  var loots = {}
-  var hasMore = true
-  while (hasMore) {
-    var loot = extractByPath(mouseLoots, path)
-    for (var key in loot) {
-      if (!loot.hasOwnProperty(key)) continue
-      if (key in loots) continue
-      loots[ key ] = loot[ key ]
+  for (var i = 0, l = 1 << path.length; i < l; i++) {
+    var p = [].concat(path)
+    for (var j = 1, k = 0; j <= i; j = j << 1, k++) {
+      if (i & j) p[ k ] = '-'
     }
-    hasMore = false
-    for (var i = 0, l = path.length; i < l; i++) {
-      if (path[ i ] !== '-') {
-        path[ i ] = '-'
-        hasMore = true
-        break
-      }
-    }
+    var res = extractByPath(mouseLoots, p)
+    lootSets[ res.hash ] = merge(lootSets[ res.hash ] || {}, res.loot)
   }
+
+  var loots = Object
+    .keys(lootSets)
+    .sort(function (a, b) { return b - a})
+    .map(function (key) {return lootSets[ key ]})
+    .reduce(merge)
 
   return loots
 
+  function merge (a, b) {
+    for (var key in b) {
+      if (!b.hasOwnProperty(key)) continue
+      if (key in a) continue
+      a[ key ] = b[ key ]
+    }
+    return a
+  }
+
+  /**
+   * Get value from object by resolving path.
+   *
+   * @param {object} obj
+   * @param {string[]} path
+   * @returns {*}
+   *
+   * @example
+   * // return {c:12}
+   * extractByPath({a:{b:{c:12}}}, ['a', 'b'])
+   */
   function extractByPath (obj, path) {
+    var hash = 0
     for (var i = 0, l = path.length; i < l && obj; i++) {
       var key = path[ i ]
-      if (key in obj) {
+      if (key !== '-' && key in obj) {
+        hash += WEIGHTS[ i ]
         obj = obj[ key ]
       } else {
         obj = obj[ '-' ]
       }
     }
 
-    return obj || {}
+    return { loot: obj || {}, hash: hash }
   }
 }
 
@@ -80,7 +101,7 @@ function accumulateLoot (accumulated, addition) {
 }
 
 /**
- * Convert a list of loots into a string of the form "xxx,xxx.xxx loota, xxx lootb, ..."
+ * Convert a list of loots into a string of the form "xxx,xxx.xxx loot a, xxx loot b, ..."
  * @param {object} loot
  * @returns {string}
  */
