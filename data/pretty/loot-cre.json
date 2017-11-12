@@ -533,6 +533,55 @@
                     }
                 }
             }
+        },
+        "Calm Clearing": {
+            "-": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "SUPER|brie+": 5.672413793103448,
+                                "SampleSize": 116,
+                                "Ancient Relic": 0.47413793103448276
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Great Gnarled Tree": {
+            "-": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "SUPER|brie+": 5.902985074626866,
+                                "SampleSize": 268,
+                                "Ancient Relic": 0.6194029850746269,
+                                "Gnarled Cheese": 1.9514925373134329,
+                                "Wicked Gnarly Cheese": 0.664179104477612
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Lagoon": {
+            "-": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "SUPER|brie+": 5.542105263157895,
+                                "SampleSize": 3230,
+                                "Ancient Relic": 0.5749226006191951,
+                                "Gnarled Cheese": 1.7458204334365326,
+                                "Wicked Gnarly Cheese": 0.7371517027863778
+                            }
+                        }
+                    }
+                }
+            }
         }
     },
     "Granite": {
@@ -1646,6 +1695,370 @@
                         "Attuned Enerchi Induction Base": {
                             "-": {
                                 "Enerchi": 5
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Cherry": {
+        "Calm Clearing": {
+            "-": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Flawless Orb": 0.7685409030648054,
+                                "SampleSize": 12823,
+                                "Swiss Cheese": 1.5240583326834594,
+                                "Marble Cheese": 2.2355922950947518,
+                                "Cheddar Cheese": 7.648756141308586,
+                                "Cherry Potion": 0.13288622007330578,
+                                "Brie Potion": 0.10052249863526476,
+                                "Greater Brie Potion": 0.0937378148639164
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Cyclops": {
+        "Calm Clearing": {
+            "-": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Cherry Potion": 1.0000964599209028,
+                                "SampleSize": 10367,
+                                "Simple Orb": 0.6769557248963056
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Lagoon": {
+            "-": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Simple Orb": 0.6811434421388353,
+                                "SampleSize": 25397
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Eagle Owl": {
+        "Calm Clearing": {
+            "-": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Cherry Potion": 1,
+                                "SampleSize": 1802
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Foxy": {
+        "Calm Clearing": {
+            "-": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Swiss Cheese": 2.544642857142857,
+                                "SampleSize": 112
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Shaman": {
+        "Calm Clearing": {
+            "-": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Splintered Wood": 0.815147220910093,
+                                "SampleSize": 25404
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Great Gnarled Tree": {
+            "-": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Splintered Wood": 0.8165075760264008,
+                                "SampleSize": 28181
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Lagoon": {
+            "-": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Splintered Wood": 0.8221948886155528,
+                                "SampleSize": 7317
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Treant": {
+        "Calm Clearing": {
+            "-": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Splintered Wood": 6.450638199118125,
+                                "SampleSize": 21545
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Great Gnarled Tree": {
+            "-": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Splintered Wood": 6.439726074538009,
+                                "SampleSize": 29059
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Lagoon": {
+            "-": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Splintered Wood": 6.458726860596903,
+                                "SampleSize": 21176
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Bear": {
+        "Great Gnarled Tree": {
+            "-": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Gnarled Potion": 0.5688991531947653,
+                                "SampleSize": 14289
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Centaur": {
+        "Great Gnarled Tree": {
+            "-": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Gnarled Potion": 0.992852798053528,
+                                "SampleSize": 13152
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Chameleon": {
+        "Great Gnarled Tree": {
+            "-": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Gnarled Potion": 0.38650732995206005,
+                                "SampleSize": 14393
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Frog": {
+        "Great Gnarled Tree": {
+            "-": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Gnarled Potion": 0.39626907857546634,
+                                "SampleSize": 14152
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Curious Chemist": {
+        "Great Gnarled Tree": {
+            "-": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Wicked Gnarly Potion": 1.1951510540059143,
+                                "SampleSize": 57827
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Nibbler": {
+        "Great Gnarled Tree": {
+            "-": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Ancient Relic": 0.2682926829268293,
+                                "SampleSize": 410
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Goblin": {
+        "Lagoon": {
+            "-": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Flawless Orb": 0.885298618779179,
+                                "SampleSize": 51621,
+                                "Scrap Metal": 0.34774607233490246
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Harpy": {
+        "Lagoon": {
+            "-": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Divine Orb": 0.2931178834561286,
+                                "SampleSize": 11944
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Hydra": {
+        "Lagoon": {
+            "-": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Simple Orb": 0.9889798554257025,
+                                "SampleSize": 48003,
+                                "Scrap Metal": 1.6132116742703582,
+                                "Bolt of Cloth": 0.4539507947419953,
+                                "Rope": 0.44384725954627835,
+                                "Splintered Wood": 3.1863841843218133
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Silth": {
+        "Lagoon": {
+            "-": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Divine Orb": 2.0407998384164814,
+                                "SampleSize": 9902,
+                                "Scrap Metal": 0.3778024641486568,
+                                "Satchel of Gold (10,000 gold)": 0.3366996566350232,
+                                "Ancient Relic": 0.29165825085841246,
+                                "Satchel of Gold (1,000 gold)": 0.22429812159159765,
+                                "Hunting Research (5,000 bonus points)": 0.2226822864067865,
+                                "Satchel of Gold (5,000 gold)": 0.2167238941627954,
+                                "Wicked Gnarly Cheese": 0.1468390224197132
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Troll": {
+        "Lagoon": {
+            "-": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Cheddar Cheese": 15.778421251416342,
+                                "SampleSize": 15886,
+                                "Swiss Cheese": 6.746632254815561,
+                                "Marble Cheese": 8.501321918670527,
+                                "Satchel of Gold (1,000 gold)": 0.18154349741911116
                             }
                         }
                     }
