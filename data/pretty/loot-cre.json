@@ -7691,6 +7691,1465 @@
             }
         }
     },
+    "Bristle Woods Rift": {
+        "Acolyte": {
+            "Absolute Acolyte": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Ancient Relic": 0.7690631808278867,
+                                "SampleSize": 459,
+                                "Rift Antiskele Charm": 4.771241830065359,
+                                "Super Rift Vacuum Charm": 2.6143790849673203,
+                                "Tiny Sprocket": 3.104575163398693,
+                                "Clockwork Cog": 0.2222222222222222,
+                                "Ancient String Cheese Potion": 0.3485838779956427,
+                                "Timesplit Charm": 0.06100217864923747,
+                                "Runic String Cheese Potion": 0.2178649237472767,
+                                "Quantum Quartz": 0.30501089324618735,
+                                "Rift Vacuum Charm": 0.5446623093681917,
+                                "Portal Scrambler": 0.0196078431372549
+                            }
+                        }
+                    }
+                }
+            },
+            "Carrion Medium": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Tiny Sprocket": 1,
+                                "SampleSize": 573,
+                                "Time Sand": 1.2739965095986039
+                            }
+                        }
+                    }
+                }
+            },
+            "Chronomaster": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Time Sand": 4,
+                                "SampleSize": 100
+                            }
+                        }
+                    }
+                }
+            },
+            "Dread Knight": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Tiny Sprocket": 3.0108772759517617,
+                                "SampleSize": 4229,
+                                "Time Sand": 0.13052731142113974
+                            }
+                        }
+                    }
+                }
+            },
+            "Harbinger of Death": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Runic String Cheese Potion": 2,
+                                "SampleSize": 683,
+                                "Quantum Quartz": 3.938506588579795,
+                                "Ancient Relic": 0.1478770131771596
+                            }
+                        }
+                    }
+                }
+            },
+            "Portal Paladin": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Tiny Sprocket": 1.53,
+                                "SampleSize": 1000
+                            }
+                        }
+                    }
+                }
+            },
+            "Shackled Servant": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Runic String Cheese Potion": 1,
+                                "SampleSize": 853,
+                                "Tiny Sprocket": 0.5556858147713951,
+                                "Time Sand": 0.3704572098475967
+                            }
+                        }
+                    }
+                }
+            },
+            "Skeletal Champion": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Tiny Sprocket": 0.8821068176224465,
+                                "SampleSize": 4063
+                            }
+                        }
+                    }
+                }
+            },
+            "Timeless Lich": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Time Sand": 2.522666666666667,
+                                "SampleSize": 375,
+                                "Quantum Quartz": 0.8186666666666667,
+                                "Tiny Sprocket": 0.5466666666666666
+                            }
+                        }
+                    }
+                }
+            },
+            "Timelost Thaumaturge": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Runic String Cheese Potion": 3,
+                                "SampleSize": 1092,
+                                "Quantum Quartz": 0.6565934065934066
+                            }
+                        }
+                    }
+                }
+            },
+            "Timeslither Pythoness": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Time Sand": 1,
+                                "SampleSize": 735,
+                                "Runic String Cheese Potion": 1.508843537414966
+                            }
+                        }
+                    }
+                }
+            },
+            "Vigilant Ward": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Tiny Sprocket": 1.5246010638297873,
+                                "SampleSize": 1504,
+                                "Runic String Cheese Potion": 0.6735372340425532
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Hidden Treasury": {
+            "Carrion Medium": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Quantum Quartz": 1.8588235294117648,
+                                "SampleSize": 85,
+                                "Tiny Sprocket": 0.9529411764705882,
+                                "Rift Wealth Charm": 8.91764705882353,
+                                "Time Sand": 0.8
+                            }
+                        }
+                    }
+                }
+            },
+            "Dread Knight": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Rift Wealth Charm": 6.521428571428571,
+                                "SampleSize": 140,
+                                "Quantum Quartz": 1.9857142857142858,
+                                "Tiny Sprocket": 2.8857142857142857,
+                                "Time Sand": 0.07142857142857142
+                            }
+                        }
+                    }
+                }
+            },
+            "Epoch Golem": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Quantum Quartz": 2.256198347107438,
+                                "SampleSize": 242,
+                                "Rift Wealth Charm": 7.491735537190083,
+                                "Ancient String Cheese Potion": 1.743801652892562,
+                                "Rift Antiskele Charm": 0.23553719008264462,
+                                "Time Sand": 0.2066115702479339
+                            }
+                        }
+                    }
+                }
+            },
+            "Harbinger of Death": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Runic String Cheese Potion": 1.9487179487179487,
+                                "SampleSize": 39,
+                                "Quantum Quartz": 5.9743589743589745,
+                                "Rift Wealth Charm": 6.641025641025641,
+                                "Ancient Relic": 0.1794871794871795
+                            }
+                        }
+                    }
+                }
+            },
+            "Portal Paladin": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Tiny Sprocket": 1.44,
+                                "SampleSize": 50,
+                                "Rift Wealth Charm": 6.42,
+                                "Quantum Quartz": 1.78
+                            }
+                        }
+                    }
+                }
+            },
+            "Portal Plunderer": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Quantum Quartz": 1.8405466970387243,
+                                "SampleSize": 439,
+                                "Rift Wealth Charm": 6.671981776765376,
+                                "Ancient String Cheese Potion": 1.4328018223234624,
+                                "Tiny Sprocket": 1.1548974943052392
+                            }
+                        }
+                    }
+                }
+            },
+            "Portal Pursuer": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Quantum Quartz": 3,
+                                "SampleSize": 1,
+                                "Tiny Sprocket": 5,
+                                "Rift Wealth Charm": 5
+                            }
+                        }
+                    }
+                }
+            },
+            "Shackled Servant": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Runic String Cheese Potion": 0.9315068493150684,
+                                "SampleSize": 73,
+                                "Quantum Quartz": 1.821917808219178,
+                                "Rift Wealth Charm": 6.342465753424658,
+                                "Tiny Sprocket": 0.4931506849315068,
+                                "Time Sand": 0.2465753424657534
+                            }
+                        }
+                    }
+                }
+            },
+            "Skeletal Champion": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Quantum Quartz": 1.9615384615384615,
+                                "SampleSize": 78,
+                                "Rift Wealth Charm": 7.628205128205129,
+                                "Tiny Sprocket": 0.7948717948717948
+                            }
+                        }
+                    }
+                }
+            },
+            "Timeless Lich": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Quantum Quartz": 2.6555555555555554,
+                                "SampleSize": 180,
+                                "Rift Wealth Charm": 8.272222222222222,
+                                "Time Sand": 1.8888888888888888,
+                                "Tiny Sprocket": 0.5666666666666667
+                            }
+                        }
+                    }
+                }
+            },
+            "Timeslither Pythoness": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Rift Wealth Charm": 7.540106951871658,
+                                "SampleSize": 187,
+                                "Runic String Cheese Potion": 1.3689839572192513,
+                                "Quantum Quartz": 1.8663101604278074,
+                                "Time Sand": 0.732620320855615
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Timewarp": {
+            "Carrion Medium": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Tiny Sprocket": 0.9611759425493717,
+                                "SampleSize": 4456,
+                                "Time Sand": 1.0475763016157988
+                            }
+                        }
+                    }
+                }
+            },
+            "Chronomaster": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Time Sand": 3.4689051785292033,
+                                "SampleSize": 4229
+                            }
+                        }
+                    }
+                }
+            },
+            "Dread Knight": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Tiny Sprocket": 2.824786324786325,
+                                "SampleSize": 234,
+                                "Time Sand": 0.09829059829059829
+                            }
+                        }
+                    }
+                }
+            },
+            "Portal Paladin": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Tiny Sprocket": 1.4967032967032967,
+                                "SampleSize": 455
+                            }
+                        }
+                    }
+                }
+            },
+            "Portal Pursuer": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Tiny Sprocket": 2.6875,
+                                "SampleSize": 32
+                            }
+                        }
+                    }
+                }
+            },
+            "Sentient Slime": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Tiny Sprocket": 1.2013093289689034,
+                                "SampleSize": 1833
+                            }
+                        }
+                    }
+                }
+            },
+            "Skeletal Champion": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Tiny Sprocket": 0.8449328449328449,
+                                "SampleSize": 819
+                            }
+                        }
+                    }
+                }
+            },
+            "Timeless Lich": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Time Sand": 2.196659707724426,
+                                "SampleSize": 2395,
+                                "Quantum Quartz": 0.8150313152400835,
+                                "Tiny Sprocket": 0.5361169102296451
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Ancient Lab": {
+            "Clockwork Timespinner": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Ancient String Cheese Potion": 1.9293139293139294,
+                                "SampleSize": 4810,
+                                "Tiny Sprocket": 0.6399168399168399
+                            }
+                        }
+                    }
+                }
+            },
+            "Dread Knight": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Tiny Sprocket": 2.7888446215139444,
+                                "SampleSize": 251,
+                                "Time Sand": 0.05179282868525897
+                            }
+                        }
+                    }
+                }
+            },
+            "Epoch Golem": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Ancient String Cheese Potion": 1.9021739130434783,
+                                "SampleSize": 1656,
+                                "Quantum Quartz": 0.5380434782608695,
+                                "Rift Antiskele Charm": 0.2928743961352657,
+                                "Time Sand": 0.20471014492753623
+                            }
+                        }
+                    }
+                }
+            },
+            "Portal Paladin": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Tiny Sprocket": 1.5059101654846336,
+                                "SampleSize": 423
+                            }
+                        }
+                    }
+                }
+            },
+            "Portal Plunderer": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Ancient String Cheese Potion": 1.4401787527930123,
+                                "SampleSize": 4923,
+                                "Tiny Sprocket": 1.141986593540524
+                            }
+                        }
+                    }
+                }
+            },
+            "Portal Pursuer": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Tiny Sprocket": 3,
+                                "SampleSize": 17
+                            }
+                        }
+                    }
+                }
+            },
+            "Record Keeper": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Tiny Sprocket": 0.5816733067729084,
+                                "SampleSize": 753,
+                                "Ancient String Cheese Potion": 0.24169986719787517
+                            }
+                        }
+                    }
+                }
+            },
+            "Record Keeper's Assistant": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Tiny Sprocket": 0.967032967032967,
+                                "SampleSize": 182
+                            }
+                        }
+                    }
+                }
+            },
+            "Sentient Slime": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Tiny Sprocket": 1.18562874251497,
+                                "SampleSize": 167
+                            }
+                        }
+                    }
+                }
+            },
+            "Skeletal Champion": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Tiny Sprocket": 0.8273195876288659,
+                                "SampleSize": 776
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Furnace Room": {
+            "Clockwork Timespinner": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Ancient String Cheese Potion": 1.6666666666666667,
+                                "SampleSize": 6,
+                                "Tiny Sprocket": 0.6666666666666666
+                            }
+                        }
+                    }
+                }
+            },
+            "Dread Knight": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Tiny Sprocket": 3,
+                                "SampleSize": 4
+                            }
+                        }
+                    }
+                }
+            },
+            "Portal Paladin": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Tiny Sprocket": 1,
+                                "SampleSize": 4
+                            }
+                        }
+                    }
+                }
+            },
+            "Portal Plunderer": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Ancient String Cheese Potion": 1.3333333333333333,
+                                "SampleSize": 3
+                            }
+                        }
+                    }
+                }
+            },
+            "Skeletal Champion": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Tiny Sprocket": 0.8591549295774648,
+                                "SampleSize": 71
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Gearworks": {
+            "Clockwork Timespinner": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Ancient String Cheese Potion": 1.907473309608541,
+                                "SampleSize": 281,
+                                "Tiny Sprocket": 0.5907473309608541
+                            }
+                        }
+                    }
+                }
+            },
+            "Dread Knight": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Tiny Sprocket": 2.8685208596713023,
+                                "SampleSize": 791,
+                                "Time Sand": 0.0493046776232617
+                            }
+                        }
+                    }
+                }
+            },
+            "Epoch Golem": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Ancient String Cheese Potion": 1.8222222222222222,
+                                "SampleSize": 45,
+                                "Quantum Quartz": 0.4222222222222222,
+                                "Rift Antiskele Charm": 0.24444444444444444,
+                                "Time Sand": 0.08888888888888889
+                            }
+                        }
+                    }
+                }
+            },
+            "Harbinger of Death": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Runic String Cheese Potion": 2,
+                                "SampleSize": 1,
+                                "Quantum Quartz": 5
+                            }
+                        }
+                    }
+                }
+            },
+            "Portal Paladin": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Tiny Sprocket": 1.515527950310559,
+                                "SampleSize": 161
+                            }
+                        }
+                    }
+                }
+            },
+            "Portal Plunderer": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Ancient String Cheese Potion": 1.4849624060150375,
+                                "SampleSize": 266,
+                                "Tiny Sprocket": 1.0338345864661653
+                            }
+                        }
+                    }
+                }
+            },
+            "Portal Pursuer": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Tiny Sprocket": 3.6,
+                                "SampleSize": 10
+                            }
+                        }
+                    }
+                }
+            },
+            "Record Keeper": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Tiny Sprocket": 0.5977011494252874,
+                                "SampleSize": 522,
+                                "Ancient String Cheese Potion": 0.210727969348659
+                            }
+                        }
+                    }
+                }
+            },
+            "Record Keeper's Assistant": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Tiny Sprocket": 0.9346153846153846,
+                                "SampleSize": 780
+                            }
+                        }
+                    }
+                }
+            },
+            "Sentient Slime": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Tiny Sprocket": 1.2076612903225807,
+                                "SampleSize": 496
+                            }
+                        }
+                    }
+                }
+            },
+            "Shackled Servant": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Runic String Cheese Potion": 1,
+                                "SampleSize": 1
+                            }
+                        }
+                    }
+                }
+            },
+            "Skeletal Champion": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Tiny Sprocket": 0.8379629629629629,
+                                "SampleSize": 432
+                            }
+                        }
+                    }
+                }
+            },
+            "Timelost Thaumaturge": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Runic String Cheese Potion": 3,
+                                "SampleSize": 4,
+                                "Quantum Quartz": 0.75
+                            }
+                        }
+                    }
+                }
+            },
+            "Vigilant Ward": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Runic String Cheese Potion": 1,
+                                "SampleSize": 1,
+                                "Tiny Sprocket": 2
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Guard Barracks": {
+            "Clockwork Timespinner": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Ancient String Cheese Potion": 1.8652482269503545,
+                                "SampleSize": 282,
+                                "Tiny Sprocket": 0.5921985815602837
+                            }
+                        }
+                    }
+                }
+            },
+            "Dread Knight": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Tiny Sprocket": 2.820976491862568,
+                                "SampleSize": 553,
+                                "Time Sand": 0.07233273056057866
+                            }
+                        }
+                    }
+                }
+            },
+            "Epoch Golem": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Ancient String Cheese Potion": 1.9172413793103449,
+                                "SampleSize": 435,
+                                "Quantum Quartz": 0.5195402298850574,
+                                "Rift Antiskele Charm": 0.31724137931034485,
+                                "Time Sand": 0.16091954022988506
+                            }
+                        }
+                    }
+                }
+            },
+            "Portal Paladin": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Tiny Sprocket": 1.502248875562219,
+                                "SampleSize": 1334
+                            }
+                        }
+                    }
+                }
+            },
+            "Portal Pursuer": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Tiny Sprocket": 3.6666666666666665,
+                                "SampleSize": 3
+                            }
+                        }
+                    }
+                }
+            },
+            "Sentient Slime": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Tiny Sprocket": 1.1535836177474403,
+                                "SampleSize": 293
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Ingress": {
+            "Clockwork Timespinner": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Ancient String Cheese Potion": 1.8365758754863812,
+                                "SampleSize": 257,
+                                "Tiny Sprocket": 0.6108949416342413
+                            }
+                        }
+                    }
+                }
+            },
+            "Dread Knight": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Tiny Sprocket": 2.9825581395348837,
+                                "SampleSize": 172,
+                                "Time Sand": 0.13372093023255813
+                            }
+                        }
+                    }
+                }
+            },
+            "Harbinger of Death": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Runic String Cheese Potion": 2,
+                                "SampleSize": 15,
+                                "Quantum Quartz": 3.6,
+                                "Ancient Relic": 0.06666666666666667
+                            }
+                        }
+                    }
+                }
+            },
+            "Portal Pursuer": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Tiny Sprocket": 3.18125,
+                                "SampleSize": 160
+                            }
+                        }
+                    }
+                }
+            },
+            "Sentient Slime": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Tiny Sprocket": 1.1956521739130435,
+                                "SampleSize": 276
+                            }
+                        }
+                    }
+                }
+            },
+            "Shackled Servant": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Runic String Cheese Potion": 0.9642857142857143,
+                                "SampleSize": 112,
+                                "Tiny Sprocket": 0.625,
+                                "Time Sand": 0.21428571428571427
+                            }
+                        }
+                    }
+                }
+            },
+            "Vigilant Ward": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Tiny Sprocket": 1.441860465116279,
+                                "SampleSize": 129,
+                                "Runic String Cheese Potion": 0.6821705426356589
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Lucky Tower": {
+            "Clockwork Timespinner": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Ancient String Cheese Potion": 1.9481132075471699,
+                                "SampleSize": 424,
+                                "Quantum Quartz": 0.8136792452830188,
+                                "Tiny Sprocket": 1.4599056603773586
+                            }
+                        }
+                    }
+                }
+            },
+            "Dread Knight": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Tiny Sprocket": 3.652,
+                                "SampleSize": 250,
+                                "Quantum Quartz": 0.82,
+                                "Time Sand": 0.084
+                            }
+                        }
+                    }
+                }
+            },
+            "Epoch Golem": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Ancient String Cheese Potion": 1.923913043478261,
+                                "SampleSize": 368,
+                                "Quantum Quartz": 1.4646739130434783,
+                                "Rift Antiskele Charm": 0.27717391304347827,
+                                "Time Sand": 0.23097826086956522,
+                                "Tiny Sprocket": 0.8152173913043478
+                            }
+                        }
+                    }
+                }
+            },
+            "Harbinger of Death": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Runic String Cheese Potion": 1.9428571428571428,
+                                "SampleSize": 35,
+                                "Quantum Quartz": 4.6,
+                                "Ancient Relic": 0.14285714285714285,
+                                "Tiny Sprocket": 0.42857142857142855
+                            }
+                        }
+                    }
+                }
+            },
+            "Portal Paladin": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Tiny Sprocket": 1.8181818181818181,
+                                "SampleSize": 66,
+                                "Quantum Quartz": 0.8181818181818182
+                            }
+                        }
+                    }
+                }
+            },
+            "Portal Plunderer": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Ancient String Cheese Potion": 1.4320712694877507,
+                                "SampleSize": 449,
+                                "Quantum Quartz": 0.8240534521158129,
+                                "Tiny Sprocket": 1.7171492204899776
+                            }
+                        }
+                    }
+                }
+            },
+            "Portal Pursuer": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Quantum Quartz": 1,
+                                "SampleSize": 2,
+                                "Tiny Sprocket": 4
+                            }
+                        }
+                    }
+                }
+            },
+            "Record Keeper": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Quantum Quartz": 0.8320610687022901,
+                                "SampleSize": 262,
+                                "Tiny Sprocket": 1.3129770992366412,
+                                "Ancient String Cheese Potion": 0.23282442748091603
+                            }
+                        }
+                    }
+                }
+            },
+            "Record Keeper's Assistant": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Tiny Sprocket": 1.7215686274509805,
+                                "SampleSize": 255,
+                                "Quantum Quartz": 0.803921568627451
+                            }
+                        }
+                    }
+                }
+            },
+            "Sentient Slime": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Quantum Quartz": 0.8673469387755102,
+                                "SampleSize": 196,
+                                "Tiny Sprocket": 1.816326530612245
+                            }
+                        }
+                    }
+                }
+            },
+            "Skeletal Champion": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Tiny Sprocket": 1.9453125,
+                                "SampleSize": 128,
+                                "Quantum Quartz": 0.7109375
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Frozen Alcove": {
+            "Dread Knight": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Tiny Sprocket": 2.945692883895131,
+                                "SampleSize": 534,
+                                "Time Sand": 0.08426966292134831
+                            }
+                        }
+                    }
+                }
+            },
+            "Harbinger of Death": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Runic String Cheese Potion": 2,
+                                "SampleSize": 6,
+                                "Quantum Quartz": 4
+                            }
+                        }
+                    }
+                }
+            },
+            "Portal Paladin": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Tiny Sprocket": 1.5147058823529411,
+                                "SampleSize": 68
+                            }
+                        }
+                    }
+                }
+            },
+            "Portal Pursuer": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Tiny Sprocket": 3,
+                                "SampleSize": 7
+                            }
+                        }
+                    }
+                }
+            },
+            "Sentient Slime": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Tiny Sprocket": 1.2129760225669957,
+                                "SampleSize": 1418
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Runic Laboratory": {
+            "Dread Knight": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Tiny Sprocket": 2.8545454545454545,
+                                "SampleSize": 275,
+                                "Time Sand": 0.11636363636363636
+                            }
+                        }
+                    }
+                }
+            },
+            "Harbinger of Death": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Runic String Cheese Potion": 1.9381443298969072,
+                                "SampleSize": 194,
+                                "Quantum Quartz": 3.850515463917526,
+                                "Ancient Relic": 0.14432989690721648
+                            }
+                        }
+                    }
+                }
+            },
+            "Portal Paladin": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Tiny Sprocket": 1.4744186046511627,
+                                "SampleSize": 215
+                            }
+                        }
+                    }
+                }
+            },
+            "Portal Pursuer": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Tiny Sprocket": 2.9375,
+                                "SampleSize": 16
+                            }
+                        }
+                    }
+                }
+            },
+            "Sentient Slime": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Tiny Sprocket": 1.2071516646115907,
+                                "SampleSize": 811
+                            }
+                        }
+                    }
+                }
+            },
+            "Shackled Servant": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Runic String Cheese Potion": 0.9522365428354814,
+                                "SampleSize": 1319,
+                                "Tiny Sprocket": 0.5617892342683851,
+                                "Time Sand": 0.25928733889310085
+                            }
+                        }
+                    }
+                }
+            },
+            "Skeletal Champion": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Tiny Sprocket": 0.852803738317757,
+                                "SampleSize": 428
+                            }
+                        }
+                    }
+                }
+            },
+            "Timelost Thaumaturge": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Runic String Cheese Potion": 2.859071274298056,
+                                "SampleSize": 1852,
+                                "Quantum Quartz": 0.6290496760259179
+                            }
+                        }
+                    }
+                }
+            },
+            "Timeslither Pythoness": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Runic String Cheese Potion": 1.4922279792746114,
+                                "SampleSize": 579,
+                                "Time Sand": 0.7495682210708118
+                            }
+                        }
+                    }
+                }
+            },
+            "Vigilant Ward": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Tiny Sprocket": 1.4125386996904026,
+                                "SampleSize": 1292,
+                                "Runic String Cheese Potion": 0.6269349845201239
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Pursuer Mousoleum": {
+            "Harbinger of Death": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Runic String Cheese Potion": 2,
+                                "SampleSize": 1,
+                                "Quantum Quartz": 4
+                            }
+                        }
+                    }
+                }
+            },
+            "Portal Pursuer": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Tiny Sprocket": 3.4,
+                                "SampleSize": 20
+                            }
+                        }
+                    }
+                }
+            },
+            "Record Keeper": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Tiny Sprocket": 0.6666666666666666,
+                                "SampleSize": 3,
+                                "Ancient String Cheese Potion": 0.3333333333333333
+                            }
+                        }
+                    }
+                }
+            },
+            "Record Keeper's Assistant": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Tiny Sprocket": 0.6818181818181818,
+                                "SampleSize": 22
+                            }
+                        }
+                    }
+                }
+            },
+            "Skeletal Champion": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Tiny Sprocket": 0.8181818181818182,
+                                "SampleSize": 88
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Security": {
+            "Portal Pursuer": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Tiny Sprocket": 4.5,
+                                "SampleSize": 2
+                            }
+                        }
+                    }
+                }
+            },
+            "Shackled Servant": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Runic String Cheese Potion": 0.9444444444444444,
+                                "SampleSize": 18,
+                                "Tiny Sprocket": 0.4444444444444444,
+                                "Time Sand": 0.05555555555555555
+                            }
+                        }
+                    }
+                }
+            },
+            "Skeletal Champion": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Tiny Sprocket": 0.8431372549019608,
+                                "SampleSize": 306
+                            }
+                        }
+                    }
+                }
+            },
+            "Timelost Thaumaturge": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Runic String Cheese Potion": 2.7857142857142856,
+                                "SampleSize": 42,
+                                "Quantum Quartz": 0.5238095238095238
+                            }
+                        }
+                    }
+                }
+            },
+            "Vigilant Ward": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Tiny Sprocket": 1.4090909090909092,
+                                "SampleSize": 22,
+                                "Runic String Cheese Potion": 0.5
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
     "Harbour": {
         "-": {
             "Burglar": {
