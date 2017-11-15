@@ -1464,6 +1464,94 @@
             }
         }
     },
+    "Dojo": {
+        "-": {
+            "Assassin": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Ancient Relic": 0.05,
+                                "SampleSize": 20
+                            }
+                        }
+                    }
+                }
+            },
+            "Diamond": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Simple Orb": 0.5032679738562091,
+                                "SampleSize": 153
+                            }
+                        }
+                    }
+                }
+            },
+            "Gold": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Simple Orb": 0.4416243654822335,
+                                "SampleSize": 197
+                            }
+                        }
+                    }
+                }
+            },
+            "Worker": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Splintered Wood": 0.06060606060606061,
+                                "SampleSize": 33
+                            }
+                        }
+                    }
+                }
+            },
+            "Student of the Cheese Belt": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Token of the Cheese Belt": 1,
+                                "SampleSize": 266
+                            }
+                        }
+                    }
+                }
+            },
+            "Student of the Cheese Claw": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Token of the Cheese Claw": 1,
+                                "SampleSize": 283
+                            }
+                        }
+                    }
+                }
+            },
+            "Student of the Cheese Fang": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Token of the Cheese Fang": 1,
+                                "SampleSize": 264
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
     "Meditation Room": {
         "-": {
             "Master of the Cheese Belt": {
@@ -1497,6 +1585,420 @@
                             "-": {
                                 "Master Fang Shard": 0.9999319251075331,
                                 "SampleSize": 396622
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Pinnacle Chamber": {
+        "-": {
+            "Master of the Dojo": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Onyx Stone": 1,
+                                "SampleSize": 1587
+                            }
+                        }
+                    }
+                }
+            },
+            "Dojo Sensei": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Master's Seal": 0.14428242517267845,
+                                "SampleSize": 1303,
+                                "Onyx Stone": 0.1849577897160399,
+                                "Ancient Relic": 0.07060629316960859,
+                                "Divine Orb": 0.20260936300844207
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Catacombs": {
+        "-": {
+            "Black Widow": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Radioactive Blue Cheese": 6,
+                                "SampleSize": 1,
+                                "SUPER|brie+": 5
+                            }
+                        }
+                    }
+                }
+            },
+            "Keeper": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Ancient Potion": 0.3333333333333333,
+                                "SampleSize": 204,
+                                "Corrupted Radioactive Blue Potion": 0.09313725490196079,
+                                "Coal": 0.0784313725490196
+                            }
+                        }
+                    }
+                }
+            },
+            "Keeper's Assistant": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Ancient Potion": 1,
+                                "SampleSize": 282
+                            }
+                        }
+                    }
+                }
+            },
+            "Lycan": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Stale Cheese": 3.0588235294117645,
+                                "SampleSize": 17
+                            }
+                        }
+                    }
+                }
+            },
+            "Monster": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Brie Cheese": 3,
+                                "SampleSize": 2,
+                                "Living Shard": 1.5,
+                                "Marble Cheese": 12.5,
+                                "Cheddar Cheese": 10.5
+                            }
+                        }
+                    }
+                }
+            },
+            "Mummy": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Stale Cheese": 2.2153846153846155,
+                                "SampleSize": 130
+                            }
+                        }
+                    }
+                }
+            },
+            "Scavenger": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Scrap Metal": 1.0977198697068404,
+                                "SampleSize": 307,
+                                "Coal": 0.3485342019543974,
+                                "Ancient Potion": 0.3322475570032573,
+                                "Corrupted Radioactive Blue Potion": 0.11726384364820847
+                            }
+                        }
+                    }
+                }
+            },
+            "Spider": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Radioactive Blue Cheese": 0.10749185667752444,
+                                "SampleSize": 307
+                            }
+                        }
+                    }
+                }
+            },
+            "Terror Knight": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Scrap Metal": 1.0588235294117647,
+                                "SampleSize": 170
+                            }
+                        }
+                    }
+                }
+            },
+            "Grave Robber": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Rotten Charm": 1.1136363636363635,
+                                "SampleSize": 44,
+                                "Scrap Metal": 0.8409090909090909,
+                                "Antiskele Charm": 0.5227272727272727,
+                                "Super Rotten Charm": 0.4090909090909091,
+                                "Unstable Charm": 0.06818181818181818
+                            }
+                        }
+                    }
+                }
+            },
+            "Zombot Unipire": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Corrupted Radioactive Blue Potion": 0.5384615384615384,
+                                "SampleSize": 39,
+                                "Radioactive Sludge": 2.41025641025641
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Forbidden Grove": {
+        "-": {
+            "Black Widow": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Radioactive Blue Cheese": 1,
+                                "SampleSize": 1,
+                                "SUPER|brie+": 9
+                            }
+                        }
+                    }
+                }
+            },
+            "Gargoyle": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Rune": 0.6013071895424836,
+                                "SampleSize": 153
+                            }
+                        }
+                    }
+                }
+            },
+            "Gate Guardian": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Rune": 2.789473684210526,
+                                "SampleSize": 19
+                            }
+                        }
+                    }
+                }
+            },
+            "Golem": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Rune": 1.5405405405405406,
+                                "SampleSize": 37
+                            }
+                        }
+                    }
+                }
+            },
+            "Mutated Brown": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Stale Cheese": 2,
+                                "SampleSize": 52
+                            }
+                        }
+                    }
+                }
+            },
+            "Mutated Grey": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Stale Cheese": 1.3458646616541354,
+                                "SampleSize": 133
+                            }
+                        }
+                    }
+                }
+            },
+            "Mutated White": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Stale Cheese": 0.7964601769911505,
+                                "SampleSize": 113
+                            }
+                        }
+                    }
+                }
+            },
+            "Realm Ripper": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Rune": 0.6296296296296297,
+                                "SampleSize": 216,
+                                "Stale Cheese": 1.2592592592592593,
+                                "Runic Potion": 0.1388888888888889,
+                                "Ancient Relic": 0.06944444444444445,
+                                "Divine Orb": 0.06481481481481481
+                            }
+                        }
+                    }
+                }
+            },
+            "Reaper": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Ancient Relic": 0.14285714285714285,
+                                "SampleSize": 14
+                            }
+                        }
+                    }
+                }
+            },
+            "Scavenger": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Scrap Metal": 0.580952380952381,
+                                "SampleSize": 105,
+                                "Rune": 1.5904761904761904
+                            }
+                        }
+                    }
+                }
+            },
+            "Sorcerer": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Rune": 0.9333333333333333,
+                                "SampleSize": 15
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Acolyte Realm": {
+        "-": {
+            "Acolyte": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Ancient Relic": 0.4230769230769231,
+                                "SampleSize": 234
+                            }
+                        }
+                    }
+                }
+            },
+            "Black Widow": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "SUPER|brie+": 4,
+                                "SampleSize": 1
+                            }
+                        }
+                    }
+                }
+            },
+            "Chrono": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Rune": 9.565217391304348,
+                                "SampleSize": 69,
+                                "Ancient Relic": 0.6811594202898551,
+                                "Runic Potion": 1.1884057971014492,
+                                "Ancient Potion": 0.8405797101449275
+                            }
+                        }
+                    }
+                }
+            },
+            "Mutated Brown": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Stale Cheese": 2.111111111111111,
+                                "SampleSize": 18
+                            }
+                        }
+                    }
+                }
+            },
+            "Mutated Grey": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Stale Cheese": 1.3333333333333333,
+                                "SampleSize": 33
+                            }
+                        }
+                    }
+                }
+            },
+            "Mutated White": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Stale Cheese": 0.6666666666666666,
+                                "SampleSize": 33
+                            }
+                        }
+                    }
+                }
+            },
+            "Sorcerer": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Rune": 0.9037037037037037,
+                                "SampleSize": 810
                             }
                         }
                     }
@@ -3547,6 +4049,1062 @@
             }
         }
     },
+    "Sunken City": {
+        "-": {
+            "Coral": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Damaged Coral Fragment": 12,
+                                "SampleSize": 168
+                            }
+                        }
+                    }
+                }
+            },
+            "Coral Cuddler": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Damaged Coral Fragment": 6.206896551724138,
+                                "SampleSize": 87
+                            }
+                        }
+                    }
+                }
+            },
+            "Coral Dragon": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Damaged Coral Fragment": 10.003649635036496,
+                                "SampleSize": 274
+                            }
+                        }
+                    }
+                }
+            },
+            "Coral Gardener": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Damaged Coral Fragment": 5.8957654723127035,
+                                "SampleSize": 307
+                            }
+                        }
+                    }
+                }
+            },
+            "Coral Guard": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Damaged Coral Fragment": 9.605095541401274,
+                                "SampleSize": 157
+                            }
+                        }
+                    }
+                }
+            },
+            "Coral Harvester": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Damaged Coral Fragment": 5.642857142857143,
+                                "SampleSize": 84
+                            }
+                        }
+                    }
+                }
+            },
+            "Coral Queen": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Damaged Coral Fragment": 11.941176470588236,
+                                "SampleSize": 119
+                            }
+                        }
+                    }
+                }
+            },
+            "Seadragon": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Damaged Coral Fragment": 8.03888888888889,
+                                "SampleSize": 180
+                            }
+                        }
+                    }
+                }
+            },
+            "Turret Guard": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Damaged Coral Fragment": 11.662983425414364,
+                                "SampleSize": 181
+                            }
+                        }
+                    }
+                }
+            },
+            "Angelfish": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Damaged Coral Fragment": 1.601410934744268,
+                                "SampleSize": 567
+                            }
+                        }
+                    }
+                }
+            },
+            "Betta": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Mouse Scale": 1.6531365313653137,
+                                "SampleSize": 542
+                            }
+                        }
+                    }
+                }
+            },
+            "Cuttle": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Damaged Coral Fragment": 1.5754189944134078,
+                                "SampleSize": 358
+                            }
+                        }
+                    }
+                }
+            },
+            "Jellyfish": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Damaged Coral Fragment": 1.2307692307692308,
+                                "SampleSize": 546
+                            }
+                        }
+                    }
+                }
+            },
+            "Koimaid": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Mouse Scale": 1.1781437125748504,
+                                "SampleSize": 668
+                            }
+                        }
+                    }
+                }
+            },
+            "Mlounder Flounder": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Mouse Scale": 0.7096774193548387,
+                                "SampleSize": 155,
+                                "Damaged Coral Fragment": 0.6129032258064516
+                            }
+                        }
+                    }
+                }
+            },
+            "Puffer": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Mouse Scale": 1.6753246753246753,
+                                "SampleSize": 308
+                            }
+                        }
+                    }
+                }
+            },
+            "Ancient of the Deep": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Brined Curd": 28.352941176470587,
+                                "SampleSize": 238
+                            }
+                        }
+                    }
+                }
+            },
+            "Barracuda": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Brined Curd": 1.125,
+                                "SampleSize": 32
+                            }
+                        }
+                    }
+                }
+            },
+            "Carnivore": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Brined Curd": 6.15438596491228,
+                                "SampleSize": 285
+                            }
+                        }
+                    }
+                }
+            },
+            "Derpshark": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Brined Curd": 4.1063829787234045,
+                                "SampleSize": 47
+                            }
+                        }
+                    }
+                }
+            },
+            "Serpent Monster": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Brined Curd": 12.057142857142857,
+                                "SampleSize": 280
+                            }
+                        }
+                    }
+                }
+            },
+            "Spear Fisher": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Brined Curd": 1.6619718309859155,
+                                "SampleSize": 71
+                            }
+                        }
+                    }
+                }
+            },
+            "Tritus": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Brined Curd": 17.5,
+                                "SampleSize": 94
+                            }
+                        }
+                    }
+                }
+            },
+            "Angler": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Mouse Scale": 9.821656050955413,
+                                "SampleSize": 157
+                            }
+                        }
+                    }
+                }
+            },
+            "Guppy": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Mouse Scale": 8.115384615384615,
+                                "SampleSize": 156
+                            }
+                        }
+                    }
+                }
+            },
+            "Mermousette": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Mouse Scale": 5.5,
+                                "SampleSize": 80
+                            }
+                        }
+                    }
+                }
+            },
+            "Mershark": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Mouse Scale": 9.992395437262358,
+                                "SampleSize": 263
+                            }
+                        }
+                    }
+                }
+            },
+            "Octomermaid": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Mouse Scale": 6.0647482014388485,
+                                "SampleSize": 278
+                            }
+                        }
+                    }
+                }
+            },
+            "Old One": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Mouse Scale": 11.714285714285714,
+                                "SampleSize": 182
+                            }
+                        }
+                    }
+                }
+            },
+            "School of Mish": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Mouse Scale": 6.268656716417911,
+                                "SampleSize": 67
+                            }
+                        }
+                    }
+                }
+            },
+            "Tadpole": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Mouse Scale": 12,
+                                "SampleSize": 112
+                            }
+                        }
+                    }
+                }
+            },
+            "Urchin King": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Mouse Scale": 11.854961832061068,
+                                "SampleSize": 131
+                            }
+                        }
+                    }
+                }
+            },
+            "Pearl": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Mouse Scale": 5.637362637362638,
+                                "SampleSize": 637,
+                                "Damaged Coral Fragment": 5.5133437990580845
+                            }
+                        }
+                    }
+                }
+            },
+            "Pearl Diver": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Damaged Coral Fragment": 4.724537037037037,
+                                "SampleSize": 432,
+                                "Mouse Scale": 4.6157407407407405
+                            }
+                        }
+                    }
+                }
+            },
+            "Saltwater Axolotl": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Damaged Coral Fragment": 6.196969696969697,
+                                "SampleSize": 132,
+                                "Mouse Scale": 5.704545454545454
+                            }
+                        }
+                    }
+                }
+            },
+            "Sand Dollar Diver": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Mouse Scale": 4.78494623655914,
+                                "SampleSize": 93,
+                                "Damaged Coral Fragment": 4.881720430107527
+                            }
+                        }
+                    }
+                }
+            },
+            "Sand Dollar Queen": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Damaged Coral Fragment": 6.275862068965517,
+                                "SampleSize": 203,
+                                "Mouse Scale": 6.241379310344827
+                            }
+                        }
+                    }
+                }
+            },
+            "Treasure Hoarder": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Mouse Scale": 6.659655831739962,
+                                "SampleSize": 523,
+                                "Damaged Coral Fragment": 6.634799235181644
+                            }
+                        }
+                    }
+                }
+            },
+            "Treasure Keeper": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Damaged Coral Fragment": 7.561855670103093,
+                                "SampleSize": 194,
+                                "Mouse Scale": 7.201030927835052
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Fiery Warpath": {
+        "-": {
+            "Gargantuamouse": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Flameshard": 3.639423076923077,
+                                "SampleSize": 208,
+                                "Ancient Relic": 0.8846153846153846
+                            }
+                        }
+                    }
+                }
+            },
+            "Inferno Mage": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Heatproof Mage Cloth": 0.4772727272727273,
+                                "SampleSize": 792
+                            }
+                        }
+                    }
+                }
+            },
+            "Sand Cavalry": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Desert Horseshoe": 0.40391459074733094,
+                                "SampleSize": 2248
+                            }
+                        }
+                    }
+                }
+            },
+            "Magmarage": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Heatproof Mage Cloth": 0.8256029684601113,
+                                "SampleSize": 1078
+                            }
+                        }
+                    }
+                }
+            },
+            "Sandwing Cavalry": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Desert Horseshoe": 0.620257966616085,
+                                "SampleSize": 2636
+                            }
+                        }
+                    }
+                }
+            },
+            "Theurgy Warden": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Simple Orb": 1.5769522365428355,
+                                "SampleSize": 1319,
+                                "Flameshard": 4.413191811978772
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Muridae Market": {
+        "-": {
+            "Blacksmith": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Papyrus": 0.6896551724137931,
+                                "SampleSize": 261,
+                                "Scrap Metal": 2.0114942528735633,
+                                "Simple Orb": 0.735632183908046
+                            }
+                        }
+                    }
+                }
+            },
+            "Desert Architect": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Limestone Brick": 3.013215859030837,
+                                "SampleSize": 227,
+                                "Coconut Timber": 2.66079295154185,
+                                "Shard of Glass": 0.6211453744493393
+                            }
+                        }
+                    }
+                }
+            },
+            "Glass Blower": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Shard of Glass": 1.7246153846153847,
+                                "SampleSize": 650
+                            }
+                        }
+                    }
+                }
+            },
+            "Limestone Miner": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Limestone Brick": 8.009389671361502,
+                                "SampleSize": 852
+                            }
+                        }
+                    }
+                }
+            },
+            "Lumberjack": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Coconut Timber": 6.500672947510094,
+                                "SampleSize": 743
+                            }
+                        }
+                    }
+                }
+            },
+            "Mage Weaver": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Simple Orb": 4.052631578947368,
+                                "SampleSize": 247,
+                                "Papyrus": 0.7651821862348178,
+                                "Flawless Orb": 0.7368421052631579,
+                                "Ionized Salt": 0.9919028340080972
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Living Garden": {
+        "-": {
+            "Bark": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Aleth Essence": 0.7976878612716763,
+                                "SampleSize": 346,
+                                "Dewthief Petal": 0.5028901734104047
+                            }
+                        }
+                    }
+                }
+            },
+            "Calalilly": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Aleth Essence": 0.8231292517006803,
+                                "SampleSize": 294,
+                                "Dewthief Petal": 0.9455782312925171
+                            }
+                        }
+                    }
+                }
+            },
+            "Camoflower": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Aleth Essence": 0.6518518518518519,
+                                "SampleSize": 135,
+                                "Dewthief Petal": 0.9111111111111111
+                            }
+                        }
+                    }
+                }
+            },
+            "Shroom": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Aleth Essence": 1,
+                                "SampleSize": 318,
+                                "Dewthief Petal": 0.889937106918239
+                            }
+                        }
+                    }
+                }
+            },
+            "Strawberry Hotcakes": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Dewthief Petal": 1.9666666666666666,
+                                "SampleSize": 210
+                            }
+                        }
+                    }
+                }
+            },
+            "Thirsty": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Cynd Essence": 1,
+                                "SampleSize": 64,
+                                "Dewthief Petal": 0.515625
+                            }
+                        }
+                    }
+                }
+            },
+            "Thistle": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Dewthief Petal": 0.4583333333333333,
+                                "SampleSize": 432,
+                                "Aleth Essence": 0.32407407407407407
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Lost City": {
+        "-": {
+            "Essence Collector": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Cynd Essence": 0.17647058823529413,
+                                "SampleSize": 68
+                            }
+                        }
+                    }
+                }
+            },
+            "Ethereal Enchanter": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Aleth Essence": 1,
+                                "SampleSize": 95
+                            }
+                        }
+                    }
+                }
+            },
+            "Ethereal Engineer": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Aleth Essence": 0.546875,
+                                "SampleSize": 64
+                            }
+                        }
+                    }
+                }
+            },
+            "Ethereal Librarian": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Aleth Essence": 1,
+                                "SampleSize": 79,
+                                "Cynd Essence": 0.5316455696202531
+                            }
+                        }
+                    }
+                }
+            },
+            "Ethereal Thief": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Aleth Essence": 1,
+                                "SampleSize": 60
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Twisted Garden": {
+        "-": {
+            "Barkshell": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Graveblossom Petal": 1.0106382978723405,
+                                "SampleSize": 94,
+                                "Aleth Essence": 0.46808510638297873
+                            }
+                        }
+                    }
+                }
+            },
+            "Camofusion": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Graveblossom Petal": 1.4864864864864864,
+                                "SampleSize": 222
+                            }
+                        }
+                    }
+                }
+            },
+            "Dehydrated": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Cynd Essence": 1,
+                                "SampleSize": 26,
+                                "Graveblossom Petal": 1.2692307692307692,
+                                "Dol Essence": 0.46153846153846156
+                            }
+                        }
+                    }
+                }
+            },
+            "Fungal Spore": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Graveblossom Petal": 1.064516129032258,
+                                "SampleSize": 248
+                            }
+                        }
+                    }
+                }
+            },
+            "Thorn": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Graveblossom Petal": 1.1504424778761062,
+                                "SampleSize": 113,
+                                "Aleth Essence": 0.3008849557522124
+                            }
+                        }
+                    }
+                }
+            },
+            "Twisted Hotcakes": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Graveblossom Petal": 2.3508771929824563,
+                                "SampleSize": 57,
+                                "Cynd Essence": 0.40350877192982454,
+                                "Dol Essence": 0.40350877192982454
+                            }
+                        }
+                    }
+                }
+            },
+            "Twisted Lilly": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Graveblossom Petal": 1.0204081632653061,
+                                "SampleSize": 98
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Cursed City": {
+        "-": {
+            "Cursed Enchanter": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Aleth Essence": 0.8125,
+                                "SampleSize": 80
+                            }
+                        }
+                    }
+                }
+            },
+            "Cursed Engineer": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Aleth Essence": 0.65,
+                                "SampleSize": 80
+                            }
+                        }
+                    }
+                }
+            },
+            "Cursed Librarian": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Dol Essence": 0.3114754098360656,
+                                "SampleSize": 61,
+                                "Cynd Essence": 0.21311475409836064,
+                                "Est Essence": 0.11475409836065574
+                            }
+                        }
+                    }
+                }
+            },
+            "Cursed Thief": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Cynd Essence": 0.6111111111111112,
+                                "SampleSize": 72
+                            }
+                        }
+                    }
+                }
+            },
+            "Dark Magi": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Ancient Relic": 1,
+                                "SampleSize": 4
+                            }
+                        }
+                    }
+                }
+            },
+            "Essence Guardian": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Cynd Essence": 1,
+                                "SampleSize": 54
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Sand Crypts": {
+        "-": {
+            "King Grub": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Lunaria Petal": 2.619047619047619,
+                                "SampleSize": 21,
+                                "Dol Essence": 1,
+                                "Est Essence": 0.6190476190476191,
+                                "Fel Essence": 0.47619047619047616
+                            }
+                        }
+                    }
+                }
+            },
+            "King Scarab": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Ancient Relic": 1,
+                                "SampleSize": 1
+                            }
+                        }
+                    }
+                }
+            },
+            "Sand Colossus": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Aleth Essence": 0.873015873015873,
+                                "SampleSize": 126,
+                                "Lunaria Petal": 0.2222222222222222
+                            }
+                        }
+                    }
+                }
+            },
+            "Sarcophamouse": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Aleth Essence": 0.8914728682170543,
+                                "SampleSize": 129,
+                                "Lunaria Petal": 0.20930232558139536
+                            }
+                        }
+                    }
+                }
+            },
+            "Scarab": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Cynd Essence": 0.5904761904761905,
+                                "SampleSize": 105,
+                                "Lunaria Petal": 0.3047619047619048
+                            }
+                        }
+                    }
+                }
+            },
+            "Serpentine": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Aleth Essence": 0.8725490196078431,
+                                "SampleSize": 102,
+                                "Cynd Essence": 0.5392156862745098,
+                                "Lunaria Petal": 0.24509803921568626
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
     "Fungal Cavern": {
         "-": {
             "Floating Spore": {
@@ -4225,6 +5783,584 @@
             }
         }
     },
+    "Labyrinth": {
+        "-": {
+            "Lost": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Simple Orb": 0.13698924731182796,
+                                "SampleSize": 4650
+                            }
+                        }
+                    }
+                }
+            },
+            "Lost Legionnaire": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Simple Orb": 0.258692365835223,
+                                "SampleSize": 5292,
+                                "Flawed Orb": 0.06557067271352986
+                            }
+                        }
+                    }
+                }
+            },
+            "Mush Monster": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Cavern Fungus": 6.970959595959596,
+                                "SampleSize": 1584
+                            }
+                        }
+                    }
+                }
+            },
+            "Mushroom Harvester": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Cavern Fungus": 3.036308623298033,
+                                "SampleSize": 1322
+                            }
+                        }
+                    }
+                }
+            },
+            "Nightshade Nanny": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Cavern Fungus": 2.5029126213592234,
+                                "SampleSize": 515,
+                                "Nightshade": 3
+                            }
+                        }
+                    }
+                },
+                "Nightshade Farming Charm": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Nightshade": 4,
+                                "SampleSize": 515
+                            }
+                        }
+                    }
+                },
+                "Super Nightshade Farming Charm": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Nightshade": 4,
+                                "SampleSize": 515
+                            }
+                        }
+                    }
+                }
+            },
+            "Reanimated Carver": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Lantern Oil": 3.3536299765807964,
+                                "SampleSize": 854,
+                                "Divine Orb": 0.0234192037470726
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Zokor": {
+        "-": {
+            "Reanimated Carver": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Lantern Oil": 3.4226024671707123,
+                                "SampleSize": 2513,
+                                "Divine Orb": 0.03302825308396339
+                            }
+                        }
+                    }
+                }
+            },
+            "Mush Monster": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Cavern Fungus": 7.011228533685601,
+                                "SampleSize": 1514
+                            }
+                        }
+                    }
+                }
+            },
+            "Mushroom Harvester": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Cavern Fungus": 3.0576923076923075,
+                                "SampleSize": 52
+                            }
+                        }
+                    }
+                }
+            },
+            "Nightshade Fungalmancer": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Nightshade": 3,
+                                "SampleSize": 1040,
+                                "Cavern Fungus": 5.485576923076923
+                            }
+                        }
+                    }
+                },
+                "Nightshade Farming Charm": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Nightshade": 4,
+                                "SampleSize": 1040
+                            }
+                        }
+                    }
+                },
+                "Super Nightshade Farming Charm": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Nightshade": 4,
+                                "SampleSize": 1040
+                            }
+                        }
+                    }
+                }
+            },
+            "Nightshade Nanny": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Nightshade": 3,
+                                "SampleSize": 598,
+                                "Cavern Fungus": 2.508361204013378
+                            }
+                        }
+                    }
+                },
+                "Nightshade Farming Charm": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Nightshade": 4,
+                                "SampleSize": 598
+                            }
+                        }
+                    }
+                },
+                "Super Nightshade Farming Charm": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Nightshade": 4,
+                                "SampleSize": 598
+                            }
+                        }
+                    }
+                }
+            },
+            "Battle Cleric": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Plate of Fealty": 2.503281171125694,
+                                "SampleSize": 1981
+                            }
+                        }
+                    }
+                }
+            },
+            "Dark Templar": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Plate of Fealty": 2.9702702702702704,
+                                "SampleSize": 370
+                            }
+                        }
+                    }
+                }
+            },
+            "Drudge": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Plate of Fealty": 1,
+                                "SampleSize": 113
+                            }
+                        }
+                    }
+                }
+            },
+            "Masked Pikeman": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Plate of Fealty": 1,
+                                "SampleSize": 97
+                            }
+                        }
+                    }
+                }
+            },
+            "Mind Tearer": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Plate of Fealty": 4.025,
+                                "SampleSize": 480
+                            }
+                        }
+                    }
+                }
+            },
+            "Paladin Weapon Master": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Infused Plate": 1,
+                                "SampleSize": 114,
+                                "Plate of Fealty": 14.75438596491228,
+                                "Ancient Relic": 0.14035087719298245
+                            }
+                        }
+                    }
+                }
+            },
+            "Sir Fleekio": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Plate of Fealty": 8.008923259964307,
+                                "SampleSize": 1681,
+                                "Simple Orb": 0.24866151100535397,
+                                "Flawed Orb": 0.23022010707911958,
+                                "Flawless Orb": 0.12314098750743604,
+                                "Divine Orb": 0.019631171921475312
+                            }
+                        }
+                    }
+                }
+            },
+            "Solemn Soldier": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Plate of Fealty": 1,
+                                "SampleSize": 266
+                            }
+                        }
+                    }
+                }
+            },
+            "Ancient Scribe": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Scholar Scroll": 7.979180221210149,
+                                "SampleSize": 1537,
+                                "Simple Orb": 0.2745608327911516,
+                                "Flawed Orb": 0.2498373454782043,
+                                "Flawless Orb": 0.12231620039037085,
+                                "Divine Orb": 0.03253090435914118
+                            }
+                        }
+                    }
+                }
+            },
+            "Ethereal Guardian": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Scholar Scroll": 2.5076754385964914,
+                                "SampleSize": 1824
+                            }
+                        }
+                    }
+                }
+            },
+            "Mystic Guardian": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Scholar Scroll": 1,
+                                "SampleSize": 227
+                            }
+                        }
+                    }
+                }
+            },
+            "Mystic Herald": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Scholar Scroll": 3.9385245901639343,
+                                "SampleSize": 488
+                            }
+                        }
+                    }
+                }
+            },
+            "Mystic Scholar": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Scholar Scroll": 2.9597701149425286,
+                                "SampleSize": 348
+                            }
+                        }
+                    }
+                }
+            },
+            "Sanguinarian": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Scholar Scroll": 1,
+                                "SampleSize": 79
+                            }
+                        }
+                    }
+                }
+            },
+            "Soul Binder": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Scholar Scroll": 15.3125,
+                                "SampleSize": 112,
+                                "Ancient Relic": 0.09821428571428571
+                            }
+                        }
+                    }
+                }
+            },
+            "Summoning Scholar": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Scholar Scroll": 1,
+                                "SampleSize": 93
+                            }
+                        }
+                    }
+                }
+            },
+            "Ash Golem": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Tech Power Core": 1,
+                                "SampleSize": 72
+                            }
+                        }
+                    }
+                }
+            },
+            "Automated Stone Sentry": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Tech Power Core": 3.9547169811320755,
+                                "SampleSize": 530
+                            }
+                        }
+                    }
+                }
+            },
+            "Exo-Tech": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Tech Power Core": 2.511837121212121,
+                                "SampleSize": 2112
+                            }
+                        }
+                    }
+                }
+            },
+            "Fungal Technomorph": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Tech Power Core": 2.490813648293963,
+                                "SampleSize": 381
+                            }
+                        }
+                    }
+                }
+            },
+            "Manaforge Smith": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Tech Power Core": 14.977443609022556,
+                                "SampleSize": 133,
+                                "Ancient Relic": 0.19548872180451127
+                            }
+                        }
+                    }
+                }
+            },
+            "Matron of Machinery": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Tech Power Core": 8.00342270393611,
+                                "SampleSize": 1753,
+                                "Simple Orb": 0.26354820308043353,
+                                "Flawed Orb": 0.23331431831146607,
+                                "Flawless Orb": 0.13291500285225327,
+                                "Divine Orb": 0.02053622361665716
+                            }
+                        }
+                    }
+                }
+            },
+            "RR-8": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Tech Power Core": 1,
+                                "SampleSize": 106
+                            }
+                        }
+                    }
+                }
+            },
+            "Tech Golem": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Tech Power Core": 1,
+                                "SampleSize": 256
+                            }
+                        }
+                    }
+                }
+            },
+            "Hired Eidolon": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Scholar Scroll": 2,
+                                "SampleSize": 204,
+                                "Tech Power Core": 2,
+                                "Plate of Fealty": 2
+                            }
+                        }
+                    }
+                }
+            },
+            "Matron of Wealth": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Scholar Scroll": 4.1344537815126055,
+                                "SampleSize": 119,
+                                "Tech Power Core": 3.9747899159663866,
+                                "Plate of Fealty": 3.957983193277311
+                            }
+                        }
+                    }
+                }
+            },
+            "Mimic": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Scholar Scroll": 2.471830985915493,
+                                "SampleSize": 142,
+                                "Tech Power Core": 2.584507042253521,
+                                "Plate of Fealty": 2.4577464788732395
+                            }
+                        }
+                    }
+                }
+            },
+            "Molten Midas": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Unstable Crystal": 1,
+                                "SampleSize": 316
+                            }
+                        }
+                    }
+                }
+            },
+            "Treasure Brawler": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Scholar Scroll": 2,
+                                "SampleSize": 55,
+                                "Tech Power Core": 2,
+                                "Plate of Fealty": 2
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
     "Moussu Picchu": {
         "-": {
             "Breeze Borrower": {
@@ -4508,6 +6644,1046 @@
                                 "Rainy Potion": 0.02,
                                 "Windy Potion": 0.02,
                                 "Minerals": 2.85
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Gnawnia Rift": {
+        "-": {
+            "Agitated Gentle Giant": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Riftiago Potion": 0.3399503722084367,
+                                "SampleSize": 403
+                            }
+                        }
+                    }
+                }
+            },
+            "Dream Drifter": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Magical String Cheese": 1.518181818181818,
+                                "SampleSize": 110,
+                                "Ionized Salt": 0.7454545454545455,
+                                "Riftiago Potion": 0.5181818181818182,
+                                "Magic Essence": 0.2545454545454545
+                            }
+                        }
+                    }
+                }
+            },
+            "Excitable Electric": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Riftiago Potion": 0.2930591259640103,
+                                "SampleSize": 389
+                            }
+                        }
+                    }
+                }
+            },
+            "Micro": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Riftiago Potion": 0.44144144144144143,
+                                "SampleSize": 222,
+                                "Ionized Salt": 0.2927927927927928
+                            }
+                        }
+                    }
+                }
+            },
+            "Mighty Mole": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Riftiago Potion": 0.22727272727272727,
+                                "SampleSize": 110
+                            }
+                        }
+                    }
+                }
+            },
+            "Supernatural": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Riftiago Potion": 0.30833333333333335,
+                                "SampleSize": 360
+                            }
+                        }
+                    }
+                }
+            },
+            "Cyborg": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Riftgrass": 0.8267716535433071,
+                                "SampleSize": 381
+                            }
+                        }
+                    }
+                }
+            },
+            "Rift Guardian": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Simple Orb": 0.30666666666666664,
+                                "SampleSize": 225,
+                                "Flawed Orb": 0.27555555555555555,
+                                "Flawless Orb": 0.04888888888888889
+                            }
+                        }
+                    }
+                }
+            },
+            "Shard Centurion": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Rift Dust": 0.840782122905028,
+                                "SampleSize": 358
+                            }
+                        }
+                    }
+                }
+            },
+            "Spiritual Steel": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Magic Seed": 0.8459657701711492,
+                                "SampleSize": 409
+                            }
+                        }
+                    }
+                }
+            },
+            "Goliath Field": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Raw Rift Crystal": 1,
+                                "SampleSize": 252,
+                                "Ancient Relic": 0.07539682539682539,
+                                "Divine Orb": 0.05952380952380952
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Burroughs Rift": {
+        "-": {
+            "Amplified Brown": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Mist Canister": 1.0119047619047619,
+                                "SampleSize": 168
+                            }
+                        }
+                    }
+                }
+            },
+            "Amplified Grey": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Mist Canister": 0.5864661654135338,
+                                "SampleSize": 133
+                            }
+                        }
+                    }
+                }
+            },
+            "Amplified White": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Mist Canister": 0.5506329113924051,
+                                "SampleSize": 158
+                            }
+                        }
+                    }
+                }
+            },
+            "Automated Sentry": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Mist Canister": 1.1185410334346504,
+                                "SampleSize": 329
+                            }
+                        }
+                    }
+                }
+            },
+            "Cybernetic Specialist": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Mist Canister": 1.0769230769230769,
+                                "SampleSize": 156
+                            }
+                        }
+                    }
+                }
+            },
+            "Doktor": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Mist Canister": 2.7339055793991416,
+                                "SampleSize": 466
+                            }
+                        }
+                    }
+                }
+            },
+            "Evil Scientist": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Mist Canister": 1.6334056399132322,
+                                "SampleSize": 461
+                            }
+                        }
+                    }
+                }
+            },
+            "Portable Generator": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Mist Canister": 3.5,
+                                "SampleSize": 106
+                            }
+                        }
+                    }
+                }
+            },
+            "Rift Bio Engineer": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Mist Canister": 1.4974093264248705,
+                                "SampleSize": 193
+                            }
+                        }
+                    }
+                }
+            },
+            "Surgeon Bot": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Mist Canister": 1.1841359773371105,
+                                "SampleSize": 353
+                            }
+                        }
+                    }
+                }
+            },
+            "Count Vampire": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Terre Ricotta Potion": 0.8064516129032258,
+                                "SampleSize": 310,
+                                "Mist Canister": 0.38387096774193546
+                            }
+                        }
+                    }
+                }
+            },
+            "Phase Zombie": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Terre Ricotta Potion": 0.5662650602409639,
+                                "SampleSize": 249
+                            }
+                        }
+                    }
+                }
+            },
+            "Prototype": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Terre Ricotta Potion": 0.3106060606060606,
+                                "SampleSize": 132
+                            }
+                        }
+                    }
+                }
+            },
+            "Robat": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Terre Ricotta Potion": 0.3315508021390374,
+                                "SampleSize": 187
+                            }
+                        }
+                    }
+                }
+            },
+            "Tech Ravenous Zombie": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Terre Ricotta Potion": 1.1896103896103896,
+                                "SampleSize": 385,
+                                "Mist Canister": 0.561038961038961
+                            }
+                        }
+                    }
+                }
+            },
+            "Lycanoid": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Mist Canister": 0.5488372093023256,
+                                "SampleSize": 430,
+                                "Terre Ricotta Potion": 0.7837209302325582
+                            }
+                        }
+                    }
+                }
+            },
+            "Revenant": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Terre Ricotta Potion": 1.2286374133949192,
+                                "SampleSize": 433,
+                                "Mist Canister": 0.5519630484988453
+                            }
+                        }
+                    }
+                }
+            },
+            "Zombot Unipire the Third": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Terre Ricotta Potion": 0.7916666666666666,
+                                "SampleSize": 312
+                            }
+                        }
+                    }
+                }
+            },
+            "Clump": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Polluted Parmesan Potion": 0.1828793774319066,
+                                "SampleSize": 257
+                            }
+                        }
+                    }
+                }
+            },
+            "Cyber Miner": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Polluted Parmesan Potion": 0.3287671232876712,
+                                "SampleSize": 292,
+                                "Mist Canister": 0.2876712328767123
+                            }
+                        }
+                    }
+                }
+            },
+            "Rifterranian": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Polluted Parmesan Potion": 0.11570247933884298,
+                                "SampleSize": 242
+                            }
+                        }
+                    }
+                }
+            },
+            "Boulder Biter": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Polluted Parmesan Potion": 0.5758620689655173,
+                                "SampleSize": 580,
+                                "Mist Canister": 0.3620689655172414
+                            }
+                        }
+                    }
+                }
+            },
+            "Lambent": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Polluted Parmesan Potion": 0.2745664739884393,
+                                "SampleSize": 346
+                            }
+                        }
+                    }
+                }
+            },
+            "Master Exploder": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Polluted Parmesan Potion": 0.28662420382165604,
+                                "SampleSize": 471,
+                                "Mist Canister": 0.21868365180467092
+                            }
+                        }
+                    }
+                }
+            },
+            "Tomb Exhumer": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "King's Credit": 2.3333333333333335,
+                                "SampleSize": 9,
+                                "Calcified Rift Mist": 1.3333333333333333,
+                                "Enerchi Charm": 1.5555555555555556,
+                                "Rift Vacuum Charm": 0.3333333333333333,
+                                "Tomb Stones": 0.2222222222222222,
+                                "Rift Antiskele Charm": 0.2222222222222222
+                            }
+                        }
+                    }
+                }
+            },
+            "Monstrous Abomination": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Rift Circuitry": 1,
+                                "SampleSize": 112
+                            }
+                        }
+                    }
+                }
+            },
+            "Big Bad Behemoth Burroughs": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Rift Circuitry": 1,
+                                "SampleSize": 46
+                            }
+                        }
+                    }
+                }
+            },
+            "Assassin Beast": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Rift Circuitry": 1,
+                                "SampleSize": 117
+                            }
+                        }
+                    }
+                }
+            },
+            "Plutonium Tentacle": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Rift Circuitry": 1,
+                                "SampleSize": 133
+                            }
+                        }
+                    }
+                }
+            },
+            "Menace of the Rift": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Rift Circuitry": 1,
+                                "SampleSize": 190
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Whisker Woods Rift": {
+        "-": {
+            "Cherry Sprite": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Simple Orb": 0.15609756097560976,
+                                "SampleSize": 205,
+                                "Flawless Orb": 0.06341463414634146
+                            }
+                        }
+                    }
+                }
+            },
+            "Red-Eyed Watcher Owl": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Simple Orb": 0.04878048780487805,
+                                "SampleSize": 328
+                            }
+                        }
+                    }
+                }
+            },
+            "Spirit Fox": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Simple Orb": 0.019867549668874173,
+                                "SampleSize": 302
+                            }
+                        }
+                    }
+                }
+            },
+            "Treant Queen": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Simple Orb": 0.03343465045592705,
+                                "SampleSize": 329
+                            }
+                        }
+                    }
+                }
+            },
+            "Naturalist": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Simple Orb": 0.16363636363636364,
+                                "SampleSize": 165,
+                                "Flawless Orb": 0.03636363636363636
+                            }
+                        }
+                    }
+                }
+            },
+            "Nomadic Warrior": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Simple Orb": 0.026717557251908396,
+                                "SampleSize": 262
+                            }
+                        }
+                    }
+                }
+            },
+            "Red Coat Bear": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Simple Orb": 0.04411764705882353,
+                                "SampleSize": 272
+                            }
+                        }
+                    }
+                }
+            },
+            "Rift Tiger": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Simple Orb": 0.0398406374501992,
+                                "SampleSize": 251
+                            }
+                        }
+                    }
+                }
+            },
+            "Grizzled Silth": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Simple Orb": 0.11979166666666667,
+                                "SampleSize": 192,
+                                "Flawless Orb": 0.057291666666666664
+                            }
+                        }
+                    }
+                }
+            },
+            "Medicine": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Simple Orb": 0.033003300330033,
+                                "SampleSize": 303
+                            }
+                        }
+                    }
+                }
+            },
+            "Tree Troll": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Simple Orb": 0.031496062992125984,
+                                "SampleSize": 254
+                            }
+                        }
+                    }
+                }
+            },
+            "Winged Harpy": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Simple Orb": 0.041044776119402986,
+                                "SampleSize": 268
+                            }
+                        }
+                    }
+                }
+            },
+            "Centaur Ranger": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Creamy Gnarled Sap": 1,
+                                "SampleSize": 66,
+                                "Ancient Relic": 0.09090909090909091,
+                                "Flawless Orb": 0.045454545454545456,
+                                "Divine Orb": 0.045454545454545456
+                            }
+                        }
+                    }
+                }
+            },
+            "Cyclops Barbarian": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Tasty Spider Mould": 1,
+                                "SampleSize": 85,
+                                "Divine Orb": 0.12941176470588237,
+                                "Ancient Relic": 0.047058823529411764,
+                                "Flawless Orb": 0.03529411764705882
+                            }
+                        }
+                    }
+                }
+            },
+            "Tri-dra": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Ancient Relic": 0.07792207792207792,
+                                "SampleSize": 77,
+                                "Divine Orb": 0.05194805194805195,
+                                "Flawless Orb": 0.012987012987012988
+                            }
+                        }
+                    }
+                }
+            },
+            "Gilded Leaf": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Simple Orb": 0.24571428571428572,
+                                "SampleSize": 175,
+                                "Divine Orb": 0.11428571428571428,
+                                "Flawless Orb": 0.10857142857142857,
+                                "Magical String Cheese": 0.06285714285714286,
+                                "Brie String Cheese": 0.017142857142857144,
+                                "Stagnant Charm": 0.017142857142857144,
+                                "Gnarled Charm": 0.017142857142857144,
+                                "Cherry Charm": 0.011428571428571429,
+                                "Swiss String Cheese": 0.011428571428571429
+                            }
+                        }
+                    }
+                }
+            },
+            "Monstrous Black Widow": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Divine Orb": 1.3548387096774193,
+                                "SampleSize": 30,
+                                "Ancient Relic": 1,
+                                "Widow's Web": 1.5806451612903225,
+                                "Rift Ultimate Power Charm": 1.4333333333333333,
+                                "Rift Ultimate Luck Charm": 0.8333333333333334,
+                                "Rope": 0.4,
+                                "Super Rotten Charm": 0.4,
+                                "Bolt of Cloth": 0.23333333333333334,
+                                "Radioactive Sludge": 6.266666666666667,
+                                "Super Power Charm": 0.7666666666666667,
+                                "Greater Wicked Gnarly Potion": 0.03333333333333333
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Furoma Rift": {
+        "-": {
+            "Armored Archer": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Enerchi": 4,
+                                "SampleSize": 1135,
+                                "Enerchi Charm": 0.4713656387665198,
+                                "Erupting Rift Core": 0.03612334801762115,
+                                "Flawless Orb": 0.03259911894273128
+                            }
+                        }
+                    }
+                }
+            },
+            "Dancing Assassin": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Enerchi Charm": 2.4721189591078065,
+                                "SampleSize": 269,
+                                "Divine Orb": 0.1412639405204461,
+                                "Flawless Orb": 0.03345724907063197
+                            }
+                        }
+                    }
+                }
+            },
+            "Dumpling Delivery": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Enerchi": 3,
+                                "SampleSize": 1157,
+                                "Nori": 0.06395851339671564,
+                                "Rift Curd": 0.04235090751944685,
+                                "Ionized Salt": 0.03975799481417459
+                            }
+                        }
+                    }
+                }
+            },
+            "Enlightened Labourer": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Enerchi": 10,
+                                "SampleSize": 115,
+                                "Simple Orb": 0.2782608695652174,
+                                "Enerchi Charm": 0.1826086956521739,
+                                "Rift Circuit Chips": 0.02608695652173913,
+                                "Scrap Metal": 0.017391304347826087,
+                                "Aleth Essence": 0.017391304347826087
+                            }
+                        }
+                    }
+                }
+            },
+            "Militant Samurai": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Enerchi": 1.3724304715840387,
+                                "SampleSize": 827,
+                                "Enerchi Charm": 0.049576783555018135,
+                                "Simple Orb": 0.02781136638452237
+                            }
+                        }
+                    }
+                }
+            },
+            "Rift Guardian": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Flawed Orb": 0.3092369477911647,
+                                "SampleSize": 249,
+                                "Simple Orb": 0.1927710843373494,
+                                "Flawless Orb": 0.03614457831325301
+                            }
+                        }
+                    }
+                }
+            },
+            "Shaolin Kung Fu": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Enerchi": 1.545129579982127,
+                                "SampleSize": 1119,
+                                "Enerchi Charm": 0.08489722966934764,
+                                "Simple Orb": 0.02770330652368186
+                            }
+                        }
+                    }
+                }
+            },
+            "Shinobi": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Enerchi": 3.368600682593857,
+                                "SampleSize": 1758,
+                                "Enerchi Charm": 0.39761092150170646,
+                                "Divine Orb": 0.02901023890784983,
+                                "Erupting Rift Core": 0.01478953356086462
+                            }
+                        }
+                    }
+                }
+            },
+            "Wandering Monk": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Enerchi": 1.6538461538461537,
+                                "SampleSize": 884,
+                                "Enerchi Charm": 0.06900452488687783
+                            }
+                        }
+                    }
+                }
+            },
+            "Student of the Chi Belt": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Enerchi": 1,
+                                "SampleSize": 1249,
+                                "Chi Belt Token": 1,
+                                "Battery Fragment": 0.7598078462770216,
+                                "Simple Orb": 0.04483586869495596
+                            }
+                        }
+                    }
+                }
+            },
+            "Student of the Chi Claw": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Enerchi": 1,
+                                "SampleSize": 1285,
+                                "Chi Claw Token": 1,
+                                "Battery Fragment": 0.754863813229572,
+                                "Simple Orb": 0.05291828793774319
+                            }
+                        }
+                    }
+                }
+            },
+            "Student of the Chi Fang": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Enerchi": 1,
+                                "SampleSize": 1281,
+                                "Chi Fang Token": 1,
+                                "Battery Fragment": 0.7587822014051522,
+                                "Simple Orb": 0.04449648711943794
+                            }
+                        }
+                    }
+                }
+            },
+            "Master of the Chi Belt": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Chi Belt Heirloom": 1,
+                                "SampleSize": 877,
+                                "Enerchi": 2,
+                                "Battery Fragment": 1.5233751425313569,
+                                "Rift Circuitry": 0.1402508551881414,
+                                "Simple Orb": 0.055872291904218926
+                            }
+                        }
+                    }
+                }
+            },
+            "Master of the Chi Claw": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Chi Claw Heirloom": 1,
+                                "SampleSize": 888,
+                                "Enerchi": 2,
+                                "Battery Fragment": 1.5653153153153154,
+                                "Rift Circuitry": 0.12725225225225226,
+                                "Simple Orb": 0.05518018018018018
+                            }
+                        }
+                    }
+                }
+            },
+            "Master of the Chi Fang": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Enerchi": 2,
+                                "SampleSize": 911,
+                                "Chi Fang Heirloom": 1,
+                                "Battery Fragment": 1.5521405049396269,
+                                "Rift Circuitry": 0.12184412733260154,
+                                "Simple Orb": 0.04610318331503842
+                            }
+                        }
+                    }
+                }
+            },
+            "Grand Master of the Dojo": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Enerchi": 3,
+                                "SampleSize": 562,
+                                "Null Onyx Stone": 1,
+                                "Battery Fragment": 3.4661921708185055,
+                                "Rift Circuitry": 0.2704626334519573,
+                                "Divine Orb": 0.11209964412811388,
+                                "Ancient Relic": 0.019572953736654804
+                            }
+                        }
+                    }
+                }
+            },
+            "Supreme Sensei": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Rift Blossom Branch": 1,
+                                "SampleSize": 362,
+                                "Battery Fragment": 8,
+                                "Enerchi": 4.013812154696133,
+                                "Rift Circuitry": 0.5966850828729282,
+                                "Divine Orb": 0.30939226519337015,
+                                "Ancient Relic": 0.04696132596685083
+                            }
+                        }
+                    }
+                }
+            },
+            "Ascended Elder": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Unstable Broom": 1,
+                                "SampleSize": 110,
+                                "Enerchi Charm": 27.636363636363637,
+                                "Calcified Rift Mist": 12.472727272727273,
+                                "Ancient Relic": 0.38181818181818183,
+                                "Simple Orb": 0.35454545454545455,
+                                "Rift Ultimate Luck Charm": 0.6090909090909091,
+                                "Divine Orb": 0.22727272727272727,
+                                "Rift Ultimate Power Charm": 0.5727272727272728,
+                                "Flawed Orb": 0.10909090909090909,
+                                "Flawless Orb": 0.02727272727272727
                             }
                         }
                     }
