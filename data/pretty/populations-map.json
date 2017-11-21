@@ -88,7 +88,7 @@
                     "-": 1.3
                 },
                 "Moon": {
-                    "-": 12.89
+                    "-": 13.09
                 }
             }
         }
@@ -97,7 +97,7 @@
         "Acolyte Realm": {
             "-": {
                 "Runic": {
-                    "-": 8.27
+                    "-": 8.28
                 }
             }
         }
@@ -371,7 +371,7 @@
         "Acolyte Realm": {
             "-": {
                 "Radioactive Blue": {
-                    "-": 0.22
+                    "-": 0.21
                 }
             }
         },
@@ -407,7 +407,7 @@
         "Elub Shore": {
             "-": {
                 "SB+": {
-                    "-": 0.77
+                    "-": 0.78
                 }
             }
         },
@@ -479,7 +479,7 @@
         "Nerg Plains": {
             "-": {
                 "SB+": {
-                    "-": 0.74
+                    "-": 0.76
                 }
             }
         },
@@ -551,7 +551,7 @@
                     "-": 17.96
                 },
                 "Vengeful Vanilla Stilton": {
-                    "-": 5.01
+                    "-": 5.02
                 }
             },
             "Mid Tide": {
@@ -688,7 +688,7 @@
         "Balack's Cove": {
             "Low Tide": {
                 "Vanilla Stilton": {
-                    "-": 2.87
+                    "-": 2.88
                 }
             }
         }
@@ -1840,7 +1840,7 @@
                 "Undead Emmental": {
                     "-": 4,
                     "Brain": 19.3,
-                    "Super Brain": 2.7
+                    "Super Brain": 18.79
                 }
             }
         },
@@ -1885,1030 +1885,6 @@
                 },
                 "White Cheddar": {
                     "-": 2.26
-                }
-            }
-        }
-    },
-    "Absolute Acolyte": {
-        "Bristle Woods Rift": {
-            "Acolyte": {
-                "Runic String": {
-                    "-": 8.82,
-                    "Rift Antiskele": 12.17
-                }
-            }
-        }
-    },
-    "Carrion Medium": {
-        "Bristle Woods Rift": {
-            "Acolyte": {
-                "Runic String": {
-                    "-": 3.85,
-                    "Rift Antiskele": 4.54
-                }
-            },
-            "Hidden Treasury": {
-                "Brie String": {
-                    "-": 6.96
-                },
-                "Runic String": {
-                    "-": 3.02
-                }
-            },
-            "Timewarp": {
-                "Ancient String": {
-                    "-": 14.77
-                },
-                "Brie String": {
-                    "-": 8.12
-                },
-                "Runic String": {
-                    "-": 33.92,
-                    "Rift Antiskele": 33.78
-                }
-            }
-        }
-    },
-    "Chronomaster": {
-        "Bristle Woods Rift": {
-            "Acolyte": {
-                "Runic String": {
-                    "-": 0.59,
-                    "Rift Antiskele": 0.64
-                }
-            },
-            "Timewarp": {
-                "Runic String": {
-                    "-": 26.4,
-                    "Rift Antiskele": 28.47
-                }
-            }
-        }
-    },
-    "Dread Knight": {
-        "Bristle Woods Rift": {
-            "Acolyte": {
-                "Runic String": {
-                    "-": 23.82,
-                    "Rift Antiskele": 32.06
-                }
-            },
-            "Ancient Lab": {
-                "Ancient String": {
-                    "-": 9.17
-                },
-                "Brie String": {
-                    "-": 1.05
-                },
-                "Runic String": {
-                    "-": 12.29
-                },
-                "Swiss String": {
-                    "-": 1.71
-                }
-            },
-            "Frozen Alcove": {
-                "Ancient String": {
-                    "-": 35.57
-                },
-                "Brie String": {
-                    "-": 10
-                },
-                "Magical String": {
-                    "-": 11.22
-                },
-                "Runic String": {
-                    "-": 37.47
-                }
-            },
-            "Gearworks": {
-                "Brie String": {
-                    "-": 16.52
-                },
-                "Magical String": {
-                    "-": 16.85
-                },
-                "Runic String": {
-                    "-": 37.38
-                },
-                "Swiss String": {
-                    "-": 8.33
-                }
-            },
-            "Guard Barracks": {
-                "Ancient String": {
-                    "-": 14.81
-                },
-                "Brie String": {
-                    "-": 9.26
-                },
-                "Magical String": {
-                    "-": 10.21
-                },
-                "Runic String": {
-                    "-": 17.65
-                }
-            },
-            "Hidden Treasury": {
-                "Brie String": {
-                    "-": 11.27
-                },
-                "Runic String": {
-                    "-": 5.4
-                }
-            },
-            "Ingress": {
-                "Ancient String": {
-                    "-": 16.2
-                },
-                "Brie String": {
-                    "-": 3.1
-                },
-                "Runic String": {
-                    "-": 19.67
-                }
-            },
-            "Lucky Tower": {
-                "Brie String": {
-                    "-": 10.48
-                },
-                "Magical String": {
-                    "-": 9.03
-                },
-                "Runic String": {
-                    "-": 10.25
-                }
-            },
-            "Runic Laboratory": {
-                "Brie String": {
-                    "-": 26.27
-                },
-                "Runic String": {
-                    "-": 10.85
-                }
-            },
-            "Timewarp": {
-                "Ancient String": {
-                    "-": 30.65
-                },
-                "Brie String": {
-                    "-": 40.96
-                }
-            }
-        }
-    },
-    "Harbinger Of Death": {
-        "Bristle Woods Rift": {
-            "Acolyte": {
-                "Runic String": {
-                    "-": 3.76,
-                    "Rift Antiskele": 5.18
-                }
-            },
-            "Frozen Alcove": {
-                "Ancient String": {
-                    "-": 0.15
-                },
-                "Runic String": {
-                    "-": 0.53
-                }
-            },
-            "Gearworks": {
-                "Runic String": {
-                    "-": 0.08
-                }
-            },
-            "Hidden Treasury": {
-                "Brie String": {
-                    "-": 2.35
-                },
-                "Runic String": {
-                    "-": 2.38
-                }
-            },
-            "Ingress": {
-                "Ancient String": {
-                    "-": 0.93
-                },
-                "Brie String": {
-                    "-": 1.89
-                },
-                "Runic String": {
-                    "-": 1.11
-                }
-            },
-            "Lucky Tower": {
-                "Brie String": {
-                    "-": 1.14
-                },
-                "Magical String": {
-                    "-": 1.9
-                },
-                "Runic String": {
-                    "-": 2.13
-                }
-            },
-            "Runic Laboratory": {
-                "Ancient String": {
-                    "-": 2.21,
-                    "Rift Antiskele": 2.5
-                },
-                "Brie String": {
-                    "-": 2.35
-                },
-                "Runic String": {
-                    "-": 1.78
-                }
-            }
-        }
-    },
-    "Portal Paladin": {
-        "Bristle Woods Rift": {
-            "Acolyte": {
-                "Runic String": {
-                    "-": 8.25,
-                    "Rift Antiskele": 6.27
-                }
-            },
-            "Ancient Lab": {
-                "Ancient String": {
-                    "-": 5.16
-                },
-                "Brie String": {
-                    "-": 5.2
-                },
-                "Magical String": {
-                    "-": 5.75
-                },
-                "Runic String": {
-                    "-": 3.25
-                },
-                "Swiss String": {
-                    "-": 6.73
-                }
-            },
-            "Frozen Alcove": {
-                "Ancient String": {
-                    "-": 8.63
-                },
-                "Brie String": {
-                    "-": 6.71
-                },
-                "Magical String": {
-                    "-": 8.16
-                },
-                "Runic String": {
-                    "-": 6.3
-                }
-            },
-            "Gearworks": {
-                "Brie String": {
-                    "-": 7.25
-                },
-                "Magical String": {
-                    "-": 8.57
-                },
-                "Runic String": {
-                    "-": 5.69
-                },
-                "Swiss String": {
-                    "-": 8.55
-                }
-            },
-            "Guard Barracks": {
-                "Ancient String": {
-                    "-": 58.02
-                },
-                "Brie String": {
-                    "-": 39
-                },
-                "Magical String": {
-                    "-": 45.93
-                },
-                "Runic String": {
-                    "-": 66.04
-                }
-            },
-            "Hidden Treasury": {
-                "Brie String": {
-                    "-": 5.39
-                },
-                "Runic String": {
-                    "-": 4.75
-                }
-            },
-            "Lucky Tower": {
-                "Brie String": {
-                    "-": 3.64
-                },
-                "Magical String": {
-                    "-": 4.04
-                },
-                "Runic String": {
-                    "-": 4.64
-                }
-            },
-            "Runic Laboratory": {
-                "Ancient String": {
-                    "-": 5.54,
-                    "Rift Antiskele": 4.17
-                },
-                "Brie String": {
-                    "-": 4.92
-                },
-                "Runic String": {
-                    "-": 4.04
-                }
-            },
-            "Timewarp": {
-                "Ancient String": {
-                    "-": 4.25
-                },
-                "Brie String": {
-                    "-": 3.78
-                },
-                "Runic String": {
-                    "-": 5.17,
-                    "Rift Antiskele": 6.19
-                }
-            }
-        }
-    },
-    "Shackled Servant": {
-        "Bristle Woods Rift": {
-            "Acolyte": {
-                "Runic String": {
-                    "-": 5.15,
-                    "Rift Antiskele": 7.36
-                }
-            },
-            "Gearworks": {
-                "Runic String": {
-                    "-": 0.08
-                }
-            },
-            "Hidden Treasury": {
-                "Brie String": {
-                    "-": 5.1
-                },
-                "Runic String": {
-                    "-": 5.62
-                }
-            },
-            "Ingress": {
-                "Ancient String": {
-                    "-": 12.27
-                },
-                "Brie String": {
-                    "-": 6.37
-                },
-                "Runic String": {
-                    "-": 8.64
-                }
-            },
-            "Runic Laboratory": {
-                "Ancient String": {
-                    "-": 20.18,
-                    "Rift Antiskele": 19.17
-                },
-                "Brie String": {
-                    "-": 8.48
-                },
-                "Runic String": {
-                    "-": 15.31
-                }
-            },
-            "Security": {
-                "Brie String": {
-                    "-": 1.94
-                }
-            }
-        }
-    },
-    "Skeletal Champion": {
-        "Bristle Woods Rift": {
-            "Acolyte": {
-                "Runic String": {
-                    "-": 22.95
-                }
-            },
-            "Ancient Lab": {
-                "Ancient String": {
-                    "-": 6.16
-                },
-                "Brie String": {
-                    "-": 5.21
-                },
-                "Magical String": {
-                    "-": 4.9
-                },
-                "Runic String": {
-                    "-": 5.18
-                },
-                "Swiss String": {
-                    "-": 9.79
-                }
-            },
-            "Gearworks": {
-                "Brie String": {
-                    "-": 11.7
-                },
-                "Magical String": {
-                    "-": 9.68
-                },
-                "Runic String": {
-                    "-": 9.31
-                },
-                "Swiss String": {
-                    "-": 14.53
-                }
-            },
-            "Hidden Treasury": {
-                "Brie String": {
-                    "-": 4.8
-                },
-                "Runic String": {
-                    "-": 3.67
-                }
-            },
-            "Lucky Tower": {
-                "Brie String": {
-                    "-": 5.62
-                },
-                "Magical String": {
-                    "-": 4.51
-                },
-                "Runic String": {
-                    "-": 6
-                }
-            },
-            "Runic Laboratory": {
-                "Ancient String": {
-                    "-": 5.03
-                },
-                "Brie String": {
-                    "-": 4.92
-                },
-                "Runic String": {
-                    "-": 4.19
-                }
-            },
-            "Security": {
-                "Brie String": {
-                    "-": 90.7
-                }
-            },
-            "Timewarp": {
-                "Ancient String": {
-                    "-": 6.71
-                },
-                "Brie String": {
-                    "-": 5.44
-                },
-                "Runic String": {
-                    "-": 5.43
-                }
-            }
-        }
-    },
-    "Timeless Lich": {
-        "Bristle Woods Rift": {
-            "Acolyte": {
-                "Runic String": {
-                    "-": 2.68,
-                    "Rift Antiskele": 3
-                }
-            },
-            "Hidden Treasury": {
-                "Brie String": {
-                    "-": 9.9
-                },
-                "Runic String": {
-                    "-": 27.43
-                }
-            },
-            "Timewarp": {
-                "Ancient String": {
-                    "-": 14.54
-                },
-                "Brie String": {
-                    "-": 2.4
-                },
-                "Runic String": {
-                    "-": 19.14,
-                    "Rift Antiskele": 20.06
-                }
-            }
-        }
-    },
-    "Timelost Thaumaturge": {
-        "Bristle Woods Rift": {
-            "Acolyte": {
-                "Runic String": {
-                    "-": 6.06,
-                    "Rift Antiskele": 8.9
-                }
-            },
-            "Gearworks": {
-                "Runic String": {
-                    "-": 0.46
-                }
-            },
-            "Runic Laboratory": {
-                "Ancient String": {
-                    "-": 25.97,
-                    "Rift Antiskele": 34.58
-                },
-                "Runic String": {
-                    "-": 29.56
-                }
-            },
-            "Security": {
-                "Brie String": {
-                    "-": 3.1
-                }
-            }
-        }
-    },
-    "Timeslither Pythoness": {
-        "Bristle Woods Rift": {
-            "Acolyte": {
-                "Runic String": {
-                    "-": 5.24,
-                    "Rift Antiskele": 7.45
-                }
-            },
-            "Hidden Treasury": {
-                "Brie String": {
-                    "-": 10
-                },
-                "Runic String": {
-                    "-": 26.78
-                }
-            },
-            "Runic Laboratory": {
-                "Ancient String": {
-                    "-": 10.37,
-                    "Rift Antiskele": 12.5
-                },
-                "Runic String": {
-                    "-": 11.75
-                }
-            }
-        }
-    },
-    "Vigilant Ward": {
-        "Bristle Woods Rift": {
-            "Acolyte": {
-                "Runic String": {
-                    "-": 8.83,
-                    "Rift Antiskele": 12.44
-                }
-            },
-            "Gearworks": {
-                "Runic String": {
-                    "-": 0.15
-                }
-            },
-            "Ingress": {
-                "Ancient String": {
-                    "-": 12.04
-                },
-                "Brie String": {
-                    "-": 10.15
-                },
-                "Runic String": {
-                    "-": 11.02
-                }
-            },
-            "Runic Laboratory": {
-                "Ancient String": {
-                    "-": 21.07,
-                    "Rift Antiskele": 17.92
-                },
-                "Brie String": {
-                    "-": 14.53
-                },
-                "Runic String": {
-                    "-": 6.6
-                }
-            },
-            "Security": {
-                "Brie String": {
-                    "-": 4.26
-                }
-            }
-        }
-    },
-    "Clockwork Timespinner": {
-        "Bristle Woods Rift": {
-            "Ancient Lab": {
-                "Ancient String": {
-                    "-": 4.58
-                },
-                "Brie String": {
-                    "-": 40.79
-                },
-                "Magical String": {
-                    "-": 12.91
-                },
-                "Runic String": {
-                    "-": 1.85
-                },
-                "Swiss String": {
-                    "-": 26.19
-                }
-            },
-            "Gearworks": {
-                "Brie String": {
-                    "-": 8.01
-                },
-                "Magical String": {
-                    "-": 4.43
-                },
-                "Runic String": {
-                    "-": 4.08
-                },
-                "Swiss String": {
-                    "-": 4.7
-                }
-            },
-            "Guard Barracks": {
-                "Ancient String": {
-                    "-": 6.04
-                },
-                "Brie String": {
-                    "-": 28.09
-                },
-                "Magical String": {
-                    "-": 14.16
-                },
-                "Runic String": {
-                    "-": 1.91
-                }
-            },
-            "Ingress": {
-                "Ancient String": {
-                    "-": 18.06
-                },
-                "Brie String": {
-                    "-": 18.76
-                },
-                "Runic String": {
-                    "-": 19.51
-                }
-            },
-            "Lucky Tower": {
-                "Brie String": {
-                    "-": 19.51
-                },
-                "Magical String": {
-                    "-": 17.81
-                },
-                "Runic String": {
-                    "-": 13.54
-                }
-            }
-        }
-    },
-    "Epoch Golem": {
-        "Bristle Woods Rift": {
-            "Ancient Lab": {
-                "Ancient String": {
-                    "-": 45.85
-                },
-                "Brie String": {
-                    "-": 4.3
-                },
-                "Magical String": {
-                    "-": 39.69
-                },
-                "Runic String": {
-                    "-": 33.85
-                }
-            },
-            "Gearworks": {
-                "Magical String": {
-                    "-": 3.84
-                }
-            },
-            "Guard Barracks": {
-                "Ancient String": {
-                    "-": 8.77
-                },
-                "Magical String": {
-                    "-": 11.93
-                },
-                "Runic String": {
-                    "-": 13.42
-                }
-            },
-            "Hidden Treasury": {
-                "Brie String": {
-                    "-": 8.82
-                },
-                "Runic String": {
-                    "-": 10.15
-                }
-            },
-            "Lucky Tower": {
-                "Brie String": {
-                    "-": 6
-                },
-                "Magical String": {
-                    "-": 23.52
-                },
-                "Runic String": {
-                    "-": 23.79
-                }
-            }
-        }
-    },
-    "Portal Plunderer": {
-        "Bristle Woods Rift": {
-            "Ancient Lab": {
-                "Ancient String": {
-                    "-": 21.63
-                },
-                "Brie String": {
-                    "-": 37.36
-                },
-                "Magical String": {
-                    "-": 21.23
-                },
-                "Runic String": {
-                    "-": 13.99
-                },
-                "Swiss String": {
-                    "-": 26.74
-                }
-            },
-            "Gearworks": {
-                "Brie String": {
-                    "-": 5.37
-                },
-                "Magical String": {
-                    "-": 4.21
-                },
-                "Runic String": {
-                    "-": 10.54
-                },
-                "Swiss String": {
-                    "-": 2.14
-                }
-            },
-            "Hidden Treasury": {
-                "Brie String": {
-                    "-": 35.39
-                },
-                "Runic String": {
-                    "-": 10.8
-                }
-            },
-            "Lucky Tower": {
-                "Brie String": {
-                    "-": 20.27
-                },
-                "Magical String": {
-                    "-": 12.35
-                },
-                "Runic String": {
-                    "-": 15.28
-                }
-            }
-        }
-    },
-    "Record Keeper": {
-        "Bristle Woods Rift": {
-            "Ancient Lab": {
-                "Ancient String": {
-                    "-": 5.01
-                },
-                "Brie String": {
-                    "-": 5.11
-                },
-                "Magical String": {
-                    "-": 5.21
-                },
-                "Runic String": {
-                    "-": 1.47
-                },
-                "Swiss String": {
-                    "-": 15.85
-                }
-            },
-            "Gearworks": {
-                "Brie String": {
-                    "-": 15.15
-                },
-                "Magical String": {
-                    "-": 17.59
-                },
-                "Runic String": {
-                    "-": 2.15
-                },
-                "Swiss String": {
-                    "-": 17.95
-                }
-            },
-            "Lucky Tower": {
-                "Brie String": {
-                    "-": 10.86
-                },
-                "Magical String": {
-                    "-": 10.45
-                },
-                "Runic String": {
-                    "-": 9.48
-                }
-            }
-        }
-    },
-    "Record Keeper's Assistant": {
-        "Bristle Woods Rift": {
-            "Ancient Lab": {
-                "Ancient String": {
-                    "-": 1.15
-                },
-                "Brie String": {
-                    "-": 0.45
-                },
-                "Magical String": {
-                    "-": 5.44
-                },
-                "Runic String": {
-                    "-": 0.85
-                },
-                "Swiss String": {
-                    "-": 7.16
-                }
-            },
-            "Gearworks": {
-                "Brie String": {
-                    "-": 22.88
-                },
-                "Magical String": {
-                    "-": 20.03
-                },
-                "Runic String": {
-                    "-": 1
-                },
-                "Swiss String": {
-                    "-": 20.3
-                }
-            },
-            "Lucky Tower": {
-                "Brie String": {
-                    "-": 11.01
-                },
-                "Magical String": {
-                    "-": 11.64
-                },
-                "Runic String": {
-                    "-": 11.8
-                }
-            }
-        }
-    },
-    "Sentient Slime": {
-        "Bristle Woods Rift": {
-            "Ancient Lab": {
-                "Ancient String": {
-                    "-": 1.29
-                },
-                "Brie String": {
-                    "-": 0.53
-                },
-                "Magical String": {
-                    "-": 4.87
-                },
-                "Runic String": {
-                    "-": 0.62
-                },
-                "Swiss String": {
-                    "-": 5.81
-                }
-            },
-            "Frozen Alcove": {
-                "Ancient String": {
-                    "-": 55.65
-                },
-                "Brie String": {
-                    "-": 83.29
-                },
-                "Magical String": {
-                    "-": 80.61
-                },
-                "Runic String": {
-                    "-": 55.7
-                }
-            },
-            "Gearworks": {
-                "Brie String": {
-                    "-": 13.12
-                },
-                "Magical String": {
-                    "-": 14.78
-                },
-                "Runic String": {
-                    "-": 2.92
-                },
-                "Swiss String": {
-                    "-": 23.5
-                }
-            },
-            "Guard Barracks": {
-                "Ancient String": {
-                    "-": 12.36
-                },
-                "Brie String": {
-                    "-": 23.66
-                },
-                "Magical String": {
-                    "-": 17.78
-                },
-                "Runic String": {
-                    "-": 0.98
-                }
-            },
-            "Ingress": {
-                "Ancient String": {
-                    "-": 15.74
-                },
-                "Brie String": {
-                    "-": 27.02
-                },
-                "Runic String": {
-                    "-": 20.54
-                }
-            },
-            "Lucky Tower": {
-                "Brie String": {
-                    "-": 11.47
-                },
-                "Magical String": {
-                    "-": 4.75
-                },
-                "Runic String": {
-                    "-": 3.09
-                }
-            },
-            "Runic Laboratory": {
-                "Ancient String": {
-                    "-": 9.64,
-                    "Rift Antiskele": 9.17
-                },
-                "Brie String": {
-                    "-": 38.53
-                },
-                "Runic String": {
-                    "-": 0.3
-                }
-            },
-            "Timewarp": {
-                "Ancient String": {
-                    "-": 29.08
-                },
-                "Brie String": {
-                    "-": 39.3
-                },
-                "Runic String": {
-                    "-": 9.94,
-                    "Rift Antiskele": 11.5
-                }
-            }
-        }
-    },
-    "Chamber Cleaver": {
-        "Bristle Woods Rift": {
-            "Ancient Lab": {
-                "Runic String": {
-                    "-": 26.66
-                }
-            },
-            "Gearworks": {
-                "Runic String": {
-                    "-": 26.15
-                }
-            },
-            "Runic Laboratory": {
-                "Runic String": {
-                    "-": 15.64
-                }
-            }
-        }
-    },
-    "Portal Pursuer": {
-        "Bristle Woods Rift": {
-            "Ingress": {
-                "Ancient String": {
-                    "-": 24.77
-                },
-                "Brie String": {
-                    "-": 32.7
-                },
-                "Runic String": {
-                    "-": 19.51
                 }
             }
         }
@@ -4150,7 +3126,7 @@
         "Elub Shore": {
             "-": {
                 "SB+": {
-                    "-": 4.1
+                    "-": 4.12
                 },
                 "Gouda": {
                     "-": 8.32
@@ -4187,7 +3163,7 @@
         "Elub Shore": {
             "-": {
                 "SB+": {
-                    "-": 4.46
+                    "-": 4.49
                 },
                 "Gouda": {
                     "-": 8.04
@@ -4224,7 +3200,7 @@
         "Nerg Plains": {
             "-": {
                 "SB+": {
-                    "-": 4.34
+                    "-": 4.43
                 },
                 "Gouda": {
                     "-": 8.49
@@ -4332,7 +3308,7 @@
         "Elub Shore": {
             "-": {
                 "SB+": {
-                    "-": 4
+                    "-": 4.02
                 },
                 "Gouda": {
                     "-": 7.96
@@ -4366,7 +3342,7 @@
         "Nerg Plains": {
             "-": {
                 "SB+": {
-                    "-": 4.5
+                    "-": 4.59
                 },
                 "Gouda": {
                     "-": 7.97
@@ -4440,7 +3416,7 @@
         "Nerg Plains": {
             "-": {
                 "SB+": {
-                    "-": 4.46
+                    "-": 4.56
                 },
                 "Gouda": {
                     "-": 7.93
@@ -4651,7 +3627,7 @@
                     "-": 10.18
                 },
                 "Moon": {
-                    "-": 21.97
+                    "-": 22.17
                 }
             }
         }
@@ -4714,7 +3690,7 @@
                     "-": 7.58
                 },
                 "Moon": {
-                    "-": 5.86
+                    "-": 6.06
                 }
             }
         },
@@ -4731,7 +3707,7 @@
                 "Undead Emmental": {
                     "-": 11.23,
                     "Brain": 5.23,
-                    "Super Brain": 0.75
+                    "Super Brain": 5.21
                 }
             }
         }
@@ -4765,7 +3741,7 @@
                 "Undead Emmental": {
                     "-": 28.19,
                     "Brain": 13.27,
-                    "Super Brain": 1.94
+                    "Super Brain": 13.52
                 }
             }
         }
@@ -4792,7 +3768,7 @@
                     "-": 12.9
                 },
                 "Moon": {
-                    "-": 11.42
+                    "-": 11.62
                 },
                 "Radioactive Blue": {
                     "-": 17.12
@@ -4812,7 +3788,7 @@
                 "Undead Emmental": {
                     "-": 27.2,
                     "Brain": 12.98,
-                    "Super Brain": 1.92
+                    "Super Brain": 13.32
                 }
             }
         }
@@ -4849,7 +3825,7 @@
                 "Undead Emmental": {
                     "-": 5.81,
                     "Brain": 22.62,
-                    "Super Brain": 3.06
+                    "Super Brain": 21.27
                 }
             }
         }
@@ -4868,7 +3844,7 @@
                 "Undead Emmental": {
                     "-": 9.77,
                     "Brain": 13.62,
-                    "Super Brain": 2.13
+                    "Super Brain": 14.8
                 }
             }
         }
@@ -4887,7 +3863,7 @@
                 "Undead Emmental": {
                     "-": 11.75,
                     "Brain": 5.47,
-                    "Super Brain": 0.87
+                    "Super Brain": 6.07
                 }
             }
         }
@@ -4913,7 +3889,7 @@
                 "Undead Emmental": {
                     "-": 2.06,
                     "Brain": 7.52,
-                    "Super Brain": 1.01
+                    "Super Brain": 7.02
                 }
             }
         }
@@ -4933,7 +3909,7 @@
         "Forbidden Grove": {
             "-": {
                 "Moon": {
-                    "-": 46.86
+                    "-": 47.06
                 },
                 "Radioactive Blue": {
                     "-": 1.76
@@ -6782,7 +5758,7 @@
         "Elub Shore": {
             "-": {
                 "SB+": {
-                    "-": 17.27
+                    "-": 17.38
                 },
                 "Gouda": {
                     "-": 15.79
@@ -6800,7 +5776,7 @@
         "Elub Shore": {
             "-": {
                 "SB+": {
-                    "-": 17.25
+                    "-": 17.36
                 },
                 "Gouda": {
                     "-": 12.01
@@ -6818,7 +5794,7 @@
         "Elub Shore": {
             "-": {
                 "SB+": {
-                    "-": 17.24
+                    "-": 17.35
                 },
                 "Gouda": {
                     "-": 16
@@ -6836,7 +5812,7 @@
         "Elub Shore": {
             "-": {
                 "SB+": {
-                    "-": 17.18
+                    "-": 17.29
                 },
                 "Gouda": {
                     "-": 15.93
@@ -6854,7 +5830,7 @@
         "Elub Shore": {
             "-": {
                 "SB+": {
-                    "-": 17.12
+                    "-": 17.22
                 },
                 "Gouda": {
                     "-": 15.95
@@ -6964,13 +5940,13 @@
             "Wave 1": {
                 "SB+": {
                     "-": 30.42,
-                    "Warpath Archer": 85.72,
-                    "Warpath Scout": 5.31,
-                    "Super Warpath Archer": 91.88,
-                    "Super Warpath Commander": 3.44,
+                    "Warpath Archer": 86.07,
+                    "Warpath Scout": 5.33,
+                    "Super Warpath Archer": 92.18,
+                    "Super Warpath Commander": 3.45,
                     "Super Warpath Scout": 1.36,
-                    "Super Warpath Warrior": 1.01,
-                    "Warpath Warrior": 5.33
+                    "Super Warpath Warrior": 1.02,
+                    "Warpath Warrior": 5.36
                 },
                 "Gouda": {
                     "-": 30.83,
@@ -6982,7 +5958,7 @@
                     "-": 31.51,
                     "Warpath Archer": 81.99,
                     "Warpath Scout": 11.8,
-                    "Warpath Warrior": 8.03
+                    "Warpath Warrior": 8.04
                 }
             }
         }
@@ -6992,13 +5968,13 @@
             "Wave 1": {
                 "SB+": {
                     "-": 29.48,
-                    "Warpath Archer": 5.18,
-                    "Warpath Scout": 5.47,
+                    "Warpath Archer": 5.2,
+                    "Warpath Scout": 5.5,
                     "Super Warpath Archer": 1.29,
-                    "Super Warpath Commander": 3.13,
+                    "Super Warpath Commander": 3.15,
                     "Super Warpath Scout": 1.72,
-                    "Super Warpath Warrior": 92.51,
-                    "Warpath Warrior": 85.8
+                    "Super Warpath Warrior": 92.87,
+                    "Warpath Warrior": 86.29
                 },
                 "Gouda": {
                     "-": 30.85,
@@ -7010,7 +5986,7 @@
                     "-": 28.89,
                     "Warpath Archer": 7.24,
                     "Warpath Scout": 8.43,
-                    "Warpath Warrior": 81.84
+                    "Warpath Warrior": 81.99
                 }
             }
         }
@@ -7020,13 +5996,13 @@
             "Wave 1": {
                 "SB+": {
                     "-": 26.95,
-                    "Warpath Archer": 4.66,
-                    "Warpath Scout": 84.69,
+                    "Warpath Archer": 4.67,
+                    "Warpath Scout": 85.09,
                     "Super Warpath Archer": 1.51,
-                    "Super Warpath Commander": 4.35,
-                    "Super Warpath Scout": 91.67,
-                    "Super Warpath Warrior": 1.47,
-                    "Warpath Warrior": 4.93
+                    "Super Warpath Commander": 4.37,
+                    "Super Warpath Scout": 91.94,
+                    "Super Warpath Warrior": 1.48,
+                    "Warpath Warrior": 4.96
                 },
                 "Gouda": {
                     "-": 27.81,
@@ -7038,7 +6014,7 @@
                     "-": 29.37,
                     "Warpath Archer": 8.23,
                     "Warpath Scout": 77.49,
-                    "Warpath Warrior": 7.98
+                    "Warpath Warrior": 7.99
                 }
             }
         }
@@ -7048,12 +6024,12 @@
             "Wave 1": {
                 "SB+": {
                     "-": 6.78,
-                    "Warpath Archer": 1.98,
-                    "Warpath Scout": 1.9,
-                    "Super Warpath Archer": 1.62,
-                    "Super Warpath Commander": 76.04,
+                    "Warpath Archer": 1.99,
+                    "Warpath Scout": 1.91,
+                    "Super Warpath Archer": 1.63,
+                    "Super Warpath Commander": 76.35,
                     "Super Warpath Scout": 1.48,
-                    "Super Warpath Warrior": 1.51,
+                    "Super Warpath Warrior": 1.52,
                     "Warpath Warrior": 1.54
                 },
                 "Gouda": {
@@ -7075,13 +6051,13 @@
                     "Warpath Archer": 1.32,
                     "Warpath Cavalry": 1.29,
                     "Warpath Mage": 1.35,
-                    "Warpath Scout": 1.7,
-                    "Super Warpath Archer": 1.33,
+                    "Warpath Scout": 1.71,
+                    "Super Warpath Archer": 1.34,
                     "Super Warpath Cavalry": 1.11,
-                    "Super Warpath Commander": 77.19,
-                    "Super Warpath Mage": 1.07,
+                    "Super Warpath Commander": 77.37,
+                    "Super Warpath Mage": 1.08,
                     "Super Warpath Scout": 1.57,
-                    "Super Warpath Warrior": 1.53,
+                    "Super Warpath Warrior": 1.54,
                     "Warpath Warrior": 1.3
                 },
                 "Gouda": {
@@ -7109,14 +6085,14 @@
             "Wave 3": {
                 "SB+": {
                     "-": 5.49,
-                    "Warpath Archer": 1.23,
+                    "Warpath Archer": 1.24,
                     "Warpath Cavalry": 1.1,
                     "Warpath Mage": 0.95,
-                    "Warpath Scout": 1.42,
+                    "Warpath Scout": 1.43,
                     "Super Warpath Archer": 1.32,
-                    "Super Warpath Cavalry": 1.14,
-                    "Super Warpath Commander": 81.55,
-                    "Super Warpath Mage": 1.02,
+                    "Super Warpath Cavalry": 1.15,
+                    "Super Warpath Commander": 81.77,
+                    "Super Warpath Mage": 1.03,
                     "Super Warpath Scout": 1.55,
                     "Super Warpath Warrior": 1.35,
                     "Warpath Warrior": 1.4
@@ -7129,9 +6105,9 @@
                     "Warpath Scout": 0.42,
                     "Super Warpath Archer": 0.32,
                     "Super Warpath Cavalry": 0.23,
-                    "Super Warpath Commander": 71.01,
+                    "Super Warpath Commander": 71.24,
                     "Super Warpath Mage": 0.31,
-                    "Super Warpath Scout": 0.35,
+                    "Super Warpath Scout": 0.36,
                     "Super Warpath Warrior": 0.47,
                     "Warpath Warrior": 0.41
                 },
@@ -7151,13 +6127,13 @@
             "Wave 1": {
                 "SB+": {
                     "-": 3.94,
-                    "Warpath Archer": 1.34,
-                    "Warpath Scout": 1.59,
-                    "Super Warpath Archer": 3,
-                    "Super Warpath Commander": 11.22,
-                    "Super Warpath Scout": 3,
-                    "Super Warpath Warrior": 2.63,
-                    "Warpath Warrior": 1.3
+                    "Warpath Archer": 1.35,
+                    "Warpath Scout": 1.6,
+                    "Super Warpath Archer": 3.01,
+                    "Super Warpath Commander": 11.27,
+                    "Super Warpath Scout": 3.01,
+                    "Super Warpath Warrior": 2.64,
+                    "Warpath Warrior": 1.31
                 },
                 "Gouda": {
                     "-": 0.22,
@@ -7178,15 +6154,15 @@
             "Wave 2": {
                 "SB+": {
                     "-": 1.9,
-                    "Warpath Archer": 0.72,
+                    "Warpath Archer": 0.73,
                     "Warpath Cavalry": 0.29,
                     "Warpath Mage": 0.13,
                     "Warpath Scout": 0.74,
                     "Super Warpath Archer": 2.05,
                     "Super Warpath Cavalry": 0.95,
-                    "Super Warpath Commander": 9.13,
+                    "Super Warpath Commander": 9.16,
                     "Super Warpath Mage": 0.69,
-                    "Super Warpath Scout": 1.91,
+                    "Super Warpath Scout": 1.92,
                     "Super Warpath Warrior": 1.75,
                     "Warpath Warrior": 0.58
                 },
@@ -7223,10 +6199,10 @@
                     "Warpath Scout": 0.56,
                     "Super Warpath Archer": 1.2,
                     "Super Warpath Cavalry": 0.69,
-                    "Super Warpath Commander": 6.83,
+                    "Super Warpath Commander": 6.85,
                     "Super Warpath Mage": 0.59,
-                    "Super Warpath Scout": 1.37,
-                    "Super Warpath Warrior": 0.89,
+                    "Super Warpath Scout": 1.38,
+                    "Super Warpath Warrior": 0.9,
                     "Warpath Warrior": 0.33
                 },
                 "Gouda": {
@@ -7237,7 +6213,7 @@
                     "Warpath Scout": 0.16,
                     "Super Warpath Archer": 0.45,
                     "Super Warpath Cavalry": 0.18,
-                    "Super Warpath Commander": 5.54,
+                    "Super Warpath Commander": 5.56,
                     "Super Warpath Mage": 0.27,
                     "Super Warpath Scout": 0.71,
                     "Super Warpath Warrior": 0.4,
@@ -7261,7 +6237,7 @@
             "Wave 1": {
                 "SB+": {
                     "-": 2.43,
-                    "Warpath Archer": 0.7,
+                    "Warpath Archer": 0.71,
                     "Warpath Scout": 0.56,
                     "Super Warpath Archer": 0.38,
                     "Super Warpath Commander": 1.42,
@@ -7324,26 +6300,26 @@
                     "-": 1.43,
                     "Warpath Archer": 0.37,
                     "Warpath Cavalry": 0.48,
-                    "Warpath Mage": 0.37,
+                    "Warpath Mage": 0.38,
                     "Warpath Scout": 0.41,
                     "Super Warpath Archer": 0.22,
-                    "Super Warpath Cavalry": 0.17,
-                    "Super Warpath Commander": 1.43,
+                    "Super Warpath Cavalry": 0.18,
+                    "Super Warpath Commander": 1.44,
                     "Super Warpath Mage": 0.13,
                     "Super Warpath Scout": 0.25,
                     "Super Warpath Warrior": 0.34,
-                    "Warpath Warrior": 0.38
+                    "Warpath Warrior": 0.39
                 },
                 "Gouda": {
                     "-": 5.82,
                     "Warpath Archer": 0.9,
                     "Warpath Cavalry": 0.91,
                     "Warpath Mage": 0.95,
-                    "Warpath Scout": 0.86,
+                    "Warpath Scout": 0.87,
                     "Super Warpath Archer": 1.44,
                     "Super Warpath Cavalry": 1,
-                    "Super Warpath Commander": 6.84,
-                    "Super Warpath Mage": 0.57,
+                    "Super Warpath Commander": 6.86,
+                    "Super Warpath Mage": 0.58,
                     "Super Warpath Scout": 1.18,
                     "Super Warpath Warrior": 0.98,
                     "Warpath Warrior": 0.91
@@ -7351,9 +6327,9 @@
                 "Brie": {
                     "-": 6.41,
                     "Warpath Archer": 0.82,
-                    "Warpath Cavalry": 0.84,
+                    "Warpath Cavalry": 0.85,
                     "Warpath Mage": 0.78,
-                    "Warpath Scout": 1,
+                    "Warpath Scout": 1.01,
                     "Warpath Warrior": 0.92
                 }
             }
@@ -7364,17 +6340,17 @@
             "Wave 2": {
                 "SB+": {
                     "-": 39.19,
-                    "Warpath Archer": 7.6,
-                    "Warpath Cavalry": 82.72,
-                    "Warpath Mage": 12.91,
-                    "Warpath Scout": 7.33,
-                    "Super Warpath Archer": 1.7,
-                    "Super Warpath Cavalry": 94.45,
-                    "Super Warpath Commander": 3.36,
-                    "Super Warpath Mage": 2.17,
+                    "Warpath Archer": 7.64,
+                    "Warpath Cavalry": 82.87,
+                    "Warpath Mage": 12.98,
+                    "Warpath Scout": 7.37,
+                    "Super Warpath Archer": 1.71,
+                    "Super Warpath Cavalry": 94.72,
+                    "Super Warpath Commander": 3.37,
+                    "Super Warpath Mage": 2.18,
                     "Super Warpath Scout": 1.16,
                     "Super Warpath Warrior": 1.37,
-                    "Warpath Warrior": 7.27
+                    "Warpath Warrior": 7.3
                 },
                 "Gouda": {
                     "-": 43.14,
@@ -7391,7 +6367,7 @@
                 },
                 "Brie": {
                     "-": 38.17,
-                    "Warpath Archer": 12.08,
+                    "Warpath Archer": 12.06,
                     "Warpath Cavalry": 81.87,
                     "Warpath Mage": 21.4,
                     "Warpath Scout": 10.07,
@@ -7405,17 +6381,17 @@
             "Wave 2": {
                 "SB+": {
                     "-": 14.02,
-                    "Warpath Archer": 81.06,
+                    "Warpath Archer": 81.46,
                     "Warpath Cavalry": 2.92,
-                    "Warpath Mage": 4.22,
-                    "Warpath Scout": 3.87,
-                    "Super Warpath Archer": 91.79,
+                    "Warpath Mage": 4.24,
+                    "Warpath Scout": 3.89,
+                    "Super Warpath Archer": 92.1,
                     "Super Warpath Cavalry": 0.86,
                     "Super Warpath Commander": 3.08,
                     "Super Warpath Mage": 0.5,
                     "Super Warpath Scout": 1.1,
                     "Super Warpath Warrior": 0.84,
-                    "Warpath Warrior": 2.8
+                    "Warpath Warrior": 2.81
                 },
                 "Gouda": {
                     "-": 10.71,
@@ -7432,7 +6408,7 @@
                 },
                 "Brie": {
                     "-": 11.71,
-                    "Warpath Archer": 76.69,
+                    "Warpath Archer": 76.57,
                     "Warpath Cavalry": 1.55,
                     "Warpath Mage": 2.75,
                     "Warpath Scout": 3.19,
@@ -7446,17 +6422,17 @@
             "Wave 2": {
                 "SB+": {
                     "-": 12.79,
-                    "Warpath Archer": 2.9,
-                    "Warpath Cavalry": 3.25,
-                    "Warpath Mage": 4.26,
-                    "Warpath Scout": 2.91,
+                    "Warpath Archer": 2.91,
+                    "Warpath Cavalry": 3.26,
+                    "Warpath Mage": 4.28,
+                    "Warpath Scout": 2.93,
                     "Super Warpath Archer": 1,
                     "Super Warpath Cavalry": 0.66,
-                    "Super Warpath Commander": 2.41,
+                    "Super Warpath Commander": 2.42,
                     "Super Warpath Mage": 0.99,
                     "Super Warpath Scout": 0.71,
-                    "Super Warpath Warrior": 92.72,
-                    "Warpath Warrior": 80.97
+                    "Super Warpath Warrior": 93.03,
+                    "Warpath Warrior": 81.24
                 },
                 "Gouda": {
                     "-": 10.79,
@@ -7473,7 +6449,7 @@
                 },
                 "Brie": {
                     "-": 12.2,
-                    "Warpath Archer": 2.23,
+                    "Warpath Archer": 2.22,
                     "Warpath Cavalry": 2.23,
                     "Warpath Mage": 1.75,
                     "Warpath Scout": 2.56,
@@ -7487,17 +6463,17 @@
             "Wave 2": {
                 "SB+": {
                     "-": 12.34,
-                    "Warpath Archer": 2.64,
+                    "Warpath Archer": 2.65,
                     "Warpath Cavalry": 3.36,
-                    "Warpath Mage": 3.17,
-                    "Warpath Scout": 79.29,
+                    "Warpath Mage": 3.19,
+                    "Warpath Scout": 79.7,
                     "Super Warpath Archer": 0.9,
-                    "Super Warpath Cavalry": 0.8,
+                    "Super Warpath Cavalry": 0.81,
                     "Super Warpath Commander": 2.04,
-                    "Super Warpath Mage": 0.96,
-                    "Super Warpath Scout": 92.46,
+                    "Super Warpath Mage": 0.97,
+                    "Super Warpath Scout": 92.68,
                     "Super Warpath Warrior": 0.73,
-                    "Warpath Warrior": 3.57
+                    "Warpath Warrior": 3.58
                 },
                 "Gouda": {
                     "-": 10.43,
@@ -7528,17 +6504,17 @@
             "Wave 2": {
                 "SB+": {
                     "-": 11.43,
-                    "Warpath Archer": 2.94,
-                    "Warpath Cavalry": 4.94,
-                    "Warpath Mage": 73.01,
-                    "Warpath Scout": 3.24,
+                    "Warpath Archer": 2.95,
+                    "Warpath Cavalry": 4.95,
+                    "Warpath Mage": 73.43,
+                    "Warpath Scout": 3.25,
                     "Super Warpath Archer": 0.52,
                     "Super Warpath Cavalry": 0.58,
                     "Super Warpath Commander": 1.23,
-                    "Super Warpath Mage": 92.85,
-                    "Super Warpath Scout": 0.47,
+                    "Super Warpath Mage": 93.2,
+                    "Super Warpath Scout": 0.48,
                     "Super Warpath Warrior": 0.46,
-                    "Warpath Warrior": 2.76
+                    "Warpath Warrior": 2.77
                 },
                 "Gouda": {
                     "-": 15.95,
@@ -7555,7 +6531,7 @@
                 },
                 "Brie": {
                     "-": 16.76,
-                    "Warpath Archer": 5.14,
+                    "Warpath Archer": 5.13,
                     "Warpath Cavalry": 10.32,
                     "Warpath Mage": 71.1,
                     "Warpath Scout": 4.26,
@@ -7569,39 +6545,39 @@
             "Wave 3": {
                 "SB+": {
                     "-": 30.13,
-                    "Warpath Archer": 8.52,
-                    "Warpath Cavalry": 82.12,
-                    "Warpath Mage": 8.74,
-                    "Warpath Scout": 9.56,
+                    "Warpath Archer": 8.56,
+                    "Warpath Cavalry": 82.39,
+                    "Warpath Mage": 8.77,
+                    "Warpath Scout": 9.6,
                     "Super Warpath Archer": 0.91,
-                    "Super Warpath Cavalry": 94.06,
-                    "Super Warpath Commander": 2.93,
-                    "Super Warpath Mage": 1.89,
+                    "Super Warpath Cavalry": 94.38,
+                    "Super Warpath Commander": 2.94,
+                    "Super Warpath Mage": 1.9,
                     "Super Warpath Scout": 1.06,
                     "Super Warpath Warrior": 1.13,
-                    "Warpath Warrior": 9.25
+                    "Warpath Warrior": 9.28
                 },
                 "Gouda": {
                     "-": 32.93,
-                    "Warpath Archer": 9.42,
-                    "Warpath Cavalry": 81.22,
-                    "Warpath Mage": 11.3,
-                    "Warpath Scout": 8.2,
-                    "Super Warpath Archer": 3.6,
-                    "Super Warpath Cavalry": 94.55,
-                    "Super Warpath Commander": 4.89,
-                    "Super Warpath Mage": 3.71,
+                    "Warpath Archer": 9.45,
+                    "Warpath Cavalry": 81.4,
+                    "Warpath Mage": 11.32,
+                    "Warpath Scout": 8.23,
+                    "Super Warpath Archer": 3.61,
+                    "Super Warpath Cavalry": 94.67,
+                    "Super Warpath Commander": 4.9,
+                    "Super Warpath Mage": 3.72,
                     "Super Warpath Scout": 1.5,
                     "Super Warpath Warrior": 3.2,
-                    "Warpath Warrior": 8.38
+                    "Warpath Warrior": 8.4
                 },
                 "Brie": {
                     "-": 29.85,
-                    "Warpath Archer": 10.24,
-                    "Warpath Cavalry": 80.85,
-                    "Warpath Mage": 10.77,
-                    "Warpath Scout": 8.95,
-                    "Warpath Warrior": 8.65
+                    "Warpath Archer": 10.25,
+                    "Warpath Cavalry": 80.95,
+                    "Warpath Mage": 10.79,
+                    "Warpath Scout": 8.96,
+                    "Warpath Warrior": 8.66
                 }
             }
         }
@@ -7611,39 +6587,39 @@
             "Wave 3": {
                 "SB+": {
                     "-": 23.54,
-                    "Warpath Archer": 3.31,
-                    "Warpath Cavalry": 5.7,
-                    "Warpath Mage": 6.12,
-                    "Warpath Scout": 3.75,
+                    "Warpath Archer": 3.32,
+                    "Warpath Cavalry": 5.72,
+                    "Warpath Mage": 6.14,
+                    "Warpath Scout": 3.77,
                     "Super Warpath Archer": 0.51,
                     "Super Warpath Cavalry": 1.12,
-                    "Super Warpath Commander": 1.46,
-                    "Super Warpath Mage": 1.94,
+                    "Super Warpath Commander": 1.47,
+                    "Super Warpath Mage": 1.95,
                     "Super Warpath Scout": 0.38,
                     "Super Warpath Warrior": 0.57,
-                    "Warpath Warrior": 3.67
+                    "Warpath Warrior": 3.68
                 },
                 "Gouda": {
                     "-": 21.73,
                     "Warpath Archer": 3.55,
-                    "Warpath Cavalry": 8.36,
-                    "Warpath Mage": 8.79,
-                    "Warpath Scout": 3.4,
-                    "Super Warpath Archer": 2.88,
+                    "Warpath Cavalry": 8.38,
+                    "Warpath Mage": 8.81,
+                    "Warpath Scout": 3.41,
+                    "Super Warpath Archer": 2.89,
                     "Super Warpath Cavalry": 2.08,
-                    "Super Warpath Commander": 2.28,
-                    "Super Warpath Mage": 3.71,
+                    "Super Warpath Commander": 2.29,
+                    "Super Warpath Mage": 3.72,
                     "Super Warpath Scout": 0.71,
-                    "Super Warpath Warrior": 1.96,
+                    "Super Warpath Warrior": 1.97,
                     "Warpath Warrior": 3.15
                 },
                 "Brie": {
                     "-": 19.8,
-                    "Warpath Archer": 4.23,
-                    "Warpath Cavalry": 9.71,
-                    "Warpath Mage": 12.73,
+                    "Warpath Archer": 4.24,
+                    "Warpath Cavalry": 9.72,
+                    "Warpath Mage": 12.76,
                     "Warpath Scout": 3.71,
-                    "Warpath Warrior": 3.38
+                    "Warpath Warrior": 3.39
                 }
             }
         }
@@ -7653,37 +6629,37 @@
             "Wave 3": {
                 "SB+": {
                     "-": 10.55,
-                    "Warpath Archer": 3.44,
-                    "Warpath Cavalry": 4.21,
-                    "Warpath Mage": 75.24,
-                    "Warpath Scout": 4.16,
+                    "Warpath Archer": 3.45,
+                    "Warpath Cavalry": 4.22,
+                    "Warpath Mage": 75.49,
+                    "Warpath Scout": 4.18,
                     "Super Warpath Archer": 0.49,
                     "Super Warpath Cavalry": 0.73,
                     "Super Warpath Commander": 1.1,
-                    "Super Warpath Mage": 92.47,
+                    "Super Warpath Mage": 92.79,
                     "Super Warpath Scout": 0.34,
                     "Super Warpath Warrior": 0.47,
-                    "Warpath Warrior": 3.61
+                    "Warpath Warrior": 3.63
                 },
                 "Gouda": {
                     "-": 14.17,
-                    "Warpath Archer": 4.27,
-                    "Warpath Cavalry": 5.3,
-                    "Warpath Mage": 73.93,
-                    "Warpath Scout": 3.74,
+                    "Warpath Archer": 4.28,
+                    "Warpath Cavalry": 5.31,
+                    "Warpath Mage": 74.08,
+                    "Warpath Scout": 3.75,
                     "Super Warpath Archer": 1.76,
                     "Super Warpath Cavalry": 1.05,
-                    "Super Warpath Commander": 2.28,
-                    "Super Warpath Mage": 89.75,
+                    "Super Warpath Commander": 2.29,
+                    "Super Warpath Mage": 89.99,
                     "Super Warpath Scout": 0.67,
                     "Super Warpath Warrior": 1.64,
-                    "Warpath Warrior": 3.76
+                    "Warpath Warrior": 3.77
                 },
                 "Brie": {
                     "-": 14.76,
-                    "Warpath Archer": 4.8,
-                    "Warpath Cavalry": 5.94,
-                    "Warpath Mage": 71.6,
+                    "Warpath Archer": 4.81,
+                    "Warpath Cavalry": 5.95,
+                    "Warpath Mage": 71.72,
                     "Warpath Scout": 4.35,
                     "Warpath Warrior": 3.97
                 }
@@ -7695,17 +6671,17 @@
             "Wave 3": {
                 "SB+": {
                     "-": 9.54,
-                    "Warpath Archer": 2.9,
+                    "Warpath Archer": 2.91,
                     "Warpath Cavalry": 1.76,
-                    "Warpath Mage": 2.49,
-                    "Warpath Scout": 2.17,
-                    "Super Warpath Archer": 0.6,
+                    "Warpath Mage": 2.5,
+                    "Warpath Scout": 2.18,
+                    "Super Warpath Archer": 0.61,
                     "Super Warpath Cavalry": 0.62,
                     "Super Warpath Commander": 1.77,
                     "Super Warpath Mage": 0.63,
-                    "Super Warpath Scout": 0.67,
-                    "Super Warpath Warrior": 93.66,
-                    "Warpath Warrior": 75.48
+                    "Super Warpath Scout": 0.68,
+                    "Super Warpath Warrior": 93.91,
+                    "Warpath Warrior": 75.74
                 },
                 "Gouda": {
                     "-": 7.79,
@@ -7715,19 +6691,19 @@
                     "Warpath Scout": 2.26,
                     "Super Warpath Archer": 0.32,
                     "Super Warpath Cavalry": 0.15,
-                    "Super Warpath Commander": 2.93,
+                    "Super Warpath Commander": 2.94,
                     "Super Warpath Mage": 0.4,
                     "Super Warpath Scout": 0.71,
-                    "Super Warpath Warrior": 88.59,
-                    "Warpath Warrior": 77.82
+                    "Super Warpath Warrior": 88.75,
+                    "Warpath Warrior": 78
                 },
                 "Brie": {
                     "-": 9.38,
                     "Warpath Archer": 2.48,
                     "Warpath Cavalry": 0.58,
                     "Warpath Mage": 1.65,
-                    "Warpath Scout": 1.96,
-                    "Warpath Warrior": 76.5
+                    "Warpath Scout": 1.97,
+                    "Warpath Warrior": 76.63
                 }
             }
         }
@@ -7737,27 +6713,27 @@
             "Wave 3": {
                 "SB+": {
                     "-": 9.54,
-                    "Warpath Archer": 77.34,
-                    "Warpath Cavalry": 2.26,
-                    "Warpath Mage": 2.91,
-                    "Warpath Scout": 3.37,
-                    "Super Warpath Archer": 94.03,
+                    "Warpath Archer": 77.66,
+                    "Warpath Cavalry": 2.27,
+                    "Warpath Mage": 2.92,
+                    "Warpath Scout": 3.39,
+                    "Super Warpath Archer": 94.33,
                     "Super Warpath Cavalry": 0.56,
-                    "Super Warpath Commander": 1.37,
+                    "Super Warpath Commander": 1.38,
                     "Super Warpath Mage": 0.55,
                     "Super Warpath Scout": 0.59,
                     "Super Warpath Warrior": 0.69,
-                    "Warpath Warrior": 2.84
+                    "Warpath Warrior": 2.85
                 },
                 "Gouda": {
                     "-": 7.85,
-                    "Warpath Archer": 76.6,
+                    "Warpath Archer": 76.76,
                     "Warpath Cavalry": 1.33,
                     "Warpath Mage": 1.54,
                     "Warpath Scout": 2.96,
-                    "Super Warpath Archer": 87.93,
+                    "Super Warpath Archer": 88.13,
                     "Super Warpath Cavalry": 0.23,
-                    "Super Warpath Commander": 3.26,
+                    "Super Warpath Commander": 3.27,
                     "Super Warpath Mage": 0.49,
                     "Super Warpath Scout": 1.42,
                     "Super Warpath Warrior": 1.27,
@@ -7765,11 +6741,11 @@
                 },
                 "Brie": {
                     "-": 9.04,
-                    "Warpath Archer": 74.59,
+                    "Warpath Archer": 74.69,
                     "Warpath Cavalry": 0.94,
                     "Warpath Mage": 0.97,
-                    "Warpath Scout": 2.84,
-                    "Warpath Warrior": 3.09
+                    "Warpath Scout": 2.85,
+                    "Warpath Warrior": 3.1
                 }
             }
         }
@@ -7779,39 +6755,39 @@
             "Wave 3": {
                 "SB+": {
                     "-": 8.71,
-                    "Warpath Archer": 1.99,
+                    "Warpath Archer": 2,
                     "Warpath Cavalry": 1.9,
                     "Warpath Mage": 2.67,
-                    "Warpath Scout": 74.12,
+                    "Warpath Scout": 74.46,
                     "Super Warpath Archer": 0.41,
                     "Super Warpath Cavalry": 0.57,
                     "Super Warpath Commander": 1.28,
-                    "Super Warpath Mage": 0.43,
-                    "Super Warpath Scout": 93.39,
+                    "Super Warpath Mage": 0.44,
+                    "Super Warpath Scout": 93.77,
                     "Super Warpath Warrior": 0.63,
-                    "Warpath Warrior": 2.69
+                    "Warpath Warrior": 2.7
                 },
                 "Gouda": {
                     "-": 7.41,
-                    "Warpath Archer": 2.18,
+                    "Warpath Archer": 2.19,
                     "Warpath Cavalry": 1.02,
-                    "Warpath Mage": 1.31,
-                    "Warpath Scout": 77.76,
+                    "Warpath Mage": 1.32,
+                    "Warpath Scout": 77.96,
                     "Super Warpath Archer": 1.08,
                     "Super Warpath Cavalry": 0.43,
                     "Super Warpath Commander": 0.65,
                     "Super Warpath Mage": 0.53,
-                    "Super Warpath Scout": 92.52,
+                    "Super Warpath Scout": 92.74,
                     "Super Warpath Warrior": 1.31,
-                    "Warpath Warrior": 2.69
+                    "Warpath Warrior": 2.7
                 },
                 "Brie": {
                     "-": 8.41,
-                    "Warpath Archer": 2.16,
+                    "Warpath Archer": 2.17,
                     "Warpath Cavalry": 0.58,
-                    "Warpath Mage": 0.99,
-                    "Warpath Scout": 76.48,
-                    "Warpath Warrior": 2.79
+                    "Warpath Mage": 1,
+                    "Warpath Scout": 76.62,
+                    "Warpath Warrior": 2.8
                 }
             }
         }
@@ -7870,11 +6846,8 @@
                 "Ancient": {
                     "-": 1
                 },
-                "Moon": {
-                    "-": 1
-                },
                 "Radioactive Blue": {
-                    "-": 1
+                    "-": 10.15
                 }
             }
         }
@@ -8861,6 +7834,11 @@
                 "Maki String": {
                     "-": 15.53
                 }
+            },
+            "Combined": {
+                "Magical String": {
+                    "-": 4.88
+                }
             }
         }
     },
@@ -8873,6 +7851,11 @@
                 "Maki String": {
                     "-": 15.08
                 }
+            },
+            "Combined": {
+                "Magical String": {
+                    "-": 4.44
+                }
             }
         }
     },
@@ -8884,6 +7867,11 @@
                 },
                 "Maki String": {
                     "-": 15.39
+                }
+            },
+            "Combined": {
+                "Magical String": {
+                    "-": 4.58
                 }
             }
         }
@@ -8902,6 +7890,11 @@
                 "Brie String": {
                     "-": 3.73
                 }
+            },
+            "Combined": {
+                "Magical String": {
+                    "-": 6.2
+                }
             }
         }
     },
@@ -8918,6 +7911,11 @@
             "Training Grounds": {
                 "Brie String": {
                     "-": 2.05
+                }
+            },
+            "Combined": {
+                "Magical String": {
+                    "-": 5.08
                 }
             }
         }
@@ -8936,6 +7934,11 @@
                 "Brie String": {
                     "-": 3.02
                 }
+            },
+            "Combined": {
+                "Magical String": {
+                    "-": 5.58
+                }
             }
         }
     },
@@ -8953,6 +7956,11 @@
                 "Brie String": {
                     "-": 22.87
                 }
+            },
+            "Combined": {
+                "Magical String": {
+                    "-": 16.65
+                }
             }
         }
     },
@@ -8964,6 +7972,11 @@
                 },
                 "Maki String": {
                     "-": 4.36
+                }
+            },
+            "Combined": {
+                "Magical String": {
+                    "-": 1.47
                 }
             }
         }
@@ -8981,6 +7994,11 @@
             "Training Grounds": {
                 "Brie String": {
                     "-": 7.96
+                }
+            },
+            "Combined": {
+                "Magical String": {
+                    "-": 7.83
                 }
             }
         },
@@ -9015,6 +8033,11 @@
                 "Brie String": {
                     "-": 4.87
                 }
+            },
+            "Combined": {
+                "Magical String": {
+                    "-": 7.43
+                }
             }
         },
         "Gnawnia Rift": {
@@ -9045,6 +8068,11 @@
                 "Brie String": {
                     "-": 25.47
                 }
+            },
+            "Combined": {
+                "Magical String": {
+                    "-": 15.67
+                }
             }
         }
     },
@@ -9059,6 +8087,11 @@
                 "Brie String": {
                     "-": 23.97
                 }
+            },
+            "Combined": {
+                "Magical String": {
+                    "-": 16.71
+                }
             }
         }
     },
@@ -9072,6 +8105,11 @@
             "Training Grounds": {
                 "Brie String": {
                     "-": 2.03
+                }
+            },
+            "Combined": {
+                "Magical String": {
+                    "-": 3.5
                 }
             }
         }
@@ -13202,7 +12240,7 @@
             },
             "Neophyte Scholar Study": {
                 "SB+/Gouda": {
-                    "-": 19.08
+                    "-": 19.94
                 }
             },
             "Master Scholar Auditorium": {
@@ -13529,7 +12567,7 @@
                     "-": 20.14
                 },
                 "SB+/Gouda": {
-                    "-": 15.69
+                    "-": 16.4
                 }
             },
             "Master Scholar Auditorium": {
@@ -13779,7 +12817,7 @@
                     "-": 34.74
                 },
                 "SB+/Gouda": {
-                    "-": 27.22
+                    "-": 28.43
                 }
             },
             "Master Scholar Auditorium": {
@@ -13836,7 +12874,7 @@
                     "-": 36.19
                 },
                 "SB+/Gouda": {
-                    "-": 26.95
+                    "-": 28.15
                 }
             },
             "Master Scholar Auditorium": {
@@ -15254,7 +14292,7 @@
         "Nerg Plains": {
             "-": {
                 "SB+": {
-                    "-": 17.53
+                    "-": 17.89
                 },
                 "Gouda": {
                     "-": 15.91
@@ -15272,7 +14310,7 @@
         "Nerg Plains": {
             "-": {
                 "SB+": {
-                    "-": 17.19
+                    "-": 17.55
                 },
                 "Gouda": {
                     "-": 15.92
@@ -15290,7 +14328,7 @@
         "Nerg Plains": {
             "-": {
                 "SB+": {
-                    "-": 16.48
+                    "-": 16.82
                 },
                 "Gouda": {
                     "-": 11.94
@@ -15308,7 +14346,7 @@
         "Nerg Plains": {
             "-": {
                 "SB+": {
-                    "-": 16.43
+                    "-": 16.77
                 },
                 "Gouda": {
                     "-": 15.92
@@ -15326,7 +14364,7 @@
         "Nerg Plains": {
             "-": {
                 "SB+": {
-                    "-": 16.31
+                    "-": 16.64
                 },
                 "Gouda": {
                     "-": 15.93
@@ -17016,7 +16054,7 @@
             },
             "Lost Ruins": {
                 "SB+": {
-                    "-": 17.59
+                    "-": 17.9
                 },
                 "Gouda": {
                     "-": 17.97
@@ -17057,7 +16095,7 @@
             },
             "Lost Ruins": {
                 "SB+": {
-                    "-": 17.62
+                    "-": 17.93
                 },
                 "Gouda": {
                     "-": 18.11
@@ -17346,7 +16384,7 @@
             },
             "Lost Ruins": {
                 "SB+": {
-                    "-": 14.82
+                    "-": 15.09
                 },
                 "Gouda": {
                     "-": 15.14
@@ -17422,7 +16460,7 @@
         "Sunken City": {
             "Lost Ruins": {
                 "SB+": {
-                    "-": 16.84
+                    "-": 17.14
                 },
                 "Gouda": {
                     "-": 16.94
@@ -17437,7 +16475,7 @@
         "Sunken City": {
             "Lost Ruins": {
                 "SB+": {
-                    "-": 16.5
+                    "-": 16.8
                 },
                 "Gouda": {
                     "-": 16.99
@@ -17452,7 +16490,7 @@
         "Sunken City": {
             "Lost Ruins": {
                 "SB+": {
-                    "-": 14.87
+                    "-": 15.14
                 },
                 "Gouda": {
                     "-": 14.85
@@ -20106,6 +19144,11 @@
     },
     "Monstrous Black Widow": {
         "Whisker Woods Rift": {
+            "High/High/High": {
+                "Lactrodectus Lancashire": {
+                    "-": 100
+                }
+            },
             "Monstrous Black Widow": {
                 "Lactrodectus Lancashire": {
                     "-": 86.83
@@ -20231,7 +19274,7 @@
                     "-": 8.93
                 },
                 "SB+/Gouda": {
-                    "-": 6.78
+                    "-": 7.08
                 }
             },
             "Master Scholar Auditorium": {
@@ -20487,7 +19530,7 @@
             },
             "Technic Bishops": {
                 "SB+": {
-                    "-": 11.76
+                    "-": 10.53
                 },
                 "Gouda": {
                     "-": 10.15
@@ -20495,7 +19538,7 @@
             },
             "Mystic Bishops": {
                 "SB+": {
-                    "-": 24.12
+                    "-": 21.57
                 },
                 "Gouda": {
                     "-": 21.25
@@ -20503,7 +19546,7 @@
             },
             "Technic Rooks": {
                 "SB+": {
-                    "-": 8.83
+                    "-": 8.11
                 },
                 "Gouda": {
                     "-": 7.85
@@ -20514,15 +19557,15 @@
                     "-": 17.72
                 },
                 "Gouda": {
-                    "-": 17.82
+                    "-": 17.35
                 }
             },
             "Technic Queen": {
                 "Checkmate": {
-                    "-": 1.6
+                    "-": 1.57
                 },
                 "SB+": {
-                    "-": 1.85
+                    "-": 1.81
                 },
                 "Gouda": {
                     "-": 1.82
@@ -20530,13 +19573,13 @@
             },
             "Mystic Queen": {
                 "Checkmate": {
-                    "-": 19.79
+                    "-": 19.48
                 },
                 "SB+": {
-                    "-": 17.13
+                    "-": 17.4
                 },
                 "Gouda": {
-                    "-": 19.1
+                    "-": 17.74
                 }
             },
             "Technic King": {
@@ -20544,7 +19587,7 @@
                     "-": 2.56
                 },
                 "SB+": {
-                    "-": 3.29
+                    "-": 3.26
                 },
                 "Gouda": {
                     "-": 4.36
@@ -20552,13 +19595,13 @@
             },
             "Mystic King": {
                 "Checkmate": {
-                    "-": 30.92
+                    "-": 24.45
                 },
                 "SB+": {
-                    "-": 22.61
+                    "-": 16.43
                 },
                 "Gouda": {
-                    "-": 21.14
+                    "-": 15.38
                 }
             },
             "Chess Master": {
@@ -20610,7 +19653,7 @@
             },
             "Technic Bishops": {
                 "SB+": {
-                    "-": 23.84
+                    "-": 21.33
                 },
                 "Gouda": {
                     "-": 20.88
@@ -20618,7 +19661,7 @@
             },
             "Mystic Bishops": {
                 "SB+": {
-                    "-": 11.83
+                    "-": 10.58
                 },
                 "Gouda": {
                     "-": 10.17
@@ -20626,7 +19669,7 @@
             },
             "Technic Rooks": {
                 "SB+": {
-                    "-": 19.48
+                    "-": 17.9
                 },
                 "Gouda": {
                     "-": 17.69
@@ -20634,18 +19677,18 @@
             },
             "Mystic Rooks": {
                 "SB+": {
-                    "-": 8.18
+                    "-": 8.17
                 },
                 "Gouda": {
-                    "-": 8.52
+                    "-": 8.3
                 }
             },
             "Technic Queen": {
                 "Checkmate": {
-                    "-": 19.33
+                    "-": 19.02
                 },
                 "SB+": {
-                    "-": 19.07
+                    "-": 18.72
                 },
                 "Gouda": {
                     "-": 18.19
@@ -20653,13 +19696,13 @@
             },
             "Mystic Queen": {
                 "Checkmate": {
-                    "-": 1.94
+                    "-": 1.91
                 },
                 "SB+": {
-                    "-": 2.02
+                    "-": 2.05
                 },
                 "Gouda": {
-                    "-": 1.92
+                    "-": 1.91
                 }
             },
             "Technic King": {
@@ -20667,7 +19710,7 @@
                     "-": 26.87
                 },
                 "SB+": {
-                    "-": 19.51
+                    "-": 19.33
                 },
                 "Gouda": {
                     "-": 17.08
@@ -20675,13 +19718,13 @@
             },
             "Mystic King": {
                 "Checkmate": {
-                    "-": 3.24
+                    "-": 2.56
                 },
                 "SB+": {
-                    "-": 5.7
+                    "-": 4.14
                 },
                 "Gouda": {
-                    "-": 5.67
+                    "-": 4.12
                 }
             },
             "Chess Master": {
@@ -20703,7 +19746,7 @@
             },
             "Technic Bishops": {
                 "SB+": {
-                    "-": 30.75
+                    "-": 27.52
                 },
                 "Gouda": {
                     "-": 27.69
@@ -20711,7 +19754,7 @@
             },
             "Technic Rooks": {
                 "SB+": {
-                    "-": 9.45
+                    "-": 8.69
                 },
                 "Gouda": {
                     "-": 8.62
@@ -20719,10 +19762,10 @@
             },
             "Technic Queen": {
                 "Checkmate": {
-                    "-": 12.36
+                    "-": 12.16
                 },
                 "SB+": {
-                    "-": 11.04
+                    "-": 10.84
                 },
                 "Gouda": {
                     "-": 10.74
@@ -20730,13 +19773,13 @@
             },
             "Mystic Queen": {
                 "Checkmate": {
-                    "-": 3.89
+                    "-": 3.83
                 },
                 "SB+": {
-                    "-": 5.61
+                    "-": 5.7
                 },
                 "Gouda": {
-                    "-": 11.16
+                    "-": 5.81
                 }
             },
             "Technic King": {
@@ -20744,7 +19787,7 @@
                     "-": 5.25
                 },
                 "SB+": {
-                    "-": 13.25
+                    "-": 13.13
                 },
                 "Gouda": {
                     "-": 13.45
@@ -20752,13 +19795,13 @@
             },
             "Mystic King": {
                 "Checkmate": {
-                    "-": 8.46
+                    "-": 6.69
                 },
                 "SB+": {
-                    "-": 8.94
+                    "-": 6.5
                 },
                 "Gouda": {
-                    "-": 9.26
+                    "-": 6.73
                 }
             },
             "Chess Master": {
@@ -20780,7 +19823,7 @@
             },
             "Mystic Bishops": {
                 "SB+": {
-                    "-": 31.47
+                    "-": 28.14
                 },
                 "Gouda": {
                     "-": 28.47
@@ -20788,18 +19831,18 @@
             },
             "Mystic Rooks": {
                 "SB+": {
-                    "-": 8.62
+                    "-": 8.61
                 },
                 "Gouda": {
-                    "-": 8.8
+                    "-": 8.57
                 }
             },
             "Technic Queen": {
                 "Checkmate": {
-                    "-": 5.83
+                    "-": 5.74
                 },
                 "SB+": {
-                    "-": 6.62
+                    "-": 6.5
                 },
                 "Gouda": {
                     "-": 6.68
@@ -20807,18 +19850,18 @@
             },
             "Mystic Queen": {
                 "Checkmate": {
-                    "-": 13.94
+                    "-": 13.72
                 },
                 "SB+": {
-                    "-": 10.91
+                    "-": 11.08
                 },
                 "Gouda": {
-                    "-": 17.74
+                    "-": 11.06
                 }
             },
             "Technic King": {
                 "SB+": {
-                    "-": 0.93
+                    "-": 0.92
                 },
                 "Gouda": {
                     "-": 0.36
@@ -20826,13 +19869,13 @@
             },
             "Mystic King": {
                 "Checkmate": {
-                    "-": 9.23
+                    "-": 7.3
                 },
                 "SB+": {
-                    "-": 18.03
+                    "-": 13.1
                 },
                 "Gouda": {
-                    "-": 16.24
+                    "-": 11.82
                 }
             },
             "Chess Master": {
@@ -20846,7 +19889,7 @@
         "Zugzwang's Tower": {
             "Technic Bishops": {
                 "SB+": {
-                    "-": 45.4
+                    "-": 40.62
                 },
                 "Gouda": {
                     "-": 41.28
@@ -20854,7 +19897,7 @@
             },
             "Technic Rooks": {
                 "SB+": {
-                    "-": 27.23
+                    "-": 25.02
                 },
                 "Gouda": {
                     "-": 25.38
@@ -20862,10 +19905,10 @@
             },
             "Technic Queen": {
                 "Checkmate": {
-                    "-": 14.55
+                    "-": 14.32
                 },
                 "SB+": {
-                    "-": 18.33
+                    "-": 18
                 },
                 "Gouda": {
                     "-": 18.43
@@ -20876,7 +19919,7 @@
                     "-": 10.95
                 },
                 "SB+": {
-                    "-": 17.28
+                    "-": 17.13
                 },
                 "Gouda": {
                     "-": 18.45
@@ -20893,7 +19936,7 @@
         "Zugzwang's Tower": {
             "Mystic Bishops": {
                 "SB+": {
-                    "-": 44.4
+                    "-": 39.7
                 },
                 "Gouda": {
                     "-": 40.11
@@ -20901,32 +19944,32 @@
             },
             "Mystic Rooks": {
                 "SB+": {
-                    "-": 25.26
+                    "-": 25.25
                 },
                 "Gouda": {
-                    "-": 25.69
+                    "-": 25.02
                 }
             },
             "Mystic Queen": {
                 "Checkmate": {
-                    "-": 15.36
+                    "-": 15.12
                 },
                 "SB+": {
-                    "-": 17.87
+                    "-": 18.15
                 },
                 "Gouda": {
-                    "-": 17.91
+                    "-": 17.57
                 }
             },
             "Mystic King": {
                 "Checkmate": {
-                    "-": 12.44
+                    "-": 9.84
                 },
                 "SB+": {
-                    "-": 22.98
+                    "-": 16.7
                 },
                 "Gouda": {
-                    "-": 23.8
+                    "-": 17.31
                 }
             },
             "Chess Master": {
@@ -20940,7 +19983,7 @@
         "Zugzwang's Tower": {
             "Technic Rooks": {
                 "SB+": {
-                    "-": 43.84
+                    "-": 40.28
                 },
                 "Gouda": {
                     "-": 40.46
@@ -20948,10 +19991,10 @@
             },
             "Technic Queen": {
                 "Checkmate": {
-                    "-": 16.8
+                    "-": 16.54
                 },
                 "SB+": {
-                    "-": 18.57
+                    "-": 18.23
                 },
                 "Gouda": {
                     "-": 17.94
@@ -20962,7 +20005,7 @@
                     "-": 11.01
                 },
                 "SB+": {
-                    "-": 18.21
+                    "-": 18.04
                 },
                 "Gouda": {
                     "-": 17.64
@@ -20979,32 +20022,32 @@
         "Zugzwang's Tower": {
             "Mystic Rooks": {
                 "SB+": {
-                    "-": 40.25
+                    "-": 40.24
                 },
                 "Gouda": {
-                    "-": 41.85
+                    "-": 40.76
                 }
             },
             "Mystic Queen": {
                 "Checkmate": {
-                    "-": 17.07
+                    "-": 16.81
                 },
                 "SB+": {
-                    "-": 18.2
+                    "-": 18.49
                 },
                 "Gouda": {
-                    "-": 27.25
+                    "-": 18.92
                 }
             },
             "Mystic King": {
                 "Checkmate": {
-                    "-": 13.27
+                    "-": 10.49
                 },
                 "SB+": {
-                    "-": 21.55
+                    "-": 15.66
                 },
                 "Gouda": {
-                    "-": 23.46
+                    "-": 17.07
                 }
             },
             "Chess Master": {
@@ -21018,10 +20061,10 @@
         "Zugzwang's Tower": {
             "Technic Queen": {
                 "Checkmate": {
-                    "-": 31.13
+                    "-": 30.64
                 },
                 "SB+": {
-                    "-": 26.37
+                    "-": 25.89
                 },
                 "Gouda": {
                     "-": 26.19
@@ -21032,7 +20075,7 @@
                     "-": 10.6
                 },
                 "SB+": {
-                    "-": 17.84
+                    "-": 17.68
                 },
                 "Gouda": {
                     "-": 18.34
@@ -21049,24 +20092,24 @@
         "Zugzwang's Tower": {
             "Mystic Queen": {
                 "Checkmate": {
-                    "-": 29.61
+                    "-": 29.14
                 },
                 "SB+": {
-                    "-": 26.7
+                    "-": 27.12
                 },
                 "Gouda": {
-                    "-": 27.25
+                    "-": 26.99
                 }
             },
             "Mystic King": {
                 "Checkmate": {
-                    "-": 12.29
+                    "-": 9.72
                 },
                 "SB+": {
-                    "-": 25.12
+                    "-": 18.25
                 },
                 "Gouda": {
-                    "-": 23.4
+                    "-": 17.02
                 }
             },
             "Chess Master": {
@@ -21083,7 +20126,7 @@
                     "-": 32.76
                 },
                 "SB+": {
-                    "-": 10.61
+                    "-": 10.51
                 },
                 "Gouda": {
                     "-": 10.31
@@ -21100,13 +20143,13 @@
         "Zugzwang's Tower": {
             "Mystic King": {
                 "Checkmate": {
-                    "-": 36.61
+                    "-": 28.95
                 },
                 "SB+": {
-                    "-": 12.7
+                    "-": 9.23
                 },
                 "Gouda": {
-                    "-": 14.51
+                    "-": 10.55
                 }
             },
             "Chess Master": {
@@ -21135,7 +20178,7 @@
                     "-": 21.46
                 },
                 "Glowing Gruyere": {
-                    "-": 16.06
+                    "-": 16.07
                 },
                 "Gouda": {
                     "-": 21.83
@@ -21147,13 +20190,13 @@
         "Moussu Picchu": {
             "-": {
                 "SB+": {
-                    "-": 21.41
+                    "-": 21.42
                 },
                 "Brie": {
                     "-": 22.1
                 },
                 "Glowing Gruyere": {
-                    "-": 15.62
+                    "-": 15.63
                 },
                 "Gouda": {
                     "-": 22.19
@@ -21165,13 +20208,13 @@
         "Moussu Picchu": {
             "-": {
                 "SB+": {
-                    "-": 19.34
+                    "-": 19.35
                 },
                 "Brie": {
                     "-": 12.37
                 },
                 "Glowing Gruyere": {
-                    "-": 30.4
+                    "-": 30.41
                 },
                 "Gouda": {
                     "-": 12.69
@@ -21183,13 +20226,13 @@
         "Moussu Picchu": {
             "-": {
                 "SB+": {
-                    "-": 17.67
+                    "-": 17.68
                 },
                 "Brie": {
                     "-": 13.32
                 },
                 "Glowing Gruyere": {
-                    "-": 28.38
+                    "-": 28.39
                 },
                 "Gouda": {
                     "-": 12.61
@@ -21201,7 +20244,7 @@
         "Moussu Picchu": {
             "-": {
                 "SB+": {
-                    "-": 9.09
+                    "-": 9.1
                 }
             }
         }
@@ -21210,7 +20253,7 @@
         "Moussu Picchu": {
             "-": {
                 "SB+": {
-                    "-": 7.24
+                    "-": 7.25
                 },
                 "Brie": {
                     "-": 13.92
@@ -21225,7 +20268,7 @@
         "Moussu Picchu": {
             "-": {
                 "SB+": {
-                    "-": 3.21
+                    "-": 3.22
                 },
                 "Brie": {
                     "-": 16.83
@@ -21240,7 +20283,7 @@
         "Moussu Picchu": {
             "-": {
                 "Glowing Gruyere": {
-                    "-": 9.48
+                    "-": 9.5
                 }
             }
         }
@@ -21415,6 +20458,1448 @@
             "Storm High": {
                 "Dragonvine": {
                     "-": 5
+                }
+            }
+        }
+    },
+    "Dread Knight": {
+        "Bristle Woods Rift": {
+            "Acolyte": {
+                "Runic String": {
+                    "-": 23.78,
+                    "Rift Antiskele": 33.1
+                }
+            },
+            "Ancient Lab": {
+                "Runic String": {
+                    "-": 12.46
+                },
+                "Ancient String": {
+                    "-": 9.13
+                },
+                "Brie String": {
+                    "-": 1.05,
+                    "Rift Antiskele": 1.31
+                },
+                "Swiss String": {
+                    "-": 1.77
+                }
+            },
+            "Frozen Alcove": {
+                "Runic String": {
+                    "-": 38.18
+                },
+                "Ancient String": {
+                    "-": 36.3
+                },
+                "Magical String": {
+                    "-": 10.91
+                },
+                "Brie String": {
+                    "-": 10.18
+                }
+            },
+            "Gearworks": {
+                "Runic String": {
+                    "-": 37.33
+                },
+                "Ancient String": {
+                    "-": 37.09
+                },
+                "Magical String": {
+                    "-": 16.72
+                },
+                "Brie String": {
+                    "-": 16.47
+                },
+                "Swiss String": {
+                    "-": 8.73
+                }
+            },
+            "Guard Barracks": {
+                "Runic String": {
+                    "-": 17.46
+                },
+                "Ancient String": {
+                    "-": 14.97
+                },
+                "Magical String": {
+                    "-": 10.25
+                },
+                "Brie String": {
+                    "-": 8.69
+                }
+            },
+            "Hidden Treasury": {
+                "Runic String": {
+                    "-": 5.2
+                },
+                "Ancient String": {
+                    "-": 5.76
+                },
+                "Magical String": {
+                    "-": 6.33
+                },
+                "Brie String": {
+                    "-": 11.57,
+                    "Rift Antiskele": 8.33
+                }
+            },
+            "Ingress": {
+                "Runic String": {
+                    "-": 19.31
+                },
+                "Ancient String": {
+                    "-": 15.09
+                },
+                "Magical String": {
+                    "-": 3.64
+                },
+                "Brie String": {
+                    "-": 3.23
+                }
+            },
+            "Lucky Tower": {
+                "Runic String": {
+                    "-": 10.97
+                },
+                "Ancient String": {
+                    "-": 9.49
+                },
+                "Magical String": {
+                    "-": 9.94
+                },
+                "Brie String": {
+                    "-": 10.43,
+                    "Rift Antiskele": 11.59
+                }
+            },
+            "Runic Laboratory": {
+                "Runic String": {
+                    "-": 10.69
+                },
+                "Magical String": {
+                    "-": 18.33
+                },
+                "Brie String": {
+                    "-": 25.81
+                },
+                "Swiss String": {
+                    "-": 23.27
+                }
+            },
+            "Timewarp": {
+                "Ancient String": {
+                    "-": 30.66
+                },
+                "Magical String": {
+                    "-": 32.2
+                },
+                "Brie String": {
+                    "-": 40.13
+                }
+            },
+            "Furnace Room": {
+                "Brie String": {
+                    "-": 1.52
+                }
+            }
+        }
+    },
+    "Skeletal Champion": {
+        "Bristle Woods Rift": {
+            "Acolyte": {
+                "Runic String": {
+                    "-": 23.13
+                }
+            },
+            "Ancient Lab": {
+                "Runic String": {
+                    "-": 5.46
+                },
+                "Ancient String": {
+                    "-": 5.34
+                },
+                "Magical String": {
+                    "-": 4.86
+                },
+                "Brie String": {
+                    "-": 5.29
+                },
+                "Swiss String": {
+                    "-": 9.72
+                }
+            },
+            "Entrance": {
+                "Runic String": {
+                    "-": 2.91
+                }
+            },
+            "Gearworks": {
+                "Runic String": {
+                    "-": 9.25
+                },
+                "Ancient String": {
+                    "-": 6.53
+                },
+                "Magical String": {
+                    "-": 9.51
+                },
+                "Brie String": {
+                    "-": 11.69
+                },
+                "Swiss String": {
+                    "-": 14.29
+                }
+            },
+            "Hidden Treasury": {
+                "Runic String": {
+                    "-": 3.74
+                },
+                "Ancient String": {
+                    "-": 3.66
+                },
+                "Magical String": {
+                    "-": 6.67
+                },
+                "Brie String": {
+                    "-": 4.78
+                }
+            },
+            "Lucky Tower": {
+                "Runic String": {
+                    "-": 5.65
+                },
+                "Ancient String": {
+                    "-": 3.8
+                },
+                "Magical String": {
+                    "-": 4.97
+                },
+                "Brie String": {
+                    "-": 5.8
+                }
+            },
+            "Runic Laboratory": {
+                "Runic String": {
+                    "-": 4.25
+                },
+                "Ancient String": {
+                    "-": 4.96
+                },
+                "Magical String": {
+                    "-": 7.07
+                },
+                "Brie String": {
+                    "-": 5.26
+                },
+                "Swiss String": {
+                    "-": 5.66
+                }
+            },
+            "Security": {
+                "Runic String": {
+                    "-": 90.3
+                },
+                "Ancient String": {
+                    "-": 89.31
+                },
+                "Brie String": {
+                    "-": 89.55
+                }
+            },
+            "Timewarp": {
+                "Runic String": {
+                    "-": 5.41
+                },
+                "Ancient String": {
+                    "-": 6.21
+                },
+                "Magical String": {
+                    "-": 5.68
+                },
+                "Brie String": {
+                    "-": 5.4
+                }
+            },
+            "Furnace Room": {
+                "Brie String": {
+                    "-": 88.83
+                }
+            },
+            "Pursuer Mousoleum": {
+                "Brie String": {
+                    "-": 83.65
+                }
+            }
+        }
+    },
+    "Vigilant Ward": {
+        "Bristle Woods Rift": {
+            "Acolyte": {
+                "Runic String": {
+                    "-": 8.84,
+                    "Rift Antiskele": 12.59
+                }
+            },
+            "Entrance": {
+                "Runic String": {
+                    "-": 77.91
+                }
+            },
+            "Gearworks": {
+                "Runic String": {
+                    "-": 0.13
+                }
+            },
+            "Ingress": {
+                "Runic String": {
+                    "-": 11.13
+                },
+                "Ancient String": {
+                    "-": 12.07
+                },
+                "Magical String": {
+                    "-": 7.88
+                },
+                "Brie String": {
+                    "-": 9.98
+                }
+            },
+            "Runic Laboratory": {
+                "Runic String": {
+                    "-": 6.5
+                },
+                "Ancient String": {
+                    "-": 20.89,
+                    "Rift Antiskele": 18.6
+                },
+                "Magical String": {
+                    "-": 7.07
+                },
+                "Brie String": {
+                    "-": 14.6
+                },
+                "Swiss String": {
+                    "-": 18.87
+                }
+            },
+            "Security": {
+                "Ancient String": {
+                    "-": 1.53
+                },
+                "Brie String": {
+                    "-": 4.53
+                }
+            }
+        }
+    },
+    "Absolute Acolyte": {
+        "Bristle Woods Rift": {
+            "Acolyte": {
+                "Runic String": {
+                    "-": 8.59,
+                    "Rift Antiskele": 11.08
+                }
+            }
+        }
+    },
+    "Portal Paladin": {
+        "Bristle Woods Rift": {
+            "Acolyte": {
+                "Runic String": {
+                    "-": 8.21,
+                    "Rift Antiskele": 5.7
+                }
+            },
+            "Ancient Lab": {
+                "Runic String": {
+                    "-": 3.06
+                },
+                "Ancient String": {
+                    "-": 5.58
+                },
+                "Magical String": {
+                    "-": 5.64
+                },
+                "Brie String": {
+                    "-": 5.09,
+                    "Rift Antiskele": 2.62
+                },
+                "Swiss String": {
+                    "-": 6.58
+                }
+            },
+            "Entrance": {
+                "Runic String": {
+                    "-": 10.47
+                }
+            },
+            "Frozen Alcove": {
+                "Runic String": {
+                    "-": 6.13
+                },
+                "Ancient String": {
+                    "-": 8.15
+                },
+                "Magical String": {
+                    "-": 8.43
+                },
+                "Brie String": {
+                    "-": 6.56
+                }
+            },
+            "Gearworks": {
+                "Runic String": {
+                    "-": 5.46
+                },
+                "Ancient String": {
+                    "-": 4.75
+                },
+                "Magical String": {
+                    "-": 8.46
+                },
+                "Brie String": {
+                    "-": 7.27
+                },
+                "Swiss String": {
+                    "-": 7.94
+                }
+            },
+            "Guard Barracks": {
+                "Runic String": {
+                    "-": 66.09
+                },
+                "Ancient String": {
+                    "-": 57.33
+                },
+                "Magical String": {
+                    "-": 45.72
+                },
+                "Brie String": {
+                    "-": 39.6
+                }
+            },
+            "Hidden Treasury": {
+                "Runic String": {
+                    "-": 4.78
+                },
+                "Ancient String": {
+                    "-": 6.81
+                },
+                "Magical String": {
+                    "-": 6.33
+                },
+                "Brie String": {
+                    "-": 5.39,
+                    "Rift Antiskele": 7.41
+                }
+            },
+            "Lucky Tower": {
+                "Runic String": {
+                    "-": 4.19
+                },
+                "Ancient String": {
+                    "-": 7.91
+                },
+                "Magical String": {
+                    "-": 4.14
+                },
+                "Brie String": {
+                    "-": 3.73,
+                    "Rift Antiskele": 1.45
+                }
+            },
+            "Runic Laboratory": {
+                "Runic String": {
+                    "-": 3.97
+                },
+                "Ancient String": {
+                    "-": 5.53,
+                    "Rift Antiskele": 4.27
+                },
+                "Magical String": {
+                    "-": 4.18
+                },
+                "Brie String": {
+                    "-": 4.78
+                },
+                "Swiss String": {
+                    "-": 1.89
+                }
+            },
+            "Timewarp": {
+                "Runic String": {
+                    "-": 5.17,
+                    "Rift Antiskele": 5.87
+                },
+                "Ancient String": {
+                    "-": 4.01
+                },
+                "Magical String": {
+                    "-": 4.55
+                },
+                "Brie String": {
+                    "-": 3.63
+                }
+            },
+            "Furnace Room": {
+                "Brie String": {
+                    "-": 3.55
+                }
+            }
+        }
+    },
+    "Timelost Thaumaturge": {
+        "Bristle Woods Rift": {
+            "Acolyte": {
+                "Runic String": {
+                    "-": 6.09,
+                    "Rift Antiskele": 9.43
+                }
+            },
+            "Gearworks": {
+                "Runic String": {
+                    "-": 0.4
+                }
+            },
+            "Runic Laboratory": {
+                "Runic String": {
+                    "-": 29.52
+                },
+                "Ancient String": {
+                    "-": 25.94,
+                    "Rift Antiskele": 33.23
+                },
+                "Magical String": {
+                    "-": 1.61
+                }
+            },
+            "Security": {
+                "Runic String": {
+                    "-": 7.88
+                },
+                "Ancient String": {
+                    "-": 7.63
+                },
+                "Brie String": {
+                    "-": 2.79
+                }
+            }
+        }
+    },
+    "Timeslither Pythoness": {
+        "Bristle Woods Rift": {
+            "Acolyte": {
+                "Runic String": {
+                    "-": 5.3,
+                    "Rift Antiskele": 7.41
+                }
+            },
+            "Hidden Treasury": {
+                "Runic String": {
+                    "-": 27.03
+                },
+                "Ancient String": {
+                    "-": 25.65
+                },
+                "Magical String": {
+                    "-": 11.67
+                },
+                "Brie String": {
+                    "-": 10.26,
+                    "Rift Antiskele": 7.41
+                }
+            },
+            "Runic Laboratory": {
+                "Runic String": {
+                    "-": 11.84
+                },
+                "Ancient String": {
+                    "-": 10.4,
+                    "Rift Antiskele": 11.28
+                }
+            }
+        }
+    },
+    "Shackled Servant": {
+        "Bristle Woods Rift": {
+            "Acolyte": {
+                "Runic String": {
+                    "-": 5.2,
+                    "Rift Antiskele": 6.65
+                }
+            },
+            "Gearworks": {
+                "Runic String": {
+                    "-": 0.07
+                }
+            },
+            "Hidden Treasury": {
+                "Runic String": {
+                    "-": 5.61
+                },
+                "Ancient String": {
+                    "-": 3.66
+                },
+                "Magical String": {
+                    "-": 3.67
+                },
+                "Brie String": {
+                    "-": 4.96,
+                    "Rift Antiskele": 2.78
+                }
+            },
+            "Ingress": {
+                "Runic String": {
+                    "-": 8.66
+                },
+                "Ancient String": {
+                    "-": 11.47
+                },
+                "Magical String": {
+                    "-": 9.39
+                },
+                "Brie String": {
+                    "-": 6.3
+                }
+            },
+            "Runic Laboratory": {
+                "Runic String": {
+                    "-": 15.3
+                },
+                "Ancient String": {
+                    "-": 20.18,
+                    "Rift Antiskele": 19.82
+                },
+                "Magical String": {
+                    "-": 16.4
+                },
+                "Brie String": {
+                    "-": 8.65
+                },
+                "Swiss String": {
+                    "-": 4.4
+                }
+            },
+            "Security": {
+                "Runic String": {
+                    "-": 0.61
+                },
+                "Ancient String": {
+                    "-": 1.53
+                },
+                "Brie String": {
+                    "-": 1.74
+                }
+            }
+        }
+    },
+    "Carrion Medium": {
+        "Bristle Woods Rift": {
+            "Acolyte": {
+                "Runic String": {
+                    "-": 3.79,
+                    "Rift Antiskele": 5.06
+                }
+            },
+            "Hidden Treasury": {
+                "Runic String": {
+                    "-": 3.12
+                },
+                "Ancient String": {
+                    "-": 4.19
+                },
+                "Magical String": {
+                    "-": 4.33
+                },
+                "Brie String": {
+                    "-": 6.52,
+                    "Rift Antiskele": 11.11
+                }
+            },
+            "Timewarp": {
+                "Runic String": {
+                    "-": 33.74,
+                    "Rift Antiskele": 34.18
+                },
+                "Ancient String": {
+                    "-": 14.83
+                },
+                "Magical String": {
+                    "-": 11.36
+                },
+                "Brie String": {
+                    "-": 8.52
+                }
+            }
+        }
+    },
+    "Harbinger Of Death": {
+        "Bristle Woods Rift": {
+            "Acolyte": {
+                "Runic String": {
+                    "-": 3.69,
+                    "Rift Antiskele": 5.19
+                }
+            },
+            "Frozen Alcove": {
+                "Runic String": {
+                    "-": 0.57
+                },
+                "Ancient String": {
+                    "-": 0.12
+                }
+            },
+            "Gearworks": {
+                "Runic String": {
+                    "-": 0.07
+                }
+            },
+            "Hidden Treasury": {
+                "Runic String": {
+                    "-": 2.49
+                },
+                "Ancient String": {
+                    "-": 1.57
+                },
+                "Magical String": {
+                    "-": 1.67
+                },
+                "Brie String": {
+                    "-": 2.17,
+                    "Rift Antiskele": 3.7
+                }
+            },
+            "Ingress": {
+                "Runic String": {
+                    "-": 1.17
+                },
+                "Ancient String": {
+                    "-": 1.01
+                },
+                "Magical String": {
+                    "-": 0.91
+                },
+                "Brie String": {
+                    "-": 1.69
+                }
+            },
+            "Lucky Tower": {
+                "Runic String": {
+                    "-": 2.1
+                },
+                "Ancient String": {
+                    "-": 1.58
+                },
+                "Magical String": {
+                    "-": 2.07
+                },
+                "Brie String": {
+                    "-": 1.29,
+                    "Rift Antiskele": 0.72
+                }
+            },
+            "Runic Laboratory": {
+                "Runic String": {
+                    "-": 1.86
+                },
+                "Ancient String": {
+                    "-": 2.18,
+                    "Rift Antiskele": 3.35
+                },
+                "Magical String": {
+                    "-": 4.18
+                },
+                "Brie String": {
+                    "-": 2.21
+                },
+                "Swiss String": {
+                    "-": 3.14
+                }
+            }
+        }
+    },
+    "Timeless Lich": {
+        "Bristle Woods Rift": {
+            "Acolyte": {
+                "Runic String": {
+                    "-": 2.59,
+                    "Rift Antiskele": 2.85
+                }
+            },
+            "Hidden Treasury": {
+                "Runic String": {
+                    "-": 27.03
+                },
+                "Ancient String": {
+                    "-": 16.75
+                },
+                "Magical String": {
+                    "-": 13
+                },
+                "Brie String": {
+                    "-": 9.91,
+                    "Rift Antiskele": 6.48
+                }
+            },
+            "Timewarp": {
+                "Runic String": {
+                    "-": 18.96,
+                    "Rift Antiskele": 20.05
+                },
+                "Ancient String": {
+                    "-": 14.43
+                },
+                "Magical String": {
+                    "-": 3.79
+                },
+                "Brie String": {
+                    "-": 2.53
+                }
+            }
+        }
+    },
+    "Chronomaster": {
+        "Bristle Woods Rift": {
+            "Acolyte": {
+                "Runic String": {
+                    "-": 0.56,
+                    "Rift Antiskele": 0.7
+                }
+            },
+            "Timewarp": {
+                "Runic String": {
+                    "-": 26.39,
+                    "Rift Antiskele": 27.88
+                }
+            }
+        }
+    },
+    "Portal Pursuer": {
+        "Bristle Woods Rift": {
+            "Acolyte": {
+                "Runic String": {
+                    "-": 0.23,
+                    "Rift Antiskele": 0.25
+                }
+            },
+            "Ancient Lab": {
+                "Runic String": {
+                    "-": 0.2
+                },
+                "Ancient String": {
+                    "-": 0.71
+                },
+                "Brie String": {
+                    "-": 0.44
+                },
+                "Swiss String": {
+                    "-": 0.17
+                }
+            },
+            "Frozen Alcove": {
+                "Runic String": {
+                    "-": 0.15
+                },
+                "Ancient String": {
+                    "-": 0.62
+                },
+                "Brie String": {
+                    "-": 1.81
+                }
+            },
+            "Gearworks": {
+                "Runic String": {
+                    "-": 0.27
+                },
+                "Ancient String": {
+                    "-": 2.08
+                },
+                "Brie String": {
+                    "-": 0.28
+                }
+            },
+            "Guard Barracks": {
+                "Runic String": {
+                    "-": 0.07
+                },
+                "Ancient String": {
+                    "-": 0.56
+                },
+                "Brie String": {
+                    "-": 0.48
+                }
+            },
+            "Ingress": {
+                "Runic String": {
+                    "-": 20
+                },
+                "Ancient String": {
+                    "-": 25.55
+                },
+                "Magical String": {
+                    "-": 38.48
+                },
+                "Brie String": {
+                    "-": 32.57
+                }
+            },
+            "Lucky Tower": {
+                "Runic String": {
+                    "-": 0.16
+                },
+                "Brie String": {
+                    "-": 0.39
+                }
+            },
+            "Runic Laboratory": {
+                "Runic String": {
+                    "-": 0.22
+                },
+                "Ancient String": {
+                    "-": 0.37,
+                    "Rift Antiskele": 0.61
+                },
+                "Brie String": {
+                    "-": 0.97
+                }
+            },
+            "Security": {
+                "Runic String": {
+                    "-": 1.21
+                },
+                "Brie String": {
+                    "-": 1.39
+                }
+            },
+            "Timewarp": {
+                "Runic String": {
+                    "-": 0.41,
+                    "Rift Antiskele": 0.11
+                },
+                "Ancient String": {
+                    "-": 1.4
+                },
+                "Brie String": {
+                    "-": 0.59
+                }
+            },
+            "Furnace Room": {
+                "Brie String": {
+                    "-": 2.03
+                }
+            },
+            "Hidden Treasury": {
+                "Brie String": {
+                    "-": 0.35
+                }
+            },
+            "Pursuer Mousoleum": {
+                "Brie String": {
+                    "-": 11.03
+                }
+            }
+        }
+    },
+    "Epoch Golem": {
+        "Bristle Woods Rift": {
+            "Ancient Lab": {
+                "Runic String": {
+                    "-": 33.51
+                },
+                "Ancient String": {
+                    "-": 45.2
+                },
+                "Magical String": {
+                    "-": 39.93
+                },
+                "Brie String": {
+                    "-": 4.25,
+                    "Rift Antiskele": 3.06
+                }
+            },
+            "Entrance": {
+                "Runic String": {
+                    "-": 2.91
+                }
+            },
+            "Guard Barracks": {
+                "Runic String": {
+                    "-": 13.39
+                },
+                "Ancient String": {
+                    "-": 9.29
+                },
+                "Magical String": {
+                    "-": 12.32
+                }
+            },
+            "Hidden Treasury": {
+                "Runic String": {
+                    "-": 9.98
+                },
+                "Ancient String": {
+                    "-": 17.28
+                },
+                "Magical String": {
+                    "-": 35.33
+                },
+                "Brie String": {
+                    "-": 8.87,
+                    "Rift Antiskele": 7.41
+                }
+            },
+            "Lucky Tower": {
+                "Runic String": {
+                    "-": 24.84
+                },
+                "Ancient String": {
+                    "-": 26.27
+                },
+                "Magical String": {
+                    "-": 23.4
+                },
+                "Brie String": {
+                    "-": 5.47,
+                    "Rift Antiskele": 7.97
+                }
+            },
+            "Gearworks": {
+                "Magical String": {
+                    "-": 4
+                }
+            }
+        }
+    },
+    "Chamber Cleaver": {
+        "Bristle Woods Rift": {
+            "Ancient Lab": {
+                "Runic String": {
+                    "-": 26.18
+                }
+            },
+            "Gearworks": {
+                "Runic String": {
+                    "-": 26.35
+                }
+            },
+            "Runic Laboratory": {
+                "Runic String": {
+                    "-": 15.49
+                }
+            }
+        }
+    },
+    "Portal Plunderer": {
+        "Bristle Woods Rift": {
+            "Ancient Lab": {
+                "Runic String": {
+                    "-": 14.26
+                },
+                "Ancient String": {
+                    "-": 22.42
+                },
+                "Magical String": {
+                    "-": 21.22
+                },
+                "Brie String": {
+                    "-": 37.12,
+                    "Rift Antiskele": 41.05
+                },
+                "Swiss String": {
+                    "-": 26.36
+                }
+            },
+            "Entrance": {
+                "Runic String": {
+                    "-": 4.65
+                }
+            },
+            "Gearworks": {
+                "Runic String": {
+                    "-": 10.65
+                },
+                "Ancient String": {
+                    "-": 14.54
+                },
+                "Magical String": {
+                    "-": 3.87
+                },
+                "Brie String": {
+                    "-": 5.41
+                },
+                "Swiss String": {
+                    "-": 2.78
+                }
+            },
+            "Hidden Treasury": {
+                "Runic String": {
+                    "-": 11.02
+                },
+                "Ancient String": {
+                    "-": 14.66
+                },
+                "Magical String": {
+                    "-": 11
+                },
+                "Brie String": {
+                    "-": 35.22,
+                    "Rift Antiskele": 45.37
+                }
+            },
+            "Lucky Tower": {
+                "Runic String": {
+                    "-": 14.68
+                },
+                "Ancient String": {
+                    "-": 17.09
+                },
+                "Magical String": {
+                    "-": 12.63
+                },
+                "Brie String": {
+                    "-": 20.73,
+                    "Rift Antiskele": 20.29
+                }
+            },
+            "Furnace Room": {
+                "Brie String": {
+                    "-": 2.03
+                }
+            }
+        }
+    },
+    "Clockwork Timespinner": {
+        "Bristle Woods Rift": {
+            "Ancient Lab": {
+                "Runic String": {
+                    "-": 1.93
+                },
+                "Ancient String": {
+                    "-": 4.63
+                },
+                "Magical String": {
+                    "-": 13.21
+                },
+                "Brie String": {
+                    "-": 40.66,
+                    "Rift Antiskele": 44.1
+                },
+                "Swiss String": {
+                    "-": 26.13
+                }
+            },
+            "Entrance": {
+                "Runic String": {
+                    "-": 1.16
+                }
+            },
+            "Gearworks": {
+                "Runic String": {
+                    "-": 3.86
+                },
+                "Ancient String": {
+                    "-": 9.5
+                },
+                "Magical String": {
+                    "-": 4.79
+                },
+                "Brie String": {
+                    "-": 7.72
+                },
+                "Swiss String": {
+                    "-": 5.36
+                }
+            },
+            "Guard Barracks": {
+                "Runic String": {
+                    "-": 1.92
+                },
+                "Ancient String": {
+                    "-": 5.84
+                },
+                "Magical String": {
+                    "-": 14.45
+                },
+                "Brie String": {
+                    "-": 27.15
+                }
+            },
+            "Ingress": {
+                "Runic String": {
+                    "-": 19.18
+                },
+                "Ancient String": {
+                    "-": 19.72
+                },
+                "Magical String": {
+                    "-": 20
+                },
+                "Brie String": {
+                    "-": 19.05
+                }
+            },
+            "Lucky Tower": {
+                "Runic String": {
+                    "-": 12.9
+                },
+                "Ancient String": {
+                    "-": 14.87
+                },
+                "Magical String": {
+                    "-": 17.18
+                },
+                "Brie String": {
+                    "-": 20.03,
+                    "Rift Antiskele": 24.64
+                }
+            },
+            "Furnace Room": {
+                "Brie String": {
+                    "-": 2.03
+                }
+            }
+        }
+    },
+    "Record Keeper": {
+        "Bristle Woods Rift": {
+            "Ancient Lab": {
+                "Runic String": {
+                    "-": 1.33
+                },
+                "Ancient String": {
+                    "-": 4.63
+                },
+                "Magical String": {
+                    "-": 4.92
+                },
+                "Brie String": {
+                    "-": 5.11,
+                    "Rift Antiskele": 6.55
+                },
+                "Swiss String": {
+                    "-": 16.07
+                }
+            },
+            "Gearworks": {
+                "Runic String": {
+                    "-": 1.93
+                },
+                "Ancient String": {
+                    "-": 6.53
+                },
+                "Magical String": {
+                    "-": 17.77
+                },
+                "Brie String": {
+                    "-": 15.02
+                },
+                "Swiss String": {
+                    "-": 17.46
+                }
+            },
+            "Lucky Tower": {
+                "Runic String": {
+                    "-": 10.65
+                },
+                "Ancient String": {
+                    "-": 8.23
+                },
+                "Magical String": {
+                    "-": 10.35
+                },
+                "Brie String": {
+                    "-": 10.62,
+                    "Rift Antiskele": 13.04
+                }
+            }
+        }
+    },
+    "Record Keeper's Assistant": {
+        "Bristle Woods Rift": {
+            "Ancient Lab": {
+                "Runic String": {
+                    "-": 1
+                },
+                "Ancient String": {
+                    "-": 1.3
+                },
+                "Magical String": {
+                    "-": 5.3
+                },
+                "Brie String": {
+                    "-": 0.46,
+                    "Rift Antiskele": 0.44
+                },
+                "Swiss String": {
+                    "-": 7.43
+                }
+            },
+            "Gearworks": {
+                "Runic String": {
+                    "-": 1
+                },
+                "Ancient String": {
+                    "-": 9.5
+                },
+                "Magical String": {
+                    "-": 20.07
+                },
+                "Brie String": {
+                    "-": 22.92
+                },
+                "Swiss String": {
+                    "-": 20.24
+                }
+            },
+            "Lucky Tower": {
+                "Runic String": {
+                    "-": 10.65
+                },
+                "Ancient String": {
+                    "-": 6.96
+                },
+                "Magical String": {
+                    "-": 10.97
+                },
+                "Brie String": {
+                    "-": 10.5,
+                    "Rift Antiskele": 11.59
+                }
+            },
+            "Pursuer Mousoleum": {
+                "Brie String": {
+                    "-": 5.32
+                }
+            }
+        }
+    },
+    "Sentient Slime": {
+        "Bristle Woods Rift": {
+            "Ancient Lab": {
+                "Runic String": {
+                    "-": 0.6
+                },
+                "Ancient String": {
+                    "-": 1.07
+                },
+                "Magical String": {
+                    "-": 4.92
+                },
+                "Brie String": {
+                    "-": 0.52,
+                    "Rift Antiskele": 0.87
+                },
+                "Swiss String": {
+                    "-": 5.77
+                }
+            },
+            "Frozen Alcove": {
+                "Runic String": {
+                    "-": 54.98
+                },
+                "Ancient String": {
+                    "-": 54.81
+                },
+                "Magical String": {
+                    "-": 80.65
+                },
+                "Brie String": {
+                    "-": 81.45
+                }
+            },
+            "Gearworks": {
+                "Runic String": {
+                    "-": 3.26
+                },
+                "Ancient String": {
+                    "-": 9.5
+                },
+                "Magical String": {
+                    "-": 14.82
+                },
+                "Brie String": {
+                    "-": 13.23
+                },
+                "Swiss String": {
+                    "-": 23.21
+                }
+            },
+            "Guard Barracks": {
+                "Runic String": {
+                    "-": 1.07
+                },
+                "Ancient String": {
+                    "-": 12.01
+                },
+                "Magical String": {
+                    "-": 17.26
+                },
+                "Brie String": {
+                    "-": 24.08
+                }
+            },
+            "Ingress": {
+                "Runic String": {
+                    "-": 20.55
+                },
+                "Ancient String": {
+                    "-": 15.09
+                },
+                "Magical String": {
+                    "-": 19.7
+                },
+                "Brie String": {
+                    "-": 27.19
+                }
+            },
+            "Lucky Tower": {
+                "Runic String": {
+                    "-": 3.23
+                },
+                "Ancient String": {
+                    "-": 3.8
+                },
+                "Magical String": {
+                    "-": 4.35
+                },
+                "Brie String": {
+                    "-": 11.01,
+                    "Rift Antiskele": 8.7
+                }
+            },
+            "Runic Laboratory": {
+                "Runic String": {
+                    "-": 0.36
+                },
+                "Ancient String": {
+                    "-": 9.54,
+                    "Rift Antiskele": 8.84
+                },
+                "Magical String": {
+                    "-": 41.16
+                },
+                "Brie String": {
+                    "-": 37.72
+                },
+                "Swiss String": {
+                    "-": 42.77
+                }
+            },
+            "Timewarp": {
+                "Runic String": {
+                    "-": 9.9,
+                    "Rift Antiskele": 11.9
+                },
+                "Ancient String": {
+                    "-": 28.46
+                },
+                "Magical String": {
+                    "-": 42.42
+                },
+                "Brie String": {
+                    "-": 39.21
                 }
             }
         }

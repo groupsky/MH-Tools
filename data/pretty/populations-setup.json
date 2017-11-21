@@ -7,7 +7,7 @@
                     "Gorgon": 18.22,
                     "Spectre": 18.08,
                     "Sorcerer": 16.35,
-                    "Acolyte": 8.27,
+                    "Acolyte": 8.28,
                     "Wight": 8.22,
                     "Lich": 8.2,
                     "Chrono": 1.92,
@@ -30,7 +30,7 @@
                     "Mutated Grey": 13.56,
                     "Mutated White": 13.19,
                     "Mutated Brown": 7.01,
-                    "Black Widow": 0.22
+                    "Black Widow": 0.21
                 }
             }
         }
@@ -46,7 +46,7 @@
                     "Nerg Lich": 9,
                     "Elub Lich": 8.75,
                     "Derr Lich": 8.66,
-                    "Tidal Fisher": 2.87
+                    "Tidal Fisher": 2.88
                 }
             },
             "Vengeful Vanilla Stilton": {
@@ -58,7 +58,7 @@
                     "Balack the Banished": 11.1,
                     "Twisted Fiend": 5.21,
                     "Brimstone": 5.17,
-                    "Davy Jones": 5.01
+                    "Davy Jones": 5.02
                 }
             }
         },
@@ -190,436 +190,6 @@
                     "Dwarf": 1.68,
                     "Zombie": 1.6,
                     "Crown Collector": 0.61
-                }
-            }
-        }
-    },
-    "Bristle Woods Rift": {
-        "Acolyte": {
-            "Runic String": {
-                "-": {
-                    "Absolute Acolyte": 8.82,
-                    "Carrion Medium": 3.85,
-                    "Chronomaster": 0.59,
-                    "Dread Knight": 23.82,
-                    "Harbinger of Death": 3.76,
-                    "Portal Paladin": 8.25,
-                    "Shackled Servant": 5.15,
-                    "Skeletal Champion": 22.95,
-                    "Timeless Lich": 2.68,
-                    "Timelost Thaumaturge": 6.06,
-                    "Timeslither Pythoness": 5.24,
-                    "Vigilant Ward": 8.83
-                },
-                "Rift Antiskele": {
-                    "Chronomaster": 0.64,
-                    "Timeless Lich": 3,
-                    "Carrion Medium": 4.54,
-                    "Harbinger of Death": 5.18,
-                    "Portal Paladin": 6.27,
-                    "Shackled Servant": 7.36,
-                    "Timeslither Pythoness": 7.45,
-                    "Timelost Thaumaturge": 8.9,
-                    "Absolute Acolyte": 12.17,
-                    "Vigilant Ward": 12.44,
-                    "Dread Knight": 32.06
-                }
-            }
-        },
-        "Ancient Lab": {
-            "Ancient String": {
-                "-": {
-                    "Clockwork Timespinner": 4.58,
-                    "Dread Knight": 9.17,
-                    "Epoch Golem": 45.85,
-                    "Portal Paladin": 5.16,
-                    "Portal Plunderer": 21.63,
-                    "Record Keeper": 5.01,
-                    "Record Keeper's Assistant": 1.15,
-                    "Sentient Slime": 1.29,
-                    "Skeletal Champion": 6.16
-                }
-            },
-            "Brie String": {
-                "-": {
-                    "Clockwork Timespinner": 40.79,
-                    "Dread Knight": 1.05,
-                    "Epoch Golem": 4.3,
-                    "Portal Paladin": 5.2,
-                    "Portal Plunderer": 37.36,
-                    "Record Keeper": 5.11,
-                    "Record Keeper's Assistant": 0.45,
-                    "Sentient Slime": 0.53,
-                    "Skeletal Champion": 5.21
-                }
-            },
-            "Magical String": {
-                "-": {
-                    "Clockwork Timespinner": 12.91,
-                    "Epoch Golem": 39.69,
-                    "Portal Paladin": 5.75,
-                    "Portal Plunderer": 21.23,
-                    "Record Keeper": 5.21,
-                    "Record Keeper's Assistant": 5.44,
-                    "Sentient Slime": 4.87,
-                    "Skeletal Champion": 4.9
-                }
-            },
-            "Runic String": {
-                "-": {
-                    "Chamber Cleaver": 26.66,
-                    "Clockwork Timespinner": 1.85,
-                    "Dread Knight": 12.29,
-                    "Epoch Golem": 33.85,
-                    "Portal Paladin": 3.25,
-                    "Portal Plunderer": 13.99,
-                    "Record Keeper": 1.47,
-                    "Record Keeper's Assistant": 0.85,
-                    "Sentient Slime": 0.62,
-                    "Skeletal Champion": 5.18
-                }
-            },
-            "Swiss String": {
-                "-": {
-                    "Clockwork Timespinner": 26.19,
-                    "Dread Knight": 1.71,
-                    "Portal Paladin": 6.73,
-                    "Portal Plunderer": 26.74,
-                    "Record Keeper": 15.85,
-                    "Record Keeper's Assistant": 7.16,
-                    "Sentient Slime": 5.81,
-                    "Skeletal Champion": 9.79
-                }
-            }
-        },
-        "Frozen Alcove": {
-            "Ancient String": {
-                "-": {
-                    "Dread Knight": 35.57,
-                    "Harbinger of Death": 0.15,
-                    "Portal Paladin": 8.63,
-                    "Sentient Slime": 55.65
-                }
-            },
-            "Brie String": {
-                "-": {
-                    "Dread Knight": 10,
-                    "Portal Paladin": 6.71,
-                    "Sentient Slime": 83.29
-                }
-            },
-            "Magical String": {
-                "-": {
-                    "Dread Knight": 11.22,
-                    "Portal Paladin": 8.16,
-                    "Sentient Slime": 80.61
-                }
-            },
-            "Runic String": {
-                "-": {
-                    "Dread Knight": 37.47,
-                    "Harbinger of Death": 0.53,
-                    "Portal Paladin": 6.3,
-                    "Sentient Slime": 55.7
-                }
-            }
-        },
-        "Gearworks": {
-            "Brie String": {
-                "-": {
-                    "Clockwork Timespinner": 8.01,
-                    "Dread Knight": 16.52,
-                    "Portal Paladin": 7.25,
-                    "Portal Plunderer": 5.37,
-                    "Record Keeper": 15.15,
-                    "Record Keeper's Assistant": 22.88,
-                    "Sentient Slime": 13.12,
-                    "Skeletal Champion": 11.7
-                }
-            },
-            "Magical String": {
-                "-": {
-                    "Clockwork Timespinner": 4.43,
-                    "Dread Knight": 16.85,
-                    "Epoch Golem": 3.84,
-                    "Portal Paladin": 8.57,
-                    "Portal Plunderer": 4.21,
-                    "Record Keeper": 17.59,
-                    "Record Keeper's Assistant": 20.03,
-                    "Sentient Slime": 14.78,
-                    "Skeletal Champion": 9.68
-                }
-            },
-            "Runic String": {
-                "-": {
-                    "Harbinger of Death": 0.08,
-                    "Shackled Servant": 0.08,
-                    "Timelost Thaumaturge": 0.46,
-                    "Vigilant Ward": 0.15,
-                    "Chamber Cleaver": 26.15,
-                    "Clockwork Timespinner": 4.08,
-                    "Dread Knight": 37.38,
-                    "Portal Paladin": 5.69,
-                    "Portal Plunderer": 10.54,
-                    "Record Keeper": 2.15,
-                    "Record Keeper's Assistant": 1,
-                    "Sentient Slime": 2.92,
-                    "Skeletal Champion": 9.31
-                }
-            },
-            "Swiss String": {
-                "-": {
-                    "Clockwork Timespinner": 4.7,
-                    "Dread Knight": 8.33,
-                    "Portal Paladin": 8.55,
-                    "Portal Plunderer": 2.14,
-                    "Record Keeper": 17.95,
-                    "Record Keeper's Assistant": 20.3,
-                    "Sentient Slime": 23.5,
-                    "Skeletal Champion": 14.53
-                }
-            }
-        },
-        "Guard Barracks": {
-            "Ancient String": {
-                "-": {
-                    "Clockwork Timespinner": 6.04,
-                    "Dread Knight": 14.81,
-                    "Epoch Golem": 8.77,
-                    "Portal Paladin": 58.02,
-                    "Sentient Slime": 12.36
-                }
-            },
-            "Brie String": {
-                "-": {
-                    "Clockwork Timespinner": 28.09,
-                    "Dread Knight": 9.26,
-                    "Portal Paladin": 39,
-                    "Sentient Slime": 23.66
-                }
-            },
-            "Magical String": {
-                "-": {
-                    "Clockwork Timespinner": 14.16,
-                    "Dread Knight": 10.21,
-                    "Epoch Golem": 11.93,
-                    "Portal Paladin": 45.93,
-                    "Sentient Slime": 17.78
-                }
-            },
-            "Runic String": {
-                "-": {
-                    "Clockwork Timespinner": 1.91,
-                    "Dread Knight": 17.65,
-                    "Epoch Golem": 13.42,
-                    "Portal Paladin": 66.04,
-                    "Sentient Slime": 0.98
-                }
-            }
-        },
-        "Hidden Treasury": {
-            "Brie String": {
-                "-": {
-                    "Carrion Medium": 6.96,
-                    "Dread Knight": 11.27,
-                    "Epoch Golem": 8.82,
-                    "Harbinger of Death": 2.35,
-                    "Portal Paladin": 5.39,
-                    "Portal Plunderer": 35.39,
-                    "Shackled Servant": 5.1,
-                    "Skeletal Champion": 4.8,
-                    "Timeless Lich": 9.9,
-                    "Timeslither Pythoness": 10
-                }
-            },
-            "Runic String": {
-                "-": {
-                    "Carrion Medium": 3.02,
-                    "Dread Knight": 5.4,
-                    "Epoch Golem": 10.15,
-                    "Harbinger of Death": 2.38,
-                    "Portal Paladin": 4.75,
-                    "Portal Plunderer": 10.8,
-                    "Shackled Servant": 5.62,
-                    "Skeletal Champion": 3.67,
-                    "Timeless Lich": 27.43,
-                    "Timeslither Pythoness": 26.78
-                }
-            }
-        },
-        "Ingress": {
-            "Ancient String": {
-                "-": {
-                    "Clockwork Timespinner": 18.06,
-                    "Dread Knight": 16.2,
-                    "Harbinger of Death": 0.93,
-                    "Portal Pursuer": 24.77,
-                    "Sentient Slime": 15.74,
-                    "Shackled Servant": 12.27,
-                    "Vigilant Ward": 12.04
-                }
-            },
-            "Brie String": {
-                "-": {
-                    "Clockwork Timespinner": 18.76,
-                    "Dread Knight": 3.1,
-                    "Harbinger of Death": 1.89,
-                    "Portal Pursuer": 32.7,
-                    "Sentient Slime": 27.02,
-                    "Shackled Servant": 6.37,
-                    "Vigilant Ward": 10.15
-                }
-            },
-            "Runic String": {
-                "-": {
-                    "Clockwork Timespinner": 19.51,
-                    "Dread Knight": 19.67,
-                    "Harbinger of Death": 1.11,
-                    "Portal Pursuer": 19.51,
-                    "Sentient Slime": 20.54,
-                    "Shackled Servant": 8.64,
-                    "Vigilant Ward": 11.02
-                }
-            }
-        },
-        "Lucky Tower": {
-            "Brie String": {
-                "-": {
-                    "Clockwork Timespinner": 19.51,
-                    "Dread Knight": 10.48,
-                    "Epoch Golem": 6,
-                    "Harbinger of Death": 1.14,
-                    "Portal Paladin": 3.64,
-                    "Portal Plunderer": 20.27,
-                    "Record Keeper": 10.86,
-                    "Record Keeper's Assistant": 11.01,
-                    "Sentient Slime": 11.47,
-                    "Skeletal Champion": 5.62
-                }
-            },
-            "Magical String": {
-                "-": {
-                    "Clockwork Timespinner": 17.81,
-                    "Dread Knight": 9.03,
-                    "Epoch Golem": 23.52,
-                    "Harbinger of Death": 1.9,
-                    "Portal Paladin": 4.04,
-                    "Portal Plunderer": 12.35,
-                    "Record Keeper": 10.45,
-                    "Record Keeper's Assistant": 11.64,
-                    "Sentient Slime": 4.75,
-                    "Skeletal Champion": 4.51
-                }
-            },
-            "Runic String": {
-                "-": {
-                    "Clockwork Timespinner": 13.54,
-                    "Dread Knight": 10.25,
-                    "Epoch Golem": 23.79,
-                    "Harbinger of Death": 2.13,
-                    "Portal Paladin": 4.64,
-                    "Portal Plunderer": 15.28,
-                    "Record Keeper": 9.48,
-                    "Record Keeper's Assistant": 11.8,
-                    "Sentient Slime": 3.09,
-                    "Skeletal Champion": 6
-                }
-            }
-        },
-        "Runic Laboratory": {
-            "Ancient String": {
-                "-": {
-                    "Harbinger of Death": 2.21,
-                    "Portal Paladin": 5.54,
-                    "Sentient Slime": 9.64,
-                    "Shackled Servant": 20.18,
-                    "Skeletal Champion": 5.03,
-                    "Timelost Thaumaturge": 25.97,
-                    "Timeslither Pythoness": 10.37,
-                    "Vigilant Ward": 21.07
-                },
-                "Rift Antiskele": {
-                    "Harbinger of Death": 2.5,
-                    "Portal Paladin": 4.17,
-                    "Sentient Slime": 9.17,
-                    "Timeslither Pythoness": 12.5,
-                    "Vigilant Ward": 17.92,
-                    "Shackled Servant": 19.17,
-                    "Timelost Thaumaturge": 34.58
-                }
-            },
-            "Brie String": {
-                "-": {
-                    "Dread Knight": 26.27,
-                    "Harbinger of Death": 2.35,
-                    "Portal Paladin": 4.92,
-                    "Sentient Slime": 38.53,
-                    "Shackled Servant": 8.48,
-                    "Skeletal Champion": 4.92,
-                    "Vigilant Ward": 14.53
-                }
-            },
-            "Runic String": {
-                "-": {
-                    "Chamber Cleaver": 15.64,
-                    "Dread Knight": 10.85,
-                    "Harbinger of Death": 1.78,
-                    "Portal Paladin": 4.04,
-                    "Sentient Slime": 0.3,
-                    "Shackled Servant": 15.31,
-                    "Skeletal Champion": 4.19,
-                    "Timelost Thaumaturge": 29.56,
-                    "Timeslither Pythoness": 11.75,
-                    "Vigilant Ward": 6.6
-                }
-            }
-        },
-        "Security": {
-            "Brie String": {
-                "-": {
-                    "Shackled Servant": 1.94,
-                    "Skeletal Champion": 90.7,
-                    "Timelost Thaumaturge": 3.1,
-                    "Vigilant Ward": 4.26
-                }
-            }
-        },
-        "Timewarp": {
-            "Ancient String": {
-                "-": {
-                    "Carrion Medium": 14.77,
-                    "Dread Knight": 30.65,
-                    "Portal Paladin": 4.25,
-                    "Sentient Slime": 29.08,
-                    "Skeletal Champion": 6.71,
-                    "Timeless Lich": 14.54
-                }
-            },
-            "Brie String": {
-                "-": {
-                    "Carrion Medium": 8.12,
-                    "Dread Knight": 40.96,
-                    "Portal Paladin": 3.78,
-                    "Sentient Slime": 39.3,
-                    "Skeletal Champion": 5.44,
-                    "Timeless Lich": 2.4
-                }
-            },
-            "Runic String": {
-                "-": {
-                    "Carrion Medium": 33.92,
-                    "Chronomaster": 26.4,
-                    "Portal Paladin": 5.17,
-                    "Sentient Slime": 9.94,
-                    "Skeletal Champion": 5.43,
-                    "Timeless Lich": 19.14
-                },
-                "Rift Antiskele": {
-                    "Portal Paladin": 6.19,
-                    "Sentient Slime": 11.5,
-                    "Timeless Lich": 20.06,
-                    "Chronomaster": 28.47,
-                    "Carrion Medium": 33.78
                 }
             }
         }
@@ -1433,15 +1003,15 @@
             },
             "SB+": {
                 "-": {
-                    "Vanquisher": 17.27,
-                    "Pack": 17.25,
-                    "Soothsayer": 17.24,
-                    "Alnitak": 17.18,
-                    "Mystic": 17.12,
-                    "Taleweaver": 4.46,
-                    "Alchemist": 4.1,
-                    "Scout": 4,
-                    "Black Widow": 0.77
+                    "Vanquisher": 17.38,
+                    "Pack": 17.36,
+                    "Soothsayer": 17.35,
+                    "Alnitak": 17.29,
+                    "Mystic": 17.22,
+                    "Taleweaver": 4.49,
+                    "Alchemist": 4.12,
+                    "Scout": 4.02,
+                    "Black Widow": 0.78
                 }
             },
             "Gouda": {
@@ -1513,59 +1083,59 @@
                     "Caravan Guard": 2.43
                 },
                 "Warpath Archer": {
-                    "Desert Archer": 85.72,
-                    "Desert Soldier": 5.18,
-                    "Vanguard": 4.66,
-                    "Crimson Commander": 1.98,
-                    "Gargantuamouse": 1.34,
-                    "Caravan Guard": 0.7
+                    "Desert Archer": 86.07,
+                    "Desert Soldier": 5.2,
+                    "Vanguard": 4.67,
+                    "Crimson Commander": 1.99,
+                    "Gargantuamouse": 1.35,
+                    "Caravan Guard": 0.71
                 },
                 "Warpath Scout": {
-                    "Vanguard": 84.69,
-                    "Desert Soldier": 5.47,
-                    "Desert Archer": 5.31,
-                    "Crimson Commander": 1.9,
-                    "Gargantuamouse": 1.59,
+                    "Vanguard": 85.09,
+                    "Desert Soldier": 5.5,
+                    "Desert Archer": 5.33,
+                    "Crimson Commander": 1.91,
+                    "Gargantuamouse": 1.6,
                     "Caravan Guard": 0.56
                 },
                 "Super Warpath Archer": {
-                    "Desert Archer": 91.88,
-                    "Gargantuamouse": 3,
-                    "Crimson Commander": 1.62,
+                    "Desert Archer": 92.18,
+                    "Gargantuamouse": 3.01,
+                    "Crimson Commander": 1.63,
                     "Vanguard": 1.51,
                     "Desert Soldier": 1.29,
                     "Caravan Guard": 0.38
                 },
                 "Super Warpath Commander": {
-                    "Crimson Commander": 76.04,
-                    "Gargantuamouse": 11.22,
-                    "Vanguard": 4.35,
-                    "Desert Archer": 3.44,
-                    "Desert Soldier": 3.13,
+                    "Crimson Commander": 76.35,
+                    "Gargantuamouse": 11.27,
+                    "Vanguard": 4.37,
+                    "Desert Archer": 3.45,
+                    "Desert Soldier": 3.15,
                     "Caravan Guard": 1.42
                 },
                 "Super Warpath Scout": {
-                    "Vanguard": 91.67,
-                    "Gargantuamouse": 3,
+                    "Vanguard": 91.94,
+                    "Gargantuamouse": 3.01,
                     "Desert Soldier": 1.72,
                     "Crimson Commander": 1.48,
                     "Desert Archer": 1.36,
                     "Caravan Guard": 0.48
                 },
                 "Super Warpath Warrior": {
-                    "Desert Soldier": 92.51,
-                    "Gargantuamouse": 2.63,
-                    "Crimson Commander": 1.51,
-                    "Vanguard": 1.47,
-                    "Desert Archer": 1.01,
+                    "Desert Soldier": 92.87,
+                    "Gargantuamouse": 2.64,
+                    "Crimson Commander": 1.52,
+                    "Vanguard": 1.48,
+                    "Desert Archer": 1.02,
                     "Caravan Guard": 0.48
                 },
                 "Warpath Warrior": {
-                    "Desert Soldier": 85.8,
-                    "Desert Archer": 5.33,
-                    "Vanguard": 4.93,
+                    "Desert Soldier": 86.29,
+                    "Desert Archer": 5.36,
+                    "Vanguard": 4.96,
                     "Crimson Commander": 1.54,
-                    "Gargantuamouse": 1.3,
+                    "Gargantuamouse": 1.31,
                     "Caravan Guard": 0.53
                 }
             },
@@ -1629,9 +1199,9 @@
                     "Gargantuamouse": 0.43
                 },
                 "Warpath Warrior": {
-                    "Desert Soldier": 81.84,
-                    "Desert Archer": 8.03,
-                    "Vanguard": 7.98,
+                    "Desert Soldier": 81.99,
+                    "Desert Archer": 8.04,
+                    "Vanguard": 7.99,
                     "Caravan Guard": 1.09,
                     "Crimson Commander": 0.61,
                     "Gargantuamouse": 0.28
@@ -1656,99 +1226,99 @@
                     "Caravan Guard": 1.79
                 },
                 "Warpath Archer": {
-                    "Flame Archer": 81.06,
-                    "Sand Cavalry": 7.6,
-                    "Inferno Mage": 2.94,
-                    "Flame Warrior": 2.9,
-                    "Sentinel": 2.64,
+                    "Flame Archer": 81.46,
+                    "Sand Cavalry": 7.64,
+                    "Inferno Mage": 2.95,
+                    "Flame Warrior": 2.91,
+                    "Sentinel": 2.65,
                     "Crimson Commander": 1.32,
-                    "Gargantuamouse": 0.72,
+                    "Gargantuamouse": 0.73,
                     "Caravan Guard": 0.33
                 },
                 "Warpath Cavalry": {
-                    "Sand Cavalry": 82.72,
-                    "Inferno Mage": 4.94,
+                    "Sand Cavalry": 82.87,
+                    "Inferno Mage": 4.95,
                     "Sentinel": 3.36,
-                    "Flame Warrior": 3.25,
+                    "Flame Warrior": 3.26,
                     "Flame Archer": 2.92,
                     "Crimson Commander": 1.29,
                     "Caravan Guard": 1.04,
                     "Gargantuamouse": 0.29
                 },
                 "Warpath Mage": {
-                    "Inferno Mage": 73.01,
-                    "Sand Cavalry": 12.91,
-                    "Flame Warrior": 4.26,
-                    "Flame Archer": 4.22,
-                    "Sentinel": 3.17,
+                    "Inferno Mage": 73.43,
+                    "Sand Cavalry": 12.98,
+                    "Flame Warrior": 4.28,
+                    "Flame Archer": 4.24,
+                    "Sentinel": 3.19,
                     "Crimson Commander": 1.35,
                     "Caravan Guard": 0.39,
                     "Gargantuamouse": 0.13
                 },
                 "Warpath Scout": {
-                    "Sentinel": 79.29,
-                    "Sand Cavalry": 7.33,
-                    "Flame Archer": 3.87,
-                    "Inferno Mage": 3.24,
-                    "Flame Warrior": 2.91,
-                    "Crimson Commander": 1.7,
+                    "Sentinel": 79.7,
+                    "Sand Cavalry": 7.37,
+                    "Flame Archer": 3.89,
+                    "Inferno Mage": 3.25,
+                    "Flame Warrior": 2.93,
+                    "Crimson Commander": 1.71,
                     "Gargantuamouse": 0.74,
                     "Caravan Guard": 0.4
                 },
                 "Super Warpath Archer": {
-                    "Flame Archer": 91.79,
+                    "Flame Archer": 92.1,
                     "Gargantuamouse": 2.05,
-                    "Sand Cavalry": 1.7,
-                    "Crimson Commander": 1.33,
+                    "Sand Cavalry": 1.71,
+                    "Crimson Commander": 1.34,
                     "Flame Warrior": 1,
                     "Sentinel": 0.9,
                     "Inferno Mage": 0.52,
                     "Caravan Guard": 0.37
                 },
                 "Super Warpath Cavalry": {
-                    "Sand Cavalry": 94.45,
+                    "Sand Cavalry": 94.72,
                     "Crimson Commander": 1.11,
                     "Gargantuamouse": 0.95,
                     "Flame Archer": 0.86,
-                    "Sentinel": 0.8,
+                    "Sentinel": 0.81,
                     "Flame Warrior": 0.66,
                     "Inferno Mage": 0.58,
                     "Caravan Guard": 0.3
                 },
                 "Super Warpath Commander": {
-                    "Crimson Commander": 77.19,
-                    "Gargantuamouse": 9.13,
-                    "Sand Cavalry": 3.36,
+                    "Crimson Commander": 77.37,
+                    "Gargantuamouse": 9.16,
+                    "Sand Cavalry": 3.37,
                     "Flame Archer": 3.08,
-                    "Flame Warrior": 2.41,
+                    "Flame Warrior": 2.42,
                     "Sentinel": 2.04,
                     "Caravan Guard": 1.33,
                     "Inferno Mage": 1.23
                 },
                 "Super Warpath Mage": {
-                    "Inferno Mage": 92.85,
-                    "Sand Cavalry": 2.17,
-                    "Crimson Commander": 1.07,
+                    "Inferno Mage": 93.2,
+                    "Sand Cavalry": 2.18,
+                    "Crimson Commander": 1.08,
                     "Flame Warrior": 0.99,
-                    "Sentinel": 0.96,
+                    "Sentinel": 0.97,
                     "Gargantuamouse": 0.69,
                     "Flame Archer": 0.5,
                     "Caravan Guard": 0.39
                 },
                 "Super Warpath Scout": {
-                    "Sentinel": 92.46,
-                    "Gargantuamouse": 1.91,
+                    "Sentinel": 92.68,
+                    "Gargantuamouse": 1.92,
                     "Crimson Commander": 1.57,
                     "Sand Cavalry": 1.16,
                     "Flame Archer": 1.1,
                     "Flame Warrior": 0.71,
-                    "Inferno Mage": 0.47,
+                    "Inferno Mage": 0.48,
                     "Caravan Guard": 0.39
                 },
                 "Super Warpath Warrior": {
-                    "Flame Warrior": 92.72,
+                    "Flame Warrior": 93.03,
                     "Gargantuamouse": 1.75,
-                    "Crimson Commander": 1.53,
+                    "Crimson Commander": 1.54,
                     "Sand Cavalry": 1.37,
                     "Flame Archer": 0.84,
                     "Sentinel": 0.73,
@@ -1756,11 +1326,11 @@
                     "Caravan Guard": 0.27
                 },
                 "Warpath Warrior": {
-                    "Flame Warrior": 80.97,
-                    "Sand Cavalry": 7.27,
-                    "Sentinel": 3.57,
-                    "Flame Archer": 2.8,
-                    "Inferno Mage": 2.76,
+                    "Flame Warrior": 81.24,
+                    "Sand Cavalry": 7.3,
+                    "Sentinel": 3.58,
+                    "Flame Archer": 2.81,
+                    "Inferno Mage": 2.77,
                     "Crimson Commander": 1.3,
                     "Gargantuamouse": 0.58,
                     "Caravan Guard": 0.41
@@ -1890,11 +1460,11 @@
                     "Gargantuamouse": 0.02
                 },
                 "Warpath Archer": {
-                    "Flame Archer": 76.69,
-                    "Sand Cavalry": 12.08,
-                    "Inferno Mage": 5.14,
+                    "Flame Archer": 76.57,
+                    "Sand Cavalry": 12.06,
+                    "Inferno Mage": 5.13,
                     "Sentinel": 2.25,
-                    "Flame Warrior": 2.23,
+                    "Flame Warrior": 2.22,
                     "Caravan Guard": 1.05,
                     "Crimson Commander": 0.56,
                     "Gargantuamouse": 0.15
@@ -1959,21 +1529,21 @@
                     "Gargantuamouse": 1.08
                 },
                 "Warpath Archer": {
-                    "Crimson Ranger": 77.34,
-                    "Sandwing Cavalry": 8.52,
-                    "Magmarage": 3.44,
-                    "Flame Ordnance": 3.31,
-                    "Crimson Titan": 2.9,
-                    "Crimson Watch": 1.99,
-                    "Crimson Commander": 1.23,
+                    "Crimson Ranger": 77.66,
+                    "Sandwing Cavalry": 8.56,
+                    "Magmarage": 3.45,
+                    "Flame Ordnance": 3.32,
+                    "Crimson Titan": 2.91,
+                    "Crimson Watch": 2,
+                    "Crimson Commander": 1.24,
                     "Gargantuamouse": 0.49,
                     "Caravan Guard": 0.37
                 },
                 "Warpath Cavalry": {
-                    "Sandwing Cavalry": 82.12,
-                    "Flame Ordnance": 5.7,
-                    "Magmarage": 4.21,
-                    "Crimson Ranger": 2.26,
+                    "Sandwing Cavalry": 82.39,
+                    "Flame Ordnance": 5.72,
+                    "Magmarage": 4.22,
+                    "Crimson Ranger": 2.27,
                     "Crimson Watch": 1.9,
                     "Crimson Titan": 1.76,
                     "Crimson Commander": 1.1,
@@ -1981,87 +1551,87 @@
                     "Gargantuamouse": 0.15
                 },
                 "Warpath Mage": {
-                    "Magmarage": 75.24,
-                    "Sandwing Cavalry": 8.74,
-                    "Flame Ordnance": 6.12,
-                    "Crimson Ranger": 2.91,
+                    "Magmarage": 75.49,
+                    "Sandwing Cavalry": 8.77,
+                    "Flame Ordnance": 6.14,
+                    "Crimson Ranger": 2.92,
                     "Crimson Watch": 2.67,
-                    "Crimson Titan": 2.49,
+                    "Crimson Titan": 2.5,
                     "Crimson Commander": 0.95,
-                    "Caravan Guard": 0.37,
+                    "Caravan Guard": 0.38,
                     "Gargantuamouse": 0.18
                 },
                 "Warpath Scout": {
-                    "Crimson Watch": 74.12,
-                    "Sandwing Cavalry": 9.56,
-                    "Magmarage": 4.16,
-                    "Flame Ordnance": 3.75,
-                    "Crimson Ranger": 3.37,
-                    "Crimson Titan": 2.17,
-                    "Crimson Commander": 1.42,
+                    "Crimson Watch": 74.46,
+                    "Sandwing Cavalry": 9.6,
+                    "Magmarage": 4.18,
+                    "Flame Ordnance": 3.77,
+                    "Crimson Ranger": 3.39,
+                    "Crimson Titan": 2.18,
+                    "Crimson Commander": 1.43,
                     "Gargantuamouse": 0.56,
                     "Caravan Guard": 0.41
                 },
                 "Super Warpath Archer": {
-                    "Crimson Ranger": 94.03,
+                    "Crimson Ranger": 94.33,
                     "Crimson Commander": 1.32,
                     "Gargantuamouse": 1.2,
                     "Sandwing Cavalry": 0.91,
-                    "Crimson Titan": 0.6,
+                    "Crimson Titan": 0.61,
                     "Flame Ordnance": 0.51,
                     "Magmarage": 0.49,
                     "Crimson Watch": 0.41,
                     "Caravan Guard": 0.22
                 },
                 "Super Warpath Cavalry": {
-                    "Sandwing Cavalry": 94.06,
-                    "Crimson Commander": 1.14,
+                    "Sandwing Cavalry": 94.38,
+                    "Crimson Commander": 1.15,
                     "Flame Ordnance": 1.12,
                     "Magmarage": 0.73,
                     "Gargantuamouse": 0.69,
                     "Crimson Titan": 0.62,
                     "Crimson Watch": 0.57,
                     "Crimson Ranger": 0.56,
-                    "Caravan Guard": 0.17
+                    "Caravan Guard": 0.18
                 },
                 "Super Warpath Commander": {
-                    "Crimson Commander": 81.55,
-                    "Gargantuamouse": 6.83,
-                    "Sandwing Cavalry": 2.93,
+                    "Crimson Commander": 81.77,
+                    "Gargantuamouse": 6.85,
+                    "Sandwing Cavalry": 2.94,
                     "Crimson Titan": 1.77,
-                    "Flame Ordnance": 1.46,
-                    "Caravan Guard": 1.43,
-                    "Crimson Ranger": 1.37,
+                    "Flame Ordnance": 1.47,
+                    "Caravan Guard": 1.44,
+                    "Crimson Ranger": 1.38,
                     "Crimson Watch": 1.28,
                     "Magmarage": 1.1
                 },
                 "Super Warpath Mage": {
-                    "Magmarage": 92.47,
-                    "Flame Ordnance": 1.94,
-                    "Sandwing Cavalry": 1.89,
-                    "Crimson Commander": 1.02,
+                    "Magmarage": 92.79,
+                    "Flame Ordnance": 1.95,
+                    "Sandwing Cavalry": 1.9,
+                    "Crimson Commander": 1.03,
                     "Crimson Titan": 0.63,
                     "Gargantuamouse": 0.59,
                     "Crimson Ranger": 0.55,
-                    "Crimson Watch": 0.43,
+                    "Crimson Watch": 0.44,
                     "Caravan Guard": 0.13
                 },
                 "Super Warpath Scout": {
-                    "Crimson Watch": 93.39,
+                    "Crimson Watch": 93.77,
                     "Crimson Commander": 1.55,
-                    "Gargantuamouse": 1.37,
+                    "Gargantuamouse": 1.38,
                     "Sandwing Cavalry": 1.06,
-                    "Crimson Titan": 0.67,
+                    "Crimson Titan": 0.68,
                     "Crimson Ranger": 0.59,
                     "Flame Ordnance": 0.38,
                     "Magmarage": 0.34,
                     "Caravan Guard": 0.25
                 },
                 "Super Warpath Warrior": {
-                    "Crimson Titan": 93.66,
+                    "Crimson Titan": 93.91,
                     "Crimson Commander": 1.35,
                     "Sandwing Cavalry": 1.13,
-                    "Gargantuamouse": 0.89,
+                    "Gargantuamouse": 0.9,
                     "Crimson Ranger": 0.69,
                     "Crimson Watch": 0.63,
                     "Flame Ordnance": 0.57,
@@ -2069,14 +1639,14 @@
                     "Caravan Guard": 0.34
                 },
                 "Warpath Warrior": {
-                    "Crimson Titan": 75.48,
-                    "Sandwing Cavalry": 9.25,
-                    "Flame Ordnance": 3.67,
-                    "Magmarage": 3.61,
-                    "Crimson Ranger": 2.84,
-                    "Crimson Watch": 2.69,
+                    "Crimson Titan": 75.74,
+                    "Sandwing Cavalry": 9.28,
+                    "Flame Ordnance": 3.68,
+                    "Magmarage": 3.63,
+                    "Crimson Ranger": 2.85,
+                    "Crimson Watch": 2.7,
                     "Crimson Commander": 1.4,
-                    "Caravan Guard": 0.38,
+                    "Caravan Guard": 0.39,
                     "Gargantuamouse": 0.33
                 }
             },
@@ -2093,20 +1663,20 @@
                     "Gargantuamouse": 0.02
                 },
                 "Warpath Archer": {
-                    "Crimson Ranger": 76.6,
-                    "Sandwing Cavalry": 9.42,
-                    "Magmarage": 4.27,
+                    "Crimson Ranger": 76.76,
+                    "Sandwing Cavalry": 9.45,
+                    "Magmarage": 4.28,
                     "Flame Ordnance": 3.55,
                     "Crimson Titan": 2.31,
-                    "Crimson Watch": 2.18,
+                    "Crimson Watch": 2.19,
                     "Caravan Guard": 0.9,
                     "Crimson Commander": 0.43,
                     "Gargantuamouse": 0.12
                 },
                 "Warpath Cavalry": {
-                    "Sandwing Cavalry": 81.22,
-                    "Flame Ordnance": 8.36,
-                    "Magmarage": 5.3,
+                    "Sandwing Cavalry": 81.4,
+                    "Flame Ordnance": 8.38,
+                    "Magmarage": 5.31,
                     "Crimson Ranger": 1.33,
                     "Crimson Titan": 1.07,
                     "Crimson Watch": 1.02,
@@ -2115,31 +1685,31 @@
                     "Gargantuamouse": 0.05
                 },
                 "Warpath Mage": {
-                    "Magmarage": 73.93,
-                    "Sandwing Cavalry": 11.3,
-                    "Flame Ordnance": 8.79,
+                    "Magmarage": 74.08,
+                    "Sandwing Cavalry": 11.32,
+                    "Flame Ordnance": 8.81,
                     "Crimson Ranger": 1.54,
                     "Crimson Titan": 1.47,
-                    "Crimson Watch": 1.31,
+                    "Crimson Watch": 1.32,
                     "Caravan Guard": 0.95,
                     "Crimson Commander": 0.46,
                     "Gargantuamouse": 0.04
                 },
                 "Warpath Scout": {
-                    "Crimson Watch": 77.76,
-                    "Sandwing Cavalry": 8.2,
-                    "Magmarage": 3.74,
-                    "Flame Ordnance": 3.4,
+                    "Crimson Watch": 77.96,
+                    "Sandwing Cavalry": 8.23,
+                    "Magmarage": 3.75,
+                    "Flame Ordnance": 3.41,
                     "Crimson Ranger": 2.96,
                     "Crimson Titan": 2.26,
-                    "Caravan Guard": 0.86,
+                    "Caravan Guard": 0.87,
                     "Crimson Commander": 0.42,
                     "Gargantuamouse": 0.16
                 },
                 "Super Warpath Archer": {
-                    "Crimson Ranger": 87.93,
-                    "Sandwing Cavalry": 3.6,
-                    "Flame Ordnance": 2.88,
+                    "Crimson Ranger": 88.13,
+                    "Sandwing Cavalry": 3.61,
+                    "Flame Ordnance": 2.89,
                     "Magmarage": 1.76,
                     "Caravan Guard": 1.44,
                     "Crimson Watch": 1.08,
@@ -2148,7 +1718,7 @@
                     "Crimson Titan": 0.32
                 },
                 "Super Warpath Cavalry": {
-                    "Sandwing Cavalry": 94.55,
+                    "Sandwing Cavalry": 94.67,
                     "Flame Ordnance": 2.08,
                     "Magmarage": 1.05,
                     "Caravan Guard": 1,
@@ -2159,21 +1729,21 @@
                     "Crimson Titan": 0.15
                 },
                 "Super Warpath Commander": {
-                    "Crimson Commander": 71.01,
-                    "Caravan Guard": 6.84,
-                    "Gargantuamouse": 5.54,
-                    "Sandwing Cavalry": 4.89,
-                    "Crimson Ranger": 3.26,
-                    "Crimson Titan": 2.93,
-                    "Flame Ordnance": 2.28,
-                    "Magmarage": 2.28,
+                    "Crimson Commander": 71.24,
+                    "Caravan Guard": 6.86,
+                    "Gargantuamouse": 5.56,
+                    "Sandwing Cavalry": 4.9,
+                    "Crimson Ranger": 3.27,
+                    "Crimson Titan": 2.94,
+                    "Flame Ordnance": 2.29,
+                    "Magmarage": 2.29,
                     "Crimson Watch": 0.65
                 },
                 "Super Warpath Mage": {
-                    "Magmarage": 89.75,
-                    "Flame Ordnance": 3.71,
-                    "Sandwing Cavalry": 3.71,
-                    "Caravan Guard": 0.57,
+                    "Magmarage": 89.99,
+                    "Flame Ordnance": 3.72,
+                    "Sandwing Cavalry": 3.72,
+                    "Caravan Guard": 0.58,
                     "Crimson Watch": 0.53,
                     "Crimson Ranger": 0.49,
                     "Crimson Titan": 0.4,
@@ -2181,7 +1751,7 @@
                     "Gargantuamouse": 0.27
                 },
                 "Super Warpath Scout": {
-                    "Crimson Watch": 92.52,
+                    "Crimson Watch": 92.74,
                     "Sandwing Cavalry": 1.5,
                     "Crimson Ranger": 1.42,
                     "Caravan Guard": 1.18,
@@ -2189,12 +1759,12 @@
                     "Flame Ordnance": 0.71,
                     "Gargantuamouse": 0.71,
                     "Magmarage": 0.67,
-                    "Crimson Commander": 0.35
+                    "Crimson Commander": 0.36
                 },
                 "Super Warpath Warrior": {
-                    "Crimson Titan": 88.59,
+                    "Crimson Titan": 88.75,
                     "Sandwing Cavalry": 3.2,
-                    "Flame Ordnance": 1.96,
+                    "Flame Ordnance": 1.97,
                     "Magmarage": 1.64,
                     "Crimson Watch": 1.31,
                     "Crimson Ranger": 1.27,
@@ -2203,11 +1773,11 @@
                     "Gargantuamouse": 0.4
                 },
                 "Warpath Warrior": {
-                    "Crimson Titan": 77.82,
-                    "Sandwing Cavalry": 8.38,
-                    "Magmarage": 3.76,
+                    "Crimson Titan": 78,
+                    "Sandwing Cavalry": 8.4,
+                    "Magmarage": 3.77,
                     "Flame Ordnance": 3.15,
-                    "Crimson Watch": 2.69,
+                    "Crimson Watch": 2.7,
                     "Crimson Ranger": 2.58,
                     "Caravan Guard": 0.91,
                     "Crimson Commander": 0.41,
@@ -2227,55 +1797,55 @@
                     "Gargantuamouse": 0.01
                 },
                 "Warpath Archer": {
-                    "Crimson Ranger": 74.59,
-                    "Sandwing Cavalry": 10.24,
-                    "Magmarage": 4.8,
-                    "Flame Ordnance": 4.23,
+                    "Crimson Ranger": 74.69,
+                    "Sandwing Cavalry": 10.25,
+                    "Magmarage": 4.81,
+                    "Flame Ordnance": 4.24,
                     "Crimson Titan": 2.48,
-                    "Crimson Watch": 2.16,
+                    "Crimson Watch": 2.17,
                     "Caravan Guard": 0.82,
                     "Crimson Commander": 0.48,
                     "Gargantuamouse": 0.07
                 },
                 "Warpath Cavalry": {
-                    "Sandwing Cavalry": 80.85,
-                    "Flame Ordnance": 9.71,
-                    "Magmarage": 5.94,
+                    "Sandwing Cavalry": 80.95,
+                    "Flame Ordnance": 9.72,
+                    "Magmarage": 5.95,
                     "Crimson Ranger": 0.94,
-                    "Caravan Guard": 0.84,
+                    "Caravan Guard": 0.85,
                     "Crimson Titan": 0.58,
                     "Crimson Watch": 0.58,
                     "Crimson Commander": 0.39,
                     "Gargantuamouse": 0.05
                 },
                 "Warpath Mage": {
-                    "Magmarage": 71.6,
-                    "Flame Ordnance": 12.73,
-                    "Sandwing Cavalry": 10.77,
+                    "Magmarage": 71.72,
+                    "Flame Ordnance": 12.76,
+                    "Sandwing Cavalry": 10.79,
                     "Crimson Titan": 1.65,
-                    "Crimson Watch": 0.99,
+                    "Crimson Watch": 1,
                     "Crimson Ranger": 0.97,
                     "Caravan Guard": 0.78,
                     "Crimson Commander": 0.34
                 },
                 "Warpath Scout": {
-                    "Crimson Watch": 76.48,
-                    "Sandwing Cavalry": 8.95,
+                    "Crimson Watch": 76.62,
+                    "Sandwing Cavalry": 8.96,
                     "Magmarage": 4.35,
                     "Flame Ordnance": 3.71,
-                    "Crimson Ranger": 2.84,
-                    "Crimson Titan": 1.96,
-                    "Caravan Guard": 1,
+                    "Crimson Ranger": 2.85,
+                    "Crimson Titan": 1.97,
+                    "Caravan Guard": 1.01,
                     "Crimson Commander": 0.41,
                     "Gargantuamouse": 0.12
                 },
                 "Warpath Warrior": {
-                    "Crimson Titan": 76.5,
-                    "Sandwing Cavalry": 8.65,
+                    "Crimson Titan": 76.63,
+                    "Sandwing Cavalry": 8.66,
                     "Magmarage": 3.97,
-                    "Flame Ordnance": 3.38,
-                    "Crimson Ranger": 3.09,
-                    "Crimson Watch": 2.79,
+                    "Flame Ordnance": 3.39,
+                    "Crimson Ranger": 3.1,
+                    "Crimson Watch": 2.8,
                     "Caravan Guard": 0.92,
                     "Crimson Commander": 0.42,
                     "Gargantuamouse": 0.11
@@ -2331,12 +1901,11 @@
             },
             "Moon": {
                 "-": {
-                    "Lycan": 46.86,
-                    "Scavenger": 21.97,
-                    "Sorcerer": 12.89,
-                    "Ghost": 11.42,
-                    "Vampire": 5.86,
-                    "Realm Ripper": 1
+                    "Lycan": 47.06,
+                    "Scavenger": 22.17,
+                    "Sorcerer": 13.09,
+                    "Ghost": 11.62,
+                    "Vampire": 6.06
                 }
             },
             "Radioactive Blue": {
@@ -2345,7 +1914,7 @@
                     "Mutated Grey": 22.89,
                     "Ghost": 17.12,
                     "Mutated Brown": 12.53,
-                    "Realm Ripper": 1,
+                    "Realm Ripper": 10.15,
                     "Zombie": 8.32,
                     "Ravenous Zombie": 3.49,
                     "Lycan": 1.76,
@@ -2729,6 +2298,25 @@
                     "Wandering Monk": 3.02,
                     "Militant Samurai": 2.05,
                     "Enlightened Labourer": 2.03
+                }
+            }
+        },
+        "Combined": {
+            "Magical String": {
+                "-": {
+                    "Dumpling Delivery": 16.71,
+                    "Shinobi": 16.65,
+                    "Armored Archer": 15.67,
+                    "Raw Diamond": 7.83,
+                    "Wealth": 7.43,
+                    "Shaolin Kung Fu": 6.2,
+                    "Wandering Monk": 5.58,
+                    "Militant Samurai": 5.08,
+                    "Student of the Chi Claw": 4.88,
+                    "Student of the Chi Fang": 4.58,
+                    "Student of the Chi Belt": 4.44,
+                    "Enlightened Labourer": 3.5,
+                    "Dancing Assassin": 1.47
                 }
             }
         }
@@ -5167,14 +4755,14 @@
                     "Vampire": 5.23
                 },
                 "Super Brain": {
-                    "Ravenous Zombie": 3.06,
-                    "Zombie": 2.7,
-                    "Zombot Unipire": 2.13,
-                    "Mummy": 1.94,
-                    "Ghost": 1.92,
-                    "Gluttonous Zombie": 1.01,
-                    "Grave Robber": 0.87,
-                    "Vampire": 0.75
+                    "Ravenous Zombie": 21.27,
+                    "Zombie": 18.79,
+                    "Zombot Unipire": 14.8,
+                    "Mummy": 13.52,
+                    "Ghost": 13.32,
+                    "Gluttonous Zombie": 7.02,
+                    "Grave Robber": 6.07,
+                    "Vampire": 5.21
                 }
             }
         }
@@ -5268,15 +4856,15 @@
             },
             "SB+": {
                 "-": {
-                    "Conjurer": 17.53,
-                    "Conqueror": 17.19,
-                    "Finder": 16.48,
-                    "Beast Tamer": 16.43,
-                    "Alnilam": 16.31,
-                    "Caretaker": 4.5,
-                    "Pathfinder": 4.46,
-                    "Narrator": 4.34,
-                    "Black Widow": 0.74
+                    "Conjurer": 17.89,
+                    "Conqueror": 17.55,
+                    "Finder": 16.82,
+                    "Beast Tamer": 16.77,
+                    "Alnilam": 16.64,
+                    "Caretaker": 4.59,
+                    "Pathfinder": 4.56,
+                    "Narrator": 4.43,
+                    "Black Widow": 0.76
                 }
             },
             "Gouda": {
@@ -6145,12 +5733,12 @@
         "Lost Ruins": {
             "SB+": {
                 "-": {
-                    "Mershark": 17.62,
-                    "Octomermaid": 17.59,
-                    "Angler": 16.84,
-                    "Old One": 16.5,
-                    "Urchin King": 14.87,
-                    "Betta": 14.82
+                    "Mershark": 17.93,
+                    "Octomermaid": 17.9,
+                    "Angler": 17.14,
+                    "Old One": 16.8,
+                    "Urchin King": 15.14,
+                    "Betta": 15.09
                 }
             },
             "Gouda": {
@@ -7751,6 +7339,11 @@
             }
         },
         "High/High/High": {
+            "Lactrodectus Lancashire": {
+                "-": {
+                    "Monstrous Black Widow": 100
+                }
+            },
             "Magical String/Brie String/Swiss String/Marble String": {
                 "-": {
                     "Tri-dra": 33.33,
@@ -7997,11 +7590,11 @@
             },
             "SB+/Gouda": {
                 "-": {
-                    "Summoning Scholar": 27.22,
-                    "Sanguinarian": 26.95,
-                    "Shadow Stalker": 19.08,
-                    "Reanimated Carver": 15.69,
-                    "Ethereal Guardian": 6.78
+                    "Summoning Scholar": 28.43,
+                    "Sanguinarian": 28.15,
+                    "Shadow Stalker": 19.94,
+                    "Reanimated Carver": 16.4,
+                    "Ethereal Guardian": 7.08
                 }
             }
         },
@@ -8377,10 +7970,10 @@
         "Technic Bishops": {
             "SB+": {
                 "-": {
-                    "Technic Bishop": 45.4,
-                    "Technic Knight": 30.75,
-                    "Mystic Pawn": 23.84,
-                    "Technic Pawn": 11.76
+                    "Technic Bishop": 40.62,
+                    "Technic Knight": 27.52,
+                    "Mystic Pawn": 21.33,
+                    "Technic Pawn": 10.53
                 }
             },
             "Gouda": {
@@ -8395,10 +7988,10 @@
         "Mystic Bishops": {
             "SB+": {
                 "-": {
-                    "Mystic Bishop": 44.4,
-                    "Mystic Knight": 31.47,
-                    "Technic Pawn": 24.12,
-                    "Mystic Pawn": 11.83
+                    "Mystic Bishop": 39.7,
+                    "Mystic Knight": 28.14,
+                    "Technic Pawn": 21.57,
+                    "Mystic Pawn": 10.58
                 }
             },
             "Gouda": {
@@ -8413,11 +8006,11 @@
         "Technic Rooks": {
             "SB+": {
                 "-": {
-                    "Technic Rook": 43.84,
-                    "Technic Bishop": 27.23,
-                    "Mystic Pawn": 19.48,
-                    "Technic Knight": 9.45,
-                    "Technic Pawn": 8.83
+                    "Technic Rook": 40.28,
+                    "Technic Bishop": 25.02,
+                    "Mystic Pawn": 17.9,
+                    "Technic Knight": 8.69,
+                    "Technic Pawn": 8.11
                 }
             },
             "Gouda": {
@@ -8433,44 +8026,44 @@
         "Mystic Rooks": {
             "SB+": {
                 "-": {
-                    "Mystic Rook": 40.25,
-                    "Mystic Bishop": 25.26,
+                    "Mystic Rook": 40.24,
+                    "Mystic Bishop": 25.25,
                     "Technic Pawn": 17.72,
-                    "Mystic Knight": 8.62,
-                    "Mystic Pawn": 8.18
+                    "Mystic Knight": 8.61,
+                    "Mystic Pawn": 8.17
                 }
             },
             "Gouda": {
                 "-": {
-                    "Mystic Rook": 41.85,
-                    "Mystic Bishop": 25.69,
-                    "Technic Pawn": 17.82,
-                    "Mystic Knight": 8.8,
-                    "Mystic Pawn": 8.52
+                    "Mystic Rook": 40.76,
+                    "Mystic Bishop": 25.02,
+                    "Technic Pawn": 17.35,
+                    "Mystic Knight": 8.57,
+                    "Mystic Pawn": 8.3
                 }
             }
         },
         "Technic Queen": {
             "Checkmate": {
                 "-": {
-                    "Technic Queen": 31.13,
-                    "Mystic Pawn": 19.33,
-                    "Technic Rook": 16.8,
-                    "Technic Bishop": 14.55,
-                    "Technic Knight": 12.36,
-                    "Mystic Knight": 5.83,
-                    "Technic Pawn": 1.6
+                    "Technic Queen": 30.64,
+                    "Mystic Pawn": 19.02,
+                    "Technic Rook": 16.54,
+                    "Technic Bishop": 14.32,
+                    "Technic Knight": 12.16,
+                    "Mystic Knight": 5.74,
+                    "Technic Pawn": 1.57
                 }
             },
             "SB+": {
                 "-": {
-                    "Technic Queen": 26.37,
-                    "Mystic Pawn": 19.07,
-                    "Technic Rook": 18.57,
-                    "Technic Bishop": 18.33,
-                    "Technic Knight": 11.04,
-                    "Mystic Knight": 6.62,
-                    "Technic Pawn": 1.85
+                    "Technic Queen": 25.89,
+                    "Mystic Pawn": 18.72,
+                    "Technic Rook": 18.23,
+                    "Technic Bishop": 18,
+                    "Technic Knight": 10.84,
+                    "Mystic Knight": 6.5,
+                    "Technic Pawn": 1.81
                 }
             },
             "Gouda": {
@@ -8488,35 +8081,35 @@
         "Mystic Queen": {
             "Checkmate": {
                 "-": {
-                    "Mystic Queen": 29.61,
-                    "Technic Pawn": 19.79,
-                    "Mystic Rook": 17.07,
-                    "Mystic Bishop": 15.36,
-                    "Mystic Knight": 13.94,
-                    "Technic Knight": 3.89,
-                    "Mystic Pawn": 1.94
+                    "Mystic Queen": 29.14,
+                    "Technic Pawn": 19.48,
+                    "Mystic Rook": 16.81,
+                    "Mystic Bishop": 15.12,
+                    "Mystic Knight": 13.72,
+                    "Technic Knight": 3.83,
+                    "Mystic Pawn": 1.91
                 }
             },
             "SB+": {
                 "-": {
-                    "Mystic Queen": 26.7,
-                    "Mystic Rook": 18.2,
-                    "Mystic Bishop": 17.87,
-                    "Technic Pawn": 17.13,
-                    "Mystic Knight": 10.91,
-                    "Technic Knight": 5.61,
-                    "Mystic Pawn": 2.02
+                    "Mystic Queen": 27.12,
+                    "Mystic Rook": 18.49,
+                    "Mystic Bishop": 18.15,
+                    "Technic Pawn": 17.4,
+                    "Mystic Knight": 11.08,
+                    "Technic Knight": 5.7,
+                    "Mystic Pawn": 2.05
                 }
             },
             "Gouda": {
                 "-": {
-                    "Mystic Queen": 27.25,
-                    "Mystic Rook": 27.25,
-                    "Technic Pawn": 19.1,
-                    "Mystic Bishop": 17.91,
-                    "Mystic Knight": 17.74,
-                    "Technic Knight": 11.16,
-                    "Mystic Pawn": 1.92
+                    "Mystic Queen": 26.99,
+                    "Mystic Rook": 18.92,
+                    "Technic Pawn": 17.74,
+                    "Mystic Bishop": 17.57,
+                    "Mystic Knight": 11.06,
+                    "Technic Knight": 5.81,
+                    "Mystic Pawn": 1.91
                 }
             }
         },
@@ -8534,14 +8127,14 @@
             },
             "SB+": {
                 "-": {
-                    "Mystic Pawn": 19.51,
-                    "Technic Rook": 18.21,
-                    "Technic Queen": 17.84,
-                    "Technic Bishop": 17.28,
-                    "Technic Knight": 13.25,
-                    "Technic King": 10.61,
-                    "Technic Pawn": 3.29,
-                    "Mystic Knight": 0.93
+                    "Mystic Pawn": 19.33,
+                    "Technic Rook": 18.04,
+                    "Technic Queen": 17.68,
+                    "Technic Bishop": 17.13,
+                    "Technic Knight": 13.13,
+                    "Technic King": 10.51,
+                    "Technic Pawn": 3.26,
+                    "Mystic Knight": 0.92
                 }
             },
             "Gouda": {
@@ -8560,38 +8153,38 @@
         "Mystic King": {
             "Checkmate": {
                 "-": {
-                    "Mystic King": 36.61,
-                    "Technic Pawn": 30.92,
-                    "Mystic Rook": 13.27,
-                    "Mystic Bishop": 12.44,
-                    "Mystic Queen": 12.29,
-                    "Mystic Knight": 9.23,
-                    "Technic Knight": 8.46,
-                    "Mystic Pawn": 3.24
+                    "Mystic King": 28.95,
+                    "Technic Pawn": 24.45,
+                    "Mystic Rook": 10.49,
+                    "Mystic Bishop": 9.84,
+                    "Mystic Queen": 9.72,
+                    "Mystic Knight": 7.3,
+                    "Technic Knight": 6.69,
+                    "Mystic Pawn": 2.56
                 }
             },
             "SB+": {
                 "-": {
-                    "Mystic Queen": 25.12,
-                    "Mystic Bishop": 22.98,
-                    "Technic Pawn": 22.61,
-                    "Mystic Rook": 21.55,
-                    "Mystic Knight": 18.03,
-                    "Mystic King": 12.7,
-                    "Technic Knight": 8.94,
-                    "Mystic Pawn": 5.7
+                    "Mystic Queen": 18.25,
+                    "Mystic Bishop": 16.7,
+                    "Technic Pawn": 16.43,
+                    "Mystic Rook": 15.66,
+                    "Mystic Knight": 13.1,
+                    "Mystic King": 9.23,
+                    "Technic Knight": 6.5,
+                    "Mystic Pawn": 4.14
                 }
             },
             "Gouda": {
                 "-": {
-                    "Mystic Bishop": 23.8,
-                    "Mystic Rook": 23.46,
-                    "Mystic Queen": 23.4,
-                    "Technic Pawn": 21.14,
-                    "Mystic Knight": 16.24,
-                    "Mystic King": 14.51,
-                    "Technic Knight": 9.26,
-                    "Mystic Pawn": 5.67
+                    "Mystic Bishop": 17.31,
+                    "Mystic Rook": 17.07,
+                    "Mystic Queen": 17.02,
+                    "Technic Pawn": 15.38,
+                    "Mystic Knight": 11.82,
+                    "Mystic King": 10.55,
+                    "Technic Knight": 6.73,
+                    "Mystic Pawn": 4.12
                 }
             }
         },
@@ -8620,12 +8213,12 @@
             "SB+": {
                 "-": {
                     "Cloud Collector": 21.98,
-                    "Windy Farmer": 21.41,
-                    "Rainwater Purifier": 19.34,
-                    "Breeze Borrower": 17.67,
-                    "Nightshade Maiden": 9.09,
-                    "Nightshade Flower Girl": 7.24,
-                    "Spore Salesman": 3.21
+                    "Windy Farmer": 21.42,
+                    "Rainwater Purifier": 19.35,
+                    "Breeze Borrower": 17.68,
+                    "Nightshade Maiden": 9.1,
+                    "Nightshade Flower Girl": 7.25,
+                    "Spore Salesman": 3.22
                 }
             },
             "Brie": {
@@ -8640,11 +8233,11 @@
             },
             "Glowing Gruyere": {
                 "-": {
-                    "Rainwater Purifier": 30.4,
-                    "Breeze Borrower": 28.38,
-                    "Cloud Collector": 16.06,
-                    "Windy Farmer": 15.62,
-                    "Homeopathic Apothecary": 9.48
+                    "Rainwater Purifier": 30.41,
+                    "Breeze Borrower": 28.39,
+                    "Cloud Collector": 16.07,
+                    "Windy Farmer": 15.63,
+                    "Homeopathic Apothecary": 9.5
                 }
             },
             "Gouda": {
@@ -8749,6 +8342,642 @@
             "Dragonvine": {
                 "-": {
                     "Ful'Mina": 100
+                }
+            }
+        }
+    },
+    "Bristle Woods Rift": {
+        "Acolyte": {
+            "Runic String": {
+                "-": {
+                    "Dread Knight": 23.78,
+                    "Skeletal Champion": 23.13,
+                    "Vigilant Ward": 8.84,
+                    "Absolute Acolyte": 8.59,
+                    "Portal Paladin": 8.21,
+                    "Timelost Thaumaturge": 6.09,
+                    "Timeslither Pythoness": 5.3,
+                    "Shackled Servant": 5.2,
+                    "Carrion Medium": 3.79,
+                    "Harbinger of Death": 3.69,
+                    "Timeless Lich": 2.59,
+                    "Chronomaster": 0.56,
+                    "Portal Pursuer": 0.23
+                },
+                "Rift Antiskele": {
+                    "Dread Knight": 33.1,
+                    "Vigilant Ward": 12.59,
+                    "Absolute Acolyte": 11.08,
+                    "Timelost Thaumaturge": 9.43,
+                    "Timeslither Pythoness": 7.41,
+                    "Shackled Servant": 6.65,
+                    "Portal Paladin": 5.7,
+                    "Harbinger of Death": 5.19,
+                    "Carrion Medium": 5.06,
+                    "Timeless Lich": 2.85,
+                    "Chronomaster": 0.7,
+                    "Portal Pursuer": 0.25
+                }
+            }
+        },
+        "Ancient Lab": {
+            "Runic String": {
+                "-": {
+                    "Epoch Golem": 33.51,
+                    "Chamber Cleaver": 26.18,
+                    "Portal Plunderer": 14.26,
+                    "Dread Knight": 12.46,
+                    "Skeletal Champion": 5.46,
+                    "Portal Paladin": 3.06,
+                    "Clockwork Timespinner": 1.93,
+                    "Record Keeper": 1.33,
+                    "Record Keeper's Assistant": 1,
+                    "Sentient Slime": 0.6,
+                    "Portal Pursuer": 0.2
+                }
+            },
+            "Ancient String": {
+                "-": {
+                    "Epoch Golem": 45.2,
+                    "Portal Plunderer": 22.42,
+                    "Dread Knight": 9.13,
+                    "Portal Paladin": 5.58,
+                    "Skeletal Champion": 5.34,
+                    "Record Keeper": 4.63,
+                    "Clockwork Timespinner": 4.63,
+                    "Record Keeper's Assistant": 1.3,
+                    "Sentient Slime": 1.07,
+                    "Portal Pursuer": 0.71
+                }
+            },
+            "Magical String": {
+                "-": {
+                    "Epoch Golem": 39.93,
+                    "Portal Plunderer": 21.22,
+                    "Clockwork Timespinner": 13.21,
+                    "Portal Paladin": 5.64,
+                    "Record Keeper's Assistant": 5.3,
+                    "Record Keeper": 4.92,
+                    "Sentient Slime": 4.92,
+                    "Skeletal Champion": 4.86
+                }
+            },
+            "Brie String": {
+                "-": {
+                    "Clockwork Timespinner": 40.66,
+                    "Portal Plunderer": 37.12,
+                    "Skeletal Champion": 5.29,
+                    "Record Keeper": 5.11,
+                    "Portal Paladin": 5.09,
+                    "Epoch Golem": 4.25,
+                    "Dread Knight": 1.05,
+                    "Sentient Slime": 0.52,
+                    "Record Keeper's Assistant": 0.46,
+                    "Portal Pursuer": 0.44
+                },
+                "Rift Antiskele": {
+                    "Clockwork Timespinner": 44.1,
+                    "Portal Plunderer": 41.05,
+                    "Record Keeper": 6.55,
+                    "Epoch Golem": 3.06,
+                    "Portal Paladin": 2.62,
+                    "Dread Knight": 1.31,
+                    "Sentient Slime": 0.87,
+                    "Record Keeper's Assistant": 0.44
+                }
+            },
+            "Swiss String": {
+                "-": {
+                    "Portal Plunderer": 26.36,
+                    "Clockwork Timespinner": 26.13,
+                    "Record Keeper": 16.07,
+                    "Skeletal Champion": 9.72,
+                    "Record Keeper's Assistant": 7.43,
+                    "Portal Paladin": 6.58,
+                    "Sentient Slime": 5.77,
+                    "Dread Knight": 1.77,
+                    "Portal Pursuer": 0.17
+                }
+            }
+        },
+        "Entrance": {
+            "Runic String": {
+                "-": {
+                    "Vigilant Ward": 77.91,
+                    "Portal Paladin": 10.47,
+                    "Portal Plunderer": 4.65,
+                    "Epoch Golem": 2.91,
+                    "Skeletal Champion": 2.91,
+                    "Clockwork Timespinner": 1.16
+                }
+            }
+        },
+        "Frozen Alcove": {
+            "Runic String": {
+                "-": {
+                    "Sentient Slime": 54.98,
+                    "Dread Knight": 38.18,
+                    "Portal Paladin": 6.13,
+                    "Harbinger of Death": 0.57,
+                    "Portal Pursuer": 0.15
+                }
+            },
+            "Ancient String": {
+                "-": {
+                    "Sentient Slime": 54.81,
+                    "Dread Knight": 36.3,
+                    "Portal Paladin": 8.15,
+                    "Portal Pursuer": 0.62,
+                    "Harbinger of Death": 0.12
+                }
+            },
+            "Magical String": {
+                "-": {
+                    "Sentient Slime": 80.65,
+                    "Dread Knight": 10.91,
+                    "Portal Paladin": 8.43
+                }
+            },
+            "Brie String": {
+                "-": {
+                    "Sentient Slime": 81.45,
+                    "Dread Knight": 10.18,
+                    "Portal Paladin": 6.56,
+                    "Portal Pursuer": 1.81
+                }
+            }
+        },
+        "Gearworks": {
+            "Runic String": {
+                "-": {
+                    "Dread Knight": 37.33,
+                    "Chamber Cleaver": 26.35,
+                    "Portal Plunderer": 10.65,
+                    "Skeletal Champion": 9.25,
+                    "Portal Paladin": 5.46,
+                    "Clockwork Timespinner": 3.86,
+                    "Sentient Slime": 3.26,
+                    "Record Keeper": 1.93,
+                    "Record Keeper's Assistant": 1,
+                    "Timelost Thaumaturge": 0.4,
+                    "Portal Pursuer": 0.27,
+                    "Vigilant Ward": 0.13,
+                    "Harbinger of Death": 0.07,
+                    "Shackled Servant": 0.07
+                }
+            },
+            "Ancient String": {
+                "-": {
+                    "Dread Knight": 37.09,
+                    "Portal Plunderer": 14.54,
+                    "Sentient Slime": 9.5,
+                    "Record Keeper's Assistant": 9.5,
+                    "Clockwork Timespinner": 9.5,
+                    "Record Keeper": 6.53,
+                    "Skeletal Champion": 6.53,
+                    "Portal Paladin": 4.75,
+                    "Portal Pursuer": 2.08
+                }
+            },
+            "Magical String": {
+                "-": {
+                    "Record Keeper's Assistant": 20.07,
+                    "Record Keeper": 17.77,
+                    "Dread Knight": 16.72,
+                    "Sentient Slime": 14.82,
+                    "Skeletal Champion": 9.51,
+                    "Portal Paladin": 8.46,
+                    "Clockwork Timespinner": 4.79,
+                    "Epoch Golem": 4,
+                    "Portal Plunderer": 3.87
+                }
+            },
+            "Brie String": {
+                "-": {
+                    "Record Keeper's Assistant": 22.92,
+                    "Dread Knight": 16.47,
+                    "Record Keeper": 15.02,
+                    "Sentient Slime": 13.23,
+                    "Skeletal Champion": 11.69,
+                    "Clockwork Timespinner": 7.72,
+                    "Portal Paladin": 7.27,
+                    "Portal Plunderer": 5.41,
+                    "Portal Pursuer": 0.28
+                }
+            },
+            "Swiss String": {
+                "-": {
+                    "Sentient Slime": 23.21,
+                    "Record Keeper's Assistant": 20.24,
+                    "Record Keeper": 17.46,
+                    "Skeletal Champion": 14.29,
+                    "Dread Knight": 8.73,
+                    "Portal Paladin": 7.94,
+                    "Clockwork Timespinner": 5.36,
+                    "Portal Plunderer": 2.78
+                }
+            }
+        },
+        "Guard Barracks": {
+            "Runic String": {
+                "-": {
+                    "Portal Paladin": 66.09,
+                    "Dread Knight": 17.46,
+                    "Epoch Golem": 13.39,
+                    "Clockwork Timespinner": 1.92,
+                    "Sentient Slime": 1.07,
+                    "Portal Pursuer": 0.07
+                }
+            },
+            "Ancient String": {
+                "-": {
+                    "Portal Paladin": 57.33,
+                    "Dread Knight": 14.97,
+                    "Sentient Slime": 12.01,
+                    "Epoch Golem": 9.29,
+                    "Clockwork Timespinner": 5.84,
+                    "Portal Pursuer": 0.56
+                }
+            },
+            "Magical String": {
+                "-": {
+                    "Portal Paladin": 45.72,
+                    "Sentient Slime": 17.26,
+                    "Clockwork Timespinner": 14.45,
+                    "Epoch Golem": 12.32,
+                    "Dread Knight": 10.25
+                }
+            },
+            "Brie String": {
+                "-": {
+                    "Portal Paladin": 39.6,
+                    "Clockwork Timespinner": 27.15,
+                    "Sentient Slime": 24.08,
+                    "Dread Knight": 8.69,
+                    "Portal Pursuer": 0.48
+                }
+            }
+        },
+        "Hidden Treasury": {
+            "Runic String": {
+                "-": {
+                    "Timeless Lich": 27.03,
+                    "Timeslither Pythoness": 27.03,
+                    "Portal Plunderer": 11.02,
+                    "Epoch Golem": 9.98,
+                    "Shackled Servant": 5.61,
+                    "Dread Knight": 5.2,
+                    "Portal Paladin": 4.78,
+                    "Skeletal Champion": 3.74,
+                    "Carrion Medium": 3.12,
+                    "Harbinger of Death": 2.49
+                }
+            },
+            "Ancient String": {
+                "-": {
+                    "Timeslither Pythoness": 25.65,
+                    "Epoch Golem": 17.28,
+                    "Timeless Lich": 16.75,
+                    "Portal Plunderer": 14.66,
+                    "Portal Paladin": 6.81,
+                    "Dread Knight": 5.76,
+                    "Carrion Medium": 4.19,
+                    "Skeletal Champion": 3.66,
+                    "Shackled Servant": 3.66,
+                    "Harbinger of Death": 1.57
+                }
+            },
+            "Magical String": {
+                "-": {
+                    "Epoch Golem": 35.33,
+                    "Timeless Lich": 13,
+                    "Timeslither Pythoness": 11.67,
+                    "Portal Plunderer": 11,
+                    "Skeletal Champion": 6.67,
+                    "Portal Paladin": 6.33,
+                    "Dread Knight": 6.33,
+                    "Carrion Medium": 4.33,
+                    "Shackled Servant": 3.67,
+                    "Harbinger of Death": 1.67
+                }
+            },
+            "Brie String": {
+                "-": {
+                    "Portal Plunderer": 35.22,
+                    "Dread Knight": 11.57,
+                    "Timeslither Pythoness": 10.26,
+                    "Timeless Lich": 9.91,
+                    "Epoch Golem": 8.87,
+                    "Carrion Medium": 6.52,
+                    "Portal Paladin": 5.39,
+                    "Shackled Servant": 4.96,
+                    "Skeletal Champion": 4.78,
+                    "Harbinger of Death": 2.17,
+                    "Portal Pursuer": 0.35
+                },
+                "Rift Antiskele": {
+                    "Portal Plunderer": 45.37,
+                    "Carrion Medium": 11.11,
+                    "Dread Knight": 8.33,
+                    "Epoch Golem": 7.41,
+                    "Portal Paladin": 7.41,
+                    "Timeslither Pythoness": 7.41,
+                    "Timeless Lich": 6.48,
+                    "Harbinger of Death": 3.7,
+                    "Shackled Servant": 2.78
+                }
+            }
+        },
+        "Ingress": {
+            "Runic String": {
+                "-": {
+                    "Sentient Slime": 20.55,
+                    "Portal Pursuer": 20,
+                    "Dread Knight": 19.31,
+                    "Clockwork Timespinner": 19.18,
+                    "Vigilant Ward": 11.13,
+                    "Shackled Servant": 8.66,
+                    "Harbinger of Death": 1.17
+                }
+            },
+            "Ancient String": {
+                "-": {
+                    "Portal Pursuer": 25.55,
+                    "Clockwork Timespinner": 19.72,
+                    "Dread Knight": 15.09,
+                    "Sentient Slime": 15.09,
+                    "Vigilant Ward": 12.07,
+                    "Shackled Servant": 11.47,
+                    "Harbinger of Death": 1.01
+                }
+            },
+            "Magical String": {
+                "-": {
+                    "Portal Pursuer": 38.48,
+                    "Clockwork Timespinner": 20,
+                    "Sentient Slime": 19.7,
+                    "Shackled Servant": 9.39,
+                    "Vigilant Ward": 7.88,
+                    "Dread Knight": 3.64,
+                    "Harbinger of Death": 0.91
+                }
+            },
+            "Brie String": {
+                "-": {
+                    "Portal Pursuer": 32.57,
+                    "Sentient Slime": 27.19,
+                    "Clockwork Timespinner": 19.05,
+                    "Vigilant Ward": 9.98,
+                    "Shackled Servant": 6.3,
+                    "Dread Knight": 3.23,
+                    "Harbinger of Death": 1.69
+                }
+            }
+        },
+        "Lucky Tower": {
+            "Runic String": {
+                "-": {
+                    "Epoch Golem": 24.84,
+                    "Portal Plunderer": 14.68,
+                    "Clockwork Timespinner": 12.9,
+                    "Dread Knight": 10.97,
+                    "Record Keeper": 10.65,
+                    "Record Keeper's Assistant": 10.65,
+                    "Skeletal Champion": 5.65,
+                    "Portal Paladin": 4.19,
+                    "Sentient Slime": 3.23,
+                    "Harbinger of Death": 2.1,
+                    "Portal Pursuer": 0.16
+                }
+            },
+            "Ancient String": {
+                "-": {
+                    "Epoch Golem": 26.27,
+                    "Portal Plunderer": 17.09,
+                    "Clockwork Timespinner": 14.87,
+                    "Dread Knight": 9.49,
+                    "Record Keeper": 8.23,
+                    "Portal Paladin": 7.91,
+                    "Record Keeper's Assistant": 6.96,
+                    "Sentient Slime": 3.8,
+                    "Skeletal Champion": 3.8,
+                    "Harbinger of Death": 1.58
+                }
+            },
+            "Magical String": {
+                "-": {
+                    "Epoch Golem": 23.4,
+                    "Clockwork Timespinner": 17.18,
+                    "Portal Plunderer": 12.63,
+                    "Record Keeper's Assistant": 10.97,
+                    "Record Keeper": 10.35,
+                    "Dread Knight": 9.94,
+                    "Skeletal Champion": 4.97,
+                    "Sentient Slime": 4.35,
+                    "Portal Paladin": 4.14,
+                    "Harbinger of Death": 2.07
+                }
+            },
+            "Brie String": {
+                "-": {
+                    "Portal Plunderer": 20.73,
+                    "Clockwork Timespinner": 20.03,
+                    "Sentient Slime": 11.01,
+                    "Record Keeper": 10.62,
+                    "Record Keeper's Assistant": 10.5,
+                    "Dread Knight": 10.43,
+                    "Skeletal Champion": 5.8,
+                    "Epoch Golem": 5.47,
+                    "Portal Paladin": 3.73,
+                    "Harbinger of Death": 1.29,
+                    "Portal Pursuer": 0.39
+                },
+                "Rift Antiskele": {
+                    "Clockwork Timespinner": 24.64,
+                    "Portal Plunderer": 20.29,
+                    "Record Keeper": 13.04,
+                    "Dread Knight": 11.59,
+                    "Record Keeper's Assistant": 11.59,
+                    "Sentient Slime": 8.7,
+                    "Epoch Golem": 7.97,
+                    "Portal Paladin": 1.45,
+                    "Harbinger of Death": 0.72
+                }
+            }
+        },
+        "Runic Laboratory": {
+            "Runic String": {
+                "-": {
+                    "Timelost Thaumaturge": 29.52,
+                    "Chamber Cleaver": 15.49,
+                    "Shackled Servant": 15.3,
+                    "Timeslither Pythoness": 11.84,
+                    "Dread Knight": 10.69,
+                    "Vigilant Ward": 6.5,
+                    "Skeletal Champion": 4.25,
+                    "Portal Paladin": 3.97,
+                    "Harbinger of Death": 1.86,
+                    "Sentient Slime": 0.36,
+                    "Portal Pursuer": 0.22
+                }
+            },
+            "Ancient String": {
+                "-": {
+                    "Timelost Thaumaturge": 25.94,
+                    "Vigilant Ward": 20.89,
+                    "Shackled Servant": 20.18,
+                    "Timeslither Pythoness": 10.4,
+                    "Sentient Slime": 9.54,
+                    "Portal Paladin": 5.53,
+                    "Skeletal Champion": 4.96,
+                    "Harbinger of Death": 2.18,
+                    "Portal Pursuer": 0.37
+                },
+                "Rift Antiskele": {
+                    "Timelost Thaumaturge": 33.23,
+                    "Shackled Servant": 19.82,
+                    "Vigilant Ward": 18.6,
+                    "Timeslither Pythoness": 11.28,
+                    "Sentient Slime": 8.84,
+                    "Portal Paladin": 4.27,
+                    "Harbinger of Death": 3.35,
+                    "Portal Pursuer": 0.61
+                }
+            },
+            "Magical String": {
+                "-": {
+                    "Sentient Slime": 41.16,
+                    "Dread Knight": 18.33,
+                    "Shackled Servant": 16.4,
+                    "Skeletal Champion": 7.07,
+                    "Vigilant Ward": 7.07,
+                    "Portal Paladin": 4.18,
+                    "Harbinger of Death": 4.18,
+                    "Timelost Thaumaturge": 1.61
+                }
+            },
+            "Brie String": {
+                "-": {
+                    "Sentient Slime": 37.72,
+                    "Dread Knight": 25.81,
+                    "Vigilant Ward": 14.6,
+                    "Shackled Servant": 8.65,
+                    "Skeletal Champion": 5.26,
+                    "Portal Paladin": 4.78,
+                    "Harbinger of Death": 2.21,
+                    "Portal Pursuer": 0.97
+                }
+            },
+            "Swiss String": {
+                "-": {
+                    "Sentient Slime": 42.77,
+                    "Dread Knight": 23.27,
+                    "Vigilant Ward": 18.87,
+                    "Skeletal Champion": 5.66,
+                    "Shackled Servant": 4.4,
+                    "Harbinger of Death": 3.14,
+                    "Portal Paladin": 1.89
+                }
+            }
+        },
+        "Security": {
+            "Runic String": {
+                "-": {
+                    "Skeletal Champion": 90.3,
+                    "Timelost Thaumaturge": 7.88,
+                    "Portal Pursuer": 1.21,
+                    "Shackled Servant": 0.61
+                }
+            },
+            "Ancient String": {
+                "-": {
+                    "Skeletal Champion": 89.31,
+                    "Timelost Thaumaturge": 7.63,
+                    "Vigilant Ward": 1.53,
+                    "Shackled Servant": 1.53
+                }
+            },
+            "Brie String": {
+                "-": {
+                    "Skeletal Champion": 89.55,
+                    "Vigilant Ward": 4.53,
+                    "Timelost Thaumaturge": 2.79,
+                    "Shackled Servant": 1.74,
+                    "Portal Pursuer": 1.39
+                }
+            }
+        },
+        "Timewarp": {
+            "Runic String": {
+                "-": {
+                    "Carrion Medium": 33.74,
+                    "Chronomaster": 26.39,
+                    "Timeless Lich": 18.96,
+                    "Sentient Slime": 9.9,
+                    "Skeletal Champion": 5.41,
+                    "Portal Paladin": 5.17,
+                    "Portal Pursuer": 0.41
+                },
+                "Rift Antiskele": {
+                    "Carrion Medium": 34.18,
+                    "Chronomaster": 27.88,
+                    "Timeless Lich": 20.05,
+                    "Sentient Slime": 11.9,
+                    "Portal Paladin": 5.87,
+                    "Portal Pursuer": 0.11
+                }
+            },
+            "Ancient String": {
+                "-": {
+                    "Dread Knight": 30.66,
+                    "Sentient Slime": 28.46,
+                    "Carrion Medium": 14.83,
+                    "Timeless Lich": 14.43,
+                    "Skeletal Champion": 6.21,
+                    "Portal Paladin": 4.01,
+                    "Portal Pursuer": 1.4
+                }
+            },
+            "Magical String": {
+                "-": {
+                    "Sentient Slime": 42.42,
+                    "Dread Knight": 32.2,
+                    "Carrion Medium": 11.36,
+                    "Skeletal Champion": 5.68,
+                    "Portal Paladin": 4.55,
+                    "Timeless Lich": 3.79
+                }
+            },
+            "Brie String": {
+                "-": {
+                    "Dread Knight": 40.13,
+                    "Sentient Slime": 39.21,
+                    "Carrion Medium": 8.52,
+                    "Skeletal Champion": 5.4,
+                    "Portal Paladin": 3.63,
+                    "Timeless Lich": 2.53,
+                    "Portal Pursuer": 0.59
+                }
+            }
+        },
+        "Furnace Room": {
+            "Brie String": {
+                "-": {
+                    "Skeletal Champion": 88.83,
+                    "Portal Paladin": 3.55,
+                    "Portal Plunderer": 2.03,
+                    "Portal Pursuer": 2.03,
+                    "Clockwork Timespinner": 2.03,
+                    "Dread Knight": 1.52
+                }
+            }
+        },
+        "Pursuer Mousoleum": {
+            "Brie String": {
+                "-": {
+                    "Skeletal Champion": 83.65,
+                    "Portal Pursuer": 11.03,
+                    "Record Keeper's Assistant": 5.32
                 }
             }
         }
