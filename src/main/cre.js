@@ -328,6 +328,7 @@ function showPop(type) { //type = 2 means don't reset charms
             if (mouseName !== SAMPLE_SIZE_LABEL) {
                 var eff = findEff(mouseName);
 
+                if (!powersArray[mouseName]) console.warn('Missing power', mouseName)
                 var mousePower = powersArray[mouseName][0];
 
                 if (contains(wereMice, mouseName) && fortRox.ballistaLevel >= 1
