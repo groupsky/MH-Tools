@@ -66,6 +66,8 @@
         // Other
         "data/loot-gilded.csv",
         "data/loot-specials.csv",
+        // Events
+        "data/loot-gwh2017.csv",
     ];
 
     const _ = require("lodash")

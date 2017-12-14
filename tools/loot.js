@@ -84,6 +84,8 @@ var setups = {
   'whisker-woods-rift': require('./lootSetups/whisker-woods-rift'),
   'furoma-rift': require('./lootSetups/furoma-rift'),
   'bristle-woods-rift': require('./lootSetups/bristle-woods-rift'),
+  // Events
+  'gwh2017': require('./lootSetups/gwh2017'),
 }
 
 function convertLoot (base, loot) {

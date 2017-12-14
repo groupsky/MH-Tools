@@ -4,7 +4,8 @@
     "data/populations.csv",
     "data/pop-mopi.csv",
     "data/pop-bwrift.csv",
-    "data/pop-iceberg.csv"
+    "data/pop-iceberg.csv",
+    "data/pop-gwh2017.csv"
   ];
 
   const fs = require("fs");
