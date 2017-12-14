@@ -9217,7 +9217,878 @@
                     "-": {
                         "Digby Drillbot": {
                             "-": {
-                                "Scrap Metal": 1
+                                "Scrap Metal": 1,
+                                "SampleSize": "Phase"
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Festive Comet": {
+        "-": {
+            "Snow Scavenger": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Snow Golem Limb": 1,
+                                "SampleSize": 1616,
+                                "Super Snowball Charm": 0.055693069306930694,
+                                "Treasure Map Clue": 0.05136138613861386,
+                                "Chrome Charm": 0.023514851485148515
+                            }
+                        }
+                    }
+                }
+            },
+            "Hoarder": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Pecan Pecorino Cheese": 1.505897771952818,
+                                "SampleSize": 763,
+                                "Treasure Map Clue": 0.06684141546526867,
+                                "Super Snowball Charm": 0.04325032765399738
+                            }
+                        }
+                    }
+                }
+            },
+            "Snowblower": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Snow Golem Limb": 0.13623595505617977,
+                                "SampleSize": 712,
+                                "Treasure Map Clue": 0.10674157303370786,
+                                "Super Snowball Charm": 0.04073033707865169,
+                                "Chrome Charm": 0.02247191011235955,
+                                "Snowball Charm": 0.014044943820224719
+                            }
+                        }
+                    }
+                }
+            },
+            "Builder": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Snow Golem Limb": 1,
+                                "SampleSize": 632,
+                                "Treasure Map Clue": 0.11550632911392406,
+                                "Super Snowball Charm": 0.061708860759493674,
+                                "Chrome Charm": 0.030063291139240507
+                            }
+                        }
+                    }
+                }
+            },
+            "Snow Golem Architect": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Snow Golem Limb": 2,
+                                "SampleSize": 429,
+                                "Snow Golem Torso": 0.6410256410256411,
+                                "Snow Golem Head": 0.634032634032634,
+                                "Treasure Map Clue": 0.17016317016317017,
+                                "Chrome Charm": 0.037296037296037296,
+                                "Ful'Mina's Gift": 0.016317016317016316,
+                                "Snowball Charm": 0.016317016317016316
+                            }
+                        }
+                    }
+                }
+            },
+            "Snow Fort": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Snowball Charm": 1.0026315789473683,
+                                "SampleSize": 380,
+                                "Treasure Map Clue": 0.15526315789473685,
+                                "Super Snowball Charm": 0.04736842105263158,
+                                "Chrome Charm": 0.02894736842105263
+                            }
+                        }
+                    }
+                }
+            },
+            "Joy": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Pecan Pecorino Cheese": 2,
+                                "SampleSize": 406,
+                                "Winter Charm": 1,
+                                "Super Snowball Charm": 0.0665024630541872,
+                                "Chrome Charm": 0.029556650246305417,
+                                "Treasure Map Clue": 0.017241379310344827
+                            }
+                        }
+                    }
+                }
+            },
+            "Reinbo": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Snowball Charm": 0.9136125654450262,
+                                "SampleSize": 382,
+                                "Treasure Map Clue": 0.20157068062827224,
+                                "Super Snowball Charm": 0.1544502617801047,
+                                "Ful'Mina's Gift": 0.010471204188481676,
+                                "Chrome Charm": 0.010471204188481676
+                            }
+                        }
+                    }
+                }
+            },
+            "Nice Knitting": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Snow Golem Head": 1,
+                                "SampleSize": 370,
+                                "Treasure Map Clue": 0.2,
+                                "Super Snowball Charm": 0.04054054054054054,
+                                "Chrome Charm": 0.03513513513513514,
+                                "Snowball Charm": 0.016216216216216217,
+                                "Ful'Mina's Gift": 0.010810810810810811
+                            }
+                        }
+                    }
+                }
+            },
+            "Snowglobe": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Treasure Map Clue": 0.16470588235294117,
+                                "SampleSize": 340,
+                                "Super Snowball Charm": 0.03529411764705882,
+                                "Chrome Charm": 0.023529411764705882,
+                                "Ful'Mina's Gift": 0.01764705882352941
+                            }
+                        }
+                    }
+                }
+            },
+            "Slay Ride": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Winter Charm": 0.3279742765273312,
+                                "SampleSize": 311,
+                                "Super Snowball Charm": 0.03536977491961415,
+                                "Treasure Map Clue": 0.022508038585209004,
+                                "Snowball Charm": 0.01929260450160772,
+                                "Chrome Charm": 0.01607717041800643
+                            }
+                        }
+                    }
+                }
+            },
+            "Snow Golem Jockey": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Snow Golem Torso": 1,
+                                "SampleSize": 304,
+                                "Treasure Map Clue": 0.19736842105263158,
+                                "Super Snowball Charm": 0.049342105263157895,
+                                "Chrome Charm": 0.04276315789473684,
+                                "2017 Charm": 0.019736842105263157,
+                                "Snowball Charm": 0.01644736842105263
+                            }
+                        }
+                    }
+                }
+            },
+            "Elf": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Orange Winter Hunt Gift Box": 0.9427609427609428,
+                                "SampleSize": 297,
+                                "Treasure Map Clue": 0.18518518518518517,
+                                "Super Snowball Charm": 0.05387205387205387,
+                                "Chrome Charm": 0.03367003367003367,
+                                "Green Winter Hunt Gift Box": 0.030303030303030304,
+                                "Purple Winter Hunt Gift Box": 0.02356902356902357,
+                                "Snowball Charm": 0.013468013468013467
+                            }
+                        }
+                    }
+                }
+            },
+            "Snow Boulder": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Winter Charm": 1,
+                                "SampleSize": 272,
+                                "Pecan Pecorino Cheese": 0.3786764705882353,
+                                "Treasure Map Clue": 0.17279411764705882,
+                                "Super Snowball Charm": 0.0625,
+                                "Chrome Charm": 0.03308823529411765
+                            }
+                        }
+                    }
+                }
+            },
+            "Great Winter Hunt Impostor": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Winter Charm": 0.3230769230769231,
+                                "SampleSize": 260,
+                                "Super Snowball Charm": 0.057692307692307696,
+                                "Chrome Charm": 0.015384615384615385,
+                                "Treasure Map Clue": 0.011538461538461539
+                            }
+                        }
+                    }
+                }
+            },
+            "Snowflake": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Pecan Pecorino Cheese": 2,
+                                "SampleSize": 246,
+                                "Let it Snow Charm": 1,
+                                "Treasure Map Clue": 0.3048780487804878,
+                                "Chrome Charm": 0.012195121951219513
+                            }
+                        }
+                    }
+                }
+            },
+            "Gingerbread": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Pecan Pecorino Cheese": 0.36929460580912865,
+                                "SampleSize": 241,
+                                "Super Snowball Charm": 0.04979253112033195,
+                                "2017 Charm": 0.012448132780082987,
+                                "Snowball Charm": 0.012448132780082987
+                            }
+                        }
+                    }
+                }
+            },
+            "Toboggan Technician": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Pecan Pecorino Cheese": 1,
+                                "SampleSize": 227,
+                                "Winter Charm": 1,
+                                "Treasure Map Clue": 0.18061674008810572,
+                                "Super Snowball Charm": 0.039647577092511016,
+                                "Chrome Charm": 0.013215859030837005
+                            }
+                        }
+                    }
+                }
+            },
+            "Missile Toe": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Pecan Pecorino Cheese": 0.583710407239819,
+                                "SampleSize": 221,
+                                "Super Snowball Charm": 0.04072398190045249
+                            }
+                        }
+                    }
+                }
+            },
+            "Snowball Hoarder": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Pecan Pecorino Cheese": 1,
+                                "SampleSize": 218,
+                                "Super Snowball Charm": 0.027522935779816515,
+                                "Snowball Charm": 0.013761467889908258,
+                                "Chrome Charm": 0.013761467889908258
+                            }
+                        }
+                    }
+                }
+            },
+            "Frigid Foreman": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Snow Golem Torso": 1,
+                                "SampleSize": 217,
+                                "Treasure Map Clue": 0.23963133640552994,
+                                "Super Snowball Charm": 0.03225806451612903,
+                                "Chrome Charm": 0.027649769585253458
+                            }
+                        }
+                    }
+                }
+            },
+            "Wreath Thief": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Pecan Pecorino Cheese": 0.6285714285714286,
+                                "SampleSize": 210,
+                                "Super Snowball Charm": 0.03333333333333333,
+                                "Chrome Charm": 0.02857142857142857
+                            }
+                        }
+                    }
+                }
+            },
+            "Toy Tinkerer": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Pecan Pecorino Cheese": 0.6197183098591549,
+                                "SampleSize": 213,
+                                "Super Snowball Charm": 0.06572769953051644,
+                                "Chrome Charm": 0.014084507042253521
+                            }
+                        }
+                    }
+                }
+            },
+            "S.N.O.W. Golem": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Snow Golem Limb": 1,
+                                "SampleSize": 213,
+                                "Snowball Charm": 0.9765258215962441,
+                                "Super Snowball Charm": 0.07981220657276995,
+                                "Chrome Charm": 0.018779342723004695,
+                                "Treasure Map Clue": 0.014084507042253521
+                            }
+                        }
+                    }
+                }
+            },
+            "Ribbon": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Pecan Pecorino Cheese": 0.5679611650485437,
+                                "SampleSize": 206,
+                                "Super Snowball Charm": 0.05825242718446602,
+                                "Chrome Charm": 0.024271844660194174
+                            }
+                        }
+                    }
+                }
+            },
+            "Free Skiing": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Snow Golem Head": 1,
+                                "SampleSize": 203,
+                                "Treasure Map Clue": 0.2955665024630542,
+                                "Super Snowball Charm": 0.06896551724137931,
+                                "Chrome Charm": 0.034482758620689655
+                            }
+                        }
+                    }
+                }
+            },
+            "Destructoy": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Pecan Pecorino Cheese": 0.6039603960396039,
+                                "SampleSize": 202,
+                                "Super Snowball Charm": 0.054455445544554455,
+                                "Chrome Charm": 0.019801980198019802
+                            }
+                        }
+                    }
+                }
+            },
+            "Miser": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Pecan Pecorino Cheese": 0.1407035175879397,
+                                "SampleSize": 199,
+                                "Super Snowball Charm": 0.05527638190954774,
+                                "Chrome Charm": 0.035175879396984924
+                            }
+                        }
+                    }
+                }
+            },
+            "Triple Lutz": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Pecan Pecorino Cheese": 0.5858585858585859,
+                                "SampleSize": 198,
+                                "Super Snowball Charm": 0.03535353535353535,
+                                "Snowball Charm": 0.015151515151515152,
+                                "Chrome Charm": 0.015151515151515152
+                            }
+                        }
+                    }
+                }
+            },
+            "Ridiculous Sweater": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Pecan Pecorino Cheese": 0.37755102040816324,
+                                "SampleSize": 196,
+                                "Super Snowball Charm": 0.061224489795918366,
+                                "Chrome Charm": 0.025510204081632654
+                            }
+                        }
+                    }
+                }
+            },
+            "Snow Sorceress": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Snowball Charm": 0.5508021390374331,
+                                "SampleSize": 187,
+                                "Snow Golem Head": 0.24064171122994651,
+                                "Super Snowball Charm": 0.12299465240641712,
+                                "Chrome Charm": 0.0427807486631016,
+                                "Treasure Map Clue": 0.016042780748663103,
+                                "Ful'Mina's Gift": 0.0106951871657754,
+                                "2017 Charm": 0.0106951871657754
+                            }
+                        }
+                    }
+                }
+            },
+            "Stocking": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Super Snowball Charm": 0.03783783783783784,
+                                "SampleSize": 185,
+                                "Chrome Charm": 0.02702702702702703,
+                                "Snowball Charm": 0.010810810810810811,
+                                "2017 Charm": 0.010810810810810811
+                            }
+                        }
+                    }
+                }
+            },
+            "Sporty Ski Instructor": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Pecan Pecorino Cheese": 0.5497076023391813,
+                                "SampleSize": 171,
+                                "Super Snowball Charm": 0.07017543859649122,
+                                "Chrome Charm": 0.017543859649122806
+                            }
+                        }
+                    }
+                }
+            },
+            "Young Prodigy Racer": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Pecan Pecorino Cheese": 0.65625,
+                                "SampleSize": 160,
+                                "Chrome Charm": 0.025,
+                                "Snowball Charm": 0.01875,
+                                "Super Snowball Charm": 0.01875
+                            }
+                        }
+                    }
+                }
+            },
+            "Toy": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Super Snowball Charm": 0.03164556962025317,
+                                "SampleSize": 158,
+                                "Chrome Charm": 0.0189873417721519,
+                                "2017 Charm": 0.012658227848101266,
+                                "Ful'Mina's Gift": 0.012658227848101266
+                            }
+                        }
+                    }
+                }
+            },
+            "Borean Commander": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Snow Golem Torso": 0.24242424242424243,
+                                "SampleSize": 99,
+                                "Treasure Map Clue": 0.08080808080808081,
+                                "Super Snowball Charm": 0.050505050505050504,
+                                "Chrome Charm": 0.020202020202020204,
+                                "Orange Winter Hunt Gift Box": 0.020202020202020204
+                            }
+                        }
+                    }
+                }
+            },
+            "Glacia Ice Fist": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Snow Golem Torso": 0.7050359712230215,
+                                "SampleSize": 139,
+                                "Treasure Map Clue": 0.03597122302158273,
+                                "Super Snowball Charm": 0.02877697841726619,
+                                "Chrome Charm": 0.02158273381294964,
+                                "Ful'Mina's Gift": 0.014388489208633094
+                            }
+                        }
+                    }
+                }
+            },
+            "Confused Courier": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Pecan Pecorino Cheese": 2,
+                                "SampleSize": 134,
+                                "Super Snowball Charm": 0.11194029850746269,
+                                "Chrome Charm": 0.029850746268656716,
+                                "Snowball Charm": 0.014925373134328358
+                            }
+                        }
+                    }
+                }
+            },
+            "Tundra Huntress": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Winter Charm": 0.34234234234234234,
+                                "SampleSize": 111,
+                                "Snow Golem Limb": 0.09009009009009009,
+                                "Super Snowball Charm": 0.06306306306306306,
+                                "Chrome Charm": 0.06306306306306306,
+                                "Treasure Map Clue": 0.036036036036036036
+                            }
+                        }
+                    }
+                }
+            },
+            "Candy Cane": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Super Snowball Charm": 0.038461538461538464,
+                                "SampleSize": 104,
+                                "Chrome Charm": 0.019230769230769232
+                            }
+                        }
+                    }
+                }
+            },
+            "Christmas Tree": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Super Snowball Charm": 0.049019607843137254,
+                                "SampleSize": 102
+                            }
+                        }
+                    }
+                }
+            },
+            "Nutcracker": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Super Snowball Charm": 0.03409090909090909,
+                                "SampleSize": 88,
+                                "Chrome Charm": 0.022727272727272728,
+                                "2017 Charm": 0.011363636363636364
+                            }
+                        }
+                    }
+                }
+            },
+            "Present": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Pecan Pecorino Cheese": 1.4918032786885247,
+                                "SampleSize": 61,
+                                "Super Snowball Charm": 0.06557377049180328,
+                                "Chrome Charm": 0.01639344262295082,
+                                "Snowball Charm": 0.01639344262295082,
+                                "2017 Charm": 0.01639344262295082
+                            }
+                        }
+                    }
+                }
+            },
+            "Mouse of Winter Past": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Pecan Pecorino Cheese": 1.55,
+                                "SampleSize": 40,
+                                "Super Snowball Charm": 0.075,
+                                "Chrome Charm": 0.025
+                            }
+                        }
+                    }
+                }
+            },
+            "Greedy Al": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Pecan Pecorino Cheese": 1,
+                                "SampleSize": 41,
+                                "Nightshade": 0.024390243902439025,
+                                "Super Snowball Charm": 0.024390243902439025,
+                                "Chrome Charm": 0.024390243902439025,
+                                "Extreme Snowball Charm": 0.024390243902439025
+                            }
+                        }
+                    }
+                }
+            },
+            "Mouse of Winter Future": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Pecan Pecorino Cheese": 1.5,
+                                "SampleSize": 38,
+                                "Chrome Charm": 0.07894736842105263,
+                                "Super Snowball Charm": 0.05263157894736842,
+                                "2017 Charm": 0.02631578947368421
+                            }
+                        }
+                    }
+                }
+            },
+            "Squeaker Claws": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Pecan Pecorino Cheese": 1,
+                                "SampleSize": 38,
+                                "Super Snowball Charm": 0.07894736842105263,
+                                "Ful'Mina's Gift": 0.02631578947368421,
+                                "Chrome Charm": 0.02631578947368421,
+                                "Snowball Charm": 0.02631578947368421,
+                                "2017 Charm": 0.02631578947368421
+                            }
+                        }
+                    }
+                }
+            },
+            "Rainbow Racer": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Pecan Pecorino Cheese": 1.6486486486486487,
+                                "SampleSize": 37,
+                                "Super Snowball Charm": 0.05405405405405406,
+                                "2017 Charm": 0.02702702702702703,
+                                "Chrome Charm": 0.02702702702702703,
+                                "Ful'Mina's Gift": 0.02702702702702703
+                            }
+                        }
+                    }
+                }
+            },
+            "Scrooge": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Pecan Pecorino Cheese": 1,
+                                "SampleSize": 36,
+                                "Super Snowball Charm": 0.1111111111111111,
+                                "Extreme Snowball Charm": 0.027777777777777776
+                            }
+                        }
+                    }
+                }
+            },
+            "Mad Elf": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Pecan Pecorino Cheese": 1,
+                                "SampleSize": 33,
+                                "Super Snowball Charm": 0.09090909090909091,
+                                "Chrome Charm": 0.030303030303030304
+                            }
+                        }
+                    }
+                }
+            },
+            "Black Diamond Racer": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Pecan Pecorino Cheese": 1,
+                                "SampleSize": 33,
+                                "Chrome Charm": 0.09090909090909091,
+                                "Snowball Charm": 0.030303030303030304,
+                                "2017 Charm": 0.030303030303030304
+                            }
+                        }
+                    }
+                }
+            },
+            "Ornament": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Pecan Pecorino Cheese": 1,
+                                "SampleSize": 30,
+                                "Super Snowball Charm": 0.03333333333333333
+                            }
+                        }
+                    }
+                }
+            },
+            "Nitro Racer": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Pecan Pecorino Cheese": 1.5172413793103448,
+                                "SampleSize": 29,
+                                "Super Snowball Charm": 0.13793103448275862,
+                                "2017 Charm": 0.034482758620689655,
+                                "Treasure Map Clue": 0.034482758620689655,
+                                "Chrome Charm": 0.034482758620689655
+                            }
+                        }
+                    }
+                }
+            },
+            "Mouse of Winter Present": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Pecan Pecorino Cheese": 1.5185185185185186,
+                                "SampleSize": 27
+                            }
+                        }
+                    }
+                }
+            },
+            "Double Black Diamond Racer": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Pecan Pecorino Cheese": 1,
+                                "SampleSize": 22,
+                                "Super Snowball Charm": 0.13636363636363635,
+                                "2017 Charm": 0.045454545454545456
+                            }
+                        }
+                    }
+                }
+            },
+            "Stuck Snowball": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Winter Charm": 1,
+                                "SampleSize": 7,
+                                "Treasure Map Clue": 0.14285714285714285
+                            }
+                        }
+                    }
+                }
+            },
+            "Naughty Nougat": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Nugget of Nougat": 1,
+                                "SampleSize": 6,
+                                "Magical Winter Hunt Holiday Hat": 1,
+                                "Ancient Relic": 1,
+                                "SUPER|brie+": 3.5,
+                                "Snow Golem Theme Scrap I": 1,
+                                "Festive Ultimate Luck Charm": 0.5,
+                                "Treasure Map Clue": 0.5,
+                                "Festive Ultimate Lucky Power Charm": 0.3333333333333333,
+                                "Snow Golem Head": 0.3333333333333333,
+                                "Animated Snow": 1.1666666666666667,
+                                "Snow Golem Torso": 0.3333333333333333,
+                                "Festive Ultimate Power Charm": 0.16666666666666666,
+                                "Chrome Charm": 0.16666666666666666
                             }
                         }
                     }
