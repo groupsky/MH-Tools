@@ -16,7 +16,10 @@ module.exports = [
       'Double Black Diamond Racer', 'Stuck Snowball', 'Naughty Nougat'
     ]),
     loot: [ {
-      opts: { min_qty: 0.01 }
+      opts: {
+        exclude_items: [ '2017 Charm', 'Chrome Charm', 'Ful\'Mina\'s Gift', 'Nightshade', 'Treasure Map Clue' ],
+        min_qty: 0.01
+      }
     } ]
   }
 ]

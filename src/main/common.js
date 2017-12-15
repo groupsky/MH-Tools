@@ -484,6 +484,10 @@ function findEff(mouseName) {
     return 0;
   } else {
     var typeIndex = typeEff[trapType];
+    if (!powersArray[mouseName]) {
+      console.warn('missing power', mouseName)
+      return 0
+    }
     return powersArray[mouseName][typeIndex] / 100;
   }
 }

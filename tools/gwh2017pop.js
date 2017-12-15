@@ -21,18 +21,6 @@ utils
           { vars: { charm: { 'Winter': true } }, fields: { charm: 'Winter' } },
           { vars: { charm: { 'Let It Snow': true } }, fields: { charm: 'Let It Snow' } },
         ]
-      },
-      {
-        location: utils.genVarField('location', 'Festive Comet'),
-        phase: [ { fields: { stage: 'Combined' } } ],
-        cheese: utils.genVarField('cheese', [
-          'Gouda', 'SB+', 'Arctic Asiago', 'Pecan Pecorino', 'Brie'
-        ]),
-        charm: [
-          { vars: { charm: { 'Winter': false, 'Let It Snow': false } } },
-          { vars: { charm: { 'Winter': true } }, fields: { charm: 'Winter' } },
-          { vars: { charm: { 'Let It Snow': true } }, fields: { charm: 'Let It Snow' } },
-        ]
       }
     ],
     process: function (item) {
