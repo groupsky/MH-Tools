@@ -17,7 +17,12 @@ module.exports = [
     ]),
     loot: [ {
       opts: {
-        exclude_items: [ '2017 Charm', 'Chrome Charm', 'Ful\'Mina\'s Gift', 'Nightshade', 'Treasure Map Clue' ],
+        exclude_items: [
+          '2017 Charm', 'Chrome Charm', 'Ful\'Mina\'s Gift', 'Nightshade', 'Treasure Map Clue',
+          'Green Winter Hunt Gift Box', 'Purple Winter Hunt Gift Box', 'Orange Winter Hunt Gift Boxe',
+          'Orange Winter Hunt Gift Box', 'Snowball Charm', 'Super Snowball Charm', 'Festive Ultimate Power Charm',
+          'Festive Ultimate Luck Charm', 'Extreme Snowball Charm', 'Festive Ultimate Lucky Power Charm'
+        ],
         min_qty: 0.01
       }
     } ]
