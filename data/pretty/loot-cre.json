@@ -9233,10 +9233,11 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Snow Golem Limb": 0.9995019920318725,
-                                "SampleSize": 4016,
-                                "Super Snowball Charm": 0.06349601593625498,
-                                "Snowball Charm": 0.04332669322709164
+                                "Snow Golem Limb": 1,
+                                "SampleSize": 5208,
+                                "Snowball Charm": 0.06931643625192012,
+                                "Super Snowball Charm": 0.06105990783410138,
+                                "Orange Winter Hunt Gift Box": 0.014592933947772658
                             }
                         }
                     }
@@ -9247,10 +9248,10 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Pecan Pecorino Cheese": 1.4900068917987594,
-                                "SampleSize": 1451,
-                                "Super Snowball Charm": 0.04686423156443832,
-                                "Snowball Charm": 0.015161957270847692
+                                "Pecan Pecorino Cheese": 1.5008077544426495,
+                                "SampleSize": 1857,
+                                "Super Snowball Charm": 0.04900376952073236,
+                                "Snowball Charm": 0.027463651050080775
                             }
                         }
                     }
@@ -9261,11 +9262,11 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Snow Golem Limb": 0.15842696629213482,
-                                "SampleSize": 1780,
-                                "Super Snowball Charm": 0.05056179775280899,
-                                "Snowball Charm": 0.042134831460674156,
-                                "Orange Winter Hunt Gift Box": 0.015730337078651686
+                                "Snow Golem Limb": 0.16001734605377277,
+                                "SampleSize": 2306,
+                                "Snowball Charm": 0.055941023417172595,
+                                "Super Snowball Charm": 0.05290546400693842,
+                                "Orange Winter Hunt Gift Box": 0.024718126626192542
                             }
                         }
                     }
@@ -9276,10 +9277,11 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Snow Golem Limb": 1,
-                                "SampleSize": 1577,
-                                "Super Snowball Charm": 0.05770450221940393,
-                                "Snowball Charm": 0.04311984781230184
+                                "Snow Golem Limb": 0.9995073891625615,
+                                "SampleSize": 2030,
+                                "Snowball Charm": 0.07389162561576355,
+                                "Super Snowball Charm": 0.054679802955665026,
+                                "Orange Winter Hunt Gift Box": 0.014285714285714285
                             }
                         }
                     }
@@ -9291,12 +9293,13 @@
                         "-": {
                             "-": {
                                 "Snow Golem Limb": 2,
-                                "SampleSize": 1067,
-                                "Snow Golem Torso": 0.6298031865042174,
-                                "Snow Golem Head": 0.5960637300843487,
-                                "Snowball Charm": 0.09184629803186505,
-                                "Orange Winter Hunt Gift Box": 0.02155576382380506,
-                                "Festive Ultimate Power Charm": 0.011246485473289597
+                                "SampleSize": 1420,
+                                "Snow Golem Torso": 0.6274647887323944,
+                                "Snow Golem Head": 0.5957746478873239,
+                                "Snowball Charm": 0.1288732394366197,
+                                "Orange Winter Hunt Gift Box": 0.03591549295774648,
+                                "Festive Ultimate Luck Charm": 0.014084507042253521,
+                                "Festive Ultimate Power Charm": 0.013380281690140845
                             }
                         }
                     }
@@ -9307,10 +9310,11 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Snowball Charm": 1.045647558386412,
-                                "SampleSize": 942,
-                                "Super Snowball Charm": 0.05307855626326964,
-                                "Orange Winter Hunt Gift Box": 0.01167728237791932
+                                "Snowball Charm": 1.0610932475884245,
+                                "SampleSize": 1244,
+                                "Super Snowball Charm": 0.05466237942122187,
+                                "Orange Winter Hunt Gift Box": 0.02090032154340836,
+                                "Festive Ultimate Power Charm": 0.012861736334405145
                             }
                         }
                     }
@@ -9322,10 +9326,10 @@
                         "-": {
                             "-": {
                                 "Pecan Pecorino Cheese": 2,
-                                "SampleSize": 788,
+                                "SampleSize": 958,
                                 "Winter Charm": 1,
-                                "Super Snowball Charm": 0.07614213197969544,
-                                "Snowball Charm": 0.01649746192893401
+                                "Super Snowball Charm": 0.07306889352818371,
+                                "Snowball Charm": 0.030271398747390398
                             }
                         }
                     }
@@ -9336,9 +9340,10 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Snowball Charm": 0.9607218683651805,
-                                "SampleSize": 942,
-                                "Super Snowball Charm": 0.1613588110403397
+                                "Snowball Charm": 0.9841930116472546,
+                                "SampleSize": 1202,
+                                "Super Snowball Charm": 0.15391014975041598,
+                                "Orange Winter Hunt Gift Box": 0.015806988352745424
                             }
                         }
                     }
@@ -9350,10 +9355,11 @@
                         "-": {
                             "-": {
                                 "Snow Golem Head": 1,
-                                "SampleSize": 899,
-                                "Super Snowball Charm": 0.06117908787541713,
-                                "Snowball Charm": 0.042269187986651836,
-                                "Orange Winter Hunt Gift Box": 0.014460511679644048
+                                "SampleSize": 1179,
+                                "Snowball Charm": 0.06870229007633588,
+                                "Super Snowball Charm": 0.058524173027989825,
+                                "Orange Winter Hunt Gift Box": 0.01441899915182358,
+                                "Festive Ultimate Power Charm": 0.01102629346904156
                             }
                         }
                     }
@@ -9364,10 +9370,12 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Snowball Charm": 0.04680365296803653,
-                                "SampleSize": 876,
-                                "Super Snowball Charm": 0.04337899543378995,
-                                "Orange Winter Hunt Gift Box": 0.014840182648401826
+                                "Snowball Charm": 0.07510917030567686,
+                                "SampleSize": 1145,
+                                "Super Snowball Charm": 0.04279475982532751,
+                                "Orange Winter Hunt Gift Box": 0.027074235807860263,
+                                "Festive Ultimate Power Charm": 0.011353711790393014,
+                                "SUPER|brie+": 0.010480349344978166
                             }
                         }
                     }
@@ -9378,11 +9386,11 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Winter Charm": 0.7105263157894737,
-                                "SampleSize": 722,
-                                "Snowball Charm": 0.055401662049861494,
-                                "Super Snowball Charm": 0.0443213296398892,
-                                "Orange Winter Hunt Gift Box": 0.01662049861495845
+                                "Winter Charm": 0.7742980561555075,
+                                "SampleSize": 926,
+                                "Snowball Charm": 0.07667386609071274,
+                                "Super Snowball Charm": 0.04319654427645788,
+                                "Orange Winter Hunt Gift Box": 0.0183585313174946
                             }
                         }
                     }
@@ -9394,10 +9402,10 @@
                         "-": {
                             "-": {
                                 "Snow Golem Torso": 1,
-                                "SampleSize": 743,
-                                "Snowball Charm": 0.05787348586810229,
-                                "Super Snowball Charm": 0.052489905787348586,
-                                "Orange Winter Hunt Gift Box": 0.013458950201884253
+                                "SampleSize": 965,
+                                "Snowball Charm": 0.07979274611398963,
+                                "Super Snowball Charm": 0.05595854922279793,
+                                "Orange Winter Hunt Gift Box": 0.017616580310880828
                             }
                         }
                     }
@@ -9408,13 +9416,14 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Orange Winter Hunt Gift Box": 0.952063914780293,
-                                "SampleSize": 751,
-                                "Super Snowball Charm": 0.05059920106524634,
-                                "Snowball Charm": 0.0426098535286285,
-                                "Green Winter Hunt Gift Box": 0.019973368841544607,
-                                "Purple Winter Hunt Gift Box": 0.015978695073235686,
-                                "Orange Winter Hunt Gift Boxe": 0.015978695073235686
+                                "Orange Winter Hunt Gift Box": 0.950259067357513,
+                                "SampleSize": 965,
+                                "Snowball Charm": 0.07046632124352331,
+                                "Super Snowball Charm": 0.04870466321243523,
+                                "Green Winter Hunt Gift Box": 0.015544041450777202,
+                                "Purple Winter Hunt Gift Box": 0.013471502590673576,
+                                "Orange Winter Hunt Gift Boxe": 0.02694300518134715,
+                                "Festive Ultimate Power Charm": 0.012435233160621761
                             }
                         }
                     }
@@ -9426,10 +9435,10 @@
                         "-": {
                             "-": {
                                 "Winter Charm": 1,
-                                "SampleSize": 572,
-                                "Pecan Pecorino Cheese": 0.3583916083916084,
-                                "Super Snowball Charm": 0.06468531468531469,
-                                "Snowball Charm": 0.015734265734265736
+                                "SampleSize": 699,
+                                "Pecan Pecorino Cheese": 0.3648068669527897,
+                                "Super Snowball Charm": 0.06580829756795423,
+                                "Snowball Charm": 0.024320457796852647
                             }
                         }
                     }
@@ -9440,11 +9449,11 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Winter Charm": 0.7304747320061256,
-                                "SampleSize": 653,
-                                "Super Snowball Charm": 0.06125574272588055,
-                                "Snowball Charm": 0.045941807044410414,
-                                "Orange Winter Hunt Gift Box": 0.013782542113323124
+                                "Winter Charm": 0.7939110070257611,
+                                "SampleSize": 854,
+                                "Snowball Charm": 0.06440281030444965,
+                                "Super Snowball Charm": 0.06323185011709602,
+                                "Orange Winter Hunt Gift Box": 0.01990632318501171
                             }
                         }
                     }
@@ -9456,9 +9465,10 @@
                         "-": {
                             "-": {
                                 "Pecan Pecorino Cheese": 2,
-                                "SampleSize": 596,
+                                "SampleSize": 734,
                                 "Let it Snow Charm": 1,
-                                "Snowball Charm": 0.026845637583892617
+                                "Snowball Charm": 0.04087193460490463,
+                                "Orange Winter Hunt Gift Box": 0.017711171662125342
                             }
                         }
                     }
@@ -9469,10 +9479,10 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Pecan Pecorino Cheese": 0.4034749034749035,
-                                "SampleSize": 518,
-                                "Super Snowball Charm": 0.05405405405405406,
-                                "Snowball Charm": 0.017374517374517374
+                                "Pecan Pecorino Cheese": 0.41194029850746267,
+                                "SampleSize": 670,
+                                "Super Snowball Charm": 0.056716417910447764,
+                                "Snowball Charm": 0.023880597014925373
                             }
                         }
                     }
@@ -9484,10 +9494,11 @@
                         "-": {
                             "-": {
                                 "Pecan Pecorino Cheese": 1,
-                                "SampleSize": 484,
+                                "SampleSize": 609,
                                 "Winter Charm": 1,
-                                "Super Snowball Charm": 0.05991735537190083,
-                                "Snowball Charm": 0.01652892561983471
+                                "Super Snowball Charm": 0.059113300492610835,
+                                "Snowball Charm": 0.024630541871921183,
+                                "Orange Winter Hunt Gift Box": 0.019704433497536946
                             }
                         }
                     }
@@ -9498,10 +9509,10 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Pecan Pecorino Cheese": 0.6086956521739131,
-                                "SampleSize": 460,
-                                "Super Snowball Charm": 0.06086956521739131,
-                                "Snowball Charm": 0.017391304347826087
+                                "Pecan Pecorino Cheese": 0.585278276481149,
+                                "SampleSize": 557,
+                                "Super Snowball Charm": 0.06283662477558348,
+                                "Snowball Charm": 0.03052064631956912
                             }
                         }
                     }
@@ -9513,8 +9524,9 @@
                         "-": {
                             "-": {
                                 "Pecan Pecorino Cheese": 1,
-                                "SampleSize": 482,
-                                "Super Snowball Charm": 0.04149377593360996
+                                "SampleSize": 637,
+                                "Super Snowball Charm": 0.0423861852433281,
+                                "Snowball Charm": 0.018838304552590265
                             }
                         }
                     }
@@ -9526,10 +9538,10 @@
                         "-": {
                             "-": {
                                 "Snow Golem Torso": 1,
-                                "SampleSize": 510,
-                                "Super Snowball Charm": 0.058823529411764705,
-                                "Snowball Charm": 0.03725490196078431,
-                                "Orange Winter Hunt Gift Box": 0.013725490196078431
+                                "SampleSize": 662,
+                                "Snowball Charm": 0.06042296072507553,
+                                "Super Snowball Charm": 0.055891238670694864,
+                                "Orange Winter Hunt Gift Box": 0.019637462235649546
                             }
                         }
                     }
@@ -9540,9 +9552,10 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Pecan Pecorino Cheese": 0.6004566210045662,
-                                "SampleSize": 438,
-                                "Super Snowball Charm": 0.0502283105022831
+                                "Pecan Pecorino Cheese": 0.6119133574007221,
+                                "SampleSize": 554,
+                                "Super Snowball Charm": 0.052346570397111915,
+                                "Snowball Charm": 0.023465703971119134
                             }
                         }
                     }
@@ -9553,10 +9566,11 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Pecan Pecorino Cheese": 0.5844155844155844,
-                                "SampleSize": 462,
-                                "Super Snowball Charm": 0.06060606060606061,
-                                "Snowball Charm": 0.012987012987012988
+                                "Pecan Pecorino Cheese": 0.5923344947735192,
+                                "SampleSize": 574,
+                                "Super Snowball Charm": 0.05574912891986063,
+                                "Snowball Charm": 0.027874564459930314,
+                                "Orange Winter Hunt Gift Box": 0.010452961672473868
                             }
                         }
                     }
@@ -9568,9 +9582,10 @@
                         "-": {
                             "-": {
                                 "Snow Golem Limb": 1,
-                                "SampleSize": 520,
-                                "Snowball Charm": 1.0153846153846153,
-                                "Super Snowball Charm": 0.09615384615384616
+                                "SampleSize": 681,
+                                "Snowball Charm": 1.0352422907488987,
+                                "Super Snowball Charm": 0.09838472834067548,
+                                "Orange Winter Hunt Gift Box": 0.013215859030837005
                             }
                         }
                     }
@@ -9581,9 +9596,9 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Pecan Pecorino Cheese": 0.5581947743467933,
-                                "SampleSize": 421,
-                                "Super Snowball Charm": 0.052256532066508314
+                                "Pecan Pecorino Cheese": 0.5627376425855514,
+                                "SampleSize": 526,
+                                "Super Snowball Charm": 0.049429657794676805
                             }
                         }
                     }
@@ -9595,10 +9610,11 @@
                         "-": {
                             "-": {
                                 "Snow Golem Head": 1,
-                                "SampleSize": 532,
-                                "Super Snowball Charm": 0.06578947368421052,
-                                "Snowball Charm": 0.03759398496240601,
-                                "Orange Winter Hunt Gift Box": 0.013157894736842105
+                                "SampleSize": 685,
+                                "Super Snowball Charm": 0.061313868613138686,
+                                "Snowball Charm": 0.059854014598540145,
+                                "Orange Winter Hunt Gift Box": 0.017518248175182483,
+                                "Festive Ultimate Luck Charm": 0.01167883211678832
                             }
                         }
                     }
@@ -9609,10 +9625,10 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Pecan Pecorino Cheese": 0.6128266033254157,
-                                "SampleSize": 421,
-                                "Super Snowball Charm": 0.05938242280285035,
-                                "Snowball Charm": 0.026128266033254157
+                                "Pecan Pecorino Cheese": 0.6199616122840691,
+                                "SampleSize": 521,
+                                "Super Snowball Charm": 0.05758157389635317,
+                                "Snowball Charm": 0.026871401151631478
                             }
                         }
                     }
@@ -9623,10 +9639,11 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Pecan Pecorino Cheese": 0.16145833333333334,
-                                "SampleSize": 384,
-                                "Super Snowball Charm": 0.057291666666666664,
-                                "Snowball Charm": 0.026041666666666668
+                                "Pecan Pecorino Cheese": 0.16114790286975716,
+                                "SampleSize": 453,
+                                "Super Snowball Charm": 0.05739514348785872,
+                                "Snowball Charm": 0.024282560706401765,
+                                "Orange Winter Hunt Gift Box": 0.011037527593818985
                             }
                         }
                     }
@@ -9637,10 +9654,11 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Pecan Pecorino Cheese": 0.5650118203309693,
-                                "SampleSize": 423,
-                                "Super Snowball Charm": 0.030732860520094562,
-                                "Snowball Charm": 0.014184397163120567
+                                "Pecan Pecorino Cheese": 0.5642458100558659,
+                                "SampleSize": 537,
+                                "Super Snowball Charm": 0.03165735567970205,
+                                "Snowball Charm": 0.024208566108007448,
+                                "Orange Winter Hunt Gift Box": 0.0111731843575419
                             }
                         }
                     }
@@ -9651,10 +9669,10 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Pecan Pecorino Cheese": 0.3883495145631068,
-                                "SampleSize": 412,
-                                "Super Snowball Charm": 0.06310679611650485,
-                                "Snowball Charm": 0.021844660194174758
+                                "Pecan Pecorino Cheese": 0.3932135728542914,
+                                "SampleSize": 501,
+                                "Super Snowball Charm": 0.06187624750499002,
+                                "Snowball Charm": 0.031936127744510975
                             }
                         }
                     }
@@ -9665,10 +9683,11 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Snowball Charm": 0.603515625,
-                                "SampleSize": 512,
-                                "Snow Golem Head": 0.17578125,
-                                "Super Snowball Charm": 0.123046875
+                                "Snowball Charm": 0.6227272727272727,
+                                "SampleSize": 660,
+                                "Snow Golem Head": 0.15757575757575756,
+                                "Super Snowball Charm": 0.11818181818181818,
+                                "Orange Winter Hunt Gift Box": 0.019696969696969695
                             }
                         }
                     }
@@ -9679,9 +9698,9 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Super Snowball Charm": 0.04289544235924933,
-                                "SampleSize": 373,
-                                "Snowball Charm": 0.01876675603217158
+                                "Super Snowball Charm": 0.046875,
+                                "SampleSize": 448,
+                                "Snowball Charm": 0.020089285714285716
                             }
                         }
                     }
@@ -9692,10 +9711,10 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Pecan Pecorino Cheese": 0.5647058823529412,
-                                "SampleSize": 340,
-                                "Super Snowball Charm": 0.08823529411764706,
-                                "Snowball Charm": 0.011764705882352941
+                                "Pecan Pecorino Cheese": 0.5629453681710214,
+                                "SampleSize": 421,
+                                "Super Snowball Charm": 0.07838479809976247,
+                                "Snowball Charm": 0.019002375296912115
                             }
                         }
                     }
@@ -9706,10 +9725,10 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Pecan Pecorino Cheese": 0.622356495468278,
-                                "SampleSize": 331,
-                                "Super Snowball Charm": 0.04833836858006042,
-                                "Snowball Charm": 0.021148036253776436
+                                "Pecan Pecorino Cheese": 0.6,
+                                "SampleSize": 405,
+                                "Super Snowball Charm": 0.05185185185185185,
+                                "Snowball Charm": 0.04691358024691358
                             }
                         }
                     }
@@ -9720,8 +9739,9 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Super Snowball Charm": 0.06,
-                                "SampleSize": 300
+                                "Super Snowball Charm": 0.06914893617021277,
+                                "SampleSize": 376,
+                                "Snowball Charm": 0.018617021276595744
                             }
                         }
                     }
@@ -9732,13 +9752,13 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Snow Golem Torso": 0.18846153846153846,
-                                "SampleSize": 260,
-                                "Super Snowball Charm": 0.05,
-                                "Orange Winter Hunt Gift Box": 0.038461538461538464,
-                                "Snowball Charm": 0.03076923076923077,
-                                "Extreme Snowball Charm": 0.015384615384615385,
-                                "Festive Ultimate Luck Charm": 0.011538461538461539
+                                "Snow Golem Torso": 0.18562874251497005,
+                                "SampleSize": 334,
+                                "Snowball Charm": 0.0748502994011976,
+                                "Super Snowball Charm": 0.059880239520958084,
+                                "Orange Winter Hunt Gift Box": 0.038922155688622756,
+                                "SUPER|brie+": 0.014970059880239521,
+                                "Extreme Snowball Charm": 0.011976047904191617
                             }
                         }
                     }
@@ -9749,10 +9769,11 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Snow Golem Torso": 0.7024128686327078,
-                                "SampleSize": 373,
-                                "Super Snowball Charm": 0.058981233243967826,
-                                "Snowball Charm": 0.04289544235924933
+                                "Snow Golem Torso": 0.7006369426751592,
+                                "SampleSize": 471,
+                                "Snowball Charm": 0.07006369426751592,
+                                "Super Snowball Charm": 0.059447983014861996,
+                                "Orange Winter Hunt Gift Box": 0.016985138004246284
                             }
                         }
                     }
@@ -9764,9 +9785,9 @@
                         "-": {
                             "-": {
                                 "Pecan Pecorino Cheese": 2,
-                                "SampleSize": 284,
-                                "Super Snowball Charm": 0.08098591549295775,
-                                "Snowball Charm": 0.035211267605633804
+                                "SampleSize": 334,
+                                "Super Snowball Charm": 0.07784431137724551,
+                                "Snowball Charm": 0.05389221556886228
                             }
                         }
                     }
@@ -9777,13 +9798,13 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Winter Charm": 0.7383512544802867,
-                                "SampleSize": 279,
-                                "Snow Golem Limb": 0.08960573476702509,
-                                "Super Snowball Charm": 0.07168458781362007,
-                                "Snowball Charm": 0.043010752688172046,
-                                "Orange Winter Hunt Gift Box": 0.014336917562724014,
-                                "Extreme Snowball Charm": 0.010752688172043012
+                                "Winter Charm": 0.810880829015544,
+                                "SampleSize": 386,
+                                "Snow Golem Limb": 0.08549222797927461,
+                                "Snowball Charm": 0.07512953367875648,
+                                "Super Snowball Charm": 0.06217616580310881,
+                                "SUPER|brie+": 0.015544041450777202,
+                                "Orange Winter Hunt Gift Box": 0.012953367875647668
                             }
                         }
                     }
@@ -9794,9 +9815,9 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Super Snowball Charm": 0.03,
-                                "SampleSize": 200,
-                                "Snowball Charm": 0.015
+                                "Snowball Charm": 0.036290322580645164,
+                                "SampleSize": 248,
+                                "Super Snowball Charm": 0.03225806451612903
                             }
                         }
                     }
@@ -9807,11 +9828,9 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Super Snowball Charm": 0.065,
-                                "SampleSize": 200,
-                                "Snowball Charm": 0.015,
-                                "Extreme Snowball Charm": 0.01,
-                                "Orange Winter Hunt Gift Box": 0.01
+                                "Super Snowball Charm": 0.06,
+                                "SampleSize": 250,
+                                "Snowball Charm": 0.04
                             }
                         }
                     }
@@ -9822,9 +9841,9 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Super Snowball Charm": 0.06451612903225806,
-                                "SampleSize": 186,
-                                "Snowball Charm": 0.010752688172043012
+                                "Super Snowball Charm": 0.06926406926406926,
+                                "SampleSize": 231,
+                                "Snowball Charm": 0.017316017316017316
                             }
                         }
                     }
@@ -9835,10 +9854,10 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Pecan Pecorino Cheese": 1.5210084033613445,
-                                "SampleSize": 119,
-                                "Super Snowball Charm": 0.06722689075630252,
-                                "Snowball Charm": 0.04201680672268908
+                                "Pecan Pecorino Cheese": 1.5106382978723405,
+                                "SampleSize": 141,
+                                "Super Snowball Charm": 0.06382978723404255,
+                                "Snowball Charm": 0.04964539007092199
                             }
                         }
                     }
@@ -9849,11 +9868,12 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Pecan Pecorino Cheese": 1.5466666666666666,
-                                "SampleSize": 75,
-                                "Super Snowball Charm": 0.08,
-                                "Orange Winter Hunt Gift Box": 0.02666666666666667,
-                                "Snowball Charm": 0.013333333333333334
+                                "Pecan Pecorino Cheese": 1.5212765957446808,
+                                "SampleSize": 94,
+                                "Super Snowball Charm": 0.07446808510638298,
+                                "Orange Winter Hunt Gift Box": 0.02127659574468085,
+                                "Festive Ultimate Luck Charm": 0.010638297872340425,
+                                "Snowball Charm": 0.010638297872340425
                             }
                         }
                     }
@@ -9865,9 +9885,11 @@
                         "-": {
                             "-": {
                                 "Pecan Pecorino Cheese": 1,
-                                "SampleSize": 75,
-                                "Super Snowball Charm": 0.04,
-                                "Extreme Snowball Charm": 0.013333333333333334
+                                "SampleSize": 91,
+                                "Super Snowball Charm": 0.04395604395604396,
+                                "Snowball Charm": 0.03296703296703297,
+                                "Extreme Snowball Charm": 0.01098901098901099,
+                                "Orange Winter Hunt Gift Box": 0.01098901098901099
                             }
                         }
                     }
@@ -9878,12 +9900,13 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Pecan Pecorino Cheese": 1.5,
-                                "SampleSize": 74,
-                                "Super Snowball Charm": 0.08108108108108109,
-                                "Extreme Snowball Charm": 0.013513513513513514,
-                                "Snowball Charm": 0.013513513513513514,
-                                "Festive Ultimate Luck Charm": 0.013513513513513514
+                                "Pecan Pecorino Cheese": 1.5168539325842696,
+                                "SampleSize": 89,
+                                "Super Snowball Charm": 0.07865168539325842,
+                                "Snowball Charm": 0.033707865168539325,
+                                "Extreme Snowball Charm": 0.011235955056179775,
+                                "Festive Ultimate Luck Charm": 0.011235955056179775,
+                                "SUPER|brie+": 0.011235955056179775
                             }
                         }
                     }
@@ -9895,9 +9918,9 @@
                         "-": {
                             "-": {
                                 "Pecan Pecorino Cheese": 1,
-                                "SampleSize": 81,
-                                "Super Snowball Charm": 0.06172839506172839,
-                                "Snowball Charm": 0.04938271604938271
+                                "SampleSize": 101,
+                                "Snowball Charm": 0.06930693069306931,
+                                "Super Snowball Charm": 0.0594059405940594
                             }
                         }
                     }
@@ -9908,9 +9931,10 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Pecan Pecorino Cheese": 1.5517241379310345,
-                                "SampleSize": 58,
-                                "Super Snowball Charm": 0.034482758620689655
+                                "Pecan Pecorino Cheese": 1.5352112676056338,
+                                "SampleSize": 71,
+                                "Super Snowball Charm": 0.028169014084507043,
+                                "Snowball Charm": 0.028169014084507043
                             }
                         }
                     }
@@ -9922,11 +9946,11 @@
                         "-": {
                             "-": {
                                 "Pecan Pecorino Cheese": 1,
-                                "SampleSize": 69,
-                                "Super Snowball Charm": 0.10144927536231885,
-                                "Extreme Snowball Charm": 0.014492753623188406,
-                                "Festive Ultimate Power Charm": 0.014492753623188406,
-                                "Orange Winter Hunt Gift Box": 0.014492753623188406
+                                "SampleSize": 81,
+                                "Super Snowball Charm": 0.1111111111111111,
+                                "Festive Ultimate Power Charm": 0.012345679012345678,
+                                "Orange Winter Hunt Gift Box": 0.012345679012345678,
+                                "Extreme Snowball Charm": 0.012345679012345678
                             }
                         }
                     }
@@ -9938,12 +9962,12 @@
                         "-": {
                             "-": {
                                 "Pecan Pecorino Cheese": 1,
-                                "SampleSize": 66,
-                                "Super Snowball Charm": 0.10606060606060606,
-                                "Orange Winter Hunt Gift Box": 0.015151515151515152,
-                                "Festive Ultimate Power Charm": 0.015151515151515152,
-                                "Extreme Snowball Charm": 0.015151515151515152,
-                                "Snowball Charm": 0.015151515151515152
+                                "SampleSize": 81,
+                                "Super Snowball Charm": 0.08641975308641975,
+                                "Orange Winter Hunt Gift Box": 0.037037037037037035,
+                                "Festive Ultimate Power Charm": 0.024691358024691357,
+                                "Extreme Snowball Charm": 0.012345679012345678,
+                                "Snowball Charm": 0.012345679012345678
                             }
                         }
                     }
@@ -9955,9 +9979,9 @@
                         "-": {
                             "-": {
                                 "Pecan Pecorino Cheese": 1,
-                                "SampleSize": 64,
-                                "Super Snowball Charm": 0.09375,
-                                "Snowball Charm": 0.046875
+                                "SampleSize": 79,
+                                "Super Snowball Charm": 0.08860759493670886,
+                                "Snowball Charm": 0.0759493670886076
                             }
                         }
                     }
@@ -9969,9 +9993,10 @@
                         "-": {
                             "-": {
                                 "Pecan Pecorino Cheese": 1,
-                                "SampleSize": 59,
-                                "Super Snowball Charm": 0.03389830508474576,
-                                "Orange Winter Hunt Gift Box": 0.01694915254237288
+                                "SampleSize": 68,
+                                "Super Snowball Charm": 0.029411764705882353,
+                                "Orange Winter Hunt Gift Box": 0.014705882352941176,
+                                "Snowball Charm": 0.014705882352941176
                             }
                         }
                     }
@@ -9982,11 +10007,12 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Pecan Pecorino Cheese": 1.462962962962963,
-                                "SampleSize": 54,
-                                "Super Snowball Charm": 0.1111111111111111,
-                                "Snowball Charm": 0.05555555555555555,
-                                "Festive Ultimate Luck Charm": 0.018518518518518517
+                                "Pecan Pecorino Cheese": 1.5138888888888888,
+                                "SampleSize": 72,
+                                "Super Snowball Charm": 0.09722222222222222,
+                                "Snowball Charm": 0.041666666666666664,
+                                "Festive Ultimate Luck Charm": 0.013888888888888888,
+                                "Orange Winter Hunt Gift Box": 0.013888888888888888
                             }
                         }
                     }
@@ -9997,10 +10023,10 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Pecan Pecorino Cheese": 1.4827586206896552,
-                                "SampleSize": 58,
-                                "Super Snowball Charm": 0.05172413793103448,
-                                "Snowball Charm": 0.034482758620689655
+                                "Pecan Pecorino Cheese": 1.4722222222222223,
+                                "SampleSize": 72,
+                                "Super Snowball Charm": 0.05555555555555555,
+                                "Snowball Charm": 0.041666666666666664
                             }
                         }
                     }
@@ -10012,10 +10038,10 @@
                         "-": {
                             "-": {
                                 "Pecan Pecorino Cheese": 1,
-                                "SampleSize": 49,
-                                "Super Snowball Charm": 0.061224489795918366,
-                                "SUPER|brie+": 0.02040816326530612,
-                                "Snowball Charm": 0.02040816326530612
+                                "SampleSize": 63,
+                                "Super Snowball Charm": 0.06349206349206349,
+                                "SUPER|brie+": 0.015873015873015872,
+                                "Snowball Charm": 0.015873015873015872
                             }
                         }
                     }
@@ -10027,12 +10053,12 @@
                         "-": {
                             "-": {
                                 "Winter Charm": 1,
-                                "SampleSize": 524,
-                                "Snowball Charm": 0.09732824427480916,
-                                "Super Snowball Charm": 0.04961832061068702,
-                                "Orange Winter Hunt Gift Box": 0.022900763358778626,
-                                "SUPER|brie+": 0.015267175572519083,
-                                "Festive Ultimate Power Charm": 0.011450381679389313
+                                "SampleSize": 792,
+                                "Snowball Charm": 0.11616161616161616,
+                                "Super Snowball Charm": 0.050505050505050504,
+                                "Orange Winter Hunt Gift Box": 0.025252525252525252,
+                                "SUPER|brie+": 0.020202020202020204,
+                                "Festive Ultimate Power Charm": 0.013888888888888888
                             }
                         }
                     }
@@ -10044,21 +10070,21 @@
                         "-": {
                             "-": {
                                 "Ancient Relic": 1,
-                                "SampleSize": 83,
+                                "SampleSize": 157,
                                 "Nugget of Nougat": 1,
                                 "Magical Winter Hunt Holiday Hat": 1,
-                                "SUPER|brie+": 4.590361445783133,
-                                "Snow Golem Theme Scrap I": 0.7108433734939759,
-                                "Festive Ultimate Luck Charm": 0.43373493975903615,
-                                "Festive Ultimate Power Charm": 0.30120481927710846,
-                                "Snow Golem Head": 0.2891566265060241,
-                                "Festive Ultimate Lucky Power Charm": 0.2891566265060241,
-                                "Animated Snow": 1.1566265060240963,
-                                "Snow Golem Torso": 0.21686746987951808,
-                                "Snow Golem Limb": 0.5903614457831325,
-                                "Snowball Charm": 0.1686746987951807,
-                                "Orange Winter Hunt Gift Box": 0.060240963855421686,
-                                "Super Snowball Charm": 0.060240963855421686
+                                "SUPER|brie+": 4.573248407643312,
+                                "Snow Golem Theme Scrap I": 0.6178343949044586,
+                                "Festive Ultimate Luck Charm": 0.4140127388535032,
+                                "Festive Ultimate Power Charm": 0.3184713375796178,
+                                "Festive Ultimate Lucky Power Charm": 0.2929936305732484,
+                                "Animated Snow": 1.2292993630573248,
+                                "Snow Golem Head": 0.267515923566879,
+                                "Snow Golem Limb": 0.5605095541401274,
+                                "Snow Golem Torso": 0.21656050955414013,
+                                "Snowball Charm": 0.16560509554140126,
+                                "Super Snowball Charm": 0.07643312101910828,
+                                "Orange Winter Hunt Gift Box": 0.05732484076433121
                             }
                         }
                     }

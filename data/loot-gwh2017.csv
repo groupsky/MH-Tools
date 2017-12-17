@@ -1,210 +1,236 @@
 "Location","Phase","Trap","Base","Cheese","Charm","Mouse","Loot","Qty","Sample"
-"Festive Comet","-","-","-","-","-","Snow Scavenger","Snow Golem Limb",0.9995019920318725,4016
-"Festive Comet","-","-","-","-","-","Snow Scavenger","Super Snowball Charm",0.06349601593625498,4016
-"Festive Comet","-","-","-","-","-","Snow Scavenger","Snowball Charm",0.04332669322709164,4016
-"Festive Comet","-","-","-","-","-","Hoarder","Pecan Pecorino Cheese",1.4900068917987594,1451
-"Festive Comet","-","-","-","-","-","Hoarder","Super Snowball Charm",0.04686423156443832,1451
-"Festive Comet","-","-","-","-","-","Hoarder","Snowball Charm",0.015161957270847692,1451
-"Festive Comet","-","-","-","-","-","Snowblower","Snow Golem Limb",0.15842696629213482,1780
-"Festive Comet","-","-","-","-","-","Snowblower","Super Snowball Charm",0.05056179775280899,1780
-"Festive Comet","-","-","-","-","-","Snowblower","Snowball Charm",0.042134831460674156,1780
-"Festive Comet","-","-","-","-","-","Snowblower","Orange Winter Hunt Gift Box",0.015730337078651686,1780
-"Festive Comet","-","-","-","-","-","Builder","Snow Golem Limb",1,1577
-"Festive Comet","-","-","-","-","-","Builder","Super Snowball Charm",0.05770450221940393,1577
-"Festive Comet","-","-","-","-","-","Builder","Snowball Charm",0.04311984781230184,1577
-"Festive Comet","-","-","-","-","-","Snow Golem Architect","Snow Golem Limb",2,1067
-"Festive Comet","-","-","-","-","-","Snow Golem Architect","Snow Golem Torso",0.6298031865042174,1067
-"Festive Comet","-","-","-","-","-","Snow Golem Architect","Snow Golem Head",0.5960637300843487,1067
-"Festive Comet","-","-","-","-","-","Snow Golem Architect","Snowball Charm",0.09184629803186505,1067
-"Festive Comet","-","-","-","-","-","Snow Golem Architect","Orange Winter Hunt Gift Box",0.02155576382380506,1067
-"Festive Comet","-","-","-","-","-","Snow Golem Architect","Festive Ultimate Power Charm",0.011246485473289597,1067
-"Festive Comet","-","-","-","-","-","Snow Fort","Snowball Charm",1.045647558386412,942
-"Festive Comet","-","-","-","-","-","Snow Fort","Super Snowball Charm",0.05307855626326964,942
-"Festive Comet","-","-","-","-","-","Snow Fort","Orange Winter Hunt Gift Box",0.01167728237791932,942
-"Festive Comet","-","-","-","-","-","Joy","Pecan Pecorino Cheese",2,788
-"Festive Comet","-","-","-","-","-","Joy","Winter Charm",1,788
-"Festive Comet","-","-","-","-","-","Joy","Super Snowball Charm",0.07614213197969544,788
-"Festive Comet","-","-","-","-","-","Joy","Snowball Charm",0.01649746192893401,788
-"Festive Comet","-","-","-","-","-","Reinbo","Snowball Charm",0.9607218683651805,942
-"Festive Comet","-","-","-","-","-","Reinbo","Super Snowball Charm",0.1613588110403397,942
-"Festive Comet","-","-","-","-","-","Nice Knitting","Snow Golem Head",1,899
-"Festive Comet","-","-","-","-","-","Nice Knitting","Super Snowball Charm",0.06117908787541713,899
-"Festive Comet","-","-","-","-","-","Nice Knitting","Snowball Charm",0.042269187986651836,899
-"Festive Comet","-","-","-","-","-","Nice Knitting","Orange Winter Hunt Gift Box",0.014460511679644048,899
-"Festive Comet","-","-","-","-","-","Snowglobe","Snowball Charm",0.04680365296803653,876
-"Festive Comet","-","-","-","-","-","Snowglobe","Super Snowball Charm",0.04337899543378995,876
-"Festive Comet","-","-","-","-","-","Snowglobe","Orange Winter Hunt Gift Box",0.014840182648401826,876
-"Festive Comet","-","-","-","-","-","Slay Ride","Winter Charm",0.7105263157894737,722
-"Festive Comet","-","-","-","-","-","Slay Ride","Snowball Charm",0.055401662049861494,722
-"Festive Comet","-","-","-","-","-","Slay Ride","Super Snowball Charm",0.0443213296398892,722
-"Festive Comet","-","-","-","-","-","Slay Ride","Orange Winter Hunt Gift Box",0.01662049861495845,722
-"Festive Comet","-","-","-","-","-","Snow Golem Jockey","Snow Golem Torso",1,743
-"Festive Comet","-","-","-","-","-","Snow Golem Jockey","Snowball Charm",0.05787348586810229,743
-"Festive Comet","-","-","-","-","-","Snow Golem Jockey","Super Snowball Charm",0.052489905787348586,743
-"Festive Comet","-","-","-","-","-","Snow Golem Jockey","Orange Winter Hunt Gift Box",0.013458950201884253,743
-"Festive Comet","-","-","-","-","-","Elf","Orange Winter Hunt Gift Box",0.952063914780293,751
-"Festive Comet","-","-","-","-","-","Elf","Super Snowball Charm",0.05059920106524634,751
-"Festive Comet","-","-","-","-","-","Elf","Snowball Charm",0.0426098535286285,751
-"Festive Comet","-","-","-","-","-","Elf","Green Winter Hunt Gift Box",0.019973368841544607,751
-"Festive Comet","-","-","-","-","-","Elf","Purple Winter Hunt Gift Box",0.015978695073235686,751
-"Festive Comet","-","-","-","-","-","Elf","Orange Winter Hunt Gift Boxe",0.015978695073235686,751
-"Festive Comet","-","-","-","-","-","Snow Boulder","Winter Charm",1,572
-"Festive Comet","-","-","-","-","-","Snow Boulder","Pecan Pecorino Cheese",0.3583916083916084,572
-"Festive Comet","-","-","-","-","-","Snow Boulder","Super Snowball Charm",0.06468531468531469,572
-"Festive Comet","-","-","-","-","-","Snow Boulder","Snowball Charm",0.015734265734265736,572
-"Festive Comet","-","-","-","-","-","Great Winter Hunt Impostor","Winter Charm",0.7304747320061256,653
-"Festive Comet","-","-","-","-","-","Great Winter Hunt Impostor","Super Snowball Charm",0.06125574272588055,653
-"Festive Comet","-","-","-","-","-","Great Winter Hunt Impostor","Snowball Charm",0.045941807044410414,653
-"Festive Comet","-","-","-","-","-","Great Winter Hunt Impostor","Orange Winter Hunt Gift Box",0.013782542113323124,653
-"Festive Comet","-","-","-","-","-","Snowflake","Pecan Pecorino Cheese",2,596
-"Festive Comet","-","-","-","-","-","Snowflake","Let it Snow Charm",1,596
-"Festive Comet","-","-","-","-","-","Snowflake","Snowball Charm",0.026845637583892617,596
-"Festive Comet","-","-","-","-","-","Gingerbread","Pecan Pecorino Cheese",0.4034749034749035,518
-"Festive Comet","-","-","-","-","-","Gingerbread","Super Snowball Charm",0.05405405405405406,518
-"Festive Comet","-","-","-","-","-","Gingerbread","Snowball Charm",0.017374517374517374,518
-"Festive Comet","-","-","-","-","-","Toboggan Technician","Pecan Pecorino Cheese",1,484
-"Festive Comet","-","-","-","-","-","Toboggan Technician","Winter Charm",1,484
-"Festive Comet","-","-","-","-","-","Toboggan Technician","Super Snowball Charm",0.05991735537190083,484
-"Festive Comet","-","-","-","-","-","Toboggan Technician","Snowball Charm",0.01652892561983471,484
-"Festive Comet","-","-","-","-","-","Missile Toe","Pecan Pecorino Cheese",0.6086956521739131,460
-"Festive Comet","-","-","-","-","-","Missile Toe","Super Snowball Charm",0.06086956521739131,460
-"Festive Comet","-","-","-","-","-","Missile Toe","Snowball Charm",0.017391304347826087,460
-"Festive Comet","-","-","-","-","-","Snowball Hoarder","Pecan Pecorino Cheese",1,482
-"Festive Comet","-","-","-","-","-","Snowball Hoarder","Super Snowball Charm",0.04149377593360996,482
-"Festive Comet","-","-","-","-","-","Frigid Foreman","Snow Golem Torso",1,510
-"Festive Comet","-","-","-","-","-","Frigid Foreman","Super Snowball Charm",0.058823529411764705,510
-"Festive Comet","-","-","-","-","-","Frigid Foreman","Snowball Charm",0.03725490196078431,510
-"Festive Comet","-","-","-","-","-","Frigid Foreman","Orange Winter Hunt Gift Box",0.013725490196078431,510
-"Festive Comet","-","-","-","-","-","Wreath Thief","Pecan Pecorino Cheese",0.6004566210045662,438
-"Festive Comet","-","-","-","-","-","Wreath Thief","Super Snowball Charm",0.0502283105022831,438
-"Festive Comet","-","-","-","-","-","Toy Tinkerer","Pecan Pecorino Cheese",0.5844155844155844,462
-"Festive Comet","-","-","-","-","-","Toy Tinkerer","Super Snowball Charm",0.06060606060606061,462
-"Festive Comet","-","-","-","-","-","Toy Tinkerer","Snowball Charm",0.012987012987012988,462
-"Festive Comet","-","-","-","-","-","S.N.O.W. Golem","Snow Golem Limb",1,520
-"Festive Comet","-","-","-","-","-","S.N.O.W. Golem","Snowball Charm",1.0153846153846153,520
-"Festive Comet","-","-","-","-","-","S.N.O.W. Golem","Super Snowball Charm",0.09615384615384616,520
-"Festive Comet","-","-","-","-","-","Ribbon","Pecan Pecorino Cheese",0.5581947743467933,421
-"Festive Comet","-","-","-","-","-","Ribbon","Super Snowball Charm",0.052256532066508314,421
-"Festive Comet","-","-","-","-","-","Free Skiing","Snow Golem Head",1,532
-"Festive Comet","-","-","-","-","-","Free Skiing","Super Snowball Charm",0.06578947368421052,532
-"Festive Comet","-","-","-","-","-","Free Skiing","Snowball Charm",0.03759398496240601,532
-"Festive Comet","-","-","-","-","-","Free Skiing","Orange Winter Hunt Gift Box",0.013157894736842105,532
-"Festive Comet","-","-","-","-","-","Destructoy","Pecan Pecorino Cheese",0.6128266033254157,421
-"Festive Comet","-","-","-","-","-","Destructoy","Super Snowball Charm",0.05938242280285035,421
-"Festive Comet","-","-","-","-","-","Destructoy","Snowball Charm",0.026128266033254157,421
-"Festive Comet","-","-","-","-","-","Miser","Pecan Pecorino Cheese",0.16145833333333334,384
-"Festive Comet","-","-","-","-","-","Miser","Super Snowball Charm",0.057291666666666664,384
-"Festive Comet","-","-","-","-","-","Miser","Snowball Charm",0.026041666666666668,384
-"Festive Comet","-","-","-","-","-","Triple Lutz","Pecan Pecorino Cheese",0.5650118203309693,423
-"Festive Comet","-","-","-","-","-","Triple Lutz","Super Snowball Charm",0.030732860520094562,423
-"Festive Comet","-","-","-","-","-","Triple Lutz","Snowball Charm",0.014184397163120567,423
-"Festive Comet","-","-","-","-","-","Ridiculous Sweater","Pecan Pecorino Cheese",0.3883495145631068,412
-"Festive Comet","-","-","-","-","-","Ridiculous Sweater","Super Snowball Charm",0.06310679611650485,412
-"Festive Comet","-","-","-","-","-","Ridiculous Sweater","Snowball Charm",0.021844660194174758,412
-"Festive Comet","-","-","-","-","-","Snow Sorceress","Snowball Charm",0.603515625,512
-"Festive Comet","-","-","-","-","-","Snow Sorceress","Snow Golem Head",0.17578125,512
-"Festive Comet","-","-","-","-","-","Snow Sorceress","Super Snowball Charm",0.123046875,512
-"Festive Comet","-","-","-","-","-","Stocking","Super Snowball Charm",0.04289544235924933,373
-"Festive Comet","-","-","-","-","-","Stocking","Snowball Charm",0.01876675603217158,373
-"Festive Comet","-","-","-","-","-","Sporty Ski Instructor","Pecan Pecorino Cheese",0.5647058823529412,340
-"Festive Comet","-","-","-","-","-","Sporty Ski Instructor","Super Snowball Charm",0.08823529411764706,340
-"Festive Comet","-","-","-","-","-","Sporty Ski Instructor","Snowball Charm",0.011764705882352941,340
-"Festive Comet","-","-","-","-","-","Young Prodigy Racer","Pecan Pecorino Cheese",0.622356495468278,331
-"Festive Comet","-","-","-","-","-","Young Prodigy Racer","Super Snowball Charm",0.04833836858006042,331
-"Festive Comet","-","-","-","-","-","Young Prodigy Racer","Snowball Charm",0.021148036253776436,331
-"Festive Comet","-","-","-","-","-","Toy","Super Snowball Charm",0.06,300
-"Festive Comet","-","-","-","-","-","Borean Commander","Snow Golem Torso",0.18846153846153846,260
-"Festive Comet","-","-","-","-","-","Borean Commander","Super Snowball Charm",0.05,260
-"Festive Comet","-","-","-","-","-","Borean Commander","Orange Winter Hunt Gift Box",0.038461538461538464,260
-"Festive Comet","-","-","-","-","-","Borean Commander","Snowball Charm",0.03076923076923077,260
-"Festive Comet","-","-","-","-","-","Borean Commander","Extreme Snowball Charm",0.015384615384615385,260
-"Festive Comet","-","-","-","-","-","Borean Commander","Festive Ultimate Luck Charm",0.011538461538461539,260
-"Festive Comet","-","-","-","-","-","Glacia Ice Fist","Snow Golem Torso",0.7024128686327078,373
-"Festive Comet","-","-","-","-","-","Glacia Ice Fist","Super Snowball Charm",0.058981233243967826,373
-"Festive Comet","-","-","-","-","-","Glacia Ice Fist","Snowball Charm",0.04289544235924933,373
-"Festive Comet","-","-","-","-","-","Confused Courier","Pecan Pecorino Cheese",2,284
-"Festive Comet","-","-","-","-","-","Confused Courier","Super Snowball Charm",0.08098591549295775,284
-"Festive Comet","-","-","-","-","-","Confused Courier","Snowball Charm",0.035211267605633804,284
-"Festive Comet","-","-","-","-","-","Tundra Huntress","Winter Charm",0.7383512544802867,279
-"Festive Comet","-","-","-","-","-","Tundra Huntress","Snow Golem Limb",0.08960573476702509,279
-"Festive Comet","-","-","-","-","-","Tundra Huntress","Super Snowball Charm",0.07168458781362007,279
-"Festive Comet","-","-","-","-","-","Tundra Huntress","Snowball Charm",0.043010752688172046,279
-"Festive Comet","-","-","-","-","-","Tundra Huntress","Orange Winter Hunt Gift Box",0.014336917562724014,279
-"Festive Comet","-","-","-","-","-","Tundra Huntress","Extreme Snowball Charm",0.010752688172043012,279
-"Festive Comet","-","-","-","-","-","Candy Cane","Super Snowball Charm",0.03,200
-"Festive Comet","-","-","-","-","-","Candy Cane","Snowball Charm",0.015,200
-"Festive Comet","-","-","-","-","-","Christmas Tree","Super Snowball Charm",0.065,200
-"Festive Comet","-","-","-","-","-","Christmas Tree","Snowball Charm",0.015,200
-"Festive Comet","-","-","-","-","-","Christmas Tree","Extreme Snowball Charm",0.01,200
-"Festive Comet","-","-","-","-","-","Christmas Tree","Orange Winter Hunt Gift Box",0.01,200
-"Festive Comet","-","-","-","-","-","Nutcracker","Super Snowball Charm",0.06451612903225806,186
-"Festive Comet","-","-","-","-","-","Nutcracker","Snowball Charm",0.010752688172043012,186
-"Festive Comet","-","-","-","-","-","Present","Pecan Pecorino Cheese",1.5210084033613445,119
-"Festive Comet","-","-","-","-","-","Present","Super Snowball Charm",0.06722689075630252,119
-"Festive Comet","-","-","-","-","-","Present","Snowball Charm",0.04201680672268908,119
-"Festive Comet","-","-","-","-","-","Mouse of Winter Past","Pecan Pecorino Cheese",1.5466666666666666,75
-"Festive Comet","-","-","-","-","-","Mouse of Winter Past","Super Snowball Charm",0.08,75
-"Festive Comet","-","-","-","-","-","Mouse of Winter Past","Orange Winter Hunt Gift Box",0.02666666666666667,75
-"Festive Comet","-","-","-","-","-","Mouse of Winter Past","Snowball Charm",0.013333333333333334,75
-"Festive Comet","-","-","-","-","-","Greedy Al","Pecan Pecorino Cheese",1,75
-"Festive Comet","-","-","-","-","-","Greedy Al","Super Snowball Charm",0.04,75
-"Festive Comet","-","-","-","-","-","Greedy Al","Extreme Snowball Charm",0.013333333333333334,75
-"Festive Comet","-","-","-","-","-","Mouse of Winter Future","Pecan Pecorino Cheese",1.5,74
-"Festive Comet","-","-","-","-","-","Mouse of Winter Future","Super Snowball Charm",0.08108108108108109,74
-"Festive Comet","-","-","-","-","-","Mouse of Winter Future","Extreme Snowball Charm",0.013513513513513514,74
-"Festive Comet","-","-","-","-","-","Mouse of Winter Future","Snowball Charm",0.013513513513513514,74
-"Festive Comet","-","-","-","-","-","Mouse of Winter Future","Festive Ultimate Luck Charm",0.013513513513513514,74
-"Festive Comet","-","-","-","-","-","Squeaker Claws","Pecan Pecorino Cheese",1,81
-"Festive Comet","-","-","-","-","-","Squeaker Claws","Super Snowball Charm",0.06172839506172839,81
-"Festive Comet","-","-","-","-","-","Squeaker Claws","Snowball Charm",0.04938271604938271,81
-"Festive Comet","-","-","-","-","-","Rainbow Racer","Pecan Pecorino Cheese",1.5517241379310345,58
-"Festive Comet","-","-","-","-","-","Rainbow Racer","Super Snowball Charm",0.034482758620689655,58
-"Festive Comet","-","-","-","-","-","Scrooge","Pecan Pecorino Cheese",1,69
-"Festive Comet","-","-","-","-","-","Scrooge","Super Snowball Charm",0.10144927536231885,69
-"Festive Comet","-","-","-","-","-","Scrooge","Extreme Snowball Charm",0.014492753623188406,69
-"Festive Comet","-","-","-","-","-","Scrooge","Festive Ultimate Power Charm",0.014492753623188406,69
-"Festive Comet","-","-","-","-","-","Scrooge","Orange Winter Hunt Gift Box",0.014492753623188406,69
-"Festive Comet","-","-","-","-","-","Mad Elf","Pecan Pecorino Cheese",1,66
-"Festive Comet","-","-","-","-","-","Mad Elf","Super Snowball Charm",0.10606060606060606,66
-"Festive Comet","-","-","-","-","-","Mad Elf","Orange Winter Hunt Gift Box",0.015151515151515152,66
-"Festive Comet","-","-","-","-","-","Mad Elf","Festive Ultimate Power Charm",0.015151515151515152,66
-"Festive Comet","-","-","-","-","-","Mad Elf","Extreme Snowball Charm",0.015151515151515152,66
-"Festive Comet","-","-","-","-","-","Mad Elf","Snowball Charm",0.015151515151515152,66
-"Festive Comet","-","-","-","-","-","Black Diamond Racer","Pecan Pecorino Cheese",1,64
-"Festive Comet","-","-","-","-","-","Black Diamond Racer","Super Snowball Charm",0.09375,64
-"Festive Comet","-","-","-","-","-","Black Diamond Racer","Snowball Charm",0.046875,64
-"Festive Comet","-","-","-","-","-","Ornament","Pecan Pecorino Cheese",1,59
-"Festive Comet","-","-","-","-","-","Ornament","Super Snowball Charm",0.03389830508474576,59
-"Festive Comet","-","-","-","-","-","Ornament","Orange Winter Hunt Gift Box",0.01694915254237288,59
-"Festive Comet","-","-","-","-","-","Nitro Racer","Pecan Pecorino Cheese",1.462962962962963,54
-"Festive Comet","-","-","-","-","-","Nitro Racer","Super Snowball Charm",0.1111111111111111,54
-"Festive Comet","-","-","-","-","-","Nitro Racer","Snowball Charm",0.05555555555555555,54
-"Festive Comet","-","-","-","-","-","Nitro Racer","Festive Ultimate Luck Charm",0.018518518518518517,54
-"Festive Comet","-","-","-","-","-","Mouse of Winter Present","Pecan Pecorino Cheese",1.4827586206896552,58
-"Festive Comet","-","-","-","-","-","Mouse of Winter Present","Super Snowball Charm",0.05172413793103448,58
-"Festive Comet","-","-","-","-","-","Mouse of Winter Present","Snowball Charm",0.034482758620689655,58
-"Festive Comet","-","-","-","-","-","Double Black Diamond Racer","Pecan Pecorino Cheese",1,49
-"Festive Comet","-","-","-","-","-","Double Black Diamond Racer","Super Snowball Charm",0.061224489795918366,49
-"Festive Comet","-","-","-","-","-","Double Black Diamond Racer","SUPER|brie+",0.02040816326530612,49
-"Festive Comet","-","-","-","-","-","Double Black Diamond Racer","Snowball Charm",0.02040816326530612,49
-"Festive Comet","-","-","-","-","-","Stuck Snowball","Winter Charm",1,524
-"Festive Comet","-","-","-","-","-","Stuck Snowball","Snowball Charm",0.09732824427480916,524
-"Festive Comet","-","-","-","-","-","Stuck Snowball","Super Snowball Charm",0.04961832061068702,524
-"Festive Comet","-","-","-","-","-","Stuck Snowball","Orange Winter Hunt Gift Box",0.022900763358778626,524
-"Festive Comet","-","-","-","-","-","Stuck Snowball","SUPER|brie+",0.015267175572519083,524
-"Festive Comet","-","-","-","-","-","Stuck Snowball","Festive Ultimate Power Charm",0.011450381679389313,524
-"Festive Comet","-","-","-","-","-","Naughty Nougat","Ancient Relic",1,83
-"Festive Comet","-","-","-","-","-","Naughty Nougat","Nugget of Nougat",1,83
-"Festive Comet","-","-","-","-","-","Naughty Nougat","Magical Winter Hunt Holiday Hat",1,83
-"Festive Comet","-","-","-","-","-","Naughty Nougat","SUPER|brie+",4.590361445783133,83
-"Festive Comet","-","-","-","-","-","Naughty Nougat","Snow Golem Theme Scrap I",0.7108433734939759,83
-"Festive Comet","-","-","-","-","-","Naughty Nougat","Festive Ultimate Luck Charm",0.43373493975903615,83
-"Festive Comet","-","-","-","-","-","Naughty Nougat","Festive Ultimate Power Charm",0.30120481927710846,83
-"Festive Comet","-","-","-","-","-","Naughty Nougat","Snow Golem Head",0.2891566265060241,83
-"Festive Comet","-","-","-","-","-","Naughty Nougat","Festive Ultimate Lucky Power Charm",0.2891566265060241,83
-"Festive Comet","-","-","-","-","-","Naughty Nougat","Animated Snow",1.1566265060240963,83
-"Festive Comet","-","-","-","-","-","Naughty Nougat","Snow Golem Torso",0.21686746987951808,83
-"Festive Comet","-","-","-","-","-","Naughty Nougat","Snow Golem Limb",0.5903614457831325,83
-"Festive Comet","-","-","-","-","-","Naughty Nougat","Snowball Charm",0.1686746987951807,83
-"Festive Comet","-","-","-","-","-","Naughty Nougat","Orange Winter Hunt Gift Box",0.060240963855421686,83
-"Festive Comet","-","-","-","-","-","Naughty Nougat","Super Snowball Charm",0.060240963855421686,83
+"Festive Comet","-","-","-","-","-","Snow Scavenger","Snow Golem Limb",1,5208
+"Festive Comet","-","-","-","-","-","Snow Scavenger","Snowball Charm",0.06931643625192012,5208
+"Festive Comet","-","-","-","-","-","Snow Scavenger","Super Snowball Charm",0.06105990783410138,5208
+"Festive Comet","-","-","-","-","-","Snow Scavenger","Orange Winter Hunt Gift Box",0.014592933947772658,5208
+"Festive Comet","-","-","-","-","-","Hoarder","Pecan Pecorino Cheese",1.5008077544426495,1857
+"Festive Comet","-","-","-","-","-","Hoarder","Super Snowball Charm",0.04900376952073236,1857
+"Festive Comet","-","-","-","-","-","Hoarder","Snowball Charm",0.027463651050080775,1857
+"Festive Comet","-","-","-","-","-","Snowblower","Snow Golem Limb",0.16001734605377277,2306
+"Festive Comet","-","-","-","-","-","Snowblower","Snowball Charm",0.055941023417172595,2306
+"Festive Comet","-","-","-","-","-","Snowblower","Super Snowball Charm",0.05290546400693842,2306
+"Festive Comet","-","-","-","-","-","Snowblower","Orange Winter Hunt Gift Box",0.024718126626192542,2306
+"Festive Comet","-","-","-","-","-","Builder","Snow Golem Limb",0.9995073891625615,2030
+"Festive Comet","-","-","-","-","-","Builder","Snowball Charm",0.07389162561576355,2030
+"Festive Comet","-","-","-","-","-","Builder","Super Snowball Charm",0.054679802955665026,2030
+"Festive Comet","-","-","-","-","-","Builder","Orange Winter Hunt Gift Box",0.014285714285714285,2030
+"Festive Comet","-","-","-","-","-","Snow Golem Architect","Snow Golem Limb",2,1420
+"Festive Comet","-","-","-","-","-","Snow Golem Architect","Snow Golem Torso",0.6274647887323944,1420
+"Festive Comet","-","-","-","-","-","Snow Golem Architect","Snow Golem Head",0.5957746478873239,1420
+"Festive Comet","-","-","-","-","-","Snow Golem Architect","Snowball Charm",0.1288732394366197,1420
+"Festive Comet","-","-","-","-","-","Snow Golem Architect","Orange Winter Hunt Gift Box",0.03591549295774648,1420
+"Festive Comet","-","-","-","-","-","Snow Golem Architect","Festive Ultimate Luck Charm",0.014084507042253521,1420
+"Festive Comet","-","-","-","-","-","Snow Golem Architect","Festive Ultimate Power Charm",0.013380281690140845,1420
+"Festive Comet","-","-","-","-","-","Snow Fort","Snowball Charm",1.0610932475884245,1244
+"Festive Comet","-","-","-","-","-","Snow Fort","Super Snowball Charm",0.05466237942122187,1244
+"Festive Comet","-","-","-","-","-","Snow Fort","Orange Winter Hunt Gift Box",0.02090032154340836,1244
+"Festive Comet","-","-","-","-","-","Snow Fort","Festive Ultimate Power Charm",0.012861736334405145,1244
+"Festive Comet","-","-","-","-","-","Joy","Pecan Pecorino Cheese",2,958
+"Festive Comet","-","-","-","-","-","Joy","Winter Charm",1,958
+"Festive Comet","-","-","-","-","-","Joy","Super Snowball Charm",0.07306889352818371,958
+"Festive Comet","-","-","-","-","-","Joy","Snowball Charm",0.030271398747390398,958
+"Festive Comet","-","-","-","-","-","Reinbo","Snowball Charm",0.9841930116472546,1202
+"Festive Comet","-","-","-","-","-","Reinbo","Super Snowball Charm",0.15391014975041598,1202
+"Festive Comet","-","-","-","-","-","Reinbo","Orange Winter Hunt Gift Box",0.015806988352745424,1202
+"Festive Comet","-","-","-","-","-","Nice Knitting","Snow Golem Head",1,1179
+"Festive Comet","-","-","-","-","-","Nice Knitting","Snowball Charm",0.06870229007633588,1179
+"Festive Comet","-","-","-","-","-","Nice Knitting","Super Snowball Charm",0.058524173027989825,1179
+"Festive Comet","-","-","-","-","-","Nice Knitting","Orange Winter Hunt Gift Box",0.01441899915182358,1179
+"Festive Comet","-","-","-","-","-","Nice Knitting","Festive Ultimate Power Charm",0.01102629346904156,1179
+"Festive Comet","-","-","-","-","-","Snowglobe","Snowball Charm",0.07510917030567686,1145
+"Festive Comet","-","-","-","-","-","Snowglobe","Super Snowball Charm",0.04279475982532751,1145
+"Festive Comet","-","-","-","-","-","Snowglobe","Orange Winter Hunt Gift Box",0.027074235807860263,1145
+"Festive Comet","-","-","-","-","-","Snowglobe","Festive Ultimate Power Charm",0.011353711790393014,1145
+"Festive Comet","-","-","-","-","-","Snowglobe","SUPER|brie+",0.010480349344978166,1145
+"Festive Comet","-","-","-","-","-","Slay Ride","Winter Charm",0.7742980561555075,926
+"Festive Comet","-","-","-","-","-","Slay Ride","Snowball Charm",0.07667386609071274,926
+"Festive Comet","-","-","-","-","-","Slay Ride","Super Snowball Charm",0.04319654427645788,926
+"Festive Comet","-","-","-","-","-","Slay Ride","Orange Winter Hunt Gift Box",0.0183585313174946,926
+"Festive Comet","-","-","-","-","-","Snow Golem Jockey","Snow Golem Torso",1,965
+"Festive Comet","-","-","-","-","-","Snow Golem Jockey","Snowball Charm",0.07979274611398963,965
+"Festive Comet","-","-","-","-","-","Snow Golem Jockey","Super Snowball Charm",0.05595854922279793,965
+"Festive Comet","-","-","-","-","-","Snow Golem Jockey","Orange Winter Hunt Gift Box",0.017616580310880828,965
+"Festive Comet","-","-","-","-","-","Elf","Orange Winter Hunt Gift Box",0.950259067357513,965
+"Festive Comet","-","-","-","-","-","Elf","Snowball Charm",0.07046632124352331,965
+"Festive Comet","-","-","-","-","-","Elf","Super Snowball Charm",0.04870466321243523,965
+"Festive Comet","-","-","-","-","-","Elf","Green Winter Hunt Gift Box",0.015544041450777202,965
+"Festive Comet","-","-","-","-","-","Elf","Purple Winter Hunt Gift Box",0.013471502590673576,965
+"Festive Comet","-","-","-","-","-","Elf","Orange Winter Hunt Gift Boxe",0.02694300518134715,965
+"Festive Comet","-","-","-","-","-","Elf","Festive Ultimate Power Charm",0.012435233160621761,965
+"Festive Comet","-","-","-","-","-","Snow Boulder","Winter Charm",1,699
+"Festive Comet","-","-","-","-","-","Snow Boulder","Pecan Pecorino Cheese",0.3648068669527897,699
+"Festive Comet","-","-","-","-","-","Snow Boulder","Super Snowball Charm",0.06580829756795423,699
+"Festive Comet","-","-","-","-","-","Snow Boulder","Snowball Charm",0.024320457796852647,699
+"Festive Comet","-","-","-","-","-","Great Winter Hunt Impostor","Winter Charm",0.7939110070257611,854
+"Festive Comet","-","-","-","-","-","Great Winter Hunt Impostor","Snowball Charm",0.06440281030444965,854
+"Festive Comet","-","-","-","-","-","Great Winter Hunt Impostor","Super Snowball Charm",0.06323185011709602,854
+"Festive Comet","-","-","-","-","-","Great Winter Hunt Impostor","Orange Winter Hunt Gift Box",0.01990632318501171,854
+"Festive Comet","-","-","-","-","-","Snowflake","Pecan Pecorino Cheese",2,734
+"Festive Comet","-","-","-","-","-","Snowflake","Let it Snow Charm",1,734
+"Festive Comet","-","-","-","-","-","Snowflake","Snowball Charm",0.04087193460490463,734
+"Festive Comet","-","-","-","-","-","Snowflake","Orange Winter Hunt Gift Box",0.017711171662125342,734
+"Festive Comet","-","-","-","-","-","Gingerbread","Pecan Pecorino Cheese",0.41194029850746267,670
+"Festive Comet","-","-","-","-","-","Gingerbread","Super Snowball Charm",0.056716417910447764,670
+"Festive Comet","-","-","-","-","-","Gingerbread","Snowball Charm",0.023880597014925373,670
+"Festive Comet","-","-","-","-","-","Toboggan Technician","Pecan Pecorino Cheese",1,609
+"Festive Comet","-","-","-","-","-","Toboggan Technician","Winter Charm",1,609
+"Festive Comet","-","-","-","-","-","Toboggan Technician","Super Snowball Charm",0.059113300492610835,609
+"Festive Comet","-","-","-","-","-","Toboggan Technician","Snowball Charm",0.024630541871921183,609
+"Festive Comet","-","-","-","-","-","Toboggan Technician","Orange Winter Hunt Gift Box",0.019704433497536946,609
+"Festive Comet","-","-","-","-","-","Missile Toe","Pecan Pecorino Cheese",0.585278276481149,557
+"Festive Comet","-","-","-","-","-","Missile Toe","Super Snowball Charm",0.06283662477558348,557
+"Festive Comet","-","-","-","-","-","Missile Toe","Snowball Charm",0.03052064631956912,557
+"Festive Comet","-","-","-","-","-","Snowball Hoarder","Pecan Pecorino Cheese",1,637
+"Festive Comet","-","-","-","-","-","Snowball Hoarder","Super Snowball Charm",0.0423861852433281,637
+"Festive Comet","-","-","-","-","-","Snowball Hoarder","Snowball Charm",0.018838304552590265,637
+"Festive Comet","-","-","-","-","-","Frigid Foreman","Snow Golem Torso",1,662
+"Festive Comet","-","-","-","-","-","Frigid Foreman","Snowball Charm",0.06042296072507553,662
+"Festive Comet","-","-","-","-","-","Frigid Foreman","Super Snowball Charm",0.055891238670694864,662
+"Festive Comet","-","-","-","-","-","Frigid Foreman","Orange Winter Hunt Gift Box",0.019637462235649546,662
+"Festive Comet","-","-","-","-","-","Wreath Thief","Pecan Pecorino Cheese",0.6119133574007221,554
+"Festive Comet","-","-","-","-","-","Wreath Thief","Super Snowball Charm",0.052346570397111915,554
+"Festive Comet","-","-","-","-","-","Wreath Thief","Snowball Charm",0.023465703971119134,554
+"Festive Comet","-","-","-","-","-","Toy Tinkerer","Pecan Pecorino Cheese",0.5923344947735192,574
+"Festive Comet","-","-","-","-","-","Toy Tinkerer","Super Snowball Charm",0.05574912891986063,574
+"Festive Comet","-","-","-","-","-","Toy Tinkerer","Snowball Charm",0.027874564459930314,574
+"Festive Comet","-","-","-","-","-","Toy Tinkerer","Orange Winter Hunt Gift Box",0.010452961672473868,574
+"Festive Comet","-","-","-","-","-","S.N.O.W. Golem","Snow Golem Limb",1,681
+"Festive Comet","-","-","-","-","-","S.N.O.W. Golem","Snowball Charm",1.0352422907488987,681
+"Festive Comet","-","-","-","-","-","S.N.O.W. Golem","Super Snowball Charm",0.09838472834067548,681
+"Festive Comet","-","-","-","-","-","S.N.O.W. Golem","Orange Winter Hunt Gift Box",0.013215859030837005,681
+"Festive Comet","-","-","-","-","-","Ribbon","Pecan Pecorino Cheese",0.5627376425855514,526
+"Festive Comet","-","-","-","-","-","Ribbon","Super Snowball Charm",0.049429657794676805,526
+"Festive Comet","-","-","-","-","-","Free Skiing","Snow Golem Head",1,685
+"Festive Comet","-","-","-","-","-","Free Skiing","Super Snowball Charm",0.061313868613138686,685
+"Festive Comet","-","-","-","-","-","Free Skiing","Snowball Charm",0.059854014598540145,685
+"Festive Comet","-","-","-","-","-","Free Skiing","Orange Winter Hunt Gift Box",0.017518248175182483,685
+"Festive Comet","-","-","-","-","-","Free Skiing","Festive Ultimate Luck Charm",0.01167883211678832,685
+"Festive Comet","-","-","-","-","-","Destructoy","Pecan Pecorino Cheese",0.6199616122840691,521
+"Festive Comet","-","-","-","-","-","Destructoy","Super Snowball Charm",0.05758157389635317,521
+"Festive Comet","-","-","-","-","-","Destructoy","Snowball Charm",0.026871401151631478,521
+"Festive Comet","-","-","-","-","-","Miser","Pecan Pecorino Cheese",0.16114790286975716,453
+"Festive Comet","-","-","-","-","-","Miser","Super Snowball Charm",0.05739514348785872,453
+"Festive Comet","-","-","-","-","-","Miser","Snowball Charm",0.024282560706401765,453
+"Festive Comet","-","-","-","-","-","Miser","Orange Winter Hunt Gift Box",0.011037527593818985,453
+"Festive Comet","-","-","-","-","-","Triple Lutz","Pecan Pecorino Cheese",0.5642458100558659,537
+"Festive Comet","-","-","-","-","-","Triple Lutz","Super Snowball Charm",0.03165735567970205,537
+"Festive Comet","-","-","-","-","-","Triple Lutz","Snowball Charm",0.024208566108007448,537
+"Festive Comet","-","-","-","-","-","Triple Lutz","Orange Winter Hunt Gift Box",0.0111731843575419,537
+"Festive Comet","-","-","-","-","-","Ridiculous Sweater","Pecan Pecorino Cheese",0.3932135728542914,501
+"Festive Comet","-","-","-","-","-","Ridiculous Sweater","Super Snowball Charm",0.06187624750499002,501
+"Festive Comet","-","-","-","-","-","Ridiculous Sweater","Snowball Charm",0.031936127744510975,501
+"Festive Comet","-","-","-","-","-","Snow Sorceress","Snowball Charm",0.6227272727272727,660
+"Festive Comet","-","-","-","-","-","Snow Sorceress","Snow Golem Head",0.15757575757575756,660
+"Festive Comet","-","-","-","-","-","Snow Sorceress","Super Snowball Charm",0.11818181818181818,660
+"Festive Comet","-","-","-","-","-","Snow Sorceress","Orange Winter Hunt Gift Box",0.019696969696969695,660
+"Festive Comet","-","-","-","-","-","Stocking","Super Snowball Charm",0.046875,448
+"Festive Comet","-","-","-","-","-","Stocking","Snowball Charm",0.020089285714285716,448
+"Festive Comet","-","-","-","-","-","Sporty Ski Instructor","Pecan Pecorino Cheese",0.5629453681710214,421
+"Festive Comet","-","-","-","-","-","Sporty Ski Instructor","Super Snowball Charm",0.07838479809976247,421
+"Festive Comet","-","-","-","-","-","Sporty Ski Instructor","Snowball Charm",0.019002375296912115,421
+"Festive Comet","-","-","-","-","-","Young Prodigy Racer","Pecan Pecorino Cheese",0.6,405
+"Festive Comet","-","-","-","-","-","Young Prodigy Racer","Super Snowball Charm",0.05185185185185185,405
+"Festive Comet","-","-","-","-","-","Young Prodigy Racer","Snowball Charm",0.04691358024691358,405
+"Festive Comet","-","-","-","-","-","Toy","Super Snowball Charm",0.06914893617021277,376
+"Festive Comet","-","-","-","-","-","Toy","Snowball Charm",0.018617021276595744,376
+"Festive Comet","-","-","-","-","-","Borean Commander","Snow Golem Torso",0.18562874251497005,334
+"Festive Comet","-","-","-","-","-","Borean Commander","Snowball Charm",0.0748502994011976,334
+"Festive Comet","-","-","-","-","-","Borean Commander","Super Snowball Charm",0.059880239520958084,334
+"Festive Comet","-","-","-","-","-","Borean Commander","Orange Winter Hunt Gift Box",0.038922155688622756,334
+"Festive Comet","-","-","-","-","-","Borean Commander","SUPER|brie+",0.014970059880239521,334
+"Festive Comet","-","-","-","-","-","Borean Commander","Extreme Snowball Charm",0.011976047904191617,334
+"Festive Comet","-","-","-","-","-","Glacia Ice Fist","Snow Golem Torso",0.7006369426751592,471
+"Festive Comet","-","-","-","-","-","Glacia Ice Fist","Snowball Charm",0.07006369426751592,471
+"Festive Comet","-","-","-","-","-","Glacia Ice Fist","Super Snowball Charm",0.059447983014861996,471
+"Festive Comet","-","-","-","-","-","Glacia Ice Fist","Orange Winter Hunt Gift Box",0.016985138004246284,471
+"Festive Comet","-","-","-","-","-","Confused Courier","Pecan Pecorino Cheese",2,334
+"Festive Comet","-","-","-","-","-","Confused Courier","Super Snowball Charm",0.07784431137724551,334
+"Festive Comet","-","-","-","-","-","Confused Courier","Snowball Charm",0.05389221556886228,334
+"Festive Comet","-","-","-","-","-","Tundra Huntress","Winter Charm",0.810880829015544,386
+"Festive Comet","-","-","-","-","-","Tundra Huntress","Snow Golem Limb",0.08549222797927461,386
+"Festive Comet","-","-","-","-","-","Tundra Huntress","Snowball Charm",0.07512953367875648,386
+"Festive Comet","-","-","-","-","-","Tundra Huntress","Super Snowball Charm",0.06217616580310881,386
+"Festive Comet","-","-","-","-","-","Tundra Huntress","SUPER|brie+",0.015544041450777202,386
+"Festive Comet","-","-","-","-","-","Tundra Huntress","Orange Winter Hunt Gift Box",0.012953367875647668,386
+"Festive Comet","-","-","-","-","-","Candy Cane","Snowball Charm",0.036290322580645164,248
+"Festive Comet","-","-","-","-","-","Candy Cane","Super Snowball Charm",0.03225806451612903,248
+"Festive Comet","-","-","-","-","-","Christmas Tree","Super Snowball Charm",0.06,250
+"Festive Comet","-","-","-","-","-","Christmas Tree","Snowball Charm",0.04,250
+"Festive Comet","-","-","-","-","-","Nutcracker","Super Snowball Charm",0.06926406926406926,231
+"Festive Comet","-","-","-","-","-","Nutcracker","Snowball Charm",0.017316017316017316,231
+"Festive Comet","-","-","-","-","-","Present","Pecan Pecorino Cheese",1.5106382978723405,141
+"Festive Comet","-","-","-","-","-","Present","Super Snowball Charm",0.06382978723404255,141
+"Festive Comet","-","-","-","-","-","Present","Snowball Charm",0.04964539007092199,141
+"Festive Comet","-","-","-","-","-","Mouse of Winter Past","Pecan Pecorino Cheese",1.5212765957446808,94
+"Festive Comet","-","-","-","-","-","Mouse of Winter Past","Super Snowball Charm",0.07446808510638298,94
+"Festive Comet","-","-","-","-","-","Mouse of Winter Past","Orange Winter Hunt Gift Box",0.02127659574468085,94
+"Festive Comet","-","-","-","-","-","Mouse of Winter Past","Festive Ultimate Luck Charm",0.010638297872340425,94
+"Festive Comet","-","-","-","-","-","Mouse of Winter Past","Snowball Charm",0.010638297872340425,94
+"Festive Comet","-","-","-","-","-","Greedy Al","Pecan Pecorino Cheese",1,91
+"Festive Comet","-","-","-","-","-","Greedy Al","Super Snowball Charm",0.04395604395604396,91
+"Festive Comet","-","-","-","-","-","Greedy Al","Snowball Charm",0.03296703296703297,91
+"Festive Comet","-","-","-","-","-","Greedy Al","Extreme Snowball Charm",0.01098901098901099,91
+"Festive Comet","-","-","-","-","-","Greedy Al","Orange Winter Hunt Gift Box",0.01098901098901099,91
+"Festive Comet","-","-","-","-","-","Mouse of Winter Future","Pecan Pecorino Cheese",1.5168539325842696,89
+"Festive Comet","-","-","-","-","-","Mouse of Winter Future","Super Snowball Charm",0.07865168539325842,89
+"Festive Comet","-","-","-","-","-","Mouse of Winter Future","Snowball Charm",0.033707865168539325,89
+"Festive Comet","-","-","-","-","-","Mouse of Winter Future","Extreme Snowball Charm",0.011235955056179775,89
+"Festive Comet","-","-","-","-","-","Mouse of Winter Future","Festive Ultimate Luck Charm",0.011235955056179775,89
+"Festive Comet","-","-","-","-","-","Mouse of Winter Future","SUPER|brie+",0.011235955056179775,89
+"Festive Comet","-","-","-","-","-","Squeaker Claws","Pecan Pecorino Cheese",1,101
+"Festive Comet","-","-","-","-","-","Squeaker Claws","Snowball Charm",0.06930693069306931,101
+"Festive Comet","-","-","-","-","-","Squeaker Claws","Super Snowball Charm",0.0594059405940594,101
+"Festive Comet","-","-","-","-","-","Rainbow Racer","Pecan Pecorino Cheese",1.5352112676056338,71
+"Festive Comet","-","-","-","-","-","Rainbow Racer","Super Snowball Charm",0.028169014084507043,71
+"Festive Comet","-","-","-","-","-","Rainbow Racer","Snowball Charm",0.028169014084507043,71
+"Festive Comet","-","-","-","-","-","Scrooge","Pecan Pecorino Cheese",1,81
+"Festive Comet","-","-","-","-","-","Scrooge","Super Snowball Charm",0.1111111111111111,81
+"Festive Comet","-","-","-","-","-","Scrooge","Festive Ultimate Power Charm",0.012345679012345678,81
+"Festive Comet","-","-","-","-","-","Scrooge","Orange Winter Hunt Gift Box",0.012345679012345678,81
+"Festive Comet","-","-","-","-","-","Scrooge","Extreme Snowball Charm",0.012345679012345678,81
+"Festive Comet","-","-","-","-","-","Mad Elf","Pecan Pecorino Cheese",1,81
+"Festive Comet","-","-","-","-","-","Mad Elf","Super Snowball Charm",0.08641975308641975,81
+"Festive Comet","-","-","-","-","-","Mad Elf","Orange Winter Hunt Gift Box",0.037037037037037035,81
+"Festive Comet","-","-","-","-","-","Mad Elf","Festive Ultimate Power Charm",0.024691358024691357,81
+"Festive Comet","-","-","-","-","-","Mad Elf","Extreme Snowball Charm",0.012345679012345678,81
+"Festive Comet","-","-","-","-","-","Mad Elf","Snowball Charm",0.012345679012345678,81
+"Festive Comet","-","-","-","-","-","Black Diamond Racer","Pecan Pecorino Cheese",1,79
+"Festive Comet","-","-","-","-","-","Black Diamond Racer","Super Snowball Charm",0.08860759493670886,79
+"Festive Comet","-","-","-","-","-","Black Diamond Racer","Snowball Charm",0.0759493670886076,79
+"Festive Comet","-","-","-","-","-","Ornament","Pecan Pecorino Cheese",1,68
+"Festive Comet","-","-","-","-","-","Ornament","Super Snowball Charm",0.029411764705882353,68
+"Festive Comet","-","-","-","-","-","Ornament","Orange Winter Hunt Gift Box",0.014705882352941176,68
+"Festive Comet","-","-","-","-","-","Ornament","Snowball Charm",0.014705882352941176,68
+"Festive Comet","-","-","-","-","-","Nitro Racer","Pecan Pecorino Cheese",1.5138888888888888,72
+"Festive Comet","-","-","-","-","-","Nitro Racer","Super Snowball Charm",0.09722222222222222,72
+"Festive Comet","-","-","-","-","-","Nitro Racer","Snowball Charm",0.041666666666666664,72
+"Festive Comet","-","-","-","-","-","Nitro Racer","Festive Ultimate Luck Charm",0.013888888888888888,72
+"Festive Comet","-","-","-","-","-","Nitro Racer","Orange Winter Hunt Gift Box",0.013888888888888888,72
+"Festive Comet","-","-","-","-","-","Mouse of Winter Present","Pecan Pecorino Cheese",1.4722222222222223,72
+"Festive Comet","-","-","-","-","-","Mouse of Winter Present","Super Snowball Charm",0.05555555555555555,72
+"Festive Comet","-","-","-","-","-","Mouse of Winter Present","Snowball Charm",0.041666666666666664,72
+"Festive Comet","-","-","-","-","-","Double Black Diamond Racer","Pecan Pecorino Cheese",1,63
+"Festive Comet","-","-","-","-","-","Double Black Diamond Racer","Super Snowball Charm",0.06349206349206349,63
+"Festive Comet","-","-","-","-","-","Double Black Diamond Racer","SUPER|brie+",0.015873015873015872,63
+"Festive Comet","-","-","-","-","-","Double Black Diamond Racer","Snowball Charm",0.015873015873015872,63
+"Festive Comet","-","-","-","-","-","Stuck Snowball","Winter Charm",1,792
+"Festive Comet","-","-","-","-","-","Stuck Snowball","Snowball Charm",0.11616161616161616,792
+"Festive Comet","-","-","-","-","-","Stuck Snowball","Super Snowball Charm",0.050505050505050504,792
+"Festive Comet","-","-","-","-","-","Stuck Snowball","Orange Winter Hunt Gift Box",0.025252525252525252,792
+"Festive Comet","-","-","-","-","-","Stuck Snowball","SUPER|brie+",0.020202020202020204,792
+"Festive Comet","-","-","-","-","-","Stuck Snowball","Festive Ultimate Power Charm",0.013888888888888888,792
+"Festive Comet","-","-","-","-","-","Naughty Nougat","Ancient Relic",1,157
+"Festive Comet","-","-","-","-","-","Naughty Nougat","Nugget of Nougat",1,157
+"Festive Comet","-","-","-","-","-","Naughty Nougat","Magical Winter Hunt Holiday Hat",1,157
+"Festive Comet","-","-","-","-","-","Naughty Nougat","SUPER|brie+",4.573248407643312,157
+"Festive Comet","-","-","-","-","-","Naughty Nougat","Snow Golem Theme Scrap I",0.6178343949044586,157
+"Festive Comet","-","-","-","-","-","Naughty Nougat","Festive Ultimate Luck Charm",0.4140127388535032,157
+"Festive Comet","-","-","-","-","-","Naughty Nougat","Festive Ultimate Power Charm",0.3184713375796178,157
+"Festive Comet","-","-","-","-","-","Naughty Nougat","Festive Ultimate Lucky Power Charm",0.2929936305732484,157
+"Festive Comet","-","-","-","-","-","Naughty Nougat","Animated Snow",1.2292993630573248,157
+"Festive Comet","-","-","-","-","-","Naughty Nougat","Snow Golem Head",0.267515923566879,157
+"Festive Comet","-","-","-","-","-","Naughty Nougat","Snow Golem Limb",0.5605095541401274,157
+"Festive Comet","-","-","-","-","-","Naughty Nougat","Snow Golem Torso",0.21656050955414013,157
+"Festive Comet","-","-","-","-","-","Naughty Nougat","Snowball Charm",0.16560509554140126,157
+"Festive Comet","-","-","-","-","-","Naughty Nougat","Super Snowball Charm",0.07643312101910828,157
+"Festive Comet","-","-","-","-","-","Naughty Nougat","Orange Winter Hunt Gift Box",0.05732484076433121,157
