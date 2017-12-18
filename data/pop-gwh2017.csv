@@ -1,847 +1,934 @@
 "Location","Phase","Cheese","Charm","Attraction Rate","Mouse","Sample Size"
-"Festive Comet","Snow (1)","Pecan Pecorino","-","20.47%","Snow Scavenger",171
-"Festive Comet","Snow (1)","Pecan Pecorino","-","14.62%","Snowblower",171
-"Festive Comet","Snow (1)","Pecan Pecorino","-","7.60%","Builder",171
-"Festive Comet","Snow (1)","Pecan Pecorino","-","7.02%","Reinbo",171
-"Festive Comet","Snow (1)","Pecan Pecorino","-","5.85%","Snowglobe",171
-"Festive Comet","Snow (1)","Pecan Pecorino","-","5.85%","Great Winter Hunt Impostor",171
-"Festive Comet","Snow (1)","Pecan Pecorino","-","5.26%","Nice Knitting",171
-"Festive Comet","Snow (1)","Pecan Pecorino","-","4.68%","Elf",171
-"Festive Comet","Snow (1)","Pecan Pecorino","-","4.68%","Stuck Snowball",171
-"Festive Comet","Snow (1)","Pecan Pecorino","-","4.09%","Snow Fort",171
-"Festive Comet","Snow (1)","Pecan Pecorino","-","3.51%","Frigid Foreman",171
-"Festive Comet","Snow (1)","Pecan Pecorino","-","3.51%","Snow Sorceress",171
-"Festive Comet","Snow (1)","Pecan Pecorino","-","2.34%","Slay Ride",171
-"Festive Comet","Snow (1)","Pecan Pecorino","-","2.34%","Free Skiing",171
-"Festive Comet","Snow (1)","Pecan Pecorino","-","2.34%","Borean Commander",171
-"Festive Comet","Snow (1)","Pecan Pecorino","-","2.34%","S.N.O.W. Golem",171
-"Festive Comet","Snow (1)","Pecan Pecorino","-","1.75%","Snow Golem Jockey",171
-"Festive Comet","Snow (1)","Pecan Pecorino","-","1.17%","Glacia Ice Fist",171
-"Festive Comet","Snow (1)","Pecan Pecorino","-","0.58%","Tundra Huntress",171
-"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","-","21.35%","Snow Scavenger",267
-"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","-","8.24%","Snowblower",267
-"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","-","8.24%","Builder",267
-"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","-","6.37%","Snowglobe",267
-"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","-","6.37%","Reinbo",267
-"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","-","6.37%","Stuck Snowball",267
-"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","-","5.62%","Snow Fort",267
-"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","-","5.24%","Slay Ride",267
-"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","-","4.87%","Nice Knitting",267
-"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","-","3.75%","Snow Sorceress",267
-"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","-","3.75%","S.N.O.W. Golem",267
-"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","-","3.37%","Borean Commander",267
-"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","-","3.00%","Snow Golem Jockey",267
-"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","-","3.00%","Glacia Ice Fist",267
-"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","-","3.00%","Great Winter Hunt Impostor",267
-"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","-","2.62%","Tundra Huntress",267
-"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","-","1.87%","Elf",267
-"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","-","1.87%","Free Skiing",267
-"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","-","1.12%","Frigid Foreman",267
-"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","Winter","25.96%","Snow Scavenger",104
-"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","Winter","11.54%","Snowblower",104
-"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","Winter","10.58%","Snowflake",104
-"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","Winter","6.73%","Slay Ride",104
-"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","Winter","5.77%","Builder",104
-"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","Winter","5.77%","Snow Golem Jockey",104
-"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","Winter","4.81%","Reinbo",104
-"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","Winter","4.81%","Elf",104
-"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","Winter","4.81%","S.N.O.W. Golem",104
-"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","Winter","4.81%","Snowglobe",104
-"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","Winter","3.85%","Snow Fort",104
-"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","Winter","1.92%","Stuck Snowball",104
-"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","Winter","1.92%","Nice Knitting",104
-"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","Winter","1.92%","Tundra Huntress",104
-"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","Winter","0.96%","Frigid Foreman",104
-"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","Winter","0.96%","Free Skiing",104
-"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","Winter","0.96%","Snow Sorceress",104
-"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","Winter","0.96%","Great Winter Hunt Impostor",104
-"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","Winter","0.96%","Borean Commander",104
-"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","Let It Snow","18.64%","Snow Golem Architect",177
-"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","Let It Snow","15.82%","Snow Scavenger",177
-"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","Let It Snow","9.04%","Snowblower",177
-"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","Let It Snow","6.21%","Slay Ride",177
-"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","Let It Snow","6.21%","Stuck Snowball",177
-"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","Let It Snow","5.08%","Builder",177
-"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","Let It Snow","4.52%","Nice Knitting",177
-"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","Let It Snow","4.52%","S.N.O.W. Golem",177
-"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","Let It Snow","3.95%","Snowglobe",177
-"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","Let It Snow","3.95%","Elf",177
-"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","Let It Snow","3.95%","Snow Fort",177
-"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","Let It Snow","3.39%","Frigid Foreman",177
-"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","Let It Snow","3.39%","Reinbo",177
-"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","Let It Snow","2.82%","Snow Sorceress",177
-"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","Let It Snow","2.26%","Glacia Ice Fist",177
-"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","Let It Snow","2.26%","Great Winter Hunt Impostor",177
-"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","Let It Snow","1.69%","Snow Golem Jockey",177
-"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","Let It Snow","1.13%","Borean Commander",177
-"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","Let It Snow","0.56%","Tundra Huntress",177
-"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","Let It Snow","0.56%","Free Skiing",177
-"Festive Comet","Yule Log (3)","Pecan Pecorino","-","24.92%","Snow Scavenger",610
-"Festive Comet","Yule Log (3)","Pecan Pecorino","-","11.80%","Snowblower",610
-"Festive Comet","Yule Log (3)","Pecan Pecorino","-","7.21%","Builder",610
-"Festive Comet","Yule Log (3)","Pecan Pecorino","-","6.23%","Nice Knitting",610
-"Festive Comet","Yule Log (3)","Pecan Pecorino","-","5.90%","Stuck Snowball",610
-"Festive Comet","Yule Log (3)","Pecan Pecorino","-","4.92%","Snow Fort",610
-"Festive Comet","Yule Log (3)","Pecan Pecorino","-","4.75%","Slay Ride",610
-"Festive Comet","Yule Log (3)","Pecan Pecorino","-","4.10%","Snowglobe",610
-"Festive Comet","Yule Log (3)","Pecan Pecorino","-","4.10%","Elf",610
-"Festive Comet","Yule Log (3)","Pecan Pecorino","-","3.77%","Snow Sorceress",610
-"Festive Comet","Yule Log (3)","Pecan Pecorino","-","3.61%","Reinbo",610
-"Festive Comet","Yule Log (3)","Pecan Pecorino","-","3.11%","S.N.O.W. Golem",610
-"Festive Comet","Yule Log (3)","Pecan Pecorino","-","3.11%","Snow Golem Jockey",610
-"Festive Comet","Yule Log (3)","Pecan Pecorino","-","2.79%","Free Skiing",610
-"Festive Comet","Yule Log (3)","Pecan Pecorino","-","2.62%","Frigid Foreman",610
-"Festive Comet","Yule Log (3)","Pecan Pecorino","-","2.30%","Great Winter Hunt Impostor",610
-"Festive Comet","Yule Log (3)","Pecan Pecorino","-","2.13%","Glacia Ice Fist",610
-"Festive Comet","Yule Log (3)","Pecan Pecorino","-","1.31%","Borean Commander",610
-"Festive Comet","Yule Log (3)","Pecan Pecorino","-","1.31%","Tundra Huntress",610
-"Festive Comet","Yule Log (3)","Pecan Pecorino","Winter","18.70%","Snow Scavenger",230
-"Festive Comet","Yule Log (3)","Pecan Pecorino","Winter","11.74%","Snowflake",230
-"Festive Comet","Yule Log (3)","Pecan Pecorino","Winter","10.00%","Snowblower",230
-"Festive Comet","Yule Log (3)","Pecan Pecorino","Winter","7.83%","Stuck Snowball",230
-"Festive Comet","Yule Log (3)","Pecan Pecorino","Winter","6.52%","Builder",230
-"Festive Comet","Yule Log (3)","Pecan Pecorino","Winter","5.65%","Snowglobe",230
-"Festive Comet","Yule Log (3)","Pecan Pecorino","Winter","5.22%","Slay Ride",230
-"Festive Comet","Yule Log (3)","Pecan Pecorino","Winter","5.22%","Snow Fort",230
-"Festive Comet","Yule Log (3)","Pecan Pecorino","Winter","4.35%","Reinbo",230
-"Festive Comet","Yule Log (3)","Pecan Pecorino","Winter","3.91%","Great Winter Hunt Impostor",230
-"Festive Comet","Yule Log (3)","Pecan Pecorino","Winter","2.61%","Snow Golem Jockey",230
-"Festive Comet","Yule Log (3)","Pecan Pecorino","Winter","2.61%","Free Skiing",230
-"Festive Comet","Yule Log (3)","Pecan Pecorino","Winter","2.61%","Frigid Foreman",230
-"Festive Comet","Yule Log (3)","Pecan Pecorino","Winter","2.17%","Glacia Ice Fist",230
-"Festive Comet","Yule Log (3)","Pecan Pecorino","Winter","2.17%","Tundra Huntress",230
-"Festive Comet","Yule Log (3)","Pecan Pecorino","Winter","2.17%","S.N.O.W. Golem",230
-"Festive Comet","Yule Log (3)","Pecan Pecorino","Winter","1.74%","Borean Commander",230
-"Festive Comet","Yule Log (3)","Pecan Pecorino","Winter","1.74%","Snow Sorceress",230
-"Festive Comet","Yule Log (3)","Pecan Pecorino","Winter","1.74%","Nice Knitting",230
-"Festive Comet","Yule Log (3)","Pecan Pecorino","Winter","1.30%","Elf",230
-"Festive Comet","Yule Log (3)","Pecan Pecorino","Let It Snow","16.67%","Snow Golem Architect",282
-"Festive Comet","Yule Log (3)","Pecan Pecorino","Let It Snow","15.96%","Snow Scavenger",282
-"Festive Comet","Yule Log (3)","Pecan Pecorino","Let It Snow","9.22%","Snowblower",282
-"Festive Comet","Yule Log (3)","Pecan Pecorino","Let It Snow","7.45%","Builder",282
-"Festive Comet","Yule Log (3)","Pecan Pecorino","Let It Snow","5.32%","Reinbo",282
-"Festive Comet","Yule Log (3)","Pecan Pecorino","Let It Snow","4.96%","Nice Knitting",282
-"Festive Comet","Yule Log (3)","Pecan Pecorino","Let It Snow","4.96%","Slay Ride",282
-"Festive Comet","Yule Log (3)","Pecan Pecorino","Let It Snow","4.96%","Snow Fort",282
-"Festive Comet","Yule Log (3)","Pecan Pecorino","Let It Snow","3.90%","Snow Golem Jockey",282
-"Festive Comet","Yule Log (3)","Pecan Pecorino","Let It Snow","3.90%","Snowglobe",282
-"Festive Comet","Yule Log (3)","Pecan Pecorino","Let It Snow","3.55%","Stuck Snowball",282
-"Festive Comet","Yule Log (3)","Pecan Pecorino","Let It Snow","3.55%","Elf",282
-"Festive Comet","Yule Log (3)","Pecan Pecorino","Let It Snow","3.55%","Snow Sorceress",282
-"Festive Comet","Yule Log (3)","Pecan Pecorino","Let It Snow","2.13%","S.N.O.W. Golem",282
-"Festive Comet","Yule Log (3)","Pecan Pecorino","Let It Snow","1.77%","Glacia Ice Fist",282
-"Festive Comet","Yule Log (3)","Pecan Pecorino","Let It Snow","1.77%","Great Winter Hunt Impostor",282
-"Festive Comet","Yule Log (3)","Pecan Pecorino","Let It Snow","1.77%","Frigid Foreman",282
-"Festive Comet","Yule Log (3)","Pecan Pecorino","Let It Snow","1.77%","Borean Commander",282
-"Festive Comet","Yule Log (3)","Pecan Pecorino","Let It Snow","1.77%","Free Skiing",282
-"Festive Comet","Yule Log (3)","Pecan Pecorino","Let It Snow","1.06%","Tundra Huntress",282
-"Festive Comet","Eggnog (4)","Gouda","-","13.51%","Hoarder",185
-"Festive Comet","Eggnog (4)","Gouda","-","13.51%","Snowball Hoarder",185
-"Festive Comet","Eggnog (4)","Gouda","-","10.81%","Gingerbread",185
-"Festive Comet","Eggnog (4)","Gouda","-","10.27%","Triple Lutz",185
-"Festive Comet","Eggnog (4)","Gouda","-","9.19%","Missile Toe",185
-"Festive Comet","Eggnog (4)","Gouda","-","5.41%","Wreath Thief",185
-"Festive Comet","Eggnog (4)","Gouda","-","5.41%","Toy Tinkerer",185
-"Festive Comet","Eggnog (4)","Gouda","-","4.86%","Destructoy",185
-"Festive Comet","Eggnog (4)","Gouda","-","3.78%","Ribbon",185
-"Festive Comet","Eggnog (4)","Gouda","-","3.24%","Nutcracker",185
-"Festive Comet","Eggnog (4)","Gouda","-","3.24%","Stocking",185
-"Festive Comet","Eggnog (4)","Gouda","-","2.70%","Christmas Tree",185
-"Festive Comet","Eggnog (4)","Gouda","-","2.70%","Young Prodigy Racer",185
-"Festive Comet","Eggnog (4)","Gouda","-","2.70%","Snow Boulder",185
-"Festive Comet","Eggnog (4)","Gouda","-","2.16%","Toboggan Technician",185
-"Festive Comet","Eggnog (4)","Gouda","-","2.16%","Sporty Ski Instructor",185
-"Festive Comet","Eggnog (4)","Gouda","-","2.16%","Toy",185
-"Festive Comet","Eggnog (4)","Gouda","-","1.08%","Miser",185
-"Festive Comet","Eggnog (4)","Gouda","-","0.54%","Ridiculous Sweater",185
-"Festive Comet","Eggnog (4)","Gouda","-","0.54%","Candy Cane",185
-"Festive Comet","Eggnog (4)","Pecan Pecorino","-","25.69%","Snow Scavenger",506
-"Festive Comet","Eggnog (4)","Pecan Pecorino","-","8.89%","Builder",506
-"Festive Comet","Eggnog (4)","Pecan Pecorino","-","8.30%","Snowblower",506
-"Festive Comet","Eggnog (4)","Pecan Pecorino","-","5.93%","Reinbo",506
-"Festive Comet","Eggnog (4)","Pecan Pecorino","-","5.73%","Snow Fort",506
-"Festive Comet","Eggnog (4)","Pecan Pecorino","-","5.14%","Stuck Snowball",506
-"Festive Comet","Eggnog (4)","Pecan Pecorino","-","4.74%","Snow Golem Jockey",506
-"Festive Comet","Eggnog (4)","Pecan Pecorino","-","4.15%","Snow Sorceress",506
-"Festive Comet","Eggnog (4)","Pecan Pecorino","-","3.95%","Nice Knitting",506
-"Festive Comet","Eggnog (4)","Pecan Pecorino","-","3.75%","Slay Ride",506
-"Festive Comet","Eggnog (4)","Pecan Pecorino","-","3.75%","Snowglobe",506
-"Festive Comet","Eggnog (4)","Pecan Pecorino","-","3.75%","S.N.O.W. Golem",506
-"Festive Comet","Eggnog (4)","Pecan Pecorino","-","3.36%","Frigid Foreman",506
-"Festive Comet","Eggnog (4)","Pecan Pecorino","-","3.36%","Free Skiing",506
-"Festive Comet","Eggnog (4)","Pecan Pecorino","-","2.96%","Great Winter Hunt Impostor",506
-"Festive Comet","Eggnog (4)","Pecan Pecorino","-","2.37%","Tundra Huntress",506
-"Festive Comet","Eggnog (4)","Pecan Pecorino","-","1.78%","Elf",506
-"Festive Comet","Eggnog (4)","Pecan Pecorino","-","1.38%","Glacia Ice Fist",506
-"Festive Comet","Eggnog (4)","Pecan Pecorino","-","0.99%","Borean Commander",506
-"Festive Comet","Eggnog (4)","Pecan Pecorino","Winter","15.73%","Snow Scavenger",267
-"Festive Comet","Eggnog (4)","Pecan Pecorino","Winter","12.73%","Builder",267
-"Festive Comet","Eggnog (4)","Pecan Pecorino","Winter","10.49%","Snowflake",267
-"Festive Comet","Eggnog (4)","Pecan Pecorino","Winter","8.24%","Snowblower",267
-"Festive Comet","Eggnog (4)","Pecan Pecorino","Winter","6.37%","Snow Fort",267
-"Festive Comet","Eggnog (4)","Pecan Pecorino","Winter","5.62%","Elf",267
-"Festive Comet","Eggnog (4)","Pecan Pecorino","Winter","4.87%","Nice Knitting",267
-"Festive Comet","Eggnog (4)","Pecan Pecorino","Winter","4.87%","Reinbo",267
-"Festive Comet","Eggnog (4)","Pecan Pecorino","Winter","4.87%","Slay Ride",267
-"Festive Comet","Eggnog (4)","Pecan Pecorino","Winter","3.37%","Glacia Ice Fist",267
-"Festive Comet","Eggnog (4)","Pecan Pecorino","Winter","3.00%","Snow Sorceress",267
-"Festive Comet","Eggnog (4)","Pecan Pecorino","Winter","3.00%","Great Winter Hunt Impostor",267
-"Festive Comet","Eggnog (4)","Pecan Pecorino","Winter","2.62%","S.N.O.W. Golem",267
-"Festive Comet","Eggnog (4)","Pecan Pecorino","Winter","2.62%","Snowglobe",267
-"Festive Comet","Eggnog (4)","Pecan Pecorino","Winter","2.62%","Stuck Snowball",267
-"Festive Comet","Eggnog (4)","Pecan Pecorino","Winter","2.25%","Frigid Foreman",267
-"Festive Comet","Eggnog (4)","Pecan Pecorino","Winter","1.87%","Free Skiing",267
-"Festive Comet","Eggnog (4)","Pecan Pecorino","Winter","1.87%","Snow Golem Jockey",267
-"Festive Comet","Eggnog (4)","Pecan Pecorino","Winter","1.50%","Borean Commander",267
-"Festive Comet","Eggnog (4)","Pecan Pecorino","Winter","1.50%","Tundra Huntress",267
-"Festive Comet","Eggnog (4)","Pecan Pecorino","Let It Snow","19.47%","Snow Golem Architect",303
-"Festive Comet","Eggnog (4)","Pecan Pecorino","Let It Snow","17.49%","Snow Scavenger",303
-"Festive Comet","Eggnog (4)","Pecan Pecorino","Let It Snow","8.58%","Snowblower",303
-"Festive Comet","Eggnog (4)","Pecan Pecorino","Let It Snow","7.59%","Builder",303
-"Festive Comet","Eggnog (4)","Pecan Pecorino","Let It Snow","5.28%","Snow Fort",303
-"Festive Comet","Eggnog (4)","Pecan Pecorino","Let It Snow","4.62%","Reinbo",303
-"Festive Comet","Eggnog (4)","Pecan Pecorino","Let It Snow","3.96%","Slay Ride",303
-"Festive Comet","Eggnog (4)","Pecan Pecorino","Let It Snow","3.96%","Snowglobe",303
-"Festive Comet","Eggnog (4)","Pecan Pecorino","Let It Snow","3.96%","Nice Knitting",303
-"Festive Comet","Eggnog (4)","Pecan Pecorino","Let It Snow","3.63%","Stuck Snowball",303
-"Festive Comet","Eggnog (4)","Pecan Pecorino","Let It Snow","3.30%","Free Skiing",303
-"Festive Comet","Eggnog (4)","Pecan Pecorino","Let It Snow","3.30%","Great Winter Hunt Impostor",303
-"Festive Comet","Eggnog (4)","Pecan Pecorino","Let It Snow","3.30%","S.N.O.W. Golem",303
-"Festive Comet","Eggnog (4)","Pecan Pecorino","Let It Snow","2.97%","Frigid Foreman",303
-"Festive Comet","Eggnog (4)","Pecan Pecorino","Let It Snow","1.98%","Snow Sorceress",303
-"Festive Comet","Eggnog (4)","Pecan Pecorino","Let It Snow","1.98%","Snow Golem Jockey",303
-"Festive Comet","Eggnog (4)","Pecan Pecorino","Let It Snow","1.65%","Elf",303
-"Festive Comet","Eggnog (4)","Pecan Pecorino","Let It Snow","1.32%","Tundra Huntress",303
-"Festive Comet","Eggnog (4)","Pecan Pecorino","Let It Snow","0.99%","Glacia Ice Fist",303
-"Festive Comet","Eggnog (4)","Pecan Pecorino","Let It Snow","0.66%","Borean Commander",303
-"Festive Comet","Eggnog (4)","Arctic Asiago","-","14.29%","Joy",112
-"Festive Comet","Eggnog (4)","Arctic Asiago","-","8.93%","Hoarder",112
-"Festive Comet","Eggnog (4)","Arctic Asiago","-","8.04%","Wreath Thief",112
-"Festive Comet","Eggnog (4)","Arctic Asiago","-","6.25%","Snow Boulder",112
-"Festive Comet","Eggnog (4)","Arctic Asiago","-","5.36%","Destructoy",112
-"Festive Comet","Eggnog (4)","Arctic Asiago","-","5.36%","Sporty Ski Instructor",112
-"Festive Comet","Eggnog (4)","Arctic Asiago","-","4.46%","Triple Lutz",112
-"Festive Comet","Eggnog (4)","Arctic Asiago","-","4.46%","Toboggan Technician",112
-"Festive Comet","Eggnog (4)","Arctic Asiago","-","4.46%","Confused Courier",112
-"Festive Comet","Eggnog (4)","Arctic Asiago","-","4.46%","Ridiculous Sweater",112
-"Festive Comet","Eggnog (4)","Arctic Asiago","-","3.57%","Gingerbread",112
-"Festive Comet","Eggnog (4)","Arctic Asiago","-","3.57%","Miser",112
-"Festive Comet","Eggnog (4)","Arctic Asiago","-","3.57%","Nutcracker",112
-"Festive Comet","Eggnog (4)","Arctic Asiago","-","2.68%","Missile Toe",112
-"Festive Comet","Eggnog (4)","Arctic Asiago","-","2.68%","Christmas Tree",112
-"Festive Comet","Eggnog (4)","Arctic Asiago","-","2.68%","Toy",112
-"Festive Comet","Eggnog (4)","Arctic Asiago","-","2.68%","Young Prodigy Racer",112
-"Festive Comet","Eggnog (4)","Arctic Asiago","-","1.79%","Mad Elf",112
-"Festive Comet","Eggnog (4)","Arctic Asiago","-","1.79%","Stocking",112
-"Festive Comet","Eggnog (4)","Arctic Asiago","-","1.79%","Candy Cane",112
-"Festive Comet","Eggnog (4)","Arctic Asiago","-","1.79%","Double Black Diamond Racer",112
-"Festive Comet","Eggnog (4)","Arctic Asiago","-","0.89%","Scrooge",112
-"Festive Comet","Eggnog (4)","Arctic Asiago","-","0.89%","Snowball Hoarder",112
-"Festive Comet","Eggnog (4)","Arctic Asiago","-","0.89%","Squeaker Claws",112
-"Festive Comet","Eggnog (4)","Arctic Asiago","-","0.89%","Present",112
-"Festive Comet","Eggnog (4)","Arctic Asiago","-","0.89%","Mouse of Winter Future",112
-"Festive Comet","Eggnog (4)","Arctic Asiago","-","0.89%","Black Diamond Racer",112
-"Festive Comet","Eggnog (4)","Arctic Asiago","Winter","12.87%","Snowflake",101
-"Festive Comet","Eggnog (4)","Arctic Asiago","Winter","10.89%","Hoarder",101
-"Festive Comet","Eggnog (4)","Arctic Asiago","Winter","6.93%","Miser",101
-"Festive Comet","Eggnog (4)","Arctic Asiago","Winter","6.93%","Snow Boulder",101
-"Festive Comet","Eggnog (4)","Arctic Asiago","Winter","5.94%","Toy Tinkerer",101
-"Festive Comet","Eggnog (4)","Arctic Asiago","Winter","5.94%","Joy",101
-"Festive Comet","Eggnog (4)","Arctic Asiago","Winter","4.95%","Ribbon",101
-"Festive Comet","Eggnog (4)","Arctic Asiago","Winter","4.95%","Ridiculous Sweater",101
-"Festive Comet","Eggnog (4)","Arctic Asiago","Winter","3.96%","Gingerbread",101
-"Festive Comet","Eggnog (4)","Arctic Asiago","Winter","2.97%","Sporty Ski Instructor",101
-"Festive Comet","Eggnog (4)","Arctic Asiago","Winter","2.97%","Toboggan Technician",101
-"Festive Comet","Eggnog (4)","Arctic Asiago","Winter","2.97%","Triple Lutz",101
-"Festive Comet","Eggnog (4)","Arctic Asiago","Winter","2.97%","Missile Toe",101
-"Festive Comet","Eggnog (4)","Arctic Asiago","Winter","2.97%","Young Prodigy Racer",101
-"Festive Comet","Eggnog (4)","Arctic Asiago","Winter","2.97%","Squeaker Claws",101
-"Festive Comet","Eggnog (4)","Arctic Asiago","Winter","1.98%","Destructoy",101
-"Festive Comet","Eggnog (4)","Arctic Asiago","Winter","1.98%","Mouse of Winter Past",101
-"Festive Comet","Eggnog (4)","Arctic Asiago","Winter","1.98%","Snowball Hoarder",101
-"Festive Comet","Eggnog (4)","Arctic Asiago","Winter","1.98%","Christmas Tree",101
-"Festive Comet","Eggnog (4)","Arctic Asiago","Winter","1.98%","Mouse of Winter Present",101
-"Festive Comet","Eggnog (4)","Arctic Asiago","Winter","1.98%","Black Diamond Racer",101
-"Festive Comet","Eggnog (4)","Arctic Asiago","Winter","0.99%","Mad Elf",101
-"Festive Comet","Eggnog (4)","Arctic Asiago","Winter","0.99%","Toy",101
-"Festive Comet","Eggnog (4)","Arctic Asiago","Winter","0.99%","Double Black Diamond Racer",101
-"Festive Comet","Eggnog (4)","Arctic Asiago","Winter","0.99%","Stocking",101
-"Festive Comet","Eggnog (4)","Arctic Asiago","Winter","0.99%","Nutcracker",101
-"Festive Comet","Eggnog (4)","Arctic Asiago","Winter","0.99%","Confused Courier",101
-"Festive Comet","Eggnog (4)","Arctic Asiago","Winter","0.99%","Candy Cane",101
-"Festive Comet","Tree (5)","Gouda","-","18.47%","Hoarder",157
-"Festive Comet","Tree (5)","Gouda","-","9.55%","Snowball Hoarder",157
-"Festive Comet","Tree (5)","Gouda","-","8.92%","Missile Toe",157
-"Festive Comet","Tree (5)","Gouda","-","8.28%","Triple Lutz",157
-"Festive Comet","Tree (5)","Gouda","-","7.01%","Ribbon",157
-"Festive Comet","Tree (5)","Gouda","-","5.73%","Toy Tinkerer",157
-"Festive Comet","Tree (5)","Gouda","-","5.10%","Destructoy",157
-"Festive Comet","Tree (5)","Gouda","-","5.10%","Nutcracker",157
-"Festive Comet","Tree (5)","Gouda","-","5.10%","Wreath Thief",157
-"Festive Comet","Tree (5)","Gouda","-","5.10%","Gingerbread",157
-"Festive Comet","Tree (5)","Gouda","-","4.46%","Ridiculous Sweater",157
-"Festive Comet","Tree (5)","Gouda","-","3.82%","Toy",157
-"Festive Comet","Tree (5)","Gouda","-","3.18%","Stocking",157
-"Festive Comet","Tree (5)","Gouda","-","2.55%","Christmas Tree",157
-"Festive Comet","Tree (5)","Gouda","-","2.55%","Snow Boulder",157
-"Festive Comet","Tree (5)","Gouda","-","2.55%","Toboggan Technician",157
-"Festive Comet","Tree (5)","Gouda","-","1.27%","Candy Cane",157
-"Festive Comet","Tree (5)","Gouda","-","1.27%","Young Prodigy Racer",157
-"Festive Comet","Tree (5)","Gouda","Winter","15.63%","Hoarder",160
-"Festive Comet","Tree (5)","Gouda","Winter","13.75%","Snowflake",160
-"Festive Comet","Tree (5)","Gouda","Winter","8.75%","Snowball Hoarder",160
-"Festive Comet","Tree (5)","Gouda","Winter","7.50%","Gingerbread",160
-"Festive Comet","Tree (5)","Gouda","Winter","6.88%","Wreath Thief",160
-"Festive Comet","Tree (5)","Gouda","Winter","5.00%","Stocking",160
-"Festive Comet","Tree (5)","Gouda","Winter","5.00%","Triple Lutz",160
-"Festive Comet","Tree (5)","Gouda","Winter","4.38%","Toy Tinkerer",160
-"Festive Comet","Tree (5)","Gouda","Winter","4.38%","Ribbon",160
-"Festive Comet","Tree (5)","Gouda","Winter","3.75%","Nutcracker",160
-"Festive Comet","Tree (5)","Gouda","Winter","3.75%","Toy",160
-"Festive Comet","Tree (5)","Gouda","Winter","3.13%","Snow Boulder",160
-"Festive Comet","Tree (5)","Gouda","Winter","3.13%","Toboggan Technician",160
-"Festive Comet","Tree (5)","Gouda","Winter","3.13%","Destructoy",160
-"Festive Comet","Tree (5)","Gouda","Winter","3.13%","Missile Toe",160
-"Festive Comet","Tree (5)","Gouda","Winter","3.13%","Ridiculous Sweater",160
-"Festive Comet","Tree (5)","Gouda","Winter","1.88%","Sporty Ski Instructor",160
-"Festive Comet","Tree (5)","Gouda","Winter","1.25%","Christmas Tree",160
-"Festive Comet","Tree (5)","Gouda","Winter","1.25%","Candy Cane",160
-"Festive Comet","Tree (5)","Gouda","Winter","0.63%","Young Prodigy Racer",160
-"Festive Comet","Tree (5)","Gouda","Winter","0.63%","Miser",160
-"Festive Comet","Tree (5)","Pecan Pecorino","-","22.44%","Snow Scavenger",704
-"Festive Comet","Tree (5)","Pecan Pecorino","-","9.66%","Snowblower",704
-"Festive Comet","Tree (5)","Pecan Pecorino","-","8.66%","Builder",704
-"Festive Comet","Tree (5)","Pecan Pecorino","-","7.53%","Nice Knitting",704
-"Festive Comet","Tree (5)","Pecan Pecorino","-","5.82%","Snow Fort",704
-"Festive Comet","Tree (5)","Pecan Pecorino","-","5.26%","Snowglobe",704
-"Festive Comet","Tree (5)","Pecan Pecorino","-","5.11%","Reinbo",704
-"Festive Comet","Tree (5)","Pecan Pecorino","-","4.83%","Elf",704
-"Festive Comet","Tree (5)","Pecan Pecorino","-","4.40%","Snow Golem Jockey",704
-"Festive Comet","Tree (5)","Pecan Pecorino","-","3.84%","Great Winter Hunt Impostor",704
-"Festive Comet","Tree (5)","Pecan Pecorino","-","3.69%","Stuck Snowball",704
-"Festive Comet","Tree (5)","Pecan Pecorino","-","3.27%","Glacia Ice Fist",704
-"Festive Comet","Tree (5)","Pecan Pecorino","-","2.84%","Free Skiing",704
-"Festive Comet","Tree (5)","Pecan Pecorino","-","2.84%","Slay Ride",704
-"Festive Comet","Tree (5)","Pecan Pecorino","-","2.27%","S.N.O.W. Golem",704
-"Festive Comet","Tree (5)","Pecan Pecorino","-","2.27%","Frigid Foreman",704
-"Festive Comet","Tree (5)","Pecan Pecorino","-","2.13%","Snow Sorceress",704
-"Festive Comet","Tree (5)","Pecan Pecorino","-","1.56%","Borean Commander",704
-"Festive Comet","Tree (5)","Pecan Pecorino","-","1.56%","Tundra Huntress",704
-"Festive Comet","Tree (5)","Pecan Pecorino","Winter","18.49%","Snow Scavenger",357
-"Festive Comet","Tree (5)","Pecan Pecorino","Winter","11.76%","Builder",357
-"Festive Comet","Tree (5)","Pecan Pecorino","Winter","9.80%","Snowflake",357
-"Festive Comet","Tree (5)","Pecan Pecorino","Winter","7.28%","Snowblower",357
-"Festive Comet","Tree (5)","Pecan Pecorino","Winter","6.72%","Snow Golem Jockey",357
-"Festive Comet","Tree (5)","Pecan Pecorino","Winter","6.44%","Reinbo",357
-"Festive Comet","Tree (5)","Pecan Pecorino","Winter","5.60%","Snowglobe",357
-"Festive Comet","Tree (5)","Pecan Pecorino","Winter","4.76%","Nice Knitting",357
-"Festive Comet","Tree (5)","Pecan Pecorino","Winter","4.20%","Stuck Snowball",357
-"Festive Comet","Tree (5)","Pecan Pecorino","Winter","3.92%","Elf",357
-"Festive Comet","Tree (5)","Pecan Pecorino","Winter","3.36%","Snow Fort",357
-"Festive Comet","Tree (5)","Pecan Pecorino","Winter","2.52%","Slay Ride",357
-"Festive Comet","Tree (5)","Pecan Pecorino","Winter","2.52%","S.N.O.W. Golem",357
-"Festive Comet","Tree (5)","Pecan Pecorino","Winter","2.52%","Frigid Foreman",357
-"Festive Comet","Tree (5)","Pecan Pecorino","Winter","1.96%","Snow Sorceress",357
-"Festive Comet","Tree (5)","Pecan Pecorino","Winter","1.96%","Free Skiing",357
-"Festive Comet","Tree (5)","Pecan Pecorino","Winter","1.96%","Great Winter Hunt Impostor",357
-"Festive Comet","Tree (5)","Pecan Pecorino","Winter","1.96%","Glacia Ice Fist",357
-"Festive Comet","Tree (5)","Pecan Pecorino","Winter","1.12%","Borean Commander",357
-"Festive Comet","Tree (5)","Pecan Pecorino","Winter","1.12%","Tundra Huntress",357
-"Festive Comet","Tree (5)","Pecan Pecorino","Let It Snow","19.58%","Snow Golem Architect",572
-"Festive Comet","Tree (5)","Pecan Pecorino","Let It Snow","16.61%","Snow Scavenger",572
-"Festive Comet","Tree (5)","Pecan Pecorino","Let It Snow","9.44%","Snowblower",572
-"Festive Comet","Tree (5)","Pecan Pecorino","Let It Snow","6.82%","Builder",572
-"Festive Comet","Tree (5)","Pecan Pecorino","Let It Snow","6.29%","Reinbo",572
-"Festive Comet","Tree (5)","Pecan Pecorino","Let It Snow","5.07%","Snowglobe",572
-"Festive Comet","Tree (5)","Pecan Pecorino","Let It Snow","3.85%","Nice Knitting",572
-"Festive Comet","Tree (5)","Pecan Pecorino","Let It Snow","3.85%","Snow Fort",572
-"Festive Comet","Tree (5)","Pecan Pecorino","Let It Snow","3.67%","Snow Golem Jockey",572
-"Festive Comet","Tree (5)","Pecan Pecorino","Let It Snow","3.32%","Slay Ride",572
-"Festive Comet","Tree (5)","Pecan Pecorino","Let It Snow","3.32%","Great Winter Hunt Impostor",572
-"Festive Comet","Tree (5)","Pecan Pecorino","Let It Snow","2.80%","Stuck Snowball",572
-"Festive Comet","Tree (5)","Pecan Pecorino","Let It Snow","2.45%","Frigid Foreman",572
-"Festive Comet","Tree (5)","Pecan Pecorino","Let It Snow","2.27%","S.N.O.W. Golem",572
-"Festive Comet","Tree (5)","Pecan Pecorino","Let It Snow","2.10%","Snow Sorceress",572
-"Festive Comet","Tree (5)","Pecan Pecorino","Let It Snow","2.10%","Glacia Ice Fist",572
-"Festive Comet","Tree (5)","Pecan Pecorino","Let It Snow","1.92%","Free Skiing",572
-"Festive Comet","Tree (5)","Pecan Pecorino","Let It Snow","1.75%","Elf",572
-"Festive Comet","Tree (5)","Pecan Pecorino","Let It Snow","1.75%","Tundra Huntress",572
-"Festive Comet","Tree (5)","Pecan Pecorino","Let It Snow","1.05%","Borean Commander",572
-"Festive Comet","Tree (5)","Arctic Asiago","-","8.70%","Joy",115
-"Festive Comet","Tree (5)","Arctic Asiago","-","7.83%","Hoarder",115
-"Festive Comet","Tree (5)","Arctic Asiago","-","6.96%","Ridiculous Sweater",115
-"Festive Comet","Tree (5)","Arctic Asiago","-","6.96%","Snow Boulder",115
-"Festive Comet","Tree (5)","Arctic Asiago","-","6.09%","Sporty Ski Instructor",115
-"Festive Comet","Tree (5)","Arctic Asiago","-","6.09%","Toy Tinkerer",115
-"Festive Comet","Tree (5)","Arctic Asiago","-","5.22%","Gingerbread",115
-"Festive Comet","Tree (5)","Arctic Asiago","-","5.22%","Wreath Thief",115
-"Festive Comet","Tree (5)","Arctic Asiago","-","5.22%","Toboggan Technician",115
-"Festive Comet","Tree (5)","Arctic Asiago","-","4.35%","Missile Toe",115
-"Festive Comet","Tree (5)","Arctic Asiago","-","4.35%","Confused Courier",115
-"Festive Comet","Tree (5)","Arctic Asiago","-","3.48%","Miser",115
-"Festive Comet","Tree (5)","Arctic Asiago","-","3.48%","Stocking",115
-"Festive Comet","Tree (5)","Arctic Asiago","-","3.48%","Mouse of Winter Past",115
-"Festive Comet","Tree (5)","Arctic Asiago","-","2.61%","Ornament",115
-"Festive Comet","Tree (5)","Arctic Asiago","-","2.61%","Destructoy",115
-"Festive Comet","Tree (5)","Arctic Asiago","-","2.61%","Nutcracker",115
-"Festive Comet","Tree (5)","Arctic Asiago","-","2.61%","Young Prodigy Racer",115
-"Festive Comet","Tree (5)","Arctic Asiago","-","1.74%","Ribbon",115
-"Festive Comet","Tree (5)","Arctic Asiago","-","1.74%","Squeaker Claws",115
-"Festive Comet","Tree (5)","Arctic Asiago","-","1.74%","Present",115
-"Festive Comet","Tree (5)","Arctic Asiago","-","0.87%","Candy Cane",115
-"Festive Comet","Tree (5)","Arctic Asiago","-","0.87%","Black Diamond Racer",115
-"Festive Comet","Tree (5)","Arctic Asiago","-","0.87%","Snowball Hoarder",115
-"Festive Comet","Tree (5)","Arctic Asiago","-","0.87%","Toy",115
-"Festive Comet","Tree (5)","Arctic Asiago","-","0.87%","Scrooge",115
-"Festive Comet","Tree (5)","Arctic Asiago","-","0.87%","Mouse of Winter Present",115
-"Festive Comet","Tree (5)","Arctic Asiago","-","0.87%","Nitro Racer",115
-"Festive Comet","Tree (5)","Arctic Asiago","-","0.87%","Christmas Tree",115
-"Festive Comet","Scarf (6)","SB+","Winter","10.94%","Hoarder",128
-"Festive Comet","Scarf (6)","SB+","Winter","9.38%","Snowflake",128
-"Festive Comet","Scarf (6)","SB+","Winter","7.81%","Snow Boulder",128
-"Festive Comet","Scarf (6)","SB+","Winter","7.81%","Joy",128
-"Festive Comet","Scarf (6)","SB+","Winter","7.03%","Ridiculous Sweater",128
-"Festive Comet","Scarf (6)","SB+","Winter","6.25%","Confused Courier",128
-"Festive Comet","Scarf (6)","SB+","Winter","5.47%","Toboggan Technician",128
-"Festive Comet","Scarf (6)","SB+","Winter","4.69%","Miser",128
-"Festive Comet","Scarf (6)","SB+","Winter","3.91%","Stocking",128
-"Festive Comet","Scarf (6)","SB+","Winter","3.13%","Destructoy",128
-"Festive Comet","Scarf (6)","SB+","Winter","3.13%","Wreath Thief",128
-"Festive Comet","Scarf (6)","SB+","Winter","3.13%","Squeaker Claws",128
-"Festive Comet","Scarf (6)","SB+","Winter","3.13%","Young Prodigy Racer",128
-"Festive Comet","Scarf (6)","SB+","Winter","3.13%","Toy",128
-"Festive Comet","Scarf (6)","SB+","Winter","2.34%","Sporty Ski Instructor",128
-"Festive Comet","Scarf (6)","SB+","Winter","2.34%","Nutcracker",128
-"Festive Comet","Scarf (6)","SB+","Winter","2.34%","Gingerbread",128
-"Festive Comet","Scarf (6)","SB+","Winter","2.34%","Mad Elf",128
-"Festive Comet","Scarf (6)","SB+","Winter","2.34%","Toy Tinkerer",128
-"Festive Comet","Scarf (6)","SB+","Winter","1.56%","Greedy Al",128
-"Festive Comet","Scarf (6)","SB+","Winter","1.56%","Missile Toe",128
-"Festive Comet","Scarf (6)","SB+","Winter","1.56%","Candy Cane",128
-"Festive Comet","Scarf (6)","SB+","Winter","1.56%","Rainbow Racer",128
-"Festive Comet","Scarf (6)","SB+","Winter","0.78%","Christmas Tree",128
-"Festive Comet","Scarf (6)","SB+","Winter","0.78%","Ribbon",128
-"Festive Comet","Scarf (6)","SB+","Winter","0.78%","Triple Lutz",128
-"Festive Comet","Scarf (6)","SB+","Winter","0.78%","Black Diamond Racer",128
-"Festive Comet","Scarf (6)","Gouda","-","19.13%","Hoarder",115
-"Festive Comet","Scarf (6)","Gouda","-","9.57%","Snowball Hoarder",115
-"Festive Comet","Scarf (6)","Gouda","-","7.83%","Triple Lutz",115
-"Festive Comet","Scarf (6)","Gouda","-","7.83%","Wreath Thief",115
-"Festive Comet","Scarf (6)","Gouda","-","6.96%","Toboggan Technician",115
-"Festive Comet","Scarf (6)","Gouda","-","6.96%","Ribbon",115
-"Festive Comet","Scarf (6)","Gouda","-","6.96%","Missile Toe",115
-"Festive Comet","Scarf (6)","Gouda","-","6.09%","Toy Tinkerer",115
-"Festive Comet","Scarf (6)","Gouda","-","5.22%","Gingerbread",115
-"Festive Comet","Scarf (6)","Gouda","-","5.22%","Destructoy",115
-"Festive Comet","Scarf (6)","Gouda","-","3.48%","Ridiculous Sweater",115
-"Festive Comet","Scarf (6)","Gouda","-","2.61%","Stocking",115
-"Festive Comet","Scarf (6)","Gouda","-","2.61%","Sporty Ski Instructor",115
-"Festive Comet","Scarf (6)","Gouda","-","2.61%","Candy Cane",115
-"Festive Comet","Scarf (6)","Gouda","-","1.74%","Young Prodigy Racer",115
-"Festive Comet","Scarf (6)","Gouda","-","1.74%","Toy",115
-"Festive Comet","Scarf (6)","Gouda","-","1.74%","Miser",115
-"Festive Comet","Scarf (6)","Gouda","-","0.87%","Snow Boulder",115
-"Festive Comet","Scarf (6)","Gouda","-","0.87%","Christmas Tree",115
-"Festive Comet","Scarf (6)","Pecan Pecorino","-","23.02%","Snow Scavenger",734
-"Festive Comet","Scarf (6)","Pecan Pecorino","-","8.45%","Snowblower",734
-"Festive Comet","Scarf (6)","Pecan Pecorino","-","8.17%","Builder",734
-"Festive Comet","Scarf (6)","Pecan Pecorino","-","6.54%","Snow Fort",734
-"Festive Comet","Scarf (6)","Pecan Pecorino","-","5.31%","Nice Knitting",734
-"Festive Comet","Scarf (6)","Pecan Pecorino","-","5.04%","Stuck Snowball",734
-"Festive Comet","Scarf (6)","Pecan Pecorino","-","5.04%","Elf",734
-"Festive Comet","Scarf (6)","Pecan Pecorino","-","4.90%","Reinbo",734
-"Festive Comet","Scarf (6)","Pecan Pecorino","-","4.63%","Snowglobe",734
-"Festive Comet","Scarf (6)","Pecan Pecorino","-","4.22%","Great Winter Hunt Impostor",734
-"Festive Comet","Scarf (6)","Pecan Pecorino","-","3.95%","Snow Golem Jockey",734
-"Festive Comet","Scarf (6)","Pecan Pecorino","-","3.81%","Slay Ride",734
-"Festive Comet","Scarf (6)","Pecan Pecorino","-","3.54%","Free Skiing",734
-"Festive Comet","Scarf (6)","Pecan Pecorino","-","2.86%","Snow Sorceress",734
-"Festive Comet","Scarf (6)","Pecan Pecorino","-","2.72%","Frigid Foreman",734
-"Festive Comet","Scarf (6)","Pecan Pecorino","-","2.72%","S.N.O.W. Golem",734
-"Festive Comet","Scarf (6)","Pecan Pecorino","-","2.18%","Tundra Huntress",734
-"Festive Comet","Scarf (6)","Pecan Pecorino","-","1.77%","Glacia Ice Fist",734
-"Festive Comet","Scarf (6)","Pecan Pecorino","-","1.09%","Borean Commander",734
-"Festive Comet","Scarf (6)","Pecan Pecorino","Winter","19.70%","Snow Scavenger",406
-"Festive Comet","Scarf (6)","Pecan Pecorino","Winter","9.11%","Builder",406
-"Festive Comet","Scarf (6)","Pecan Pecorino","Winter","9.11%","Snowflake",406
-"Festive Comet","Scarf (6)","Pecan Pecorino","Winter","8.87%","Snowblower",406
-"Festive Comet","Scarf (6)","Pecan Pecorino","Winter","5.42%","Snowglobe",406
-"Festive Comet","Scarf (6)","Pecan Pecorino","Winter","4.68%","Snow Fort",406
-"Festive Comet","Scarf (6)","Pecan Pecorino","Winter","4.43%","Stuck Snowball",406
-"Festive Comet","Scarf (6)","Pecan Pecorino","Winter","4.19%","Elf",406
-"Festive Comet","Scarf (6)","Pecan Pecorino","Winter","3.94%","Nice Knitting",406
-"Festive Comet","Scarf (6)","Pecan Pecorino","Winter","3.94%","Slay Ride",406
-"Festive Comet","Scarf (6)","Pecan Pecorino","Winter","3.69%","Snow Golem Jockey",406
-"Festive Comet","Scarf (6)","Pecan Pecorino","Winter","3.45%","Free Skiing",406
-"Festive Comet","Scarf (6)","Pecan Pecorino","Winter","2.96%","Great Winter Hunt Impostor",406
-"Festive Comet","Scarf (6)","Pecan Pecorino","Winter","2.96%","Glacia Ice Fist",406
-"Festive Comet","Scarf (6)","Pecan Pecorino","Winter","2.96%","Reinbo",406
-"Festive Comet","Scarf (6)","Pecan Pecorino","Winter","2.46%","Snow Sorceress",406
-"Festive Comet","Scarf (6)","Pecan Pecorino","Winter","2.46%","S.N.O.W. Golem",406
-"Festive Comet","Scarf (6)","Pecan Pecorino","Winter","1.97%","Tundra Huntress",406
-"Festive Comet","Scarf (6)","Pecan Pecorino","Winter","1.97%","Borean Commander",406
-"Festive Comet","Scarf (6)","Pecan Pecorino","Winter","1.72%","Frigid Foreman",406
-"Festive Comet","Scarf (6)","Pecan Pecorino","Let It Snow","18.68%","Snow Scavenger",728
-"Festive Comet","Scarf (6)","Pecan Pecorino","Let It Snow","16.90%","Snow Golem Architect",728
-"Festive Comet","Scarf (6)","Pecan Pecorino","Let It Snow","8.24%","Builder",728
-"Festive Comet","Scarf (6)","Pecan Pecorino","Let It Snow","7.01%","Snowblower",728
-"Festive Comet","Scarf (6)","Pecan Pecorino","Let It Snow","5.91%","Snow Fort",728
-"Festive Comet","Scarf (6)","Pecan Pecorino","Let It Snow","4.40%","Snowglobe",728
-"Festive Comet","Scarf (6)","Pecan Pecorino","Let It Snow","4.40%","Stuck Snowball",728
-"Festive Comet","Scarf (6)","Pecan Pecorino","Let It Snow","4.40%","Snow Sorceress",728
-"Festive Comet","Scarf (6)","Pecan Pecorino","Let It Snow","3.98%","Reinbo",728
-"Festive Comet","Scarf (6)","Pecan Pecorino","Let It Snow","3.71%","Great Winter Hunt Impostor",728
-"Festive Comet","Scarf (6)","Pecan Pecorino","Let It Snow","3.57%","Nice Knitting",728
-"Festive Comet","Scarf (6)","Pecan Pecorino","Let It Snow","3.16%","Elf",728
-"Festive Comet","Scarf (6)","Pecan Pecorino","Let It Snow","2.75%","Snow Golem Jockey",728
-"Festive Comet","Scarf (6)","Pecan Pecorino","Let It Snow","2.34%","S.N.O.W. Golem",728
-"Festive Comet","Scarf (6)","Pecan Pecorino","Let It Snow","2.20%","Slay Ride",728
-"Festive Comet","Scarf (6)","Pecan Pecorino","Let It Snow","1.92%","Borean Commander",728
-"Festive Comet","Scarf (6)","Pecan Pecorino","Let It Snow","1.79%","Frigid Foreman",728
-"Festive Comet","Scarf (6)","Pecan Pecorino","Let It Snow","1.79%","Free Skiing",728
-"Festive Comet","Scarf (6)","Pecan Pecorino","Let It Snow","1.79%","Glacia Ice Fist",728
-"Festive Comet","Scarf (6)","Pecan Pecorino","Let It Snow","1.10%","Tundra Huntress",728
-"Festive Comet","Scarf (6)","Arctic Asiago","-","9.26%","Joy",108
-"Festive Comet","Scarf (6)","Arctic Asiago","-","8.33%","Hoarder",108
-"Festive Comet","Scarf (6)","Arctic Asiago","-","6.48%","Snow Boulder",108
-"Festive Comet","Scarf (6)","Arctic Asiago","-","5.56%","Wreath Thief",108
-"Festive Comet","Scarf (6)","Arctic Asiago","-","5.56%","Young Prodigy Racer",108
-"Festive Comet","Scarf (6)","Arctic Asiago","-","5.56%","Sporty Ski Instructor",108
-"Festive Comet","Scarf (6)","Arctic Asiago","-","4.63%","Missile Toe",108
-"Festive Comet","Scarf (6)","Arctic Asiago","-","4.63%","Toy Tinkerer",108
-"Festive Comet","Scarf (6)","Arctic Asiago","-","4.63%","Gingerbread",108
-"Festive Comet","Scarf (6)","Arctic Asiago","-","4.63%","Destructoy",108
-"Festive Comet","Scarf (6)","Arctic Asiago","-","4.63%","Black Diamond Racer",108
-"Festive Comet","Scarf (6)","Arctic Asiago","-","4.63%","Triple Lutz",108
-"Festive Comet","Scarf (6)","Arctic Asiago","-","4.63%","Toboggan Technician",108
-"Festive Comet","Scarf (6)","Arctic Asiago","-","3.70%","Miser",108
-"Festive Comet","Scarf (6)","Arctic Asiago","-","3.70%","Stocking",108
-"Festive Comet","Scarf (6)","Arctic Asiago","-","3.70%","Confused Courier",108
-"Festive Comet","Scarf (6)","Arctic Asiago","-","2.78%","Candy Cane",108
-"Festive Comet","Scarf (6)","Arctic Asiago","-","1.85%","Ridiculous Sweater",108
-"Festive Comet","Scarf (6)","Arctic Asiago","-","1.85%","Toy",108
-"Festive Comet","Scarf (6)","Arctic Asiago","-","0.93%","Squeaker Claws",108
-"Festive Comet","Scarf (6)","Arctic Asiago","-","0.93%","Mouse of Winter Present",108
-"Festive Comet","Scarf (6)","Arctic Asiago","-","0.93%","Mouse of Winter Past",108
-"Festive Comet","Scarf (6)","Arctic Asiago","-","0.93%","Double Black Diamond Racer",108
-"Festive Comet","Scarf (6)","Arctic Asiago","-","0.93%","Mouse of Winter Future",108
-"Festive Comet","Scarf (6)","Arctic Asiago","-","0.93%","Ornament",108
-"Festive Comet","Scarf (6)","Arctic Asiago","-","0.93%","Nutcracker",108
-"Festive Comet","Scarf (6)","Arctic Asiago","-","0.93%","Rainbow Racer",108
-"Festive Comet","Scarf (6)","Arctic Asiago","-","0.93%","Present",108
-"Festive Comet","Scarf (6)","Arctic Asiago","-","0.93%","Greedy Al",108
-"Festive Comet","Gingerbread (7)","Gouda","-","14.78%","Hoarder",115
-"Festive Comet","Gingerbread (7)","Gouda","-","10.43%","Wreath Thief",115
-"Festive Comet","Gingerbread (7)","Gouda","-","7.83%","Snowball Hoarder",115
-"Festive Comet","Gingerbread (7)","Gouda","-","6.96%","Ribbon",115
-"Festive Comet","Gingerbread (7)","Gouda","-","6.09%","Missile Toe",115
-"Festive Comet","Gingerbread (7)","Gouda","-","6.09%","Destructoy",115
-"Festive Comet","Gingerbread (7)","Gouda","-","6.09%","Stocking",115
-"Festive Comet","Gingerbread (7)","Gouda","-","6.09%","Gingerbread",115
-"Festive Comet","Gingerbread (7)","Gouda","-","6.09%","Toboggan Technician",115
-"Festive Comet","Gingerbread (7)","Gouda","-","4.35%","Toy Tinkerer",115
-"Festive Comet","Gingerbread (7)","Gouda","-","4.35%","Ridiculous Sweater",115
-"Festive Comet","Gingerbread (7)","Gouda","-","4.35%","Toy",115
-"Festive Comet","Gingerbread (7)","Gouda","-","3.48%","Triple Lutz",115
-"Festive Comet","Gingerbread (7)","Gouda","-","3.48%","Young Prodigy Racer",115
-"Festive Comet","Gingerbread (7)","Gouda","-","3.48%","Miser",115
-"Festive Comet","Gingerbread (7)","Gouda","-","2.61%","Sporty Ski Instructor",115
-"Festive Comet","Gingerbread (7)","Gouda","-","1.74%","Snow Boulder",115
-"Festive Comet","Gingerbread (7)","Gouda","-","0.87%","Nutcracker",115
-"Festive Comet","Gingerbread (7)","Gouda","-","0.87%","Candy Cane",115
-"Festive Comet","Gingerbread (7)","Pecan Pecorino","-","24.67%","Snow Scavenger",604
-"Festive Comet","Gingerbread (7)","Pecan Pecorino","-","9.44%","Builder",604
-"Festive Comet","Gingerbread (7)","Pecan Pecorino","-","8.61%","Snowblower",604
-"Festive Comet","Gingerbread (7)","Pecan Pecorino","-","5.79%","Snow Fort",604
-"Festive Comet","Gingerbread (7)","Pecan Pecorino","-","5.63%","Reinbo",604
-"Festive Comet","Gingerbread (7)","Pecan Pecorino","-","4.97%","Snow Golem Jockey",604
-"Festive Comet","Gingerbread (7)","Pecan Pecorino","-","4.64%","Stuck Snowball",604
-"Festive Comet","Gingerbread (7)","Pecan Pecorino","-","4.14%","Snowglobe",604
-"Festive Comet","Gingerbread (7)","Pecan Pecorino","-","4.14%","Nice Knitting",604
-"Festive Comet","Gingerbread (7)","Pecan Pecorino","-","3.97%","Elf",604
-"Festive Comet","Gingerbread (7)","Pecan Pecorino","-","3.48%","Great Winter Hunt Impostor",604
-"Festive Comet","Gingerbread (7)","Pecan Pecorino","-","3.15%","Glacia Ice Fist",604
-"Festive Comet","Gingerbread (7)","Pecan Pecorino","-","2.98%","Slay Ride",604
-"Festive Comet","Gingerbread (7)","Pecan Pecorino","-","2.81%","Snow Sorceress",604
-"Festive Comet","Gingerbread (7)","Pecan Pecorino","-","2.81%","Free Skiing",604
-"Festive Comet","Gingerbread (7)","Pecan Pecorino","-","2.81%","Frigid Foreman",604
-"Festive Comet","Gingerbread (7)","Pecan Pecorino","-","2.32%","S.N.O.W. Golem",604
-"Festive Comet","Gingerbread (7)","Pecan Pecorino","-","1.99%","Tundra Huntress",604
-"Festive Comet","Gingerbread (7)","Pecan Pecorino","-","1.66%","Borean Commander",604
-"Festive Comet","Gingerbread (7)","Pecan Pecorino","Winter","20.73%","Snow Scavenger",275
-"Festive Comet","Gingerbread (7)","Pecan Pecorino","Winter","12.73%","Snowblower",275
-"Festive Comet","Gingerbread (7)","Pecan Pecorino","Winter","9.82%","Snowflake",275
-"Festive Comet","Gingerbread (7)","Pecan Pecorino","Winter","6.91%","Builder",275
-"Festive Comet","Gingerbread (7)","Pecan Pecorino","Winter","5.82%","Snowglobe",275
-"Festive Comet","Gingerbread (7)","Pecan Pecorino","Winter","5.45%","Snow Fort",275
-"Festive Comet","Gingerbread (7)","Pecan Pecorino","Winter","5.09%","Slay Ride",275
-"Festive Comet","Gingerbread (7)","Pecan Pecorino","Winter","4.00%","Reinbo",275
-"Festive Comet","Gingerbread (7)","Pecan Pecorino","Winter","3.64%","Nice Knitting",275
-"Festive Comet","Gingerbread (7)","Pecan Pecorino","Winter","3.64%","Great Winter Hunt Impostor",275
-"Festive Comet","Gingerbread (7)","Pecan Pecorino","Winter","3.27%","Frigid Foreman",275
-"Festive Comet","Gingerbread (7)","Pecan Pecorino","Winter","3.27%","Snow Golem Jockey",275
-"Festive Comet","Gingerbread (7)","Pecan Pecorino","Winter","2.91%","Elf",275
-"Festive Comet","Gingerbread (7)","Pecan Pecorino","Winter","2.91%","Free Skiing",275
-"Festive Comet","Gingerbread (7)","Pecan Pecorino","Winter","2.55%","Stuck Snowball",275
-"Festive Comet","Gingerbread (7)","Pecan Pecorino","Winter","1.82%","Borean Commander",275
-"Festive Comet","Gingerbread (7)","Pecan Pecorino","Winter","1.45%","S.N.O.W. Golem",275
-"Festive Comet","Gingerbread (7)","Pecan Pecorino","Winter","1.45%","Snow Sorceress",275
-"Festive Comet","Gingerbread (7)","Pecan Pecorino","Winter","1.45%","Tundra Huntress",275
-"Festive Comet","Gingerbread (7)","Pecan Pecorino","Winter","1.09%","Glacia Ice Fist",275
-"Festive Comet","Gingerbread (7)","Pecan Pecorino","Let It Snow","17.89%","Snow Golem Architect",654
-"Festive Comet","Gingerbread (7)","Pecan Pecorino","Let It Snow","17.58%","Snow Scavenger",654
-"Festive Comet","Gingerbread (7)","Pecan Pecorino","Let It Snow","7.80%","Builder",654
-"Festive Comet","Gingerbread (7)","Pecan Pecorino","Let It Snow","6.27%","Snowblower",654
-"Festive Comet","Gingerbread (7)","Pecan Pecorino","Let It Snow","5.35%","Stuck Snowball",654
-"Festive Comet","Gingerbread (7)","Pecan Pecorino","Let It Snow","4.89%","Snow Fort",654
-"Festive Comet","Gingerbread (7)","Pecan Pecorino","Let It Snow","4.74%","Reinbo",654
-"Festive Comet","Gingerbread (7)","Pecan Pecorino","Let It Snow","4.28%","Nice Knitting",654
-"Festive Comet","Gingerbread (7)","Pecan Pecorino","Let It Snow","3.67%","Slay Ride",654
-"Festive Comet","Gingerbread (7)","Pecan Pecorino","Let It Snow","3.36%","Great Winter Hunt Impostor",654
-"Festive Comet","Gingerbread (7)","Pecan Pecorino","Let It Snow","3.36%","Elf",654
-"Festive Comet","Gingerbread (7)","Pecan Pecorino","Let It Snow","3.21%","Snow Golem Jockey",654
-"Festive Comet","Gingerbread (7)","Pecan Pecorino","Let It Snow","2.91%","Frigid Foreman",654
-"Festive Comet","Gingerbread (7)","Pecan Pecorino","Let It Snow","2.75%","Snowglobe",654
-"Festive Comet","Gingerbread (7)","Pecan Pecorino","Let It Snow","2.29%","Free Skiing",654
-"Festive Comet","Gingerbread (7)","Pecan Pecorino","Let It Snow","2.29%","Tundra Huntress",654
-"Festive Comet","Gingerbread (7)","Pecan Pecorino","Let It Snow","2.29%","Borean Commander",654
-"Festive Comet","Gingerbread (7)","Pecan Pecorino","Let It Snow","2.14%","Snow Sorceress",654
-"Festive Comet","Gingerbread (7)","Pecan Pecorino","Let It Snow","1.83%","S.N.O.W. Golem",654
-"Festive Comet","Gingerbread (7)","Pecan Pecorino","Let It Snow","1.07%","Glacia Ice Fist",654
-"Festive Comet","Peppermint (8)","Gouda","-","13.95%","Snowball Hoarder",129
-"Festive Comet","Peppermint (8)","Gouda","-","13.95%","Hoarder",129
-"Festive Comet","Peppermint (8)","Gouda","-","9.30%","Triple Lutz",129
-"Festive Comet","Peppermint (8)","Gouda","-","7.75%","Ribbon",129
-"Festive Comet","Peppermint (8)","Gouda","-","7.75%","Gingerbread",129
-"Festive Comet","Peppermint (8)","Gouda","-","6.20%","Wreath Thief",129
-"Festive Comet","Peppermint (8)","Gouda","-","5.43%","Missile Toe",129
-"Festive Comet","Peppermint (8)","Gouda","-","4.65%","Toboggan Technician",129
-"Festive Comet","Peppermint (8)","Gouda","-","4.65%","Toy Tinkerer",129
-"Festive Comet","Peppermint (8)","Gouda","-","3.88%","Toy",129
-"Festive Comet","Peppermint (8)","Gouda","-","3.88%","Stocking",129
-"Festive Comet","Peppermint (8)","Gouda","-","3.10%","Snow Boulder",129
-"Festive Comet","Peppermint (8)","Gouda","-","3.10%","Destructoy",129
-"Festive Comet","Peppermint (8)","Gouda","-","2.33%","Candy Cane",129
-"Festive Comet","Peppermint (8)","Gouda","-","2.33%","Ridiculous Sweater",129
-"Festive Comet","Peppermint (8)","Gouda","-","2.33%","Nutcracker",129
-"Festive Comet","Peppermint (8)","Gouda","-","2.33%","Christmas Tree",129
-"Festive Comet","Peppermint (8)","Gouda","-","1.55%","Young Prodigy Racer",129
-"Festive Comet","Peppermint (8)","Gouda","-","0.78%","Miser",129
-"Festive Comet","Peppermint (8)","Gouda","-","0.78%","Sporty Ski Instructor",129
-"Festive Comet","Peppermint (8)","Pecan Pecorino","-","20.48%","Snow Scavenger",708
-"Festive Comet","Peppermint (8)","Pecan Pecorino","-","10.17%","Snowblower",708
-"Festive Comet","Peppermint (8)","Pecan Pecorino","-","7.63%","Builder",708
-"Festive Comet","Peppermint (8)","Pecan Pecorino","-","5.65%","Snowglobe",708
-"Festive Comet","Peppermint (8)","Pecan Pecorino","-","5.65%","Snow Golem Jockey",708
-"Festive Comet","Peppermint (8)","Pecan Pecorino","-","5.51%","Reinbo",708
-"Festive Comet","Peppermint (8)","Pecan Pecorino","-","5.37%","Stuck Snowball",708
-"Festive Comet","Peppermint (8)","Pecan Pecorino","-","5.08%","Snow Fort",708
-"Festive Comet","Peppermint (8)","Pecan Pecorino","-","3.95%","Nice Knitting",708
-"Festive Comet","Peppermint (8)","Pecan Pecorino","-","3.95%","Elf",708
-"Festive Comet","Peppermint (8)","Pecan Pecorino","-","3.81%","Snow Sorceress",708
-"Festive Comet","Peppermint (8)","Pecan Pecorino","-","3.67%","Free Skiing",708
-"Festive Comet","Peppermint (8)","Pecan Pecorino","-","3.53%","Frigid Foreman",708
-"Festive Comet","Peppermint (8)","Pecan Pecorino","-","3.39%","Great Winter Hunt Impostor",708
-"Festive Comet","Peppermint (8)","Pecan Pecorino","-","3.39%","S.N.O.W. Golem",708
-"Festive Comet","Peppermint (8)","Pecan Pecorino","-","2.82%","Borean Commander",708
-"Festive Comet","Peppermint (8)","Pecan Pecorino","-","2.54%","Slay Ride",708
-"Festive Comet","Peppermint (8)","Pecan Pecorino","-","1.84%","Glacia Ice Fist",708
-"Festive Comet","Peppermint (8)","Pecan Pecorino","-","1.55%","Tundra Huntress",708
-"Festive Comet","Peppermint (8)","Pecan Pecorino","Winter","17.41%","Snow Scavenger",293
-"Festive Comet","Peppermint (8)","Pecan Pecorino","Winter","10.24%","Snowblower",293
-"Festive Comet","Peppermint (8)","Pecan Pecorino","Winter","8.87%","Builder",293
-"Festive Comet","Peppermint (8)","Pecan Pecorino","Winter","8.53%","Nice Knitting",293
-"Festive Comet","Peppermint (8)","Pecan Pecorino","Winter","7.85%","Snowflake",293
-"Festive Comet","Peppermint (8)","Pecan Pecorino","Winter","6.48%","Reinbo",293
-"Festive Comet","Peppermint (8)","Pecan Pecorino","Winter","6.14%","Snowglobe",293
-"Festive Comet","Peppermint (8)","Pecan Pecorino","Winter","5.80%","Snow Fort",293
-"Festive Comet","Peppermint (8)","Pecan Pecorino","Winter","4.78%","Stuck Snowball",293
-"Festive Comet","Peppermint (8)","Pecan Pecorino","Winter","3.07%","Tundra Huntress",293
-"Festive Comet","Peppermint (8)","Pecan Pecorino","Winter","3.07%","Slay Ride",293
-"Festive Comet","Peppermint (8)","Pecan Pecorino","Winter","3.07%","Snow Sorceress",293
-"Festive Comet","Peppermint (8)","Pecan Pecorino","Winter","2.73%","Elf",293
-"Festive Comet","Peppermint (8)","Pecan Pecorino","Winter","2.73%","Snow Golem Jockey",293
-"Festive Comet","Peppermint (8)","Pecan Pecorino","Winter","2.05%","Frigid Foreman",293
-"Festive Comet","Peppermint (8)","Pecan Pecorino","Winter","1.71%","Glacia Ice Fist",293
-"Festive Comet","Peppermint (8)","Pecan Pecorino","Winter","1.71%","S.N.O.W. Golem",293
-"Festive Comet","Peppermint (8)","Pecan Pecorino","Winter","1.37%","Great Winter Hunt Impostor",293
-"Festive Comet","Peppermint (8)","Pecan Pecorino","Winter","1.37%","Borean Commander",293
-"Festive Comet","Peppermint (8)","Pecan Pecorino","Winter","1.02%","Free Skiing",293
-"Festive Comet","Peppermint (8)","Pecan Pecorino","Let It Snow","18.54%","Snow Scavenger",890
-"Festive Comet","Peppermint (8)","Pecan Pecorino","Let It Snow","16.85%","Snow Golem Architect",890
-"Festive Comet","Peppermint (8)","Pecan Pecorino","Let It Snow","8.20%","Builder",890
-"Festive Comet","Peppermint (8)","Pecan Pecorino","Let It Snow","8.20%","Snowblower",890
-"Festive Comet","Peppermint (8)","Pecan Pecorino","Let It Snow","4.72%","Snow Fort",890
-"Festive Comet","Peppermint (8)","Pecan Pecorino","Let It Snow","4.38%","Snowglobe",890
-"Festive Comet","Peppermint (8)","Pecan Pecorino","Let It Snow","4.38%","Stuck Snowball",890
-"Festive Comet","Peppermint (8)","Pecan Pecorino","Let It Snow","4.27%","Snow Golem Jockey",890
-"Festive Comet","Peppermint (8)","Pecan Pecorino","Let It Snow","3.93%","Elf",890
-"Festive Comet","Peppermint (8)","Pecan Pecorino","Let It Snow","3.71%","Slay Ride",890
-"Festive Comet","Peppermint (8)","Pecan Pecorino","Let It Snow","3.71%","Nice Knitting",890
-"Festive Comet","Peppermint (8)","Pecan Pecorino","Let It Snow","3.71%","Reinbo",890
-"Festive Comet","Peppermint (8)","Pecan Pecorino","Let It Snow","3.26%","Great Winter Hunt Impostor",890
-"Festive Comet","Peppermint (8)","Pecan Pecorino","Let It Snow","2.81%","Free Skiing",890
-"Festive Comet","Peppermint (8)","Pecan Pecorino","Let It Snow","2.81%","Snow Sorceress",890
-"Festive Comet","Peppermint (8)","Pecan Pecorino","Let It Snow","2.25%","S.N.O.W. Golem",890
-"Festive Comet","Peppermint (8)","Pecan Pecorino","Let It Snow","1.57%","Frigid Foreman",890
-"Festive Comet","Peppermint (8)","Pecan Pecorino","Let It Snow","1.35%","Tundra Huntress",890
-"Festive Comet","Peppermint (8)","Pecan Pecorino","Let It Snow","1.01%","Borean Commander",890
-"Festive Comet","Peppermint (8)","Pecan Pecorino","Let It Snow","0.34%","Glacia Ice Fist",890
-"Festive Comet","Ice (9)","Pecan Pecorino","-","26.48%","Snow Scavenger",540
-"Festive Comet","Ice (9)","Pecan Pecorino","-","8.70%","Builder",540
-"Festive Comet","Ice (9)","Pecan Pecorino","-","8.33%","Snowblower",540
-"Festive Comet","Ice (9)","Pecan Pecorino","-","6.67%","Stuck Snowball",540
-"Festive Comet","Ice (9)","Pecan Pecorino","-","5.74%","Snow Fort",540
-"Festive Comet","Ice (9)","Pecan Pecorino","-","5.37%","Nice Knitting",540
-"Festive Comet","Ice (9)","Pecan Pecorino","-","4.63%","Reinbo",540
-"Festive Comet","Ice (9)","Pecan Pecorino","-","4.44%","Snow Golem Jockey",540
-"Festive Comet","Ice (9)","Pecan Pecorino","-","4.26%","Snowglobe",540
-"Festive Comet","Ice (9)","Pecan Pecorino","-","3.89%","Great Winter Hunt Impostor",540
-"Festive Comet","Ice (9)","Pecan Pecorino","-","3.70%","Elf",540
-"Festive Comet","Ice (9)","Pecan Pecorino","-","3.33%","Free Skiing",540
-"Festive Comet","Ice (9)","Pecan Pecorino","-","3.15%","Snow Sorceress",540
-"Festive Comet","Ice (9)","Pecan Pecorino","-","2.41%","S.N.O.W. Golem",540
-"Festive Comet","Ice (9)","Pecan Pecorino","-","2.22%","Slay Ride",540
-"Festive Comet","Ice (9)","Pecan Pecorino","-","2.04%","Borean Commander",540
-"Festive Comet","Ice (9)","Pecan Pecorino","-","1.67%","Glacia Ice Fist",540
-"Festive Comet","Ice (9)","Pecan Pecorino","-","1.67%","Frigid Foreman",540
-"Festive Comet","Ice (9)","Pecan Pecorino","-","1.30%","Tundra Huntress",540
-"Festive Comet","Ice (9)","Pecan Pecorino","Winter","22.10%","Snow Scavenger",267
-"Festive Comet","Ice (9)","Pecan Pecorino","Winter","13.11%","Snowflake",267
-"Festive Comet","Ice (9)","Pecan Pecorino","Winter","7.49%","Nice Knitting",267
-"Festive Comet","Ice (9)","Pecan Pecorino","Winter","7.49%","Snowblower",267
-"Festive Comet","Ice (9)","Pecan Pecorino","Winter","5.99%","Reinbo",267
-"Festive Comet","Ice (9)","Pecan Pecorino","Winter","5.62%","Builder",267
-"Festive Comet","Ice (9)","Pecan Pecorino","Winter","4.12%","Snowglobe",267
-"Festive Comet","Ice (9)","Pecan Pecorino","Winter","3.75%","Slay Ride",267
-"Festive Comet","Ice (9)","Pecan Pecorino","Winter","3.75%","Great Winter Hunt Impostor",267
-"Festive Comet","Ice (9)","Pecan Pecorino","Winter","3.75%","Stuck Snowball",267
-"Festive Comet","Ice (9)","Pecan Pecorino","Winter","3.37%","Free Skiing",267
-"Festive Comet","Ice (9)","Pecan Pecorino","Winter","3.37%","Elf",267
-"Festive Comet","Ice (9)","Pecan Pecorino","Winter","3.37%","Snow Fort",267
-"Festive Comet","Ice (9)","Pecan Pecorino","Winter","2.62%","S.N.O.W. Golem",267
-"Festive Comet","Ice (9)","Pecan Pecorino","Winter","2.62%","Snow Golem Jockey",267
-"Festive Comet","Ice (9)","Pecan Pecorino","Winter","2.25%","Tundra Huntress",267
-"Festive Comet","Ice (9)","Pecan Pecorino","Winter","1.87%","Snow Sorceress",267
-"Festive Comet","Ice (9)","Pecan Pecorino","Winter","1.50%","Frigid Foreman",267
-"Festive Comet","Ice (9)","Pecan Pecorino","Winter","1.12%","Glacia Ice Fist",267
-"Festive Comet","Ice (9)","Pecan Pecorino","Winter","0.75%","Borean Commander",267
-"Festive Comet","Ice (9)","Pecan Pecorino","Let It Snow","17.51%","Snow Golem Architect",731
-"Festive Comet","Ice (9)","Pecan Pecorino","Let It Snow","17.37%","Snow Scavenger",731
-"Festive Comet","Ice (9)","Pecan Pecorino","Let It Snow","9.85%","Snowblower",731
-"Festive Comet","Ice (9)","Pecan Pecorino","Let It Snow","7.39%","Builder",731
-"Festive Comet","Ice (9)","Pecan Pecorino","Let It Snow","4.65%","Snow Fort",731
-"Festive Comet","Ice (9)","Pecan Pecorino","Let It Snow","4.51%","Snowglobe",731
-"Festive Comet","Ice (9)","Pecan Pecorino","Let It Snow","4.24%","Stuck Snowball",731
-"Festive Comet","Ice (9)","Pecan Pecorino","Let It Snow","3.97%","Snow Golem Jockey",731
-"Festive Comet","Ice (9)","Pecan Pecorino","Let It Snow","3.97%","Reinbo",731
-"Festive Comet","Ice (9)","Pecan Pecorino","Let It Snow","3.69%","Elf",731
-"Festive Comet","Ice (9)","Pecan Pecorino","Let It Snow","3.28%","S.N.O.W. Golem",731
-"Festive Comet","Ice (9)","Pecan Pecorino","Let It Snow","3.28%","Nice Knitting",731
-"Festive Comet","Ice (9)","Pecan Pecorino","Let It Snow","2.87%","Slay Ride",731
-"Festive Comet","Ice (9)","Pecan Pecorino","Let It Snow","2.60%","Free Skiing",731
-"Festive Comet","Ice (9)","Pecan Pecorino","Let It Snow","2.33%","Great Winter Hunt Impostor",731
-"Festive Comet","Ice (9)","Pecan Pecorino","Let It Snow","2.19%","Tundra Huntress",731
-"Festive Comet","Ice (9)","Pecan Pecorino","Let It Snow","2.19%","Frigid Foreman",731
-"Festive Comet","Ice (9)","Pecan Pecorino","Let It Snow","1.92%","Glacia Ice Fist",731
-"Festive Comet","Ice (9)","Pecan Pecorino","Let It Snow","1.37%","Snow Sorceress",731
-"Festive Comet","Ice (9)","Pecan Pecorino","Let It Snow","0.82%","Borean Commander",731
-"Festive Comet","Nougat (10)","SB+","-","10.48%","Hoarder",105
-"Festive Comet","Nougat (10)","SB+","-","8.57%","Joy",105
-"Festive Comet","Nougat (10)","SB+","-","6.67%","Gingerbread",105
-"Festive Comet","Nougat (10)","SB+","-","6.67%","Snow Boulder",105
-"Festive Comet","Nougat (10)","SB+","-","6.67%","Young Prodigy Racer",105
-"Festive Comet","Nougat (10)","SB+","-","4.76%","Wreath Thief",105
-"Festive Comet","Nougat (10)","SB+","-","4.76%","Ridiculous Sweater",105
-"Festive Comet","Nougat (10)","SB+","-","4.76%","Sporty Ski Instructor",105
-"Festive Comet","Nougat (10)","SB+","-","4.76%","Ribbon",105
-"Festive Comet","Nougat (10)","SB+","-","3.81%","Toboggan Technician",105
-"Festive Comet","Nougat (10)","SB+","-","3.81%","Destructoy",105
-"Festive Comet","Nougat (10)","SB+","-","2.86%","Mad Elf",105
-"Festive Comet","Nougat (10)","SB+","-","2.86%","Missile Toe",105
-"Festive Comet","Nougat (10)","SB+","-","2.86%","Toy Tinkerer",105
-"Festive Comet","Nougat (10)","SB+","-","2.86%","Miser",105
-"Festive Comet","Nougat (10)","SB+","-","2.86%","Toy",105
-"Festive Comet","Nougat (10)","SB+","-","2.86%","Triple Lutz",105
-"Festive Comet","Nougat (10)","SB+","-","1.90%","Nutcracker",105
-"Festive Comet","Nougat (10)","SB+","-","1.90%","Stocking",105
-"Festive Comet","Nougat (10)","SB+","-","1.90%","Christmas Tree",105
-"Festive Comet","Nougat (10)","SB+","-","1.90%","Mouse of Winter Future",105
-"Festive Comet","Nougat (10)","SB+","-","1.90%","Mouse of Winter Present",105
-"Festive Comet","Nougat (10)","SB+","-","0.95%","Rainbow Racer",105
-"Festive Comet","Nougat (10)","SB+","-","0.95%","Squeaker Claws",105
-"Festive Comet","Nougat (10)","SB+","-","0.95%","Scrooge",105
-"Festive Comet","Nougat (10)","SB+","-","0.95%","Mouse of Winter Past",105
-"Festive Comet","Nougat (10)","SB+","-","0.95%","Double Black Diamond Racer",105
-"Festive Comet","Nougat (10)","SB+","-","0.95%","Black Diamond Racer",105
-"Festive Comet","Nougat (10)","SB+","-","0.95%","Snowball Hoarder",105
-"Festive Comet","Nougat (10)","SB+","-","0.95%","Present",105
-"Festive Comet","Nougat (10)","Pecan Pecorino","-","22.30%","Snow Scavenger",610
-"Festive Comet","Nougat (10)","Pecan Pecorino","-","9.84%","Builder",610
-"Festive Comet","Nougat (10)","Pecan Pecorino","-","9.67%","Snowblower",610
-"Festive Comet","Nougat (10)","Pecan Pecorino","-","6.07%","Snow Fort",610
-"Festive Comet","Nougat (10)","Pecan Pecorino","-","5.41%","Snowglobe",610
-"Festive Comet","Nougat (10)","Pecan Pecorino","-","4.92%","Elf",610
-"Festive Comet","Nougat (10)","Pecan Pecorino","-","4.75%","Nice Knitting",610
-"Festive Comet","Nougat (10)","Pecan Pecorino","-","4.59%","Reinbo",610
-"Festive Comet","Nougat (10)","Pecan Pecorino","-","4.59%","Stuck Snowball",610
-"Festive Comet","Nougat (10)","Pecan Pecorino","-","3.77%","S.N.O.W. Golem",610
-"Festive Comet","Nougat (10)","Pecan Pecorino","-","3.61%","Great Winter Hunt Impostor",610
-"Festive Comet","Nougat (10)","Pecan Pecorino","-","3.11%","Snow Golem Jockey",610
-"Festive Comet","Nougat (10)","Pecan Pecorino","-","2.95%","Free Skiing",610
-"Festive Comet","Nougat (10)","Pecan Pecorino","-","2.95%","Slay Ride",610
-"Festive Comet","Nougat (10)","Pecan Pecorino","-","2.79%","Borean Commander",610
-"Festive Comet","Nougat (10)","Pecan Pecorino","-","2.46%","Frigid Foreman",610
-"Festive Comet","Nougat (10)","Pecan Pecorino","-","2.30%","Tundra Huntress",610
-"Festive Comet","Nougat (10)","Pecan Pecorino","-","2.13%","Snow Sorceress",610
-"Festive Comet","Nougat (10)","Pecan Pecorino","-","1.80%","Glacia Ice Fist",610
-"Festive Comet","Nougat (10)","Pecan Pecorino","Winter","20.62%","Snow Scavenger",325
-"Festive Comet","Nougat (10)","Pecan Pecorino","Winter","10.15%","Snowblower",325
-"Festive Comet","Nougat (10)","Pecan Pecorino","Winter","7.38%","Snowflake",325
-"Festive Comet","Nougat (10)","Pecan Pecorino","Winter","6.46%","Snow Fort",325
-"Festive Comet","Nougat (10)","Pecan Pecorino","Winter","6.15%","Snowglobe",325
-"Festive Comet","Nougat (10)","Pecan Pecorino","Winter","6.15%","Elf",325
-"Festive Comet","Nougat (10)","Pecan Pecorino","Winter","5.85%","Builder",325
-"Festive Comet","Nougat (10)","Pecan Pecorino","Winter","4.31%","Stuck Snowball",325
-"Festive Comet","Nougat (10)","Pecan Pecorino","Winter","4.00%","Reinbo",325
-"Festive Comet","Nougat (10)","Pecan Pecorino","Winter","3.69%","Nice Knitting",325
-"Festive Comet","Nougat (10)","Pecan Pecorino","Winter","3.38%","Free Skiing",325
-"Festive Comet","Nougat (10)","Pecan Pecorino","Winter","3.38%","Great Winter Hunt Impostor",325
-"Festive Comet","Nougat (10)","Pecan Pecorino","Winter","3.08%","Snow Golem Jockey",325
-"Festive Comet","Nougat (10)","Pecan Pecorino","Winter","3.08%","S.N.O.W. Golem",325
-"Festive Comet","Nougat (10)","Pecan Pecorino","Winter","2.77%","Frigid Foreman",325
-"Festive Comet","Nougat (10)","Pecan Pecorino","Winter","2.77%","Snow Sorceress",325
-"Festive Comet","Nougat (10)","Pecan Pecorino","Winter","2.77%","Slay Ride",325
-"Festive Comet","Nougat (10)","Pecan Pecorino","Winter","1.54%","Borean Commander",325
-"Festive Comet","Nougat (10)","Pecan Pecorino","Winter","1.54%","Tundra Huntress",325
-"Festive Comet","Nougat (10)","Pecan Pecorino","Winter","0.92%","Glacia Ice Fist",325
-"Festive Comet","Nougat (10)","Pecan Pecorino","Let It Snow","18.93%","Snow Scavenger",845
-"Festive Comet","Nougat (10)","Pecan Pecorino","Let It Snow","17.75%","Snow Golem Architect",845
-"Festive Comet","Nougat (10)","Pecan Pecorino","Let It Snow","6.86%","Snowblower",845
-"Festive Comet","Nougat (10)","Pecan Pecorino","Let It Snow","5.68%","Builder",845
-"Festive Comet","Nougat (10)","Pecan Pecorino","Let It Snow","4.85%","Stuck Snowball",845
-"Festive Comet","Nougat (10)","Pecan Pecorino","Let It Snow","4.14%","Nice Knitting",845
-"Festive Comet","Nougat (10)","Pecan Pecorino","Let It Snow","4.02%","Snow Fort",845
-"Festive Comet","Nougat (10)","Pecan Pecorino","Let It Snow","3.79%","Snow Golem Jockey",845
-"Festive Comet","Nougat (10)","Pecan Pecorino","Let It Snow","3.79%","Reinbo",845
-"Festive Comet","Nougat (10)","Pecan Pecorino","Let It Snow","3.67%","Snowglobe",845
-"Festive Comet","Nougat (10)","Pecan Pecorino","Let It Snow","3.67%","Elf",845
-"Festive Comet","Nougat (10)","Pecan Pecorino","Let It Snow","3.43%","Great Winter Hunt Impostor",845
-"Festive Comet","Nougat (10)","Pecan Pecorino","Let It Snow","3.31%","Free Skiing",845
-"Festive Comet","Nougat (10)","Pecan Pecorino","Let It Snow","2.84%","S.N.O.W. Golem",845
-"Festive Comet","Nougat (10)","Pecan Pecorino","Let It Snow","2.84%","Frigid Foreman",845
-"Festive Comet","Nougat (10)","Pecan Pecorino","Let It Snow","2.37%","Slay Ride",845
-"Festive Comet","Nougat (10)","Pecan Pecorino","Let It Snow","2.37%","Borean Commander",845
-"Festive Comet","Nougat (10)","Pecan Pecorino","Let It Snow","2.13%","Snow Sorceress",845
-"Festive Comet","Nougat (10)","Pecan Pecorino","Let It Snow","2.13%","Tundra Huntress",845
-"Festive Comet","Nougat (10)","Pecan Pecorino","Let It Snow","1.42%","Glacia Ice Fist",845
-"Festive Comet","Core","SB+","-","100.00%","Naughty Nougat",17
-"Festive Comet","Core","SB+","Winter","100.00%","Naughty Nougat",1
+"Festive Comet","Snow (1)","Pecan Pecorino","-","22.17%","Snow Scavenger",230
+"Festive Comet","Snow (1)","Pecan Pecorino","-","14.35%","Snowblower",230
+"Festive Comet","Snow (1)","Pecan Pecorino","-","9.13%","Builder",230
+"Festive Comet","Snow (1)","Pecan Pecorino","-","6.09%","Snow Fort",230
+"Festive Comet","Snow (1)","Pecan Pecorino","-","5.65%","Reinbo",230
+"Festive Comet","Snow (1)","Pecan Pecorino","-","5.22%","Snowglobe",230
+"Festive Comet","Snow (1)","Pecan Pecorino","-","4.78%","Nice Knitting",230
+"Festive Comet","Snow (1)","Pecan Pecorino","-","4.35%","Great Winter Hunt Impostor",230
+"Festive Comet","Snow (1)","Pecan Pecorino","-","4.35%","Elf",230
+"Festive Comet","Snow (1)","Pecan Pecorino","-","3.91%","Stuck Snowball",230
+"Festive Comet","Snow (1)","Pecan Pecorino","-","3.48%","Snow Sorceress",230
+"Festive Comet","Snow (1)","Pecan Pecorino","-","3.04%","Slay Ride",230
+"Festive Comet","Snow (1)","Pecan Pecorino","-","2.61%","Frigid Foreman",230
+"Festive Comet","Snow (1)","Pecan Pecorino","-","2.61%","Borean Commander",230
+"Festive Comet","Snow (1)","Pecan Pecorino","-","2.61%","Snow Golem Jockey",230
+"Festive Comet","Snow (1)","Pecan Pecorino","-","2.17%","Free Skiing",230
+"Festive Comet","Snow (1)","Pecan Pecorino","-","1.74%","S.N.O.W. Golem",230
+"Festive Comet","Snow (1)","Pecan Pecorino","-","0.87%","Glacia Ice Fist",230
+"Festive Comet","Snow (1)","Pecan Pecorino","-","0.87%","Tundra Huntress",230
+"Festive Comet","Snow (1)","Pecan Pecorino","Let It Snow","17.82%","Snow Scavenger",174
+"Festive Comet","Snow (1)","Pecan Pecorino","Let It Snow","13.79%","Snow Golem Architect",174
+"Festive Comet","Snow (1)","Pecan Pecorino","Let It Snow","7.47%","Snow Fort",174
+"Festive Comet","Snow (1)","Pecan Pecorino","Let It Snow","6.90%","Snowblower",174
+"Festive Comet","Snow (1)","Pecan Pecorino","Let It Snow","6.32%","Reinbo",174
+"Festive Comet","Snow (1)","Pecan Pecorino","Let It Snow","5.17%","Stuck Snowball",174
+"Festive Comet","Snow (1)","Pecan Pecorino","Let It Snow","4.60%","Slay Ride",174
+"Festive Comet","Snow (1)","Pecan Pecorino","Let It Snow","4.60%","Builder",174
+"Festive Comet","Snow (1)","Pecan Pecorino","Let It Snow","4.60%","Elf",174
+"Festive Comet","Snow (1)","Pecan Pecorino","Let It Snow","4.02%","Snow Golem Jockey",174
+"Festive Comet","Snow (1)","Pecan Pecorino","Let It Snow","3.45%","Nice Knitting",174
+"Festive Comet","Snow (1)","Pecan Pecorino","Let It Snow","3.45%","Frigid Foreman",174
+"Festive Comet","Snow (1)","Pecan Pecorino","Let It Snow","2.87%","Snowglobe",174
+"Festive Comet","Snow (1)","Pecan Pecorino","Let It Snow","2.87%","Great Winter Hunt Impostor",174
+"Festive Comet","Snow (1)","Pecan Pecorino","Let It Snow","2.30%","Borean Commander",174
+"Festive Comet","Snow (1)","Pecan Pecorino","Let It Snow","2.30%","Snow Sorceress",174
+"Festive Comet","Snow (1)","Pecan Pecorino","Let It Snow","2.30%","Free Skiing",174
+"Festive Comet","Snow (1)","Pecan Pecorino","Let It Snow","2.30%","S.N.O.W. Golem",174
+"Festive Comet","Snow (1)","Pecan Pecorino","Let It Snow","1.72%","Tundra Huntress",174
+"Festive Comet","Snow (1)","Pecan Pecorino","Let It Snow","1.15%","Glacia Ice Fist",174
+"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","-","21.55%","Snow Scavenger",362
+"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","-","8.84%","Builder",362
+"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","-","8.56%","Snowblower",362
+"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","-","6.35%","Snow Fort",362
+"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","-","6.08%","Reinbo",362
+"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","-","6.08%","Snowglobe",362
+"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","-","6.08%","Stuck Snowball",362
+"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","-","5.25%","Slay Ride",362
+"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","-","4.14%","Great Winter Hunt Impostor",362
+"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","-","3.87%","Nice Knitting",362
+"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","-","3.31%","S.N.O.W. Golem",362
+"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","-","3.04%","Snow Sorceress",362
+"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","-","2.76%","Glacia Ice Fist",362
+"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","-","2.76%","Elf",362
+"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","-","2.76%","Free Skiing",362
+"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","-","2.49%","Tundra Huntress",362
+"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","-","2.49%","Borean Commander",362
+"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","-","2.21%","Snow Golem Jockey",362
+"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","-","1.38%","Frigid Foreman",362
+"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","Winter","24.55%","Snow Scavenger",110
+"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","Winter","11.82%","Snowblower",110
+"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","Winter","10.00%","Snowflake",110
+"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","Winter","6.36%","Slay Ride",110
+"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","Winter","5.45%","Snow Golem Jockey",110
+"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","Winter","5.45%","Reinbo",110
+"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","Winter","5.45%","Builder",110
+"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","Winter","4.55%","Snowglobe",110
+"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","Winter","4.55%","Snow Fort",110
+"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","Winter","4.55%","S.N.O.W. Golem",110
+"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","Winter","4.55%","Elf",110
+"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","Winter","1.82%","Nice Knitting",110
+"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","Winter","1.82%","Tundra Huntress",110
+"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","Winter","1.82%","Frigid Foreman",110
+"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","Winter","1.82%","Snow Sorceress",110
+"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","Winter","1.82%","Stuck Snowball",110
+"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","Winter","1.82%","Free Skiing",110
+"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","Winter","0.91%","Great Winter Hunt Impostor",110
+"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","Winter","0.91%","Borean Commander",110
+"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","Let It Snow","18.38%","Snow Golem Architect",234
+"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","Let It Snow","16.67%","Snow Scavenger",234
+"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","Let It Snow","9.40%","Snowblower",234
+"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","Let It Snow","5.56%","Builder",234
+"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","Let It Snow","5.56%","Stuck Snowball",234
+"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","Let It Snow","5.13%","Slay Ride",234
+"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","Let It Snow","4.27%","Nice Knitting",234
+"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","Let It Snow","3.85%","Snow Fort",234
+"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","Let It Snow","3.85%","Elf",234
+"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","Let It Snow","3.42%","S.N.O.W. Golem",234
+"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","Let It Snow","3.42%","Reinbo",234
+"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","Let It Snow","3.42%","Frigid Foreman",234
+"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","Let It Snow","2.99%","Snowglobe",234
+"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","Let It Snow","2.56%","Great Winter Hunt Impostor",234
+"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","Let It Snow","2.56%","Glacia Ice Fist",234
+"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","Let It Snow","2.56%","Snow Golem Jockey",234
+"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","Let It Snow","2.56%","Snow Sorceress",234
+"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","Let It Snow","2.14%","Borean Commander",234
+"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","Let It Snow","1.28%","Free Skiing",234
+"Festive Comet","Wrapping Paper (2)","Pecan Pecorino","Let It Snow","0.43%","Tundra Huntress",234
+"Festive Comet","Yule Log (3)","Pecan Pecorino","-","24.29%","Snow Scavenger",741
+"Festive Comet","Yule Log (3)","Pecan Pecorino","-","11.61%","Snowblower",741
+"Festive Comet","Yule Log (3)","Pecan Pecorino","-","8.23%","Builder",741
+"Festive Comet","Yule Log (3)","Pecan Pecorino","-","6.07%","Stuck Snowball",741
+"Festive Comet","Yule Log (3)","Pecan Pecorino","-","5.67%","Nice Knitting",741
+"Festive Comet","Yule Log (3)","Pecan Pecorino","-","5.53%","Snow Fort",741
+"Festive Comet","Yule Log (3)","Pecan Pecorino","-","4.45%","Reinbo",741
+"Festive Comet","Yule Log (3)","Pecan Pecorino","-","4.45%","Slay Ride",741
+"Festive Comet","Yule Log (3)","Pecan Pecorino","-","4.05%","Snowglobe",741
+"Festive Comet","Yule Log (3)","Pecan Pecorino","-","3.64%","Snow Sorceress",741
+"Festive Comet","Yule Log (3)","Pecan Pecorino","-","3.64%","Elf",741
+"Festive Comet","Yule Log (3)","Pecan Pecorino","-","2.97%","Great Winter Hunt Impostor",741
+"Festive Comet","Yule Log (3)","Pecan Pecorino","-","2.97%","Snow Golem Jockey",741
+"Festive Comet","Yule Log (3)","Pecan Pecorino","-","2.97%","S.N.O.W. Golem",741
+"Festive Comet","Yule Log (3)","Pecan Pecorino","-","2.70%","Free Skiing",741
+"Festive Comet","Yule Log (3)","Pecan Pecorino","-","2.43%","Frigid Foreman",741
+"Festive Comet","Yule Log (3)","Pecan Pecorino","-","2.16%","Glacia Ice Fist",741
+"Festive Comet","Yule Log (3)","Pecan Pecorino","-","1.08%","Tundra Huntress",741
+"Festive Comet","Yule Log (3)","Pecan Pecorino","-","1.08%","Borean Commander",741
+"Festive Comet","Yule Log (3)","Pecan Pecorino","Winter","18.49%","Snow Scavenger",265
+"Festive Comet","Yule Log (3)","Pecan Pecorino","Winter","11.32%","Snowflake",265
+"Festive Comet","Yule Log (3)","Pecan Pecorino","Winter","9.43%","Snowblower",265
+"Festive Comet","Yule Log (3)","Pecan Pecorino","Winter","7.55%","Stuck Snowball",265
+"Festive Comet","Yule Log (3)","Pecan Pecorino","Winter","7.17%","Builder",265
+"Festive Comet","Yule Log (3)","Pecan Pecorino","Winter","6.04%","Snowglobe",265
+"Festive Comet","Yule Log (3)","Pecan Pecorino","Winter","5.28%","Snow Fort",265
+"Festive Comet","Yule Log (3)","Pecan Pecorino","Winter","4.91%","Reinbo",265
+"Festive Comet","Yule Log (3)","Pecan Pecorino","Winter","4.53%","Slay Ride",265
+"Festive Comet","Yule Log (3)","Pecan Pecorino","Winter","4.53%","Great Winter Hunt Impostor",265
+"Festive Comet","Yule Log (3)","Pecan Pecorino","Winter","3.02%","Snow Golem Jockey",265
+"Festive Comet","Yule Log (3)","Pecan Pecorino","Winter","2.64%","Frigid Foreman",265
+"Festive Comet","Yule Log (3)","Pecan Pecorino","Winter","2.26%","Tundra Huntress",265
+"Festive Comet","Yule Log (3)","Pecan Pecorino","Winter","2.26%","S.N.O.W. Golem",265
+"Festive Comet","Yule Log (3)","Pecan Pecorino","Winter","2.26%","Free Skiing",265
+"Festive Comet","Yule Log (3)","Pecan Pecorino","Winter","1.89%","Nice Knitting",265
+"Festive Comet","Yule Log (3)","Pecan Pecorino","Winter","1.89%","Glacia Ice Fist",265
+"Festive Comet","Yule Log (3)","Pecan Pecorino","Winter","1.51%","Snow Sorceress",265
+"Festive Comet","Yule Log (3)","Pecan Pecorino","Winter","1.51%","Borean Commander",265
+"Festive Comet","Yule Log (3)","Pecan Pecorino","Winter","1.51%","Elf",265
+"Festive Comet","Yule Log (3)","Pecan Pecorino","Let It Snow","17.53%","Snow Scavenger",388
+"Festive Comet","Yule Log (3)","Pecan Pecorino","Let It Snow","17.01%","Snow Golem Architect",388
+"Festive Comet","Yule Log (3)","Pecan Pecorino","Let It Snow","9.28%","Snowblower",388
+"Festive Comet","Yule Log (3)","Pecan Pecorino","Let It Snow","8.25%","Builder",388
+"Festive Comet","Yule Log (3)","Pecan Pecorino","Let It Snow","4.90%","Nice Knitting",388
+"Festive Comet","Yule Log (3)","Pecan Pecorino","Let It Snow","4.64%","Snowglobe",388
+"Festive Comet","Yule Log (3)","Pecan Pecorino","Let It Snow","4.38%","Snow Golem Jockey",388
+"Festive Comet","Yule Log (3)","Pecan Pecorino","Let It Snow","4.38%","Reinbo",388
+"Festive Comet","Yule Log (3)","Pecan Pecorino","Let It Snow","4.38%","Snow Fort",388
+"Festive Comet","Yule Log (3)","Pecan Pecorino","Let It Snow","4.12%","Slay Ride",388
+"Festive Comet","Yule Log (3)","Pecan Pecorino","Let It Snow","3.61%","Elf",388
+"Festive Comet","Yule Log (3)","Pecan Pecorino","Let It Snow","3.35%","Stuck Snowball",388
+"Festive Comet","Yule Log (3)","Pecan Pecorino","Let It Snow","2.58%","Snow Sorceress",388
+"Festive Comet","Yule Log (3)","Pecan Pecorino","Let It Snow","2.32%","Free Skiing",388
+"Festive Comet","Yule Log (3)","Pecan Pecorino","Let It Snow","2.06%","Frigid Foreman",388
+"Festive Comet","Yule Log (3)","Pecan Pecorino","Let It Snow","2.06%","S.N.O.W. Golem",388
+"Festive Comet","Yule Log (3)","Pecan Pecorino","Let It Snow","1.80%","Glacia Ice Fist",388
+"Festive Comet","Yule Log (3)","Pecan Pecorino","Let It Snow","1.29%","Great Winter Hunt Impostor",388
+"Festive Comet","Yule Log (3)","Pecan Pecorino","Let It Snow","1.29%","Borean Commander",388
+"Festive Comet","Yule Log (3)","Pecan Pecorino","Let It Snow","0.77%","Tundra Huntress",388
+"Festive Comet","Eggnog (4)","Gouda","-","13.46%","Snowball Hoarder",208
+"Festive Comet","Eggnog (4)","Gouda","-","12.50%","Hoarder",208
+"Festive Comet","Eggnog (4)","Gouda","-","11.06%","Gingerbread",208
+"Festive Comet","Eggnog (4)","Gouda","-","10.58%","Triple Lutz",208
+"Festive Comet","Eggnog (4)","Gouda","-","9.62%","Missile Toe",208
+"Festive Comet","Eggnog (4)","Gouda","-","5.29%","Wreath Thief",208
+"Festive Comet","Eggnog (4)","Gouda","-","5.29%","Stocking",208
+"Festive Comet","Eggnog (4)","Gouda","-","4.81%","Toy Tinkerer",208
+"Festive Comet","Eggnog (4)","Gouda","-","4.81%","Destructoy",208
+"Festive Comet","Eggnog (4)","Gouda","-","3.85%","Nutcracker",208
+"Festive Comet","Eggnog (4)","Gouda","-","3.37%","Ribbon",208
+"Festive Comet","Eggnog (4)","Gouda","-","2.40%","Christmas Tree",208
+"Festive Comet","Eggnog (4)","Gouda","-","2.40%","Snow Boulder",208
+"Festive Comet","Eggnog (4)","Gouda","-","2.40%","Young Prodigy Racer",208
+"Festive Comet","Eggnog (4)","Gouda","-","2.40%","Toboggan Technician",208
+"Festive Comet","Eggnog (4)","Gouda","-","1.92%","Toy",208
+"Festive Comet","Eggnog (4)","Gouda","-","1.92%","Sporty Ski Instructor",208
+"Festive Comet","Eggnog (4)","Gouda","-","0.96%","Miser",208
+"Festive Comet","Eggnog (4)","Gouda","-","0.48%","Candy Cane",208
+"Festive Comet","Eggnog (4)","Gouda","-","0.48%","Ridiculous Sweater",208
+"Festive Comet","Eggnog (4)","Pecan Pecorino","-","24.63%","Snow Scavenger",613
+"Festive Comet","Eggnog (4)","Pecan Pecorino","-","8.81%","Builder",613
+"Festive Comet","Eggnog (4)","Pecan Pecorino","-","7.99%","Snowblower",613
+"Festive Comet","Eggnog (4)","Pecan Pecorino","-","6.04%","Reinbo",613
+"Festive Comet","Eggnog (4)","Pecan Pecorino","-","5.87%","Snow Fort",613
+"Festive Comet","Eggnog (4)","Pecan Pecorino","-","5.06%","Stuck Snowball",613
+"Festive Comet","Eggnog (4)","Pecan Pecorino","-","4.73%","Snow Golem Jockey",613
+"Festive Comet","Eggnog (4)","Pecan Pecorino","-","4.40%","Slay Ride",613
+"Festive Comet","Eggnog (4)","Pecan Pecorino","-","4.24%","Nice Knitting",613
+"Festive Comet","Eggnog (4)","Pecan Pecorino","-","3.92%","Snow Sorceress",613
+"Festive Comet","Eggnog (4)","Pecan Pecorino","-","3.75%","S.N.O.W. Golem",613
+"Festive Comet","Eggnog (4)","Pecan Pecorino","-","3.75%","Snowglobe",613
+"Festive Comet","Eggnog (4)","Pecan Pecorino","-","3.59%","Free Skiing",613
+"Festive Comet","Eggnog (4)","Pecan Pecorino","-","3.10%","Great Winter Hunt Impostor",613
+"Festive Comet","Eggnog (4)","Pecan Pecorino","-","3.10%","Frigid Foreman",613
+"Festive Comet","Eggnog (4)","Pecan Pecorino","-","2.61%","Tundra Huntress",613
+"Festive Comet","Eggnog (4)","Pecan Pecorino","-","1.96%","Elf",613
+"Festive Comet","Eggnog (4)","Pecan Pecorino","-","1.47%","Glacia Ice Fist",613
+"Festive Comet","Eggnog (4)","Pecan Pecorino","-","0.98%","Borean Commander",613
+"Festive Comet","Eggnog (4)","Pecan Pecorino","Winter","16.35%","Snow Scavenger",318
+"Festive Comet","Eggnog (4)","Pecan Pecorino","Winter","11.64%","Builder",318
+"Festive Comet","Eggnog (4)","Pecan Pecorino","Winter","11.01%","Snowflake",318
+"Festive Comet","Eggnog (4)","Pecan Pecorino","Winter","7.23%","Snow Fort",318
+"Festive Comet","Eggnog (4)","Pecan Pecorino","Winter","7.23%","Snowblower",318
+"Festive Comet","Eggnog (4)","Pecan Pecorino","Winter","5.66%","Reinbo",318
+"Festive Comet","Eggnog (4)","Pecan Pecorino","Winter","5.03%","Elf",318
+"Festive Comet","Eggnog (4)","Pecan Pecorino","Winter","4.72%","Slay Ride",318
+"Festive Comet","Eggnog (4)","Pecan Pecorino","Winter","4.40%","Nice Knitting",318
+"Festive Comet","Eggnog (4)","Pecan Pecorino","Winter","3.46%","Stuck Snowball",318
+"Festive Comet","Eggnog (4)","Pecan Pecorino","Winter","3.46%","Snow Sorceress",318
+"Festive Comet","Eggnog (4)","Pecan Pecorino","Winter","3.14%","Great Winter Hunt Impostor",318
+"Festive Comet","Eggnog (4)","Pecan Pecorino","Winter","2.83%","Glacia Ice Fist",318
+"Festive Comet","Eggnog (4)","Pecan Pecorino","Winter","2.52%","Snowglobe",318
+"Festive Comet","Eggnog (4)","Pecan Pecorino","Winter","2.20%","Frigid Foreman",318
+"Festive Comet","Eggnog (4)","Pecan Pecorino","Winter","2.20%","Snow Golem Jockey",318
+"Festive Comet","Eggnog (4)","Pecan Pecorino","Winter","2.20%","S.N.O.W. Golem",318
+"Festive Comet","Eggnog (4)","Pecan Pecorino","Winter","1.89%","Free Skiing",318
+"Festive Comet","Eggnog (4)","Pecan Pecorino","Winter","1.57%","Borean Commander",318
+"Festive Comet","Eggnog (4)","Pecan Pecorino","Winter","1.26%","Tundra Huntress",318
+"Festive Comet","Eggnog (4)","Pecan Pecorino","Let It Snow","18.07%","Snow Golem Architect",415
+"Festive Comet","Eggnog (4)","Pecan Pecorino","Let It Snow","17.83%","Snow Scavenger",415
+"Festive Comet","Eggnog (4)","Pecan Pecorino","Let It Snow","8.19%","Snowblower",415
+"Festive Comet","Eggnog (4)","Pecan Pecorino","Let It Snow","8.19%","Builder",415
+"Festive Comet","Eggnog (4)","Pecan Pecorino","Let It Snow","5.06%","Nice Knitting",415
+"Festive Comet","Eggnog (4)","Pecan Pecorino","Let It Snow","5.06%","Snow Fort",415
+"Festive Comet","Eggnog (4)","Pecan Pecorino","Let It Snow","4.34%","Reinbo",415
+"Festive Comet","Eggnog (4)","Pecan Pecorino","Let It Snow","4.34%","Snowglobe",415
+"Festive Comet","Eggnog (4)","Pecan Pecorino","Let It Snow","3.86%","Stuck Snowball",415
+"Festive Comet","Eggnog (4)","Pecan Pecorino","Let It Snow","3.61%","Free Skiing",415
+"Festive Comet","Eggnog (4)","Pecan Pecorino","Let It Snow","3.37%","Slay Ride",415
+"Festive Comet","Eggnog (4)","Pecan Pecorino","Let It Snow","3.37%","Great Winter Hunt Impostor",415
+"Festive Comet","Eggnog (4)","Pecan Pecorino","Let It Snow","2.89%","S.N.O.W. Golem",415
+"Festive Comet","Eggnog (4)","Pecan Pecorino","Let It Snow","2.65%","Elf",415
+"Festive Comet","Eggnog (4)","Pecan Pecorino","Let It Snow","2.17%","Frigid Foreman",415
+"Festive Comet","Eggnog (4)","Pecan Pecorino","Let It Snow","1.93%","Snow Golem Jockey",415
+"Festive Comet","Eggnog (4)","Pecan Pecorino","Let It Snow","1.69%","Snow Sorceress",415
+"Festive Comet","Eggnog (4)","Pecan Pecorino","Let It Snow","1.45%","Glacia Ice Fist",415
+"Festive Comet","Eggnog (4)","Pecan Pecorino","Let It Snow","1.45%","Tundra Huntress",415
+"Festive Comet","Eggnog (4)","Pecan Pecorino","Let It Snow","0.48%","Borean Commander",415
+"Festive Comet","Eggnog (4)","Arctic Asiago","-","12.93%","Joy",147
+"Festive Comet","Eggnog (4)","Arctic Asiago","-","8.84%","Hoarder",147
+"Festive Comet","Eggnog (4)","Arctic Asiago","-","6.80%","Wreath Thief",147
+"Festive Comet","Eggnog (4)","Arctic Asiago","-","6.80%","Snow Boulder",147
+"Festive Comet","Eggnog (4)","Arctic Asiago","-","6.80%","Toboggan Technician",147
+"Festive Comet","Eggnog (4)","Arctic Asiago","-","4.76%","Miser",147
+"Festive Comet","Eggnog (4)","Arctic Asiago","-","4.08%","Sporty Ski Instructor",147
+"Festive Comet","Eggnog (4)","Arctic Asiago","-","4.08%","Destructoy",147
+"Festive Comet","Eggnog (4)","Arctic Asiago","-","4.08%","Ridiculous Sweater",147
+"Festive Comet","Eggnog (4)","Arctic Asiago","-","3.40%","Confused Courier",147
+"Festive Comet","Eggnog (4)","Arctic Asiago","-","3.40%","Gingerbread",147
+"Festive Comet","Eggnog (4)","Arctic Asiago","-","3.40%","Triple Lutz",147
+"Festive Comet","Eggnog (4)","Arctic Asiago","-","2.72%","Nutcracker",147
+"Festive Comet","Eggnog (4)","Arctic Asiago","-","2.72%","Toy",147
+"Festive Comet","Eggnog (4)","Arctic Asiago","-","2.72%","Young Prodigy Racer",147
+"Festive Comet","Eggnog (4)","Arctic Asiago","-","2.72%","Missile Toe",147
+"Festive Comet","Eggnog (4)","Arctic Asiago","-","2.04%","Candy Cane",147
+"Festive Comet","Eggnog (4)","Arctic Asiago","-","2.04%","Stocking",147
+"Festive Comet","Eggnog (4)","Arctic Asiago","-","2.04%","Christmas Tree",147
+"Festive Comet","Eggnog (4)","Arctic Asiago","-","2.04%","Toy Tinkerer",147
+"Festive Comet","Eggnog (4)","Arctic Asiago","-","2.04%","Black Diamond Racer",147
+"Festive Comet","Eggnog (4)","Arctic Asiago","-","2.04%","Present",147
+"Festive Comet","Eggnog (4)","Arctic Asiago","-","1.36%","Mad Elf",147
+"Festive Comet","Eggnog (4)","Arctic Asiago","-","1.36%","Snowball Hoarder",147
+"Festive Comet","Eggnog (4)","Arctic Asiago","-","1.36%","Scrooge",147
+"Festive Comet","Eggnog (4)","Arctic Asiago","-","1.36%","Double Black Diamond Racer",147
+"Festive Comet","Eggnog (4)","Arctic Asiago","-","0.68%","Ribbon",147
+"Festive Comet","Eggnog (4)","Arctic Asiago","-","0.68%","Mouse of Winter Future",147
+"Festive Comet","Eggnog (4)","Arctic Asiago","-","0.68%","Squeaker Claws",147
+"Festive Comet","Eggnog (4)","Arctic Asiago","Winter","12.07%","Snowflake",116
+"Festive Comet","Eggnog (4)","Arctic Asiago","Winter","12.07%","Hoarder",116
+"Festive Comet","Eggnog (4)","Arctic Asiago","Winter","6.90%","Miser",116
+"Festive Comet","Eggnog (4)","Arctic Asiago","Winter","6.90%","Snow Boulder",116
+"Festive Comet","Eggnog (4)","Arctic Asiago","Winter","6.03%","Ridiculous Sweater",116
+"Festive Comet","Eggnog (4)","Arctic Asiago","Winter","5.17%","Joy",116
+"Festive Comet","Eggnog (4)","Arctic Asiago","Winter","5.17%","Toy Tinkerer",116
+"Festive Comet","Eggnog (4)","Arctic Asiago","Winter","4.31%","Ribbon",116
+"Festive Comet","Eggnog (4)","Arctic Asiago","Winter","4.31%","Gingerbread",116
+"Festive Comet","Eggnog (4)","Arctic Asiago","Winter","3.45%","Sporty Ski Instructor",116
+"Festive Comet","Eggnog (4)","Arctic Asiago","Winter","3.45%","Young Prodigy Racer",116
+"Festive Comet","Eggnog (4)","Arctic Asiago","Winter","2.59%","Missile Toe",116
+"Festive Comet","Eggnog (4)","Arctic Asiago","Winter","2.59%","Triple Lutz",116
+"Festive Comet","Eggnog (4)","Arctic Asiago","Winter","2.59%","Toboggan Technician",116
+"Festive Comet","Eggnog (4)","Arctic Asiago","Winter","2.59%","Squeaker Claws",116
+"Festive Comet","Eggnog (4)","Arctic Asiago","Winter","1.72%","Confused Courier",116
+"Festive Comet","Eggnog (4)","Arctic Asiago","Winter","1.72%","Candy Cane",116
+"Festive Comet","Eggnog (4)","Arctic Asiago","Winter","1.72%","Mouse of Winter Present",116
+"Festive Comet","Eggnog (4)","Arctic Asiago","Winter","1.72%","Black Diamond Racer",116
+"Festive Comet","Eggnog (4)","Arctic Asiago","Winter","1.72%","Mouse of Winter Past",116
+"Festive Comet","Eggnog (4)","Arctic Asiago","Winter","1.72%","Nutcracker",116
+"Festive Comet","Eggnog (4)","Arctic Asiago","Winter","1.72%","Snowball Hoarder",116
+"Festive Comet","Eggnog (4)","Arctic Asiago","Winter","1.72%","Christmas Tree",116
+"Festive Comet","Eggnog (4)","Arctic Asiago","Winter","1.72%","Destructoy",116
+"Festive Comet","Eggnog (4)","Arctic Asiago","Winter","0.86%","Mad Elf",116
+"Festive Comet","Eggnog (4)","Arctic Asiago","Winter","0.86%","Stocking",116
+"Festive Comet","Eggnog (4)","Arctic Asiago","Winter","0.86%","Wreath Thief",116
+"Festive Comet","Eggnog (4)","Arctic Asiago","Winter","0.86%","Double Black Diamond Racer",116
+"Festive Comet","Eggnog (4)","Arctic Asiago","Winter","0.86%","Toy",116
+"Festive Comet","Tree (5)","Gouda","-","20.11%","Hoarder",179
+"Festive Comet","Tree (5)","Gouda","-","9.50%","Snowball Hoarder",179
+"Festive Comet","Tree (5)","Gouda","-","8.38%","Missile Toe",179
+"Festive Comet","Tree (5)","Gouda","-","7.82%","Triple Lutz",179
+"Festive Comet","Tree (5)","Gouda","-","6.70%","Ribbon",179
+"Festive Comet","Tree (5)","Gouda","-","6.15%","Toy Tinkerer",179
+"Festive Comet","Tree (5)","Gouda","-","5.59%","Gingerbread",179
+"Festive Comet","Tree (5)","Gouda","-","5.59%","Destructoy",179
+"Festive Comet","Tree (5)","Gouda","-","4.47%","Ridiculous Sweater",179
+"Festive Comet","Tree (5)","Gouda","-","4.47%","Nutcracker",179
+"Festive Comet","Tree (5)","Gouda","-","4.47%","Wreath Thief",179
+"Festive Comet","Tree (5)","Gouda","-","3.91%","Toy",179
+"Festive Comet","Tree (5)","Gouda","-","3.35%","Stocking",179
+"Festive Comet","Tree (5)","Gouda","-","2.23%","Christmas Tree",179
+"Festive Comet","Tree (5)","Gouda","-","2.23%","Snow Boulder",179
+"Festive Comet","Tree (5)","Gouda","-","2.23%","Toboggan Technician",179
+"Festive Comet","Tree (5)","Gouda","-","1.12%","Candy Cane",179
+"Festive Comet","Tree (5)","Gouda","-","1.12%","Young Prodigy Racer",179
+"Festive Comet","Tree (5)","Gouda","-","0.56%","Miser",179
+"Festive Comet","Tree (5)","Gouda","Winter","15.76%","Hoarder",165
+"Festive Comet","Tree (5)","Gouda","Winter","13.33%","Snowflake",165
+"Festive Comet","Tree (5)","Gouda","Winter","9.70%","Snowball Hoarder",165
+"Festive Comet","Tree (5)","Gouda","Winter","7.27%","Gingerbread",165
+"Festive Comet","Tree (5)","Gouda","Winter","6.67%","Wreath Thief",165
+"Festive Comet","Tree (5)","Gouda","Winter","5.45%","Stocking",165
+"Festive Comet","Tree (5)","Gouda","Winter","4.85%","Triple Lutz",165
+"Festive Comet","Tree (5)","Gouda","Winter","4.24%","Toy Tinkerer",165
+"Festive Comet","Tree (5)","Gouda","Winter","4.24%","Ribbon",165
+"Festive Comet","Tree (5)","Gouda","Winter","3.64%","Nutcracker",165
+"Festive Comet","Tree (5)","Gouda","Winter","3.64%","Toy",165
+"Festive Comet","Tree (5)","Gouda","Winter","3.03%","Ridiculous Sweater",165
+"Festive Comet","Tree (5)","Gouda","Winter","3.03%","Toboggan Technician",165
+"Festive Comet","Tree (5)","Gouda","Winter","3.03%","Snow Boulder",165
+"Festive Comet","Tree (5)","Gouda","Winter","3.03%","Destructoy",165
+"Festive Comet","Tree (5)","Gouda","Winter","3.03%","Missile Toe",165
+"Festive Comet","Tree (5)","Gouda","Winter","2.42%","Sporty Ski Instructor",165
+"Festive Comet","Tree (5)","Gouda","Winter","1.21%","Candy Cane",165
+"Festive Comet","Tree (5)","Gouda","Winter","1.21%","Christmas Tree",165
+"Festive Comet","Tree (5)","Gouda","Winter","0.61%","Miser",165
+"Festive Comet","Tree (5)","Gouda","Winter","0.61%","Young Prodigy Racer",165
+"Festive Comet","Tree (5)","Pecan Pecorino","-","22.60%","Snow Scavenger",876
+"Festive Comet","Tree (5)","Pecan Pecorino","-","9.93%","Snowblower",876
+"Festive Comet","Tree (5)","Pecan Pecorino","-","8.33%","Builder",876
+"Festive Comet","Tree (5)","Pecan Pecorino","-","7.08%","Nice Knitting",876
+"Festive Comet","Tree (5)","Pecan Pecorino","-","5.59%","Snow Fort",876
+"Festive Comet","Tree (5)","Pecan Pecorino","-","5.25%","Snowglobe",876
+"Festive Comet","Tree (5)","Pecan Pecorino","-","4.91%","Reinbo",876
+"Festive Comet","Tree (5)","Pecan Pecorino","-","4.79%","Elf",876
+"Festive Comet","Tree (5)","Pecan Pecorino","-","4.45%","Snow Golem Jockey",876
+"Festive Comet","Tree (5)","Pecan Pecorino","-","4.11%","Great Winter Hunt Impostor",876
+"Festive Comet","Tree (5)","Pecan Pecorino","-","4.00%","Stuck Snowball",876
+"Festive Comet","Tree (5)","Pecan Pecorino","-","3.08%","Slay Ride",876
+"Festive Comet","Tree (5)","Pecan Pecorino","-","2.85%","Glacia Ice Fist",876
+"Festive Comet","Tree (5)","Pecan Pecorino","-","2.85%","Free Skiing",876
+"Festive Comet","Tree (5)","Pecan Pecorino","-","2.63%","S.N.O.W. Golem",876
+"Festive Comet","Tree (5)","Pecan Pecorino","-","2.17%","Frigid Foreman",876
+"Festive Comet","Tree (5)","Pecan Pecorino","-","2.05%","Snow Sorceress",876
+"Festive Comet","Tree (5)","Pecan Pecorino","-","1.71%","Tundra Huntress",876
+"Festive Comet","Tree (5)","Pecan Pecorino","-","1.60%","Borean Commander",876
+"Festive Comet","Tree (5)","Pecan Pecorino","Winter","19.09%","Snow Scavenger",461
+"Festive Comet","Tree (5)","Pecan Pecorino","Winter","9.76%","Builder",461
+"Festive Comet","Tree (5)","Pecan Pecorino","Winter","9.54%","Snowflake",461
+"Festive Comet","Tree (5)","Pecan Pecorino","Winter","7.59%","Snowblower",461
+"Festive Comet","Tree (5)","Pecan Pecorino","Winter","6.29%","Snow Golem Jockey",461
+"Festive Comet","Tree (5)","Pecan Pecorino","Winter","6.07%","Snowglobe",461
+"Festive Comet","Tree (5)","Pecan Pecorino","Winter","5.64%","Reinbo",461
+"Festive Comet","Tree (5)","Pecan Pecorino","Winter","4.99%","Nice Knitting",461
+"Festive Comet","Tree (5)","Pecan Pecorino","Winter","4.34%","Stuck Snowball",461
+"Festive Comet","Tree (5)","Pecan Pecorino","Winter","4.34%","Elf",461
+"Festive Comet","Tree (5)","Pecan Pecorino","Winter","3.90%","Snow Fort",461
+"Festive Comet","Tree (5)","Pecan Pecorino","Winter","3.04%","Slay Ride",461
+"Festive Comet","Tree (5)","Pecan Pecorino","Winter","2.39%","S.N.O.W. Golem",461
+"Festive Comet","Tree (5)","Pecan Pecorino","Winter","2.39%","Frigid Foreman",461
+"Festive Comet","Tree (5)","Pecan Pecorino","Winter","2.17%","Snow Sorceress",461
+"Festive Comet","Tree (5)","Pecan Pecorino","Winter","1.95%","Glacia Ice Fist",461
+"Festive Comet","Tree (5)","Pecan Pecorino","Winter","1.95%","Free Skiing",461
+"Festive Comet","Tree (5)","Pecan Pecorino","Winter","1.74%","Tundra Huntress",461
+"Festive Comet","Tree (5)","Pecan Pecorino","Winter","1.52%","Great Winter Hunt Impostor",461
+"Festive Comet","Tree (5)","Pecan Pecorino","Winter","1.30%","Borean Commander",461
+"Festive Comet","Tree (5)","Pecan Pecorino","Let It Snow","18.01%","Snow Golem Architect",794
+"Festive Comet","Tree (5)","Pecan Pecorino","Let It Snow","16.62%","Snow Scavenger",794
+"Festive Comet","Tree (5)","Pecan Pecorino","Let It Snow","9.70%","Snowblower",794
+"Festive Comet","Tree (5)","Pecan Pecorino","Let It Snow","6.30%","Builder",794
+"Festive Comet","Tree (5)","Pecan Pecorino","Let It Snow","5.54%","Snowglobe",794
+"Festive Comet","Tree (5)","Pecan Pecorino","Let It Snow","5.04%","Reinbo",794
+"Festive Comet","Tree (5)","Pecan Pecorino","Let It Snow","4.79%","Nice Knitting",794
+"Festive Comet","Tree (5)","Pecan Pecorino","Let It Snow","4.41%","Snow Fort",794
+"Festive Comet","Tree (5)","Pecan Pecorino","Let It Snow","3.78%","Stuck Snowball",794
+"Festive Comet","Tree (5)","Pecan Pecorino","Let It Snow","3.53%","Slay Ride",794
+"Festive Comet","Tree (5)","Pecan Pecorino","Let It Snow","3.27%","Great Winter Hunt Impostor",794
+"Festive Comet","Tree (5)","Pecan Pecorino","Let It Snow","3.02%","Snow Golem Jockey",794
+"Festive Comet","Tree (5)","Pecan Pecorino","Let It Snow","2.64%","S.N.O.W. Golem",794
+"Festive Comet","Tree (5)","Pecan Pecorino","Let It Snow","2.52%","Snow Sorceress",794
+"Festive Comet","Tree (5)","Pecan Pecorino","Let It Snow","2.39%","Frigid Foreman",794
+"Festive Comet","Tree (5)","Pecan Pecorino","Let It Snow","2.02%","Elf",794
+"Festive Comet","Tree (5)","Pecan Pecorino","Let It Snow","1.89%","Free Skiing",794
+"Festive Comet","Tree (5)","Pecan Pecorino","Let It Snow","1.89%","Glacia Ice Fist",794
+"Festive Comet","Tree (5)","Pecan Pecorino","Let It Snow","1.64%","Tundra Huntress",794
+"Festive Comet","Tree (5)","Pecan Pecorino","Let It Snow","1.01%","Borean Commander",794
+"Festive Comet","Tree (5)","Arctic Asiago","-","7.97%","Hoarder",138
+"Festive Comet","Tree (5)","Arctic Asiago","-","7.97%","Joy",138
+"Festive Comet","Tree (5)","Arctic Asiago","-","6.52%","Toy Tinkerer",138
+"Festive Comet","Tree (5)","Arctic Asiago","-","6.52%","Sporty Ski Instructor",138
+"Festive Comet","Tree (5)","Arctic Asiago","-","6.52%","Ridiculous Sweater",138
+"Festive Comet","Tree (5)","Arctic Asiago","-","5.80%","Snow Boulder",138
+"Festive Comet","Tree (5)","Arctic Asiago","-","5.80%","Gingerbread",138
+"Festive Comet","Tree (5)","Arctic Asiago","-","5.07%","Confused Courier",138
+"Festive Comet","Tree (5)","Arctic Asiago","-","5.07%","Wreath Thief",138
+"Festive Comet","Tree (5)","Arctic Asiago","-","4.35%","Toboggan Technician",138
+"Festive Comet","Tree (5)","Arctic Asiago","-","4.35%","Missile Toe",138
+"Festive Comet","Tree (5)","Arctic Asiago","-","3.62%","Stocking",138
+"Festive Comet","Tree (5)","Arctic Asiago","-","3.62%","Miser",138
+"Festive Comet","Tree (5)","Arctic Asiago","-","2.90%","Ornament",138
+"Festive Comet","Tree (5)","Arctic Asiago","-","2.90%","Young Prodigy Racer",138
+"Festive Comet","Tree (5)","Arctic Asiago","-","2.90%","Mouse of Winter Past",138
+"Festive Comet","Tree (5)","Arctic Asiago","-","2.90%","Nutcracker",138
+"Festive Comet","Tree (5)","Arctic Asiago","-","2.17%","Destructoy",138
+"Festive Comet","Tree (5)","Arctic Asiago","-","1.45%","Present",138
+"Festive Comet","Tree (5)","Arctic Asiago","-","1.45%","Candy Cane",138
+"Festive Comet","Tree (5)","Arctic Asiago","-","1.45%","Snowball Hoarder",138
+"Festive Comet","Tree (5)","Arctic Asiago","-","1.45%","Ribbon",138
+"Festive Comet","Tree (5)","Arctic Asiago","-","1.45%","Squeaker Claws",138
+"Festive Comet","Tree (5)","Arctic Asiago","-","0.72%","Toy",138
+"Festive Comet","Tree (5)","Arctic Asiago","-","0.72%","Christmas Tree",138
+"Festive Comet","Tree (5)","Arctic Asiago","-","0.72%","Rainbow Racer",138
+"Festive Comet","Tree (5)","Arctic Asiago","-","0.72%","Black Diamond Racer",138
+"Festive Comet","Tree (5)","Arctic Asiago","-","0.72%","Nitro Racer",138
+"Festive Comet","Tree (5)","Arctic Asiago","-","0.72%","Mouse of Winter Future",138
+"Festive Comet","Tree (5)","Arctic Asiago","-","0.72%","Mouse of Winter Present",138
+"Festive Comet","Tree (5)","Arctic Asiago","-","0.72%","Scrooge",138
+"Festive Comet","Tree (5)","Arctic Asiago","Winter","16.19%","Snowflake",105
+"Festive Comet","Tree (5)","Arctic Asiago","Winter","10.48%","Snow Boulder",105
+"Festive Comet","Tree (5)","Arctic Asiago","Winter","9.52%","Hoarder",105
+"Festive Comet","Tree (5)","Arctic Asiago","Winter","5.71%","Toy Tinkerer",105
+"Festive Comet","Tree (5)","Arctic Asiago","Winter","4.76%","Sporty Ski Instructor",105
+"Festive Comet","Tree (5)","Arctic Asiago","Winter","4.76%","Toboggan Technician",105
+"Festive Comet","Tree (5)","Arctic Asiago","Winter","4.76%","Wreath Thief",105
+"Festive Comet","Tree (5)","Arctic Asiago","Winter","4.76%","Joy",105
+"Festive Comet","Tree (5)","Arctic Asiago","Winter","4.76%","Confused Courier",105
+"Festive Comet","Tree (5)","Arctic Asiago","Winter","3.81%","Ridiculous Sweater",105
+"Festive Comet","Tree (5)","Arctic Asiago","Winter","2.86%","Stocking",105
+"Festive Comet","Tree (5)","Arctic Asiago","Winter","2.86%","Toy",105
+"Festive Comet","Tree (5)","Arctic Asiago","Winter","2.86%","Ribbon",105
+"Festive Comet","Tree (5)","Arctic Asiago","Winter","2.86%","Young Prodigy Racer",105
+"Festive Comet","Tree (5)","Arctic Asiago","Winter","2.86%","Gingerbread",105
+"Festive Comet","Tree (5)","Arctic Asiago","Winter","1.90%","Missile Toe",105
+"Festive Comet","Tree (5)","Arctic Asiago","Winter","1.90%","Mouse of Winter Past",105
+"Festive Comet","Tree (5)","Arctic Asiago","Winter","1.90%","Triple Lutz",105
+"Festive Comet","Tree (5)","Arctic Asiago","Winter","1.90%","Snowball Hoarder",105
+"Festive Comet","Tree (5)","Arctic Asiago","Winter","1.90%","Miser",105
+"Festive Comet","Tree (5)","Arctic Asiago","Winter","1.90%","Candy Cane",105
+"Festive Comet","Tree (5)","Arctic Asiago","Winter","0.95%","Mouse of Winter Future",105
+"Festive Comet","Tree (5)","Arctic Asiago","Winter","0.95%","Double Black Diamond Racer",105
+"Festive Comet","Tree (5)","Arctic Asiago","Winter","0.95%","Destructoy",105
+"Festive Comet","Tree (5)","Arctic Asiago","Winter","0.95%","Present",105
+"Festive Comet","Tree (5)","Arctic Asiago","Winter","0.95%","Christmas Tree",105
+"Festive Comet","Scarf (6)","SB+","Winter","11.35%","Hoarder",141
+"Festive Comet","Scarf (6)","SB+","Winter","8.51%","Joy",141
+"Festive Comet","Scarf (6)","SB+","Winter","8.51%","Snowflake",141
+"Festive Comet","Scarf (6)","SB+","Winter","7.80%","Snow Boulder",141
+"Festive Comet","Scarf (6)","SB+","Winter","6.38%","Ridiculous Sweater",141
+"Festive Comet","Scarf (6)","SB+","Winter","5.67%","Confused Courier",141
+"Festive Comet","Scarf (6)","SB+","Winter","4.96%","Toboggan Technician",141
+"Festive Comet","Scarf (6)","SB+","Winter","4.26%","Miser",141
+"Festive Comet","Scarf (6)","SB+","Winter","3.55%","Nutcracker",141
+"Festive Comet","Scarf (6)","SB+","Winter","3.55%","Destructoy",141
+"Festive Comet","Scarf (6)","SB+","Winter","3.55%","Stocking",141
+"Festive Comet","Scarf (6)","SB+","Winter","2.84%","Young Prodigy Racer",141
+"Festive Comet","Scarf (6)","SB+","Winter","2.84%","Wreath Thief",141
+"Festive Comet","Scarf (6)","SB+","Winter","2.84%","Toy Tinkerer",141
+"Festive Comet","Scarf (6)","SB+","Winter","2.84%","Toy",141
+"Festive Comet","Scarf (6)","SB+","Winter","2.84%","Squeaker Claws",141
+"Festive Comet","Scarf (6)","SB+","Winter","2.13%","Gingerbread",141
+"Festive Comet","Scarf (6)","SB+","Winter","2.13%","Sporty Ski Instructor",141
+"Festive Comet","Scarf (6)","SB+","Winter","2.13%","Mad Elf",141
+"Festive Comet","Scarf (6)","SB+","Winter","1.42%","Triple Lutz",141
+"Festive Comet","Scarf (6)","SB+","Winter","1.42%","Greedy Al",141
+"Festive Comet","Scarf (6)","SB+","Winter","1.42%","Candy Cane",141
+"Festive Comet","Scarf (6)","SB+","Winter","1.42%","Missile Toe",141
+"Festive Comet","Scarf (6)","SB+","Winter","1.42%","Ribbon",141
+"Festive Comet","Scarf (6)","SB+","Winter","1.42%","Rainbow Racer",141
+"Festive Comet","Scarf (6)","SB+","Winter","0.71%","Mouse of Winter Present",141
+"Festive Comet","Scarf (6)","SB+","Winter","0.71%","Christmas Tree",141
+"Festive Comet","Scarf (6)","SB+","Winter","0.71%","Black Diamond Racer",141
+"Festive Comet","Scarf (6)","SB+","Winter","0.71%","Scrooge",141
+"Festive Comet","Scarf (6)","Gouda","-","20.92%","Hoarder",153
+"Festive Comet","Scarf (6)","Gouda","-","9.80%","Snowball Hoarder",153
+"Festive Comet","Scarf (6)","Gouda","-","7.84%","Toboggan Technician",153
+"Festive Comet","Scarf (6)","Gouda","-","7.19%","Triple Lutz",153
+"Festive Comet","Scarf (6)","Gouda","-","6.54%","Ribbon",153
+"Festive Comet","Scarf (6)","Gouda","-","5.88%","Toy Tinkerer",153
+"Festive Comet","Scarf (6)","Gouda","-","5.88%","Wreath Thief",153
+"Festive Comet","Scarf (6)","Gouda","-","5.88%","Destructoy",153
+"Festive Comet","Scarf (6)","Gouda","-","5.23%","Missile Toe",153
+"Festive Comet","Scarf (6)","Gouda","-","3.92%","Gingerbread",153
+"Festive Comet","Scarf (6)","Gouda","-","3.27%","Ridiculous Sweater",153
+"Festive Comet","Scarf (6)","Gouda","-","3.27%","Sporty Ski Instructor",153
+"Festive Comet","Scarf (6)","Gouda","-","3.27%","Toy",153
+"Festive Comet","Scarf (6)","Gouda","-","2.61%","Candy Cane",153
+"Festive Comet","Scarf (6)","Gouda","-","2.61%","Stocking",153
+"Festive Comet","Scarf (6)","Gouda","-","1.96%","Young Prodigy Racer",153
+"Festive Comet","Scarf (6)","Gouda","-","1.31%","Snow Boulder",153
+"Festive Comet","Scarf (6)","Gouda","-","1.31%","Christmas Tree",153
+"Festive Comet","Scarf (6)","Gouda","-","1.31%","Miser",153
+"Festive Comet","Scarf (6)","Pecan Pecorino","-","22.50%","Snow Scavenger",960
+"Festive Comet","Scarf (6)","Pecan Pecorino","-","8.65%","Snowblower",960
+"Festive Comet","Scarf (6)","Pecan Pecorino","-","8.54%","Builder",960
+"Festive Comet","Scarf (6)","Pecan Pecorino","-","6.04%","Snow Fort",960
+"Festive Comet","Scarf (6)","Pecan Pecorino","-","5.63%","Stuck Snowball",960
+"Festive Comet","Scarf (6)","Pecan Pecorino","-","5.42%","Elf",960
+"Festive Comet","Scarf (6)","Pecan Pecorino","-","4.79%","Reinbo",960
+"Festive Comet","Scarf (6)","Pecan Pecorino","-","4.69%","Snowglobe",960
+"Festive Comet","Scarf (6)","Pecan Pecorino","-","4.48%","Nice Knitting",960
+"Festive Comet","Scarf (6)","Pecan Pecorino","-","4.38%","Great Winter Hunt Impostor",960
+"Festive Comet","Scarf (6)","Pecan Pecorino","-","4.06%","Snow Golem Jockey",960
+"Festive Comet","Scarf (6)","Pecan Pecorino","-","3.85%","Free Skiing",960
+"Festive Comet","Scarf (6)","Pecan Pecorino","-","3.65%","Slay Ride",960
+"Festive Comet","Scarf (6)","Pecan Pecorino","-","2.92%","Frigid Foreman",960
+"Festive Comet","Scarf (6)","Pecan Pecorino","-","2.71%","S.N.O.W. Golem",960
+"Festive Comet","Scarf (6)","Pecan Pecorino","-","2.40%","Snow Sorceress",960
+"Festive Comet","Scarf (6)","Pecan Pecorino","-","1.98%","Glacia Ice Fist",960
+"Festive Comet","Scarf (6)","Pecan Pecorino","-","1.88%","Tundra Huntress",960
+"Festive Comet","Scarf (6)","Pecan Pecorino","-","1.46%","Borean Commander",960
+"Festive Comet","Scarf (6)","Pecan Pecorino","Winter","19.28%","Snow Scavenger",498
+"Festive Comet","Scarf (6)","Pecan Pecorino","Winter","9.04%","Snowblower",498
+"Festive Comet","Scarf (6)","Pecan Pecorino","Winter","8.43%","Builder",498
+"Festive Comet","Scarf (6)","Pecan Pecorino","Winter","8.03%","Snowflake",498
+"Festive Comet","Scarf (6)","Pecan Pecorino","Winter","5.02%","Snowglobe",498
+"Festive Comet","Scarf (6)","Pecan Pecorino","Winter","4.82%","Nice Knitting",498
+"Festive Comet","Scarf (6)","Pecan Pecorino","Winter","4.62%","Stuck Snowball",498
+"Festive Comet","Scarf (6)","Pecan Pecorino","Winter","4.22%","Snow Fort",498
+"Festive Comet","Scarf (6)","Pecan Pecorino","Winter","4.22%","Elf",498
+"Festive Comet","Scarf (6)","Pecan Pecorino","Winter","3.82%","Great Winter Hunt Impostor",498
+"Festive Comet","Scarf (6)","Pecan Pecorino","Winter","3.82%","Snow Golem Jockey",498
+"Festive Comet","Scarf (6)","Pecan Pecorino","Winter","3.61%","Slay Ride",498
+"Festive Comet","Scarf (6)","Pecan Pecorino","Winter","3.21%","Glacia Ice Fist",498
+"Festive Comet","Scarf (6)","Pecan Pecorino","Winter","3.21%","Free Skiing",498
+"Festive Comet","Scarf (6)","Pecan Pecorino","Winter","3.01%","Reinbo",498
+"Festive Comet","Scarf (6)","Pecan Pecorino","Winter","2.61%","S.N.O.W. Golem",498
+"Festive Comet","Scarf (6)","Pecan Pecorino","Winter","2.41%","Snow Sorceress",498
+"Festive Comet","Scarf (6)","Pecan Pecorino","Winter","2.41%","Frigid Foreman",498
+"Festive Comet","Scarf (6)","Pecan Pecorino","Winter","2.21%","Borean Commander",498
+"Festive Comet","Scarf (6)","Pecan Pecorino","Winter","2.01%","Tundra Huntress",498
+"Festive Comet","Scarf (6)","Pecan Pecorino","Let It Snow","19.37%","Snow Scavenger",950
+"Festive Comet","Scarf (6)","Pecan Pecorino","Let It Snow","16.53%","Snow Golem Architect",950
+"Festive Comet","Scarf (6)","Pecan Pecorino","Let It Snow","8.42%","Builder",950
+"Festive Comet","Scarf (6)","Pecan Pecorino","Let It Snow","7.26%","Snowblower",950
+"Festive Comet","Scarf (6)","Pecan Pecorino","Let It Snow","5.58%","Snow Fort",950
+"Festive Comet","Scarf (6)","Pecan Pecorino","Let It Snow","4.53%","Stuck Snowball",950
+"Festive Comet","Scarf (6)","Pecan Pecorino","Let It Snow","4.21%","Snowglobe",950
+"Festive Comet","Scarf (6)","Pecan Pecorino","Let It Snow","4.11%","Nice Knitting",950
+"Festive Comet","Scarf (6)","Pecan Pecorino","Let It Snow","3.58%","Reinbo",950
+"Festive Comet","Scarf (6)","Pecan Pecorino","Let It Snow","3.58%","Snow Sorceress",950
+"Festive Comet","Scarf (6)","Pecan Pecorino","Let It Snow","3.47%","Elf",950
+"Festive Comet","Scarf (6)","Pecan Pecorino","Let It Snow","3.16%","Great Winter Hunt Impostor",950
+"Festive Comet","Scarf (6)","Pecan Pecorino","Let It Snow","2.53%","Snow Golem Jockey",950
+"Festive Comet","Scarf (6)","Pecan Pecorino","Let It Snow","2.42%","Free Skiing",950
+"Festive Comet","Scarf (6)","Pecan Pecorino","Let It Snow","2.32%","S.N.O.W. Golem",950
+"Festive Comet","Scarf (6)","Pecan Pecorino","Let It Snow","2.21%","Slay Ride",950
+"Festive Comet","Scarf (6)","Pecan Pecorino","Let It Snow","2.11%","Frigid Foreman",950
+"Festive Comet","Scarf (6)","Pecan Pecorino","Let It Snow","1.68%","Glacia Ice Fist",950
+"Festive Comet","Scarf (6)","Pecan Pecorino","Let It Snow","1.47%","Tundra Huntress",950
+"Festive Comet","Scarf (6)","Pecan Pecorino","Let It Snow","1.47%","Borean Commander",950
+"Festive Comet","Scarf (6)","Arctic Asiago","-","8.93%","Joy",168
+"Festive Comet","Scarf (6)","Arctic Asiago","-","7.74%","Hoarder",168
+"Festive Comet","Scarf (6)","Arctic Asiago","-","7.14%","Snow Boulder",168
+"Festive Comet","Scarf (6)","Arctic Asiago","-","6.55%","Toboggan Technician",168
+"Festive Comet","Scarf (6)","Arctic Asiago","-","5.36%","Sporty Ski Instructor",168
+"Festive Comet","Scarf (6)","Arctic Asiago","-","5.36%","Destructoy",168
+"Festive Comet","Scarf (6)","Arctic Asiago","-","5.36%","Gingerbread",168
+"Festive Comet","Scarf (6)","Arctic Asiago","-","5.36%","Missile Toe",168
+"Festive Comet","Scarf (6)","Arctic Asiago","-","4.76%","Young Prodigy Racer",168
+"Festive Comet","Scarf (6)","Arctic Asiago","-","4.76%","Toy Tinkerer",168
+"Festive Comet","Scarf (6)","Arctic Asiago","-","4.17%","Wreath Thief",168
+"Festive Comet","Scarf (6)","Arctic Asiago","-","3.57%","Confused Courier",168
+"Festive Comet","Scarf (6)","Arctic Asiago","-","3.57%","Triple Lutz",168
+"Festive Comet","Scarf (6)","Arctic Asiago","-","2.98%","Miser",168
+"Festive Comet","Scarf (6)","Arctic Asiago","-","2.98%","Black Diamond Racer",168
+"Festive Comet","Scarf (6)","Arctic Asiago","-","2.98%","Stocking",168
+"Festive Comet","Scarf (6)","Arctic Asiago","-","2.38%","Candy Cane",168
+"Festive Comet","Scarf (6)","Arctic Asiago","-","1.79%","Present",168
+"Festive Comet","Scarf (6)","Arctic Asiago","-","1.79%","Ridiculous Sweater",168
+"Festive Comet","Scarf (6)","Arctic Asiago","-","1.79%","Toy",168
+"Festive Comet","Scarf (6)","Arctic Asiago","-","1.19%","Double Black Diamond Racer",168
+"Festive Comet","Scarf (6)","Arctic Asiago","-","1.19%","Mouse of Winter Present",168
+"Festive Comet","Scarf (6)","Arctic Asiago","-","1.19%","Ribbon",168
+"Festive Comet","Scarf (6)","Arctic Asiago","-","1.19%","Greedy Al",168
+"Festive Comet","Scarf (6)","Arctic Asiago","-","1.19%","Mouse of Winter Past",168
+"Festive Comet","Scarf (6)","Arctic Asiago","-","0.60%","Rainbow Racer",168
+"Festive Comet","Scarf (6)","Arctic Asiago","-","0.60%","Ornament",168
+"Festive Comet","Scarf (6)","Arctic Asiago","-","0.60%","Scrooge",168
+"Festive Comet","Scarf (6)","Arctic Asiago","-","0.60%","Nutcracker",168
+"Festive Comet","Scarf (6)","Arctic Asiago","-","0.60%","Mad Elf",168
+"Festive Comet","Scarf (6)","Arctic Asiago","-","0.60%","Nitro Racer",168
+"Festive Comet","Scarf (6)","Arctic Asiago","-","0.60%","Mouse of Winter Future",168
+"Festive Comet","Scarf (6)","Arctic Asiago","-","0.60%","Squeaker Claws",168
+"Festive Comet","Gingerbread (7)","Gouda","-","15.38%","Hoarder",130
+"Festive Comet","Gingerbread (7)","Gouda","-","9.23%","Wreath Thief",130
+"Festive Comet","Gingerbread (7)","Gouda","-","6.92%","Snowball Hoarder",130
+"Festive Comet","Gingerbread (7)","Gouda","-","6.92%","Ribbon",130
+"Festive Comet","Gingerbread (7)","Gouda","-","6.92%","Missile Toe",130
+"Festive Comet","Gingerbread (7)","Gouda","-","6.15%","Stocking",130
+"Festive Comet","Gingerbread (7)","Gouda","-","6.15%","Destructoy",130
+"Festive Comet","Gingerbread (7)","Gouda","-","5.38%","Gingerbread",130
+"Festive Comet","Gingerbread (7)","Gouda","-","5.38%","Triple Lutz",130
+"Festive Comet","Gingerbread (7)","Gouda","-","5.38%","Toboggan Technician",130
+"Festive Comet","Gingerbread (7)","Gouda","-","4.62%","Toy Tinkerer",130
+"Festive Comet","Gingerbread (7)","Gouda","-","4.62%","Ridiculous Sweater",130
+"Festive Comet","Gingerbread (7)","Gouda","-","3.85%","Toy",130
+"Festive Comet","Gingerbread (7)","Gouda","-","3.08%","Young Prodigy Racer",130
+"Festive Comet","Gingerbread (7)","Gouda","-","3.08%","Sporty Ski Instructor",130
+"Festive Comet","Gingerbread (7)","Gouda","-","3.08%","Miser",130
+"Festive Comet","Gingerbread (7)","Gouda","-","2.31%","Snow Boulder",130
+"Festive Comet","Gingerbread (7)","Gouda","-","0.77%","Nutcracker",130
+"Festive Comet","Gingerbread (7)","Gouda","-","0.77%","Candy Cane",130
+"Festive Comet","Gingerbread (7)","Pecan Pecorino","-","23.21%","Snow Scavenger",823
+"Festive Comet","Gingerbread (7)","Pecan Pecorino","-","9.72%","Builder",823
+"Festive Comet","Gingerbread (7)","Pecan Pecorino","-","9.23%","Snowblower",823
+"Festive Comet","Gingerbread (7)","Pecan Pecorino","-","5.83%","Snow Fort",823
+"Festive Comet","Gingerbread (7)","Pecan Pecorino","-","5.22%","Reinbo",823
+"Festive Comet","Gingerbread (7)","Pecan Pecorino","-","4.86%","Snowglobe",823
+"Festive Comet","Gingerbread (7)","Pecan Pecorino","-","4.86%","Snow Golem Jockey",823
+"Festive Comet","Gingerbread (7)","Pecan Pecorino","-","4.25%","Elf",823
+"Festive Comet","Gingerbread (7)","Pecan Pecorino","-","4.13%","Stuck Snowball",823
+"Festive Comet","Gingerbread (7)","Pecan Pecorino","-","4.01%","Nice Knitting",823
+"Festive Comet","Gingerbread (7)","Pecan Pecorino","-","3.65%","Great Winter Hunt Impostor",823
+"Festive Comet","Gingerbread (7)","Pecan Pecorino","-","3.16%","Slay Ride",823
+"Festive Comet","Gingerbread (7)","Pecan Pecorino","-","3.04%","Snow Sorceress",823
+"Festive Comet","Gingerbread (7)","Pecan Pecorino","-","2.92%","S.N.O.W. Golem",823
+"Festive Comet","Gingerbread (7)","Pecan Pecorino","-","2.79%","Glacia Ice Fist",823
+"Festive Comet","Gingerbread (7)","Pecan Pecorino","-","2.67%","Frigid Foreman",823
+"Festive Comet","Gingerbread (7)","Pecan Pecorino","-","2.67%","Free Skiing",823
+"Festive Comet","Gingerbread (7)","Pecan Pecorino","-","2.19%","Tundra Huntress",823
+"Festive Comet","Gingerbread (7)","Pecan Pecorino","-","1.58%","Borean Commander",823
+"Festive Comet","Gingerbread (7)","Pecan Pecorino","Winter","20.66%","Snow Scavenger",392
+"Festive Comet","Gingerbread (7)","Pecan Pecorino","Winter","12.24%","Snowblower",392
+"Festive Comet","Gingerbread (7)","Pecan Pecorino","Winter","8.67%","Snowflake",392
+"Festive Comet","Gingerbread (7)","Pecan Pecorino","Winter","6.89%","Builder",392
+"Festive Comet","Gingerbread (7)","Pecan Pecorino","Winter","5.87%","Snow Fort",392
+"Festive Comet","Gingerbread (7)","Pecan Pecorino","Winter","4.85%","Reinbo",392
+"Festive Comet","Gingerbread (7)","Pecan Pecorino","Winter","4.85%","Snowglobe",392
+"Festive Comet","Gingerbread (7)","Pecan Pecorino","Winter","4.59%","Slay Ride",392
+"Festive Comet","Gingerbread (7)","Pecan Pecorino","Winter","4.08%","Nice Knitting",392
+"Festive Comet","Gingerbread (7)","Pecan Pecorino","Winter","3.83%","Stuck Snowball",392
+"Festive Comet","Gingerbread (7)","Pecan Pecorino","Winter","3.57%","Frigid Foreman",392
+"Festive Comet","Gingerbread (7)","Pecan Pecorino","Winter","3.57%","Great Winter Hunt Impostor",392
+"Festive Comet","Gingerbread (7)","Pecan Pecorino","Winter","3.32%","Snow Golem Jockey",392
+"Festive Comet","Gingerbread (7)","Pecan Pecorino","Winter","3.06%","Elf",392
+"Festive Comet","Gingerbread (7)","Pecan Pecorino","Winter","2.55%","Snow Sorceress",392
+"Festive Comet","Gingerbread (7)","Pecan Pecorino","Winter","2.30%","Free Skiing",392
+"Festive Comet","Gingerbread (7)","Pecan Pecorino","Winter","1.53%","Borean Commander",392
+"Festive Comet","Gingerbread (7)","Pecan Pecorino","Winter","1.28%","S.N.O.W. Golem",392
+"Festive Comet","Gingerbread (7)","Pecan Pecorino","Winter","1.28%","Tundra Huntress",392
+"Festive Comet","Gingerbread (7)","Pecan Pecorino","Winter","1.02%","Glacia Ice Fist",392
+"Festive Comet","Gingerbread (7)","Pecan Pecorino","Let It Snow","17.78%","Snow Golem Architect",917
+"Festive Comet","Gingerbread (7)","Pecan Pecorino","Let It Snow","17.34%","Snow Scavenger",917
+"Festive Comet","Gingerbread (7)","Pecan Pecorino","Let It Snow","8.40%","Builder",917
+"Festive Comet","Gingerbread (7)","Pecan Pecorino","Let It Snow","6.65%","Snowblower",917
+"Festive Comet","Gingerbread (7)","Pecan Pecorino","Let It Snow","5.67%","Stuck Snowball",917
+"Festive Comet","Gingerbread (7)","Pecan Pecorino","Let It Snow","4.47%","Snow Fort",917
+"Festive Comet","Gingerbread (7)","Pecan Pecorino","Let It Snow","4.47%","Nice Knitting",917
+"Festive Comet","Gingerbread (7)","Pecan Pecorino","Let It Snow","4.14%","Reinbo",917
+"Festive Comet","Gingerbread (7)","Pecan Pecorino","Let It Snow","3.49%","Slay Ride",917
+"Festive Comet","Gingerbread (7)","Pecan Pecorino","Let It Snow","3.27%","Elf",917
+"Festive Comet","Gingerbread (7)","Pecan Pecorino","Let It Snow","3.27%","Snowglobe",917
+"Festive Comet","Gingerbread (7)","Pecan Pecorino","Let It Snow","3.05%","Great Winter Hunt Impostor",917
+"Festive Comet","Gingerbread (7)","Pecan Pecorino","Let It Snow","2.84%","Snow Golem Jockey",917
+"Festive Comet","Gingerbread (7)","Pecan Pecorino","Let It Snow","2.73%","Frigid Foreman",917
+"Festive Comet","Gingerbread (7)","Pecan Pecorino","Let It Snow","2.62%","Free Skiing",917
+"Festive Comet","Gingerbread (7)","Pecan Pecorino","Let It Snow","2.51%","Tundra Huntress",917
+"Festive Comet","Gingerbread (7)","Pecan Pecorino","Let It Snow","2.07%","S.N.O.W. Golem",917
+"Festive Comet","Gingerbread (7)","Pecan Pecorino","Let It Snow","1.96%","Borean Commander",917
+"Festive Comet","Gingerbread (7)","Pecan Pecorino","Let It Snow","1.85%","Snow Sorceress",917
+"Festive Comet","Gingerbread (7)","Pecan Pecorino","Let It Snow","1.42%","Glacia Ice Fist",917
+"Festive Comet","Gingerbread (7)","Arctic Asiago","-","11.01%","Ridiculous Sweater",109
+"Festive Comet","Gingerbread (7)","Arctic Asiago","-","11.01%","Joy",109
+"Festive Comet","Gingerbread (7)","Arctic Asiago","-","8.26%","Toboggan Technician",109
+"Festive Comet","Gingerbread (7)","Arctic Asiago","-","7.34%","Gingerbread",109
+"Festive Comet","Gingerbread (7)","Arctic Asiago","-","6.42%","Miser",109
+"Festive Comet","Gingerbread (7)","Arctic Asiago","-","4.59%","Hoarder",109
+"Festive Comet","Gingerbread (7)","Arctic Asiago","-","4.59%","Wreath Thief",109
+"Festive Comet","Gingerbread (7)","Arctic Asiago","-","4.59%","Snow Boulder",109
+"Festive Comet","Gingerbread (7)","Arctic Asiago","-","3.67%","Destructoy",109
+"Festive Comet","Gingerbread (7)","Arctic Asiago","-","3.67%","Young Prodigy Racer",109
+"Festive Comet","Gingerbread (7)","Arctic Asiago","-","3.67%","Toy Tinkerer",109
+"Festive Comet","Gingerbread (7)","Arctic Asiago","-","2.75%","Mouse of Winter Past",109
+"Festive Comet","Gingerbread (7)","Arctic Asiago","-","2.75%","Stocking",109
+"Festive Comet","Gingerbread (7)","Arctic Asiago","-","2.75%","Toy",109
+"Festive Comet","Gingerbread (7)","Arctic Asiago","-","2.75%","Missile Toe",109
+"Festive Comet","Gingerbread (7)","Arctic Asiago","-","2.75%","Confused Courier",109
+"Festive Comet","Gingerbread (7)","Arctic Asiago","-","2.75%","Mouse of Winter Present",109
+"Festive Comet","Gingerbread (7)","Arctic Asiago","-","1.83%","Sporty Ski Instructor",109
+"Festive Comet","Gingerbread (7)","Arctic Asiago","-","1.83%","Triple Lutz",109
+"Festive Comet","Gingerbread (7)","Arctic Asiago","-","1.83%","Ribbon",109
+"Festive Comet","Gingerbread (7)","Arctic Asiago","-","1.83%","Snowball Hoarder",109
+"Festive Comet","Gingerbread (7)","Arctic Asiago","-","1.83%","Squeaker Claws",109
+"Festive Comet","Gingerbread (7)","Arctic Asiago","-","0.92%","Candy Cane",109
+"Festive Comet","Gingerbread (7)","Arctic Asiago","-","0.92%","Mad Elf",109
+"Festive Comet","Gingerbread (7)","Arctic Asiago","-","0.92%","Christmas Tree",109
+"Festive Comet","Gingerbread (7)","Arctic Asiago","-","0.92%","Greedy Al",109
+"Festive Comet","Gingerbread (7)","Arctic Asiago","-","0.92%","Double Black Diamond Racer",109
+"Festive Comet","Gingerbread (7)","Arctic Asiago","-","0.92%","Present",109
+"Festive Comet","Peppermint (8)","Gouda","-","16.15%","Hoarder",161
+"Festive Comet","Peppermint (8)","Gouda","-","11.80%","Snowball Hoarder",161
+"Festive Comet","Peppermint (8)","Gouda","-","8.07%","Triple Lutz",161
+"Festive Comet","Peppermint (8)","Gouda","-","8.07%","Gingerbread",161
+"Festive Comet","Peppermint (8)","Gouda","-","6.83%","Ribbon",161
+"Festive Comet","Peppermint (8)","Gouda","-","6.21%","Toboggan Technician",161
+"Festive Comet","Peppermint (8)","Gouda","-","6.21%","Toy Tinkerer",161
+"Festive Comet","Peppermint (8)","Gouda","-","4.97%","Stocking",161
+"Festive Comet","Peppermint (8)","Gouda","-","4.97%","Wreath Thief",161
+"Festive Comet","Peppermint (8)","Gouda","-","4.35%","Missile Toe",161
+"Festive Comet","Peppermint (8)","Gouda","-","3.73%","Snow Boulder",161
+"Festive Comet","Peppermint (8)","Gouda","-","3.11%","Nutcracker",161
+"Festive Comet","Peppermint (8)","Gouda","-","3.11%","Toy",161
+"Festive Comet","Peppermint (8)","Gouda","-","2.48%","Ridiculous Sweater",161
+"Festive Comet","Peppermint (8)","Gouda","-","2.48%","Destructoy",161
+"Festive Comet","Peppermint (8)","Gouda","-","2.48%","Candy Cane",161
+"Festive Comet","Peppermint (8)","Gouda","-","1.86%","Christmas Tree",161
+"Festive Comet","Peppermint (8)","Gouda","-","1.24%","Young Prodigy Racer",161
+"Festive Comet","Peppermint (8)","Gouda","-","1.24%","Miser",161
+"Festive Comet","Peppermint (8)","Gouda","-","0.62%","Sporty Ski Instructor",161
+"Festive Comet","Peppermint (8)","Pecan Pecorino","-","21.21%","Snow Scavenger",962
+"Festive Comet","Peppermint (8)","Pecan Pecorino","-","9.77%","Snowblower",962
+"Festive Comet","Peppermint (8)","Pecan Pecorino","-","8.32%","Builder",962
+"Festive Comet","Peppermint (8)","Pecan Pecorino","-","5.93%","Snow Fort",962
+"Festive Comet","Peppermint (8)","Pecan Pecorino","-","5.61%","Reinbo",962
+"Festive Comet","Peppermint (8)","Pecan Pecorino","-","5.41%","Stuck Snowball",962
+"Festive Comet","Peppermint (8)","Pecan Pecorino","-","5.20%","Snow Golem Jockey",962
+"Festive Comet","Peppermint (8)","Pecan Pecorino","-","5.09%","Snowglobe",962
+"Festive Comet","Peppermint (8)","Pecan Pecorino","-","3.85%","Great Winter Hunt Impostor",962
+"Festive Comet","Peppermint (8)","Pecan Pecorino","-","3.64%","Nice Knitting",962
+"Festive Comet","Peppermint (8)","Pecan Pecorino","-","3.43%","Elf",962
+"Festive Comet","Peppermint (8)","Pecan Pecorino","-","3.43%","Snow Sorceress",962
+"Festive Comet","Peppermint (8)","Pecan Pecorino","-","3.43%","Free Skiing",962
+"Festive Comet","Peppermint (8)","Pecan Pecorino","-","3.33%","Frigid Foreman",962
+"Festive Comet","Peppermint (8)","Pecan Pecorino","-","3.12%","S.N.O.W. Golem",962
+"Festive Comet","Peppermint (8)","Pecan Pecorino","-","2.81%","Slay Ride",962
+"Festive Comet","Peppermint (8)","Pecan Pecorino","-","2.60%","Borean Commander",962
+"Festive Comet","Peppermint (8)","Pecan Pecorino","-","2.18%","Glacia Ice Fist",962
+"Festive Comet","Peppermint (8)","Pecan Pecorino","-","1.66%","Tundra Huntress",962
+"Festive Comet","Peppermint (8)","Pecan Pecorino","Winter","17.22%","Snow Scavenger",395
+"Festive Comet","Peppermint (8)","Pecan Pecorino","Winter","10.13%","Snowblower",395
+"Festive Comet","Peppermint (8)","Pecan Pecorino","Winter","8.35%","Snowflake",395
+"Festive Comet","Peppermint (8)","Pecan Pecorino","Winter","8.35%","Builder",395
+"Festive Comet","Peppermint (8)","Pecan Pecorino","Winter","7.85%","Nice Knitting",395
+"Festive Comet","Peppermint (8)","Pecan Pecorino","Winter","6.33%","Snow Fort",395
+"Festive Comet","Peppermint (8)","Pecan Pecorino","Winter","6.08%","Snowglobe",395
+"Festive Comet","Peppermint (8)","Pecan Pecorino","Winter","5.82%","Reinbo",395
+"Festive Comet","Peppermint (8)","Pecan Pecorino","Winter","4.81%","Stuck Snowball",395
+"Festive Comet","Peppermint (8)","Pecan Pecorino","Winter","4.05%","Slay Ride",395
+"Festive Comet","Peppermint (8)","Pecan Pecorino","Winter","3.29%","Snow Sorceress",395
+"Festive Comet","Peppermint (8)","Pecan Pecorino","Winter","3.04%","Elf",395
+"Festive Comet","Peppermint (8)","Pecan Pecorino","Winter","2.78%","Tundra Huntress",395
+"Festive Comet","Peppermint (8)","Pecan Pecorino","Winter","2.78%","Snow Golem Jockey",395
+"Festive Comet","Peppermint (8)","Pecan Pecorino","Winter","2.03%","Great Winter Hunt Impostor",395
+"Festive Comet","Peppermint (8)","Pecan Pecorino","Winter","2.03%","Frigid Foreman",395
+"Festive Comet","Peppermint (8)","Pecan Pecorino","Winter","1.52%","S.N.O.W. Golem",395
+"Festive Comet","Peppermint (8)","Pecan Pecorino","Winter","1.27%","Glacia Ice Fist",395
+"Festive Comet","Peppermint (8)","Pecan Pecorino","Winter","1.27%","Free Skiing",395
+"Festive Comet","Peppermint (8)","Pecan Pecorino","Winter","1.01%","Borean Commander",395
+"Festive Comet","Peppermint (8)","Pecan Pecorino","Let It Snow","18.18%","Snow Scavenger",1144
+"Festive Comet","Peppermint (8)","Pecan Pecorino","Let It Snow","16.43%","Snow Golem Architect",1144
+"Festive Comet","Peppermint (8)","Pecan Pecorino","Let It Snow","8.13%","Builder",1144
+"Festive Comet","Peppermint (8)","Pecan Pecorino","Let It Snow","7.95%","Snowblower",1144
+"Festive Comet","Peppermint (8)","Pecan Pecorino","Let It Snow","4.81%","Snow Fort",1144
+"Festive Comet","Peppermint (8)","Pecan Pecorino","Let It Snow","4.46%","Reinbo",1144
+"Festive Comet","Peppermint (8)","Pecan Pecorino","Let It Snow","4.11%","Elf",1144
+"Festive Comet","Peppermint (8)","Pecan Pecorino","Let It Snow","4.11%","Stuck Snowball",1144
+"Festive Comet","Peppermint (8)","Pecan Pecorino","Let It Snow","4.02%","Slay Ride",1144
+"Festive Comet","Peppermint (8)","Pecan Pecorino","Let It Snow","4.02%","Nice Knitting",1144
+"Festive Comet","Peppermint (8)","Pecan Pecorino","Let It Snow","3.85%","Snow Golem Jockey",1144
+"Festive Comet","Peppermint (8)","Pecan Pecorino","Let It Snow","3.76%","Snowglobe",1144
+"Festive Comet","Peppermint (8)","Pecan Pecorino","Let It Snow","2.97%","Great Winter Hunt Impostor",1144
+"Festive Comet","Peppermint (8)","Pecan Pecorino","Let It Snow","2.80%","Snow Sorceress",1144
+"Festive Comet","Peppermint (8)","Pecan Pecorino","Let It Snow","2.53%","Free Skiing",1144
+"Festive Comet","Peppermint (8)","Pecan Pecorino","Let It Snow","2.19%","S.N.O.W. Golem",1144
+"Festive Comet","Peppermint (8)","Pecan Pecorino","Let It Snow","1.75%","Frigid Foreman",1144
+"Festive Comet","Peppermint (8)","Pecan Pecorino","Let It Snow","1.66%","Borean Commander",1144
+"Festive Comet","Peppermint (8)","Pecan Pecorino","Let It Snow","1.40%","Tundra Huntress",1144
+"Festive Comet","Peppermint (8)","Pecan Pecorino","Let It Snow","0.87%","Glacia Ice Fist",1144
+"Festive Comet","Ice (9)","Pecan Pecorino","-","24.38%","Snow Scavenger",771
+"Festive Comet","Ice (9)","Pecan Pecorino","-","9.21%","Snowblower",771
+"Festive Comet","Ice (9)","Pecan Pecorino","-","9.08%","Builder",771
+"Festive Comet","Ice (9)","Pecan Pecorino","-","6.23%","Stuck Snowball",771
+"Festive Comet","Ice (9)","Pecan Pecorino","-","5.45%","Snow Fort",771
+"Festive Comet","Ice (9)","Pecan Pecorino","-","5.06%","Nice Knitting",771
+"Festive Comet","Ice (9)","Pecan Pecorino","-","5.06%","Snowglobe",771
+"Festive Comet","Ice (9)","Pecan Pecorino","-","4.80%","Reinbo",771
+"Festive Comet","Ice (9)","Pecan Pecorino","-","4.41%","Great Winter Hunt Impostor",771
+"Festive Comet","Ice (9)","Pecan Pecorino","-","4.02%","Snow Golem Jockey",771
+"Festive Comet","Ice (9)","Pecan Pecorino","-","3.89%","Elf",771
+"Festive Comet","Ice (9)","Pecan Pecorino","-","3.24%","Free Skiing",771
+"Festive Comet","Ice (9)","Pecan Pecorino","-","2.98%","Snow Sorceress",771
+"Festive Comet","Ice (9)","Pecan Pecorino","-","2.59%","Slay Ride",771
+"Festive Comet","Ice (9)","Pecan Pecorino","-","2.46%","Borean Commander",771
+"Festive Comet","Ice (9)","Pecan Pecorino","-","2.33%","S.N.O.W. Golem",771
+"Festive Comet","Ice (9)","Pecan Pecorino","-","1.82%","Glacia Ice Fist",771
+"Festive Comet","Ice (9)","Pecan Pecorino","-","1.56%","Frigid Foreman",771
+"Festive Comet","Ice (9)","Pecan Pecorino","-","1.43%","Tundra Huntress",771
+"Festive Comet","Ice (9)","Pecan Pecorino","Winter","20.10%","Snow Scavenger",383
+"Festive Comet","Ice (9)","Pecan Pecorino","Winter","12.27%","Snowflake",383
+"Festive Comet","Ice (9)","Pecan Pecorino","Winter","8.88%","Snowblower",383
+"Festive Comet","Ice (9)","Pecan Pecorino","Winter","6.79%","Builder",383
+"Festive Comet","Ice (9)","Pecan Pecorino","Winter","6.53%","Nice Knitting",383
+"Festive Comet","Ice (9)","Pecan Pecorino","Winter","5.48%","Snowglobe",383
+"Festive Comet","Ice (9)","Pecan Pecorino","Winter","4.44%","Reinbo",383
+"Festive Comet","Ice (9)","Pecan Pecorino","Winter","4.44%","Great Winter Hunt Impostor",383
+"Festive Comet","Ice (9)","Pecan Pecorino","Winter","4.44%","Stuck Snowball",383
+"Festive Comet","Ice (9)","Pecan Pecorino","Winter","3.66%","Slay Ride",383
+"Festive Comet","Ice (9)","Pecan Pecorino","Winter","3.66%","Elf",383
+"Festive Comet","Ice (9)","Pecan Pecorino","Winter","3.66%","Snow Fort",383
+"Festive Comet","Ice (9)","Pecan Pecorino","Winter","2.87%","S.N.O.W. Golem",383
+"Festive Comet","Ice (9)","Pecan Pecorino","Winter","2.87%","Free Skiing",383
+"Festive Comet","Ice (9)","Pecan Pecorino","Winter","2.09%","Snow Golem Jockey",383
+"Festive Comet","Ice (9)","Pecan Pecorino","Winter","2.09%","Tundra Huntress",383
+"Festive Comet","Ice (9)","Pecan Pecorino","Winter","1.83%","Frigid Foreman",383
+"Festive Comet","Ice (9)","Pecan Pecorino","Winter","1.57%","Snow Sorceress",383
+"Festive Comet","Ice (9)","Pecan Pecorino","Winter","1.31%","Glacia Ice Fist",383
+"Festive Comet","Ice (9)","Pecan Pecorino","Winter","1.04%","Borean Commander",383
+"Festive Comet","Ice (9)","Pecan Pecorino","Let It Snow","17.81%","Snow Scavenger",1061
+"Festive Comet","Ice (9)","Pecan Pecorino","Let It Snow","17.44%","Snow Golem Architect",1061
+"Festive Comet","Ice (9)","Pecan Pecorino","Let It Snow","9.43%","Snowblower",1061
+"Festive Comet","Ice (9)","Pecan Pecorino","Let It Snow","7.26%","Builder",1061
+"Festive Comet","Ice (9)","Pecan Pecorino","Let It Snow","5.18%","Snow Fort",1061
+"Festive Comet","Ice (9)","Pecan Pecorino","Let It Snow","4.81%","Stuck Snowball",1061
+"Festive Comet","Ice (9)","Pecan Pecorino","Let It Snow","4.15%","Snowglobe",1061
+"Festive Comet","Ice (9)","Pecan Pecorino","Let It Snow","3.96%","Reinbo",1061
+"Festive Comet","Ice (9)","Pecan Pecorino","Let It Snow","3.49%","S.N.O.W. Golem",1061
+"Festive Comet","Ice (9)","Pecan Pecorino","Let It Snow","3.49%","Nice Knitting",1061
+"Festive Comet","Ice (9)","Pecan Pecorino","Let It Snow","3.39%","Snow Golem Jockey",1061
+"Festive Comet","Ice (9)","Pecan Pecorino","Let It Snow","3.39%","Elf",1061
+"Festive Comet","Ice (9)","Pecan Pecorino","Let It Snow","2.92%","Slay Ride",1061
+"Festive Comet","Ice (9)","Pecan Pecorino","Let It Snow","2.73%","Free Skiing",1061
+"Festive Comet","Ice (9)","Pecan Pecorino","Let It Snow","2.36%","Great Winter Hunt Impostor",1061
+"Festive Comet","Ice (9)","Pecan Pecorino","Let It Snow","1.98%","Frigid Foreman",1061
+"Festive Comet","Ice (9)","Pecan Pecorino","Let It Snow","1.98%","Tundra Huntress",1061
+"Festive Comet","Ice (9)","Pecan Pecorino","Let It Snow","1.98%","Glacia Ice Fist",1061
+"Festive Comet","Ice (9)","Pecan Pecorino","Let It Snow","1.13%","Borean Commander",1061
+"Festive Comet","Ice (9)","Pecan Pecorino","Let It Snow","1.13%","Snow Sorceress",1061
+"Festive Comet","Nougat (10)","SB+","-","9.68%","Hoarder",124
+"Festive Comet","Nougat (10)","SB+","-","9.68%","Joy",124
+"Festive Comet","Nougat (10)","SB+","-","7.26%","Ridiculous Sweater",124
+"Festive Comet","Nougat (10)","SB+","-","6.45%","Young Prodigy Racer",124
+"Festive Comet","Nougat (10)","SB+","-","6.45%","Gingerbread",124
+"Festive Comet","Nougat (10)","SB+","-","5.65%","Snow Boulder",124
+"Festive Comet","Nougat (10)","SB+","-","5.65%","Sporty Ski Instructor",124
+"Festive Comet","Nougat (10)","SB+","-","4.03%","Toboggan Technician",124
+"Festive Comet","Nougat (10)","SB+","-","4.03%","Wreath Thief",124
+"Festive Comet","Nougat (10)","SB+","-","4.03%","Ribbon",124
+"Festive Comet","Nougat (10)","SB+","-","3.23%","Mouse of Winter Present",124
+"Festive Comet","Nougat (10)","SB+","-","3.23%","Destructoy",124
+"Festive Comet","Nougat (10)","SB+","-","2.42%","Miser",124
+"Festive Comet","Nougat (10)","SB+","-","2.42%","Nutcracker",124
+"Festive Comet","Nougat (10)","SB+","-","2.42%","Triple Lutz",124
+"Festive Comet","Nougat (10)","SB+","-","2.42%","Toy",124
+"Festive Comet","Nougat (10)","SB+","-","2.42%","Missile Toe",124
+"Festive Comet","Nougat (10)","SB+","-","2.42%","Toy Tinkerer",124
+"Festive Comet","Nougat (10)","SB+","-","2.42%","Mad Elf",124
+"Festive Comet","Nougat (10)","SB+","-","1.61%","Mouse of Winter Past",124
+"Festive Comet","Nougat (10)","SB+","-","1.61%","Snowball Hoarder",124
+"Festive Comet","Nougat (10)","SB+","-","1.61%","Christmas Tree",124
+"Festive Comet","Nougat (10)","SB+","-","1.61%","Mouse of Winter Future",124
+"Festive Comet","Nougat (10)","SB+","-","1.61%","Scrooge",124
+"Festive Comet","Nougat (10)","SB+","-","1.61%","Stocking",124
+"Festive Comet","Nougat (10)","SB+","-","0.81%","Double Black Diamond Racer",124
+"Festive Comet","Nougat (10)","SB+","-","0.81%","Black Diamond Racer",124
+"Festive Comet","Nougat (10)","SB+","-","0.81%","Present",124
+"Festive Comet","Nougat (10)","SB+","-","0.81%","Squeaker Claws",124
+"Festive Comet","Nougat (10)","SB+","-","0.81%","Rainbow Racer",124
+"Festive Comet","Nougat (10)","Pecan Pecorino","-","21.82%","Snow Scavenger",1068
+"Festive Comet","Nougat (10)","Pecan Pecorino","-","10.02%","Snowblower",1068
+"Festive Comet","Nougat (10)","Pecan Pecorino","-","9.55%","Builder",1068
+"Festive Comet","Nougat (10)","Pecan Pecorino","-","5.81%","Snow Fort",1068
+"Festive Comet","Nougat (10)","Pecan Pecorino","-","5.24%","Reinbo",1068
+"Festive Comet","Nougat (10)","Pecan Pecorino","-","5.06%","Snowglobe",1068
+"Festive Comet","Nougat (10)","Pecan Pecorino","-","4.59%","Nice Knitting",1068
+"Festive Comet","Nougat (10)","Pecan Pecorino","-","4.40%","Stuck Snowball",1068
+"Festive Comet","Nougat (10)","Pecan Pecorino","-","4.40%","Elf",1068
+"Festive Comet","Nougat (10)","Pecan Pecorino","-","3.93%","Great Winter Hunt Impostor",1068
+"Festive Comet","Nougat (10)","Pecan Pecorino","-","3.65%","Slay Ride",1068
+"Festive Comet","Nougat (10)","Pecan Pecorino","-","3.46%","Frigid Foreman",1068
+"Festive Comet","Nougat (10)","Pecan Pecorino","-","3.09%","Snow Golem Jockey",1068
+"Festive Comet","Nougat (10)","Pecan Pecorino","-","3.00%","S.N.O.W. Golem",1068
+"Festive Comet","Nougat (10)","Pecan Pecorino","-","2.90%","Free Skiing",1068
+"Festive Comet","Nougat (10)","Pecan Pecorino","-","2.81%","Borean Commander",1068
+"Festive Comet","Nougat (10)","Pecan Pecorino","-","2.34%","Snow Sorceress",1068
+"Festive Comet","Nougat (10)","Pecan Pecorino","-","1.97%","Glacia Ice Fist",1068
+"Festive Comet","Nougat (10)","Pecan Pecorino","-","1.97%","Tundra Huntress",1068
+"Festive Comet","Nougat (10)","Pecan Pecorino","Winter","20.04%","Snow Scavenger",479
+"Festive Comet","Nougat (10)","Pecan Pecorino","Winter","10.23%","Snowblower",479
+"Festive Comet","Nougat (10)","Pecan Pecorino","Winter","9.39%","Snowflake",479
+"Festive Comet","Nougat (10)","Pecan Pecorino","Winter","7.52%","Builder",479
+"Festive Comet","Nougat (10)","Pecan Pecorino","Winter","6.68%","Snow Fort",479
+"Festive Comet","Nougat (10)","Pecan Pecorino","Winter","5.64%","Snowglobe",479
+"Festive Comet","Nougat (10)","Pecan Pecorino","Winter","4.80%","Reinbo",479
+"Festive Comet","Nougat (10)","Pecan Pecorino","Winter","4.59%","Elf",479
+"Festive Comet","Nougat (10)","Pecan Pecorino","Winter","3.76%","Snow Golem Jockey",479
+"Festive Comet","Nougat (10)","Pecan Pecorino","Winter","3.76%","Free Skiing",479
+"Festive Comet","Nougat (10)","Pecan Pecorino","Winter","3.55%","Great Winter Hunt Impostor",479
+"Festive Comet","Nougat (10)","Pecan Pecorino","Winter","3.13%","Stuck Snowball",479
+"Festive Comet","Nougat (10)","Pecan Pecorino","Winter","3.13%","Nice Knitting",479
+"Festive Comet","Nougat (10)","Pecan Pecorino","Winter","2.71%","Slay Ride",479
+"Festive Comet","Nougat (10)","Pecan Pecorino","Winter","2.71%","S.N.O.W. Golem",479
+"Festive Comet","Nougat (10)","Pecan Pecorino","Winter","2.30%","Snow Sorceress",479
+"Festive Comet","Nougat (10)","Pecan Pecorino","Winter","2.30%","Frigid Foreman",479
+"Festive Comet","Nougat (10)","Pecan Pecorino","Winter","1.67%","Tundra Huntress",479
+"Festive Comet","Nougat (10)","Pecan Pecorino","Winter","1.04%","Glacia Ice Fist",479
+"Festive Comet","Nougat (10)","Pecan Pecorino","Winter","1.04%","Borean Commander",479
+"Festive Comet","Nougat (10)","Pecan Pecorino","Let It Snow","18.89%","Snow Scavenger",1239
+"Festive Comet","Nougat (10)","Pecan Pecorino","Let It Snow","18.56%","Snow Golem Architect",1239
+"Festive Comet","Nougat (10)","Pecan Pecorino","Let It Snow","7.34%","Snowblower",1239
+"Festive Comet","Nougat (10)","Pecan Pecorino","Let It Snow","6.05%","Builder",1239
+"Festive Comet","Nougat (10)","Pecan Pecorino","Let It Snow","4.60%","Stuck Snowball",1239
+"Festive Comet","Nougat (10)","Pecan Pecorino","Let It Snow","4.52%","Snow Fort",1239
+"Festive Comet","Nougat (10)","Pecan Pecorino","Let It Snow","4.04%","Nice Knitting",1239
+"Festive Comet","Nougat (10)","Pecan Pecorino","Let It Snow","3.87%","Snowglobe",1239
+"Festive Comet","Nougat (10)","Pecan Pecorino","Let It Snow","3.79%","Reinbo",1239
+"Festive Comet","Nougat (10)","Pecan Pecorino","Let It Snow","3.55%","Elf",1239
+"Festive Comet","Nougat (10)","Pecan Pecorino","Let It Snow","3.39%","Great Winter Hunt Impostor",1239
+"Festive Comet","Nougat (10)","Pecan Pecorino","Let It Snow","3.15%","Snow Golem Jockey",1239
+"Festive Comet","Nougat (10)","Pecan Pecorino","Let It Snow","2.91%","Free Skiing",1239
+"Festive Comet","Nougat (10)","Pecan Pecorino","Let It Snow","2.58%","Frigid Foreman",1239
+"Festive Comet","Nougat (10)","Pecan Pecorino","Let It Snow","2.58%","Borean Commander",1239
+"Festive Comet","Nougat (10)","Pecan Pecorino","Let It Snow","2.50%","S.N.O.W. Golem",1239
+"Festive Comet","Nougat (10)","Pecan Pecorino","Let It Snow","2.50%","Slay Ride",1239
+"Festive Comet","Nougat (10)","Pecan Pecorino","Let It Snow","2.18%","Snow Sorceress",1239
+"Festive Comet","Nougat (10)","Pecan Pecorino","Let It Snow","1.53%","Tundra Huntress",1239
+"Festive Comet","Nougat (10)","Pecan Pecorino","Let It Snow","1.45%","Glacia Ice Fist",1239
+"Festive Comet","Core","SB+","-","100.00%","Naughty Nougat",26
+"Festive Comet","Core","SB+","Winter","100.00%","Naughty Nougat",2
 "Festive Comet","Core","SB+","Let It Snow","100.00%","Naughty Nougat",2
-"Festive Comet","Core","Gouda","-","100.00%","Naughty Nougat",11
-"Festive Comet","Core","Gouda","Winter","100.00%","Naughty Nougat",1
-"Festive Comet","Core","Pecan Pecorino","-","100.00%","Naughty Nougat",45
-"Festive Comet","Core","Pecan Pecorino","Winter","100.00%","Naughty Nougat",7
-"Festive Comet","Core","Pecan Pecorino","Let It Snow","100.00%","Naughty Nougat",49
-"Festive Comet","Core","Arctic Asiago","-","100.00%","Naughty Nougat",2
+"Festive Comet","Core","Gouda","-","100.00%","Naughty Nougat",18
+"Festive Comet","Core","Gouda","Winter","100.00%","Naughty Nougat",2
+"Festive Comet","Core","Brie","-","100.00%","Naughty Nougat",1
+"Festive Comet","Core","Pecan Pecorino","-","100.00%","Naughty Nougat",73
+"Festive Comet","Core","Pecan Pecorino","Winter","100.00%","Naughty Nougat",12
+"Festive Comet","Core","Pecan Pecorino","Let It Snow","100.00%","Naughty Nougat",74
+"Festive Comet","Core","Arctic Asiago","-","100.00%","Naughty Nougat",4
 "Festive Comet","Core","Arctic Asiago","Winter","100.00%","Naughty Nougat",2
