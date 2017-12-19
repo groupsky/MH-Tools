@@ -9234,7 +9234,8 @@
                         "-": {
                             "-": {
                                 "Snow Golem Limb": 1,
-                                "SampleSize": 6409
+                                "SampleSize": 7745,
+                                "SUPER|brie+": 0.015493867010974823
                             }
                         }
                     }
@@ -9245,8 +9246,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Pecan Pecorino Cheese": 1.5046339202965708,
-                                "SampleSize": 2158
+                                "Pecan Pecorino Cheese": 1.504225352112676,
+                                "SampleSize": 2485
                             }
                         }
                     }
@@ -9257,8 +9258,9 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Snow Golem Limb": 0.16126785092302334,
-                                "SampleSize": 2871
+                                "Snow Golem Limb": 0.15962307252998287,
+                                "SampleSize": 3502,
+                                "SUPER|brie+": 0.012849800114220445
                             }
                         }
                     }
@@ -9270,7 +9272,8 @@
                         "-": {
                             "-": {
                                 "Snow Golem Limb": 1,
-                                "SampleSize": 2548
+                                "SampleSize": 3091,
+                                "SUPER|brie+": 0.013911355548366224
                             }
                         }
                     }
@@ -9281,11 +9284,23 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Snow Golem Limb": 1.9988732394366198,
-                                "SampleSize": 1775,
-                                "Snow Golem Torso": 0.6281690140845071,
-                                "Snow Golem Head": 0.5977464788732394,
-                                "SUPER|brie+": 0.014084507042253521
+                                "Snow Golem Limb": 2,
+                                "SampleSize": 2188,
+                                "Snow Golem Torso": 0.620201096892139,
+                                "Snow Golem Head": 0.6014625228519196,
+                                "SUPER|brie+": 0.02010968921389397
+                            }
+                        }
+                    }
+                }
+            },
+            "Snow Fort": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "SUPER|brie+": 0.010422094841063054,
+                                "SampleSize": 1919
                             }
                         }
                     }
@@ -9297,8 +9312,9 @@
                         "-": {
                             "-": {
                                 "Pecan Pecorino Cheese": 2,
-                                "SampleSize": 1095,
-                                "Winter Charm": 1
+                                "SampleSize": 1248,
+                                "Winter Charm": 1,
+                                "SUPER|brie+": 0.011217948717948718
                             }
                         }
                     }
@@ -9309,8 +9325,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "SUPER|brie+": 0.0106951871657754,
-                                "SampleSize": 1496
+                                "SUPER|brie+": 0.014484679665738161,
+                                "SampleSize": 1795
                             }
                         }
                     }
@@ -9322,8 +9338,8 @@
                         "-": {
                             "-": {
                                 "Snow Golem Head": 1,
-                                "SampleSize": 1462,
-                                "SUPER|brie+": 0.01094391244870041
+                                "SampleSize": 1724,
+                                "SUPER|brie+": 0.01740139211136891
                             }
                         }
                     }
@@ -9334,8 +9350,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "SUPER|brie+": 0.01680672268907563,
-                                "SampleSize": 1428
+                                "SUPER|brie+": 0.019698725376593278,
+                                "SampleSize": 1726
                             }
                         }
                     }
@@ -9346,9 +9362,9 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Winter Charm": 0.8192041522491349,
-                                "SampleSize": 1156,
-                                "SUPER|brie+": 0.012110726643598616
+                                "Winter Charm": 0.8505007153075823,
+                                "SampleSize": 1398,
+                                "SUPER|brie+": 0.0178826895565093
                             }
                         }
                     }
@@ -9360,8 +9376,8 @@
                         "-": {
                             "-": {
                                 "Snow Golem Torso": 1,
-                                "SampleSize": 1147,
-                                "SUPER|brie+": 0.011333914559721011
+                                "SampleSize": 1411,
+                                "SUPER|brie+": 0.01559177888022679
                             }
                         }
                     }
@@ -9372,8 +9388,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "SUPER|brie+": 0.011676396997497914,
-                                "SampleSize": 1199
+                                "SUPER|brie+": 0.016415868673050615,
+                                "SampleSize": 1462
                             }
                         }
                     }
@@ -9385,8 +9401,8 @@
                         "-": {
                             "-": {
                                 "Winter Charm": 1,
-                                "SampleSize": 802,
-                                "Pecan Pecorino Cheese": 0.3690773067331671
+                                "SampleSize": 934,
+                                "Pecan Pecorino Cheese": 0.3693790149892934
                             }
                         }
                     }
@@ -9397,8 +9413,9 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Winter Charm": 0.837037037037037,
-                                "SampleSize": 1080
+                                "Winter Charm": 0.8643022359290671,
+                                "SampleSize": 1297,
+                                "SUPER|brie+": 0.014649190439475714
                             }
                         }
                     }
@@ -9410,8 +9427,9 @@
                         "-": {
                             "-": {
                                 "Pecan Pecorino Cheese": 2,
-                                "SampleSize": 853,
-                                "Let it Snow Charm": 1
+                                "SampleSize": 980,
+                                "Let it Snow Charm": 1,
+                                "SUPER|brie+": 0.012244897959183673
                             }
                         }
                     }
@@ -9422,8 +9440,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Pecan Pecorino Cheese": 0.40816326530612246,
-                                "SampleSize": 784
+                                "Pecan Pecorino Cheese": 0.4133771929824561,
+                                "SampleSize": 912
                             }
                         }
                     }
@@ -9435,7 +9453,7 @@
                         "-": {
                             "-": {
                                 "Pecan Pecorino Cheese": 1,
-                                "SampleSize": 716,
+                                "SampleSize": 813,
                                 "Winter Charm": 1
                             }
                         }
@@ -9447,8 +9465,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Pecan Pecorino Cheese": 0.5807453416149069,
-                                "SampleSize": 644
+                                "Pecan Pecorino Cheese": 0.5835616438356165,
+                                "SampleSize": 730
                             }
                         }
                     }
@@ -9460,7 +9478,8 @@
                         "-": {
                             "-": {
                                 "Pecan Pecorino Cheese": 1,
-                                "SampleSize": 735
+                                "SampleSize": 854,
+                                "SUPER|brie+": 0.01288056206088993
                             }
                         }
                     }
@@ -9472,7 +9491,8 @@
                         "-": {
                             "-": {
                                 "Snow Golem Torso": 1,
-                                "SampleSize": 824
+                                "SampleSize": 984,
+                                "SUPER|brie+": 0.017276422764227643
                             }
                         }
                     }
@@ -9483,8 +9503,9 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Pecan Pecorino Cheese": 0.6290571870170015,
-                                "SampleSize": 647
+                                "Pecan Pecorino Cheese": 0.6196078431372549,
+                                "SampleSize": 765,
+                                "SUPER|brie+": 0.013071895424836602
                             }
                         }
                     }
@@ -9495,8 +9516,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Pecan Pecorino Cheese": 0.5846599131693199,
-                                "SampleSize": 691
+                                "Pecan Pecorino Cheese": 0.5855421686746988,
+                                "SampleSize": 830
                             }
                         }
                     }
@@ -9508,8 +9529,8 @@
                         "-": {
                             "-": {
                                 "Snow Golem Limb": 1,
-                                "SampleSize": 846,
-                                "SUPER|brie+": 0.010638297872340425
+                                "SampleSize": 1017,
+                                "SUPER|brie+": 0.011799410029498525
                             }
                         }
                     }
@@ -9520,8 +9541,9 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Pecan Pecorino Cheese": 0.555735056542811,
-                                "SampleSize": 619
+                                "Pecan Pecorino Cheese": 0.5649794801641587,
+                                "SampleSize": 731,
+                                "SUPER|brie+": 0.01094391244870041
                             }
                         }
                     }
@@ -9533,7 +9555,7 @@
                         "-": {
                             "-": {
                                 "Snow Golem Head": 1,
-                                "SampleSize": 865
+                                "SampleSize": 1013
                             }
                         }
                     }
@@ -9544,8 +9566,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Pecan Pecorino Cheese": 0.6071428571428571,
-                                "SampleSize": 616
+                                "Pecan Pecorino Cheese": 0.6025459688826026,
+                                "SampleSize": 707
                             }
                         }
                     }
@@ -9556,8 +9578,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Pecan Pecorino Cheese": 0.15810276679841898,
-                                "SampleSize": 506
+                                "Pecan Pecorino Cheese": 0.156140350877193,
+                                "SampleSize": 570
                             }
                         }
                     }
@@ -9568,8 +9590,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Pecan Pecorino Cheese": 0.5686900958466453,
-                                "SampleSize": 626
+                                "Pecan Pecorino Cheese": 0.5775623268698061,
+                                "SampleSize": 722
                             }
                         }
                     }
@@ -9580,8 +9602,9 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Pecan Pecorino Cheese": 0.39086294416243655,
-                                "SampleSize": 591
+                                "Pecan Pecorino Cheese": 0.3948170731707317,
+                                "SampleSize": 656,
+                                "SUPER|brie+": 0.012195121951219513
                             }
                         }
                     }
@@ -9592,9 +9615,21 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Snow Golem Head": 0.15317559153175592,
-                                "SampleSize": 803,
-                                "SUPER|brie+": 0.0112079701120797
+                                "Snow Golem Head": 0.14795918367346939,
+                                "SampleSize": 980,
+                                "SUPER|brie+": 0.019387755102040816
+                            }
+                        }
+                    }
+                }
+            },
+            "Stocking": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "SUPER|brie+": 0.010084033613445379,
+                                "SampleSize": 595
                             }
                         }
                     }
@@ -9605,8 +9640,9 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Pecan Pecorino Cheese": 0.5601659751037344,
-                                "SampleSize": 482
+                                "Pecan Pecorino Cheese": 0.5585585585585585,
+                                "SampleSize": 555,
+                                "SUPER|brie+": 0.014414414414414415
                             }
                         }
                     }
@@ -9617,8 +9653,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Pecan Pecorino Cheese": 0.6078431372549019,
-                                "SampleSize": 459
+                                "Pecan Pecorino Cheese": 0.6106032906764168,
+                                "SampleSize": 547
                             }
                         }
                     }
@@ -9629,9 +9665,9 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Snow Golem Torso": 0.1853546910755149,
-                                "SampleSize": 437,
-                                "SUPER|brie+": 0.020594965675057208
+                                "Snow Golem Torso": 0.1881918819188192,
+                                "SampleSize": 542,
+                                "SUPER|brie+": 0.027675276752767528
                             }
                         }
                     }
@@ -9642,9 +9678,9 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Snow Golem Torso": 0.7079796264855688,
-                                "SampleSize": 589,
-                                "SUPER|brie+": 0.011884550084889643
+                                "Snow Golem Torso": 0.6928571428571428,
+                                "SampleSize": 700,
+                                "SUPER|brie+": 0.012857142857142857
                             }
                         }
                     }
@@ -9656,7 +9692,7 @@
                         "-": {
                             "-": {
                                 "Pecan Pecorino Cheese": 2,
-                                "SampleSize": 393
+                                "SampleSize": 431
                             }
                         }
                     }
@@ -9667,10 +9703,10 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Winter Charm": 0.8479166666666667,
-                                "SampleSize": 480,
-                                "Snow Golem Limb": 0.09166666666666666,
-                                "SUPER|brie+": 0.014583333333333334
+                                "Winter Charm": 0.8737024221453287,
+                                "SampleSize": 578,
+                                "Snow Golem Limb": 0.10380622837370242,
+                                "SUPER|brie+": 0.01903114186851211
                             }
                         }
                     }
@@ -9681,9 +9717,9 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Pecan Pecorino Cheese": 1.5123456790123457,
-                                "SampleSize": 162,
-                                "SUPER|brie+": 0.012345679012345678
+                                "Pecan Pecorino Cheese": 1.5108695652173914,
+                                "SampleSize": 184,
+                                "SUPER|brie+": 0.010869565217391304
                             }
                         }
                     }
@@ -9694,8 +9730,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Pecan Pecorino Cheese": 1.537037037037037,
-                                "SampleSize": 108
+                                "Pecan Pecorino Cheese": 1.5210084033613445,
+                                "SampleSize": 119
                             }
                         }
                     }
@@ -9707,8 +9743,7 @@
                         "-": {
                             "-": {
                                 "Pecan Pecorino Cheese": 1,
-                                "SampleSize": 100,
-                                "SUPER|brie+": 0.01
+                                "SampleSize": 111
                             }
                         }
                     }
@@ -9719,8 +9754,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Pecan Pecorino Cheese": 1.5098039215686274,
-                                "SampleSize": 102
+                                "Pecan Pecorino Cheese": 1.5272727272727273,
+                                "SampleSize": 110
                             }
                         }
                     }
@@ -9732,7 +9767,7 @@
                         "-": {
                             "-": {
                                 "Pecan Pecorino Cheese": 1,
-                                "SampleSize": 111
+                                "SampleSize": 123
                             }
                         }
                     }
@@ -9743,8 +9778,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Pecan Pecorino Cheese": 1.525,
-                                "SampleSize": 80
+                                "Pecan Pecorino Cheese": 1.5106382978723405,
+                                "SampleSize": 94
                             }
                         }
                     }
@@ -9756,7 +9791,7 @@
                         "-": {
                             "-": {
                                 "Pecan Pecorino Cheese": 1,
-                                "SampleSize": 92
+                                "SampleSize": 99
                             }
                         }
                     }
@@ -9768,7 +9803,7 @@
                         "-": {
                             "-": {
                                 "Pecan Pecorino Cheese": 1,
-                                "SampleSize": 90
+                                "SampleSize": 104
                             }
                         }
                     }
@@ -9780,7 +9815,7 @@
                         "-": {
                             "-": {
                                 "Pecan Pecorino Cheese": 1,
-                                "SampleSize": 90
+                                "SampleSize": 101
                             }
                         }
                     }
@@ -9792,7 +9827,7 @@
                         "-": {
                             "-": {
                                 "Pecan Pecorino Cheese": 1,
-                                "SampleSize": 81
+                                "SampleSize": 92
                             }
                         }
                     }
@@ -9803,8 +9838,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Pecan Pecorino Cheese": 1.4588235294117646,
-                                "SampleSize": 85
+                                "Pecan Pecorino Cheese": 1.4752475247524752,
+                                "SampleSize": 101
                             }
                         }
                     }
@@ -9815,9 +9850,9 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Pecan Pecorino Cheese": 1.4880952380952381,
-                                "SampleSize": 84,
-                                "SUPER|brie+": 0.011904761904761904
+                                "Pecan Pecorino Cheese": 1.4948453608247423,
+                                "SampleSize": 97,
+                                "SUPER|brie+": 0.010309278350515464
                             }
                         }
                     }
@@ -9829,8 +9864,8 @@
                         "-": {
                             "-": {
                                 "Pecan Pecorino Cheese": 1,
-                                "SampleSize": 74,
-                                "SUPER|brie+": 0.013513513513513514
+                                "SampleSize": 89,
+                                "SUPER|brie+": 0.02247191011235955
                             }
                         }
                     }
@@ -9841,9 +9876,9 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Winter Charm": 0.9990783410138249,
-                                "SampleSize": 1085,
-                                "SUPER|brie+": 0.02488479262672811
+                                "Winter Charm": 1,
+                                "SampleSize": 1387,
+                                "SUPER|brie+": 0.02595529920692141
                             }
                         }
                     }
@@ -9854,16 +9889,16 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Ancient Relic": 1,
-                                "SampleSize": 260,
-                                "SUPER|brie+": 4.726923076923077,
-                                "Nugget of Nougat": 1,
                                 "Magical Winter Hunt Holiday Hat": 1,
-                                "Snow Golem Theme Scrap I": 0.55,
-                                "Snow Golem Head": 0.2692307692307692,
-                                "Animated Snow": 1.1730769230769231,
-                                "Snow Golem Torso": 0.2423076923076923,
-                                "Snow Golem Limb": 0.5692307692307692
+                                "SampleSize": 389,
+                                "Ancient Relic": 1,
+                                "SUPER|brie+": 4.920308483290489,
+                                "Nugget of Nougat": 1,
+                                "Snow Golem Theme Scrap I": 0.4781491002570694,
+                                "Snow Golem Head": 0.29562982005141386,
+                                "Animated Snow": 1.141388174807198,
+                                "Snow Golem Torso": 0.2236503856041131,
+                                "Snow Golem Limb": 0.5629820051413882
                             }
                         }
                     }
