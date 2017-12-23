@@ -1818,7 +1818,7 @@ var charmsArray = {
     "Horsepower Charm": [0, 0, 0, 0, "No Effect"],
     "Hydro Charm": [0, 0, 0, 0, "No Effect"],
     "Lantern Oil Charm": [200, 2, 2, 1, "Fresh"],
-    "Let it Snow Charm": [0, 0, 0, 5, "No Effect"],
+    "Let It Snow Charm": [0, 0, 0, 5, "No Effect"],
     "Luck Charm": [0, 0, 0, 1, "No Effect"],
     "Lucky Power Charm": [120, 1, 0, 1, "No Effect"],
     "Lucky Rabbit Charm": [0, 0, 0, 6, "No Effect"],
