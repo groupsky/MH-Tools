@@ -10,7 +10,7 @@ var cheeses = [
   'SB+', 'Gouda', 'Brie', 'Pecan Pecorino', 'Arctic Asiago'
 ]
 var charms = [
-  undefined, 'Winter', 'Let it Snow'
+  undefined, 'Winter', 'Let It Snow'
 ]
 
 utils
@@ -22,9 +22,9 @@ utils
         phase: utils.genVarField('stage', stages),
         cheese: utils.genVarField('cheese', cheeses),
         charm: [
-          { vars: { charm: { 'Winter': false, 'Let it Snow': false } } },
+          { vars: { charm: { 'Winter': false, 'Let It Snow': false } } },
           { vars: { charm: { 'Winter': true } }, fields: { charm: 'Winter' } },
-          { vars: { charm: { 'Let it Snow': true } }, fields: { charm: 'Let it Snow' } },
+          { vars: { charm: { 'Let It Snow': true } }, fields: { charm: 'Let It Snow' } },
         ]
       }
     ],
