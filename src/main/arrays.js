@@ -2075,7 +2075,6 @@ var powersArray = {
     "Zombot Unipire": [370, 100, 100, 100, 100, 0, 100, 100, 100, 100, 100],
     "Buckethead": 	[500, 100, 100, 100, 100, 0, 100, 100, 100, 100, 100],
     "Pintail": 	    [600, 100, 100, 100, 100, 0, 100, 100, 100, 100, 100],
-    "Party Head": 	[600, 100, 100, 100, 100, 0, 100, 100, 100, 100, 100],
     "Spirit Light": [600, 100, 100, 100, 100, 0, 100, 100, 100, 100, 100],
     "Totally Not Bitter": [650, 100, 100, 100, 100, 0, 100, 100, 100, 100, 100],
     "Lovely Sports": 	[650, 100, 100, 100, 100, 0, 100, 100, 100, 100, 100],
@@ -2896,6 +2895,9 @@ var powersArray = {
     "Glacia Ice Fist": 	 [304, 100, 100, 100, 100, 0, 100, 100, 100, 100, 100],
     "Tundra Huntress": 	 [7911, 100, 100, 100, 100, 0, 100, 100, 100, 100, 100],
     "Borean Commander": 	 [8934, 100, 100, 100, 100, 0, 100, 100, 100, 100, 100],
+    "Frightened Flying Fireworks": [304, 100, 100, 100, 100, 0, 100, 100, 100, 100, 100],
+    "Party Head": [1219, 100, 100, 100, 100, 0, 100, 100, 100, 100, 100],
+    "New Year's": [1219, 100, 100, 100, 100, 0, 100, 100, 100, 100, 100],
 };
 /* [Gold, Points] */
 var miceArray = {
@@ -2956,6 +2958,9 @@ var miceArray = {
     "Glacia Ice Fist": [2000, 9900],
     "Tundra Huntress": [5780, 32000],
     "Borean Commander": [8000, 15000],
+    "Frightened Flying Fireworks": [2017, 2017],
+    "Party Head": [2000, 2000],
+    "New Year's": [200, 2200],
 
 
     "Abominable Snow": [1750, 1750],
@@ -3586,7 +3591,6 @@ var miceArray = {
     "Rockstar": [3400, 1000],
     "Leprechaun": [10, 10],
     "Mobster": [10, 10],
-    "New Year's": [200, 2211],
     "Present": [900, 900],
     "Red Envelope": [221, 888],
     "Romeno": [300, 0],
@@ -3613,7 +3617,6 @@ var miceArray = {
     "Mousevina von Vermin": [900, 27000],
     "Cobweb": [700, 500],
     "Pumpkin Hoarder": [1000, 1800],
-    "Party Head": [2000, 2000],
     "Calligraphy": [888, 1888],
     "Costumed Dragon": [888, 2888],
     "Forever Alone": [600, 1200],

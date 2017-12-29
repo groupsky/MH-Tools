@@ -1,119 +1,118 @@
 "Location","Phase","Trap","Base","Cheese","Charm","Mouse","Loot","Qty","Sample"
-"Festive Comet","-","-","-","-","-","Snow Scavenger","Snow Golem Limb",1,17905
-"Festive Comet","-","-","-","-","-","Snow Scavenger","SUPER|brie+",0.030159173415247136,17905
-"Festive Comet","-","-","-","-","-","Hoarder","Pecan Pecorino Cheese",1.50882096069869,5725
-"Festive Comet","-","-","-","-","-","Hoarder","SUPER|brie+",0.023755458515283844,5725
-"Festive Comet","-","-","-","-","-","Snowblower","Snow Golem Limb",0.15820821441866237,8059
-"Festive Comet","-","-","-","-","-","Snowblower","SUPER|brie+",0.02754684203995533,8059
-"Festive Comet","-","-","-","-","-","Builder","Snow Golem Limb",0.9998620499379225,7249
-"Festive Comet","-","-","-","-","-","Builder","SUPER|brie+",0.02869361291212581,7249
-"Festive Comet","-","-","-","-","-","Snow Golem Architect","Snow Golem Limb",2,5124
-"Festive Comet","-","-","-","-","-","Snow Golem Architect","Snow Golem Torso",0.6063622170179547,5124
-"Festive Comet","-","-","-","-","-","Snow Golem Architect","Snow Golem Head",0.6008977361436377,5124
-"Festive Comet","-","-","-","-","-","Snow Golem Architect","SUPER|brie+",0.03395784543325527,5124
-"Festive Comet","-","-","-","-","-","Snow Fort","SUPER|brie+",0.029782608695652173,4600
-"Festive Comet","-","-","-","-","-","Joy","Pecan Pecorino Cheese",2,2492
-"Festive Comet","-","-","-","-","-","Joy","Winter Charm",1,2492
-"Festive Comet","-","-","-","-","-","Joy","SUPER|brie+",0.025682182985553772,2492
-"Festive Comet","-","-","-","-","-","Reinbo","SUPER|brie+",0.026552984165651643,4105
-"Festive Comet","-","-","-","-","-","Nice Knitting","Snow Golem Head",1,4037
-"Festive Comet","-","-","-","-","-","Nice Knitting","SUPER|brie+",0.03071587812732227,4037
-"Festive Comet","-","-","-","-","-","Snowglobe","SUPER|brie+",0.028273051451859398,3926
-"Festive Comet","-","-","-","-","-","Slay Ride","Winter Charm",0.9357713583282115,3254
-"Festive Comet","-","-","-","-","-","Slay Ride","SUPER|brie+",0.03073140749846343,3254
-"Festive Comet","-","-","-","-","-","Snow Golem Jockey","Snow Golem Torso",1,3272
-"Festive Comet","-","-","-","-","-","Snow Golem Jockey","SUPER|brie+",0.028422982885085574,3272
-"Festive Comet","-","-","-","-","-","Elf","SUPER|brie+",0.02917933130699088,3290
-"Festive Comet","-","-","-","-","-","Snow Boulder","Winter Charm",1,1996
-"Festive Comet","-","-","-","-","-","Snow Boulder","Pecan Pecorino Cheese",0.3722444889779559,1996
-"Festive Comet","-","-","-","-","-","Snow Boulder","SUPER|brie+",0.022545090180360723,1996
-"Festive Comet","-","-","-","-","-","Great Winter Hunt Impostor","Winter Charm",0.9443742098609356,3164
-"Festive Comet","-","-","-","-","-","Great Winter Hunt Impostor","SUPER|brie+",0.02465233881163085,3164
-"Festive Comet","-","-","-","-","-","Snowflake","Pecan Pecorino Cheese",2,2148
-"Festive Comet","-","-","-","-","-","Snowflake","Let it Snow Charm",1,2148
-"Festive Comet","-","-","-","-","-","Snowflake","SUPER|brie+",0.0260707635009311,2148
-"Festive Comet","-","-","-","-","-","Gingerbread","Pecan Pecorino Cheese",0.3966265060240964,2075
-"Festive Comet","-","-","-","-","-","Gingerbread","SUPER|brie+",0.021686746987951807,2075
-"Festive Comet","-","-","-","-","-","Toboggan Technician","Pecan Pecorino Cheese",1,1817
-"Festive Comet","-","-","-","-","-","Toboggan Technician","Winter Charm",1,1817
-"Festive Comet","-","-","-","-","-","Toboggan Technician","SUPER|brie+",0.026967528893780957,1817
-"Festive Comet","-","-","-","-","-","Missile Toe","Pecan Pecorino Cheese",0.6019595835884874,1633
-"Festive Comet","-","-","-","-","-","Missile Toe","SUPER|brie+",0.02510716472749541,1633
-"Festive Comet","-","-","-","-","-","Snowball Hoarder","Pecan Pecorino Cheese",1,2118
-"Festive Comet","-","-","-","-","-","Snowball Hoarder","SUPER|brie+",0.026912181303116147,2118
-"Festive Comet","-","-","-","-","-","Frigid Foreman","Snow Golem Torso",1,2292
-"Festive Comet","-","-","-","-","-","Frigid Foreman","SUPER|brie+",0.029668411867364748,2292
-"Festive Comet","-","-","-","-","-","Wreath Thief","Pecan Pecorino Cheese",0.6083333333333333,1800
-"Festive Comet","-","-","-","-","-","Wreath Thief","SUPER|brie+",0.03,1800
-"Festive Comet","-","-","-","-","-","Toy Tinkerer","Pecan Pecorino Cheese",0.5790031813361611,1886
-"Festive Comet","-","-","-","-","-","Toy Tinkerer","SUPER|brie+",0.02386002120890774,1886
-"Festive Comet","-","-","-","-","-","S.N.O.W. Golem","Snow Golem Limb",1,2416
-"Festive Comet","-","-","-","-","-","S.N.O.W. Golem","SUPER|brie+",0.026490066225165563,2416
-"Festive Comet","-","-","-","-","-","Ribbon","Pecan Pecorino Cheese",0.5907150480256137,1874
-"Festive Comet","-","-","-","-","-","Ribbon","SUPER|brie+",0.021344717182497332,1874
-"Festive Comet","-","-","-","-","-","Free Skiing","Snow Golem Head",1,2411
-"Festive Comet","-","-","-","-","-","Free Skiing","SUPER|brie+",0.019908751555371217,2411
-"Festive Comet","-","-","-","-","-","Destructoy","Pecan Pecorino Cheese",0.582216808769793,1642
-"Festive Comet","-","-","-","-","-","Destructoy","SUPER|brie+",0.025578562728380026,1642
-"Festive Comet","-","-","-","-","-","Miser","Pecan Pecorino Cheese",0.1581160639192599,1189
-"Festive Comet","-","-","-","-","-","Miser","SUPER|brie+",0.017661900756938603,1189
-"Festive Comet","-","-","-","-","-","Triple Lutz","Pecan Pecorino Cheese",0.6011331444759207,1765
-"Festive Comet","-","-","-","-","-","Triple Lutz","SUPER|brie+",0.024929178470254956,1765
-"Festive Comet","-","-","-","-","-","Ridiculous Sweater","Pecan Pecorino Cheese",0.38343108504398826,1364
-"Festive Comet","-","-","-","-","-","Ridiculous Sweater","SUPER|brie+",0.024926686217008796,1364
-"Festive Comet","-","-","-","-","-","Snow Sorceress","Snow Golem Head",0.13426514188903008,2361
-"Festive Comet","-","-","-","-","-","Snow Sorceress","SUPER|brie+",0.03303684879288437,2361
-"Festive Comet","-","-","-","-","-","Stocking","SUPER|brie+",0.02608695652173913,1380
-"Festive Comet","-","-","-","-","-","Sporty Ski Instructor","Pecan Pecorino Cheese",0.5897219882055602,1187
-"Festive Comet","-","-","-","-","-","Sporty Ski Instructor","SUPER|brie+",0.02695871946082561,1187
-"Festive Comet","-","-","-","-","-","Young Prodigy Racer","Pecan Pecorino Cheese",0.6034632034632035,1155
-"Festive Comet","-","-","-","-","-","Young Prodigy Racer","SUPER|brie+",0.019913419913419914,1155
-"Festive Comet","-","-","-","-","-","Toy","SUPER|brie+",0.022058823529411766,1088
-"Festive Comet","-","-","-","-","-","Borean Commander","Snow Golem Torso",0.15610859728506787,1326
-"Festive Comet","-","-","-","-","-","Borean Commander","SUPER|brie+",0.032428355957767725,1326
-"Festive Comet","-","-","-","-","-","Glacia Ice Fist","Snow Golem Torso",0.700363196125908,1652
-"Festive Comet","-","-","-","-","-","Glacia Ice Fist","SUPER|brie+",0.029055690072639227,1652
-"Festive Comet","-","-","-","-","-","Confused Courier","Pecan Pecorino Cheese",1.9976019184652278,834
-"Festive Comet","-","-","-","-","-","Confused Courier","SUPER|brie+",0.023980815347721823,834
-"Festive Comet","-","-","-","-","-","Tundra Huntress","Winter Charm",0.9468704512372634,1374
-"Festive Comet","-","-","-","-","-","Tundra Huntress","Snow Golem Limb",0.09970887918486172,1374
-"Festive Comet","-","-","-","-","-","Tundra Huntress","SUPER|brie+",0.03202328966521106,1374
-"Festive Comet","-","-","-","-","-","Candy Cane","SUPER|brie+",0.03656821378340366,711
-"Festive Comet","-","-","-","-","-","Christmas Tree","SUPER|brie+",0.026246719160104987,762
-"Festive Comet","-","-","-","-","-","Nutcracker","SUPER|brie+",0.02054794520547945,730
-"Festive Comet","-","-","-","-","-","Present","Pecan Pecorino Cheese",1.4935400516795865,387
-"Festive Comet","-","-","-","-","-","Present","SUPER|brie+",0.025839793281653745,387
-"Festive Comet","-","-","-","-","-","Mouse of Winter Past","Pecan Pecorino Cheese",1.5023696682464456,211
-"Festive Comet","-","-","-","-","-","Mouse of Winter Past","SUPER|brie+",0.037914691943127965,211
-"Festive Comet","-","-","-","-","-","Greedy Al","Pecan Pecorino Cheese",1,188
-"Festive Comet","-","-","-","-","-","Greedy Al","SUPER|brie+",0.031914893617021274,188
-"Festive Comet","-","-","-","-","-","Mouse of Winter Future","Pecan Pecorino Cheese",1.5101010101010102,198
-"Festive Comet","-","-","-","-","-","Mouse of Winter Future","SUPER|brie+",0.015151515151515152,198
-"Festive Comet","-","-","-","-","-","Squeaker Claws","Pecan Pecorino Cheese",1,241
-"Festive Comet","-","-","-","-","-","Squeaker Claws","SUPER|brie+",0.012448132780082987,241
-"Festive Comet","-","-","-","-","-","Rainbow Racer","Pecan Pecorino Cheese",1.4835164835164836,182
-"Festive Comet","-","-","-","-","-","Rainbow Racer","SUPER|brie+",0.01098901098901099,182
-"Festive Comet","-","-","-","-","-","Scrooge","Pecan Pecorino Cheese",1,183
-"Festive Comet","-","-","-","-","-","Mad Elf","Pecan Pecorino Cheese",1,201
-"Festive Comet","-","-","-","-","-","Mad Elf","SUPER|brie+",0.014925373134328358,201
-"Festive Comet","-","-","-","-","-","Black Diamond Racer","Pecan Pecorino Cheese",1,197
-"Festive Comet","-","-","-","-","-","Black Diamond Racer","SUPER|brie+",0.04060913705583756,197
-"Festive Comet","-","-","-","-","-","Ornament","Pecan Pecorino Cheese",1,165
-"Festive Comet","-","-","-","-","-","Ornament","SUPER|brie+",0.024242424242424242,165
-"Festive Comet","-","-","-","-","-","Nitro Racer","Pecan Pecorino Cheese",1.4734299516908214,207
-"Festive Comet","-","-","-","-","-","Nitro Racer","SUPER|brie+",0.028985507246376812,207
-"Festive Comet","-","-","-","-","-","Mouse of Winter Present","Pecan Pecorino Cheese",1.491891891891892,185
-"Festive Comet","-","-","-","-","-","Mouse of Winter Present","SUPER|brie+",0.010810810810810811,185
-"Festive Comet","-","-","-","-","-","Double Black Diamond Racer","Pecan Pecorino Cheese",1,185
-"Festive Comet","-","-","-","-","-","Double Black Diamond Racer","SUPER|brie+",0.043243243243243246,185
-"Festive Comet","-","-","-","-","-","Stuck Snowball","Winter Charm",1,3705
-"Festive Comet","-","-","-","-","-","Stuck Snowball","SUPER|brie+",0.0340080971659919,3705
-"Festive Comet","-","-","-","-","-","Naughty Nougat","Nugget of Nougat",1,1640
-"Festive Comet","-","-","-","-","-","Naughty Nougat","Magical Winter Hunt Holiday Hat",1,1640
-"Festive Comet","-","-","-","-","-","Naughty Nougat","Ancient Relic",1,1640
-"Festive Comet","-","-","-","-","-","Naughty Nougat","SUPER|brie+",4.785365853658536,1640
-"Festive Comet","-","-","-","-","-","Naughty Nougat","Snow Golem Head",0.2810975609756098,1640
-"Festive Comet","-","-","-","-","-","Naughty Nougat","Snow Golem Torso",0.2426829268292683,1640
-"Festive Comet","-","-","-","-","-","Naughty Nougat","Animated Snow",1.0548780487804879,1640
-"Festive Comet","-","-","-","-","-","Naughty Nougat","Snow Golem Limb",0.6079268292682927,1640
-"Festive Comet","-","-","-","-","-","Naughty Nougat","Snow Golem Theme Scrap I",0.16158536585365854,1640
+"Festive Comet","-","-","-","-","-","Snow Scavenger","Snow Golem Limb",1,18969
+"Festive Comet","-","-","-","-","-","Snow Scavenger","SUPER|brie+",0.03078707364647583,18969
+"Festive Comet","-","-","-","-","-","Hoarder","Pecan Pecorino Cheese",1.5072986714777759,6097
+"Festive Comet","-","-","-","-","-","Hoarder","SUPER|brie+",0.023946203050680664,6097
+"Festive Comet","-","-","-","-","-","Snowblower","Snow Golem Limb",0.1578454332552693,8540
+"Festive Comet","-","-","-","-","-","Snowblower","SUPER|brie+",0.027985948477751755,8540
+"Festive Comet","-","-","-","-","-","Builder","Snow Golem Limb",1,7720
+"Festive Comet","-","-","-","-","-","Builder","SUPER|brie+",0.03005181347150259,7720
+"Festive Comet","-","-","-","-","-","Snow Golem Architect","Snow Golem Limb",1.9996330275229357,5450
+"Festive Comet","-","-","-","-","-","Snow Golem Architect","Snow Golem Torso",0.6027522935779817,5450
+"Festive Comet","-","-","-","-","-","Snow Golem Architect","Snow Golem Head",0.5979816513761468,5450
+"Festive Comet","-","-","-","-","-","Snow Golem Architect","SUPER|brie+",0.03431192660550459,5450
+"Festive Comet","-","-","-","-","-","Snow Fort","SUPER|brie+",0.029765545361875638,4905
+"Festive Comet","-","-","-","-","-","Joy","Pecan Pecorino Cheese",2,2630
+"Festive Comet","-","-","-","-","-","Joy","Winter Charm",1,2630
+"Festive Comet","-","-","-","-","-","Joy","SUPER|brie+",0.02585551330798479,2630
+"Festive Comet","-","-","-","-","-","Reinbo","SUPER|brie+",0.02714515757994019,4347
+"Festive Comet","-","-","-","-","-","Nice Knitting","Snow Golem Head",1,4290
+"Festive Comet","-","-","-","-","-","Nice Knitting","SUPER|brie+",0.03076923076923077,4290
+"Festive Comet","-","-","-","-","-","Snowglobe","SUPER|brie+",0.028716216216216218,4144
+"Festive Comet","-","-","-","-","-","Slay Ride","Winter Charm",0.9395079594790159,3455
+"Festive Comet","-","-","-","-","-","Slay Ride","SUPER|brie+",0.032127351664254705,3455
+"Festive Comet","-","-","-","-","-","Snow Golem Jockey","Snow Golem Torso",1,3454
+"Festive Comet","-","-","-","-","-","Snow Golem Jockey","SUPER|brie+",0.030689056166763172,3454
+"Festive Comet","-","-","-","-","-","Elf","SUPER|brie+",0.030597655132971118,3497
+"Festive Comet","-","-","-","-","-","Snow Boulder","Winter Charm",1,2121
+"Festive Comet","-","-","-","-","-","Snow Boulder","Pecan Pecorino Cheese",0.37623762376237624,2121
+"Festive Comet","-","-","-","-","-","Snow Boulder","SUPER|brie+",0.02263083451202263,2121
+"Festive Comet","-","-","-","-","-","Great Winter Hunt Impostor","Winter Charm",0.9473369239976063,3342
+"Festive Comet","-","-","-","-","-","Great Winter Hunt Impostor","SUPER|brie+",0.026331538001196888,3342
+"Festive Comet","-","-","-","-","-","Snowflake","Pecan Pecorino Cheese",2,2240
+"Festive Comet","-","-","-","-","-","Snowflake","Let it Snow Charm",1,2240
+"Festive Comet","-","-","-","-","-","Snowflake","SUPER|brie+",0.026339285714285714,2240
+"Festive Comet","-","-","-","-","-","Gingerbread","Pecan Pecorino Cheese",0.39414414414414417,2220
+"Festive Comet","-","-","-","-","-","Gingerbread","SUPER|brie+",0.022972972972972974,2220
+"Festive Comet","-","-","-","-","-","Toboggan Technician","Winter Charm",1,1918
+"Festive Comet","-","-","-","-","-","Toboggan Technician","Pecan Pecorino Cheese",1,1918
+"Festive Comet","-","-","-","-","-","Toboggan Technician","SUPER|brie+",0.026590198123044837,1918
+"Festive Comet","-","-","-","-","-","Missile Toe","Pecan Pecorino Cheese",0.5997693194925029,1734
+"Festive Comet","-","-","-","-","-","Missile Toe","SUPER|brie+",0.02422145328719723,1734
+"Festive Comet","-","-","-","-","-","Snowball Hoarder","Pecan Pecorino Cheese",1,2257
+"Festive Comet","-","-","-","-","-","Snowball Hoarder","SUPER|brie+",0.028799291094373063,2257
+"Festive Comet","-","-","-","-","-","Frigid Foreman","Snow Golem Torso",1,2435
+"Festive Comet","-","-","-","-","-","Frigid Foreman","SUPER|brie+",0.031211498973305954,2435
+"Festive Comet","-","-","-","-","-","Wreath Thief","Pecan Pecorino Cheese",0.6121593291404612,1908
+"Festive Comet","-","-","-","-","-","Wreath Thief","SUPER|brie+",0.029874213836477988,1908
+"Festive Comet","-","-","-","-","-","Toy Tinkerer","Pecan Pecorino Cheese",0.5831253120319521,2003
+"Festive Comet","-","-","-","-","-","Toy Tinkerer","SUPER|brie+",0.023464802795806292,2003
+"Festive Comet","-","-","-","-","-","S.N.O.W. Golem","Snow Golem Limb",1,2577
+"Festive Comet","-","-","-","-","-","S.N.O.W. Golem","SUPER|brie+",0.02716336825766395,2577
+"Festive Comet","-","-","-","-","-","Ribbon","Pecan Pecorino Cheese",0.5874371859296482,1990
+"Festive Comet","-","-","-","-","-","Ribbon","SUPER|brie+",0.021608040201005024,1990
+"Festive Comet","-","-","-","-","-","Free Skiing","Snow Golem Head",1,2559
+"Festive Comet","-","-","-","-","-","Free Skiing","SUPER|brie+",0.01992966002344666,2559
+"Festive Comet","-","-","-","-","-","Destructoy","Pecan Pecorino Cheese",0.5855752718946766,1747
+"Festive Comet","-","-","-","-","-","Destructoy","SUPER|brie+",0.025186033199771037,1747
+"Festive Comet","-","-","-","-","-","Miser","Pecan Pecorino Cheese",0.15409309791332262,1246
+"Festive Comet","-","-","-","-","-","Miser","SUPER|brie+",0.020064205457463884,1246
+"Festive Comet","-","-","-","-","-","Triple Lutz","Pecan Pecorino Cheese",0.6018027571580064,1886
+"Festive Comet","-","-","-","-","-","Triple Lutz","SUPER|brie+",0.02545068928950159,1886
+"Festive Comet","-","-","-","-","-","Ridiculous Sweater","Pecan Pecorino Cheese",0.38653712699514226,1441
+"Festive Comet","-","-","-","-","-","Ridiculous Sweater","SUPER|brie+",0.025676613462873005,1441
+"Festive Comet","-","-","-","-","-","Snow Sorceress","Snow Golem Head",0.1317365269461078,2505
+"Festive Comet","-","-","-","-","-","Snow Sorceress","SUPER|brie+",0.033532934131736525,2505
+"Festive Comet","-","-","-","-","-","Stocking","SUPER|brie+",0.027510316368638238,1454
+"Festive Comet","-","-","-","-","-","Sporty Ski Instructor","Pecan Pecorino Cheese",0.5874294923448832,1241
+"Festive Comet","-","-","-","-","-","Sporty Ski Instructor","SUPER|brie+",0.028203062046736505,1241
+"Festive Comet","-","-","-","-","-","Young Prodigy Racer","Pecan Pecorino Cheese",0.6040816326530613,1225
+"Festive Comet","-","-","-","-","-","Young Prodigy Racer","SUPER|brie+",0.02040816326530612,1225
+"Festive Comet","-","-","-","-","-","Toy","SUPER|brie+",0.02530541012216405,1146
+"Festive Comet","-","-","-","-","-","Borean Commander","Snow Golem Torso",0.1566265060240964,1411
+"Festive Comet","-","-","-","-","-","Borean Commander","SUPER|brie+",0.03401842664776754,1411
+"Festive Comet","-","-","-","-","-","Glacia Ice Fist","Snow Golem Torso",0.6993689041881813,1743
+"Festive Comet","-","-","-","-","-","Glacia Ice Fist","SUPER|brie+",0.02868617326448652,1743
+"Festive Comet","-","-","-","-","-","Confused Courier","Pecan Pecorino Cheese",2,878
+"Festive Comet","-","-","-","-","-","Confused Courier","SUPER|brie+",0.023917995444191344,878
+"Festive Comet","-","-","-","-","-","Tundra Huntress","Winter Charm",0.9492703266157053,1439
+"Festive Comet","-","-","-","-","-","Tundra Huntress","Snow Golem Limb",0.09937456567060458,1439
+"Festive Comet","-","-","-","-","-","Tundra Huntress","SUPER|brie+",0.03127171646977067,1439
+"Festive Comet","-","-","-","-","-","Candy Cane","SUPER|brie+",0.039318479685452164,763
+"Festive Comet","-","-","-","-","-","Christmas Tree","SUPER|brie+",0.026993865030674847,815
+"Festive Comet","-","-","-","-","-","Nutcracker","SUPER|brie+",0.021711366538952746,783
+"Festive Comet","-","-","-","-","-","Present","Pecan Pecorino Cheese",1.4951219512195122,410
+"Festive Comet","-","-","-","-","-","Present","SUPER|brie+",0.02926829268292683,410
+"Festive Comet","-","-","-","-","-","Mouse of Winter Past","Pecan Pecorino Cheese",1.4977578475336324,223
+"Festive Comet","-","-","-","-","-","Mouse of Winter Past","SUPER|brie+",0.04484304932735426,223
+"Festive Comet","-","-","-","-","-","Greedy Al","Pecan Pecorino Cheese",1,201
+"Festive Comet","-","-","-","-","-","Greedy Al","SUPER|brie+",0.03482587064676617,201
+"Festive Comet","-","-","-","-","-","Mouse of Winter Future","Pecan Pecorino Cheese",1.5119617224880382,209
+"Festive Comet","-","-","-","-","-","Mouse of Winter Future","SUPER|brie+",0.014354066985645933,209
+"Festive Comet","-","-","-","-","-","Squeaker Claws","Pecan Pecorino Cheese",1,251
+"Festive Comet","-","-","-","-","-","Squeaker Claws","SUPER|brie+",0.01593625498007968,251
+"Festive Comet","-","-","-","-","-","Rainbow Racer","Pecan Pecorino Cheese",1.484375,192
+"Festive Comet","-","-","-","-","-","Rainbow Racer","SUPER|brie+",0.010416666666666666,192
+"Festive Comet","-","-","-","-","-","Scrooge","Pecan Pecorino Cheese",1,192
+"Festive Comet","-","-","-","-","-","Mad Elf","Pecan Pecorino Cheese",1,213
+"Festive Comet","-","-","-","-","-","Mad Elf","SUPER|brie+",0.014084507042253521,213
+"Festive Comet","-","-","-","-","-","Black Diamond Racer","Pecan Pecorino Cheese",1,205
+"Festive Comet","-","-","-","-","-","Black Diamond Racer","SUPER|brie+",0.03902439024390244,205
+"Festive Comet","-","-","-","-","-","Ornament","Pecan Pecorino Cheese",1,171
+"Festive Comet","-","-","-","-","-","Ornament","SUPER|brie+",0.023391812865497075,171
+"Festive Comet","-","-","-","-","-","Nitro Racer","Pecan Pecorino Cheese",1.4657534246575343,219
+"Festive Comet","-","-","-","-","-","Nitro Racer","SUPER|brie+",0.0273972602739726,219
+"Festive Comet","-","-","-","-","-","Mouse of Winter Present","Pecan Pecorino Cheese",1.4829268292682927,205
+"Festive Comet","-","-","-","-","-","Double Black Diamond Racer","Pecan Pecorino Cheese",1,197
+"Festive Comet","-","-","-","-","-","Double Black Diamond Racer","SUPER|brie+",0.04060913705583756,197
+"Festive Comet","-","-","-","-","-","Stuck Snowball","Winter Charm",1,3916
+"Festive Comet","-","-","-","-","-","Stuck Snowball","SUPER|brie+",0.033707865168539325,3916
+"Festive Comet","-","-","-","-","-","Naughty Nougat","SUPER|brie+",4.76701143168209,1837
+"Festive Comet","-","-","-","-","-","Naughty Nougat","Nugget of Nougat",1,1837
+"Festive Comet","-","-","-","-","-","Naughty Nougat","Magical Winter Hunt Holiday Hat",1,1837
+"Festive Comet","-","-","-","-","-","Naughty Nougat","Ancient Relic",1,1837
+"Festive Comet","-","-","-","-","-","Naughty Nougat","Snow Golem Head",0.2759934676102341,1837
+"Festive Comet","-","-","-","-","-","Naughty Nougat","Snow Golem Torso",0.24333151878062056,1837
+"Festive Comet","-","-","-","-","-","Naughty Nougat","Animated Snow",1.0713119216113227,1837
+"Festive Comet","-","-","-","-","-","Naughty Nougat","Snow Golem Limb",0.6107784431137725,1837
+"Festive Comet","-","-","-","-","-","Naughty Nougat","Snow Golem Theme Scrap I",0.14534567229178008,1837
