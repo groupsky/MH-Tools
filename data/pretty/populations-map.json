@@ -462,7 +462,7 @@
         "Mountain": {
             "-": {
                 "SB+": {
-                    "-": 1.11,
+                    "-": 1.17,
                     "Prospector's": 0.46
                 }
             }
@@ -891,19 +891,19 @@
         "Mountain": {
             "-": {
                 "SB+": {
-                    "-": 11.49,
-                    "Prospector's": 3.91
+                    "-": 12.01,
+                    "Prospector's": 3.96
                 },
                 "Gouda/Brie/Swiss": {
-                    "-": 10.45,
-                    "Prospector's": 5.56
+                    "-": 10.68,
+                    "Prospector's": 5.62
                 },
                 "Marble/Mozzarella": {
-                    "-": 10.29
+                    "-": 10.49
                 },
                 "White Cheddar": {
-                    "-": 11.22,
-                    "Prospector's": 5.31
+                    "-": 11.49,
+                    "Prospector's": 5.38
                 }
             }
         },
@@ -1050,19 +1050,19 @@
         "Mountain": {
             "-": {
                 "SB+": {
-                    "-": 12.12,
-                    "Prospector's": 4.39
+                    "-": 12.67,
+                    "Prospector's": 4.45
                 },
                 "Gouda/Brie/Swiss": {
-                    "-": 11.39,
-                    "Prospector's": 6.49
+                    "-": 11.64,
+                    "Prospector's": 6.56
                 },
                 "Marble/Mozzarella": {
-                    "-": 11.8
+                    "-": 12.03
                 },
                 "White Cheddar": {
-                    "-": 12.77,
-                    "Prospector's": 6.56
+                    "-": 13.07,
+                    "Prospector's": 6.65
                 }
             }
         },
@@ -1209,19 +1209,19 @@
         "Mountain": {
             "-": {
                 "SB+": {
-                    "-": 12.59,
-                    "Prospector's": 3.83
+                    "-": 13.16,
+                    "Prospector's": 3.88
                 },
                 "Gouda/Brie/Swiss": {
-                    "-": 11.85,
-                    "Prospector's": 5.73
+                    "-": 12.11,
+                    "Prospector's": 5.79
                 },
                 "Marble/Mozzarella": {
-                    "-": 12.07
+                    "-": 12.31
                 },
                 "White Cheddar": {
-                    "-": 14.57,
-                    "Prospector's": 6.19
+                    "-": 14.91,
+                    "Prospector's": 6.27
                 }
             }
         },
@@ -1620,19 +1620,19 @@
         "Mountain": {
             "-": {
                 "SB+": {
-                    "-": 4.46,
-                    "Prospector's": 1.48
+                    "-": 4.66,
+                    "Prospector's": 1.5
                 },
                 "Gouda/Brie/Swiss": {
-                    "-": 10.87,
-                    "Prospector's": 5.7
+                    "-": 11.11,
+                    "Prospector's": 5.76
                 },
                 "Marble/Mozzarella": {
-                    "-": 12.62
+                    "-": 12.87
                 },
                 "White Cheddar": {
-                    "-": 12.25,
-                    "Prospector's": 6.63
+                    "-": 12.54,
+                    "Prospector's": 6.71
                 }
             }
         },
@@ -1811,19 +1811,19 @@
         "Mountain": {
             "-": {
                 "SB+": {
-                    "-": 1.13,
-                    "Prospector's": 0.59
+                    "-": 1.18,
+                    "Prospector's": 0.6
                 },
                 "Gouda/Brie/Swiss": {
-                    "-": 2.21,
-                    "Prospector's": 1
+                    "-": 2.25,
+                    "Prospector's": 1.01
                 },
                 "Marble/Mozzarella": {
-                    "-": 1.65
+                    "-": 1.68
                 },
                 "White Cheddar": {
-                    "-": 2.12,
-                    "Prospector's": 1.19
+                    "-": 2.17,
+                    "Prospector's": 1.2
                 }
             }
         },
@@ -4461,7 +4461,7 @@
     },
     "Saloon Gal": {
         "Claw Shot City": {
-            "Hunting Bounty Hunter": {
+            "No Wanted Poster Open": {
                 "SB+": {
                     "-": 15.64
                 },
@@ -4473,7 +4473,7 @@
     },
     "Lasso Cowgirl": {
         "Claw Shot City": {
-            "Hunting Bounty Hunter": {
+            "No Wanted Poster Open": {
                 "SB+": {
                     "-": 15.71
                 },
@@ -4485,7 +4485,7 @@
     },
     "Tumbleweed": {
         "Claw Shot City": {
-            "Hunting Bounty Hunter": {
+            "No Wanted Poster Open": {
                 "SB+": {
                     "-": 15.27
                 },
@@ -4497,7 +4497,7 @@
     },
     "Shopkeeper": {
         "Claw Shot City": {
-            "Hunting Bounty Hunter": {
+            "No Wanted Poster Open": {
                 "SB+": {
                     "-": 15.74
                 },
@@ -4509,7 +4509,7 @@
     },
     "Ruffian": {
         "Claw Shot City": {
-            "Hunting Bounty Hunter": {
+            "No Wanted Poster Open": {
                 "SB+": {
                     "-": 15.02
                 },
@@ -4521,7 +4521,7 @@
     },
     "Bounty Hunter": {
         "Claw Shot City": {
-            "Hunting Bounty Hunter": {
+            "No Wanted Poster Open": {
                 "SB+": {
                     "-": 13.51
                 },
@@ -4533,7 +4533,7 @@
     },
     "Prospector": {
         "Claw Shot City": {
-            "Hunting Bounty Hunter": {
+            "No Wanted Poster Open": {
                 "SB+": {
                     "-": 6.09
                 },
@@ -4545,7 +4545,7 @@
     },
     "Pyrite": {
         "Claw Shot City": {
-            "Hunting Bounty Hunter": {
+            "No Wanted Poster Open": {
                 "SB+": {
                     "-": 3.02
                 },
@@ -5101,19 +5101,19 @@
         "Mountain": {
             "-": {
                 "SB+": {
-                    "-": 9,
-                    "Prospector's": 2.8
+                    "-": 9.41,
+                    "Prospector's": 2.84
                 },
                 "Gouda/Brie/Swiss": {
-                    "-": 8.54,
-                    "Prospector's": 5.59
+                    "-": 8.72,
+                    "Prospector's": 5.65
                 },
                 "Marble/Mozzarella": {
-                    "-": 7.13
+                    "-": 7.27
                 },
                 "White Cheddar": {
-                    "-": 9.68,
-                    "Prospector's": 6.5
+                    "-": 9.91,
+                    "Prospector's": 6.58
                 }
             }
         },
@@ -5251,19 +5251,19 @@
         "Mountain": {
             "-": {
                 "SB+": {
-                    "-": 4.58,
-                    "Prospector's": 19.11
+                    "-": 4.79,
+                    "Prospector's": 19.37
                 },
                 "Gouda/Brie/Swiss": {
-                    "-": 10.62,
-                    "Prospector's": 28.56
+                    "-": 10.86,
+                    "Prospector's": 28.87
                 },
                 "Marble/Mozzarella": {
-                    "-": 11.66
+                    "-": 11.89
                 },
                 "White Cheddar": {
-                    "-": 11.22,
-                    "Prospector's": 30.63
+                    "-": 11.49,
+                    "Prospector's": 31.01
                 }
             }
         },
@@ -5528,19 +5528,19 @@
         "Mountain": {
             "-": {
                 "SB+": {
-                    "-": 4.5,
-                    "Prospector's": 18.19
+                    "-": 4.7,
+                    "Prospector's": 18.44
                 },
                 "Gouda/Brie/Swiss": {
-                    "-": 10.91,
-                    "Prospector's": 28.59
+                    "-": 11.15,
+                    "Prospector's": 28.9
                 },
                 "Marble/Mozzarella": {
-                    "-": 11.39
+                    "-": 11.61
                 },
                 "White Cheddar": {
-                    "-": 11.4,
-                    "Prospector's": 30.38
+                    "-": 11.67,
+                    "Prospector's": 30.76
                 }
             }
         },
@@ -9418,15 +9418,15 @@
         "Mountain": {
             "-": {
                 "SB+": {
-                    "-": 1.16,
-                    "Prospector's": 0.32
+                    "-": 1.22,
+                    "Prospector's": 0.33
                 },
                 "Gouda/Brie/Swiss": {
-                    "-": 4.21,
-                    "Prospector's": 2.29
+                    "-": 4.3,
+                    "Prospector's": 2.32
                 },
                 "Marble/Mozzarella": {
-                    "-": 4.39
+                    "-": 4.48
                 }
             }
         },
@@ -9539,15 +9539,15 @@
         "Mountain": {
             "-": {
                 "SB+": {
-                    "-": 1.14,
+                    "-": 1.19,
                     "Prospector's": 0.3
                 },
                 "Gouda/Brie/Swiss": {
-                    "-": 3.16,
-                    "Prospector's": 1.4
+                    "-": 3.23,
+                    "Prospector's": 1.41
                 },
                 "Marble/Mozzarella": {
-                    "-": 2.19
+                    "-": 2.24
                 }
             }
         },
@@ -9660,15 +9660,15 @@
         "Mountain": {
             "-": {
                 "SB+": {
-                    "-": 1.17,
-                    "Prospector's": 0.35
+                    "-": 1.23,
+                    "Prospector's": 0.36
                 },
                 "Gouda/Brie/Swiss": {
-                    "-": 3.12,
-                    "Prospector's": 1.85
+                    "-": 3.19,
+                    "Prospector's": 1.87
                 },
                 "Marble/Mozzarella": {
-                    "-": 2.88
+                    "-": 2.94
                 }
             }
         },
@@ -9944,8 +9944,8 @@
         "Mountain": {
             "-": {
                 "SB+": {
-                    "-": 6.76,
-                    "Prospector's": 2.75
+                    "-": 7.07,
+                    "Prospector's": 2.79
                 }
             }
         }
@@ -9968,8 +9968,8 @@
         "Mountain": {
             "-": {
                 "SB+": {
-                    "-": 9.12,
-                    "Prospector's": 34.45
+                    "-": 9.54,
+                    "Prospector's": 34.92
                 }
             }
         },
@@ -10028,6 +10028,17 @@
                 },
                 "Brie": {
                     "-": 29.97
+                }
+            },
+            "Treacherous Tunnels (Ultimate Iceberg)": {
+                "SB+": {
+                    "-": 8.05
+                },
+                "Gouda": {
+                    "-": 8.05
+                },
+                "Brie": {
+                    "-": 8.05
                 }
             }
         },
@@ -10107,6 +10118,28 @@
                 },
                 "Brie": {
                     "-": 10.87
+                }
+            },
+            "Treacherous Tunnels (Ultimate Iceberg)": {
+                "SB+": {
+                    "-": 11.07
+                },
+                "Gouda": {
+                    "-": 11.07
+                },
+                "Brie": {
+                    "-": 11.07
+                }
+            },
+            "Bombing Run (Ultimate Iceberg)": {
+                "SB+": {
+                    "-": 9.77
+                },
+                "Gouda": {
+                    "-": 9.77
+                },
+                "Brie": {
+                    "-": 9.77
                 }
             }
         },
@@ -10209,6 +10242,39 @@
                 "Brie": {
                     "-": 8.64
                 }
+            },
+            "Treacherous Tunnels (Ultimate Iceberg)": {
+                "SB+": {
+                    "-": 29.7
+                },
+                "Gouda": {
+                    "-": 29.7
+                },
+                "Brie": {
+                    "-": 29.7
+                }
+            },
+            "Bombing Run (Ultimate Iceberg)": {
+                "SB+": {
+                    "-": 18.93
+                },
+                "Gouda": {
+                    "-": 18.93
+                },
+                "Brie": {
+                    "-": 18.93
+                }
+            },
+            "The Mad Depths (Ultimate Iceberg)": {
+                "SB+": {
+                    "-": 12.47
+                },
+                "Gouda": {
+                    "-": 12.47
+                },
+                "Brie": {
+                    "-": 12.47
+                }
             }
         },
         "Slushy Shoreline": {
@@ -10277,6 +10343,28 @@
                 "Brie": {
                     "-": 19.36
                 }
+            },
+            "Treacherous Tunnels (Ultimate Iceberg)": {
+                "SB+": {
+                    "-": 28.86
+                },
+                "Gouda": {
+                    "-": 28.86
+                },
+                "Brie": {
+                    "-": 28.86
+                }
+            },
+            "Bombing Run (Ultimate Iceberg)": {
+                "SB+": {
+                    "-": 19.6
+                },
+                "Gouda": {
+                    "-": 19.6
+                },
+                "Brie": {
+                    "-": 19.6
+                }
             }
         },
         "Slushy Shoreline": {
@@ -10319,6 +10407,17 @@
                 "Brie": {
                     "-": 9.4
                 }
+            },
+            "Treacherous Tunnels (Ultimate Iceberg)": {
+                "SB+": {
+                    "-": 11.74
+                },
+                "Gouda": {
+                    "-": 11.74
+                },
+                "Brie": {
+                    "-": 11.74
+                }
             }
         },
         "Slushy Shoreline": {
@@ -10360,6 +10459,17 @@
                 },
                 "Brie": {
                     "-": 10.33
+                }
+            },
+            "Treacherous Tunnels (Ultimate Iceberg)": {
+                "SB+": {
+                    "-": 9.4
+                },
+                "Gouda": {
+                    "-": 9.4
+                },
+                "Brie": {
+                    "-": 9.4
                 }
             }
         },
@@ -10481,6 +10591,39 @@
                 "Gouda": {
                     "-": 34.13
                 }
+            },
+            "Treacherous Tunnels (Ultimate Iceberg)": {
+                "SB+": {
+                    "-": 1.17
+                },
+                "Gouda": {
+                    "-": 1.17
+                },
+                "Brie": {
+                    "-": 1.17
+                }
+            },
+            "Bombing Run (Ultimate Iceberg)": {
+                "SB+": {
+                    "-": 0.96
+                },
+                "Gouda": {
+                    "-": 0.96
+                },
+                "Brie": {
+                    "-": 0.96
+                }
+            },
+            "The Mad Depths (Ultimate Iceberg)": {
+                "SB+": {
+                    "-": 0.8
+                },
+                "Gouda": {
+                    "-": 0.8
+                },
+                "Brie": {
+                    "-": 0.8
+                }
             }
         }
     },
@@ -10550,6 +10693,28 @@
                 },
                 "Brie": {
                     "-": 17.95
+                }
+            },
+            "Bombing Run (Ultimate Iceberg)": {
+                "SB+": {
+                    "-": 10.45
+                },
+                "Gouda": {
+                    "-": 10.45
+                },
+                "Brie": {
+                    "-": 10.45
+                }
+            },
+            "The Mad Depths (Ultimate Iceberg)": {
+                "SB+": {
+                    "-": 24.14
+                },
+                "Gouda": {
+                    "-": 24.14
+                },
+                "Brie": {
+                    "-": 24.14
                 }
             }
         }
@@ -10652,6 +10817,28 @@
                 "Brie": {
                     "-": 5.57
                 }
+            },
+            "Bombing Run (Ultimate Iceberg)": {
+                "SB+": {
+                    "-": 5.65
+                },
+                "Gouda": {
+                    "-": 5.65
+                },
+                "Brie": {
+                    "-": 5.65
+                }
+            },
+            "The Mad Depths (Ultimate Iceberg)": {
+                "SB+": {
+                    "-": 5.57
+                },
+                "Gouda": {
+                    "-": 5.57
+                },
+                "Brie": {
+                    "-": 5.57
+                }
             }
         },
         "Slushy Shoreline": {
@@ -10746,6 +10933,28 @@
                 "Brie": {
                     "-": 20.73
                 }
+            },
+            "Bombing Run (Ultimate Iceberg)": {
+                "SB+": {
+                    "-": 9.55
+                },
+                "Gouda": {
+                    "-": 9.55
+                },
+                "Brie": {
+                    "-": 9.55
+                }
+            },
+            "The Mad Depths (Ultimate Iceberg)": {
+                "SB+": {
+                    "-": 26.53
+                },
+                "Gouda": {
+                    "-": 26.53
+                },
+                "Brie": {
+                    "-": 26.53
+                }
             }
         }
     },
@@ -10772,6 +10981,17 @@
                 "Brie": {
                     "-": 8.97
                 }
+            },
+            "Bombing Run (Ultimate Iceberg)": {
+                "SB+": {
+                    "-": 10.68
+                },
+                "Gouda": {
+                    "-": 10.68
+                },
+                "Brie": {
+                    "-": 10.68
+                }
             }
         }
     },
@@ -10797,6 +11017,17 @@
                 },
                 "Brie": {
                     "-": 9.99
+                }
+            },
+            "Bombing Run (Ultimate Iceberg)": {
+                "SB+": {
+                    "-": 9.72
+                },
+                "Gouda": {
+                    "-": 9.72
+                },
+                "Brie": {
+                    "-": 9.72
                 }
             }
         },
@@ -10840,6 +11071,17 @@
                 "Brie": {
                     "-": 5.23
                 }
+            },
+            "Bombing Run (Ultimate Iceberg)": {
+                "SB+": {
+                    "-": 4.69
+                },
+                "Gouda": {
+                    "-": 4.69
+                },
+                "Brie": {
+                    "-": 4.69
+                }
             }
         }
     },
@@ -10876,6 +11118,17 @@
                 },
                 "Brie": {
                     "-": 14.68
+                }
+            },
+            "The Mad Depths (Ultimate Iceberg)": {
+                "SB+": {
+                    "-": 18.83
+                },
+                "Gouda": {
+                    "-": 18.83
+                },
+                "Brie": {
+                    "-": 18.83
                 }
             }
         }
@@ -10914,6 +11167,17 @@
                 "Brie": {
                     "-": 14.59
                 }
+            },
+            "The Mad Depths (Ultimate Iceberg)": {
+                "SB+": {
+                    "-": 6.63
+                },
+                "Gouda": {
+                    "-": 6.63
+                },
+                "Brie": {
+                    "-": 6.63
+                }
             }
         }
     },
@@ -10950,6 +11214,17 @@
                 },
                 "Brie": {
                     "-": 15.83
+                }
+            },
+            "The Mad Depths (Ultimate Iceberg)": {
+                "SB+": {
+                    "-": 5.04
+                },
+                "Gouda": {
+                    "-": 5.04
+                },
+                "Brie": {
+                    "-": 5.04
                 }
             }
         }
@@ -13995,8 +14270,8 @@
         "Mountain": {
             "-": {
                 "SB+": {
-                    "-": 5.52,
-                    "Prospector's": 2.53
+                    "-": 5.76,
+                    "Prospector's": 2.57
                 }
             }
         }
@@ -14005,19 +14280,19 @@
         "Mountain": {
             "-": {
                 "SB+": {
-                    "-": 5.35,
-                    "Prospector's": 1.94
+                    "-": 5.6,
+                    "Prospector's": 1.97
                 },
                 "Gouda/Brie/Swiss": {
-                    "-": 10.54,
-                    "Prospector's": 6.17
+                    "-": 10.77,
+                    "Prospector's": 6.23
                 },
                 "Marble/Mozzarella": {
-                    "-": 10.01
+                    "-": 10.21
                 },
                 "White Cheddar": {
-                    "-": 12.45,
-                    "Prospector's": 5.38
+                    "-": 12.74,
+                    "Prospector's": 5.44
                 }
             }
         }
@@ -14026,8 +14301,8 @@
         "Mountain": {
             "-": {
                 "SB+": {
-                    "-": 4.45,
-                    "Prospector's": 1.24
+                    "-": 4.65,
+                    "Prospector's": 1.26
                 }
             }
         }
@@ -14035,20 +14310,35 @@
     "Abominable Snow": {
         "Mountain": {
             "-": {
-                "SB+": {
-                    "-": 4.32,
-                    "Prospector's": 1.35
-                },
-                "Gouda/Brie/Swiss": {
-                    "-": 2.15,
-                    "Prospector's": 1.08
-                },
-                "Marble/Mozzarella": {
-                    "-": 1.92
-                },
-                "White Cheddar": {
-                    "-": 2.32,
-                    "Prospector's": 1.25
+                "Abominable Asiago": {
+                    "-": 100
+                }
+            }
+        }
+    },
+    "Craggy Ore": {
+        "Mountain": {
+            "-": {
+                "Chedd-Ore": {
+                    "-": 42.5
+                }
+            }
+        }
+    },
+    "Slope Swimmer": {
+        "Mountain": {
+            "-": {
+                "Chedd-Ore": {
+                    "-": 38.2
+                }
+            }
+        }
+    },
+    "Mountain": {
+        "Mountain": {
+            "-": {
+                "Chedd-Ore": {
+                    "-": 19.31
                 }
             }
         }
@@ -20290,7 +20580,7 @@
     },
     "Rain Wallower": {
         "Moussu Picchu": {
-            "Rain Low": {
+            "Rain low": {
                 "Rainy": {
                     "-": 60
                 }
@@ -20299,7 +20589,7 @@
     },
     "Rain Collector": {
         "Moussu Picchu": {
-            "Rain Low": {
+            "Rain low": {
                 "Rainy": {
                     "-": 40
                 }
@@ -20308,7 +20598,7 @@
     },
     "Rain Summoner": {
         "Moussu Picchu": {
-            "Rain Medium": {
+            "Rain medium": {
                 "Rainy": {
                     "-": 58
                 }
@@ -20317,12 +20607,12 @@
     },
     "Monsoon Maker": {
         "Moussu Picchu": {
-            "Rain Medium": {
+            "Rain medium": {
                 "Rainy": {
                     "-": 42
                 }
             },
-            "Rain High": {
+            "Rain high": {
                 "Rainy": {
                     "-": 58
                 }
@@ -20331,12 +20621,12 @@
     },
     "Rainmancer": {
         "Moussu Picchu": {
-            "Rain High": {
+            "Rain high": {
                 "Rainy": {
                     "-": 42
                 }
             },
-            "Rain Max": {
+            "Rain max": {
                 "Rainy": {
                     "-": 100
                 }
@@ -20345,7 +20635,7 @@
     },
     "Wind Watcher": {
         "Moussu Picchu": {
-            "Wind Low": {
+            "Wind low": {
                 "Windy": {
                     "-": 60
                 }
@@ -20354,7 +20644,7 @@
     },
     "Charming Chimer": {
         "Moussu Picchu": {
-            "Wind Low": {
+            "Wind low": {
                 "Windy": {
                     "-": 40
                 }
@@ -20363,7 +20653,7 @@
     },
     "Fluttering Flutist": {
         "Moussu Picchu": {
-            "Wind Medium": {
+            "Wind medium": {
                 "Windy": {
                     "-": 58
                 }
@@ -20372,12 +20662,12 @@
     },
     "Cycloness": {
         "Moussu Picchu": {
-            "Wind Medium": {
+            "Wind medium": {
                 "Windy": {
                     "-": 42
                 }
             },
-            "Wind High": {
+            "Wind high": {
                 "Windy": {
                     "-": 58
                 }
@@ -20386,12 +20676,12 @@
     },
     "Wind Warrior": {
         "Moussu Picchu": {
-            "Wind High": {
+            "Wind high": {
                 "Windy": {
                     "-": 42
                 }
             },
-            "Wind Max": {
+            "Wind max": {
                 "Windy": {
                     "-": 100
                 }
@@ -20400,7 +20690,7 @@
     },
     "Thunder Strike": {
         "Moussu Picchu": {
-            "Storm Low": {
+            "Storm low": {
                 "Dragonvine": {
                     "-": 60
                 }
@@ -20409,7 +20699,7 @@
     },
     "Violet Stormchild": {
         "Moussu Picchu": {
-            "Storm Low": {
+            "Storm low": {
                 "Dragonvine": {
                     "-": 40
                 }
@@ -20418,7 +20708,7 @@
     },
     "Thunderlord": {
         "Moussu Picchu": {
-            "Storm Medium": {
+            "Storm medium": {
                 "Dragonvine": {
                     "-": 58
                 }
@@ -20427,26 +20717,26 @@
     },
     "Thundering Watcher": {
         "Moussu Picchu": {
-            "Storm Medium": {
+            "Storm medium": {
                 "Dragonvine": {
                     "-": 42
                 }
             },
-            "Storm High": {
+            "Storm high": {
                 "Dragonvine": {
                     "-": 60
                 }
             }
         }
     },
-    "Ful'Mina": {
+    "Ful'Mina, The Mountain Queen": {
         "Moussu Picchu": {
-            "Storm High": {
+            "Storm high": {
                 "Dragonvine": {
                     "-": 35
                 }
             },
-            "Storm Max": {
+            "Storm max": {
                 "Dragonvine": {
                     "-": 100
                 }
@@ -20455,7 +20745,7 @@
     },
     "Dragoon": {
         "Moussu Picchu": {
-            "Storm High": {
+            "Storm high": {
                 "Dragonvine": {
                     "-": 5
                 }
@@ -21900,15 +22190,6 @@
                 },
                 "Brie String": {
                     "-": 39.21
-                }
-            }
-        }
-    },
-    "Mouse": {
-        "Location": {
-            "Phase": {
-                "Cheese": {
-                    "Charm": "Attraction Rate"
                 }
             }
         }

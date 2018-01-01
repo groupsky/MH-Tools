@@ -932,7 +932,7 @@
                 }
             }
         },
-        "Hunting Bounty Hunter": {
+        "No Wanted Poster Open": {
             "SB+": {
                 "-": {
                     "Saloon Gal": 15.64,
@@ -5669,6 +5669,132 @@
                     "Deep": 100
                 }
             }
+        },
+        "Treacherous Tunnels (Ultimate Iceberg)": {
+            "SB+": {
+                "-": {
+                    "Chipper": 29.7,
+                    "SampleSize": 596,
+                    "Icebreaker": 28.86,
+                    "Incompetent Ice Climber": 11.74,
+                    "Snow Slinger": 11.07,
+                    "Snow Soldier": 9.4,
+                    "Polar Bear": 8.05,
+                    "Living Salt": 1.17
+                }
+            },
+            "Gouda": {
+                "-": {
+                    "Chipper": 29.7,
+                    "SampleSize": 596,
+                    "Icebreaker": 28.86,
+                    "Incompetent Ice Climber": 11.74,
+                    "Snow Slinger": 11.07,
+                    "Snow Soldier": 9.4,
+                    "Polar Bear": 8.05,
+                    "Living Salt": 1.17
+                }
+            },
+            "Brie": {
+                "-": {
+                    "Chipper": 29.7,
+                    "SampleSize": 596,
+                    "Icebreaker": 28.86,
+                    "Incompetent Ice Climber": 11.74,
+                    "Snow Slinger": 11.07,
+                    "Snow Soldier": 9.4,
+                    "Polar Bear": 8.05,
+                    "Living Salt": 1.17
+                }
+            }
+        },
+        "Bombing Run (Ultimate Iceberg)": {
+            "SB+": {
+                "-": {
+                    "Icebreaker": 19.6,
+                    "SampleSize": 1770,
+                    "Chipper": 18.93,
+                    "Stickybomber": 10.68,
+                    "Iceblock": 10.45,
+                    "Snow Slinger": 9.77,
+                    "Saboteur": 9.72,
+                    "Wolfskie": 9.55,
+                    "Snow Bowler": 5.65,
+                    "Heavy Blaster": 4.69,
+                    "Living Salt": 0.96
+                }
+            },
+            "Gouda": {
+                "-": {
+                    "Icebreaker": 19.6,
+                    "SampleSize": 1770,
+                    "Chipper": 18.93,
+                    "Stickybomber": 10.68,
+                    "Iceblock": 10.45,
+                    "Snow Slinger": 9.77,
+                    "Saboteur": 9.72,
+                    "Wolfskie": 9.55,
+                    "Snow Bowler": 5.65,
+                    "Heavy Blaster": 4.69,
+                    "Living Salt": 0.96
+                }
+            },
+            "Brie": {
+                "-": {
+                    "Icebreaker": 19.6,
+                    "SampleSize": 1770,
+                    "Chipper": 18.93,
+                    "Stickybomber": 10.68,
+                    "Iceblock": 10.45,
+                    "Snow Slinger": 9.77,
+                    "Saboteur": 9.72,
+                    "Wolfskie": 9.55,
+                    "Snow Bowler": 5.65,
+                    "Heavy Blaster": 4.69,
+                    "Living Salt": 0.96
+                }
+            }
+        },
+        "The Mad Depths (Ultimate Iceberg)": {
+            "SB+": {
+                "-": {
+                    "Wolfskie": 26.53,
+                    "SampleSize": 377,
+                    "Iceblock": 24.14,
+                    "Snowblind": 18.83,
+                    "Chipper": 12.47,
+                    "Iceblade": 6.63,
+                    "Snow Bowler": 5.57,
+                    "Water Wielder": 5.04,
+                    "Living Salt": 0.8
+                }
+            },
+            "Gouda": {
+                "-": {
+                    "Wolfskie": 26.53,
+                    "SampleSize": 377,
+                    "Iceblock": 24.14,
+                    "Snowblind": 18.83,
+                    "Chipper": 12.47,
+                    "Iceblade": 6.63,
+                    "Snow Bowler": 5.57,
+                    "Water Wielder": 5.04,
+                    "Living Salt": 0.8
+                }
+            },
+            "Brie": {
+                "-": {
+                    "Wolfskie": 26.53,
+                    "SampleSize": 377,
+                    "Iceblock": 24.14,
+                    "Snowblind": 18.83,
+                    "Chipper": 12.47,
+                    "Iceblade": 6.63,
+                    "Snow Bowler": 5.57,
+                    "Water Wielder": 5.04,
+                    "Living Salt": 0.8
+                }
+            }
         }
     },
     "Jungle of Dread": {
@@ -7464,212 +7590,213 @@
         "-": {
             "SB+": {
                 "-": {
-                    "Steel": 12.59,
-                    "SampleSize": 43680,
-                    "Granite": 12.12,
-                    "Bionic": 11.49,
-                    "Silvertail": 9.12,
-                    "Ninja": 9,
-                    "Fog": 6.76,
-                    "Frosty Snow": 5.52,
-                    "Frozen": 5.35,
-                    "Gold": 4.58,
-                    "Diamond": 4.5,
-                    "Dwarf": 4.46,
-                    "Pebble": 4.45,
-                    "Abominable Snow": 4.32,
-                    "White": 1.17,
-                    "Brown": 1.16,
-                    "Grey": 1.14,
-                    "Zombie": 1.13,
-                    "Black Widow": 1.11
+                    "Steel": 13.16,
+                    "SampleSize": 41792,
+                    "Granite": 12.67,
+                    "Bionic": 12.01,
+                    "Silvertail": 9.54,
+                    "Ninja": 9.41,
+                    "Fog": 7.07,
+                    "Frosty Snow": 5.76,
+                    "Frozen": 5.6,
+                    "Gold": 4.79,
+                    "Diamond": 4.7,
+                    "Dwarf": 4.66,
+                    "Pebble": 4.65,
+                    "White": 1.23,
+                    "Brown": 1.22,
+                    "Grey": 1.19,
+                    "Zombie": 1.18,
+                    "Black Widow": 1.17
                 },
                 "Prospector's": {
-                    "Silvertail": 34.45,
-                    "SampleSize": 3710,
-                    "Gold": 19.11,
-                    "Diamond": 18.19,
-                    "Granite": 4.39,
-                    "Bionic": 3.91,
-                    "Steel": 3.83,
-                    "Ninja": 2.8,
-                    "Fog": 2.75,
-                    "Frosty Snow": 2.53,
-                    "Frozen": 1.94,
-                    "Dwarf": 1.48,
-                    "Abominable Snow": 1.35,
-                    "Pebble": 1.24,
-                    "Zombie": 0.59,
+                    "Silvertail": 34.92,
+                    "SampleSize": 3660,
+                    "Gold": 19.37,
+                    "Diamond": 18.44,
+                    "Granite": 4.45,
+                    "Bionic": 3.96,
+                    "Steel": 3.88,
+                    "Ninja": 2.84,
+                    "Fog": 2.79,
+                    "Frosty Snow": 2.57,
+                    "Frozen": 1.97,
+                    "Dwarf": 1.5,
+                    "Pebble": 1.26,
+                    "Zombie": 0.6,
                     "Black Widow": 0.46,
-                    "White": 0.35,
-                    "Brown": 0.32,
+                    "White": 0.36,
+                    "Brown": 0.33,
                     "Grey": 0.3
                 }
             },
             "Gouda": {
                 "-": {
-                    "Steel": 11.85,
-                    "SampleSize": 27967,
-                    "Granite": 11.39,
-                    "Diamond": 10.91,
-                    "Dwarf": 10.87,
-                    "Gold": 10.62,
-                    "Frozen": 10.54,
-                    "Bionic": 10.45,
-                    "Ninja": 8.54,
-                    "Brown": 4.21,
-                    "Grey": 3.16,
-                    "White": 3.12,
-                    "Zombie": 2.21,
-                    "Abominable Snow": 2.15
+                    "Steel": 12.11,
+                    "SampleSize": 27365,
+                    "Granite": 11.64,
+                    "Diamond": 11.15,
+                    "Dwarf": 11.11,
+                    "Gold": 10.86,
+                    "Frozen": 10.77,
+                    "Bionic": 10.68,
+                    "Ninja": 8.72,
+                    "Brown": 4.3,
+                    "Grey": 3.23,
+                    "White": 3.19,
+                    "Zombie": 2.25
                 },
                 "Prospector's": {
-                    "Diamond": 28.59,
-                    "SampleSize": 6583,
-                    "Gold": 28.56,
-                    "Granite": 6.49,
-                    "Frozen": 6.17,
-                    "Steel": 5.73,
-                    "Dwarf": 5.7,
-                    "Ninja": 5.59,
-                    "Bionic": 5.56,
-                    "Brown": 2.29,
-                    "White": 1.85,
-                    "Grey": 1.4,
-                    "Abominable Snow": 1.08,
-                    "Zombie": 1
+                    "Diamond": 28.9,
+                    "SampleSize": 6512,
+                    "Gold": 28.87,
+                    "Granite": 6.56,
+                    "Frozen": 6.23,
+                    "Steel": 5.79,
+                    "Dwarf": 5.76,
+                    "Ninja": 5.65,
+                    "Bionic": 5.62,
+                    "Brown": 2.32,
+                    "White": 1.87,
+                    "Grey": 1.41,
+                    "Zombie": 1.01
                 }
             },
             "Brie": {
                 "-": {
-                    "Steel": 11.85,
-                    "SampleSize": 27967,
-                    "Granite": 11.39,
-                    "Diamond": 10.91,
-                    "Dwarf": 10.87,
-                    "Gold": 10.62,
-                    "Frozen": 10.54,
-                    "Bionic": 10.45,
-                    "Ninja": 8.54,
-                    "Brown": 4.21,
-                    "Grey": 3.16,
-                    "White": 3.12,
-                    "Zombie": 2.21,
-                    "Abominable Snow": 2.15
+                    "Steel": 12.11,
+                    "SampleSize": 27365,
+                    "Granite": 11.64,
+                    "Diamond": 11.15,
+                    "Dwarf": 11.11,
+                    "Gold": 10.86,
+                    "Frozen": 10.77,
+                    "Bionic": 10.68,
+                    "Ninja": 8.72,
+                    "Brown": 4.3,
+                    "Grey": 3.23,
+                    "White": 3.19,
+                    "Zombie": 2.25
                 },
                 "Prospector's": {
-                    "Diamond": 28.59,
-                    "SampleSize": 6583,
-                    "Gold": 28.56,
-                    "Granite": 6.49,
-                    "Frozen": 6.17,
-                    "Steel": 5.73,
-                    "Dwarf": 5.7,
-                    "Ninja": 5.59,
-                    "Bionic": 5.56,
-                    "Brown": 2.29,
-                    "White": 1.85,
-                    "Grey": 1.4,
-                    "Abominable Snow": 1.08,
-                    "Zombie": 1
+                    "Diamond": 28.9,
+                    "SampleSize": 6512,
+                    "Gold": 28.87,
+                    "Granite": 6.56,
+                    "Frozen": 6.23,
+                    "Steel": 5.79,
+                    "Dwarf": 5.76,
+                    "Ninja": 5.65,
+                    "Bionic": 5.62,
+                    "Brown": 2.32,
+                    "White": 1.87,
+                    "Grey": 1.41,
+                    "Zombie": 1.01
                 }
             },
             "Swiss": {
                 "-": {
-                    "Steel": 11.85,
-                    "SampleSize": 27967,
-                    "Granite": 11.39,
-                    "Diamond": 10.91,
-                    "Dwarf": 10.87,
-                    "Gold": 10.62,
-                    "Frozen": 10.54,
-                    "Bionic": 10.45,
-                    "Ninja": 8.54,
-                    "Brown": 4.21,
-                    "Grey": 3.16,
-                    "White": 3.12,
-                    "Zombie": 2.21,
-                    "Abominable Snow": 2.15
+                    "Steel": 12.11,
+                    "SampleSize": 27365,
+                    "Granite": 11.64,
+                    "Diamond": 11.15,
+                    "Dwarf": 11.11,
+                    "Gold": 10.86,
+                    "Frozen": 10.77,
+                    "Bionic": 10.68,
+                    "Ninja": 8.72,
+                    "Brown": 4.3,
+                    "Grey": 3.23,
+                    "White": 3.19,
+                    "Zombie": 2.25
                 },
                 "Prospector's": {
-                    "Diamond": 28.59,
-                    "SampleSize": 6583,
-                    "Gold": 28.56,
-                    "Granite": 6.49,
-                    "Frozen": 6.17,
-                    "Steel": 5.73,
-                    "Dwarf": 5.7,
-                    "Ninja": 5.59,
-                    "Bionic": 5.56,
-                    "Brown": 2.29,
-                    "White": 1.85,
-                    "Grey": 1.4,
-                    "Abominable Snow": 1.08,
-                    "Zombie": 1
+                    "Diamond": 28.9,
+                    "SampleSize": 6512,
+                    "Gold": 28.87,
+                    "Granite": 6.56,
+                    "Frozen": 6.23,
+                    "Steel": 5.79,
+                    "Dwarf": 5.76,
+                    "Ninja": 5.65,
+                    "Bionic": 5.62,
+                    "Brown": 2.32,
+                    "White": 1.87,
+                    "Grey": 1.41,
+                    "Zombie": 1.01
                 }
             },
             "Marble": {
                 "-": {
-                    "Dwarf": 12.62,
-                    "SampleSize": 729,
-                    "Steel": 12.07,
-                    "Granite": 11.8,
-                    "Gold": 11.66,
-                    "Diamond": 11.39,
-                    "Bionic": 10.29,
-                    "Frozen": 10.01,
-                    "Ninja": 7.13,
-                    "Brown": 4.39,
-                    "White": 2.88,
-                    "Grey": 2.19,
-                    "Abominable Snow": 1.92,
-                    "Zombie": 1.65
+                    "Dwarf": 12.87,
+                    "SampleSize": 715,
+                    "Steel": 12.31,
+                    "Granite": 12.03,
+                    "Gold": 11.89,
+                    "Diamond": 11.61,
+                    "Bionic": 10.49,
+                    "Frozen": 10.21,
+                    "Ninja": 7.27,
+                    "Brown": 4.48,
+                    "White": 2.94,
+                    "Grey": 2.24,
+                    "Zombie": 1.68
                 }
             },
             "Mozzarella": {
                 "-": {
-                    "Dwarf": 12.62,
-                    "SampleSize": 729,
-                    "Steel": 12.07,
-                    "Granite": 11.8,
-                    "Gold": 11.66,
-                    "Diamond": 11.39,
-                    "Bionic": 10.29,
-                    "Frozen": 10.01,
-                    "Ninja": 7.13,
-                    "Brown": 4.39,
-                    "White": 2.88,
-                    "Grey": 2.19,
-                    "Abominable Snow": 1.92,
-                    "Zombie": 1.65
+                    "Dwarf": 12.87,
+                    "SampleSize": 715,
+                    "Steel": 12.31,
+                    "Granite": 12.03,
+                    "Gold": 11.89,
+                    "Diamond": 11.61,
+                    "Bionic": 10.49,
+                    "Frozen": 10.21,
+                    "Ninja": 7.27,
+                    "Brown": 4.48,
+                    "White": 2.94,
+                    "Grey": 2.24,
+                    "Zombie": 1.68
                 }
             },
             "White Cheddar": {
                 "-": {
-                    "Steel": 14.57,
-                    "SampleSize": 4009,
-                    "Granite": 12.77,
-                    "Frozen": 12.45,
-                    "Dwarf": 12.25,
-                    "Diamond": 11.4,
-                    "Bionic": 11.22,
-                    "Gold": 11.22,
-                    "Ninja": 9.68,
-                    "Abominable Snow": 2.32,
-                    "Zombie": 2.12
+                    "Steel": 14.91,
+                    "SampleSize": 3916,
+                    "Granite": 13.07,
+                    "Frozen": 12.74,
+                    "Dwarf": 12.54,
+                    "Diamond": 11.67,
+                    "Bionic": 11.49,
+                    "Gold": 11.49,
+                    "Ninja": 9.91,
+                    "Zombie": 2.17
                 },
                 "Prospector's": {
-                    "Gold": 30.63,
-                    "SampleSize": 1600,
-                    "Diamond": 30.38,
-                    "Dwarf": 6.63,
-                    "Granite": 6.56,
-                    "Ninja": 6.5,
-                    "Steel": 6.19,
-                    "Frozen": 5.38,
-                    "Bionic": 5.31,
-                    "Abominable Snow": 1.25,
-                    "Zombie": 1.19
+                    "Gold": 31.01,
+                    "SampleSize": 1580,
+                    "Diamond": 30.76,
+                    "Dwarf": 6.71,
+                    "Granite": 6.65,
+                    "Ninja": 6.58,
+                    "Steel": 6.27,
+                    "Frozen": 5.44,
+                    "Bionic": 5.38,
+                    "Zombie": 1.2
+                }
+            },
+            "Abominable Asiago": {
+                "-": {
+                    "Abominable Snow": 100
+                }
+            },
+            "Chedd-Ore": {
+                "-": {
+                    "Craggy Ore": 42.5,
+                    "SampleSize": 1186,
+                    "Slope Swimmer": 38.2,
+                    "Mountain": 19.31
                 }
             }
         }
@@ -12237,7 +12364,7 @@
                 }
             }
         },
-        "Rain Low": {
+        "Rain low": {
             "Rainy": {
                 "-": {
                     "Rain Wallower": 60,
@@ -12245,7 +12372,7 @@
                 }
             }
         },
-        "Rain Medium": {
+        "Rain medium": {
             "Rainy": {
                 "-": {
                     "Rain Summoner": 58,
@@ -12253,7 +12380,7 @@
                 }
             }
         },
-        "Rain High": {
+        "Rain high": {
             "Rainy": {
                 "-": {
                     "Monsoon Maker": 58,
@@ -12261,14 +12388,14 @@
                 }
             }
         },
-        "Rain Max": {
+        "Rain max": {
             "Rainy": {
                 "-": {
                     "Rainmancer": 100
                 }
             }
         },
-        "Wind Low": {
+        "Wind low": {
             "Windy": {
                 "-": {
                     "Wind Watcher": 60,
@@ -12276,7 +12403,7 @@
                 }
             }
         },
-        "Wind Medium": {
+        "Wind medium": {
             "Windy": {
                 "-": {
                     "Fluttering Flutist": 58,
@@ -12284,7 +12411,7 @@
                 }
             }
         },
-        "Wind High": {
+        "Wind high": {
             "Windy": {
                 "-": {
                     "Cycloness": 58,
@@ -12292,14 +12419,14 @@
                 }
             }
         },
-        "Wind Max": {
+        "Wind max": {
             "Windy": {
                 "-": {
                     "Wind Warrior": 100
                 }
             }
         },
-        "Storm Low": {
+        "Storm low": {
             "Dragonvine": {
                 "-": {
                     "Thunder Strike": 60,
@@ -12307,7 +12434,7 @@
                 }
             }
         },
-        "Storm Medium": {
+        "Storm medium": {
             "Dragonvine": {
                 "-": {
                     "Thunderlord": 58,
@@ -12315,20 +12442,19 @@
                 }
             }
         },
-        "Storm High": {
+        "Storm high": {
             "Dragonvine": {
                 "-": {
                     "Thundering Watcher": 60,
-                    "Ful'Mina": 35,
+                    "Ful'Mina, The Mountain Queen": 35,
                     "Dragoon": 5
                 }
             }
         },
-        "Storm Max": {
+        "Storm max": {
             "Dragonvine": {
                 "-": {
-                    "Ful'Mina": 100,
-                    "SampleSize": "Location"
+                    "Ful'Mina, The Mountain Queen": 100
                 }
             }
         }
@@ -13017,16 +13143,6 @@
                     "SampleSize": 263,
                     "Portal Pursuer": 11.03,
                     "Record Keeper's Assistant": 5.32
-                }
-            }
-        }
-    },
-    "Location": {
-        "Phase": {
-            "Cheese": {
-                "Charm": {
-                    "Mouse": "Attraction Rate",
-                    "SampleSize": "Sample Size"
                 }
             }
         }

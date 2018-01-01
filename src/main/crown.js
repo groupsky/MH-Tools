@@ -23,20 +23,33 @@ function contains(collection, searchElement) {
 }
 
 function loadMiceFromUrlOrCookie() {
-  var mouseList = getMouseListFromURL(
-    window.location.search.match(/mice=([^&]*)/)
+  var mouseList = getStringListFromURL(
+    window.location.search.match(/mice=([^&]*?)\?catches=/)
   );
+  var numCatchList = getStringListFromURL(
+    window.location.search.match(/catches=([^&]*)/)
+  );
+
   if (mouseList.length === 0) {
-    var cookie = Cookies.get("savedMice");
+    var cookie = Cookies.get("crownSavedMice");
     if (cookie !== undefined) {
       findLoadedMice(cookie);
     }
   } else {
-    findLoadedMice(mouseList);
+    var mapText = "";
+    var mouseArray = mouseList.split("\n");
+    var numCatchatchArray = numCatchList.split("\n");
+
+    for (var i = 0; i < mouseArray.length; i++) {
+      mapText += mouseArray[i] + "\n";
+      mapText += numCatchatchArray[i] + "\n";
+    }
+
+    findLoadedMice(mapText);
   }
 
-  function findLoadedMice(mouseList) {
-    $("#map").val(mouseList);
+  function findLoadedMice(mouseAndNumCatchesList) {
+    $("#map").val(mouseAndNumCatchesList);
     var mapText = document.getElementById("map").value;
     timeDelay = setTimeout(function() {
       processMap(mapText);
@@ -155,7 +168,11 @@ window.onload = function() {
     "bookmarkletLoader",
     "#bookmarkletloader"
   );
-  loadBookmarkletFromJS(MAP_BOOKMARKLET_URL, "mapBookmarklet", "#bookmarklet");
+  loadBookmarkletFromJS(
+    CROWN_BOOKMARKLET_URL,
+    "crownBookmarklet",
+    "#bookmarklet"
+  );
 
   //Initialize tablesorter, bind to table
   initTablesorter();
@@ -240,7 +257,7 @@ var buildMouselist = function(mouseListText, sortedMLCLength, sortedMLC) {
     mouseListText +=
       "<td style='font-size: 11px; padding: 10px'>" +
       "<p style='font-size: 16px'>" +
-      sortedMLC[l][1] +
+      sortedMLC[l][1].toFixed(2) +
       "%</p><br>" +
       sliceMLC +
       "</td>";
@@ -249,19 +266,26 @@ var buildMouselist = function(mouseListText, sortedMLCLength, sortedMLC) {
 };
 function processMap(mapText) {
   //Save a cookie
-  Cookies.set("savedMice", mapText, {
+  Cookies.set("crownSavedMice", mapText, {
     expires: 14
   });
 
-  var mouseArray = mapText.split("\n");
+  var mouseArray = mapText.match(/^[A-Za-z].*/gm);
+  var numCatchesArray = mapText.match(/^[0-9]{1,2}$/gm);
+  //console.log(mouseArray);
+  //console.log(numCatchesArray);
   var mouseArrayLength = Object.size(mouseArray);
+
+  if (mouseArrayLength !== Object.size(numCatchesArray)) {
+    return;
+  }
 
   var interpretedAs = document.getElementById("interpretedAs");
   var mouseList = document.getElementById("mouseList");
 
   var interpretedAsText = "<b>Invalid:<br></b><span class='invalid'>";
   var mouseListText =
-    "<thead><tr><th align='center'>Mouse</th><th align='center' id='locationAR'>Location (Raw AR)</th></tr></thead><tbody>";
+    "<thead><tr><th align='center'>Mouse</th><th align='center' id='locationAR'>Location (Raw CP)</th></tr></thead><tbody>";
 
   var bestLocationArray = [];
   var weightedBLA = [];
@@ -272,6 +296,7 @@ function processMap(mapText) {
 
   for (var i = 0; i < mouseArrayLength; i++) {
     var mouseName = mouseArray[i];
+    var catchesFromSilver = 100 - numCatchesArray[i];
     if (mouseName.length == 0) continue;
     mouseName = mouseName.capitalise();
     mouseName = mouseName.trim();
@@ -370,11 +395,12 @@ function processMap(mapText) {
                 modURLString +
                 ' target="_blank" rel="noopener">Link to best setup</a>';
 
-              var attractionRate = parseFloat(
-                popArray[mouseName][locationName][phaseName][cheeseName][
-                  charmName
-                ]
-              );
+              var attractionRate =
+                parseFloat(
+                  popArray[mouseName][locationName][phaseName][cheeseName][
+                    charmName
+                  ]
+                ) / catchesFromSilver;
 
               //Populate mouse location array
               if (mouseLocationArray[locationPhaseCheeseCharm] == undefined) {
@@ -523,7 +549,7 @@ function sortBestLocation(bestLocationArray, weightedBLA) {
 function printBestLocation(sortedLocation, mouseLocationArray) {
   var bestLocation = document.getElementById("bestLocation");
   var bestLocationHTML =
-    "<thead><tr><th align='center'>Location Info</th><th align='center'>Mice (Raw AR)</th><th align='center' data-filter='false'>Total AR</th><th align='center' id='weightAR' data-filter='false'>Weighted AR</th></tr></thead><tbody>";
+    "<thead><tr><th align='center'>Location Info</th><th align='center'>Mice (Raw CP)</th><th align='center' data-filter='false'>Total CP</th><th align='center' id='weightAR' data-filter='false'>Weighted CP</th></tr></thead><tbody>";
 
   var sortedLocationLength = Object.size(sortedLocation);
 
@@ -543,7 +569,7 @@ function printBestLocation(sortedLocation, mouseLocationArray) {
         mouseLocationHTML +=
           mouseLocationArray[lpcc][j][0] +
           " (" +
-          mouseLocationArray[lpcc][j][1] +
+          mouseLocationArray[lpcc][j][1].toFixed(2) +
           "%)<br>";
       }
     } else {
@@ -584,7 +610,7 @@ function findBaseline(location, cheese) {
   return baselineAtt;
 }
 
-function getMouseListFromURL(parameters) {
+function getStringListFromURL(parameters) {
   if (parameters) {
     parameters = decodeURIComponent(parameters[1]);
 
