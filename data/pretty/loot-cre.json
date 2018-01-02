@@ -9217,7 +9217,758 @@
                     "-": {
                         "Digby Drillbot": {
                             "-": {
-                                "Scrap Metal": 1
+                                "Scrap Metal": 1,
+                                "SampleSize": "Phase"
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Festive Comet": {
+        "-": {
+            "Snow Scavenger": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Snow Golem Limb": 1,
+                                "SampleSize": 22753,
+                                "SUPER|brie+": 0.033490089219004086
+                            }
+                        }
+                    }
+                }
+            },
+            "Hoarder": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Pecan Pecorino Cheese": 1.5048877874156685,
+                                "SampleSize": 7263,
+                                "SUPER|brie+": 0.02547156822249759
+                            }
+                        }
+                    }
+                }
+            },
+            "Snowblower": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Snow Golem Limb": 0.1546572934973638,
+                                "SampleSize": 10242,
+                                "SUPER|brie+": 0.030365163054090996
+                            }
+                        }
+                    }
+                }
+            },
+            "Builder": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Snow Golem Limb": 1,
+                                "SampleSize": 9188,
+                                "SUPER|brie+": 0.031454070526774056
+                            }
+                        }
+                    }
+                }
+            },
+            "Snow Golem Architect": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Snow Golem Limb": 2,
+                                "SampleSize": 6778,
+                                "Snow Golem Torso": 0.6065210976689289,
+                                "Snow Golem Head": 0.6009147241074063,
+                                "SUPER|brie+": 0.03496606668633815
+                            }
+                        }
+                    }
+                }
+            },
+            "Snow Fort": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "SUPER|brie+": 0.03268082282680823,
+                                "SampleSize": 6028
+                            }
+                        }
+                    }
+                }
+            },
+            "Joy": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Pecan Pecorino Cheese": 2,
+                                "SampleSize": 3017,
+                                "Winter Charm": 1,
+                                "SUPER|brie+": 0.028173682466025852
+                            }
+                        }
+                    }
+                }
+            },
+            "Reinbo": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "SUPER|brie+": 0.03097173828881146,
+                                "SampleSize": 5166
+                            }
+                        }
+                    }
+                }
+            },
+            "Nice Knitting": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Snow Golem Head": 1,
+                                "SampleSize": 5114,
+                                "SUPER|brie+": 0.03187328901055925
+                            }
+                        }
+                    }
+                }
+            },
+            "Snowglobe": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "SUPER|brie+": 0.03243029464109155,
+                                "SampleSize": 5057
+                            }
+                        }
+                    }
+                }
+            },
+            "Slay Ride": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Winter Charm": 0.9495778045838359,
+                                "SampleSize": 4145,
+                                "SUPER|brie+": 0.032810615199034984
+                            }
+                        }
+                    }
+                }
+            },
+            "Snow Golem Jockey": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Snow Golem Torso": 1,
+                                "SampleSize": 4111,
+                                "SUPER|brie+": 0.0323522257358307
+                            }
+                        }
+                    }
+                }
+            },
+            "Elf": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "SUPER|brie+": 0.031024531024531024,
+                                "SampleSize": 4158
+                            }
+                        }
+                    }
+                }
+            },
+            "Snow Boulder": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Winter Charm": 1,
+                                "SampleSize": 2443,
+                                "Pecan Pecorino Cheese": 0.3765861645517806,
+                                "SUPER|brie+": 0.024559967253376995
+                            }
+                        }
+                    }
+                }
+            },
+            "Great Winter Hunt Impostor": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Winter Charm": 0.9564464241524375,
+                                "SampleSize": 4041,
+                                "SUPER|brie+": 0.029448156396931453
+                            }
+                        }
+                    }
+                }
+            },
+            "Snowflake": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Pecan Pecorino Cheese": 2,
+                                "SampleSize": 2765,
+                                "Let it Snow Charm": 1,
+                                "SUPER|brie+": 0.029294755877034357
+                            }
+                        }
+                    }
+                }
+            },
+            "Gingerbread": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Pecan Pecorino Cheese": 0.3929797787104159,
+                                "SampleSize": 2621,
+                                "SUPER|brie+": 0.024036627241510875
+                            }
+                        }
+                    }
+                }
+            },
+            "Toboggan Technician": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Pecan Pecorino Cheese": 1,
+                                "SampleSize": 2269,
+                                "Winter Charm": 1,
+                                "SUPER|brie+": 0.02864698104892023
+                            }
+                        }
+                    }
+                }
+            },
+            "Missile Toe": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Pecan Pecorino Cheese": 0.5939159826170932,
+                                "SampleSize": 2071,
+                                "SUPER|brie+": 0.025108643167551906
+                            }
+                        }
+                    }
+                }
+            },
+            "Snowball Hoarder": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Pecan Pecorino Cheese": 1,
+                                "SampleSize": 2712,
+                                "SUPER|brie+": 0.028023598820058997
+                            }
+                        }
+                    }
+                }
+            },
+            "Frigid Foreman": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Snow Golem Torso": 1,
+                                "SampleSize": 2968,
+                                "SUPER|brie+": 0.03335579514824798
+                            }
+                        }
+                    }
+                }
+            },
+            "Wreath Thief": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Pecan Pecorino Cheese": 0.6128747795414462,
+                                "SampleSize": 2268,
+                                "SUPER|brie+": 0.03218694885361552
+                            }
+                        }
+                    }
+                }
+            },
+            "Toy Tinkerer": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Pecan Pecorino Cheese": 0.5837160751565762,
+                                "SampleSize": 2395,
+                                "SUPER|brie+": 0.02630480167014614
+                            }
+                        }
+                    }
+                }
+            },
+            "S.N.O.W. Golem": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Snow Golem Limb": 1,
+                                "SampleSize": 3113,
+                                "SUPER|brie+": 0.03148088660456152
+                            }
+                        }
+                    }
+                }
+            },
+            "Ribbon": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Pecan Pecorino Cheese": 0.5890878090366581,
+                                "SampleSize": 2346,
+                                "SUPER|brie+": 0.02600170502983802
+                            }
+                        }
+                    }
+                }
+            },
+            "Free Skiing": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Snow Golem Head": 1,
+                                "SampleSize": 3063,
+                                "SUPER|brie+": 0.022526934378060724
+                            }
+                        }
+                    }
+                }
+            },
+            "Destructoy": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Pecan Pecorino Cheese": 0.5823809523809523,
+                                "SampleSize": 2100,
+                                "SUPER|brie+": 0.024761904761904763
+                            }
+                        }
+                    }
+                }
+            },
+            "Miser": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Pecan Pecorino Cheese": 0.15342087076710437,
+                                "SampleSize": 1447,
+                                "SUPER|brie+": 0.021423635107118175
+                            }
+                        }
+                    }
+                }
+            },
+            "Triple Lutz": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Pecan Pecorino Cheese": 0.6,
+                                "SampleSize": 2235,
+                                "SUPER|brie+": 0.025950782997762864
+                            }
+                        }
+                    }
+                }
+            },
+            "Ridiculous Sweater": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Pecan Pecorino Cheese": 0.3936731107205624,
+                                "SampleSize": 1707,
+                                "SUPER|brie+": 0.026362038664323375
+                            }
+                        }
+                    }
+                }
+            },
+            "Snow Sorceress": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Snow Golem Head": 0.1325820351342393,
+                                "SampleSize": 3017,
+                                "SUPER|brie+": 0.03281405369572423
+                            }
+                        }
+                    }
+                }
+            },
+            "Stocking": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "SUPER|brie+": 0.027939464493597205,
+                                "SampleSize": 1718
+                            }
+                        }
+                    }
+                }
+            },
+            "Sporty Ski Instructor": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Pecan Pecorino Cheese": 0.5937940761636107,
+                                "SampleSize": 1418,
+                                "SUPER|brie+": 0.028208744710860368
+                            }
+                        }
+                    }
+                }
+            },
+            "Young Prodigy Racer": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Pecan Pecorino Cheese": 0.603448275862069,
+                                "SampleSize": 1392,
+                                "SUPER|brie+": 0.028017241379310345
+                            }
+                        }
+                    }
+                }
+            },
+            "Toy": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "SUPER|brie+": 0.03287070854638422,
+                                "SampleSize": 1369
+                            }
+                        }
+                    }
+                }
+            },
+            "Borean Commander": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Snow Golem Torso": 0.1536643026004728,
+                                "SampleSize": 1692,
+                                "SUPER|brie+": 0.03486997635933806
+                            }
+                        }
+                    }
+                }
+            },
+            "Glacia Ice Fist": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Snow Golem Torso": 0.6961299569995222,
+                                "SampleSize": 2093,
+                                "SUPER|brie+": 0.030100334448160536
+                            }
+                        }
+                    }
+                }
+            },
+            "Confused Courier": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Pecan Pecorino Cheese": 2,
+                                "SampleSize": 997,
+                                "SUPER|brie+": 0.025075225677031094
+                            }
+                        }
+                    }
+                }
+            },
+            "Tundra Huntress": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Winter Charm": 0.9579735175590098,
+                                "SampleSize": 1737,
+                                "Snow Golem Limb": 0.09959700633275763,
+                                "SUPER|brie+": 0.028785261945883708
+                            }
+                        }
+                    }
+                }
+            },
+            "Candy Cane": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "SUPER|brie+": 0.039735099337748346,
+                                "SampleSize": 906
+                            }
+                        }
+                    }
+                }
+            },
+            "Christmas Tree": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "SUPER|brie+": 0.029927760577915376,
+                                "SampleSize": 969
+                            }
+                        }
+                    }
+                }
+            },
+            "Nutcracker": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "SUPER|brie+": 0.023404255319148935,
+                                "SampleSize": 940
+                            }
+                        }
+                    }
+                }
+            },
+            "Present": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Pecan Pecorino Cheese": 1.4926624737945493,
+                                "SampleSize": 477,
+                                "SUPER|brie+": 0.029350104821802937
+                            }
+                        }
+                    }
+                }
+            },
+            "Mouse of Winter Past": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Pecan Pecorino Cheese": 1.4941634241245136,
+                                "SampleSize": 257,
+                                "SUPER|brie+": 0.042801556420233464
+                            }
+                        }
+                    }
+                }
+            },
+            "Greedy Al": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Pecan Pecorino Cheese": 1,
+                                "SampleSize": 236,
+                                "SUPER|brie+": 0.03389830508474576
+                            }
+                        }
+                    }
+                }
+            },
+            "Mouse of Winter Future": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Pecan Pecorino Cheese": 1.5128205128205128,
+                                "SampleSize": 234,
+                                "SUPER|brie+": 0.017094017094017096
+                            }
+                        }
+                    }
+                }
+            },
+            "Squeaker Claws": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Pecan Pecorino Cheese": 1,
+                                "SampleSize": 288,
+                                "SUPER|brie+": 0.020833333333333332
+                            }
+                        }
+                    }
+                }
+            },
+            "Rainbow Racer": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Pecan Pecorino Cheese": 1.4821428571428572,
+                                "SampleSize": 224,
+                                "SUPER|brie+": 0.013392857142857142
+                            }
+                        }
+                    }
+                }
+            },
+            "Scrooge": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Pecan Pecorino Cheese": 1,
+                                "SampleSize": 220,
+                                "SUPER|brie+": 0.013636363636363636
+                            }
+                        }
+                    }
+                }
+            },
+            "Mad Elf": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Pecan Pecorino Cheese": 1,
+                                "SampleSize": 245,
+                                "SUPER|brie+": 0.02040816326530612
+                            }
+                        }
+                    }
+                }
+            },
+            "Black Diamond Racer": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Pecan Pecorino Cheese": 1,
+                                "SampleSize": 230,
+                                "SUPER|brie+": 0.0391304347826087
+                            }
+                        }
+                    }
+                }
+            },
+            "Ornament": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Pecan Pecorino Cheese": 1,
+                                "SampleSize": 202,
+                                "SUPER|brie+": 0.024752475247524754
+                            }
+                        }
+                    }
+                }
+            },
+            "Nitro Racer": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Pecan Pecorino Cheese": 1.4682539682539681,
+                                "SampleSize": 252,
+                                "SUPER|brie+": 0.027777777777777776
+                            }
+                        }
+                    }
+                }
+            },
+            "Mouse of Winter Present": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Pecan Pecorino Cheese": 1.4791666666666667,
+                                "SampleSize": 240,
+                                "SUPER|brie+": 0.016666666666666666
+                            }
+                        }
+                    }
+                }
+            },
+            "Double Black Diamond Racer": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Pecan Pecorino Cheese": 1,
+                                "SampleSize": 225,
+                                "SUPER|brie+": 0.04
+                            }
+                        }
+                    }
+                }
+            },
+            "Stuck Snowball": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Winter Charm": 1,
+                                "SampleSize": 4795,
+                                "SUPER|brie+": 0.03482794577685089
+                            }
+                        }
+                    }
+                }
+            },
+            "Naughty Nougat": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Magical Winter Hunt Holiday Hat": 1,
+                                "SampleSize": 2588,
+                                "Ancient Relic": 1,
+                                "SUPER|brie+": 4.797140649149923,
+                                "Nugget of Nougat": 1,
+                                "Snow Golem Head": 0.2731839258114374,
+                                "Snow Golem Torso": 0.25,
+                                "Animated Snow": 1.0853941267387945,
+                                "Snow Golem Limb": 0.5965996908809892,
+                                "Snow Golem Theme Scrap I": 0.11012364760432766
                             }
                         }
                     }
