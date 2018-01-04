@@ -21,7 +21,6 @@ utils
         location: utils.genVarField('location', 'Festive Comet'),
         phase: utils.genVarField('stage', stages),
         cheese: utils.genVarField('cheese', cheeses),
-        newyear: [ { vars: { after: 1514476800000 } } ],
         charm: [
           { vars: { charm: { 'Winter': false, 'Let It Snow': false } } },
           { vars: { charm: { 'Winter': true } }, fields: { charm: 'Winter' } },
