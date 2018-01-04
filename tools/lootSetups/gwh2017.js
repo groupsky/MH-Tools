@@ -13,7 +13,9 @@ module.exports = [
       'Borean Commander', 'Glacia Ice Fist', 'Confused Courier', 'Tundra Huntress', 'Candy Cane', 'Christmas Tree',
       'Nutcracker', 'Present', 'Mouse of Winter Past', 'Greedy Al', 'Mouse of Winter Future', 'Squeaker Claws',
       'Rainbow Racer', 'Scrooge', 'Mad Elf', 'Black Diamond Racer', 'Ornament', 'Nitro Racer', 'Mouse of Winter Present',
-      'Double Black Diamond Racer', 'Stuck Snowball', 'Naughty Nougat'
+      'Double Black Diamond Racer', 'Stuck Snowball', 
+      'Naughty Nougat', 
+      'Party Head', 'New Year\'s', 'Frightened Flying Fireworks' 
     ]),
     loot: [ {
       opts: {
