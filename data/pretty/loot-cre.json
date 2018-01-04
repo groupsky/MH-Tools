@@ -9312,9 +9312,9 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Pecan Pecorino Cheese": 2,
-                                "SampleSize": 3126,
                                 "Winter Charm": 1,
+                                "SampleSize": 3126,
+                                "Pecan Pecorino Cheese": 2,
                                 "SUPER|brie+": 0.02943058221369162
                             }
                         }
@@ -9959,16 +9959,55 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Magical Winter Hunt Holiday Hat": 1,
-                                "SampleSize": 2771,
-                                "Ancient Relic": 1,
                                 "SUPER|brie+": 4.812342114760014,
+                                "SampleSize": 2771,
                                 "Nugget of Nougat": 1,
+                                "Magical Winter Hunt Holiday Hat": 1,
+                                "Ancient Relic": 1,
                                 "Snow Golem Head": 0.27174305304944063,
                                 "Snow Golem Torso": 0.24828581739444244,
                                 "Animated Snow": 1.0985203897509925,
                                 "Snow Golem Limb": 0.5954529050884158,
                                 "Snow Golem Theme Scrap I": 0.10285095633345363
+                            }
+                        }
+                    }
+                }
+            },
+            "Party Head": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Snow Golem Head": 0.6350662589194699,
+                                "SampleSize": 981,
+                                "SUPER|brie+": 0.04281345565749235
+                            }
+                        }
+                    }
+                }
+            },
+            "New Year's": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Snow Golem Torso": 0.6526829268292683,
+                                "SampleSize": 1025,
+                                "SUPER|brie+": 0.04097560975609756
+                            }
+                        }
+                    }
+                }
+            },
+            "Frightened Flying Fireworks": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Snow Golem Limb": 0.6566017018940433,
+                                "SampleSize": 3643,
+                                "SUPER|brie+": 0.03980236069173758
                             }
                         }
                     }
