@@ -22337,24 +22337,24 @@
             },
             "Core": {
                 "SB+": {
-                    "-": 8.8,
-                    "Winter": 8.7,
-                    "Let It Snow": 9.47
+                    "-": 9.02,
+                    "Winter": 9.01,
+                    "Let It Snow": 9.66
                 },
                 "Gouda": {
-                    "-": 16.35,
-                    "Winter": 16.29,
-                    "Let It Snow": 21.31
+                    "-": 17.73,
+                    "Winter": 17.7,
+                    "Let It Snow": 16.59
                 },
                 "Brie": {
-                    "-": 19.41,
-                    "Winter": 19.25,
-                    "Let It Snow": 20
+                    "-": 19.21,
+                    "Winter": 19.81,
+                    "Let It Snow": 19.14
                 },
                 "Arctic Asiago": {
-                    "-": 10.24,
-                    "Winter": 8.24,
-                    "Let It Snow": 6.49
+                    "-": 10.08,
+                    "Winter": 8.93,
+                    "Let It Snow": 4.58
                 }
             }
         }
@@ -22501,24 +22501,24 @@
             },
             "Core": {
                 "SB+": {
-                    "-": 1.32,
-                    "Winter": 1.06,
-                    "Let It Snow": 2.11
+                    "-": 1.22,
+                    "Winter": 1.01,
+                    "Let It Snow": 2.27
                 },
                 "Gouda": {
-                    "-": 8.62,
-                    "Winter": 7.78,
-                    "Let It Snow": 9.02
+                    "-": 8.72,
+                    "Winter": 7.87,
+                    "Let It Snow": 11.06
                 },
                 "Brie": {
-                    "-": 8.84,
-                    "Winter": 7.98,
-                    "Let It Snow": 9.41
+                    "-": 8.89,
+                    "Winter": 9.43,
+                    "Let It Snow": 9.88
                 },
                 "Arctic Asiago": {
-                    "-": 2.56,
-                    "Winter": 1.12,
-                    "Let It Snow": 2.6
+                    "-": 2.9,
+                    "Winter": 1.24,
+                    "Let It Snow": 1.53
                 }
             }
         }
@@ -22666,189 +22666,24 @@
             },
             "Core": {
                 "SB+": {
-                    "-": 3.22,
-                    "Winter": 2.97,
-                    "Let It Snow": 1.05
+                    "-": 3.34,
+                    "Winter": 2.89,
+                    "Let It Snow": 2.27
                 },
                 "Gouda": {
-                    "-": 5.29,
-                    "Winter": 5.35,
-                    "Let It Snow": 2.46
+                    "-": 5.56,
+                    "Winter": 5.51,
+                    "Let It Snow": 3.69
                 },
                 "Brie": {
-                    "-": 2.95,
-                    "Winter": 6.1,
-                    "Let It Snow": 3.53
+                    "-": 4.26,
+                    "Winter": 5.97,
+                    "Let It Snow": 2.47
                 },
                 "Arctic Asiago": {
-                    "-": 3.15,
-                    "Winter": 3.37,
-                    "Let It Snow": 5.19
-                }
-            }
-        }
-    },
-    "Missile Toe": {
-        "Festive Comet": {
-            "Snow (1)": {
-                "Gouda": {
-                    "-": 6.72,
-                    "Winter": 6.63
-                },
-                "Arctic Asiago": {
-                    "-": 4.62,
-                    "Winter": 4
-                }
-            },
-            "Wrapping Paper (2)": {
-                "SB+": {
-                    "-": 5.6
-                },
-                "Gouda": {
-                    "-": 7.02
-                },
-                "Arctic Asiago": {
-                    "Winter": 6.67
-                }
-            },
-            "Yule Log (3)": {
-                "Gouda": {
-                    "-": 5.91
-                },
-                "Arctic Asiago": {
-                    "-": 2.37,
-                    "Winter": 3.08
-                }
-            },
-            "Eggnog (4)": {
-                "SB+": {
-                    "-": 2.53,
-                    "Winter": 3.48
-                },
-                "Gouda": {
-                    "-": 7.28
-                },
-                "Arctic Asiago": {
-                    "-": 2.88,
-                    "Winter": 2.01
-                }
-            },
-            "Tree (5)": {
-                "SB+": {
-                    "-": 5.12,
-                    "Winter": 6.3
-                },
-                "Gouda": {
-                    "-": 6.04,
-                    "Winter": 3.79
-                },
-                "Brie": {
-                    "-": 5.1
-                },
-                "Arctic Asiago": {
-                    "-": 3.2,
-                    "Winter": 2.48
-                }
-            },
-            "Scarf (6)": {
-                "SB+": {
-                    "-": 2.55,
-                    "Winter": 1.05
-                },
-                "Gouda": {
-                    "-": 6.01,
-                    "Winter": 4.26
-                },
-                "Arctic Asiago": {
-                    "-": 4.48,
-                    "Winter": 1.69
-                }
-            },
-            "Gingerbread (7)": {
-                "SB+": {
-                    "-": 2.67,
-                    "Winter": 1.1
-                },
-                "Gouda": {
-                    "-": 6.23,
-                    "Winter": 4.06
-                },
-                "Brie": {
-                    "-": 3.77
-                },
-                "Arctic Asiago": {
-                    "-": 2.03,
-                    "Winter": 3.32
-                }
-            },
-            "Peppermint (8)": {
-                "SB+": {
-                    "-": 4.22,
-                    "Winter": 3.12
-                },
-                "Gouda": {
-                    "-": 4.03,
-                    "Winter": 2.83
-                },
-                "Brie": {
-                    "-": 3.6
-                },
-                "Arctic Asiago": {
-                    "-": 5.04,
-                    "Winter": 2.43
-                }
-            },
-            "Ice (9)": {
-                "SB+": {
-                    "-": 2.93,
-                    "Winter": 2.65
-                },
-                "Gouda": {
-                    "-": 3.61,
-                    "Winter": 3.44
-                },
-                "Arctic Asiago": {
-                    "-": 3.15,
-                    "Winter": 2.49
-                }
-            },
-            "Nougat (10)": {
-                "SB+": {
-                    "-": 2.32,
-                    "Winter": 2.61
-                },
-                "Gouda": {
-                    "-": 5.08,
-                    "Winter": 3.19
-                },
-                "Brie": {
-                    "-": 2.67
-                },
-                "Arctic Asiago": {
-                    "-": 3.68,
-                    "Winter": 2.04
-                }
-            },
-            "Core": {
-                "SB+": {
-                    "-": 2.68,
-                    "Winter": 3.68,
-                    "Let It Snow": 2.11
-                },
-                "Gouda": {
-                    "-": 4.13,
-                    "Winter": 4.62,
-                    "Let It Snow": 4.1
-                },
-                "Brie": {
-                    "-": 4.16,
-                    "Winter": 5.63,
-                    "Let It Snow": 4.71
-                },
-                "Arctic Asiago": {
-                    "-": 3.94,
-                    "Winter": 2.25,
-                    "Let It Snow": 2.6
+                    "-": 2.64,
+                    "Winter": 3.23,
+                    "Let It Snow": 5.34
                 }
             }
         }
@@ -22996,24 +22831,189 @@
             },
             "Core": {
                 "SB+": {
-                    "-": 2.36,
-                    "Winter": 3.54,
-                    "Let It Snow": 4.21
+                    "-": 2.53,
+                    "Winter": 3.69,
+                    "Let It Snow": 4.55
                 },
                 "Gouda": {
-                    "-": 5.33,
-                    "Winter": 6.32,
-                    "Let It Snow": 4.1
+                    "-": 5.65,
+                    "Winter": 5.87,
+                    "Let It Snow": 4.61
                 },
                 "Brie": {
-                    "-": 6.59,
-                    "Winter": 6.1,
-                    "Let It Snow": 2.35
+                    "-": 6.24,
+                    "Winter": 5.35,
+                    "Let It Snow": 3.09
                 },
                 "Arctic Asiago": {
-                    "-": 3.35,
-                    "Winter": 3.75,
-                    "Let It Snow": 5.19
+                    "-": 3.02,
+                    "Winter": 3.47,
+                    "Let It Snow": 3.82
+                }
+            }
+        }
+    },
+    "Missile Toe": {
+        "Festive Comet": {
+            "Snow (1)": {
+                "Gouda": {
+                    "-": 6.72,
+                    "Winter": 6.63
+                },
+                "Arctic Asiago": {
+                    "-": 4.62,
+                    "Winter": 4
+                }
+            },
+            "Wrapping Paper (2)": {
+                "SB+": {
+                    "-": 5.6
+                },
+                "Gouda": {
+                    "-": 7.02
+                },
+                "Arctic Asiago": {
+                    "Winter": 6.67
+                }
+            },
+            "Yule Log (3)": {
+                "Gouda": {
+                    "-": 5.91
+                },
+                "Arctic Asiago": {
+                    "-": 2.37,
+                    "Winter": 3.08
+                }
+            },
+            "Eggnog (4)": {
+                "SB+": {
+                    "-": 2.53,
+                    "Winter": 3.48
+                },
+                "Gouda": {
+                    "-": 7.28
+                },
+                "Arctic Asiago": {
+                    "-": 2.88,
+                    "Winter": 2.01
+                }
+            },
+            "Tree (5)": {
+                "SB+": {
+                    "-": 5.12,
+                    "Winter": 6.3
+                },
+                "Gouda": {
+                    "-": 6.04,
+                    "Winter": 3.79
+                },
+                "Brie": {
+                    "-": 5.1
+                },
+                "Arctic Asiago": {
+                    "-": 3.2,
+                    "Winter": 2.48
+                }
+            },
+            "Scarf (6)": {
+                "SB+": {
+                    "-": 2.55,
+                    "Winter": 1.05
+                },
+                "Gouda": {
+                    "-": 6.01,
+                    "Winter": 4.26
+                },
+                "Arctic Asiago": {
+                    "-": 4.48,
+                    "Winter": 1.69
+                }
+            },
+            "Gingerbread (7)": {
+                "SB+": {
+                    "-": 2.67,
+                    "Winter": 1.1
+                },
+                "Gouda": {
+                    "-": 6.23,
+                    "Winter": 4.06
+                },
+                "Brie": {
+                    "-": 3.77
+                },
+                "Arctic Asiago": {
+                    "-": 2.03,
+                    "Winter": 3.32
+                }
+            },
+            "Peppermint (8)": {
+                "SB+": {
+                    "-": 4.22,
+                    "Winter": 3.12
+                },
+                "Gouda": {
+                    "-": 4.03,
+                    "Winter": 2.83
+                },
+                "Brie": {
+                    "-": 3.6
+                },
+                "Arctic Asiago": {
+                    "-": 5.04,
+                    "Winter": 2.43
+                }
+            },
+            "Ice (9)": {
+                "SB+": {
+                    "-": 2.93,
+                    "Winter": 2.65
+                },
+                "Gouda": {
+                    "-": 3.61,
+                    "Winter": 3.44
+                },
+                "Arctic Asiago": {
+                    "-": 3.15,
+                    "Winter": 2.49
+                }
+            },
+            "Nougat (10)": {
+                "SB+": {
+                    "-": 2.32,
+                    "Winter": 2.61
+                },
+                "Gouda": {
+                    "-": 5.08,
+                    "Winter": 3.19
+                },
+                "Brie": {
+                    "-": 2.67
+                },
+                "Arctic Asiago": {
+                    "-": 3.68,
+                    "Winter": 2.04
+                }
+            },
+            "Core": {
+                "SB+": {
+                    "-": 3.36,
+                    "Winter": 3.52,
+                    "Let It Snow": 2.84
+                },
+                "Gouda": {
+                    "-": 4.43,
+                    "Winter": 4.82,
+                    "Let It Snow": 4.61
+                },
+                "Brie": {
+                    "-": 4.35,
+                    "Winter": 5.35,
+                    "Let It Snow": 4.32
+                },
+                "Arctic Asiago": {
+                    "-": 3.15,
+                    "Winter": 2.48,
+                    "Let It Snow": 2.29
                 }
             }
         }
@@ -23161,24 +23161,24 @@
             },
             "Core": {
                 "SB+": {
-                    "-": 3.27,
-                    "Winter": 2.97,
-                    "Let It Snow": 4.21
+                    "-": 3.57,
+                    "Winter": 3.14,
+                    "Let It Snow": 2.84
                 },
                 "Gouda": {
-                    "-": 4.13,
-                    "Winter": 5.59,
-                    "Let It Snow": 2.46
+                    "-": 4.15,
+                    "Winter": 5.55,
+                    "Let It Snow": 2.76
                 },
                 "Brie": {
-                    "-": 5.03,
-                    "Winter": 3.76,
-                    "Let It Snow": 2.35
+                    "-": 4.64,
+                    "Winter": 3.46,
+                    "Let It Snow": 2.47
                 },
                 "Arctic Asiago": {
-                    "-": 3.35,
-                    "Winter": 5.24,
-                    "Let It Snow": 3.9
+                    "-": 3.27,
+                    "Winter": 4.71,
+                    "Let It Snow": 4.58
                 }
             }
         }
@@ -23326,23 +23326,24 @@
             },
             "Core": {
                 "SB+": {
-                    "-": 2.13,
-                    "Winter": 2.33,
-                    "Let It Snow": 3.16
+                    "-": 2.28,
+                    "Winter": 2.1,
+                    "Let It Snow": 3.41
                 },
                 "Gouda": {
-                    "-": 2.27,
-                    "Winter": 2.51,
-                    "Let It Snow": 1.64
+                    "-": 2.26,
+                    "Winter": 2.82,
+                    "Let It Snow": 1.38
                 },
                 "Brie": {
-                    "-": 3.29,
-                    "Winter": 1.88,
-                    "Let It Snow": 1.18
+                    "-": 3.88,
+                    "Winter": 2.52,
+                    "Let It Snow": 1.85
                 },
                 "Arctic Asiago": {
-                    "-": 1.57,
-                    "Winter": 1.5
+                    "-": 1.76,
+                    "Winter": 0.99,
+                    "Let It Snow": 0.76
                 }
             }
         }
@@ -23490,24 +23491,24 @@
             },
             "Core": {
                 "SB+": {
-                    "-": 2.04,
-                    "Winter": 2.48,
-                    "Let It Snow": 6.32
+                    "-": 2.17,
+                    "Winter": 2.35,
+                    "Let It Snow": 6.25
                 },
                 "Gouda": {
-                    "-": 4.98,
-                    "Winter": 5.83,
-                    "Let It Snow": 5.74
+                    "-": 4.94,
+                    "Winter": 5.73,
+                    "Let It Snow": 6.91
                 },
                 "Brie": {
-                    "-": 7.11,
-                    "Winter": 7.51,
-                    "Let It Snow": 10.59
+                    "-": 7.38,
+                    "Winter": 5.66,
+                    "Let It Snow": 7.41
                 },
                 "Arctic Asiago": {
-                    "-": 2.17,
-                    "Winter": 2.62,
-                    "Let It Snow": 2.6
+                    "-": 2.27,
+                    "Winter": 2.73,
+                    "Let It Snow": 1.53
                 }
             }
         }
@@ -23655,185 +23656,24 @@
             },
             "Core": {
                 "SB+": {
-                    "-": 3.09,
-                    "Winter": 2.4,
-                    "Let It Snow": 3.16
+                    "-": 3.31,
+                    "Winter": 2.89,
+                    "Let It Snow": 3.41
                 },
                 "Gouda": {
-                    "-": 3.64,
-                    "Winter": 3.4,
-                    "Let It Snow": 4.92
+                    "-": 3.5,
+                    "Winter": 3.05,
+                    "Let It Snow": 4.15
                 },
                 "Brie": {
-                    "-": 2.95,
-                    "Winter": 2.82,
-                    "Let It Snow": 3.53
+                    "-": 3.22,
+                    "Winter": 2.83,
+                    "Let It Snow": 6.17
                 },
                 "Arctic Asiago": {
-                    "-": 2.76,
-                    "Winter": 4.49,
-                    "Let It Snow": 2.6
-                }
-            }
-        }
-    },
-    "Triple Lutz": {
-        "Festive Comet": {
-            "Snow (1)": {
-                "Gouda": {
-                    "-": 4.74,
-                    "Winter": 3.61
-                },
-                "Arctic Asiago": {
-                    "-": 2.31,
-                    "Winter": 3.2
-                }
-            },
-            "Wrapping Paper (2)": {
-                "SB+": {
-                    "-": 2.4
-                },
-                "Gouda": {
-                    "-": 9.94
-                }
-            },
-            "Yule Log (3)": {
-                "Gouda": {
-                    "-": 7.39
-                },
-                "Arctic Asiago": {
-                    "-": 1.78,
-                    "Winter": 2.31
-                }
-            },
-            "Eggnog (4)": {
-                "SB+": {
-                    "-": 2.53,
-                    "Winter": 1.74
-                },
-                "Gouda": {
-                    "-": 9.43
-                },
-                "Arctic Asiago": {
-                    "-": 2.4,
-                    "Winter": 2.51
-                }
-            },
-            "Tree (5)": {
-                "SB+": {
-                    "-": 2.36,
-                    "Winter": 4.72
-                },
-                "Gouda": {
-                    "-": 7.71,
-                    "Winter": 5.96
-                },
-                "Brie": {
-                    "-": 9.55
-                },
-                "Arctic Asiago": {
-                    "-": 1.07,
-                    "Winter": 2.97
-                }
-            },
-            "Scarf (6)": {
-                "SB+": {
-                    "-": 3.06,
-                    "Winter": 1.75
-                },
-                "Gouda": {
-                    "-": 7.21,
-                    "Winter": 6.99
-                },
-                "Arctic Asiago": {
-                    "-": 2.99,
-                    "Winter": 0.42
-                }
-            },
-            "Gingerbread (7)": {
-                "SB+": {
-                    "-": 2.67,
-                    "Winter": 3.31
-                },
-                "Gouda": {
-                    "-": 6.73,
-                    "Winter": 5.17
-                },
-                "Brie": {
-                    "-": 8.49
-                },
-                "Arctic Asiago": {
-                    "-": 1.69,
-                    "Winter": 2.49
-                }
-            },
-            "Peppermint (8)": {
-                "SB+": {
-                    "-": 3.04,
-                    "Winter": 1.82
-                },
-                "Gouda": {
-                    "-": 7.36,
-                    "Winter": 7.86
-                },
-                "Brie": {
-                    "-": 9.01
-                },
-                "Arctic Asiago": {
-                    "-": 2.16,
-                    "Winter": 2.02
-                }
-            },
-            "Ice (9)": {
-                "SB+": {
-                    "-": 2.93,
-                    "Winter": 2.06
-                },
-                "Gouda": {
-                    "-": 7.69,
-                    "Winter": 5.15
-                },
-                "Arctic Asiago": {
-                    "-": 2.52,
-                    "Winter": 4.63
-                }
-            },
-            "Nougat (10)": {
-                "SB+": {
-                    "-": 2.71,
-                    "Winter": 2.48
-                },
-                "Gouda": {
-                    "-": 6.06,
-                    "Winter": 6.39
-                },
-                "Brie": {
-                    "-": 8
-                },
-                "Arctic Asiago": {
-                    "-": 2.58,
-                    "Winter": 2.04
-                }
-            },
-            "Core": {
-                "SB+": {
-                    "-": 1.91,
-                    "Winter": 2.12
-                },
-                "Gouda": {
-                    "-": 6.18,
-                    "Winter": 6.16,
-                    "Let It Snow": 5.74
-                },
-                "Brie": {
-                    "-": 7.63,
-                    "Winter": 7.51,
-                    "Let It Snow": 2.35
-                },
-                "Arctic Asiago": {
-                    "-": 2.95,
-                    "Winter": 2.62,
-                    "Let It Snow": 6.49
+                    "-": 2.9,
+                    "Winter": 3.47,
+                    "Let It Snow": 2.29
                 }
             }
         }
@@ -23981,24 +23821,186 @@
             },
             "Core": {
                 "SB+": {
-                    "-": 5.67,
-                    "Winter": 5.8,
-                    "Let It Snow": 7.37
+                    "-": 5.17,
+                    "Winter": 5.79,
+                    "Let It Snow": 4.55
                 },
                 "Gouda": {
-                    "-": 2.62,
-                    "Winter": 2.51,
-                    "Let It Snow": 3.28
+                    "-": 2.96,
+                    "Winter": 2.64,
+                    "Let It Snow": 2.76
                 },
                 "Brie": {
-                    "-": 1.56,
-                    "Winter": 0.94,
-                    "Let It Snow": 2.35
+                    "-": 2.65,
+                    "Winter": 1.26,
+                    "Let It Snow": 1.85
                 },
                 "Arctic Asiago": {
-                    "-": 5.91,
-                    "Winter": 6.37,
-                    "Let It Snow": 6.49
+                    "-": 5.16,
+                    "Winter": 6.45,
+                    "Let It Snow": 6.11
+                }
+            }
+        }
+    },
+    "Triple Lutz": {
+        "Festive Comet": {
+            "Snow (1)": {
+                "Gouda": {
+                    "-": 4.74,
+                    "Winter": 3.61
+                },
+                "Arctic Asiago": {
+                    "-": 2.31,
+                    "Winter": 3.2
+                }
+            },
+            "Wrapping Paper (2)": {
+                "SB+": {
+                    "-": 2.4
+                },
+                "Gouda": {
+                    "-": 9.94
+                }
+            },
+            "Yule Log (3)": {
+                "Gouda": {
+                    "-": 7.39
+                },
+                "Arctic Asiago": {
+                    "-": 1.78,
+                    "Winter": 2.31
+                }
+            },
+            "Eggnog (4)": {
+                "SB+": {
+                    "-": 2.53,
+                    "Winter": 1.74
+                },
+                "Gouda": {
+                    "-": 9.43
+                },
+                "Arctic Asiago": {
+                    "-": 2.4,
+                    "Winter": 2.51
+                }
+            },
+            "Tree (5)": {
+                "SB+": {
+                    "-": 2.36,
+                    "Winter": 4.72
+                },
+                "Gouda": {
+                    "-": 7.71,
+                    "Winter": 5.96
+                },
+                "Brie": {
+                    "-": 9.55
+                },
+                "Arctic Asiago": {
+                    "-": 1.07,
+                    "Winter": 2.97
+                }
+            },
+            "Scarf (6)": {
+                "SB+": {
+                    "-": 3.06,
+                    "Winter": 1.75
+                },
+                "Gouda": {
+                    "-": 7.21,
+                    "Winter": 6.99
+                },
+                "Arctic Asiago": {
+                    "-": 2.99,
+                    "Winter": 0.42
+                }
+            },
+            "Gingerbread (7)": {
+                "SB+": {
+                    "-": 2.67,
+                    "Winter": 3.31
+                },
+                "Gouda": {
+                    "-": 6.73,
+                    "Winter": 5.17
+                },
+                "Brie": {
+                    "-": 8.49
+                },
+                "Arctic Asiago": {
+                    "-": 1.69,
+                    "Winter": 2.49
+                }
+            },
+            "Peppermint (8)": {
+                "SB+": {
+                    "-": 3.04,
+                    "Winter": 1.82
+                },
+                "Gouda": {
+                    "-": 7.36,
+                    "Winter": 7.86
+                },
+                "Brie": {
+                    "-": 9.01
+                },
+                "Arctic Asiago": {
+                    "-": 2.16,
+                    "Winter": 2.02
+                }
+            },
+            "Ice (9)": {
+                "SB+": {
+                    "-": 2.93,
+                    "Winter": 2.06
+                },
+                "Gouda": {
+                    "-": 7.69,
+                    "Winter": 5.15
+                },
+                "Arctic Asiago": {
+                    "-": 2.52,
+                    "Winter": 4.63
+                }
+            },
+            "Nougat (10)": {
+                "SB+": {
+                    "-": 2.71,
+                    "Winter": 2.48
+                },
+                "Gouda": {
+                    "-": 6.06,
+                    "Winter": 6.39
+                },
+                "Brie": {
+                    "-": 8
+                },
+                "Arctic Asiago": {
+                    "-": 2.58,
+                    "Winter": 2.04
+                }
+            },
+            "Core": {
+                "SB+": {
+                    "-": 2.12,
+                    "Winter": 2.18,
+                    "Let It Snow": 1.7
+                },
+                "Gouda": {
+                    "-": 6.27,
+                    "Winter": 5.37,
+                    "Let It Snow": 5.53
+                },
+                "Brie": {
+                    "-": 6.62,
+                    "Winter": 7.23,
+                    "Let It Snow": 4.94
+                },
+                "Arctic Asiago": {
+                    "-": 3.53,
+                    "Winter": 2.73,
+                    "Let It Snow": 5.34
                 }
             }
         }
@@ -24146,185 +24148,24 @@
             },
             "Core": {
                 "SB+": {
-                    "-": 3.27,
-                    "Winter": 3.61,
-                    "Let It Snow": 3.16
+                    "-": 3.9,
+                    "Winter": 3.77,
+                    "Let It Snow": 2.84
                 },
                 "Gouda": {
-                    "-": 5.29,
+                    "-": 5.67,
                     "Winter": 5.19,
-                    "Let It Snow": 5.74
+                    "Let It Snow": 4.61
                 },
                 "Brie": {
-                    "-": 6.76,
-                    "Winter": 6.1,
-                    "Let It Snow": 4.71
+                    "-": 6.43,
+                    "Winter": 5.03,
+                    "Let It Snow": 4.94
                 },
                 "Arctic Asiago": {
-                    "-": 4.92,
-                    "Winter": 6.37,
-                    "Let It Snow": 5.19
-                }
-            }
-        }
-    },
-    "Nutcracker": {
-        "Festive Comet": {
-            "Snow (1)": {
-                "Gouda": {
-                    "-": 3.16,
-                    "Winter": 2.41
-                },
-                "Arctic Asiago": {
-                    "-": 3.85,
-                    "Winter": 0.8
-                }
-            },
-            "Wrapping Paper (2)": {
-                "SB+": {
-                    "-": 0.8
-                },
-                "Gouda": {
-                    "-": 2.34
-                },
-                "Arctic Asiago": {
-                    "Winter": 0.95
-                }
-            },
-            "Yule Log (3)": {
-                "Gouda": {
-                    "-": 0.99
-                },
-                "Arctic Asiago": {
-                    "-": 0.59,
-                    "Winter": 2.31
-                }
-            },
-            "Eggnog (4)": {
-                "SB+": {
-                    "-": 1.9,
-                    "Winter": 1.74
-                },
-                "Gouda": {
-                    "-": 2.96
-                },
-                "Arctic Asiago": {
-                    "-": 1.92,
-                    "Winter": 1.51
-                }
-            },
-            "Tree (5)": {
-                "SB+": {
-                    "-": 2.76,
-                    "Winter": 1.57
-                },
-                "Gouda": {
-                    "-": 2.71,
-                    "Winter": 2.44
-                },
-                "Arctic Asiago": {
-                    "-": 2.14,
-                    "Winter": 0.5
-                }
-            },
-            "Scarf (6)": {
-                "SB+": {
-                    "-": 1.53,
-                    "Winter": 2.46
-                },
-                "Gouda": {
-                    "-": 0.96,
-                    "Winter": 0.91
-                },
-                "Arctic Asiago": {
-                    "-": 0.75,
-                    "Winter": 1.27
-                }
-            },
-            "Gingerbread (7)": {
-                "SB+": {
-                    "-": 1.19,
-                    "Winter": 2.21
-                },
-                "Gouda": {
-                    "-": 1.52,
-                    "Winter": 1.11
-                },
-                "Brie": {
-                    "-": 2.83
-                },
-                "Arctic Asiago": {
-                    "-": 2.03,
-                    "Winter": 1.24
-                }
-            },
-            "Peppermint (8)": {
-                "SB+": {
-                    "-": 2.58,
-                    "Winter": 1.3
-                },
-                "Gouda": {
-                    "-": 2.28,
-                    "Winter": 1.26
-                },
-                "Brie": {
-                    "-": 1.8
-                },
-                "Arctic Asiago": {
-                    "-": 1.8,
-                    "Winter": 1.21
-                }
-            },
-            "Ice (9)": {
-                "SB+": {
-                    "-": 0.68,
-                    "Winter": 1.18
-                },
-                "Gouda": {
-                    "-": 1.88,
-                    "Winter": 2.06
-                },
-                "Arctic Asiago": {
-                    "-": 1.58,
-                    "Winter": 1.78
-                }
-            },
-            "Nougat (10)": {
-                "SB+": {
-                    "-": 2.58,
-                    "Winter": 0.91
-                },
-                "Gouda": {
-                    "-": 2.26,
-                    "Winter": 2
-                },
-                "Brie": {
-                    "-": 3.33
-                },
-                "Arctic Asiago": {
-                    "-": 2.58,
-                    "Winter": 1.79
-                }
-            },
-            "Core": {
-                "SB+": {
-                    "-": 1.63,
-                    "Winter": 1.63
-                },
-                "Gouda": {
-                    "-": 2,
-                    "Winter": 2.19,
-                    "Let It Snow": 0.82
-                },
-                "Brie": {
-                    "-": 1.56,
-                    "Winter": 0.94,
-                    "Let It Snow": 4.71
-                },
-                "Arctic Asiago": {
-                    "-": 1.57,
-                    "Winter": 0.75,
-                    "Let It Snow": 1.3
+                    "-": 4.41,
+                    "Winter": 5.96,
+                    "Let It Snow": 4.58
                 }
             }
         }
@@ -24469,24 +24310,186 @@
             },
             "Core": {
                 "SB+": {
-                    "-": 2.09,
-                    "Winter": 1.91,
-                    "Let It Snow": 2.11
+                    "-": 2.3,
+                    "Winter": 2.1,
+                    "Let It Snow": 2.27
                 },
                 "Gouda": {
-                    "-": 5.64,
-                    "Winter": 5.43,
-                    "Let It Snow": 6.56
+                    "-": 5.25,
+                    "Winter": 4.78,
+                    "Let It Snow": 6.45
                 },
                 "Brie": {
-                    "-": 6.41,
-                    "Winter": 6.1,
-                    "Let It Snow": 2.35
+                    "-": 5.11,
+                    "Winter": 5.35,
+                    "Let It Snow": 4.32
                 },
                 "Arctic Asiago": {
-                    "-": 3.54,
-                    "Winter": 1.87,
-                    "Let It Snow": 1.3
+                    "-": 3.9,
+                    "Winter": 2.48,
+                    "Let It Snow": 1.53
+                }
+            }
+        }
+    },
+    "Nutcracker": {
+        "Festive Comet": {
+            "Snow (1)": {
+                "Gouda": {
+                    "-": 3.16,
+                    "Winter": 2.41
+                },
+                "Arctic Asiago": {
+                    "-": 3.85,
+                    "Winter": 0.8
+                }
+            },
+            "Wrapping Paper (2)": {
+                "SB+": {
+                    "-": 0.8
+                },
+                "Gouda": {
+                    "-": 2.34
+                },
+                "Arctic Asiago": {
+                    "Winter": 0.95
+                }
+            },
+            "Yule Log (3)": {
+                "Gouda": {
+                    "-": 0.99
+                },
+                "Arctic Asiago": {
+                    "-": 0.59,
+                    "Winter": 2.31
+                }
+            },
+            "Eggnog (4)": {
+                "SB+": {
+                    "-": 1.9,
+                    "Winter": 1.74
+                },
+                "Gouda": {
+                    "-": 2.96
+                },
+                "Arctic Asiago": {
+                    "-": 1.92,
+                    "Winter": 1.51
+                }
+            },
+            "Tree (5)": {
+                "SB+": {
+                    "-": 2.76,
+                    "Winter": 1.57
+                },
+                "Gouda": {
+                    "-": 2.71,
+                    "Winter": 2.44
+                },
+                "Arctic Asiago": {
+                    "-": 2.14,
+                    "Winter": 0.5
+                }
+            },
+            "Scarf (6)": {
+                "SB+": {
+                    "-": 1.53,
+                    "Winter": 2.46
+                },
+                "Gouda": {
+                    "-": 0.96,
+                    "Winter": 0.91
+                },
+                "Arctic Asiago": {
+                    "-": 0.75,
+                    "Winter": 1.27
+                }
+            },
+            "Gingerbread (7)": {
+                "SB+": {
+                    "-": 1.19,
+                    "Winter": 2.21
+                },
+                "Gouda": {
+                    "-": 1.52,
+                    "Winter": 1.11
+                },
+                "Brie": {
+                    "-": 2.83
+                },
+                "Arctic Asiago": {
+                    "-": 2.03,
+                    "Winter": 1.24
+                }
+            },
+            "Peppermint (8)": {
+                "SB+": {
+                    "-": 2.58,
+                    "Winter": 1.3
+                },
+                "Gouda": {
+                    "-": 2.28,
+                    "Winter": 1.26
+                },
+                "Brie": {
+                    "-": 1.8
+                },
+                "Arctic Asiago": {
+                    "-": 1.8,
+                    "Winter": 1.21
+                }
+            },
+            "Ice (9)": {
+                "SB+": {
+                    "-": 0.68,
+                    "Winter": 1.18
+                },
+                "Gouda": {
+                    "-": 1.88,
+                    "Winter": 2.06
+                },
+                "Arctic Asiago": {
+                    "-": 1.58,
+                    "Winter": 1.78
+                }
+            },
+            "Nougat (10)": {
+                "SB+": {
+                    "-": 2.58,
+                    "Winter": 0.91
+                },
+                "Gouda": {
+                    "-": 2.26,
+                    "Winter": 2
+                },
+                "Brie": {
+                    "-": 3.33
+                },
+                "Arctic Asiago": {
+                    "-": 2.58,
+                    "Winter": 1.79
+                }
+            },
+            "Core": {
+                "SB+": {
+                    "-": 1.58,
+                    "Winter": 1.8,
+                    "Let It Snow": 0.57
+                },
+                "Gouda": {
+                    "-": 1.95,
+                    "Winter": 2.05,
+                    "Let It Snow": 0.46
+                },
+                "Brie": {
+                    "-": 2.27,
+                    "Winter": 1.26,
+                    "Let It Snow": 4.32
+                },
+                "Arctic Asiago": {
+                    "-": 1.39,
+                    "Winter": 1.24,
+                    "Let It Snow": 1.53
                 }
             }
         }
@@ -24629,23 +24632,23 @@
             },
             "Core": {
                 "SB+": {
-                    "-": 1.86,
+                    "-": 1.84,
                     "Winter": 1.34,
-                    "Let It Snow": 2.11
+                    "Let It Snow": 1.7
                 },
                 "Gouda": {
-                    "-": 2.18,
-                    "Winter": 2.76,
-                    "Let It Snow": 3.28
+                    "-": 2.17,
+                    "Winter": 2.46,
+                    "Let It Snow": 2.76
                 },
                 "Brie": {
                     "-": 2.08,
-                    "Winter": 0.94,
-                    "Let It Snow": 3.53
+                    "Winter": 1.26,
+                    "Let It Snow": 3.7
                 },
                 "Arctic Asiago": {
-                    "-": 0.98,
-                    "Winter": 0.75
+                    "-": 1.13,
+                    "Winter": 1.24
                 }
             }
         }
@@ -24790,185 +24793,24 @@
             },
             "Core": {
                 "SB+": {
-                    "-": 2.59,
-                    "Winter": 3.39,
-                    "Let It Snow": 2.11
+                    "-": 2.53,
+                    "Winter": 3.02,
+                    "Let It Snow": 3.98
                 },
                 "Gouda": {
-                    "-": 1.51,
-                    "Winter": 1.13,
-                    "Let It Snow": 0.82
-                },
-                "Brie": {
-                    "-": 1.73,
-                    "Winter": 0.47
-                },
-                "Arctic Asiago": {
-                    "-": 2.95,
-                    "Winter": 2.62,
-                    "Let It Snow": 2.6
-                }
-            }
-        }
-    },
-    "Candy Cane": {
-        "Festive Comet": {
-            "Snow (1)": {
-                "Gouda": {
-                    "-": 1.58,
-                    "Winter": 1.2
-                },
-                "Arctic Asiago": {
-                    "-": 0.77
-                }
-            },
-            "Wrapping Paper (2)": {
-                "SB+": {
-                    "-": 1.6
-                },
-                "Gouda": {
-                    "-": 1.75
-                },
-                "Arctic Asiago": {
-                    "Winter": 1.9
-                }
-            },
-            "Yule Log (3)": {
-                "Gouda": {
-                    "-": 2.96
-                },
-                "Arctic Asiago": {
-                    "-": 1.18,
-                    "Winter": 0.77
-                }
-            },
-            "Eggnog (4)": {
-                "SB+": {
-                    "Winter": 1.74
-                },
-                "Gouda": {
-                    "-": 1.35
-                },
-                "Arctic Asiago": {
-                    "-": 1.92,
-                    "Winter": 1.51
-                }
-            },
-            "Tree (5)": {
-                "SB+": {
-                    "-": 0.79
-                },
-                "Gouda": {
-                    "-": 1.46,
-                    "Winter": 0.54
-                },
-                "Brie": {
-                    "-": 1.91
-                },
-                "Arctic Asiago": {
-                    "-": 1.78,
-                    "Winter": 1.49
-                }
-            },
-            "Scarf (6)": {
-                "SB+": {
-                    "-": 3.06,
-                    "Winter": 1.4
-                },
-                "Gouda": {
-                    "-": 1.68,
-                    "Winter": 1.22
-                },
-                "Arctic Asiago": {
-                    "-": 1.87,
-                    "Winter": 3.38
-                }
-            },
-            "Gingerbread (7)": {
-                "SB+": {
-                    "-": 1.48,
-                    "Winter": 0.55
-                },
-                "Gouda": {
-                    "-": 1.68,
-                    "Winter": 1.48
-                },
-                "Brie": {
-                    "-": 1.89
-                },
-                "Arctic Asiago": {
-                    "-": 0.68,
-                    "Winter": 1.24
-                }
-            },
-            "Peppermint (8)": {
-                "SB+": {
-                    "-": 1.87,
-                    "Winter": 1.56
-                },
-                "Gouda": {
-                    "-": 2.28,
-                    "Winter": 2.2
-                },
-                "Brie": {
-                    "-": 1.8
-                },
-                "Arctic Asiago": {
-                    "-": 1.44,
-                    "Winter": 2.43
-                }
-            },
-            "Ice (9)": {
-                "SB+": {
-                    "-": 1.8,
-                    "Winter": 2.36
-                },
-                "Gouda": {
-                    "-": 1.73,
-                    "Winter": 1.03
-                },
-                "Arctic Asiago": {
-                    "-": 1.26,
-                    "Winter": 1.42
-                }
-            },
-            "Nougat (10)": {
-                "SB+": {
-                    "-": 1.16,
-                    "Winter": 1.69
-                },
-                "Gouda": {
-                    "-": 2.12,
-                    "Winter": 1
-                },
-                "Brie": {
-                    "-": 5.33
-                },
-                "Arctic Asiago": {
-                    "-": 0.92,
-                    "Winter": 2.81
-                }
-            },
-            "Core": {
-                "SB+": {
-                    "-": 1.45,
-                    "Winter": 2.12,
-                    "Let It Snow": 2.11
-                },
-                "Gouda": {
-                    "-": 1.38,
-                    "Winter": 1.46,
-                    "Let It Snow": 1.64
-                },
-                "Brie": {
-                    "-": 2.6,
+                    "-": 1.41,
                     "Winter": 1.41,
-                    "Let It Snow": 1.18
+                    "Let It Snow": 0.92
+                },
+                "Brie": {
+                    "-": 1.89,
+                    "Winter": 1.57,
+                    "Let It Snow": 0.62
                 },
                 "Arctic Asiago": {
-                    "-": 1.18,
-                    "Winter": 0.37,
-                    "Let It Snow": 1.3
+                    "-": 3.4,
+                    "Winter": 2.48,
+                    "Let It Snow": 3.82
                 }
             }
         }
@@ -25113,24 +24955,186 @@
             },
             "Core": {
                 "SB+": {
-                    "-": 2.18,
-                    "Winter": 2.97,
-                    "Let It Snow": 2.11
+                    "-": 2.69,
+                    "Winter": 2.98,
+                    "Let It Snow": 4.55
                 },
                 "Gouda": {
-                    "-": 1.64,
-                    "Winter": 1.46,
-                    "Let It Snow": 2.46
+                    "-": 1.55,
+                    "Winter": 1.5,
+                    "Let It Snow": 1.84
                 },
                 "Brie": {
-                    "-": 1.04,
-                    "Winter": 0.47,
-                    "Let It Snow": 2.35
+                    "-": 1.14,
+                    "Winter": 1.57,
+                    "Let It Snow": 1.23
                 },
                 "Arctic Asiago": {
-                    "-": 3.35,
-                    "Winter": 3.75,
-                    "Let It Snow": 1.3
+                    "-": 4.16,
+                    "Winter": 4.47,
+                    "Let It Snow": 1.53
+                }
+            }
+        }
+    },
+    "Candy Cane": {
+        "Festive Comet": {
+            "Snow (1)": {
+                "Gouda": {
+                    "-": 1.58,
+                    "Winter": 1.2
+                },
+                "Arctic Asiago": {
+                    "-": 0.77
+                }
+            },
+            "Wrapping Paper (2)": {
+                "SB+": {
+                    "-": 1.6
+                },
+                "Gouda": {
+                    "-": 1.75
+                },
+                "Arctic Asiago": {
+                    "Winter": 1.9
+                }
+            },
+            "Yule Log (3)": {
+                "Gouda": {
+                    "-": 2.96
+                },
+                "Arctic Asiago": {
+                    "-": 1.18,
+                    "Winter": 0.77
+                }
+            },
+            "Eggnog (4)": {
+                "SB+": {
+                    "Winter": 1.74
+                },
+                "Gouda": {
+                    "-": 1.35
+                },
+                "Arctic Asiago": {
+                    "-": 1.92,
+                    "Winter": 1.51
+                }
+            },
+            "Tree (5)": {
+                "SB+": {
+                    "-": 0.79
+                },
+                "Gouda": {
+                    "-": 1.46,
+                    "Winter": 0.54
+                },
+                "Brie": {
+                    "-": 1.91
+                },
+                "Arctic Asiago": {
+                    "-": 1.78,
+                    "Winter": 1.49
+                }
+            },
+            "Scarf (6)": {
+                "SB+": {
+                    "-": 3.06,
+                    "Winter": 1.4
+                },
+                "Gouda": {
+                    "-": 1.68,
+                    "Winter": 1.22
+                },
+                "Arctic Asiago": {
+                    "-": 1.87,
+                    "Winter": 3.38
+                }
+            },
+            "Gingerbread (7)": {
+                "SB+": {
+                    "-": 1.48,
+                    "Winter": 0.55
+                },
+                "Gouda": {
+                    "-": 1.68,
+                    "Winter": 1.48
+                },
+                "Brie": {
+                    "-": 1.89
+                },
+                "Arctic Asiago": {
+                    "-": 0.68,
+                    "Winter": 1.24
+                }
+            },
+            "Peppermint (8)": {
+                "SB+": {
+                    "-": 1.87,
+                    "Winter": 1.56
+                },
+                "Gouda": {
+                    "-": 2.28,
+                    "Winter": 2.2
+                },
+                "Brie": {
+                    "-": 1.8
+                },
+                "Arctic Asiago": {
+                    "-": 1.44,
+                    "Winter": 2.43
+                }
+            },
+            "Ice (9)": {
+                "SB+": {
+                    "-": 1.8,
+                    "Winter": 2.36
+                },
+                "Gouda": {
+                    "-": 1.73,
+                    "Winter": 1.03
+                },
+                "Arctic Asiago": {
+                    "-": 1.26,
+                    "Winter": 1.42
+                }
+            },
+            "Nougat (10)": {
+                "SB+": {
+                    "-": 1.16,
+                    "Winter": 1.69
+                },
+                "Gouda": {
+                    "-": 2.12,
+                    "Winter": 1
+                },
+                "Brie": {
+                    "-": 5.33
+                },
+                "Arctic Asiago": {
+                    "-": 0.92,
+                    "Winter": 2.81
+                }
+            },
+            "Core": {
+                "SB+": {
+                    "-": 1.47,
+                    "Winter": 1.93,
+                    "Let It Snow": 2.27
+                },
+                "Gouda": {
+                    "-": 1.52,
+                    "Winter": 1.73,
+                    "Let It Snow": 2.3
+                },
+                "Brie": {
+                    "-": 2.46,
+                    "Winter": 1.26,
+                    "Let It Snow": 0.62
+                },
+                "Arctic Asiago": {
+                    "-": 1.51,
+                    "Winter": 0.5,
+                    "Let It Snow": 0.76
                 }
             }
         }
@@ -25278,22 +25282,24 @@
             },
             "Core": {
                 "SB+": {
-                    "-": 3.31,
-                    "Winter": 4.74,
-                    "Let It Snow": 4.21
+                    "-": 3.52,
+                    "Winter": 4.57,
+                    "Let It Snow": 2.84
                 },
                 "Gouda": {
-                    "-": 1.91,
-                    "Winter": 1.62
+                    "-": 1.84,
+                    "Winter": 1.77,
+                    "Let It Snow": 0.46
                 },
                 "Brie": {
-                    "-": 1.73,
-                    "Winter": 1.41
+                    "-": 1.8,
+                    "Winter": 2.2,
+                    "Let It Snow": 1.23
                 },
                 "Arctic Asiago": {
-                    "-": 4.13,
-                    "Winter": 3.75,
-                    "Let It Snow": 6.49
+                    "-": 4.28,
+                    "Winter": 4.22,
+                    "Let It Snow": 5.34
                 }
             }
         }
@@ -25435,22 +25441,24 @@
             },
             "Core": {
                 "SB+": {
-                    "-": 3.45,
-                    "Winter": 5.37,
-                    "Let It Snow": 4.21
+                    "-": 3.7,
+                    "Winter": 4.7,
+                    "Let It Snow": 4.55
                 },
                 "Gouda": {
-                    "-": 1.07,
-                    "Winter": 1.13
+                    "-": 1.02,
+                    "Winter": 1,
+                    "Let It Snow": 1.84
                 },
                 "Brie": {
-                    "-": 0.35,
-                    "Winter": 0.47
+                    "-": 0.57,
+                    "Winter": 0.63,
+                    "Let It Snow": 0.62
                 },
                 "Arctic Asiago": {
-                    "-": 4.13,
-                    "Winter": 3.75,
-                    "Let It Snow": 2.6
+                    "-": 4.53,
+                    "Winter": 3.97,
+                    "Let It Snow": 3.05
                 }
             }
         }
@@ -25581,19 +25589,19 @@
             },
             "Core": {
                 "SB+": {
-                    "Winter": 8.2
+                    "Winter": 7.97
                 },
                 "Gouda": {
-                    "Winter": 9.08
+                    "Winter": 9.37
                 },
                 "Brie": {
-                    "Winter": 11.27
+                    "Winter": 10.38
                 },
                 "Pecan Pecorino": {
-                    "Winter": 7.35
+                    "Winter": 7.42
                 },
                 "Arctic Asiago": {
-                    "Winter": 6.74
+                    "Winter": 7.2
                 }
             }
         }
@@ -25672,9 +25680,9 @@
             },
             "Core": {
                 "Pecan Pecorino": {
-                    "-": 16.81,
-                    "Winter": 15.96,
-                    "Let It Snow": 13.76
+                    "-": 16.84,
+                    "Winter": 15.78,
+                    "Let It Snow": 13.97
                 }
             }
         }
@@ -25753,9 +25761,9 @@
             },
             "Core": {
                 "Pecan Pecorino": {
-                    "-": 7.64,
-                    "Winter": 7.67,
-                    "Let It Snow": 6
+                    "-": 7.8,
+                    "Winter": 7.51,
+                    "Let It Snow": 6.31
                 }
             }
         }
@@ -25834,9 +25842,9 @@
             },
             "Core": {
                 "Pecan Pecorino": {
-                    "-": 6.74,
-                    "Winter": 6.15,
-                    "Let It Snow": 5.34
+                    "-": 6.8,
+                    "Winter": 6.12,
+                    "Let It Snow": 5.53
                 }
             }
         }
@@ -25915,8 +25923,8 @@
             },
             "Core": {
                 "Pecan Pecorino": {
-                    "-": 4.96,
-                    "Winter": 4.6,
+                    "-": 4.99,
+                    "Winter": 4.42,
                     "Let It Snow": 4.2
                 }
             }
@@ -25996,9 +26004,9 @@
             },
             "Core": {
                 "Pecan Pecorino": {
-                    "-": 3.83,
-                    "Winter": 3.61,
-                    "Let It Snow": 3.22
+                    "-": 3.9,
+                    "Winter": 3.73,
+                    "Let It Snow": 3.16
                 }
             }
         }
@@ -26077,9 +26085,9 @@
             },
             "Core": {
                 "Pecan Pecorino": {
-                    "-": 3.74,
-                    "Winter": 3.82,
-                    "Let It Snow": 3.36
+                    "-": 3.82,
+                    "Winter": 3.87,
+                    "Let It Snow": 3.24
                 }
             }
         }
@@ -26158,9 +26166,9 @@
             },
             "Core": {
                 "Pecan Pecorino": {
-                    "-": 3.81,
-                    "Winter": 3.56,
-                    "Let It Snow": 3.27
+                    "-": 3.72,
+                    "Winter": 3.6,
+                    "Let It Snow": 3.2
                 }
             }
         }
@@ -26239,9 +26247,9 @@
             },
             "Core": {
                 "Pecan Pecorino": {
-                    "-": 3.82,
-                    "Winter": 3.14,
-                    "Let It Snow": 3.06
+                    "-": 3.87,
+                    "Winter": 3.5,
+                    "Let It Snow": 3.09
                 }
             }
         }
@@ -26320,9 +26328,9 @@
             },
             "Core": {
                 "Pecan Pecorino": {
-                    "-": 3.27,
-                    "Winter": 2.8,
-                    "Let It Snow": 2.35
+                    "-": 3.39,
+                    "Winter": 2.83,
+                    "Let It Snow": 2.49
                 }
             }
         }
@@ -26401,8 +26409,8 @@
             },
             "Core": {
                 "Pecan Pecorino": {
-                    "-": 2.87,
-                    "Winter": 2.94,
+                    "-": 2.97,
+                    "Winter": 2.78,
                     "Let It Snow": 2.59
                 }
             }
@@ -26482,9 +26490,9 @@
             },
             "Core": {
                 "Pecan Pecorino": {
-                    "-": 2.33,
-                    "Winter": 1.93,
-                    "Let It Snow": 2.06
+                    "-": 2.29,
+                    "Winter": 2.2,
+                    "Let It Snow": 1.92
                 }
             }
         }
@@ -26563,9 +26571,9 @@
             },
             "Core": {
                 "Pecan Pecorino": {
-                    "-": 3.1,
-                    "Winter": 3,
-                    "Let It Snow": 2.3
+                    "-": 3.13,
+                    "Winter": 3.05,
+                    "Let It Snow": 2.38
                 }
             }
         }
@@ -26644,9 +26652,9 @@
             },
             "Core": {
                 "Pecan Pecorino": {
-                    "-": 3.05,
-                    "Winter": 2.67,
-                    "Let It Snow": 2.41
+                    "-": 2.92,
+                    "Winter": 2.72,
+                    "Let It Snow": 2.53
                 }
             }
         }
@@ -26725,9 +26733,9 @@
             },
             "Core": {
                 "Pecan Pecorino": {
-                    "-": 2.63,
-                    "Winter": 1.97,
-                    "Let It Snow": 1.84
+                    "-": 2.6,
+                    "Winter": 2.07,
+                    "Let It Snow": 1.81
                 }
             }
         }
@@ -26806,9 +26814,9 @@
             },
             "Core": {
                 "Pecan Pecorino": {
-                    "-": 2.33,
-                    "Winter": 2.02,
-                    "Let It Snow": 1.69
+                    "-": 2.37,
+                    "Winter": 2.05,
+                    "Let It Snow": 1.83
                 }
             }
         }
@@ -26887,9 +26895,9 @@
             },
             "Core": {
                 "Pecan Pecorino": {
-                    "-": 1.62,
-                    "Winter": 1.36,
-                    "Let It Snow": 1.33
+                    "-": 1.61,
+                    "Winter": 1.44,
+                    "Let It Snow": 1.34
                 }
             }
         }
@@ -26968,9 +26976,9 @@
             },
             "Core": {
                 "Pecan Pecorino": {
-                    "-": 2.42,
-                    "Winter": 2.57,
-                    "Let It Snow": 1.97
+                    "-": 2.4,
+                    "Winter": 2.42,
+                    "Let It Snow": 2.04
                 }
             }
         }
@@ -27049,9 +27057,9 @@
             },
             "Core": {
                 "Pecan Pecorino": {
-                    "-": 1.48,
-                    "Winter": 1.55,
-                    "Let It Snow": 1.31
+                    "-": 1.59,
+                    "Winter": 1.54,
+                    "Let It Snow": 1.22
                 }
             }
         }
@@ -27130,9 +27138,9 @@
             },
             "Core": {
                 "Pecan Pecorino": {
-                    "-": 1.47,
-                    "Winter": 1.45,
-                    "Let It Snow": 1.28
+                    "-": 1.53,
+                    "Winter": 1.5,
+                    "Let It Snow": 1.27
                 }
             }
         }
@@ -27191,19 +27199,19 @@
             },
             "Core": {
                 "SB+": {
-                    "Let It Snow": 8.42
+                    "Let It Snow": 7.39
                 },
                 "Gouda": {
-                    "Let It Snow": 10.66
+                    "Let It Snow": 11.06
                 },
                 "Brie": {
-                    "Let It Snow": 18.82
+                    "Let It Snow": 14.81
                 },
                 "Pecan Pecorino": {
-                    "Let It Snow": 17.91
+                    "Let It Snow": 18.03
                 },
                 "Arctic Asiago": {
-                    "Let It Snow": 15.58
+                    "Let It Snow": 14.5
                 }
             }
         }
@@ -27302,14 +27310,14 @@
             },
             "Core": {
                 "SB+": {
-                    "-": 9.8,
-                    "Winter": 10.04,
-                    "Let It Snow": 5.26
+                    "-": 9.67,
+                    "Winter": 9.94,
+                    "Let It Snow": 5.11
                 },
                 "Arctic Asiago": {
-                    "-": 7.68,
-                    "Winter": 5.62,
-                    "Let It Snow": 7.79
+                    "-": 8.82,
+                    "Winter": 6.2,
+                    "Let It Snow": 7.63
                 }
             }
         }
@@ -27408,14 +27416,14 @@
             },
             "Core": {
                 "SB+": {
-                    "-": 2.81,
-                    "Winter": 2.9,
-                    "Let It Snow": 4.21
+                    "-": 2.97,
+                    "Winter": 2.85,
+                    "Let It Snow": 2.84
                 },
                 "Arctic Asiago": {
-                    "-": 4.33,
-                    "Winter": 3,
-                    "Let It Snow": 1.3
+                    "-": 3.53,
+                    "Winter": 2.98,
+                    "Let It Snow": 2.29
                 }
             }
         }
@@ -27511,13 +27519,205 @@
             },
             "Core": {
                 "SB+": {
-                    "-": 1.5,
-                    "Winter": 1.41
+                    "-": 1.29,
+                    "Winter": 1.55,
+                    "Let It Snow": 0.57
                 },
                 "Arctic Asiago": {
-                    "-": 1.97,
-                    "Winter": 1.12,
-                    "Let It Snow": 1.3
+                    "-": 1.51,
+                    "Winter": 0.99,
+                    "Let It Snow": 3.05
+                }
+            }
+        }
+    },
+    "Black Diamond Racer": {
+        "Festive Comet": {
+            "Snow (1)": {
+                "Arctic Asiago": {
+                    "-": 0.77,
+                    "Winter": 0.8
+                }
+            },
+            "Wrapping Paper (2)": {
+                "SB+": {
+                    "-": 2.4
+                }
+            },
+            "Yule Log (3)": {
+                "Arctic Asiago": {
+                    "-": 2.96,
+                    "Winter": 1.54
+                }
+            },
+            "Eggnog (4)": {
+                "SB+": {
+                    "-": 1.27
+                },
+                "Arctic Asiago": {
+                    "-": 1.92,
+                    "Winter": 1.01
+                }
+            },
+            "Tree (5)": {
+                "SB+": {
+                    "-": 0.79,
+                    "Winter": 0.79
+                },
+                "Arctic Asiago": {
+                    "-": 1.07
+                }
+            },
+            "Scarf (6)": {
+                "SB+": {
+                    "-": 1.02,
+                    "Winter": 0.7
+                },
+                "Arctic Asiago": {
+                    "-": 1.87,
+                    "Winter": 0.84
+                }
+            },
+            "Gingerbread (7)": {
+                "Arctic Asiago": {
+                    "-": 0.34,
+                    "Winter": 0.83
+                }
+            },
+            "Peppermint (8)": {
+                "SB+": {
+                    "-": 0.23,
+                    "Winter": 1.04
+                },
+                "Arctic Asiago": {
+                    "-": 0.72
+                }
+            },
+            "Ice (9)": {
+                "SB+": {
+                    "-": 0.45,
+                    "Winter": 0.88
+                },
+                "Arctic Asiago": {
+                    "-": 0.32,
+                    "Winter": 1.42
+                }
+            },
+            "Nougat (10)": {
+                "SB+": {
+                    "-": 1.03,
+                    "Winter": 0.65
+                },
+                "Arctic Asiago": {
+                    "-": 0.92,
+                    "Winter": 1.02
+                }
+            },
+            "Core": {
+                "SB+": {
+                    "-": 0.57,
+                    "Winter": 0.63,
+                    "Let It Snow": 1.14
+                },
+                "Arctic Asiago": {
+                    "-": 0.76,
+                    "Winter": 1.74,
+                    "Let It Snow": 0.76
+                }
+            }
+        }
+    },
+    "Mouse Of Winter Future": {
+        "Festive Comet": {
+            "Snow (1)": {
+                "Arctic Asiago": {
+                    "-": 0.77,
+                    "Winter": 0.8
+                }
+            },
+            "Wrapping Paper (2)": {
+                "Arctic Asiago": {
+                    "Winter": 1.9
+                }
+            },
+            "Eggnog (4)": {
+                "SB+": {
+                    "-": 1.27,
+                    "Winter": 1.74
+                },
+                "Arctic Asiago": {
+                    "-": 1.44,
+                    "Winter": 0.5
+                }
+            },
+            "Tree (5)": {
+                "SB+": {
+                    "-": 1.18
+                },
+                "Arctic Asiago": {
+                    "-": 0.71,
+                    "Winter": 1.49
+                }
+            },
+            "Scarf (6)": {
+                "SB+": {
+                    "-": 1.02,
+                    "Winter": 0.35
+                },
+                "Arctic Asiago": {
+                    "-": 0.37,
+                    "Winter": 1.27
+                }
+            },
+            "Gingerbread (7)": {
+                "SB+": {
+                    "-": 0.89
+                },
+                "Arctic Asiago": {
+                    "-": 0.34,
+                    "Winter": 0.41
+                }
+            },
+            "Peppermint (8)": {
+                "SB+": {
+                    "-": 0.23,
+                    "Winter": 0.52
+                },
+                "Arctic Asiago": {
+                    "-": 1.08,
+                    "Winter": 0.81
+                }
+            },
+            "Ice (9)": {
+                "SB+": {
+                    "-": 0.68,
+                    "Winter": 1.47
+                },
+                "Arctic Asiago": {
+                    "-": 0.95,
+                    "Winter": 1.42
+                }
+            },
+            "Nougat (10)": {
+                "SB+": {
+                    "-": 1.16,
+                    "Winter": 0.65
+                },
+                "Arctic Asiago": {
+                    "-": 1.47,
+                    "Winter": 0.26
+                }
+            },
+            "Core": {
+                "SB+": {
+                    "-": 0.75,
+                    "Winter": 0.59,
+                    "Let It Snow": 0.57
+                },
+                "Arctic Asiago": {
+                    "-": 0.5,
+                    "Winter": 0.5,
+                    "Let It Snow": 0.76
                 }
             }
         }
@@ -27609,202 +27809,12 @@
             },
             "Core": {
                 "SB+": {
-                    "-": 0.68,
-                    "Winter": 1.13
+                    "-": 0.83,
+                    "Winter": 0.96
                 },
                 "Arctic Asiago": {
-                    "-": 0.39,
-                    "Winter": 0.75
-                }
-            }
-        }
-    },
-    "Mouse Of Winter Future": {
-        "Festive Comet": {
-            "Snow (1)": {
-                "Arctic Asiago": {
-                    "-": 0.77,
-                    "Winter": 0.8
-                }
-            },
-            "Wrapping Paper (2)": {
-                "Arctic Asiago": {
-                    "Winter": 1.9
-                }
-            },
-            "Eggnog (4)": {
-                "SB+": {
-                    "-": 1.27,
-                    "Winter": 1.74
-                },
-                "Arctic Asiago": {
-                    "-": 1.44,
+                    "-": 0.38,
                     "Winter": 0.5
-                }
-            },
-            "Tree (5)": {
-                "SB+": {
-                    "-": 1.18
-                },
-                "Arctic Asiago": {
-                    "-": 0.71,
-                    "Winter": 1.49
-                }
-            },
-            "Scarf (6)": {
-                "SB+": {
-                    "-": 1.02,
-                    "Winter": 0.35
-                },
-                "Arctic Asiago": {
-                    "-": 0.37,
-                    "Winter": 1.27
-                }
-            },
-            "Gingerbread (7)": {
-                "SB+": {
-                    "-": 0.89
-                },
-                "Arctic Asiago": {
-                    "-": 0.34,
-                    "Winter": 0.41
-                }
-            },
-            "Peppermint (8)": {
-                "SB+": {
-                    "-": 0.23,
-                    "Winter": 0.52
-                },
-                "Arctic Asiago": {
-                    "-": 1.08,
-                    "Winter": 0.81
-                }
-            },
-            "Ice (9)": {
-                "SB+": {
-                    "-": 0.68,
-                    "Winter": 1.47
-                },
-                "Arctic Asiago": {
-                    "-": 0.95,
-                    "Winter": 1.42
-                }
-            },
-            "Nougat (10)": {
-                "SB+": {
-                    "-": 1.16,
-                    "Winter": 0.65
-                },
-                "Arctic Asiago": {
-                    "-": 1.47,
-                    "Winter": 0.26
-                }
-            },
-            "Core": {
-                "SB+": {
-                    "-": 0.73,
-                    "Winter": 0.57,
-                    "Let It Snow": 1.05
-                },
-                "Arctic Asiago": {
-                    "-": 0.2,
-                    "Winter": 0.37,
-                    "Let It Snow": 1.3
-                }
-            }
-        }
-    },
-    "Black Diamond Racer": {
-        "Festive Comet": {
-            "Snow (1)": {
-                "Arctic Asiago": {
-                    "-": 0.77,
-                    "Winter": 0.8
-                }
-            },
-            "Wrapping Paper (2)": {
-                "SB+": {
-                    "-": 2.4
-                }
-            },
-            "Yule Log (3)": {
-                "Arctic Asiago": {
-                    "-": 2.96,
-                    "Winter": 1.54
-                }
-            },
-            "Eggnog (4)": {
-                "SB+": {
-                    "-": 1.27
-                },
-                "Arctic Asiago": {
-                    "-": 1.92,
-                    "Winter": 1.01
-                }
-            },
-            "Tree (5)": {
-                "SB+": {
-                    "-": 0.79,
-                    "Winter": 0.79
-                },
-                "Arctic Asiago": {
-                    "-": 1.07
-                }
-            },
-            "Scarf (6)": {
-                "SB+": {
-                    "-": 1.02,
-                    "Winter": 0.7
-                },
-                "Arctic Asiago": {
-                    "-": 1.87,
-                    "Winter": 0.84
-                }
-            },
-            "Gingerbread (7)": {
-                "Arctic Asiago": {
-                    "-": 0.34,
-                    "Winter": 0.83
-                }
-            },
-            "Peppermint (8)": {
-                "SB+": {
-                    "-": 0.23,
-                    "Winter": 1.04
-                },
-                "Arctic Asiago": {
-                    "-": 0.72
-                }
-            },
-            "Ice (9)": {
-                "SB+": {
-                    "-": 0.45,
-                    "Winter": 0.88
-                },
-                "Arctic Asiago": {
-                    "-": 0.32,
-                    "Winter": 1.42
-                }
-            },
-            "Nougat (10)": {
-                "SB+": {
-                    "-": 1.03,
-                    "Winter": 0.65
-                },
-                "Arctic Asiago": {
-                    "-": 0.92,
-                    "Winter": 1.02
-                }
-            },
-            "Core": {
-                "SB+": {
-                    "-": 0.59,
-                    "Winter": 0.57,
-                    "Let It Snow": 1.05
-                },
-                "Arctic Asiago": {
-                    "-": 0.79,
-                    "Winter": 1.5
                 }
             }
         }
@@ -27894,12 +27904,12 @@
             },
             "Core": {
                 "SB+": {
-                    "-": 0.59,
-                    "Winter": 0.85
+                    "-": 0.75,
+                    "Winter": 0.96
                 },
                 "Arctic Asiago": {
-                    "-": 0.98,
-                    "Winter": 0.37
+                    "-": 1.01,
+                    "Winter": 0.5
                 }
             }
         }
@@ -27996,14 +28006,108 @@
             },
             "Core": {
                 "SB+": {
-                    "-": 0.68,
-                    "Winter": 0.78,
-                    "Let It Snow": 2.11
+                    "-": 0.65,
+                    "Winter": 0.96,
+                    "Let It Snow": 1.14
                 },
                 "Arctic Asiago": {
-                    "-": 1.18,
-                    "Winter": 0.75,
-                    "Let It Snow": 1.3
+                    "-": 1.13,
+                    "Winter": 0.74,
+                    "Let It Snow": 4.58
+                }
+            }
+        }
+    },
+    "Squeaker Claws": {
+        "Festive Comet": {
+            "Snow (1)": {
+                "Arctic Asiago": {
+                    "Winter": 0.8
+                }
+            },
+            "Wrapping Paper (2)": {
+                "SB+": {
+                    "-": 0.8
+                }
+            },
+            "Yule Log (3)": {
+                "Arctic Asiago": {
+                    "-": 1.18
+                }
+            },
+            "Eggnog (4)": {
+                "SB+": {
+                    "-": 0.63
+                },
+                "Arctic Asiago": {
+                    "-": 0.48,
+                    "Winter": 1.51
+                }
+            },
+            "Tree (5)": {
+                "SB+": {
+                    "-": 1.57,
+                    "Winter": 0.79
+                },
+                "Arctic Asiago": {
+                    "-": 1.42
+                }
+            },
+            "Scarf (6)": {
+                "SB+": {
+                    "Winter": 1.75
+                },
+                "Arctic Asiago": {
+                    "-": 1.12,
+                    "Winter": 0.42
+                }
+            },
+            "Gingerbread (7)": {
+                "SB+": {
+                    "Winter": 0.55
+                },
+                "Arctic Asiago": {
+                    "-": 0.68,
+                    "Winter": 0.41
+                }
+            },
+            "Peppermint (8)": {
+                "SB+": {
+                    "-": 1.41,
+                    "Winter": 1.3
+                },
+                "Arctic Asiago": {
+                    "-": 0.72,
+                    "Winter": 1.21
+                }
+            },
+            "Ice (9)": {
+                "SB+": {
+                    "-": 0.68,
+                    "Winter": 1.47
+                },
+                "Arctic Asiago": {
+                    "-": 0.32,
+                    "Winter": 1.42
+                }
+            },
+            "Nougat (10)": {
+                "SB+": {
+                    "-": 0.77,
+                    "Winter": 0.78
+                },
+                "Arctic Asiago": {
+                    "-": 0.74,
+                    "Winter": 1.28
+                }
+            },
+            "Core": {
+                "SB+": {
+                    "-": 0.59,
+                    "Winter": 1.01
+                },
+                "Arctic Asiago": {
+                    "-": 0.5
                 }
             }
         }
@@ -28095,202 +28199,14 @@
             },
             "Core": {
                 "SB+": {
-                    "-": 0.82,
-                    "Winter": 0.71
+                    "-": 0.62,
+                    "Winter": 1.01,
+                    "Let It Snow": 0.57
                 },
                 "Arctic Asiago": {
-                    "-": 1.18,
-                    "Winter": 1.12
-                }
-            }
-        }
-    },
-    "Greedy Al": {
-        "Festive Comet": {
-            "Snow (1)": {
-                "Arctic Asiago": {
-                    "Winter": 0.8
-                }
-            },
-            "Wrapping Paper (2)": {
-                "SB+": {
-                    "-": 1.6
-                }
-            },
-            "Yule Log (3)": {
-                "Arctic Asiago": {
-                    "-": 1.18
-                }
-            },
-            "Eggnog (4)": {
-                "SB+": {
-                    "-": 2.53
-                },
-                "Arctic Asiago": {
-                    "-": 0.48,
-                    "Winter": 0.5
-                }
-            },
-            "Tree (5)": {
-                "SB+": {
-                    "-": 1.18,
-                    "Winter": 1.57
-                },
-                "Arctic Asiago": {
-                    "-": 0.71
-                }
-            },
-            "Scarf (6)": {
-                "SB+": {
-                    "Winter": 0.7
-                },
-                "Arctic Asiago": {
-                    "-": 0.75,
-                    "Winter": 0.84
-                }
-            },
-            "Gingerbread (7)": {
-                "SB+": {
-                    "-": 0.3,
-                    "Winter": 1.1
-                },
-                "Arctic Asiago": {
-                    "-": 1.02,
-                    "Winter": 0.41
-                }
-            },
-            "Peppermint (8)": {
-                "SB+": {
-                    "-": 0.23,
-                    "Winter": 0.78
-                },
-                "Arctic Asiago": {
-                    "-": 0.36,
-                    "Winter": 1.62
-                }
-            },
-            "Ice (9)": {
-                "SB+": {
-                    "Winter": 0.59
-                },
-                "Arctic Asiago": {
-                    "-": 0.95,
-                    "Winter": 0.36
-                }
-            },
-            "Nougat (10)": {
-                "SB+": {
-                    "-": 0.65,
-                    "Winter": 0.26
-                },
-                "Arctic Asiago": {
-                    "-": 1.66,
-                    "Winter": 0.77
-                }
-            },
-            "Core": {
-                "SB+": {
-                    "-": 0.82,
-                    "Winter": 0.92
-                },
-                "Arctic Asiago": {
-                    "-": 1.18,
-                    "Winter": 1.12,
-                    "Let It Snow": 1.3
-                }
-            }
-        }
-    },
-    "Squeaker Claws": {
-        "Festive Comet": {
-            "Snow (1)": {
-                "Arctic Asiago": {
-                    "Winter": 0.8
-                }
-            },
-            "Wrapping Paper (2)": {
-                "SB+": {
-                    "-": 0.8
-                }
-            },
-            "Yule Log (3)": {
-                "Arctic Asiago": {
-                    "-": 1.18
-                }
-            },
-            "Eggnog (4)": {
-                "SB+": {
-                    "-": 0.63
-                },
-                "Arctic Asiago": {
-                    "-": 0.48,
-                    "Winter": 1.51
-                }
-            },
-            "Tree (5)": {
-                "SB+": {
-                    "-": 1.57,
-                    "Winter": 0.79
-                },
-                "Arctic Asiago": {
-                    "-": 1.42
-                }
-            },
-            "Scarf (6)": {
-                "SB+": {
-                    "Winter": 1.75
-                },
-                "Arctic Asiago": {
-                    "-": 1.12,
-                    "Winter": 0.42
-                }
-            },
-            "Gingerbread (7)": {
-                "SB+": {
-                    "Winter": 0.55
-                },
-                "Arctic Asiago": {
-                    "-": 0.68,
-                    "Winter": 0.41
-                }
-            },
-            "Peppermint (8)": {
-                "SB+": {
-                    "-": 1.41,
-                    "Winter": 1.3
-                },
-                "Arctic Asiago": {
-                    "-": 0.72,
-                    "Winter": 1.21
-                }
-            },
-            "Ice (9)": {
-                "SB+": {
-                    "-": 0.68,
-                    "Winter": 1.47
-                },
-                "Arctic Asiago": {
-                    "-": 0.32,
-                    "Winter": 1.42
-                }
-            },
-            "Nougat (10)": {
-                "SB+": {
-                    "-": 0.77,
-                    "Winter": 0.78
-                },
-                "Arctic Asiago": {
-                    "-": 0.74,
-                    "Winter": 1.28
-                }
-            },
-            "Core": {
-                "SB+": {
-                    "-": 0.64,
-                    "Winter": 1.06
-                },
-                "Arctic Asiago": {
-                    "-": 0.2
+                    "-": 1.13,
+                    "Winter": 0.99,
+                    "Let It Snow": 0.76
                 }
             }
         }
@@ -28381,14 +28297,111 @@
             },
             "Core": {
                 "SB+": {
-                    "-": 1.13,
-                    "Winter": 0.5,
-                    "Let It Snow": 2.11
+                    "-": 1.11,
+                    "Winter": 0.67,
+                    "Let It Snow": 1.14
                 },
                 "Arctic Asiago": {
-                    "-": 1.57,
-                    "Winter": 0.37,
-                    "Let It Snow": 1.3
+                    "-": 1.39,
+                    "Winter": 0.74,
+                    "Let It Snow": 1.53
+                }
+            }
+        }
+    },
+    "Greedy Al": {
+        "Festive Comet": {
+            "Snow (1)": {
+                "Arctic Asiago": {
+                    "Winter": 0.8
+                }
+            },
+            "Wrapping Paper (2)": {
+                "SB+": {
+                    "-": 1.6
+                }
+            },
+            "Yule Log (3)": {
+                "Arctic Asiago": {
+                    "-": 1.18
+                }
+            },
+            "Eggnog (4)": {
+                "SB+": {
+                    "-": 2.53
+                },
+                "Arctic Asiago": {
+                    "-": 0.48,
+                    "Winter": 0.5
+                }
+            },
+            "Tree (5)": {
+                "SB+": {
+                    "-": 1.18,
+                    "Winter": 1.57
+                },
+                "Arctic Asiago": {
+                    "-": 0.71
+                }
+            },
+            "Scarf (6)": {
+                "SB+": {
+                    "Winter": 0.7
+                },
+                "Arctic Asiago": {
+                    "-": 0.75,
+                    "Winter": 0.84
+                }
+            },
+            "Gingerbread (7)": {
+                "SB+": {
+                    "-": 0.3,
+                    "Winter": 1.1
+                },
+                "Arctic Asiago": {
+                    "-": 1.02,
+                    "Winter": 0.41
+                }
+            },
+            "Peppermint (8)": {
+                "SB+": {
+                    "-": 0.23,
+                    "Winter": 0.78
+                },
+                "Arctic Asiago": {
+                    "-": 0.36,
+                    "Winter": 1.62
+                }
+            },
+            "Ice (9)": {
+                "SB+": {
+                    "Winter": 0.59
+                },
+                "Arctic Asiago": {
+                    "-": 0.95,
+                    "Winter": 0.36
+                }
+            },
+            "Nougat (10)": {
+                "SB+": {
+                    "-": 0.65,
+                    "Winter": 0.26
+                },
+                "Arctic Asiago": {
+                    "-": 1.66,
+                    "Winter": 0.77
+                }
+            },
+            "Core": {
+                "SB+": {
+                    "-": 0.65,
+                    "Winter": 0.92,
+                    "Let It Snow": 1.14
+                },
+                "Arctic Asiago": {
+                    "-": 0.88,
+                    "Winter": 0.74,
+                    "Let It Snow": 0.76
                 }
             }
         }
@@ -28475,12 +28488,13 @@
             },
             "Core": {
                 "SB+": {
-                    "-": 0.64,
-                    "Winter": 1.06
+                    "-": 0.65,
+                    "Winter": 1.13,
+                    "Let It Snow": 2.27
                 },
                 "Arctic Asiago": {
-                    "-": 0.98,
-                    "Winter": 0.37
+                    "-": 1.13,
+                    "Winter": 0.25
                 }
             }
         }
@@ -28563,13 +28577,13 @@
             },
             "Core": {
                 "SB+": {
-                    "-": 0.82,
-                    "Winter": 0.42
+                    "-": 0.85,
+                    "Winter": 0.59
                 },
                 "Arctic Asiago": {
-                    "-": 0.39,
-                    "Winter": 1.12,
-                    "Let It Snow": 1.3
+                    "-": 0.88,
+                    "Winter": 1.49,
+                    "Let It Snow": 1.53
                 }
             }
         }
@@ -28650,13 +28664,14 @@
             },
             "Core": {
                 "SB+": {
-                    "-": 0.54,
+                    "-": 0.62,
                     "Winter": 0.71,
-                    "Let It Snow": 2.11
+                    "Let It Snow": 1.14
                 },
                 "Arctic Asiago": {
-                    "-": 0.39,
-                    "Winter": 0.75
+                    "-": 1.01,
+                    "Winter": 0.5,
+                    "Let It Snow": 0.76
                 }
             }
         }
@@ -28665,28 +28680,28 @@
         "Festive Comet": {
             "Core": {
                 "SB+": {
-                    "-": 18.92,
-                    "Winter": 3.04,
-                    "Let It Snow": 8.42
+                    "-": 15.82,
+                    "Winter": 2.77,
+                    "Let It Snow": 5.68
                 },
                 "Gouda": {
-                    "-": 13.86,
-                    "Winter": 2.19,
-                    "Let It Snow": 3.28
+                    "-": 11.43,
+                    "Winter": 1.82,
+                    "Let It Snow": 3.23
                 },
                 "Brie": {
-                    "-": 6.24,
-                    "Winter": 0.94
+                    "-": 4.92,
+                    "Winter": 0.63
                 },
                 "Pecan Pecorino": {
-                    "-": 4.61,
-                    "Winter": 2.88,
-                    "Let It Snow": 4.25
+                    "-": 3.9,
+                    "Winter": 2.79,
+                    "Let It Snow": 3.2
                 },
                 "Arctic Asiago": {
-                    "-": 7.87,
-                    "Winter": 9.36,
-                    "Let It Snow": 1.3
+                    "-": 6.05,
+                    "Winter": 6.95,
+                    "Let It Snow": 0.76
                 }
             }
         }
@@ -28695,9 +28710,9 @@
         "Festive Comet": {
             "Core": {
                 "Pecan Pecorino": {
-                    "-": 11.5,
-                    "Winter": 11.2,
-                    "Let It Snow": 9.22
+                    "-": 11.62,
+                    "Winter": 11,
+                    "Let It Snow": 9.21
                 }
             }
         }
@@ -28706,9 +28721,9 @@
         "Festive Comet": {
             "Core": {
                 "Pecan Pecorino": {
-                    "-": 3.16,
-                    "Winter": 2.75,
-                    "Let It Snow": 2.71
+                    "-": 3.08,
+                    "Winter": 2.74,
+                    "Let It Snow": 2.73
                 }
             }
         }
@@ -28717,9 +28732,9 @@
         "Festive Comet": {
             "Core": {
                 "Pecan Pecorino": {
-                    "-": 2.8,
-                    "Winter": 3.05,
-                    "Let It Snow": 2.57
+                    "-": 2.86,
+                    "Winter": 2.92,
+                    "Let It Snow": 2.69
                 }
             }
         }
