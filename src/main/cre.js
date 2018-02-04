@@ -607,6 +607,10 @@ function showPop(type) {
         var gold = catches * mouseGold / 100;
         var points = catches * mousePoints / 100;
 
+        var loot = extractMouseLoot(mouseLoot, locationName, phaseName, weaponName, baseName, cheeseName, charmName, mouseName);
+        var catchAffectedLoot = multiplyLoot(loot, catches)
+        accumulateLoot(overallLoot, catchAffectedLoot)
+
         var tournamentMice = tourneysArray[tournamentName];
         if (tournamentMice) {
           var tourneyPoints = tournamentMice[mouseName] || 0;
@@ -615,10 +619,6 @@ function showPop(type) {
         }
         var TP = catches * tourneyPoints / 100;
         var PX2 = TP * tourneyPoints;
-
-        var loot = extractMouseLoot(mouseLoot, locationName, phaseName, weaponName, baseName, cheeseName, charmName, mouseName);
-        var catchAffectedLoot = multiplyLoot(loot, catches)
-        accumulateLoot(overallLoot, catchAffectedLoot)
 
         overallCR += catches;
         overallTP += TP;
