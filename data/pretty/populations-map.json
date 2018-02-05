@@ -20506,141 +20506,276 @@
             }
         }
     },
-    "Dread Knight": {
+    "Skeletal Champion": {
         "Bristle Woods Rift": {
             "Acolyte": {
                 "Runic String": {
-                    "-": 23.78,
-                    "Rift Antiskele": 33.1
+                    "-": 23.84
                 }
             },
             "Ancient Lab": {
                 "Runic String": {
-                    "-": 12.46
+                    "-": 5.32
                 },
                 "Ancient String": {
-                    "-": 9.13
-                },
-                "Brie String": {
-                    "-": 1.05,
-                    "Rift Antiskele": 1.31
-                },
-                "Swiss String": {
-                    "-": 1.77
-                }
-            },
-            "Frozen Alcove": {
-                "Runic String": {
-                    "-": 38.18
-                },
-                "Ancient String": {
-                    "-": 36.3
+                    "-": 5.68
                 },
                 "Magical String": {
-                    "-": 10.91
+                    "-": 4.86
                 },
                 "Brie String": {
-                    "-": 10.18
+                    "-": 5.35
+                },
+                "Swiss String": {
+                    "-": 8.96
+                }
+            },
+            "Entrance": {
+                "Runic String": {
+                    "-": 3.08
                 }
             },
             "Gearworks": {
                 "Runic String": {
-                    "-": 37.33
+                    "-": 8.69
                 },
                 "Ancient String": {
-                    "-": 37.09
+                    "-": 7.8
                 },
                 "Magical String": {
-                    "-": 16.72
+                    "-": 9.03
                 },
                 "Brie String": {
-                    "-": 16.47
+                    "-": 11.79
                 },
                 "Swiss String": {
-                    "-": 8.73
-                }
-            },
-            "Guard Barracks": {
-                "Runic String": {
-                    "-": 17.46
-                },
-                "Ancient String": {
-                    "-": 14.97
-                },
-                "Magical String": {
-                    "-": 10.25
-                },
-                "Brie String": {
-                    "-": 8.69
+                    "-": 15.48
                 }
             },
             "Hidden Treasury": {
                 "Runic String": {
-                    "-": 5.2
+                    "-": 4.28
                 },
                 "Ancient String": {
-                    "-": 5.76
+                    "-": 3.55
                 },
                 "Magical String": {
-                    "-": 6.33
+                    "-": 6.44
                 },
                 "Brie String": {
-                    "-": 11.57,
-                    "Rift Antiskele": 8.33
-                }
-            },
-            "Ingress": {
-                "Runic String": {
-                    "-": 19.31
-                },
-                "Ancient String": {
-                    "-": 15.09
-                },
-                "Magical String": {
-                    "-": 3.64
-                },
-                "Brie String": {
-                    "-": 3.23
+                    "-": 5.02
                 }
             },
             "Lucky Tower": {
                 "Runic String": {
-                    "-": 10.97
+                    "-": 5.51
                 },
                 "Ancient String": {
-                    "-": 9.49
+                    "-": 4.62
                 },
                 "Magical String": {
-                    "-": 9.94
+                    "-": 5.08
                 },
                 "Brie String": {
-                    "-": 10.43,
-                    "Rift Antiskele": 11.59
+                    "-": 5.17
                 }
             },
             "Runic Laboratory": {
                 "Runic String": {
-                    "-": 10.69
+                    "-": 4.33
+                },
+                "Ancient String": {
+                    "-": 5.18
                 },
                 "Magical String": {
-                    "-": 18.33
+                    "-": 6.36
                 },
                 "Brie String": {
-                    "-": 25.81
+                    "-": 4.94
                 },
                 "Swiss String": {
-                    "-": 23.27
+                    "-": 5.29
+                }
+            },
+            "Security": {
+                "Runic String": {
+                    "-": 90.98
+                },
+                "Ancient String": {
+                    "-": 91.06
+                },
+                "Magical String": {
+                    "-": 91.67
+                },
+                "Brie String": {
+                    "-": 89.49
+                }
+            },
+            "Timewarp": {
+                "Runic String": {
+                    "-": 5.34
+                },
+                "Ancient String": {
+                    "-": 5.81
+                },
+                "Magical String": {
+                    "-": 6.4
+                },
+                "Brie String": {
+                    "-": 6.14
+                }
+            },
+            "Furnace Room": {
+                "Brie String": {
+                    "-": 89.94
+                }
+            },
+            "Pursuer Mousoleum": {
+                "Brie String": {
+                    "-": 82.96
+                }
+            }
+        }
+    },
+    "Dread Knight": {
+        "Bristle Woods Rift": {
+            "Acolyte": {
+                "Runic String": {
+                    "-": 23.63,
+                    "Rift Antiskele": 31.69
+                }
+            },
+            "Ancient Lab": {
+                "Runic String": {
+                    "-": 13.11
+                },
+                "Ancient String": {
+                    "-": 9.36
+                },
+                "Brie String": {
+                    "-": 1.07,
+                    "Rift Antiskele": 1.27
+                },
+                "Swiss String": {
+                    "-": 1.81
+                }
+            },
+            "Frozen Alcove": {
+                "Runic String": {
+                    "-": 38.56
+                },
+                "Ancient String": {
+                    "-": 36.17
+                },
+                "Magical String": {
+                    "-": 11.75
+                },
+                "Brie String": {
+                    "-": 10.9
+                }
+            },
+            "Gearworks": {
+                "Runic String": {
+                    "-": 37.37
+                },
+                "Ancient String": {
+                    "-": 37.94
+                },
+                "Magical String": {
+                    "-": 16.47,
+                    "Rift Antiskele": 18.18
+                },
+                "Brie String": {
+                    "-": 16.69,
+                    "Rift Antiskele": 17.39
+                },
+                "Swiss String": {
+                    "-": 8.24
+                }
+            },
+            "Guard Barracks": {
+                "Runic String": {
+                    "-": 17.95
+                },
+                "Ancient String": {
+                    "-": 15.48
+                },
+                "Magical String": {
+                    "-": 10.57
+                },
+                "Brie String": {
+                    "-": 8.96
+                }
+            },
+            "Hidden Treasury": {
+                "Runic String": {
+                    "-": 5.94
+                },
+                "Ancient String": {
+                    "-": 5.74
+                },
+                "Magical String": {
+                    "-": 5.93
+                },
+                "Brie String": {
+                    "-": 11.53,
+                    "Rift Antiskele": 9.49
+                }
+            },
+            "Ingress": {
+                "Runic String": {
+                    "-": 19.03
+                },
+                "Ancient String": {
+                    "-": 14.98
+                },
+                "Magical String": {
+                    "-": 3.25
+                },
+                "Brie String": {
+                    "-": 2.82
+                }
+            },
+            "Lucky Tower": {
+                "Runic String": {
+                    "-": 11.79,
+                    "Rift Antiskele": 14.2
+                },
+                "Ancient String": {
+                    "-": 10.38
+                },
+                "Magical String": {
+                    "-": 9.98
+                },
+                "Brie String": {
+                    "-": 10.37,
+                    "Rift Antiskele": 10.36
+                }
+            },
+            "Runic Laboratory": {
+                "Runic String": {
+                    "-": 10.22,
+                    "Rift Antiskele": 15.38
+                },
+                "Magical String": {
+                    "-": 19.34
+                },
+                "Brie String": {
+                    "-": 25.07
+                },
+                "Swiss String": {
+                    "-": 24.12
                 }
             },
             "Timewarp": {
                 "Ancient String": {
-                    "-": 30.66
+                    "-": 30.18
                 },
                 "Magical String": {
-                    "-": 32.2
+                    "-": 33.72
                 },
                 "Brie String": {
-                    "-": 40.13
+                    "-": 40.85
                 }
             },
             "Furnace Room": {
@@ -20650,190 +20785,69 @@
             }
         }
     },
-    "Skeletal Champion": {
-        "Bristle Woods Rift": {
-            "Acolyte": {
-                "Runic String": {
-                    "-": 23.13
-                }
-            },
-            "Ancient Lab": {
-                "Runic String": {
-                    "-": 5.46
-                },
-                "Ancient String": {
-                    "-": 5.34
-                },
-                "Magical String": {
-                    "-": 4.86
-                },
-                "Brie String": {
-                    "-": 5.29
-                },
-                "Swiss String": {
-                    "-": 9.72
-                }
-            },
-            "Entrance": {
-                "Runic String": {
-                    "-": 2.91
-                }
-            },
-            "Gearworks": {
-                "Runic String": {
-                    "-": 9.25
-                },
-                "Ancient String": {
-                    "-": 6.53
-                },
-                "Magical String": {
-                    "-": 9.51
-                },
-                "Brie String": {
-                    "-": 11.69
-                },
-                "Swiss String": {
-                    "-": 14.29
-                }
-            },
-            "Hidden Treasury": {
-                "Runic String": {
-                    "-": 3.74
-                },
-                "Ancient String": {
-                    "-": 3.66
-                },
-                "Magical String": {
-                    "-": 6.67
-                },
-                "Brie String": {
-                    "-": 4.78
-                }
-            },
-            "Lucky Tower": {
-                "Runic String": {
-                    "-": 5.65
-                },
-                "Ancient String": {
-                    "-": 3.8
-                },
-                "Magical String": {
-                    "-": 4.97
-                },
-                "Brie String": {
-                    "-": 5.8
-                }
-            },
-            "Runic Laboratory": {
-                "Runic String": {
-                    "-": 4.25
-                },
-                "Ancient String": {
-                    "-": 4.96
-                },
-                "Magical String": {
-                    "-": 7.07
-                },
-                "Brie String": {
-                    "-": 5.26
-                },
-                "Swiss String": {
-                    "-": 5.66
-                }
-            },
-            "Security": {
-                "Runic String": {
-                    "-": 90.3
-                },
-                "Ancient String": {
-                    "-": 89.31
-                },
-                "Brie String": {
-                    "-": 89.55
-                }
-            },
-            "Timewarp": {
-                "Runic String": {
-                    "-": 5.41
-                },
-                "Ancient String": {
-                    "-": 6.21
-                },
-                "Magical String": {
-                    "-": 5.68
-                },
-                "Brie String": {
-                    "-": 5.4
-                }
-            },
-            "Furnace Room": {
-                "Brie String": {
-                    "-": 88.83
-                }
-            },
-            "Pursuer Mousoleum": {
-                "Brie String": {
-                    "-": 83.65
-                }
-            }
-        }
-    },
     "Vigilant Ward": {
         "Bristle Woods Rift": {
             "Acolyte": {
                 "Runic String": {
-                    "-": 8.84,
-                    "Rift Antiskele": 12.59
+                    "-": 9.19,
+                    "Rift Antiskele": 13.06
                 }
             },
             "Entrance": {
                 "Runic String": {
-                    "-": 77.91
+                    "-": 78.46
                 }
             },
             "Gearworks": {
                 "Runic String": {
-                    "-": 0.13
+                    "-": 0.18
                 }
             },
             "Ingress": {
                 "Runic String": {
-                    "-": 11.13
+                    "-": 11.54
                 },
                 "Ancient String": {
-                    "-": 12.07
+                    "-": 11.3
                 },
                 "Magical String": {
-                    "-": 7.88
+                    "-": 8.58
                 },
                 "Brie String": {
-                    "-": 9.98
+                    "-": 8.97
                 }
             },
             "Runic Laboratory": {
                 "Runic String": {
-                    "-": 6.5
+                    "-": 6.71,
+                    "Rift Antiskele": 4.14
                 },
                 "Ancient String": {
-                    "-": 20.89,
-                    "Rift Antiskele": 18.6
+                    "-": 20.86,
+                    "Rift Antiskele": 19.97
                 },
                 "Magical String": {
-                    "-": 7.07
+                    "-": 8.14
                 },
                 "Brie String": {
-                    "-": 14.6
+                    "-": 14.78
                 },
                 "Swiss String": {
-                    "-": 18.87
+                    "-": 18.24
                 }
             },
             "Security": {
+                "Runic String": {
+                    "-": 0.39
+                },
                 "Ancient String": {
-                    "-": 1.53
+                    "-": 1.12
+                },
+                "Magical String": {
+                    "-": 1.67
                 },
                 "Brie String": {
-                    "-": 4.53
+                    "-": 4.16
                 }
             }
         }
@@ -20842,8 +20856,8 @@
         "Bristle Woods Rift": {
             "Acolyte": {
                 "Runic String": {
-                    "-": 8.59,
-                    "Rift Antiskele": 11.08
+                    "-": 8.03,
+                    "Rift Antiskele": 9.4
                 }
             }
         }
@@ -20852,144 +20866,148 @@
         "Bristle Woods Rift": {
             "Acolyte": {
                 "Runic String": {
-                    "-": 8.21,
-                    "Rift Antiskele": 5.7
+                    "-": 7.73,
+                    "Rift Antiskele": 7.76
                 }
             },
             "Ancient Lab": {
                 "Runic String": {
-                    "-": 3.06
+                    "-": 3.44
                 },
                 "Ancient String": {
-                    "-": 5.58
+                    "-": 5.86
                 },
                 "Magical String": {
-                    "-": 5.64
+                    "-": 5.58
                 },
                 "Brie String": {
-                    "-": 5.09,
-                    "Rift Antiskele": 2.62
+                    "-": 4.95,
+                    "Rift Antiskele": 4.58
                 },
                 "Swiss String": {
-                    "-": 6.58
+                    "-": 6.26
                 }
             },
             "Entrance": {
                 "Runic String": {
-                    "-": 10.47
+                    "-": 10.46
                 }
             },
             "Frozen Alcove": {
                 "Runic String": {
-                    "-": 6.13
+                    "-": 6.1
                 },
                 "Ancient String": {
-                    "-": 8.15
+                    "-": 8.58
                 },
                 "Magical String": {
-                    "-": 8.43
+                    "-": 8.5
                 },
                 "Brie String": {
-                    "-": 6.56
+                    "-": 8.74
                 }
             },
             "Gearworks": {
                 "Runic String": {
-                    "-": 5.46
+                    "-": 6.17
                 },
                 "Ancient String": {
-                    "-": 4.75
+                    "-": 5.85
                 },
                 "Magical String": {
-                    "-": 8.46
+                    "-": 8.89,
+                    "Rift Antiskele": 6.61
                 },
                 "Brie String": {
-                    "-": 7.27
+                    "-": 7.32,
+                    "Rift Antiskele": 9.42
                 },
                 "Swiss String": {
-                    "-": 7.94
+                    "-": 8.52
                 }
             },
             "Guard Barracks": {
                 "Runic String": {
-                    "-": 66.09
+                    "-": 65.36
                 },
                 "Ancient String": {
-                    "-": 57.33
+                    "-": 57.17
                 },
                 "Magical String": {
-                    "-": 45.72
+                    "-": 45.06
                 },
                 "Brie String": {
-                    "-": 39.6
+                    "-": 41.04
                 }
             },
             "Hidden Treasury": {
                 "Runic String": {
-                    "-": 4.78
+                    "-": 4.16
                 },
                 "Ancient String": {
-                    "-": 6.81
+                    "-": 5.46
                 },
                 "Magical String": {
-                    "-": 6.33
+                    "-": 6.19
                 },
                 "Brie String": {
-                    "-": 5.39,
-                    "Rift Antiskele": 7.41
+                    "-": 4.54,
+                    "Rift Antiskele": 6.57
                 }
             },
             "Lucky Tower": {
                 "Runic String": {
-                    "-": 4.19
+                    "-": 5.42,
+                    "Rift Antiskele": 5.11
                 },
                 "Ancient String": {
-                    "-": 7.91
+                    "-": 7.12
                 },
                 "Magical String": {
-                    "-": 4.14
+                    "-": 4.23
                 },
                 "Brie String": {
-                    "-": 3.73,
-                    "Rift Antiskele": 1.45
+                    "-": 4.29,
+                    "Rift Antiskele": 2.07
                 }
             },
             "Runic Laboratory": {
                 "Runic String": {
-                    "-": 3.97
+                    "-": 3.95,
+                    "Rift Antiskele": 6.51
                 },
                 "Ancient String": {
-                    "-": 5.53,
-                    "Rift Antiskele": 4.27
+                    "-": 5.45,
+                    "Rift Antiskele": 4.13
                 },
                 "Magical String": {
-                    "-": 4.18
+                    "-": 4.07
                 },
                 "Brie String": {
-                    "-": 4.78
+                    "-": 5.12
                 },
                 "Swiss String": {
-                    "-": 1.89
+                    "-": 1.76
                 }
             },
             "Timewarp": {
                 "Runic String": {
-                    "-": 5.17,
-                    "Rift Antiskele": 5.87
+                    "-": 5.13,
+                    "Rift Antiskele": 5.37
                 },
                 "Ancient String": {
-                    "-": 4.01
+                    "-": 4.92
                 },
                 "Magical String": {
-                    "-": 4.55
+                    "-": 4.94
                 },
                 "Brie String": {
-                    "-": 3.63
+                    "-": 4.19
                 }
             },
             "Furnace Room": {
                 "Brie String": {
-                    "-": 3.55
+                    "-": 2.74
                 }
             }
         }
@@ -20998,36 +21016,40 @@
         "Bristle Woods Rift": {
             "Acolyte": {
                 "Runic String": {
-                    "-": 6.09,
-                    "Rift Antiskele": 9.43
+                    "-": 6.37,
+                    "Rift Antiskele": 9.15
                 }
             },
             "Gearworks": {
                 "Runic String": {
-                    "-": 0.4
+                    "-": 0.27
                 }
             },
             "Runic Laboratory": {
                 "Runic String": {
-                    "-": 29.52
+                    "-": 29.48,
+                    "Rift Antiskele": 26.04
                 },
                 "Ancient String": {
-                    "-": 25.94,
-                    "Rift Antiskele": 33.23
+                    "-": 25.99,
+                    "Rift Antiskele": 30.29
                 },
                 "Magical String": {
-                    "-": 1.61
+                    "-": 1.53
                 }
             },
             "Security": {
                 "Runic String": {
-                    "-": 7.88
+                    "-": 7.06
                 },
                 "Ancient String": {
-                    "-": 7.63
+                    "-": 6.15
+                },
+                "Magical String": {
+                    "-": 5.83
                 },
                 "Brie String": {
-                    "-": 2.79
+                    "-": 3.29
                 }
             }
         }
@@ -21036,32 +21058,33 @@
         "Bristle Woods Rift": {
             "Acolyte": {
                 "Runic String": {
-                    "-": 5.3,
-                    "Rift Antiskele": 7.41
+                    "-": 5.45,
+                    "Rift Antiskele": 7.4
                 }
             },
             "Hidden Treasury": {
                 "Runic String": {
-                    "-": 27.03
+                    "-": 25.89
                 },
                 "Ancient String": {
-                    "-": 25.65
+                    "-": 23.77
                 },
                 "Magical String": {
-                    "-": 11.67
+                    "-": 10.82
                 },
                 "Brie String": {
-                    "-": 10.26,
-                    "Rift Antiskele": 7.41
+                    "-": 10.83,
+                    "Rift Antiskele": 7.3
                 }
             },
             "Runic Laboratory": {
                 "Runic String": {
-                    "-": 11.84
+                    "-": 11.43,
+                    "Rift Antiskele": 13.61
                 },
                 "Ancient String": {
-                    "-": 10.4,
-                    "Rift Antiskele": 11.28
+                    "-": 10.54,
+                    "Rift Antiskele": 10.15
                 }
             }
         }
@@ -21070,111 +21093,75 @@
         "Bristle Woods Rift": {
             "Acolyte": {
                 "Runic String": {
-                    "-": 5.2,
-                    "Rift Antiskele": 6.65
+                    "-": 5.35,
+                    "Rift Antiskele": 7.98
                 }
             },
             "Gearworks": {
                 "Runic String": {
-                    "-": 0.07
+                    "-": 0.09
                 }
             },
             "Hidden Treasury": {
                 "Runic String": {
-                    "-": 5.61
+                    "-": 4.75
                 },
                 "Ancient String": {
-                    "-": 3.66
+                    "-": 4.1
                 },
                 "Magical String": {
-                    "-": 3.67
+                    "-": 4.9
                 },
                 "Brie String": {
-                    "-": 4.96,
-                    "Rift Antiskele": 2.78
+                    "-": 5.02,
+                    "Rift Antiskele": 2.92
                 }
             },
             "Ingress": {
                 "Runic String": {
-                    "-": 8.66
+                    "-": 9.13
                 },
                 "Ancient String": {
-                    "-": 11.47
+                    "-": 12.09
                 },
                 "Magical String": {
-                    "-": 9.39
+                    "-": 9.51
                 },
                 "Brie String": {
-                    "-": 6.3
+                    "-": 6.25
                 }
             },
             "Runic Laboratory": {
                 "Runic String": {
-                    "-": 15.3
+                    "-": 15.83,
+                    "Rift Antiskele": 12.43
                 },
                 "Ancient String": {
-                    "-": 20.18,
-                    "Rift Antiskele": 19.82
+                    "-": 20.05,
+                    "Rift Antiskele": 20.83
                 },
                 "Magical String": {
-                    "-": 16.4
+                    "-": 16.03
                 },
                 "Brie String": {
-                    "-": 8.65
+                    "-": 8.73
                 },
                 "Swiss String": {
-                    "-": 4.4
+                    "-": 4.12
                 }
             },
             "Security": {
                 "Runic String": {
-                    "-": 0.61
+                    "-": 0.78
                 },
                 "Ancient String": {
-                    "-": 1.53
-                },
-                "Brie String": {
-                    "-": 1.74
-                }
-            }
-        }
-    },
-    "Carrion Medium": {
-        "Bristle Woods Rift": {
-            "Acolyte": {
-                "Runic String": {
-                    "-": 3.79,
-                    "Rift Antiskele": 5.06
-                }
-            },
-            "Hidden Treasury": {
-                "Runic String": {
-                    "-": 3.12
-                },
-                "Ancient String": {
-                    "-": 4.19
+                    "-": 1.68
                 },
                 "Magical String": {
-                    "-": 4.33
+                    "-": 0.83
                 },
                 "Brie String": {
-                    "-": 6.52,
-                    "Rift Antiskele": 11.11
-                }
-            },
-            "Timewarp": {
-                "Runic String": {
-                    "-": 33.74,
-                    "Rift Antiskele": 34.18
-                },
-                "Ancient String": {
-                    "-": 14.83
-                },
-                "Magical String": {
-                    "-": 11.36
-                },
-                "Brie String": {
-                    "-": 8.52
+                    "-": 1.86
                 }
             }
         }
@@ -21183,83 +21170,125 @@
         "Bristle Woods Rift": {
             "Acolyte": {
                 "Runic String": {
-                    "-": 3.69,
-                    "Rift Antiskele": 5.19
+                    "-": 3.71,
+                    "Rift Antiskele": 5.11
                 }
             },
             "Frozen Alcove": {
                 "Runic String": {
-                    "-": 0.57
+                    "-": 0.51
                 },
                 "Ancient String": {
-                    "-": 0.12
+                    "-": 0.19
                 }
             },
             "Gearworks": {
                 "Runic String": {
-                    "-": 0.07
+                    "-": 0.05
                 }
             },
             "Hidden Treasury": {
                 "Runic String": {
-                    "-": 2.49
+                    "-": 2.14
                 },
                 "Ancient String": {
-                    "-": 1.57
+                    "-": 1.64
                 },
                 "Magical String": {
-                    "-": 1.67
+                    "-": 1.55
                 },
                 "Brie String": {
-                    "-": 2.17,
-                    "Rift Antiskele": 3.7
+                    "-": 2.13,
+                    "Rift Antiskele": 2.92
                 }
             },
             "Ingress": {
                 "Runic String": {
-                    "-": 1.17
+                    "-": 1.06
                 },
                 "Ancient String": {
-                    "-": 1.01
+                    "-": 1.31
                 },
                 "Magical String": {
-                    "-": 0.91
+                    "-": 1.39
                 },
                 "Brie String": {
-                    "-": 1.69
+                    "-": 1.51
                 }
             },
             "Lucky Tower": {
                 "Runic String": {
-                    "-": 2.1
+                    "-": 2,
+                    "Rift Antiskele": 1.14
                 },
                 "Ancient String": {
-                    "-": 1.58
+                    "-": 1.35
                 },
                 "Magical String": {
-                    "-": 2.07
+                    "-": 2.37
                 },
                 "Brie String": {
-                    "-": 1.29,
-                    "Rift Antiskele": 0.72
+                    "-": 1.52,
+                    "Rift Antiskele": 0.52
                 }
             },
             "Runic Laboratory": {
                 "Runic String": {
-                    "-": 1.86
+                    "-": 1.83,
+                    "Rift Antiskele": 2.37
                 },
                 "Ancient String": {
-                    "-": 2.18,
-                    "Rift Antiskele": 3.35
+                    "-": 2.14,
+                    "Rift Antiskele": 3.61
                 },
                 "Magical String": {
-                    "-": 4.18
+                    "-": 3.56
                 },
                 "Brie String": {
-                    "-": 2.21
+                    "-": 2.05
                 },
                 "Swiss String": {
-                    "-": 3.14
+                    "-": 3.53
+                }
+            }
+        }
+    },
+    "Carrion Medium": {
+        "Bristle Woods Rift": {
+            "Acolyte": {
+                "Runic String": {
+                    "-": 3.65,
+                    "Rift Antiskele": 5.08
+                }
+            },
+            "Hidden Treasury": {
+                "Runic String": {
+                    "-": 4.51
+                },
+                "Ancient String": {
+                    "-": 5.46
+                },
+                "Magical String": {
+                    "-": 3.87
+                },
+                "Brie String": {
+                    "-": 6.14,
+                    "Rift Antiskele": 8.76
+                }
+            },
+            "Timewarp": {
+                "Runic String": {
+                    "-": 33.71,
+                    "Rift Antiskele": 35.35
+                },
+                "Ancient String": {
+                    "-": 16.41
+                },
+                "Magical String": {
+                    "-": 11.05
+                },
+                "Brie String": {
+                    "-": 7.97
                 }
             }
         }
@@ -21268,38 +21297,38 @@
         "Bristle Woods Rift": {
             "Acolyte": {
                 "Runic String": {
-                    "-": 2.59,
-                    "Rift Antiskele": 2.85
+                    "-": 2.32,
+                    "Rift Antiskele": 2.51
                 }
             },
             "Hidden Treasury": {
                 "Runic String": {
-                    "-": 27.03
+                    "-": 27.2
                 },
                 "Ancient String": {
-                    "-": 16.75
+                    "-": 16.39
                 },
                 "Magical String": {
-                    "-": 13
+                    "-": 12.89
                 },
                 "Brie String": {
-                    "-": 9.91,
-                    "Rift Antiskele": 6.48
+                    "-": 10.19,
+                    "Rift Antiskele": 8.03
                 }
             },
             "Timewarp": {
                 "Runic String": {
-                    "-": 18.96,
-                    "Rift Antiskele": 20.05
+                    "-": 19.1,
+                    "Rift Antiskele": 20.08
                 },
                 "Ancient String": {
-                    "-": 14.43
+                    "-": 15.66
                 },
                 "Magical String": {
-                    "-": 3.79
+                    "-": 3.49
                 },
                 "Brie String": {
-                    "-": 2.53
+                    "-": 2.18
                 }
             }
         }
@@ -21308,14 +21337,14 @@
         "Bristle Woods Rift": {
             "Acolyte": {
                 "Runic String": {
-                    "-": 0.56,
-                    "Rift Antiskele": 0.7
+                    "-": 0.49,
+                    "Rift Antiskele": 0.55
                 }
             },
             "Timewarp": {
                 "Runic String": {
-                    "-": 26.39,
-                    "Rift Antiskele": 27.88
+                    "-": 26.16,
+                    "Rift Antiskele": 27.36
                 }
             }
         }
@@ -21324,124 +21353,125 @@
         "Bristle Woods Rift": {
             "Acolyte": {
                 "Runic String": {
-                    "-": 0.23,
-                    "Rift Antiskele": 0.25
+                    "-": 0.25,
+                    "Rift Antiskele": 0.3
                 }
             },
             "Ancient Lab": {
                 "Runic String": {
-                    "-": 0.2
+                    "-": 0.14
                 },
                 "Ancient String": {
-                    "-": 0.71
-                },
-                "Brie String": {
                     "-": 0.44
                 },
+                "Brie String": {
+                    "-": 0.38
+                },
                 "Swiss String": {
-                    "-": 0.17
+                    "-": 0.42
                 }
             },
             "Frozen Alcove": {
                 "Runic String": {
-                    "-": 0.15
+                    "-": 0.09
                 },
                 "Ancient String": {
-                    "-": 0.62
+                    "-": 0.32
                 },
                 "Brie String": {
-                    "-": 1.81
+                    "-": 1.23
                 }
             },
             "Gearworks": {
                 "Runic String": {
-                    "-": 0.27
+                    "-": 0.18
                 },
                 "Ancient String": {
-                    "-": 2.08
+                    "-": 1.42
                 },
                 "Brie String": {
-                    "-": 0.28
+                    "-": 0.22,
+                    "Rift Antiskele": 0.72
                 }
             },
             "Guard Barracks": {
                 "Runic String": {
-                    "-": 0.07
+                    "-": 0.15
                 },
                 "Ancient String": {
-                    "-": 0.56
+                    "-": 0.54
                 },
                 "Brie String": {
-                    "-": 0.48
+                    "-": 0.56
                 }
             },
             "Ingress": {
                 "Runic String": {
-                    "-": 20
+                    "-": 19.28
                 },
                 "Ancient String": {
-                    "-": 25.55
+                    "-": 24.84
                 },
                 "Magical String": {
-                    "-": 38.48
+                    "-": 38.75
                 },
                 "Brie String": {
-                    "-": 32.57
+                    "-": 34.38
                 }
             },
             "Lucky Tower": {
                 "Runic String": {
-                    "-": 0.16
+                    "-": 0.1
                 },
                 "Brie String": {
-                    "-": 0.39
+                    "-": 0.34
                 }
             },
             "Runic Laboratory": {
                 "Runic String": {
-                    "-": 0.22
+                    "-": 0.19
                 },
                 "Ancient String": {
-                    "-": 0.37,
-                    "Rift Antiskele": 0.61
+                    "-": 0.3,
+                    "Rift Antiskele": 0.34
                 },
                 "Brie String": {
-                    "-": 0.97
+                    "-": 0.71
                 }
             },
             "Security": {
                 "Runic String": {
-                    "-": 1.21
+                    "-": 0.78
                 },
                 "Brie String": {
-                    "-": 1.39
+                    "-": 1.2
                 }
             },
             "Timewarp": {
                 "Runic String": {
-                    "-": 0.41,
-                    "Rift Antiskele": 0.11
+                    "-": 0.36,
+                    "Rift Antiskele": 0.2
                 },
                 "Ancient String": {
-                    "-": 1.4
+                    "-": 1.01
                 },
                 "Brie String": {
-                    "-": 0.59
+                    "-": 0.75
                 }
             },
             "Furnace Room": {
                 "Brie String": {
-                    "-": 2.03
+                    "-": 2.13
                 }
             },
             "Hidden Treasury": {
                 "Brie String": {
-                    "-": 0.35
+                    "-": 0.21
                 }
             },
             "Pursuer Mousoleum": {
                 "Brie String": {
-                    "-": 11.03
+                    "-": 11.85
                 }
             }
         }
@@ -21450,68 +21480,70 @@
         "Bristle Woods Rift": {
             "Ancient Lab": {
                 "Runic String": {
-                    "-": 33.51
+                    "-": 34.69
                 },
                 "Ancient String": {
-                    "-": 45.2
+                    "-": 43.86
                 },
                 "Magical String": {
-                    "-": 39.93
+                    "-": 40.09
                 },
                 "Brie String": {
-                    "-": 4.25,
-                    "Rift Antiskele": 3.06
+                    "-": 4.18,
+                    "Rift Antiskele": 3.05
                 }
             },
             "Entrance": {
                 "Runic String": {
-                    "-": 2.91
+                    "-": 3.08
                 }
             },
             "Guard Barracks": {
                 "Runic String": {
-                    "-": 13.39
+                    "-": 13.43
                 },
                 "Ancient String": {
-                    "-": 9.29
+                    "-": 9.17
                 },
                 "Magical String": {
-                    "-": 12.32
+                    "-": 11.96
                 }
             },
             "Hidden Treasury": {
                 "Runic String": {
-                    "-": 9.98
+                    "-": 9.26
                 },
                 "Ancient String": {
-                    "-": 17.28
+                    "-": 19.95
                 },
                 "Magical String": {
-                    "-": 35.33
+                    "-": 36.86
                 },
                 "Brie String": {
-                    "-": 8.87,
-                    "Rift Antiskele": 7.41
+                    "-": 8.7,
+                    "Rift Antiskele": 7.3
                 }
             },
             "Lucky Tower": {
                 "Runic String": {
-                    "-": 24.84
+                    "-": 23.29,
+                    "Rift Antiskele": 21.59
                 },
                 "Ancient String": {
-                    "-": 26.27
+                    "-": 22.5
                 },
                 "Magical String": {
-                    "-": 23.4
+                    "-": 22.84
                 },
                 "Brie String": {
-                    "-": 5.47,
-                    "Rift Antiskele": 7.97
+                    "-": 5.59,
+                    "Rift Antiskele": 6.22
                 }
             },
             "Gearworks": {
                 "Magical String": {
-                    "-": 4
+                    "-": 4.13,
+                    "Rift Antiskele": 4.13
                 }
             }
         }
@@ -21520,17 +21552,18 @@
         "Bristle Woods Rift": {
             "Ancient Lab": {
                 "Runic String": {
-                    "-": 26.18
+                    "-": 24.52
                 }
             },
             "Gearworks": {
                 "Runic String": {
-                    "-": 26.35
+                    "-": 25.17
                 }
             },
             "Runic Laboratory": {
                 "Runic String": {
-                    "-": 15.49
+                    "-": 15.7,
+                    "Rift Antiskele": 17.75
                 }
             }
         }
@@ -21539,77 +21572,80 @@
         "Bristle Woods Rift": {
             "Ancient Lab": {
                 "Runic String": {
-                    "-": 14.26
+                    "-": 14.02
                 },
                 "Ancient String": {
-                    "-": 22.42
+                    "-": 22.21
                 },
                 "Magical String": {
-                    "-": 21.22
+                    "-": 21.21
                 },
                 "Brie String": {
-                    "-": 37.12,
-                    "Rift Antiskele": 41.05
+                    "-": 37.09,
+                    "Rift Antiskele": 40.97
                 },
                 "Swiss String": {
-                    "-": 26.36
+                    "-": 26.26
                 }
             },
             "Entrance": {
                 "Runic String": {
-                    "-": 4.65
+                    "-": 3.69
                 }
             },
             "Gearworks": {
                 "Runic String": {
-                    "-": 10.65
+                    "-": 11.35
                 },
                 "Ancient String": {
-                    "-": 14.54
+                    "-": 12.94
                 },
                 "Magical String": {
-                    "-": 3.87
+                    "-": 4.27,
+                    "Rift Antiskele": 3.31
                 },
                 "Brie String": {
-                    "-": 5.41
+                    "-": 5.41,
+                    "Rift Antiskele": 9.42
                 },
                 "Swiss String": {
-                    "-": 2.78
+                    "-": 3.27
                 }
             },
             "Hidden Treasury": {
                 "Runic String": {
-                    "-": 11.02
+                    "-": 11.88
                 },
                 "Ancient String": {
-                    "-": 14.66
+                    "-": 13.93
                 },
                 "Magical String": {
-                    "-": 11
+                    "-": 10.57
                 },
                 "Brie String": {
-                    "-": 35.22,
-                    "Rift Antiskele": 45.37
+                    "-": 35.7,
+                    "Rift Antiskele": 46.72
                 }
             },
             "Lucky Tower": {
                 "Runic String": {
-                    "-": 14.68
+                    "-": 15.59,
+                    "Rift Antiskele": 20.45
                 },
                 "Ancient String": {
-                    "-": 17.09
+                    "-": 16.35
                 },
                 "Magical String": {
-                    "-": 12.63
+                    "-": 13.03
                 },
                 "Brie String": {
-                    "-": 20.73,
-                    "Rift Antiskele": 20.29
+                    "-": 20.17,
+                    "Rift Antiskele": 21.76
                 }
             },
             "Furnace Room": {
                 "Brie String": {
-                    "-": 2.03
+                    "-": 1.83
                 }
             }
         }
@@ -21618,90 +21654,93 @@
         "Bristle Woods Rift": {
             "Ancient Lab": {
                 "Runic String": {
-                    "-": 1.93
+                    "-": 2.15
                 },
                 "Ancient String": {
-                    "-": 4.63
+                    "-": 4.12
                 },
                 "Magical String": {
-                    "-": 13.21
+                    "-": 13.25
                 },
                 "Brie String": {
-                    "-": 40.66,
-                    "Rift Antiskele": 44.1
+                    "-": 40.79,
+                    "Rift Antiskele": 41.98
                 },
                 "Swiss String": {
-                    "-": 26.13
+                    "-": 26.03
                 }
             },
             "Entrance": {
                 "Runic String": {
-                    "-": 1.16
+                    "-": 0.62
                 }
             },
             "Gearworks": {
                 "Runic String": {
-                    "-": 3.86
+                    "-": 4.14
                 },
                 "Ancient String": {
-                    "-": 9.5
+                    "-": 8.87
                 },
                 "Magical String": {
-                    "-": 4.79
+                    "-": 4.51,
+                    "Rift Antiskele": 4.96
                 },
                 "Brie String": {
-                    "-": 7.72
+                    "-": 7.49,
+                    "Rift Antiskele": 5.8
                 },
                 "Swiss String": {
-                    "-": 5.36
+                    "-": 5.4
                 }
             },
             "Guard Barracks": {
                 "Runic String": {
-                    "-": 1.92
+                    "-": 2.05
                 },
                 "Ancient String": {
-                    "-": 5.84
+                    "-": 6.16
                 },
                 "Magical String": {
-                    "-": 14.45
+                    "-": 14.38
                 },
                 "Brie String": {
-                    "-": 27.15
+                    "-": 26.46
                 }
             },
             "Ingress": {
                 "Runic String": {
-                    "-": 19.18
+                    "-": 19.92
                 },
                 "Ancient String": {
-                    "-": 19.72
+                    "-": 20.24
                 },
                 "Magical String": {
-                    "-": 20
+                    "-": 19.03
                 },
                 "Brie String": {
-                    "-": 19.05
+                    "-": 19.96
                 }
             },
             "Lucky Tower": {
                 "Runic String": {
-                    "-": 12.9
+                    "-": 13.31,
+                    "Rift Antiskele": 10.23
                 },
                 "Ancient String": {
-                    "-": 14.87
+                    "-": 14.62
                 },
                 "Magical String": {
-                    "-": 17.18
+                    "-": 17.43
                 },
                 "Brie String": {
-                    "-": 20.03,
-                    "Rift Antiskele": 24.64
+                    "-": 20.33,
+                    "Rift Antiskele": 23.32
                 }
             },
             "Furnace Room": {
                 "Brie String": {
-                    "-": 2.03
+                    "-": 1.83
                 }
             }
         }
@@ -21710,52 +21749,55 @@
         "Bristle Woods Rift": {
             "Ancient Lab": {
                 "Runic String": {
-                    "-": 1.33
+                    "-": 1.1
                 },
                 "Ancient String": {
-                    "-": 4.63
+                    "-": 5.12
                 },
                 "Magical String": {
-                    "-": 4.92
+                    "-": 4.88
                 },
                 "Brie String": {
-                    "-": 5.11,
-                    "Rift Antiskele": 6.55
+                    "-": 5.19,
+                    "Rift Antiskele": 7.12
                 },
                 "Swiss String": {
-                    "-": 16.07
+                    "-": 16.57
                 }
             },
             "Gearworks": {
                 "Runic String": {
-                    "-": 1.93
+                    "-": 2.16
                 },
                 "Ancient String": {
-                    "-": 6.53
+                    "-": 7.45
                 },
                 "Magical String": {
-                    "-": 17.77
+                    "-": 17.44,
+                    "Rift Antiskele": 24.79
                 },
                 "Brie String": {
-                    "-": 15.02
+                    "-": 15.05,
+                    "Rift Antiskele": 15.94
                 },
                 "Swiss String": {
-                    "-": 17.46
+                    "-": 16.19
                 }
             },
             "Lucky Tower": {
                 "Runic String": {
-                    "-": 10.65
+                    "-": 10.36,
+                    "Rift Antiskele": 10.23
                 },
                 "Ancient String": {
-                    "-": 8.23
+                    "-": 10.77
                 },
                 "Magical String": {
-                    "-": 10.35
+                    "-": 10.49
                 },
                 "Brie String": {
-                    "-": 10.62,
-                    "Rift Antiskele": 13.04
+                    "-": 10.98,
+                    "Rift Antiskele": 13.47
                 }
             }
         }
@@ -21764,57 +21806,60 @@
         "Bristle Woods Rift": {
             "Ancient Lab": {
                 "Runic String": {
-                    "-": 1
+                    "-": 0.82
                 },
                 "Ancient String": {
-                    "-": 1.3
+                    "-": 2.25
                 },
                 "Magical String": {
-                    "-": 5.3
+                    "-": 5.17
                 },
                 "Brie String": {
-                    "-": 0.46,
-                    "Rift Antiskele": 0.44
+                    "-": 0.5,
+                    "Rift Antiskele": 0.25
                 },
                 "Swiss String": {
-                    "-": 7.43
+                    "-": 8.03
                 }
             },
             "Gearworks": {
                 "Runic String": {
-                    "-": 1
+                    "-": 0.9
                 },
                 "Ancient String": {
-                    "-": 9.5
+                    "-": 9.04
                 },
                 "Magical String": {
-                    "-": 20.07
+                    "-": 20.61,
+                    "Rift Antiskele": 20.66
                 },
                 "Brie String": {
-                    "-": 22.92
+                    "-": 22.7,
+                    "Rift Antiskele": 26.81
                 },
                 "Swiss String": {
-                    "-": 20.24
+                    "-": 19.18
                 }
             },
             "Lucky Tower": {
                 "Runic String": {
-                    "-": 10.65
+                    "-": 9.79,
+                    "Rift Antiskele": 13.07
                 },
                 "Ancient String": {
-                    "-": 6.96
+                    "-": 9.62
                 },
                 "Magical String": {
-                    "-": 10.97
+                    "-": 10.49
                 },
                 "Brie String": {
-                    "-": 10.5,
-                    "Rift Antiskele": 11.59
+                    "-": 10.94,
+                    "Rift Antiskele": 10.88
                 }
             },
             "Pursuer Mousoleum": {
                 "Brie String": {
-                    "-": 5.32
+                    "-": 5.19
                 }
             }
         }
@@ -21823,127 +21868,136 @@
         "Bristle Woods Rift": {
             "Ancient Lab": {
                 "Runic String": {
-                    "-": 0.6
+                    "-": 0.69
                 },
                 "Ancient String": {
-                    "-": 1.07
+                    "-": 1.12
                 },
                 "Magical String": {
-                    "-": 4.92
+                    "-": 4.96
                 },
                 "Brie String": {
-                    "-": 0.52,
-                    "Rift Antiskele": 0.87
+                    "-": 0.5,
+                    "Rift Antiskele": 0.76
                 },
                 "Swiss String": {
-                    "-": 5.77
+                    "-": 5.66
+                }
+            },
+            "Entrance": {
+                "Runic String": {
+                    "-": 0.62
                 }
             },
             "Frozen Alcove": {
                 "Runic String": {
-                    "-": 54.98
+                    "-": 54.74
                 },
                 "Ancient String": {
-                    "-": 54.81
+                    "-": 54.74
                 },
                 "Magical String": {
-                    "-": 80.65
+                    "-": 79.75
                 },
                 "Brie String": {
-                    "-": 81.45
+                    "-": 79.13
                 }
             },
             "Gearworks": {
                 "Runic String": {
-                    "-": 3.26
+                    "-": 3.29
                 },
                 "Ancient String": {
-                    "-": 9.5
+                    "-": 8.69
                 },
                 "Magical String": {
-                    "-": 14.82
+                    "-": 14.65,
+                    "Rift Antiskele": 17.36
                 },
                 "Brie String": {
-                    "-": 13.23
+                    "-": 13.32,
+                    "Rift Antiskele": 14.49
                 },
                 "Swiss String": {
-                    "-": 23.21
+                    "-": 23.72
                 }
             },
             "Guard Barracks": {
                 "Runic String": {
-                    "-": 1.07
+                    "-": 1.06
                 },
                 "Ancient String": {
-                    "-": 12.01
+                    "-": 11.48
                 },
                 "Magical String": {
-                    "-": 17.26
+                    "-": 18.03
                 },
                 "Brie String": {
-                    "-": 24.08
+                    "-": 22.98
                 }
             },
             "Ingress": {
                 "Runic String": {
-                    "-": 20.55
+                    "-": 20.04
                 },
                 "Ancient String": {
-                    "-": 15.09
+                    "-": 15.24
                 },
                 "Magical String": {
-                    "-": 19.7
+                    "-": 19.49
                 },
                 "Brie String": {
-                    "-": 27.19
+                    "-": 26.11
                 }
             },
             "Lucky Tower": {
                 "Runic String": {
-                    "-": 3.23
+                    "-": 2.85,
+                    "Rift Antiskele": 3.98
                 },
                 "Ancient String": {
-                    "-": 3.8
+                    "-": 2.69
                 },
                 "Magical String": {
-                    "-": 4.35
+                    "-": 4.06
                 },
                 "Brie String": {
-                    "-": 11.01,
-                    "Rift Antiskele": 8.7
+                    "-": 10.3,
+                    "Rift Antiskele": 11.4
                 }
             },
             "Runic Laboratory": {
                 "Runic String": {
-                    "-": 0.36
+                    "-": 0.32,
+                    "Rift Antiskele": 1.78
                 },
                 "Ancient String": {
-                    "-": 9.54,
-                    "Rift Antiskele": 8.84
+                    "-": 9.48,
+                    "Rift Antiskele": 10.67
                 },
                 "Magical String": {
-                    "-": 41.16
+                    "-": 40.97
                 },
                 "Brie String": {
-                    "-": 37.72
+                    "-": 38.6
                 },
                 "Swiss String": {
-                    "-": 42.77
+                    "-": 42.94
                 }
             },
             "Timewarp": {
                 "Runic String": {
-                    "-": 9.9,
-                    "Rift Antiskele": 11.9
+                    "-": 10.2,
+                    "Rift Antiskele": 11.63
                 },
                 "Ancient String": {
-                    "-": 28.46
+                    "-": 26.01
                 },
                 "Magical String": {
-                    "-": 42.42
+                    "-": 40.41
                 },
                 "Brie String": {
-                    "-": 39.21
+                    "-": 37.92
                 }
             }
         }
