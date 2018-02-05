@@ -20764,6 +20764,514 @@
             }
         }
     },
+    "Dread Knight": {
+        "Bristle Woods Rift": {
+            "Acolyte": {
+                "Runic String": {
+                    "-": 23.69,
+                    "Rift Antiskele": 31.12
+                }
+            },
+            "Acolyte (Paladin's Bane)": {
+                "Runic String": {
+                    "-": 25.68,
+                    "Rift Antiskele": 34.6
+                }
+            },
+            "Ancient Lab": {
+                "Runic String": {
+                    "-": 13.13,
+                    "Rift Antiskele": 13.87
+                },
+                "Ancient String": {
+                    "-": 9.4,
+                    "Rift Antiskele": 9.82
+                },
+                "Brie String": {
+                    "-": 1.07,
+                    "Rift Antiskele": 1.09
+                },
+                "Swiss String": {
+                    "-": 1.82,
+                    "Rift Antiskele": 1.97
+                }
+            },
+            "Ancient Lab (Paladin's Bane)": {
+                "Runic String": {
+                    "-": 13.59,
+                    "Rift Antiskele": 14.39
+                },
+                "Ancient String": {
+                    "-": 9.99,
+                    "Rift Antiskele": 10.45
+                },
+                "Brie String": {
+                    "-": 1.13,
+                    "Rift Antiskele": 1.15
+                },
+                "Swiss String": {
+                    "-": 1.94,
+                    "Rift Antiskele": 2.11
+                }
+            },
+            "Frozen Alcove": {
+                "Runic String": {
+                    "-": 38.59,
+                    "Rift Antiskele": 38.79
+                },
+                "Ancient String": {
+                    "-": 36.29,
+                    "Rift Antiskele": 36.39
+                },
+                "Magical String": {
+                    "-": 11.75,
+                    "Rift Antiskele": 11.66
+                },
+                "Brie String": {
+                    "-": 11.04,
+                    "Rift Antiskele": 11.21
+                }
+            },
+            "Frozen Alcove (Paladin's Bane)": {
+                "Runic String": {
+                    "-": 41.1,
+                    "Rift Antiskele": 41.33
+                },
+                "Ancient String": {
+                    "-": 39.7,
+                    "Rift Antiskele": 39.79
+                },
+                "Magical String": {
+                    "-": 12.84,
+                    "Rift Antiskele": 12.74
+                },
+                "Brie String": {
+                    "-": 12.11,
+                    "Rift Antiskele": 12.31
+                }
+            },
+            "Furnace Room": {
+                "Brie String": {
+                    "-": 1.56,
+                    "Rift Antiskele": 16.67
+                }
+            },
+            "Furnace Room (Paladin's Bane)": {
+                "Brie String": {
+                    "-": 1.6,
+                    "Rift Antiskele": 25.81
+                }
+            },
+            "Gearworks": {
+                "Runic String": {
+                    "-": 37.44,
+                    "Rift Antiskele": 41.06
+                },
+                "Ancient String": {
+                    "-": 38.49,
+                    "Rift Antiskele": 41.35
+                },
+                "Magical String": {
+                    "-": 16.47,
+                    "Rift Antiskele": 18.13
+                },
+                "Brie String": {
+                    "-": 16.73,
+                    "Rift Antiskele": 18.77
+                },
+                "Swiss String": {
+                    "-": 8.24,
+                    "Rift Antiskele": 9.79
+                }
+            },
+            "Gearworks (Paladin's Bane)": {
+                "Runic String": {
+                    "-": 39.9,
+                    "Rift Antiskele": 44.12
+                },
+                "Ancient String": {
+                    "-": 40.92,
+                    "Rift Antiskele": 44.18
+                },
+                "Magical String": {
+                    "-": 18.08,
+                    "Rift Antiskele": 20.04
+                },
+                "Brie String": {
+                    "-": 18.05,
+                    "Rift Antiskele": 20.47
+                },
+                "Swiss String": {
+                    "-": 9.01,
+                    "Rift Antiskele": 10.91
+                }
+            },
+            "Guard Barracks": {
+                "Runic String": {
+                    "-": 17.98,
+                    "Rift Antiskele": 18.05
+                },
+                "Ancient String": {
+                    "-": 15.56,
+                    "Rift Antiskele": 15.77
+                },
+                "Magical String": {
+                    "-": 10.57,
+                    "Rift Antiskele": 10.55
+                },
+                "Brie String": {
+                    "-": 9.01,
+                    "Rift Antiskele": 9.19
+                }
+            },
+            "Guard Barracks (Paladin's Bane)": {
+                "Runic String": {
+                    "-": 52.05,
+                    "Rift Antiskele": 52.25
+                },
+                "Ancient String": {
+                    "-": 36.6,
+                    "Rift Antiskele": 36.82
+                },
+                "Magical String": {
+                    "-": 19.24,
+                    "Rift Antiskele": 19.16
+                },
+                "Brie String": {
+                    "-": 15.34,
+                    "Rift Antiskele": 15.58
+                }
+            },
+            "Hidden Treasury": {
+                "Runic String": {
+                    "-": 5.94,
+                    "Rift Antiskele": 6.03
+                },
+                "Ancient String": {
+                    "-": 5.74,
+                    "Rift Antiskele": 5.84
+                },
+                "Magical String": {
+                    "-": 5.93,
+                    "Rift Antiskele": 5.35
+                },
+                "Brie String": {
+                    "-": 11.55,
+                    "Rift Antiskele": 12.26
+                }
+            },
+            "Hidden Treasury (Paladin's Bane)": {
+                "Runic String": {
+                    "-": 6.2,
+                    "Rift Antiskele": 6.34
+                },
+                "Ancient String": {
+                    "-": 6.07,
+                    "Rift Antiskele": 6.15
+                },
+                "Magical String": {
+                    "-": 6.32,
+                    "Rift Antiskele": 5.74
+                },
+                "Brie String": {
+                    "-": 12.1,
+                    "Rift Antiskele": 12.85
+                }
+            },
+            "Ingress": {
+                "Runic String": {
+                    "-": 23.57,
+                    "Rift Antiskele": 23.28
+                },
+                "Ancient String": {
+                    "-": 19.93,
+                    "Rift Antiskele": 19.33
+                },
+                "Magical String": {
+                    "-": 5.3,
+                    "Rift Antiskele": 5.28
+                },
+                "Brie String": {
+                    "-": 4.3,
+                    "Rift Antiskele": 4.25
+                }
+            },
+            "Ingress (Paladin's Bane)": {
+                "Runic String": {
+                    "-": 23.57,
+                    "Rift Antiskele": 23.28
+                },
+                "Ancient String": {
+                    "-": 19.93,
+                    "Rift Antiskele": 19.33
+                },
+                "Magical String": {
+                    "-": 5.3,
+                    "Rift Antiskele": 5.28
+                },
+                "Brie String": {
+                    "-": 4.3,
+                    "Rift Antiskele": 4.25
+                }
+            },
+            "Lucky Tower": {
+                "Runic String": {
+                    "-": 11.8,
+                    "Rift Antiskele": 12.98
+                },
+                "Ancient String": {
+                    "-": 10.38,
+                    "Rift Antiskele": 11.07
+                },
+                "Magical String": {
+                    "-": 9.98,
+                    "Rift Antiskele": 10.63
+                },
+                "Brie String": {
+                    "-": 10.41,
+                    "Rift Antiskele": 11.24
+                }
+            },
+            "Lucky Tower (Paladin's Bane)": {
+                "Runic String": {
+                    "-": 12.47,
+                    "Rift Antiskele": 13.75
+                },
+                "Ancient String": {
+                    "-": 11.18,
+                    "Rift Antiskele": 11.83
+                },
+                "Magical String": {
+                    "-": 10.42,
+                    "Rift Antiskele": 11.09
+                },
+                "Brie String": {
+                    "-": 10.88,
+                    "Rift Antiskele": 11.78
+                }
+            },
+            "Runic Laboratory": {
+                "Runic String": {
+                    "-": 10.24,
+                    "Rift Antiskele": 10.93
+                },
+                "Magical String": {
+                    "-": 19.34,
+                    "Rift Antiskele": 22.58
+                },
+                "Brie String": {
+                    "-": 25.25,
+                    "Rift Antiskele": 25.9
+                },
+                "Swiss String": {
+                    "-": 24.12,
+                    "Rift Antiskele": 25.15
+                }
+            },
+            "Runic Laboratory (Paladin's Bane)": {
+                "Runic String": {
+                    "-": 10.66,
+                    "Rift Antiskele": 11.41
+                },
+                "Magical String": {
+                    "-": 20.16,
+                    "Rift Antiskele": 23.65
+                },
+                "Brie String": {
+                    "-": 26.62,
+                    "Rift Antiskele": 27.58
+                },
+                "Swiss String": {
+                    "-": 24.55,
+                    "Rift Antiskele": 25.62
+                }
+            },
+            "Timewarp": {
+                "Ancient String": {
+                    "-": 30.48,
+                    "Rift Antiskele": 32.08
+                },
+                "Magical String": {
+                    "-": 33.72,
+                    "Rift Antiskele": 36.42
+                },
+                "Brie String": {
+                    "-": 41.16,
+                    "Rift Antiskele": 43.41
+                }
+            },
+            "Timewarp (Paladin's Bane)": {
+                "Ancient String": {
+                    "-": 32.08,
+                    "Rift Antiskele": 34
+                },
+                "Magical String": {
+                    "-": 35.47,
+                    "Rift Antiskele": 38.41
+                },
+                "Brie String": {
+                    "-": 42.97,
+                    "Rift Antiskele": 45.54
+                }
+            }
+        }
+    },
+    "Vigilant Ward": {
+        "Bristle Woods Rift": {
+            "Acolyte": {
+                "Runic String": {
+                    "-": 9.21,
+                    "Rift Antiskele": 12.15
+                }
+            },
+            "Acolyte (Paladin's Bane)": {
+                "Runic String": {
+                    "-": 9.98,
+                    "Rift Antiskele": 13.51
+                }
+            },
+            "Entrance": {
+                "Runic String": {
+                    "-": 78.46,
+                    "Rift Antiskele": 80.95
+                }
+            },
+            "Entrance (Paladin's Bane)": {
+                "Runic String": {
+                    "-": 87.63,
+                    "Rift Antiskele": 90.6
+                }
+            },
+            "Gearworks": {
+                "Runic String": {
+                    "-": 0.18,
+                    "Rift Antiskele": 0.27
+                }
+            },
+            "Gearworks (Paladin's Bane)": {
+                "Runic String": {
+                    "-": 0.19,
+                    "Rift Antiskele": 0.29
+                }
+            },
+            "Ingress": {
+                "Runic String": {
+                    "-": 14.3,
+                    "Rift Antiskele": 14.43
+                },
+                "Ancient String": {
+                    "-": 15.03,
+                    "Rift Antiskele": 14.61
+                },
+                "Magical String": {
+                    "-": 14.02,
+                    "Rift Antiskele": 14.34
+                },
+                "Brie String": {
+                    "-": 13.67,
+                    "Rift Antiskele": 13.31
+                }
+            },
+            "Ingress (Paladin's Bane)": {
+                "Runic String": {
+                    "-": 14.3,
+                    "Rift Antiskele": 14.43
+                },
+                "Ancient String": {
+                    "-": 15.03,
+                    "Rift Antiskele": 14.61
+                },
+                "Magical String": {
+                    "-": 14.02,
+                    "Rift Antiskele": 14.34
+                },
+                "Brie String": {
+                    "-": 13.67,
+                    "Rift Antiskele": 13.31
+                }
+            },
+            "Runic Laboratory": {
+                "Runic String": {
+                    "-": 6.72,
+                    "Rift Antiskele": 6.97
+                },
+                "Ancient String": {
+                    "-": 20.93,
+                    "Rift Antiskele": 22.11
+                },
+                "Magical String": {
+                    "-": 8.14,
+                    "Rift Antiskele": 9.68
+                },
+                "Brie String": {
+                    "-": 14.89,
+                    "Rift Antiskele": 15.26
+                },
+                "Swiss String": {
+                    "-": 18.24,
+                    "Rift Antiskele": 19.02
+                }
+            },
+            "Runic Laboratory (Paladin's Bane)": {
+                "Runic String": {
+                    "-": 7,
+                    "Rift Antiskele": 7.28
+                },
+                "Ancient String": {
+                    "-": 22.14,
+                    "Rift Antiskele": 23.44
+                },
+                "Magical String": {
+                    "-": 8.49,
+                    "Rift Antiskele": 10.14
+                },
+                "Brie String": {
+                    "-": 15.7,
+                    "Rift Antiskele": 16.25
+                },
+                "Swiss String": {
+                    "-": 18.56,
+                    "Rift Antiskele": 19.38
+                }
+            },
+            "Security": {
+                "Runic String": {
+                    "-": 0.4,
+                    "Rift Antiskele": 3.23
+                },
+                "Ancient String": {
+                    "-": 1.12,
+                    "Rift Antiskele": 13.79
+                },
+                "Magical String": {
+                    "-": 1.67,
+                    "Rift Antiskele": 17.65
+                },
+                "Brie String": {
+                    "-": 4.21,
+                    "Rift Antiskele": 37.76
+                }
+            },
+            "Security (Paladin's Bane)": {
+                "Runic String": {
+                    "-": 0.4,
+                    "Rift Antiskele": 3.23
+                },
+                "Ancient String": {
+                    "-": 1.12,
+                    "Rift Antiskele": 13.79
+                },
+                "Magical String": {
+                    "-": 1.67,
+                    "Rift Antiskele": 17.65
+                },
+                "Brie String": {
+                    "-": 4.21,
+                    "Rift Antiskele": 37.76
+                }
+            }
+        }
+    },
     "Absolute Acolyte": {
         "Bristle Woods Rift": {
             "Acolyte": {
@@ -20776,6 +21284,184 @@
                 "Runic String": {
                     "-": 8.72,
                     "Rift Antiskele": 11.68
+                }
+            }
+        }
+    },
+    "Portal Paladin": {
+        "Bristle Woods Rift": {
+            "Acolyte": {
+                "Runic String": {
+                    "-": 7.74,
+                    "Rift Antiskele": 10.08
+                }
+            },
+            "Ancient Lab": {
+                "Runic String": {
+                    "-": 3.44,
+                    "Rift Antiskele": 3.62
+                },
+                "Ancient String": {
+                    "-": 5.89,
+                    "Rift Antiskele": 6
+                },
+                "Magical String": {
+                    "-": 5.58,
+                    "Rift Antiskele": 5.98
+                },
+                "Brie String": {
+                    "-": 4.97,
+                    "Rift Antiskele": 5.3
+                },
+                "Swiss String": {
+                    "-": 6.29,
+                    "Rift Antiskele": 6.67
+                }
+            },
+            "Entrance": {
+                "Runic String": {
+                    "-": 10.46,
+                    "Rift Antiskele": 10.64
+                }
+            },
+            "Frozen Alcove": {
+                "Runic String": {
+                    "-": 6.11,
+                    "Rift Antiskele": 6.15
+                },
+                "Ancient String": {
+                    "-": 8.6,
+                    "Rift Antiskele": 8.55
+                },
+                "Magical String": {
+                    "-": 8.5,
+                    "Rift Antiskele": 8.48
+                },
+                "Brie String": {
+                    "-": 8.85,
+                    "Rift Antiskele": 8.88
+                }
+            },
+            "Furnace Room": {
+                "Brie String": {
+                    "-": 2.8,
+                    "Rift Antiskele": 35.42
+                }
+            },
+            "Gearworks": {
+                "Runic String": {
+                    "-": 6.18,
+                    "Rift Antiskele": 6.93
+                },
+                "Ancient String": {
+                    "-": 5.94,
+                    "Rift Antiskele": 6.4
+                },
+                "Magical String": {
+                    "-": 8.89,
+                    "Rift Antiskele": 9.55
+                },
+                "Brie String": {
+                    "-": 7.33,
+                    "Rift Antiskele": 8.31
+                },
+                "Swiss String": {
+                    "-": 8.52,
+                    "Rift Antiskele": 10.27
+                }
+            },
+            "Guard Barracks": {
+                "Runic String": {
+                    "-": 65.46,
+                    "Rift Antiskele": 65.45
+                },
+                "Ancient String": {
+                    "-": 57.48,
+                    "Rift Antiskele": 57.16
+                },
+                "Magical String": {
+                    "-": 45.06,
+                    "Rift Antiskele": 44.94
+                },
+                "Brie String": {
+                    "-": 41.27,
+                    "Rift Antiskele": 41.05
+                }
+            },
+            "Hidden Treasury": {
+                "Runic String": {
+                    "-": 4.16,
+                    "Rift Antiskele": 4.93
+                },
+                "Ancient String": {
+                    "-": 5.46,
+                    "Rift Antiskele": 5.11
+                },
+                "Magical String": {
+                    "-": 6.19,
+                    "Rift Antiskele": 6.74
+                },
+                "Brie String": {
+                    "-": 4.55,
+                    "Rift Antiskele": 4.6
+                }
+            },
+            "Lucky Tower": {
+                "Runic String": {
+                    "-": 5.42,
+                    "Rift Antiskele": 5.56
+                },
+                "Ancient String": {
+                    "-": 7.12,
+                    "Rift Antiskele": 6.4
+                },
+                "Magical String": {
+                    "-": 4.23,
+                    "Rift Antiskele": 4.17
+                },
+                "Brie String": {
+                    "-": 4.31,
+                    "Rift Antiskele": 4.58
+                }
+            },
+            "Runic Laboratory": {
+                "Runic String": {
+                    "-": 3.95,
+                    "Rift Antiskele": 4.22
+                },
+                "Ancient String": {
+                    "-": 5.47,
+                    "Rift Antiskele": 5.69
+                },
+                "Magical String": {
+                    "-": 4.07,
+                    "Rift Antiskele": 4.52
+                },
+                "Brie String": {
+                    "-": 5.16,
+                    "Rift Antiskele": 6.1
+                },
+                "Swiss String": {
+                    "-": 1.76,
+                    "Rift Antiskele": 1.84
+                }
+            },
+            "Timewarp": {
+                "Runic String": {
+                    "-": 5.15,
+                    "Rift Antiskele": 5.42
+                },
+                "Ancient String": {
+                    "-": 4.97,
+                    "Rift Antiskele": 5.66
+                },
+                "Magical String": {
+                    "-": 4.94,
+                    "Rift Antiskele": 5.2
+                },
+                "Brie String": {
+                    "-": 4.22,
+                    "Rift Antiskele": 4.67
                 }
             }
         }
@@ -21544,688 +22230,756 @@
             }
         }
     },
-    "Portal Paladin": {
+    "Epoch Golem": {
         "Bristle Woods Rift": {
-            "Acolyte": {
-                "Runic String": {
-                    "-": 7.74,
-                    "Rift Antiskele": 10.08
-                }
-            },
             "Ancient Lab": {
                 "Runic String": {
-                    "-": 3.44,
-                    "Rift Antiskele": 3.62
+                    "-": 34.74,
+                    "Rift Antiskele": 37.1
                 },
                 "Ancient String": {
-                    "-": 5.89,
-                    "Rift Antiskele": 6
+                    "-": 44.05,
+                    "Rift Antiskele": 46.76
                 },
                 "Magical String": {
-                    "-": 5.58,
-                    "Rift Antiskele": 5.98
+                    "-": 40.09,
+                    "Rift Antiskele": 42.02
                 },
                 "Brie String": {
-                    "-": 4.97,
-                    "Rift Antiskele": 5.3
-                },
-                "Swiss String": {
-                    "-": 6.29,
-                    "Rift Antiskele": 6.67
-                }
-            },
-            "Entrance": {
-                "Runic String": {
-                    "-": 10.46,
-                    "Rift Antiskele": 10.64
-                }
-            },
-            "Frozen Alcove": {
-                "Runic String": {
-                    "-": 6.11,
-                    "Rift Antiskele": 6.15
-                },
-                "Ancient String": {
-                    "-": 8.6,
-                    "Rift Antiskele": 8.55
-                },
-                "Magical String": {
-                    "-": 8.5,
-                    "Rift Antiskele": 8.48
-                },
-                "Brie String": {
-                    "-": 8.85,
-                    "Rift Antiskele": 8.88
-                }
-            },
-            "Furnace Room": {
-                "Brie String": {
-                    "-": 2.8,
-                    "Rift Antiskele": 35.42
-                }
-            },
-            "Gearworks": {
-                "Runic String": {
-                    "-": 6.18,
-                    "Rift Antiskele": 6.93
-                },
-                "Ancient String": {
-                    "-": 5.94,
-                    "Rift Antiskele": 6.4
-                },
-                "Magical String": {
-                    "-": 8.89,
-                    "Rift Antiskele": 9.55
-                },
-                "Brie String": {
-                    "-": 7.33,
-                    "Rift Antiskele": 8.31
-                },
-                "Swiss String": {
-                    "-": 8.52,
-                    "Rift Antiskele": 10.27
-                }
-            },
-            "Guard Barracks": {
-                "Runic String": {
-                    "-": 65.46,
-                    "Rift Antiskele": 65.45
-                },
-                "Ancient String": {
-                    "-": 57.48,
-                    "Rift Antiskele": 57.16
-                },
-                "Magical String": {
-                    "-": 45.06,
-                    "Rift Antiskele": 44.94
-                },
-                "Brie String": {
-                    "-": 41.27,
-                    "Rift Antiskele": 41.05
-                }
-            },
-            "Hidden Treasury": {
-                "Runic String": {
-                    "-": 4.16,
-                    "Rift Antiskele": 4.93
-                },
-                "Ancient String": {
-                    "-": 5.46,
-                    "Rift Antiskele": 5.11
-                },
-                "Magical String": {
-                    "-": 6.19,
-                    "Rift Antiskele": 6.74
-                },
-                "Brie String": {
-                    "-": 4.55,
-                    "Rift Antiskele": 4.6
-                }
-            },
-            "Lucky Tower": {
-                "Runic String": {
-                    "-": 5.42,
-                    "Rift Antiskele": 5.56
-                },
-                "Ancient String": {
-                    "-": 7.12,
-                    "Rift Antiskele": 6.4
-                },
-                "Magical String": {
-                    "-": 4.23,
-                    "Rift Antiskele": 4.17
-                },
-                "Brie String": {
-                    "-": 4.31,
-                    "Rift Antiskele": 4.58
-                }
-            },
-            "Runic Laboratory": {
-                "Runic String": {
-                    "-": 3.95,
-                    "Rift Antiskele": 4.22
-                },
-                "Ancient String": {
-                    "-": 5.47,
-                    "Rift Antiskele": 5.69
-                },
-                "Magical String": {
-                    "-": 4.07,
-                    "Rift Antiskele": 4.52
-                },
-                "Brie String": {
-                    "-": 5.16,
-                    "Rift Antiskele": 6.1
-                },
-                "Swiss String": {
-                    "-": 1.76,
-                    "Rift Antiskele": 1.84
-                }
-            },
-            "Timewarp": {
-                "Runic String": {
-                    "-": 5.15,
-                    "Rift Antiskele": 5.42
-                },
-                "Ancient String": {
-                    "-": 4.97,
-                    "Rift Antiskele": 5.66
-                },
-                "Magical String": {
-                    "-": 4.94,
-                    "Rift Antiskele": 5.2
-                },
-                "Brie String": {
-                    "-": 4.22,
-                    "Rift Antiskele": 4.67
-                }
-            }
-        }
-    },
-    "Vigilant Ward": {
-        "Bristle Woods Rift": {
-            "Acolyte": {
-                "Runic String": {
-                    "-": 9.21,
-                    "Rift Antiskele": 12.15
-                }
-            },
-            "Acolyte (Paladin's Bane)": {
-                "Runic String": {
-                    "-": 9.98,
-                    "Rift Antiskele": 13.51
-                }
-            },
-            "Entrance": {
-                "Runic String": {
-                    "-": 78.46,
-                    "Rift Antiskele": 80.95
-                }
-            },
-            "Entrance (Paladin's Bane)": {
-                "Runic String": {
-                    "-": 87.63,
-                    "Rift Antiskele": 90.6
-                }
-            },
-            "Gearworks": {
-                "Runic String": {
-                    "-": 0.18,
-                    "Rift Antiskele": 0.27
-                }
-            },
-            "Gearworks (Paladin's Bane)": {
-                "Runic String": {
-                    "-": 0.19,
-                    "Rift Antiskele": 0.29
-                }
-            },
-            "Ingress": {
-                "Runic String": {
-                    "-": 14.3,
-                    "Rift Antiskele": 14.43
-                },
-                "Ancient String": {
-                    "-": 15.03,
-                    "Rift Antiskele": 14.61
-                },
-                "Magical String": {
-                    "-": 14.02,
-                    "Rift Antiskele": 14.34
-                },
-                "Brie String": {
-                    "-": 13.67,
-                    "Rift Antiskele": 13.31
-                }
-            },
-            "Ingress (Paladin's Bane)": {
-                "Runic String": {
-                    "-": 14.3,
-                    "Rift Antiskele": 14.43
-                },
-                "Ancient String": {
-                    "-": 15.03,
-                    "Rift Antiskele": 14.61
-                },
-                "Magical String": {
-                    "-": 14.02,
-                    "Rift Antiskele": 14.34
-                },
-                "Brie String": {
-                    "-": 13.67,
-                    "Rift Antiskele": 13.31
-                }
-            },
-            "Runic Laboratory": {
-                "Runic String": {
-                    "-": 6.72,
-                    "Rift Antiskele": 6.97
-                },
-                "Ancient String": {
-                    "-": 20.93,
-                    "Rift Antiskele": 22.11
-                },
-                "Magical String": {
-                    "-": 8.14,
-                    "Rift Antiskele": 9.68
-                },
-                "Brie String": {
-                    "-": 14.89,
-                    "Rift Antiskele": 15.26
-                },
-                "Swiss String": {
-                    "-": 18.24,
-                    "Rift Antiskele": 19.02
-                }
-            },
-            "Runic Laboratory (Paladin's Bane)": {
-                "Runic String": {
-                    "-": 7,
-                    "Rift Antiskele": 7.28
-                },
-                "Ancient String": {
-                    "-": 22.14,
-                    "Rift Antiskele": 23.44
-                },
-                "Magical String": {
-                    "-": 8.49,
-                    "Rift Antiskele": 10.14
-                },
-                "Brie String": {
-                    "-": 15.7,
-                    "Rift Antiskele": 16.25
-                },
-                "Swiss String": {
-                    "-": 18.56,
-                    "Rift Antiskele": 19.38
-                }
-            },
-            "Security": {
-                "Runic String": {
-                    "-": 0.4,
-                    "Rift Antiskele": 3.23
-                },
-                "Ancient String": {
-                    "-": 1.12,
-                    "Rift Antiskele": 13.79
-                },
-                "Magical String": {
-                    "-": 1.67,
-                    "Rift Antiskele": 17.65
-                },
-                "Brie String": {
-                    "-": 4.21,
-                    "Rift Antiskele": 37.76
-                }
-            },
-            "Security (Paladin's Bane)": {
-                "Runic String": {
-                    "-": 0.4,
-                    "Rift Antiskele": 3.23
-                },
-                "Ancient String": {
-                    "-": 1.12,
-                    "Rift Antiskele": 13.79
-                },
-                "Magical String": {
-                    "-": 1.67,
-                    "Rift Antiskele": 17.65
-                },
-                "Brie String": {
-                    "-": 4.21,
-                    "Rift Antiskele": 37.76
-                }
-            }
-        }
-    },
-    "Dread Knight": {
-        "Bristle Woods Rift": {
-            "Acolyte": {
-                "Runic String": {
-                    "-": 23.69,
-                    "Rift Antiskele": 31.12
-                }
-            },
-            "Acolyte (Paladin's Bane)": {
-                "Runic String": {
-                    "-": 25.68,
-                    "Rift Antiskele": 34.6
-                }
-            },
-            "Ancient Lab": {
-                "Runic String": {
-                    "-": 13.13,
-                    "Rift Antiskele": 13.87
-                },
-                "Ancient String": {
-                    "-": 9.4,
-                    "Rift Antiskele": 9.82
-                },
-                "Brie String": {
-                    "-": 1.07,
-                    "Rift Antiskele": 1.09
-                },
-                "Swiss String": {
-                    "-": 1.82,
-                    "Rift Antiskele": 1.97
+                    "-": 4.19,
+                    "Rift Antiskele": 4.41
                 }
             },
             "Ancient Lab (Paladin's Bane)": {
                 "Runic String": {
-                    "-": 13.59,
-                    "Rift Antiskele": 14.39
+                    "-": 35.98,
+                    "Rift Antiskele": 38.49
                 },
                 "Ancient String": {
-                    "-": 9.99,
-                    "Rift Antiskele": 10.45
+                    "-": 46.8,
+                    "Rift Antiskele": 49.74
+                },
+                "Magical String": {
+                    "-": 42.46,
+                    "Rift Antiskele": 44.69
                 },
                 "Brie String": {
-                    "-": 1.13,
-                    "Rift Antiskele": 1.15
+                    "-": 4.41,
+                    "Rift Antiskele": 4.66
+                }
+            },
+            "Entrance": {
+                "Runic String": {
+                    "-": 3.08,
+                    "Rift Antiskele": 3.36
+                }
+            },
+            "Entrance (Paladin's Bane)": {
+                "Runic String": {
+                    "-": 3.44,
+                    "Rift Antiskele": 3.76
+                }
+            },
+            "Gearworks": {
+                "Magical String": {
+                    "-": 4.13,
+                    "Rift Antiskele": 4.51
+                }
+            },
+            "Gearworks (Paladin's Bane)": {
+                "Magical String": {
+                    "-": 4.53,
+                    "Rift Antiskele": 4.98
+                }
+            },
+            "Guard Barracks": {
+                "Runic String": {
+                    "-": 13.45,
+                    "Rift Antiskele": 13.45
+                },
+                "Ancient String": {
+                    "-": 9.22,
+                    "Rift Antiskele": 9.36
+                },
+                "Magical String": {
+                    "-": 11.96,
+                    "Rift Antiskele": 11.97
+                }
+            },
+            "Guard Barracks (Paladin's Bane)": {
+                "Runic String": {
+                    "-": 38.93,
+                    "Rift Antiskele": 38.94
+                },
+                "Ancient String": {
+                    "-": 21.68,
+                    "Rift Antiskele": 21.85
+                },
+                "Magical String": {
+                    "-": 21.78,
+                    "Rift Antiskele": 21.74
+                }
+            },
+            "Hidden Treasury": {
+                "Runic String": {
+                    "-": 9.26,
+                    "Rift Antiskele": 9.98
+                },
+                "Ancient String": {
+                    "-": 19.95,
+                    "Rift Antiskele": 20.19
+                },
+                "Magical String": {
+                    "-": 36.86,
+                    "Rift Antiskele": 38.37
+                },
+                "Brie String": {
+                    "-": 8.72,
+                    "Rift Antiskele": 9.07
+                }
+            },
+            "Hidden Treasury (Paladin's Bane)": {
+                "Runic String": {
+                    "-": 9.67,
+                    "Rift Antiskele": 10.5
+                },
+                "Ancient String": {
+                    "-": 21.1,
+                    "Rift Antiskele": 21.28
+                },
+                "Magical String": {
+                    "-": 39.29,
+                    "Rift Antiskele": 41.15
+                },
+                "Brie String": {
+                    "-": 9.13,
+                    "Rift Antiskele": 9.5
+                }
+            },
+            "Lucky Tower": {
+                "Runic String": {
+                    "-": 23.31,
+                    "Rift Antiskele": 24.2
+                },
+                "Ancient String": {
+                    "-": 22.5,
+                    "Rift Antiskele": 23.01
+                },
+                "Magical String": {
+                    "-": 22.84,
+                    "Rift Antiskele": 24.28
+                },
+                "Brie String": {
+                    "-": 5.6,
+                    "Rift Antiskele": 5.87
+                }
+            },
+            "Lucky Tower (Paladin's Bane)": {
+                "Runic String": {
+                    "-": 24.65,
+                    "Rift Antiskele": 25.62
+                },
+                "Ancient String": {
+                    "-": 24.22,
+                    "Rift Antiskele": 24.58
+                },
+                "Magical String": {
+                    "-": 23.85,
+                    "Rift Antiskele": 25.34
+                },
+                "Brie String": {
+                    "-": 5.86,
+                    "Rift Antiskele": 6.15
+                }
+            }
+        }
+    },
+    "Chamber Cleaver": {
+        "Bristle Woods Rift": {
+            "Ancient Lab": {
+                "Runic String": {
+                    "-": 24.55,
+                    "Rift Antiskele": 25.67
+                }
+            },
+            "Ancient Lab (Paladin's Bane)": {
+                "Runic String": {
+                    "-": 25.43,
+                    "Rift Antiskele": 26.63
+                }
+            },
+            "Gearworks": {
+                "Runic String": {
+                    "-": 25.21,
+                    "Rift Antiskele": 26.65
+                }
+            },
+            "Gearworks (Paladin's Bane)": {
+                "Runic String": {
+                    "-": 26.88,
+                    "Rift Antiskele": 28.64
+                }
+            },
+            "Runic Laboratory": {
+                "Runic String": {
+                    "-": 15.73,
+                    "Rift Antiskele": 16.63
+                }
+            },
+            "Runic Laboratory (Paladin's Bane)": {
+                "Runic String": {
+                    "-": 16.38,
+                    "Rift Antiskele": 17.36
+                }
+            }
+        }
+    },
+    "Portal Plunderer": {
+        "Bristle Woods Rift": {
+            "Ancient Lab": {
+                "Runic String": {
+                    "-": 14.04,
+                    "Rift Antiskele": 14.91
+                },
+                "Ancient String": {
+                    "-": 22.31,
+                    "Rift Antiskele": 23.83
+                },
+                "Magical String": {
+                    "-": 21.21,
+                    "Rift Antiskele": 22.37
+                },
+                "Brie String": {
+                    "-": 37.23,
+                    "Rift Antiskele": 39.28
                 },
                 "Swiss String": {
-                    "-": 1.94,
-                    "Rift Antiskele": 2.11
+                    "-": 26.37,
+                    "Rift Antiskele": 28.45
                 }
             },
-            "Frozen Alcove": {
+            "Ancient Lab (Paladin's Bane)": {
                 "Runic String": {
-                    "-": 38.59,
-                    "Rift Antiskele": 38.79
+                    "-": 14.54,
+                    "Rift Antiskele": 15.47
                 },
                 "Ancient String": {
-                    "-": 36.29,
-                    "Rift Antiskele": 36.39
+                    "-": 23.7,
+                    "Rift Antiskele": 25.35
                 },
                 "Magical String": {
-                    "-": 11.75,
-                    "Rift Antiskele": 11.66
+                    "-": 22.46,
+                    "Rift Antiskele": 23.79
                 },
                 "Brie String": {
-                    "-": 11.04,
-                    "Rift Antiskele": 11.21
+                    "-": 39.17,
+                    "Rift Antiskele": 41.48
+                },
+                "Swiss String": {
+                    "-": 28.15,
+                    "Rift Antiskele": 30.49
                 }
             },
-            "Frozen Alcove (Paladin's Bane)": {
+            "Entrance": {
                 "Runic String": {
-                    "-": 41.1,
-                    "Rift Antiskele": 41.33
-                },
-                "Ancient String": {
-                    "-": 39.7,
-                    "Rift Antiskele": 39.79
-                },
-                "Magical String": {
-                    "-": 12.84,
-                    "Rift Antiskele": 12.74
-                },
-                "Brie String": {
-                    "-": 12.11,
-                    "Rift Antiskele": 12.31
+                    "-": 3.69,
+                    "Rift Antiskele": 3.92
+                }
+            },
+            "Entrance (Paladin's Bane)": {
+                "Runic String": {
+                    "-": 4.12,
+                    "Rift Antiskele": 4.39
                 }
             },
             "Furnace Room": {
                 "Brie String": {
-                    "-": 1.56,
+                    "-": 1.87,
                     "Rift Antiskele": 16.67
                 }
             },
             "Furnace Room (Paladin's Bane)": {
                 "Brie String": {
-                    "-": 1.6,
+                    "-": 1.92,
                     "Rift Antiskele": 25.81
                 }
             },
             "Gearworks": {
                 "Runic String": {
-                    "-": 37.44,
-                    "Rift Antiskele": 41.06
+                    "-": 11.37,
+                    "Rift Antiskele": 12.92
                 },
                 "Ancient String": {
-                    "-": 38.49,
-                    "Rift Antiskele": 41.35
+                    "-": 13.13,
+                    "Rift Antiskele": 13.84
                 },
                 "Magical String": {
-                    "-": 16.47,
-                    "Rift Antiskele": 18.13
+                    "-": 4.27,
+                    "Rift Antiskele": 4.61
                 },
                 "Brie String": {
-                    "-": 16.73,
-                    "Rift Antiskele": 18.77
+                    "-": 5.43,
+                    "Rift Antiskele": 6.19
                 },
                 "Swiss String": {
-                    "-": 8.24,
-                    "Rift Antiskele": 9.79
+                    "-": 3.27,
+                    "Rift Antiskele": 3.69
                 }
             },
             "Gearworks (Paladin's Bane)": {
                 "Runic String": {
-                    "-": 39.9,
-                    "Rift Antiskele": 44.12
+                    "-": 12.12,
+                    "Rift Antiskele": 13.88
                 },
                 "Ancient String": {
-                    "-": 40.92,
-                    "Rift Antiskele": 44.18
+                    "-": 13.96,
+                    "Rift Antiskele": 14.79
                 },
                 "Magical String": {
-                    "-": 18.08,
-                    "Rift Antiskele": 20.04
+                    "-": 4.69,
+                    "Rift Antiskele": 5.09
                 },
                 "Brie String": {
-                    "-": 18.05,
-                    "Rift Antiskele": 20.47
+                    "-": 5.85,
+                    "Rift Antiskele": 6.75
                 },
                 "Swiss String": {
-                    "-": 9.01,
-                    "Rift Antiskele": 10.91
-                }
-            },
-            "Guard Barracks": {
-                "Runic String": {
-                    "-": 17.98,
-                    "Rift Antiskele": 18.05
-                },
-                "Ancient String": {
-                    "-": 15.56,
-                    "Rift Antiskele": 15.77
-                },
-                "Magical String": {
-                    "-": 10.57,
-                    "Rift Antiskele": 10.55
-                },
-                "Brie String": {
-                    "-": 9.01,
-                    "Rift Antiskele": 9.19
-                }
-            },
-            "Guard Barracks (Paladin's Bane)": {
-                "Runic String": {
-                    "-": 52.05,
-                    "Rift Antiskele": 52.25
-                },
-                "Ancient String": {
-                    "-": 36.6,
-                    "Rift Antiskele": 36.82
-                },
-                "Magical String": {
-                    "-": 19.24,
-                    "Rift Antiskele": 19.16
-                },
-                "Brie String": {
-                    "-": 15.34,
-                    "Rift Antiskele": 15.58
+                    "-": 3.57,
+                    "Rift Antiskele": 4.11
                 }
             },
             "Hidden Treasury": {
                 "Runic String": {
-                    "-": 5.94,
-                    "Rift Antiskele": 6.03
+                    "-": 11.88,
+                    "Rift Antiskele": 12.28
                 },
                 "Ancient String": {
-                    "-": 5.74,
-                    "Rift Antiskele": 5.84
+                    "-": 13.93,
+                    "Rift Antiskele": 14.11
                 },
                 "Magical String": {
-                    "-": 5.93,
-                    "Rift Antiskele": 5.35
+                    "-": 10.57,
+                    "Rift Antiskele": 11.4
                 },
                 "Brie String": {
-                    "-": 11.55,
-                    "Rift Antiskele": 12.26
+                    "-": 35.78,
+                    "Rift Antiskele": 38.19
                 }
             },
             "Hidden Treasury (Paladin's Bane)": {
                 "Runic String": {
-                    "-": 6.2,
-                    "Rift Antiskele": 6.34
+                    "-": 12.39,
+                    "Rift Antiskele": 12.92
                 },
                 "Ancient String": {
-                    "-": 6.07,
-                    "Rift Antiskele": 6.15
+                    "-": 14.74,
+                    "Rift Antiskele": 14.87
                 },
                 "Magical String": {
-                    "-": 6.32,
-                    "Rift Antiskele": 5.74
+                    "-": 11.26,
+                    "Rift Antiskele": 12.22
                 },
                 "Brie String": {
-                    "-": 12.1,
-                    "Rift Antiskele": 12.85
-                }
-            },
-            "Ingress": {
-                "Runic String": {
-                    "-": 23.57,
-                    "Rift Antiskele": 23.28
-                },
-                "Ancient String": {
-                    "-": 19.93,
-                    "Rift Antiskele": 19.33
-                },
-                "Magical String": {
-                    "-": 5.3,
-                    "Rift Antiskele": 5.28
-                },
-                "Brie String": {
-                    "-": 4.3,
-                    "Rift Antiskele": 4.25
-                }
-            },
-            "Ingress (Paladin's Bane)": {
-                "Runic String": {
-                    "-": 23.57,
-                    "Rift Antiskele": 23.28
-                },
-                "Ancient String": {
-                    "-": 19.93,
-                    "Rift Antiskele": 19.33
-                },
-                "Magical String": {
-                    "-": 5.3,
-                    "Rift Antiskele": 5.28
-                },
-                "Brie String": {
-                    "-": 4.3,
-                    "Rift Antiskele": 4.25
+                    "-": 37.48,
+                    "Rift Antiskele": 40.03
                 }
             },
             "Lucky Tower": {
                 "Runic String": {
-                    "-": 11.8,
-                    "Rift Antiskele": 12.98
+                    "-": 15.6,
+                    "Rift Antiskele": 17.03
                 },
                 "Ancient String": {
-                    "-": 10.38,
-                    "Rift Antiskele": 11.07
+                    "-": 16.35,
+                    "Rift Antiskele": 17.3
                 },
                 "Magical String": {
-                    "-": 9.98,
-                    "Rift Antiskele": 10.63
+                    "-": 13.03,
+                    "Rift Antiskele": 14.8
                 },
                 "Brie String": {
-                    "-": 10.41,
-                    "Rift Antiskele": 11.24
+                    "-": 20.24,
+                    "Rift Antiskele": 21.18
                 }
             },
             "Lucky Tower (Paladin's Bane)": {
                 "Runic String": {
-                    "-": 12.47,
-                    "Rift Antiskele": 13.75
+                    "-": 16.5,
+                    "Rift Antiskele": 18.04
                 },
                 "Ancient String": {
-                    "-": 11.18,
-                    "Rift Antiskele": 11.83
+                    "-": 17.6,
+                    "Rift Antiskele": 18.48
                 },
                 "Magical String": {
-                    "-": 10.42,
-                    "Rift Antiskele": 11.09
+                    "-": 13.6,
+                    "Rift Antiskele": 15.44
                 },
                 "Brie String": {
-                    "-": 10.88,
-                    "Rift Antiskele": 11.78
+                    "-": 21.16,
+                    "Rift Antiskele": 22.2
                 }
-            },
-            "Runic Laboratory": {
+            }
+        }
+    },
+    "Clockwork Timespinner": {
+        "Bristle Woods Rift": {
+            "Ancient Lab": {
                 "Runic String": {
-                    "-": 10.24,
-                    "Rift Antiskele": 10.93
+                    "-": 2.16,
+                    "Rift Antiskele": 2.26
+                },
+                "Ancient String": {
+                    "-": 4.14,
+                    "Rift Antiskele": 4.49
                 },
                 "Magical String": {
-                    "-": 19.34,
-                    "Rift Antiskele": 22.58
+                    "-": 13.25,
+                    "Rift Antiskele": 13.97
                 },
                 "Brie String": {
-                    "-": 25.25,
-                    "Rift Antiskele": 25.9
+                    "-": 40.95,
+                    "Rift Antiskele": 43.36
                 },
                 "Swiss String": {
-                    "-": 24.12,
-                    "Rift Antiskele": 25.15
+                    "-": 26.14,
+                    "Rift Antiskele": 28.84
                 }
             },
-            "Runic Laboratory (Paladin's Bane)": {
+            "Ancient Lab (Paladin's Bane)": {
                 "Runic String": {
-                    "-": 10.66,
-                    "Rift Antiskele": 11.41
+                    "-": 2.23,
+                    "Rift Antiskele": 2.34
+                },
+                "Ancient String": {
+                    "-": 4.39,
+                    "Rift Antiskele": 4.77
                 },
                 "Magical String": {
-                    "-": 20.16,
-                    "Rift Antiskele": 23.65
+                    "-": 14.04,
+                    "Rift Antiskele": 14.86
                 },
                 "Brie String": {
-                    "-": 26.62,
-                    "Rift Antiskele": 27.58
+                    "-": 43.09,
+                    "Rift Antiskele": 45.79
                 },
                 "Swiss String": {
-                    "-": 24.55,
-                    "Rift Antiskele": 25.62
+                    "-": 27.9,
+                    "Rift Antiskele": 30.9
                 }
             },
-            "Timewarp": {
-                "Ancient String": {
-                    "-": 30.48,
-                    "Rift Antiskele": 32.08
-                },
-                "Magical String": {
-                    "-": 33.72,
-                    "Rift Antiskele": 36.42
-                },
-                "Brie String": {
-                    "-": 41.16,
-                    "Rift Antiskele": 43.41
+            "Entrance": {
+                "Runic String": {
+                    "-": 0.62,
+                    "Rift Antiskele": 0.56
                 }
             },
-            "Timewarp (Paladin's Bane)": {
+            "Entrance (Paladin's Bane)": {
+                "Runic String": {
+                    "-": 0.69,
+                    "Rift Antiskele": 0.63
+                }
+            },
+            "Furnace Room": {
+                "Brie String": {
+                    "-": 1.87,
+                    "Rift Antiskele": 31.25
+                }
+            },
+            "Furnace Room (Paladin's Bane)": {
+                "Brie String": {
+                    "-": 1.92,
+                    "Rift Antiskele": 48.39
+                }
+            },
+            "Gearworks": {
+                "Runic String": {
+                    "-": 4.15,
+                    "Rift Antiskele": 4.77
+                },
                 "Ancient String": {
-                    "-": 32.08,
-                    "Rift Antiskele": 34
+                    "-": 8.99,
+                    "Rift Antiskele": 10.03
                 },
                 "Magical String": {
-                    "-": 35.47,
-                    "Rift Antiskele": 38.41
+                    "-": 4.51,
+                    "Rift Antiskele": 4.9
                 },
                 "Brie String": {
-                    "-": 42.97,
-                    "Rift Antiskele": 45.54
+                    "-": 7.51,
+                    "Rift Antiskele": 8.33
+                },
+                "Swiss String": {
+                    "-": 5.4,
+                    "Rift Antiskele": 6.1
+                }
+            },
+            "Gearworks (Paladin's Bane)": {
+                "Runic String": {
+                    "-": 4.42,
+                    "Rift Antiskele": 5.13
+                },
+                "Ancient String": {
+                    "-": 9.56,
+                    "Rift Antiskele": 10.72
+                },
+                "Magical String": {
+                    "-": 4.96,
+                    "Rift Antiskele": 5.42
+                },
+                "Brie String": {
+                    "-": 8.1,
+                    "Rift Antiskele": 9.09
+                },
+                "Swiss String": {
+                    "-": 5.9,
+                    "Rift Antiskele": 6.8
+                }
+            },
+            "Guard Barracks": {
+                "Runic String": {
+                    "-": 2.05,
+                    "Rift Antiskele": 2.01
+                },
+                "Ancient String": {
+                    "-": 6.19,
+                    "Rift Antiskele": 6.13
+                },
+                "Magical String": {
+                    "-": 14.38,
+                    "Rift Antiskele": 14.5
+                },
+                "Brie String": {
+                    "-": 26.61,
+                    "Rift Antiskele": 26.69
+                }
+            },
+            "Guard Barracks (Paladin's Bane)": {
+                "Runic String": {
+                    "-": 5.94,
+                    "Rift Antiskele": 5.82
+                },
+                "Ancient String": {
+                    "-": 14.57,
+                    "Rift Antiskele": 14.3
+                },
+                "Magical String": {
+                    "-": 26.17,
+                    "Rift Antiskele": 26.34
+                },
+                "Brie String": {
+                    "-": 45.31,
+                    "Rift Antiskele": 45.27
+                }
+            },
+            "Ingress": {
+                "Runic String": {
+                    "-": 24.67,
+                    "Rift Antiskele": 25.04
+                },
+                "Ancient String": {
+                    "-": 26.92,
+                    "Rift Antiskele": 26.48
+                },
+                "Magical String": {
+                    "-": 31.06,
+                    "Rift Antiskele": 30.94
+                },
+                "Brie String": {
+                    "-": 30.41,
+                    "Rift Antiskele": 31.3
+                }
+            },
+            "Ingress (Paladin's Bane)": {
+                "Runic String": {
+                    "-": 24.67,
+                    "Rift Antiskele": 25.04
+                },
+                "Ancient String": {
+                    "-": 26.92,
+                    "Rift Antiskele": 26.48
+                },
+                "Magical String": {
+                    "-": 31.06,
+                    "Rift Antiskele": 30.94
+                },
+                "Brie String": {
+                    "-": 30.41,
+                    "Rift Antiskele": 31.3
+                }
+            },
+            "Lucky Tower": {
+                "Runic String": {
+                    "-": 13.32,
+                    "Rift Antiskele": 13.58
+                },
+                "Ancient String": {
+                    "-": 14.62,
+                    "Rift Antiskele": 15.4
+                },
+                "Magical String": {
+                    "-": 17.43,
+                    "Rift Antiskele": 17.96
+                },
+                "Brie String": {
+                    "-": 20.4,
+                    "Rift Antiskele": 21.49
+                }
+            },
+            "Lucky Tower (Paladin's Bane)": {
+                "Runic String": {
+                    "-": 14.08,
+                    "Rift Antiskele": 14.37
+                },
+                "Ancient String": {
+                    "-": 15.73,
+                    "Rift Antiskele": 16.45
+                },
+                "Magical String": {
+                    "-": 18.2,
+                    "Rift Antiskele": 18.74
+                },
+                "Brie String": {
+                    "-": 21.31,
+                    "Rift Antiskele": 22.52
+                }
+            }
+        }
+    },
+    "Record Keeper": {
+        "Bristle Woods Rift": {
+            "Ancient Lab": {
+                "Runic String": {
+                    "-": 1.1,
+                    "Rift Antiskele": 1.08
+                },
+                "Ancient String": {
+                    "-": 5.14,
+                    "Rift Antiskele": 5.58
+                },
+                "Magical String": {
+                    "-": 4.88,
+                    "Rift Antiskele": 5.13
+                },
+                "Brie String": {
+                    "-": 5.21,
+                    "Rift Antiskele": 5.51
+                },
+                "Swiss String": {
+                    "-": 16.64,
+                    "Rift Antiskele": 18.76
+                }
+            },
+            "Ancient Lab (Paladin's Bane)": {
+                "Runic String": {
+                    "-": 1.14,
+                    "Rift Antiskele": 1.13
+                },
+                "Ancient String": {
+                    "-": 5.46,
+                    "Rift Antiskele": 5.94
+                },
+                "Magical String": {
+                    "-": 5.17,
+                    "Rift Antiskele": 5.45
+                },
+                "Brie String": {
+                    "-": 5.48,
+                    "Rift Antiskele": 5.82
+                },
+                "Swiss String": {
+                    "-": 17.75,
+                    "Rift Antiskele": 20.1
+                }
+            },
+            "Gearworks": {
+                "Runic String": {
+                    "-": 2.17,
+                    "Rift Antiskele": 2.34
+                },
+                "Ancient String": {
+                    "-": 7.55,
+                    "Rift Antiskele": 8.13
+                },
+                "Magical String": {
+                    "-": 17.44,
+                    "Rift Antiskele": 19.55
+                },
+                "Brie String": {
+                    "-": 15.08,
+                    "Rift Antiskele": 17.35
+                },
+                "Swiss String": {
+                    "-": 16.19,
+                    "Rift Antiskele": 18.62
+                }
+            },
+            "Gearworks (Paladin's Bane)": {
+                "Runic String": {
+                    "-": 2.31,
+                    "Rift Antiskele": 2.52
+                },
+                "Ancient String": {
+                    "-": 8.03,
+                    "Rift Antiskele": 8.69
+                },
+                "Magical String": {
+                    "-": 19.14,
+                    "Rift Antiskele": 21.61
+                },
+                "Brie String": {
+                    "-": 16.28,
+                    "Rift Antiskele": 18.92
+                },
+                "Swiss String": {
+                    "-": 17.7,
+                    "Rift Antiskele": 20.75
+                }
+            },
+            "Lucky Tower": {
+                "Runic String": {
+                    "-": 10.37,
+                    "Rift Antiskele": 10.71
+                },
+                "Ancient String": {
+                    "-": 10.77,
+                    "Rift Antiskele": 11.42
+                },
+                "Magical String": {
+                    "-": 10.49,
+                    "Rift Antiskele": 11.64
+                },
+                "Brie String": {
+                    "-": 11.02,
+                    "Rift Antiskele": 11.81
+                }
+            },
+            "Lucky Tower (Paladin's Bane)": {
+                "Runic String": {
+                    "-": 10.97,
+                    "Rift Antiskele": 11.34
+                },
+                "Ancient String": {
+                    "-": 11.59,
+                    "Rift Antiskele": 12.2
+                },
+                "Magical String": {
+                    "-": 10.95,
+                    "Rift Antiskele": 12.14
+                },
+                "Brie String": {
+                    "-": 11.51,
+                    "Rift Antiskele": 12.38
+                }
+            },
+            "Pursuer Mousoleum": {
+                "Brie String": {
+                    "Rift Antiskele": 6.82
+                }
+            },
+            "Pursuer Mousoleum (Paladin's Bane)": {
+                "Brie String": {
+                    "Rift Antiskele": 6.82
                 }
             }
         }
@@ -22694,760 +23448,6 @@
                 "Brie String": {
                     "-": 39.89,
                     "Rift Antiskele": 43.15
-                }
-            }
-        }
-    },
-    "Portal Plunderer": {
-        "Bristle Woods Rift": {
-            "Ancient Lab": {
-                "Runic String": {
-                    "-": 14.04,
-                    "Rift Antiskele": 14.91
-                },
-                "Ancient String": {
-                    "-": 22.31,
-                    "Rift Antiskele": 23.83
-                },
-                "Magical String": {
-                    "-": 21.21,
-                    "Rift Antiskele": 22.37
-                },
-                "Brie String": {
-                    "-": 37.23,
-                    "Rift Antiskele": 39.28
-                },
-                "Swiss String": {
-                    "-": 26.37,
-                    "Rift Antiskele": 28.45
-                }
-            },
-            "Ancient Lab (Paladin's Bane)": {
-                "Runic String": {
-                    "-": 14.54,
-                    "Rift Antiskele": 15.47
-                },
-                "Ancient String": {
-                    "-": 23.7,
-                    "Rift Antiskele": 25.35
-                },
-                "Magical String": {
-                    "-": 22.46,
-                    "Rift Antiskele": 23.79
-                },
-                "Brie String": {
-                    "-": 39.17,
-                    "Rift Antiskele": 41.48
-                },
-                "Swiss String": {
-                    "-": 28.15,
-                    "Rift Antiskele": 30.49
-                }
-            },
-            "Entrance": {
-                "Runic String": {
-                    "-": 3.69,
-                    "Rift Antiskele": 3.92
-                }
-            },
-            "Entrance (Paladin's Bane)": {
-                "Runic String": {
-                    "-": 4.12,
-                    "Rift Antiskele": 4.39
-                }
-            },
-            "Furnace Room": {
-                "Brie String": {
-                    "-": 1.87,
-                    "Rift Antiskele": 16.67
-                }
-            },
-            "Furnace Room (Paladin's Bane)": {
-                "Brie String": {
-                    "-": 1.92,
-                    "Rift Antiskele": 25.81
-                }
-            },
-            "Gearworks": {
-                "Runic String": {
-                    "-": 11.37,
-                    "Rift Antiskele": 12.92
-                },
-                "Ancient String": {
-                    "-": 13.13,
-                    "Rift Antiskele": 13.84
-                },
-                "Magical String": {
-                    "-": 4.27,
-                    "Rift Antiskele": 4.61
-                },
-                "Brie String": {
-                    "-": 5.43,
-                    "Rift Antiskele": 6.19
-                },
-                "Swiss String": {
-                    "-": 3.27,
-                    "Rift Antiskele": 3.69
-                }
-            },
-            "Gearworks (Paladin's Bane)": {
-                "Runic String": {
-                    "-": 12.12,
-                    "Rift Antiskele": 13.88
-                },
-                "Ancient String": {
-                    "-": 13.96,
-                    "Rift Antiskele": 14.79
-                },
-                "Magical String": {
-                    "-": 4.69,
-                    "Rift Antiskele": 5.09
-                },
-                "Brie String": {
-                    "-": 5.85,
-                    "Rift Antiskele": 6.75
-                },
-                "Swiss String": {
-                    "-": 3.57,
-                    "Rift Antiskele": 4.11
-                }
-            },
-            "Hidden Treasury": {
-                "Runic String": {
-                    "-": 11.88,
-                    "Rift Antiskele": 12.28
-                },
-                "Ancient String": {
-                    "-": 13.93,
-                    "Rift Antiskele": 14.11
-                },
-                "Magical String": {
-                    "-": 10.57,
-                    "Rift Antiskele": 11.4
-                },
-                "Brie String": {
-                    "-": 35.78,
-                    "Rift Antiskele": 38.19
-                }
-            },
-            "Hidden Treasury (Paladin's Bane)": {
-                "Runic String": {
-                    "-": 12.39,
-                    "Rift Antiskele": 12.92
-                },
-                "Ancient String": {
-                    "-": 14.74,
-                    "Rift Antiskele": 14.87
-                },
-                "Magical String": {
-                    "-": 11.26,
-                    "Rift Antiskele": 12.22
-                },
-                "Brie String": {
-                    "-": 37.48,
-                    "Rift Antiskele": 40.03
-                }
-            },
-            "Lucky Tower": {
-                "Runic String": {
-                    "-": 15.6,
-                    "Rift Antiskele": 17.03
-                },
-                "Ancient String": {
-                    "-": 16.35,
-                    "Rift Antiskele": 17.3
-                },
-                "Magical String": {
-                    "-": 13.03,
-                    "Rift Antiskele": 14.8
-                },
-                "Brie String": {
-                    "-": 20.24,
-                    "Rift Antiskele": 21.18
-                }
-            },
-            "Lucky Tower (Paladin's Bane)": {
-                "Runic String": {
-                    "-": 16.5,
-                    "Rift Antiskele": 18.04
-                },
-                "Ancient String": {
-                    "-": 17.6,
-                    "Rift Antiskele": 18.48
-                },
-                "Magical String": {
-                    "-": 13.6,
-                    "Rift Antiskele": 15.44
-                },
-                "Brie String": {
-                    "-": 21.16,
-                    "Rift Antiskele": 22.2
-                }
-            }
-        }
-    },
-    "Chamber Cleaver": {
-        "Bristle Woods Rift": {
-            "Ancient Lab": {
-                "Runic String": {
-                    "-": 24.55,
-                    "Rift Antiskele": 25.67
-                }
-            },
-            "Ancient Lab (Paladin's Bane)": {
-                "Runic String": {
-                    "-": 25.43,
-                    "Rift Antiskele": 26.63
-                }
-            },
-            "Gearworks": {
-                "Runic String": {
-                    "-": 25.21,
-                    "Rift Antiskele": 26.65
-                }
-            },
-            "Gearworks (Paladin's Bane)": {
-                "Runic String": {
-                    "-": 26.88,
-                    "Rift Antiskele": 28.64
-                }
-            },
-            "Runic Laboratory": {
-                "Runic String": {
-                    "-": 15.73,
-                    "Rift Antiskele": 16.63
-                }
-            },
-            "Runic Laboratory (Paladin's Bane)": {
-                "Runic String": {
-                    "-": 16.38,
-                    "Rift Antiskele": 17.36
-                }
-            }
-        }
-    },
-    "Epoch Golem": {
-        "Bristle Woods Rift": {
-            "Ancient Lab": {
-                "Runic String": {
-                    "-": 34.74,
-                    "Rift Antiskele": 37.1
-                },
-                "Ancient String": {
-                    "-": 44.05,
-                    "Rift Antiskele": 46.76
-                },
-                "Magical String": {
-                    "-": 40.09,
-                    "Rift Antiskele": 42.02
-                },
-                "Brie String": {
-                    "-": 4.19,
-                    "Rift Antiskele": 4.41
-                }
-            },
-            "Ancient Lab (Paladin's Bane)": {
-                "Runic String": {
-                    "-": 35.98,
-                    "Rift Antiskele": 38.49
-                },
-                "Ancient String": {
-                    "-": 46.8,
-                    "Rift Antiskele": 49.74
-                },
-                "Magical String": {
-                    "-": 42.46,
-                    "Rift Antiskele": 44.69
-                },
-                "Brie String": {
-                    "-": 4.41,
-                    "Rift Antiskele": 4.66
-                }
-            },
-            "Entrance": {
-                "Runic String": {
-                    "-": 3.08,
-                    "Rift Antiskele": 3.36
-                }
-            },
-            "Entrance (Paladin's Bane)": {
-                "Runic String": {
-                    "-": 3.44,
-                    "Rift Antiskele": 3.76
-                }
-            },
-            "Gearworks": {
-                "Magical String": {
-                    "-": 4.13,
-                    "Rift Antiskele": 4.51
-                }
-            },
-            "Gearworks (Paladin's Bane)": {
-                "Magical String": {
-                    "-": 4.53,
-                    "Rift Antiskele": 4.98
-                }
-            },
-            "Guard Barracks": {
-                "Runic String": {
-                    "-": 13.45,
-                    "Rift Antiskele": 13.45
-                },
-                "Ancient String": {
-                    "-": 9.22,
-                    "Rift Antiskele": 9.36
-                },
-                "Magical String": {
-                    "-": 11.96,
-                    "Rift Antiskele": 11.97
-                }
-            },
-            "Guard Barracks (Paladin's Bane)": {
-                "Runic String": {
-                    "-": 38.93,
-                    "Rift Antiskele": 38.94
-                },
-                "Ancient String": {
-                    "-": 21.68,
-                    "Rift Antiskele": 21.85
-                },
-                "Magical String": {
-                    "-": 21.78,
-                    "Rift Antiskele": 21.74
-                }
-            },
-            "Hidden Treasury": {
-                "Runic String": {
-                    "-": 9.26,
-                    "Rift Antiskele": 9.98
-                },
-                "Ancient String": {
-                    "-": 19.95,
-                    "Rift Antiskele": 20.19
-                },
-                "Magical String": {
-                    "-": 36.86,
-                    "Rift Antiskele": 38.37
-                },
-                "Brie String": {
-                    "-": 8.72,
-                    "Rift Antiskele": 9.07
-                }
-            },
-            "Hidden Treasury (Paladin's Bane)": {
-                "Runic String": {
-                    "-": 9.67,
-                    "Rift Antiskele": 10.5
-                },
-                "Ancient String": {
-                    "-": 21.1,
-                    "Rift Antiskele": 21.28
-                },
-                "Magical String": {
-                    "-": 39.29,
-                    "Rift Antiskele": 41.15
-                },
-                "Brie String": {
-                    "-": 9.13,
-                    "Rift Antiskele": 9.5
-                }
-            },
-            "Lucky Tower": {
-                "Runic String": {
-                    "-": 23.31,
-                    "Rift Antiskele": 24.2
-                },
-                "Ancient String": {
-                    "-": 22.5,
-                    "Rift Antiskele": 23.01
-                },
-                "Magical String": {
-                    "-": 22.84,
-                    "Rift Antiskele": 24.28
-                },
-                "Brie String": {
-                    "-": 5.6,
-                    "Rift Antiskele": 5.87
-                }
-            },
-            "Lucky Tower (Paladin's Bane)": {
-                "Runic String": {
-                    "-": 24.65,
-                    "Rift Antiskele": 25.62
-                },
-                "Ancient String": {
-                    "-": 24.22,
-                    "Rift Antiskele": 24.58
-                },
-                "Magical String": {
-                    "-": 23.85,
-                    "Rift Antiskele": 25.34
-                },
-                "Brie String": {
-                    "-": 5.86,
-                    "Rift Antiskele": 6.15
-                }
-            }
-        }
-    },
-    "Clockwork Timespinner": {
-        "Bristle Woods Rift": {
-            "Ancient Lab": {
-                "Runic String": {
-                    "-": 2.16,
-                    "Rift Antiskele": 2.26
-                },
-                "Ancient String": {
-                    "-": 4.14,
-                    "Rift Antiskele": 4.49
-                },
-                "Magical String": {
-                    "-": 13.25,
-                    "Rift Antiskele": 13.97
-                },
-                "Brie String": {
-                    "-": 40.95,
-                    "Rift Antiskele": 43.36
-                },
-                "Swiss String": {
-                    "-": 26.14,
-                    "Rift Antiskele": 28.84
-                }
-            },
-            "Ancient Lab (Paladin's Bane)": {
-                "Runic String": {
-                    "-": 2.23,
-                    "Rift Antiskele": 2.34
-                },
-                "Ancient String": {
-                    "-": 4.39,
-                    "Rift Antiskele": 4.77
-                },
-                "Magical String": {
-                    "-": 14.04,
-                    "Rift Antiskele": 14.86
-                },
-                "Brie String": {
-                    "-": 43.09,
-                    "Rift Antiskele": 45.79
-                },
-                "Swiss String": {
-                    "-": 27.9,
-                    "Rift Antiskele": 30.9
-                }
-            },
-            "Entrance": {
-                "Runic String": {
-                    "-": 0.62,
-                    "Rift Antiskele": 0.56
-                }
-            },
-            "Entrance (Paladin's Bane)": {
-                "Runic String": {
-                    "-": 0.69,
-                    "Rift Antiskele": 0.63
-                }
-            },
-            "Furnace Room": {
-                "Brie String": {
-                    "-": 1.87,
-                    "Rift Antiskele": 31.25
-                }
-            },
-            "Furnace Room (Paladin's Bane)": {
-                "Brie String": {
-                    "-": 1.92,
-                    "Rift Antiskele": 48.39
-                }
-            },
-            "Gearworks": {
-                "Runic String": {
-                    "-": 4.15,
-                    "Rift Antiskele": 4.77
-                },
-                "Ancient String": {
-                    "-": 8.99,
-                    "Rift Antiskele": 10.03
-                },
-                "Magical String": {
-                    "-": 4.51,
-                    "Rift Antiskele": 4.9
-                },
-                "Brie String": {
-                    "-": 7.51,
-                    "Rift Antiskele": 8.33
-                },
-                "Swiss String": {
-                    "-": 5.4,
-                    "Rift Antiskele": 6.1
-                }
-            },
-            "Gearworks (Paladin's Bane)": {
-                "Runic String": {
-                    "-": 4.42,
-                    "Rift Antiskele": 5.13
-                },
-                "Ancient String": {
-                    "-": 9.56,
-                    "Rift Antiskele": 10.72
-                },
-                "Magical String": {
-                    "-": 4.96,
-                    "Rift Antiskele": 5.42
-                },
-                "Brie String": {
-                    "-": 8.1,
-                    "Rift Antiskele": 9.09
-                },
-                "Swiss String": {
-                    "-": 5.9,
-                    "Rift Antiskele": 6.8
-                }
-            },
-            "Guard Barracks": {
-                "Runic String": {
-                    "-": 2.05,
-                    "Rift Antiskele": 2.01
-                },
-                "Ancient String": {
-                    "-": 6.19,
-                    "Rift Antiskele": 6.13
-                },
-                "Magical String": {
-                    "-": 14.38,
-                    "Rift Antiskele": 14.5
-                },
-                "Brie String": {
-                    "-": 26.61,
-                    "Rift Antiskele": 26.69
-                }
-            },
-            "Guard Barracks (Paladin's Bane)": {
-                "Runic String": {
-                    "-": 5.94,
-                    "Rift Antiskele": 5.82
-                },
-                "Ancient String": {
-                    "-": 14.57,
-                    "Rift Antiskele": 14.3
-                },
-                "Magical String": {
-                    "-": 26.17,
-                    "Rift Antiskele": 26.34
-                },
-                "Brie String": {
-                    "-": 45.31,
-                    "Rift Antiskele": 45.27
-                }
-            },
-            "Ingress": {
-                "Runic String": {
-                    "-": 24.67,
-                    "Rift Antiskele": 25.04
-                },
-                "Ancient String": {
-                    "-": 26.92,
-                    "Rift Antiskele": 26.48
-                },
-                "Magical String": {
-                    "-": 31.06,
-                    "Rift Antiskele": 30.94
-                },
-                "Brie String": {
-                    "-": 30.41,
-                    "Rift Antiskele": 31.3
-                }
-            },
-            "Ingress (Paladin's Bane)": {
-                "Runic String": {
-                    "-": 24.67,
-                    "Rift Antiskele": 25.04
-                },
-                "Ancient String": {
-                    "-": 26.92,
-                    "Rift Antiskele": 26.48
-                },
-                "Magical String": {
-                    "-": 31.06,
-                    "Rift Antiskele": 30.94
-                },
-                "Brie String": {
-                    "-": 30.41,
-                    "Rift Antiskele": 31.3
-                }
-            },
-            "Lucky Tower": {
-                "Runic String": {
-                    "-": 13.32,
-                    "Rift Antiskele": 13.58
-                },
-                "Ancient String": {
-                    "-": 14.62,
-                    "Rift Antiskele": 15.4
-                },
-                "Magical String": {
-                    "-": 17.43,
-                    "Rift Antiskele": 17.96
-                },
-                "Brie String": {
-                    "-": 20.4,
-                    "Rift Antiskele": 21.49
-                }
-            },
-            "Lucky Tower (Paladin's Bane)": {
-                "Runic String": {
-                    "-": 14.08,
-                    "Rift Antiskele": 14.37
-                },
-                "Ancient String": {
-                    "-": 15.73,
-                    "Rift Antiskele": 16.45
-                },
-                "Magical String": {
-                    "-": 18.2,
-                    "Rift Antiskele": 18.74
-                },
-                "Brie String": {
-                    "-": 21.31,
-                    "Rift Antiskele": 22.52
-                }
-            }
-        }
-    },
-    "Record Keeper": {
-        "Bristle Woods Rift": {
-            "Ancient Lab": {
-                "Runic String": {
-                    "-": 1.1,
-                    "Rift Antiskele": 1.08
-                },
-                "Ancient String": {
-                    "-": 5.14,
-                    "Rift Antiskele": 5.58
-                },
-                "Magical String": {
-                    "-": 4.88,
-                    "Rift Antiskele": 5.13
-                },
-                "Brie String": {
-                    "-": 5.21,
-                    "Rift Antiskele": 5.51
-                },
-                "Swiss String": {
-                    "-": 16.64,
-                    "Rift Antiskele": 18.76
-                }
-            },
-            "Ancient Lab (Paladin's Bane)": {
-                "Runic String": {
-                    "-": 1.14,
-                    "Rift Antiskele": 1.13
-                },
-                "Ancient String": {
-                    "-": 5.46,
-                    "Rift Antiskele": 5.94
-                },
-                "Magical String": {
-                    "-": 5.17,
-                    "Rift Antiskele": 5.45
-                },
-                "Brie String": {
-                    "-": 5.48,
-                    "Rift Antiskele": 5.82
-                },
-                "Swiss String": {
-                    "-": 17.75,
-                    "Rift Antiskele": 20.1
-                }
-            },
-            "Gearworks": {
-                "Runic String": {
-                    "-": 2.17,
-                    "Rift Antiskele": 2.34
-                },
-                "Ancient String": {
-                    "-": 7.55,
-                    "Rift Antiskele": 8.13
-                },
-                "Magical String": {
-                    "-": 17.44,
-                    "Rift Antiskele": 19.55
-                },
-                "Brie String": {
-                    "-": 15.08,
-                    "Rift Antiskele": 17.35
-                },
-                "Swiss String": {
-                    "-": 16.19,
-                    "Rift Antiskele": 18.62
-                }
-            },
-            "Gearworks (Paladin's Bane)": {
-                "Runic String": {
-                    "-": 2.31,
-                    "Rift Antiskele": 2.52
-                },
-                "Ancient String": {
-                    "-": 8.03,
-                    "Rift Antiskele": 8.69
-                },
-                "Magical String": {
-                    "-": 19.14,
-                    "Rift Antiskele": 21.61
-                },
-                "Brie String": {
-                    "-": 16.28,
-                    "Rift Antiskele": 18.92
-                },
-                "Swiss String": {
-                    "-": 17.7,
-                    "Rift Antiskele": 20.75
-                }
-            },
-            "Lucky Tower": {
-                "Runic String": {
-                    "-": 10.37,
-                    "Rift Antiskele": 10.71
-                },
-                "Ancient String": {
-                    "-": 10.77,
-                    "Rift Antiskele": 11.42
-                },
-                "Magical String": {
-                    "-": 10.49,
-                    "Rift Antiskele": 11.64
-                },
-                "Brie String": {
-                    "-": 11.02,
-                    "Rift Antiskele": 11.81
-                }
-            },
-            "Lucky Tower (Paladin's Bane)": {
-                "Runic String": {
-                    "-": 10.97,
-                    "Rift Antiskele": 11.34
-                },
-                "Ancient String": {
-                    "-": 11.59,
-                    "Rift Antiskele": 12.2
-                },
-                "Magical String": {
-                    "-": 10.95,
-                    "Rift Antiskele": 12.14
-                },
-                "Brie String": {
-                    "-": 11.51,
-                    "Rift Antiskele": 12.38
-                }
-            },
-            "Pursuer Mousoleum": {
-                "Brie String": {
-                    "Rift Antiskele": 6.82
-                }
-            },
-            "Pursuer Mousoleum (Paladin's Bane)": {
-                "Brie String": {
-                    "Rift Antiskele": 6.82
                 }
             }
         }

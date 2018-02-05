@@ -12354,26 +12354,26 @@
                 "-": {
                     "Skeletal Champion": 23.9,
                     "SampleSize": 50105,
+                    "Dread Knight": 23.69,
+                    "Vigilant Ward": 9.21,
                     "Absolute Acolyte": 8.05,
+                    "Portal Paladin": 7.74,
                     "Timelost Thaumaturge": 6.38,
                     "Timeslither Pythoness": 5.47,
                     "Shackled Servant": 5.36,
                     "Harbinger of Death": 3.72,
                     "Carrion Medium": 3.66,
                     "Timeless Lich": 2.32,
-                    "Chronomaster": 0.49,
-                    "Portal Paladin": 7.74,
-                    "Vigilant Ward": 9.21,
-                    "Dread Knight": 23.69
+                    "Chronomaster": 0.49
                 },
                 "Rift Antiskele": {
-                    "Timelost Thaumaturge": 8.43,
-                    "SampleSize": 55157,
-                    "Timeslither Pythoness": 7.19,
                     "Dread Knight": 31.12,
+                    "SampleSize": 55157,
                     "Vigilant Ward": 12.15,
                     "Absolute Acolyte": 10.5,
                     "Portal Paladin": 10.08,
+                    "Timelost Thaumaturge": 8.43,
+                    "Timeslither Pythoness": 7.19,
                     "Shackled Servant": 7.14,
                     "Harbinger of Death": 4.89,
                     "Carrion Medium": 4.84,
@@ -12385,108 +12385,108 @@
         "Acolyte (Paladin's Bane)": {
             "Runic String": {
                 "-": {
-                    "Timelost Thaumaturge": 6.92,
+                    "Skeletal Champion": 25.91,
                     "SampleSize": 50105,
+                    "Dread Knight": 25.68,
+                    "Vigilant Ward": 9.98,
                     "Absolute Acolyte": 8.72,
+                    "Timelost Thaumaturge": 6.92,
+                    "Timeslither Pythoness": 5.93,
                     "Shackled Servant": 5.81,
                     "Harbinger of Death": 4.03,
                     "Carrion Medium": 3.97,
-                    "Vigilant Ward": 9.98,
                     "Timeless Lich": 2.52,
-                    "Chronomaster": 0.53,
-                    "Dread Knight": 25.68,
-                    "Skeletal Champion": 25.91,
-                    "Timeslither Pythoness": 5.93
+                    "Chronomaster": 0.53
                 },
                 "Rift Antiskele": {
-                    "Harbinger of Death": 5.43,
-                    "SampleSize": 55157,
-                    "Shackled Servant": 7.94,
-                    "Timeslither Pythoness": 8,
-                    "Timelost Thaumaturge": 9.38,
-                    "Absolute Acolyte": 11.68,
-                    "Vigilant Ward": 13.51,
-                    "Timeless Lich": 3.36,
                     "Dread Knight": 34.6,
-                    "Chronomaster": 0.71,
-                    "Carrion Medium": 5.39
+                    "SampleSize": 55157,
+                    "Vigilant Ward": 13.51,
+                    "Absolute Acolyte": 11.68,
+                    "Timelost Thaumaturge": 9.38,
+                    "Timeslither Pythoness": 8,
+                    "Shackled Servant": 7.94,
+                    "Harbinger of Death": 5.43,
+                    "Carrion Medium": 5.39,
+                    "Timeless Lich": 3.36,
+                    "Chronomaster": 0.71
                 }
             }
         },
         "Ancient Lab": {
             "Runic String": {
                 "-": {
-                    "Record Keeper's Assistant": 0.83,
-                    "SampleSize": 2182,
-                    "Sentient Slime": 0.69,
-                    "Portal Plunderer": 14.04,
-                    "Skeletal Champion": 5.32,
-                    "Chamber Cleaver": 24.55,
-                    "Dread Knight": 13.13,
-                    "Portal Paladin": 3.44,
                     "Epoch Golem": 34.74,
+                    "SampleSize": 2182,
+                    "Chamber Cleaver": 24.55,
+                    "Portal Plunderer": 14.04,
+                    "Dread Knight": 13.13,
+                    "Skeletal Champion": 5.32,
+                    "Portal Paladin": 3.44,
                     "Clockwork Timespinner": 2.16,
-                    "Record Keeper": 1.1
+                    "Record Keeper": 1.1,
+                    "Record Keeper's Assistant": 0.83,
+                    "Sentient Slime": 0.69
                 },
                 "Rift Antiskele": {
-                    "Chamber Cleaver": 25.67,
+                    "Epoch Golem": 37.1,
                     "SampleSize": 2338,
+                    "Chamber Cleaver": 25.67,
                     "Portal Plunderer": 14.91,
                     "Dread Knight": 13.87,
                     "Portal Paladin": 3.62,
                     "Clockwork Timespinner": 2.26,
                     "Record Keeper": 1.08,
                     "Record Keeper's Assistant": 0.81,
-                    "Sentient Slime": 0.68,
-                    "Epoch Golem": 37.1
+                    "Sentient Slime": 0.68
                 }
             },
             "Ancient String": {
                 "-": {
-                    "Sentient Slime": 1.13,
-                    "SampleSize": 1603,
                     "Epoch Golem": 44.05,
+                    "SampleSize": 1603,
                     "Portal Plunderer": 22.31,
                     "Dread Knight": 9.4,
                     "Portal Paladin": 5.89,
                     "Skeletal Champion": 5.7,
                     "Record Keeper": 5.14,
                     "Clockwork Timespinner": 4.14,
-                    "Record Keeper's Assistant": 2.26
+                    "Record Keeper's Assistant": 2.26,
+                    "Sentient Slime": 1.13
                 },
                 "Rift Antiskele": {
-                    "Record Keeper": 5.58,
-                    "SampleSize": 1750,
                     "Epoch Golem": 46.76,
+                    "SampleSize": 1750,
                     "Portal Plunderer": 23.83,
                     "Dread Knight": 9.82,
                     "Portal Paladin": 6,
+                    "Record Keeper": 5.58,
                     "Clockwork Timespinner": 4.49,
-                    "Sentient Slime": 1.15,
-                    "Record Keeper's Assistant": 2.37
+                    "Record Keeper's Assistant": 2.37,
+                    "Sentient Slime": 1.15
                 }
             },
             "Magical String": {
                 "-": {
-                    "Record Keeper's Assistant": 5.17,
-                    "SampleSize": 3871,
-                    "Portal Paladin": 5.58,
-                    "Clockwork Timespinner": 13.25,
-                    "Sentient Slime": 4.96,
-                    "Portal Plunderer": 21.21,
                     "Epoch Golem": 40.09,
-                    "Skeletal Champion": 4.86,
-                    "Record Keeper": 4.88
+                    "SampleSize": 3871,
+                    "Portal Plunderer": 21.21,
+                    "Clockwork Timespinner": 13.25,
+                    "Portal Paladin": 5.58,
+                    "Record Keeper's Assistant": 5.17,
+                    "Sentient Slime": 4.96,
+                    "Record Keeper": 4.88,
+                    "Skeletal Champion": 4.86
                 },
                 "Rift Antiskele": {
-                    "Portal Paladin": 5.98,
+                    "Epoch Golem": 42.02,
                     "SampleSize": 4179,
+                    "Portal Plunderer": 22.37,
+                    "Clockwork Timespinner": 13.97,
+                    "Portal Paladin": 5.98,
                     "Record Keeper's Assistant": 5.38,
                     "Sentient Slime": 5.15,
-                    "Record Keeper": 5.13,
-                    "Portal Plunderer": 22.37,
-                    "Epoch Golem": 42.02,
-                    "Clockwork Timespinner": 13.97
+                    "Record Keeper": 5.13
                 }
             },
             "Brie String": {
@@ -12495,160 +12495,160 @@
                     "SampleSize": 42312,
                     "Portal Plunderer": 37.23,
                     "Skeletal Champion": 5.37,
-                    "Dread Knight": 1.07,
                     "Record Keeper": 5.21,
                     "Portal Paladin": 4.97,
                     "Epoch Golem": 4.19,
-                    "Record Keeper's Assistant": 0.5,
-                    "Sentient Slime": 0.51
+                    "Dread Knight": 1.07,
+                    "Sentient Slime": 0.51,
+                    "Record Keeper's Assistant": 0.5
                 },
                 "Rift Antiskele": {
-                    "Dread Knight": 1.09,
-                    "SampleSize": 47427,
-                    "Epoch Golem": 4.41,
-                    "Portal Paladin": 5.3,
-                    "Record Keeper": 5.51,
-                    "Portal Plunderer": 39.28,
                     "Clockwork Timespinner": 43.36,
-                    "Record Keeper's Assistant": 0.52,
-                    "Sentient Slime": 0.53
+                    "SampleSize": 47427,
+                    "Portal Plunderer": 39.28,
+                    "Record Keeper": 5.51,
+                    "Portal Paladin": 5.3,
+                    "Epoch Golem": 4.41,
+                    "Dread Knight": 1.09,
+                    "Sentient Slime": 0.53,
+                    "Record Keeper's Assistant": 0.52
                 }
             },
             "Swiss String": {
                 "-": {
                     "Portal Plunderer": 26.37,
                     "SampleSize": 2155,
-                    "Skeletal Champion": 8.99,
+                    "Clockwork Timespinner": 26.14,
                     "Record Keeper": 16.64,
+                    "Skeletal Champion": 8.99,
                     "Record Keeper's Assistant": 8.06,
                     "Portal Paladin": 6.29,
                     "Sentient Slime": 5.68,
-                    "Dread Knight": 1.82,
-                    "Clockwork Timespinner": 26.14
+                    "Dread Knight": 1.82
                 },
                 "Rift Antiskele": {
-                    "Portal Plunderer": 28.45,
+                    "Clockwork Timespinner": 28.84,
                     "SampleSize": 2302,
+                    "Portal Plunderer": 28.45,
                     "Record Keeper": 18.76,
                     "Record Keeper's Assistant": 9.07,
                     "Portal Paladin": 6.67,
                     "Sentient Slime": 6.24,
-                    "Dread Knight": 1.97,
-                    "Clockwork Timespinner": 28.84
+                    "Dread Knight": 1.97
                 }
             }
         },
         "Ancient Lab (Paladin's Bane)": {
             "Runic String": {
                 "-": {
-                    "Record Keeper's Assistant": 0.86,
-                    "SampleSize": 2182,
-                    "Dread Knight": 13.59,
-                    "Sentient Slime": 0.71,
-                    "Portal Plunderer": 14.54,
-                    "Skeletal Champion": 5.51,
                     "Epoch Golem": 35.98,
-                    "Clockwork Timespinner": 2.23,
+                    "SampleSize": 2182,
                     "Chamber Cleaver": 25.43,
-                    "Record Keeper": 1.14
+                    "Portal Plunderer": 14.54,
+                    "Dread Knight": 13.59,
+                    "Skeletal Champion": 5.51,
+                    "Clockwork Timespinner": 2.23,
+                    "Record Keeper": 1.14,
+                    "Record Keeper's Assistant": 0.86,
+                    "Sentient Slime": 0.71
                 },
                 "Rift Antiskele": {
-                    "Sentient Slime": 0.7,
-                    "SampleSize": 2338,
                     "Epoch Golem": 38.49,
+                    "SampleSize": 2338,
                     "Chamber Cleaver": 26.63,
                     "Portal Plunderer": 15.47,
                     "Dread Knight": 14.39,
                     "Clockwork Timespinner": 2.34,
                     "Record Keeper": 1.13,
-                    "Record Keeper's Assistant": 0.84
+                    "Record Keeper's Assistant": 0.84,
+                    "Sentient Slime": 0.7
                 }
             },
             "Ancient String": {
                 "-": {
-                    "Skeletal Champion": 6.06,
-                    "SampleSize": 1603,
                     "Epoch Golem": 46.8,
+                    "SampleSize": 1603,
                     "Portal Plunderer": 23.7,
-                    "Sentient Slime": 1.2,
-                    "Record Keeper's Assistant": 2.4,
-                    "Clockwork Timespinner": 4.39,
+                    "Dread Knight": 9.99,
+                    "Skeletal Champion": 6.06,
                     "Record Keeper": 5.46,
-                    "Dread Knight": 9.99
+                    "Clockwork Timespinner": 4.39,
+                    "Record Keeper's Assistant": 2.4,
+                    "Sentient Slime": 1.2
                 },
                 "Rift Antiskele": {
-                    "Record Keeper": 5.94,
+                    "Epoch Golem": 49.74,
                     "SampleSize": 1750,
+                    "Portal Plunderer": 25.35,
+                    "Dread Knight": 10.45,
+                    "Record Keeper": 5.94,
                     "Clockwork Timespinner": 4.77,
                     "Record Keeper's Assistant": 2.52,
-                    "Sentient Slime": 1.23,
-                    "Epoch Golem": 49.74,
-                    "Portal Plunderer": 25.35,
-                    "Dread Knight": 10.45
+                    "Sentient Slime": 1.23
                 }
             },
             "Magical String": {
                 "-": {
-                    "Skeletal Champion": 5.14,
-                    "SampleSize": 3871,
                     "Epoch Golem": 42.46,
+                    "SampleSize": 3871,
                     "Portal Plunderer": 22.46,
                     "Clockwork Timespinner": 14.04,
                     "Record Keeper's Assistant": 5.47,
                     "Sentient Slime": 5.25,
-                    "Record Keeper": 5.17
+                    "Record Keeper": 5.17,
+                    "Skeletal Champion": 5.14
                 },
                 "Rift Antiskele": {
                     "Epoch Golem": 44.69,
                     "SampleSize": 4179,
+                    "Portal Plunderer": 23.79,
                     "Clockwork Timespinner": 14.86,
                     "Record Keeper's Assistant": 5.72,
                     "Sentient Slime": 5.48,
-                    "Record Keeper": 5.45,
-                    "Portal Plunderer": 23.79
+                    "Record Keeper": 5.45
                 }
             },
             "Brie String": {
                 "-": {
-                    "Skeletal Champion": 5.65,
-                    "SampleSize": 42312,
                     "Clockwork Timespinner": 43.09,
+                    "SampleSize": 42312,
+                    "Portal Plunderer": 39.17,
+                    "Skeletal Champion": 5.65,
                     "Record Keeper": 5.48,
                     "Epoch Golem": 4.41,
                     "Dread Knight": 1.13,
-                    "Sentient Slime": 0.53,
                     "Record Keeper's Assistant": 0.53,
-                    "Portal Plunderer": 39.17
+                    "Sentient Slime": 0.53
                 },
                 "Rift Antiskele": {
                     "Clockwork Timespinner": 45.79,
                     "SampleSize": 47427,
+                    "Portal Plunderer": 41.48,
                     "Record Keeper": 5.82,
                     "Epoch Golem": 4.66,
                     "Dread Knight": 1.15,
                     "Sentient Slime": 0.56,
-                    "Record Keeper's Assistant": 0.55,
-                    "Portal Plunderer": 41.48
+                    "Record Keeper's Assistant": 0.55
                 }
             },
             "Swiss String": {
                 "-": {
-                    "Sentient Slime": 6.07,
-                    "SampleSize": 2155,
-                    "Dread Knight": 1.94,
-                    "Clockwork Timespinner": 27.9,
                     "Portal Plunderer": 28.15,
+                    "SampleSize": 2155,
+                    "Clockwork Timespinner": 27.9,
                     "Record Keeper": 17.75,
                     "Skeletal Champion": 9.6,
-                    "Record Keeper's Assistant": 8.6
+                    "Record Keeper's Assistant": 8.6,
+                    "Sentient Slime": 6.07,
+                    "Dread Knight": 1.94
                 },
                 "Rift Antiskele": {
-                    "Sentient Slime": 6.68,
-                    "SampleSize": 2302,
                     "Clockwork Timespinner": 30.9,
+                    "SampleSize": 2302,
                     "Portal Plunderer": 30.49,
                     "Record Keeper": 20.1,
                     "Record Keeper's Assistant": 9.72,
+                    "Sentient Slime": 6.68,
                     "Dread Knight": 2.11
                 }
             }
@@ -12656,62 +12656,62 @@
         "Entrance": {
             "Runic String": {
                 "-": {
-                    "Clockwork Timespinner": 0.62,
+                    "Vigilant Ward": 78.46,
                     "SampleSize": 325,
-                    "Portal Plunderer": 3.69,
-                    "Skeletal Champion": 3.08,
-                    "Epoch Golem": 3.08,
-                    "Sentient Slime": 0.62,
                     "Portal Paladin": 10.46,
-                    "Vigilant Ward": 78.46
+                    "Portal Plunderer": 3.69,
+                    "Epoch Golem": 3.08,
+                    "Skeletal Champion": 3.08,
+                    "Sentient Slime": 0.62,
+                    "Clockwork Timespinner": 0.62
                 },
                 "Rift Antiskele": {
-                    "Portal Plunderer": 3.92,
-                    "SampleSize": 368,
-                    "Sentient Slime": 0.56,
                     "Vigilant Ward": 80.95,
+                    "SampleSize": 368,
                     "Portal Paladin": 10.64,
-                    "Clockwork Timespinner": 0.56,
-                    "Epoch Golem": 3.36
+                    "Portal Plunderer": 3.92,
+                    "Epoch Golem": 3.36,
+                    "Sentient Slime": 0.56,
+                    "Clockwork Timespinner": 0.56
                 }
             }
         },
         "Entrance (Paladin's Bane)": {
             "Runic String": {
                 "-": {
-                    "Sentient Slime": 0.69,
-                    "SampleSize": 325,
-                    "Clockwork Timespinner": 0.69,
-                    "Epoch Golem": 3.44,
                     "Vigilant Ward": 87.63,
+                    "SampleSize": 325,
                     "Portal Plunderer": 4.12,
-                    "Skeletal Champion": 3.44
+                    "Skeletal Champion": 3.44,
+                    "Epoch Golem": 3.44,
+                    "Clockwork Timespinner": 0.69,
+                    "Sentient Slime": 0.69
                 },
                 "Rift Antiskele": {
-                    "Sentient Slime": 0.63,
-                    "SampleSize": 368,
-                    "Clockwork Timespinner": 0.63,
                     "Vigilant Ward": 90.6,
+                    "SampleSize": 368,
+                    "Portal Plunderer": 4.39,
                     "Epoch Golem": 3.76,
-                    "Portal Plunderer": 4.39
+                    "Clockwork Timespinner": 0.63,
+                    "Sentient Slime": 0.63
                 }
             }
         },
         "Frozen Alcove": {
             "Runic String": {
                 "-": {
-                    "Harbinger of Death": 0.51,
+                    "Sentient Slime": 54.79,
                     "SampleSize": 4344,
                     "Dread Knight": 38.59,
                     "Portal Paladin": 6.11,
-                    "Sentient Slime": 54.79
+                    "Harbinger of Death": 0.51
                 },
                 "Rift Antiskele": {
-                    "Dread Knight": 38.79,
+                    "Sentient Slime": 54.56,
                     "SampleSize": 4474,
+                    "Dread Knight": 38.79,
                     "Portal Paladin": 6.15,
-                    "Harbinger of Death": 0.49,
-                    "Sentient Slime": 54.56
+                    "Harbinger of Death": 0.49
                 }
             },
             "Ancient String": {
@@ -12723,26 +12723,26 @@
                     "Harbinger of Death": 0.19
                 },
                 "Rift Antiskele": {
-                    "Portal Paladin": 8.55,
+                    "Sentient Slime": 54.87,
                     "SampleSize": 1597,
-                    "Harbinger of Death": 0.19,
                     "Dread Knight": 36.39,
-                    "Sentient Slime": 54.87
+                    "Portal Paladin": 8.55,
+                    "Harbinger of Death": 0.19
                 }
             },
             "Magical String": {
                 "-": {
-                    "Portal Paladin": 8.5,
+                    "Sentient Slime": 79.75,
                     "SampleSize": 1353,
                     "Dread Knight": 11.75,
-                    "Sentient Slime": 79.75
+                    "Portal Paladin": 8.5
                 },
                 "Rift Antiskele": {
-                    "Dread Knight": 11.66,
-                    "SampleSize": 1450,
-                    "Harbinger of Death": 0.07,
                     "Sentient Slime": 79.79,
-                    "Portal Paladin": 8.48
+                    "SampleSize": 1450,
+                    "Dread Knight": 11.66,
+                    "Portal Paladin": 8.48,
+                    "Harbinger of Death": 0.07
                 }
             },
             "Brie String": {
@@ -12753,19 +12753,19 @@
                     "Portal Paladin": 8.85
                 },
                 "Rift Antiskele": {
-                    "Dread Knight": 11.21,
+                    "Sentient Slime": 79.91,
                     "SampleSize": 1519,
-                    "Portal Paladin": 8.88,
-                    "Sentient Slime": 79.91
+                    "Dread Knight": 11.21,
+                    "Portal Paladin": 8.88
                 }
             }
         },
         "Frozen Alcove (Paladin's Bane)": {
             "Runic String": {
                 "-": {
-                    "Dread Knight": 41.1,
-                    "SampleSize": 4344,
                     "Sentient Slime": 58.36,
+                    "SampleSize": 4344,
+                    "Dread Knight": 41.1,
                     "Harbinger of Death": 0.54
                 },
                 "Rift Antiskele": {
@@ -12783,10 +12783,10 @@
                     "Harbinger of Death": 0.21
                 },
                 "Rift Antiskele": {
-                    "Harbinger of Death": 0.21,
+                    "Sentient Slime": 60,
                     "SampleSize": 1597,
                     "Dread Knight": 39.79,
-                    "Sentient Slime": 60
+                    "Harbinger of Death": 0.21
                 }
             },
             "Magical String": {
@@ -12796,17 +12796,17 @@
                     "Dread Knight": 12.84
                 },
                 "Rift Antiskele": {
-                    "Dread Knight": 12.74,
+                    "Sentient Slime": 87.19,
                     "SampleSize": 1450,
-                    "Harbinger of Death": 0.08,
-                    "Sentient Slime": 87.19
+                    "Dread Knight": 12.74,
+                    "Harbinger of Death": 0.08
                 }
             },
             "Brie String": {
                 "-": {
-                    "Dread Knight": 12.11,
+                    "Sentient Slime": 87.89,
                     "SampleSize": 1385,
-                    "Sentient Slime": 87.89
+                    "Dread Knight": 12.11
                 },
                 "Rift Antiskele": {
                     "Sentient Slime": 87.69,
@@ -12818,17 +12818,17 @@
         "Furnace Room": {
             "Brie String": {
                 "-": {
-                    "Portal Paladin": 2.8,
-                    "SampleSize": 328,
                     "Skeletal Champion": 91.9,
-                    "Dread Knight": 1.56,
+                    "SampleSize": 328,
+                    "Portal Paladin": 2.8,
+                    "Portal Plunderer": 1.87,
                     "Clockwork Timespinner": 1.87,
-                    "Portal Plunderer": 1.87
+                    "Dread Knight": 1.56
                 },
                 "Rift Antiskele": {
-                    "Clockwork Timespinner": 31.25,
-                    "SampleSize": 419,
                     "Portal Paladin": 35.42,
+                    "SampleSize": 419,
+                    "Clockwork Timespinner": 31.25,
                     "Dread Knight": 16.67,
                     "Portal Plunderer": 16.67
                 }
@@ -12837,11 +12837,11 @@
         "Furnace Room (Paladin's Bane)": {
             "Brie String": {
                 "-": {
-                    "Portal Plunderer": 1.92,
-                    "SampleSize": 328,
                     "Skeletal Champion": 94.55,
-                    "Dread Knight": 1.6,
-                    "Clockwork Timespinner": 1.92
+                    "SampleSize": 328,
+                    "Clockwork Timespinner": 1.92,
+                    "Portal Plunderer": 1.92,
+                    "Dread Knight": 1.6
                 },
                 "Rift Antiskele": {
                     "Clockwork Timespinner": 48.39,
@@ -12854,57 +12854,57 @@
         "Gearworks": {
             "Runic String": {
                 "-": {
-                    "Timelost Thaumaturge": 0.27,
-                    "SampleSize": 2221,
-                    "Record Keeper's Assistant": 0.9,
-                    "Record Keeper": 2.17,
-                    "Chamber Cleaver": 25.21,
-                    "Portal Paladin": 6.18,
                     "Dread Knight": 37.44,
-                    "Harbinger of Death": 0.05,
-                    "Shackled Servant": 0.09,
-                    "Vigilant Ward": 0.18,
+                    "SampleSize": 2221,
+                    "Chamber Cleaver": 25.21,
                     "Portal Plunderer": 11.37,
-                    "Clockwork Timespinner": 4.15,
                     "Skeletal Champion": 8.71,
-                    "Sentient Slime": 3.29
+                    "Portal Paladin": 6.18,
+                    "Clockwork Timespinner": 4.15,
+                    "Sentient Slime": 3.29,
+                    "Record Keeper": 2.17,
+                    "Record Keeper's Assistant": 0.9,
+                    "Timelost Thaumaturge": 0.27,
+                    "Vigilant Ward": 0.18,
+                    "Shackled Servant": 0.09,
+                    "Harbinger of Death": 0.05
                 },
                 "Rift Antiskele": {
-                    "Timelost Thaumaturge": 0.27,
-                    "SampleSize": 2427,
-                    "Harbinger of Death": 0.05,
-                    "Sentient Slime": 3.6,
-                    "Clockwork Timespinner": 4.77,
-                    "Portal Paladin": 6.93,
-                    "Portal Plunderer": 12.92,
-                    "Chamber Cleaver": 26.65,
                     "Dread Knight": 41.06,
-                    "Vigilant Ward": 0.27,
-                    "Timeslither Pythoness": 0.05,
-                    "Record Keeper's Assistant": 0.99,
+                    "SampleSize": 2427,
+                    "Chamber Cleaver": 26.65,
+                    "Portal Plunderer": 12.92,
+                    "Portal Paladin": 6.93,
+                    "Clockwork Timespinner": 4.77,
+                    "Sentient Slime": 3.6,
                     "Record Keeper": 2.34,
-                    "Shackled Servant": 0.09
+                    "Record Keeper's Assistant": 0.99,
+                    "Vigilant Ward": 0.27,
+                    "Timelost Thaumaturge": 0.27,
+                    "Shackled Servant": 0.09,
+                    "Timeslither Pythoness": 0.05,
+                    "Harbinger of Death": 0.05
                 }
             },
             "Ancient String": {
                 "-": {
-                    "Sentient Slime": 8.81,
-                    "SampleSize": 564,
                     "Dread Knight": 38.49,
-                    "Record Keeper": 7.55,
-                    "Skeletal Champion": 7.91,
-                    "Portal Paladin": 5.94,
-                    "Clockwork Timespinner": 8.99,
+                    "SampleSize": 564,
+                    "Portal Plunderer": 13.13,
                     "Record Keeper's Assistant": 9.17,
-                    "Portal Plunderer": 13.13
+                    "Clockwork Timespinner": 8.99,
+                    "Sentient Slime": 8.81,
+                    "Skeletal Champion": 7.91,
+                    "Record Keeper": 7.55,
+                    "Portal Paladin": 5.94
                 },
                 "Rift Antiskele": {
-                    "Record Keeper's Assistant": 10.21,
-                    "SampleSize": 635,
                     "Dread Knight": 41.35,
+                    "SampleSize": 635,
                     "Portal Plunderer": 13.84,
-                    "Sentient Slime": 10.03,
+                    "Record Keeper's Assistant": 10.21,
                     "Clockwork Timespinner": 10.03,
+                    "Sentient Slime": 10.03,
                     "Record Keeper": 8.13,
                     "Portal Paladin": 6.4
                 }
@@ -12913,274 +12913,274 @@
                 "-": {
                     "Record Keeper's Assistant": 20.61,
                     "SampleSize": 2082,
-                    "Clockwork Timespinner": 4.51,
-                    "Epoch Golem": 4.13,
-                    "Portal Paladin": 8.89,
-                    "Skeletal Champion": 9.03,
-                    "Portal Plunderer": 4.27,
-                    "Sentient Slime": 14.65,
+                    "Record Keeper": 17.44,
                     "Dread Knight": 16.47,
-                    "Record Keeper": 17.44
+                    "Sentient Slime": 14.65,
+                    "Skeletal Champion": 9.03,
+                    "Portal Paladin": 8.89,
+                    "Clockwork Timespinner": 4.51,
+                    "Portal Plunderer": 4.27,
+                    "Epoch Golem": 4.13
                 },
                 "Rift Antiskele": {
-                    "Sentient Slime": 16.22,
-                    "SampleSize": 2232,
-                    "Clockwork Timespinner": 4.9,
-                    "Portal Paladin": 9.55,
-                    "Record Keeper": 19.55,
                     "Record Keeper's Assistant": 22.54,
-                    "Epoch Golem": 4.51,
+                    "SampleSize": 2232,
+                    "Record Keeper": 19.55,
+                    "Dread Knight": 18.13,
+                    "Sentient Slime": 16.22,
+                    "Portal Paladin": 9.55,
+                    "Clockwork Timespinner": 4.9,
                     "Portal Plunderer": 4.61,
-                    "Dread Knight": 18.13
+                    "Epoch Golem": 4.51
                 }
             },
             "Brie String": {
                 "-": {
-                    "Portal Paladin": 7.33,
+                    "Record Keeper's Assistant": 22.75,
                     "SampleSize": 13024,
-                    "Portal Plunderer": 5.43,
+                    "Dread Knight": 16.73,
+                    "Record Keeper": 15.08,
                     "Sentient Slime": 13.35,
                     "Skeletal Champion": 11.82,
-                    "Record Keeper": 15.08,
-                    "Dread Knight": 16.73,
-                    "Record Keeper's Assistant": 22.75,
-                    "Clockwork Timespinner": 7.51
+                    "Clockwork Timespinner": 7.51,
+                    "Portal Paladin": 7.33,
+                    "Portal Plunderer": 5.43
                 },
                 "Rift Antiskele": {
-                    "Record Keeper": 17.35,
+                    "Record Keeper's Assistant": 25.96,
                     "SampleSize": 14344,
+                    "Dread Knight": 18.77,
+                    "Record Keeper": 17.35,
                     "Sentient Slime": 15.1,
                     "Clockwork Timespinner": 8.33,
                     "Portal Paladin": 8.31,
-                    "Dread Knight": 18.77,
-                    "Record Keeper's Assistant": 25.96,
                     "Portal Plunderer": 6.19
                 }
             },
             "Swiss String": {
                 "-": {
-                    "Portal Paladin": 8.52,
-                    "SampleSize": 704,
-                    "Skeletal Champion": 15.48,
-                    "Record Keeper": 16.19,
-                    "Record Keeper's Assistant": 19.18,
-                    "Dread Knight": 8.24,
                     "Sentient Slime": 23.72,
+                    "SampleSize": 704,
+                    "Record Keeper's Assistant": 19.18,
+                    "Record Keeper": 16.19,
+                    "Skeletal Champion": 15.48,
+                    "Portal Paladin": 8.52,
+                    "Dread Knight": 8.24,
                     "Clockwork Timespinner": 5.4,
                     "Portal Plunderer": 3.27
                 },
                 "Rift Antiskele": {
                     "Sentient Slime": 28.73,
                     "SampleSize": 734,
+                    "Record Keeper's Assistant": 22.79,
                     "Record Keeper": 18.62,
                     "Portal Paladin": 10.27,
                     "Dread Knight": 9.79,
                     "Clockwork Timespinner": 6.1,
-                    "Portal Plunderer": 3.69,
-                    "Record Keeper's Assistant": 22.79
+                    "Portal Plunderer": 3.69
                 }
             }
         },
         "Gearworks (Paladin's Bane)": {
             "Runic String": {
                 "-": {
-                    "Record Keeper's Assistant": 0.96,
-                    "SampleSize": 2221,
-                    "Vigilant Ward": 0.19,
-                    "Shackled Servant": 0.1,
-                    "Harbinger of Death": 0.05,
-                    "Skeletal Champion": 9.28,
-                    "Chamber Cleaver": 26.88,
                     "Dread Knight": 39.9,
+                    "SampleSize": 2221,
+                    "Chamber Cleaver": 26.88,
+                    "Portal Plunderer": 12.12,
+                    "Skeletal Champion": 9.28,
+                    "Clockwork Timespinner": 4.42,
                     "Sentient Slime": 3.51,
                     "Record Keeper": 2.31,
-                    "Portal Plunderer": 12.12,
+                    "Record Keeper's Assistant": 0.96,
                     "Timelost Thaumaturge": 0.29,
-                    "Clockwork Timespinner": 4.42
+                    "Vigilant Ward": 0.19,
+                    "Shackled Servant": 0.1,
+                    "Harbinger of Death": 0.05
                 },
                 "Rift Antiskele": {
-                    "Timelost Thaumaturge": 0.29,
-                    "SampleSize": 2427,
-                    "Vigilant Ward": 0.29,
-                    "Record Keeper's Assistant": 1.06,
                     "Dread Knight": 44.12,
+                    "SampleSize": 2427,
                     "Chamber Cleaver": 28.64,
                     "Portal Plunderer": 13.88,
-                    "Record Keeper": 2.52,
-                    "Sentient Slime": 3.87,
                     "Clockwork Timespinner": 5.13,
-                    "Timeslither Pythoness": 0.05,
+                    "Sentient Slime": 3.87,
+                    "Record Keeper": 2.52,
+                    "Record Keeper's Assistant": 1.06,
+                    "Vigilant Ward": 0.29,
+                    "Timelost Thaumaturge": 0.29,
+                    "Shackled Servant": 0.1,
                     "Harbinger of Death": 0.05,
-                    "Shackled Servant": 0.1
+                    "Timeslither Pythoness": 0.05
                 }
             },
             "Ancient String": {
                 "-": {
-                    "Skeletal Champion": 8.41,
-                    "SampleSize": 564,
-                    "Sentient Slime": 9.37,
-                    "Clockwork Timespinner": 9.56,
-                    "Record Keeper's Assistant": 9.75,
-                    "Portal Plunderer": 13.96,
                     "Dread Knight": 40.92,
+                    "SampleSize": 564,
+                    "Portal Plunderer": 13.96,
+                    "Record Keeper's Assistant": 9.75,
+                    "Clockwork Timespinner": 9.56,
+                    "Sentient Slime": 9.37,
+                    "Skeletal Champion": 8.41,
                     "Record Keeper": 8.03
                 },
                 "Rift Antiskele": {
-                    "Clockwork Timespinner": 10.72,
+                    "Dread Knight": 44.18,
                     "SampleSize": 635,
                     "Portal Plunderer": 14.79,
                     "Record Keeper's Assistant": 10.91,
-                    "Dread Knight": 44.18,
-                    "Record Keeper": 8.69,
-                    "Sentient Slime": 10.72
+                    "Clockwork Timespinner": 10.72,
+                    "Sentient Slime": 10.72,
+                    "Record Keeper": 8.69
                 }
             },
             "Magical String": {
                 "-": {
-                    "Portal Plunderer": 4.69,
-                    "SampleSize": 2082,
-                    "Clockwork Timespinner": 4.96,
-                    "Skeletal Champion": 9.91,
-                    "Sentient Slime": 16.08,
-                    "Dread Knight": 18.08,
-                    "Record Keeper": 19.14,
                     "Record Keeper's Assistant": 22.61,
+                    "SampleSize": 2082,
+                    "Record Keeper": 19.14,
+                    "Dread Knight": 18.08,
+                    "Sentient Slime": 16.08,
+                    "Skeletal Champion": 9.91,
+                    "Clockwork Timespinner": 4.96,
+                    "Portal Plunderer": 4.69,
                     "Epoch Golem": 4.53
                 },
                 "Rift Antiskele": {
-                    "Dread Knight": 20.04,
+                    "Record Keeper's Assistant": 24.92,
                     "SampleSize": 2232,
+                    "Record Keeper": 21.61,
+                    "Dread Knight": 20.04,
                     "Sentient Slime": 17.93,
                     "Clockwork Timespinner": 5.42,
                     "Portal Plunderer": 5.09,
-                    "Epoch Golem": 4.98,
-                    "Record Keeper's Assistant": 24.92,
-                    "Record Keeper": 21.61
+                    "Epoch Golem": 4.98
                 }
             },
             "Brie String": {
                 "-": {
-                    "Clockwork Timespinner": 8.1,
-                    "SampleSize": 13024,
-                    "Portal Plunderer": 5.85,
                     "Record Keeper's Assistant": 24.55,
-                    "Skeletal Champion": 12.76,
-                    "Sentient Slime": 14.41,
+                    "SampleSize": 13024,
+                    "Dread Knight": 18.05,
                     "Record Keeper": 16.28,
-                    "Dread Knight": 18.05
+                    "Sentient Slime": 14.41,
+                    "Skeletal Champion": 12.76,
+                    "Clockwork Timespinner": 8.1,
+                    "Portal Plunderer": 5.85
                 },
                 "Rift Antiskele": {
-                    "Portal Plunderer": 6.75,
+                    "Record Keeper's Assistant": 28.31,
                     "SampleSize": 14344,
-                    "Sentient Slime": 16.46,
-                    "Record Keeper": 18.92,
                     "Dread Knight": 20.47,
+                    "Record Keeper": 18.92,
+                    "Sentient Slime": 16.46,
                     "Clockwork Timespinner": 9.09,
-                    "Record Keeper's Assistant": 28.31
+                    "Portal Plunderer": 6.75
                 }
             },
             "Swiss String": {
                 "-": {
-                    "Skeletal Champion": 16.93,
+                    "Sentient Slime": 25.93,
                     "SampleSize": 704,
-                    "Dread Knight": 9.01,
                     "Record Keeper's Assistant": 20.96,
                     "Record Keeper": 17.7,
+                    "Skeletal Champion": 16.93,
+                    "Dread Knight": 9.01,
                     "Clockwork Timespinner": 5.9,
-                    "Portal Plunderer": 3.57,
-                    "Sentient Slime": 25.93
+                    "Portal Plunderer": 3.57
                 },
                 "Rift Antiskele": {
-                    "Record Keeper": 20.75,
+                    "Sentient Slime": 32.02,
                     "SampleSize": 734,
                     "Record Keeper's Assistant": 25.4,
-                    "Sentient Slime": 32.02,
+                    "Record Keeper": 20.75,
+                    "Dread Knight": 10.91,
                     "Clockwork Timespinner": 6.8,
-                    "Portal Plunderer": 4.11,
-                    "Dread Knight": 10.91
+                    "Portal Plunderer": 4.11
                 }
             }
         },
         "Guard Barracks": {
             "Runic String": {
                 "-": {
-                    "Sentient Slime": 1.06,
-                    "SampleSize": 6785,
                     "Portal Paladin": 65.46,
+                    "SampleSize": 6785,
                     "Dread Knight": 17.98,
                     "Epoch Golem": 13.45,
-                    "Clockwork Timespinner": 2.05
+                    "Clockwork Timespinner": 2.05,
+                    "Sentient Slime": 1.06
                 },
                 "Rift Antiskele": {
-                    "Clockwork Timespinner": 2.01,
-                    "SampleSize": 6969,
                     "Portal Paladin": 65.45,
+                    "SampleSize": 6969,
                     "Dread Knight": 18.05,
                     "Epoch Golem": 13.45,
+                    "Clockwork Timespinner": 2.01,
                     "Sentient Slime": 1.03
                 }
             },
             "Ancient String": {
                 "-": {
-                    "Clockwork Timespinner": 6.19,
-                    "SampleSize": 2029,
                     "Portal Paladin": 57.48,
+                    "SampleSize": 2029,
                     "Dread Knight": 15.56,
                     "Sentient Slime": 11.55,
-                    "Epoch Golem": 9.22
+                    "Epoch Golem": 9.22,
+                    "Clockwork Timespinner": 6.19
                 },
                 "Rift Antiskele": {
-                    "Epoch Golem": 9.36,
-                    "SampleSize": 2084,
                     "Portal Paladin": 57.16,
+                    "SampleSize": 2084,
                     "Dread Knight": 15.77,
                     "Sentient Slime": 11.58,
+                    "Epoch Golem": 9.36,
                     "Clockwork Timespinner": 6.13
                 }
             },
             "Magical String": {
                 "-": {
-                    "Epoch Golem": 11.96,
+                    "Portal Paladin": 45.06,
                     "SampleSize": 1864,
-                    "Clockwork Timespinner": 14.38,
                     "Sentient Slime": 18.03,
-                    "Dread Knight": 10.57,
-                    "Portal Paladin": 45.06
+                    "Clockwork Timespinner": 14.38,
+                    "Epoch Golem": 11.96,
+                    "Dread Knight": 10.57
                 },
                 "Rift Antiskele": {
-                    "Dread Knight": 10.55,
+                    "Portal Paladin": 44.94,
                     "SampleSize": 1896,
                     "Sentient Slime": 18.04,
+                    "Clockwork Timespinner": 14.5,
                     "Epoch Golem": 11.97,
-                    "Portal Paladin": 44.94,
-                    "Clockwork Timespinner": 14.5
+                    "Dread Knight": 10.55
                 }
             },
             "Brie String": {
                 "-": {
                     "Portal Paladin": 41.27,
                     "SampleSize": 2154,
-                    "Dread Knight": 9.01,
+                    "Clockwork Timespinner": 26.61,
                     "Sentient Slime": 23.11,
-                    "Clockwork Timespinner": 26.61
+                    "Dread Knight": 9.01
                 },
                 "Rift Antiskele": {
-                    "Sentient Slime": 23.07,
-                    "SampleSize": 2309,
-                    "Dread Knight": 9.19,
                     "Portal Paladin": 41.05,
-                    "Clockwork Timespinner": 26.69
+                    "SampleSize": 2309,
+                    "Clockwork Timespinner": 26.69,
+                    "Sentient Slime": 23.07,
+                    "Dread Knight": 9.19
                 }
             }
         },
         "Guard Barracks (Paladin's Bane)": {
             "Runic String": {
                 "-": {
-                    "Sentient Slime": 3.08,
+                    "Dread Knight": 52.05,
                     "SampleSize": 6785,
-                    "Clockwork Timespinner": 5.94,
                     "Epoch Golem": 38.93,
-                    "Dread Knight": 52.05
+                    "Clockwork Timespinner": 5.94,
+                    "Sentient Slime": 3.08
                 },
                 "Rift Antiskele": {
                     "Dread Knight": 52.25,
@@ -13192,18 +13192,18 @@
             },
             "Ancient String": {
                 "-": {
-                    "Epoch Golem": 21.68,
+                    "Dread Knight": 36.6,
                     "SampleSize": 2029,
                     "Sentient Slime": 27.16,
-                    "Dread Knight": 36.6,
+                    "Epoch Golem": 21.68,
                     "Clockwork Timespinner": 14.57
                 },
                 "Rift Antiskele": {
-                    "Clockwork Timespinner": 14.3,
+                    "Dread Knight": 36.82,
                     "SampleSize": 2084,
                     "Sentient Slime": 27.03,
-                    "Dread Knight": 36.82,
-                    "Epoch Golem": 21.85
+                    "Epoch Golem": 21.85,
+                    "Clockwork Timespinner": 14.3
                 }
             },
             "Magical String": {
@@ -13218,16 +13218,16 @@
                     "Sentient Slime": 32.76,
                     "SampleSize": 1896,
                     "Clockwork Timespinner": 26.34,
-                    "Dread Knight": 19.16,
-                    "Epoch Golem": 21.74
+                    "Epoch Golem": 21.74,
+                    "Dread Knight": 19.16
                 }
             },
             "Brie String": {
                 "-": {
                     "Clockwork Timespinner": 45.31,
                     "SampleSize": 2154,
-                    "Dread Knight": 15.34,
-                    "Sentient Slime": 39.35
+                    "Sentient Slime": 39.35,
+                    "Dread Knight": 15.34
                 },
                 "Rift Antiskele": {
                     "Clockwork Timespinner": 45.27,
@@ -13240,79 +13240,79 @@
         "Hidden Treasury": {
             "Runic String": {
                 "-": {
-                    "Epoch Golem": 9.26,
+                    "Timeless Lich": 27.2,
                     "SampleSize": 842,
-                    "Shackled Servant": 4.75,
-                    "Dread Knight": 5.94,
-                    "Portal Paladin": 4.16,
-                    "Portal Plunderer": 11.88,
-                    "Skeletal Champion": 4.28,
-                    "Carrion Medium": 4.51,
-                    "Harbinger of Death": 2.14,
                     "Timeslither Pythoness": 25.89,
-                    "Timeless Lich": 27.2
+                    "Portal Plunderer": 11.88,
+                    "Epoch Golem": 9.26,
+                    "Dread Knight": 5.94,
+                    "Shackled Servant": 4.75,
+                    "Carrion Medium": 4.51,
+                    "Skeletal Champion": 4.28,
+                    "Portal Paladin": 4.16,
+                    "Harbinger of Death": 2.14
                 },
                 "Rift Antiskele": {
-                    "Dread Knight": 6.03,
-                    "SampleSize": 950,
                     "Timeless Lich": 27.96,
+                    "SampleSize": 950,
                     "Timeslither Pythoness": 26.64,
                     "Portal Plunderer": 12.28,
                     "Epoch Golem": 9.98,
-                    "Harbinger of Death": 2.19,
-                    "Carrion Medium": 4.71,
+                    "Dread Knight": 6.03,
+                    "Shackled Servant": 5.26,
                     "Portal Paladin": 4.93,
-                    "Shackled Servant": 5.26
+                    "Carrion Medium": 4.71,
+                    "Harbinger of Death": 2.19
                 }
             },
             "Ancient String": {
                 "-": {
-                    "Dread Knight": 5.74,
-                    "SampleSize": 366,
-                    "Skeletal Champion": 3.55,
-                    "Timeless Lich": 16.39,
-                    "Epoch Golem": 19.95,
                     "Timeslither Pythoness": 23.77,
+                    "SampleSize": 366,
+                    "Epoch Golem": 19.95,
+                    "Timeless Lich": 16.39,
                     "Portal Plunderer": 13.93,
+                    "Dread Knight": 5.74,
+                    "Carrion Medium": 5.46,
                     "Portal Paladin": 5.46,
                     "Shackled Servant": 4.1,
-                    "Harbinger of Death": 1.64,
-                    "Carrion Medium": 5.46
+                    "Skeletal Champion": 3.55,
+                    "Harbinger of Death": 1.64
                 },
                 "Rift Antiskele": {
-                    "Portal Paladin": 5.11,
-                    "SampleSize": 425,
-                    "Dread Knight": 5.84,
-                    "Harbinger of Death": 1.7,
-                    "Shackled Servant": 4.14,
-                    "Carrion Medium": 4.87,
                     "Timeslither Pythoness": 26.03,
+                    "SampleSize": 425,
                     "Epoch Golem": 20.19,
                     "Timeless Lich": 18,
-                    "Portal Plunderer": 14.11
+                    "Portal Plunderer": 14.11,
+                    "Dread Knight": 5.84,
+                    "Portal Paladin": 5.11,
+                    "Carrion Medium": 4.87,
+                    "Shackled Servant": 4.14,
+                    "Harbinger of Death": 1.7
                 }
             },
             "Magical String": {
                 "-": {
-                    "Harbinger of Death": 1.55,
+                    "Epoch Golem": 36.86,
                     "SampleSize": 388,
-                    "Carrion Medium": 3.87,
-                    "Shackled Servant": 4.9,
-                    "Dread Knight": 5.93,
-                    "Portal Paladin": 6.19,
-                    "Skeletal Champion": 6.44,
-                    "Portal Plunderer": 10.57,
-                    "Timeslither Pythoness": 10.82,
                     "Timeless Lich": 12.89,
-                    "Epoch Golem": 36.86
+                    "Timeslither Pythoness": 10.82,
+                    "Portal Plunderer": 10.57,
+                    "Skeletal Champion": 6.44,
+                    "Portal Paladin": 6.19,
+                    "Dread Knight": 5.93,
+                    "Shackled Servant": 4.9,
+                    "Carrion Medium": 3.87,
+                    "Harbinger of Death": 1.55
                 },
                 "Rift Antiskele": {
-                    "Portal Paladin": 6.74,
-                    "SampleSize": 458,
                     "Epoch Golem": 38.37,
+                    "SampleSize": 458,
                     "Timeless Lich": 13.95,
                     "Timeslither Pythoness": 11.86,
                     "Portal Plunderer": 11.4,
+                    "Portal Paladin": 6.74,
                     "Shackled Servant": 6.05,
                     "Dread Knight": 5.35,
                     "Carrion Medium": 4.42,
@@ -13321,89 +13321,89 @@
             },
             "Brie String": {
                 "-": {
-                    "Timeless Lich": 10.21,
-                    "SampleSize": 1874,
-                    "Harbinger of Death": 2.14,
                     "Portal Plunderer": 35.78,
+                    "SampleSize": 1874,
                     "Dread Knight": 11.55,
                     "Timeslither Pythoness": 10.86,
+                    "Timeless Lich": 10.21,
                     "Epoch Golem": 8.72,
                     "Carrion Medium": 6.15,
-                    "Skeletal Champion": 5.03,
                     "Shackled Servant": 5.03,
-                    "Portal Paladin": 4.55
+                    "Skeletal Champion": 5.03,
+                    "Portal Paladin": 4.55,
+                    "Harbinger of Death": 2.14
                 },
                 "Rift Antiskele": {
-                    "Harbinger of Death": 2.3,
-                    "SampleSize": 2237,
-                    "Timeless Lich": 10.76,
                     "Portal Plunderer": 38.19,
-                    "Portal Paladin": 4.6,
-                    "Timeslither Pythoness": 11.27,
+                    "SampleSize": 2237,
                     "Dread Knight": 12.26,
+                    "Timeslither Pythoness": 11.27,
+                    "Timeless Lich": 10.76,
                     "Epoch Golem": 9.07,
                     "Carrion Medium": 6.58,
-                    "Shackled Servant": 4.98
+                    "Shackled Servant": 4.98,
+                    "Portal Paladin": 4.6,
+                    "Harbinger of Death": 2.3
                 }
             }
         },
         "Hidden Treasury (Paladin's Bane)": {
             "Runic String": {
                 "-": {
-                    "Timeslither Pythoness": 27.01,
-                    "SampleSize": 842,
-                    "Portal Plunderer": 12.39,
-                    "Carrion Medium": 4.71,
-                    "Skeletal Champion": 4.46,
-                    "Harbinger of Death": 2.23,
                     "Timeless Lich": 28.38,
+                    "SampleSize": 842,
+                    "Timeslither Pythoness": 27.01,
+                    "Portal Plunderer": 12.39,
                     "Epoch Golem": 9.67,
                     "Dread Knight": 6.2,
-                    "Shackled Servant": 4.96
+                    "Shackled Servant": 4.96,
+                    "Carrion Medium": 4.71,
+                    "Skeletal Champion": 4.46,
+                    "Harbinger of Death": 2.23
                 },
                 "Rift Antiskele": {
-                    "Carrion Medium": 4.96,
-                    "SampleSize": 950,
-                    "Shackled Servant": 5.54,
-                    "Portal Plunderer": 12.92,
-                    "Timeslither Pythoness": 28.03,
                     "Timeless Lich": 29.41,
-                    "Dread Knight": 6.34,
+                    "SampleSize": 950,
+                    "Timeslither Pythoness": 28.03,
+                    "Portal Plunderer": 12.92,
                     "Epoch Golem": 10.5,
+                    "Dread Knight": 6.34,
+                    "Shackled Servant": 5.54,
+                    "Carrion Medium": 4.96,
                     "Harbinger of Death": 2.31
                 }
             },
             "Ancient String": {
                 "-": {
-                    "Epoch Golem": 21.1,
-                    "SampleSize": 366,
                     "Timeslither Pythoness": 25.14,
+                    "SampleSize": 366,
+                    "Epoch Golem": 21.1,
+                    "Timeless Lich": 17.34,
                     "Portal Plunderer": 14.74,
                     "Dread Knight": 6.07,
                     "Carrion Medium": 5.78,
                     "Shackled Servant": 4.34,
                     "Skeletal Champion": 3.76,
-                    "Harbinger of Death": 1.73,
-                    "Timeless Lich": 17.34
+                    "Harbinger of Death": 1.73
                 },
                 "Rift Antiskele": {
-                    "Epoch Golem": 21.28,
+                    "Timeslither Pythoness": 27.44,
                     "SampleSize": 425,
+                    "Epoch Golem": 21.28,
                     "Timeless Lich": 18.97,
                     "Portal Plunderer": 14.87,
                     "Dread Knight": 6.15,
                     "Carrion Medium": 5.13,
                     "Shackled Servant": 4.36,
-                    "Harbinger of Death": 1.79,
-                    "Timeslither Pythoness": 27.44
+                    "Harbinger of Death": 1.79
                 }
             },
             "Magical String": {
                 "-": {
-                    "Timeslither Pythoness": 11.54,
-                    "SampleSize": 388,
                     "Epoch Golem": 39.29,
+                    "SampleSize": 388,
                     "Timeless Lich": 13.74,
+                    "Timeslither Pythoness": 11.54,
                     "Portal Plunderer": 11.26,
                     "Skeletal Champion": 6.87,
                     "Dread Knight": 6.32,
@@ -13412,39 +13412,39 @@
                     "Harbinger of Death": 1.65
                 },
                 "Rift Antiskele": {
-                    "Harbinger of Death": 2,
+                    "Epoch Golem": 41.15,
                     "SampleSize": 458,
-                    "Carrion Medium": 4.74,
-                    "Dread Knight": 5.74,
-                    "Shackled Servant": 6.48,
-                    "Portal Plunderer": 12.22,
-                    "Timeslither Pythoness": 12.72,
                     "Timeless Lich": 14.96,
-                    "Epoch Golem": 41.15
+                    "Timeslither Pythoness": 12.72,
+                    "Portal Plunderer": 12.22,
+                    "Shackled Servant": 6.48,
+                    "Dread Knight": 5.74,
+                    "Carrion Medium": 4.74,
+                    "Harbinger of Death": 2
                 }
             },
             "Brie String": {
                 "-": {
-                    "Dread Knight": 12.1,
-                    "SampleSize": 1874,
                     "Portal Plunderer": 37.48,
-                    "Skeletal Champion": 5.27,
-                    "Shackled Servant": 5.27,
-                    "Carrion Medium": 6.44,
-                    "Epoch Golem": 9.13,
-                    "Harbinger of Death": 2.24,
+                    "SampleSize": 1874,
+                    "Dread Knight": 12.1,
+                    "Timeslither Pythoness": 11.37,
                     "Timeless Lich": 10.7,
-                    "Timeslither Pythoness": 11.37
+                    "Epoch Golem": 9.13,
+                    "Carrion Medium": 6.44,
+                    "Shackled Servant": 5.27,
+                    "Skeletal Champion": 5.27,
+                    "Harbinger of Death": 2.24
                 },
                 "Rift Antiskele": {
-                    "Epoch Golem": 9.5,
-                    "SampleSize": 2237,
-                    "Carrion Medium": 6.89,
-                    "Shackled Servant": 5.22,
                     "Portal Plunderer": 40.03,
+                    "SampleSize": 2237,
                     "Dread Knight": 12.85,
                     "Timeslither Pythoness": 11.82,
                     "Timeless Lich": 11.28,
+                    "Epoch Golem": 9.5,
+                    "Carrion Medium": 6.89,
+                    "Shackled Servant": 5.22,
                     "Harbinger of Death": 2.41
                 }
             }
@@ -13452,81 +13452,81 @@
         "Ingress": {
             "Runic String": {
                 "-": {
-                    "Dread Knight": 23.57,
-                    "SampleSize": 2365,
-                    "Vigilant Ward": 14.3,
-                    "Clockwork Timespinner": 24.67,
                     "Sentient Slime": 24.83,
+                    "SampleSize": 2365,
+                    "Clockwork Timespinner": 24.67,
+                    "Dread Knight": 23.57,
+                    "Vigilant Ward": 14.3,
                     "Shackled Servant": 11.31,
                     "Harbinger of Death": 1.31
                 },
                 "Rift Antiskele": {
-                    "Dread Knight": 23.28,
+                    "Clockwork Timespinner": 25.04,
                     "SampleSize": 2453,
                     "Sentient Slime": 24.59,
-                    "Clockwork Timespinner": 25.04,
+                    "Dread Knight": 23.28,
+                    "Vigilant Ward": 14.43,
                     "Shackled Servant": 11.41,
-                    "Harbinger of Death": 1.26,
-                    "Vigilant Ward": 14.43
+                    "Harbinger of Death": 1.26
                 }
             },
             "Ancient String": {
                 "-": {
-                    "Sentient Slime": 20.28,
-                    "SampleSize": 761,
                     "Clockwork Timespinner": 26.92,
-                    "Harbinger of Death": 1.75,
-                    "Vigilant Ward": 15.03,
+                    "SampleSize": 761,
+                    "Sentient Slime": 20.28,
+                    "Dread Knight": 19.93,
                     "Shackled Servant": 16.08,
-                    "Dread Knight": 19.93
+                    "Vigilant Ward": 15.03,
+                    "Harbinger of Death": 1.75
                 },
                 "Rift Antiskele": {
-                    "Sentient Slime": 22.07,
-                    "SampleSize": 862,
                     "Clockwork Timespinner": 26.48,
-                    "Harbinger of Death": 1.52,
-                    "Vigilant Ward": 14.61,
+                    "SampleSize": 862,
+                    "Sentient Slime": 22.07,
+                    "Dread Knight": 19.33,
                     "Shackled Servant": 15.98,
-                    "Dread Knight": 19.33
+                    "Vigilant Ward": 14.61,
+                    "Harbinger of Death": 1.52
                 }
             },
             "Magical String": {
                 "-": {
-                    "Vigilant Ward": 14.02,
+                    "Sentient Slime": 31.82,
                     "SampleSize": 431,
                     "Clockwork Timespinner": 31.06,
-                    "Sentient Slime": 31.82,
-                    "Harbinger of Death": 2.27,
+                    "Shackled Servant": 15.53,
+                    "Vigilant Ward": 14.02,
                     "Dread Knight": 5.3,
-                    "Shackled Servant": 15.53
+                    "Harbinger of Death": 2.27
                 },
                 "Rift Antiskele": {
                     "Sentient Slime": 31.7,
                     "SampleSize": 432,
                     "Clockwork Timespinner": 30.94,
                     "Shackled Servant": 15.47,
-                    "Harbinger of Death": 2.26,
+                    "Vigilant Ward": 14.34,
                     "Dread Knight": 5.28,
-                    "Vigilant Ward": 14.34
+                    "Harbinger of Death": 2.26
                 }
             },
             "Brie String": {
                 "-": {
-                    "Dread Knight": 4.3,
-                    "SampleSize": 992,
                     "Sentient Slime": 39.78,
-                    "Shackled Servant": 9.52,
+                    "SampleSize": 992,
+                    "Clockwork Timespinner": 30.41,
                     "Vigilant Ward": 13.67,
-                    "Harbinger of Death": 2.3,
-                    "Clockwork Timespinner": 30.41
+                    "Shackled Servant": 9.52,
+                    "Dread Knight": 4.3,
+                    "Harbinger of Death": 2.3
                 },
                 "Rift Antiskele": {
-                    "Clockwork Timespinner": 31.3,
+                    "Sentient Slime": 39.66,
                     "SampleSize": 1061,
+                    "Clockwork Timespinner": 31.3,
                     "Vigilant Ward": 13.31,
                     "Shackled Servant": 9.35,
                     "Dread Knight": 4.25,
-                    "Sentient Slime": 39.66,
                     "Harbinger of Death": 2.12
                 }
             }
@@ -13534,80 +13534,80 @@
         "Ingress (Paladin's Bane)": {
             "Runic String": {
                 "-": {
-                    "Dread Knight": 23.57,
+                    "Sentient Slime": 24.83,
                     "SampleSize": 2365,
-                    "Harbinger of Death": 1.31,
-                    "Shackled Servant": 11.31,
-                    "Vigilant Ward": 14.3,
                     "Clockwork Timespinner": 24.67,
-                    "Sentient Slime": 24.83
+                    "Dread Knight": 23.57,
+                    "Vigilant Ward": 14.3,
+                    "Shackled Servant": 11.31,
+                    "Harbinger of Death": 1.31
                 },
                 "Rift Antiskele": {
-                    "Shackled Servant": 11.41,
-                    "SampleSize": 2453,
-                    "Vigilant Ward": 14.43,
-                    "Harbinger of Death": 1.26,
                     "Clockwork Timespinner": 25.04,
+                    "SampleSize": 2453,
                     "Sentient Slime": 24.59,
-                    "Dread Knight": 23.28
+                    "Dread Knight": 23.28,
+                    "Vigilant Ward": 14.43,
+                    "Shackled Servant": 11.41,
+                    "Harbinger of Death": 1.26
                 }
             },
             "Ancient String": {
                 "-": {
-                    "Vigilant Ward": 15.03,
-                    "SampleSize": 761,
-                    "Shackled Servant": 16.08,
-                    "Dread Knight": 19.93,
-                    "Sentient Slime": 20.28,
                     "Clockwork Timespinner": 26.92,
+                    "SampleSize": 761,
+                    "Sentient Slime": 20.28,
+                    "Dread Knight": 19.93,
+                    "Shackled Servant": 16.08,
+                    "Vigilant Ward": 15.03,
                     "Harbinger of Death": 1.75
                 },
                 "Rift Antiskele": {
                     "Clockwork Timespinner": 26.48,
                     "SampleSize": 862,
                     "Sentient Slime": 22.07,
-                    "Vigilant Ward": 14.61,
-                    "Harbinger of Death": 1.52,
                     "Dread Knight": 19.33,
-                    "Shackled Servant": 15.98
+                    "Shackled Servant": 15.98,
+                    "Vigilant Ward": 14.61,
+                    "Harbinger of Death": 1.52
                 }
             },
             "Magical String": {
                 "-": {
-                    "Clockwork Timespinner": 31.06,
-                    "SampleSize": 431,
                     "Sentient Slime": 31.82,
+                    "SampleSize": 431,
+                    "Clockwork Timespinner": 31.06,
+                    "Shackled Servant": 15.53,
                     "Vigilant Ward": 14.02,
                     "Dread Knight": 5.3,
-                    "Harbinger of Death": 2.27,
-                    "Shackled Servant": 15.53
+                    "Harbinger of Death": 2.27
                 },
                 "Rift Antiskele": {
-                    "Harbinger of Death": 2.26,
+                    "Sentient Slime": 31.7,
                     "SampleSize": 432,
                     "Clockwork Timespinner": 30.94,
-                    "Vigilant Ward": 14.34,
                     "Shackled Servant": 15.47,
-                    "Sentient Slime": 31.7,
-                    "Dread Knight": 5.28
+                    "Vigilant Ward": 14.34,
+                    "Dread Knight": 5.28,
+                    "Harbinger of Death": 2.26
                 }
             },
             "Brie String": {
                 "-": {
-                    "Clockwork Timespinner": 30.41,
-                    "SampleSize": 992,
                     "Sentient Slime": 39.78,
-                    "Harbinger of Death": 2.3,
-                    "Dread Knight": 4.3,
+                    "SampleSize": 992,
+                    "Clockwork Timespinner": 30.41,
+                    "Vigilant Ward": 13.67,
                     "Shackled Servant": 9.52,
-                    "Vigilant Ward": 13.67
+                    "Dread Knight": 4.3,
+                    "Harbinger of Death": 2.3
                 },
                 "Rift Antiskele": {
-                    "Shackled Servant": 9.35,
-                    "SampleSize": 1061,
-                    "Vigilant Ward": 13.31,
-                    "Clockwork Timespinner": 31.3,
                     "Sentient Slime": 39.66,
+                    "SampleSize": 1061,
+                    "Clockwork Timespinner": 31.3,
+                    "Vigilant Ward": 13.31,
+                    "Shackled Servant": 9.35,
                     "Dread Knight": 4.25,
                     "Harbinger of Death": 2.12
                 }
@@ -13616,221 +13616,221 @@
         "Lucky Tower": {
             "Runic String": {
                 "-": {
-                    "Skeletal Champion": 5.52,
-                    "SampleSize": 1052,
                     "Epoch Golem": 23.31,
-                    "Record Keeper's Assistant": 9.8,
-                    "Portal Paladin": 5.42,
-                    "Record Keeper": 10.37,
-                    "Sentient Slime": 2.85,
-                    "Harbinger of Death": 2,
-                    "Dread Knight": 11.8,
+                    "SampleSize": 1052,
+                    "Portal Plunderer": 15.6,
                     "Clockwork Timespinner": 13.32,
-                    "Portal Plunderer": 15.6
+                    "Dread Knight": 11.8,
+                    "Record Keeper": 10.37,
+                    "Record Keeper's Assistant": 9.8,
+                    "Skeletal Champion": 5.52,
+                    "Portal Paladin": 5.42,
+                    "Sentient Slime": 2.85,
+                    "Harbinger of Death": 2
                 },
                 "Rift Antiskele": {
-                    "Sentient Slime": 3.12,
-                    "SampleSize": 1246,
                     "Epoch Golem": 24.2,
+                    "SampleSize": 1246,
                     "Portal Plunderer": 17.03,
                     "Clockwork Timespinner": 13.58,
-                    "Harbinger of Death": 1.94,
-                    "Portal Paladin": 5.56,
-                    "Record Keeper": 10.71,
+                    "Dread Knight": 12.98,
                     "Record Keeper's Assistant": 10.88,
-                    "Dread Knight": 12.98
+                    "Record Keeper": 10.71,
+                    "Portal Paladin": 5.56,
+                    "Sentient Slime": 3.12,
+                    "Harbinger of Death": 1.94
                 }
             },
             "Ancient String": {
                 "-": {
-                    "Clockwork Timespinner": 14.62,
+                    "Epoch Golem": 22.5,
                     "SampleSize": 520,
+                    "Portal Plunderer": 16.35,
+                    "Clockwork Timespinner": 14.62,
+                    "Record Keeper": 10.77,
                     "Dread Knight": 10.38,
                     "Record Keeper's Assistant": 9.62,
-                    "Epoch Golem": 22.5,
                     "Portal Paladin": 7.12,
-                    "Record Keeper": 10.77,
                     "Skeletal Champion": 4.62,
                     "Sentient Slime": 2.69,
-                    "Harbinger of Death": 1.35,
-                    "Portal Plunderer": 16.35
+                    "Harbinger of Death": 1.35
                 },
                 "Rift Antiskele": {
-                    "Sentient Slime": 2.94,
+                    "Epoch Golem": 23.01,
                     "SampleSize": 604,
-                    "Portal Paladin": 6.4,
-                    "Record Keeper's Assistant": 10.55,
-                    "Dread Knight": 11.07,
-                    "Record Keeper": 11.42,
-                    "Clockwork Timespinner": 15.4,
                     "Portal Plunderer": 17.3,
-                    "Harbinger of Death": 1.9,
-                    "Epoch Golem": 23.01
+                    "Clockwork Timespinner": 15.4,
+                    "Record Keeper": 11.42,
+                    "Dread Knight": 11.07,
+                    "Record Keeper's Assistant": 10.55,
+                    "Portal Paladin": 6.4,
+                    "Sentient Slime": 2.94,
+                    "Harbinger of Death": 1.9
                 }
             },
             "Magical String": {
                 "-": {
-                    "Portal Plunderer": 13.03,
-                    "SampleSize": 591,
                     "Epoch Golem": 22.84,
+                    "SampleSize": 591,
                     "Clockwork Timespinner": 17.43,
-                    "Harbinger of Death": 2.37,
-                    "Sentient Slime": 4.06,
-                    "Portal Paladin": 4.23,
-                    "Skeletal Champion": 5.08,
-                    "Dread Knight": 9.98,
+                    "Portal Plunderer": 13.03,
+                    "Record Keeper's Assistant": 10.49,
                     "Record Keeper": 10.49,
-                    "Record Keeper's Assistant": 10.49
+                    "Dread Knight": 9.98,
+                    "Skeletal Champion": 5.08,
+                    "Portal Paladin": 4.23,
+                    "Sentient Slime": 4.06,
+                    "Harbinger of Death": 2.37
                 },
                 "Rift Antiskele": {
-                    "Clockwork Timespinner": 17.96,
-                    "SampleSize": 727,
-                    "Sentient Slime": 4.31,
-                    "Harbinger of Death": 2.44,
-                    "Portal Paladin": 4.17,
-                    "Record Keeper's Assistant": 9.77,
-                    "Dread Knight": 10.63,
                     "Epoch Golem": 24.28,
+                    "SampleSize": 727,
+                    "Clockwork Timespinner": 17.96,
                     "Portal Plunderer": 14.8,
-                    "Record Keeper": 11.64
+                    "Record Keeper": 11.64,
+                    "Dread Knight": 10.63,
+                    "Record Keeper's Assistant": 9.77,
+                    "Sentient Slime": 4.31,
+                    "Portal Paladin": 4.17,
+                    "Harbinger of Death": 2.44
                 }
             },
             "Brie String": {
                 "-": {
-                    "Dread Knight": 10.41,
-                    "SampleSize": 2632,
-                    "Skeletal Champion": 5.18,
-                    "Epoch Golem": 5.6,
-                    "Portal Paladin": 4.31,
-                    "Sentient Slime": 10.33,
                     "Clockwork Timespinner": 20.4,
+                    "SampleSize": 2632,
                     "Portal Plunderer": 20.24,
-                    "Harbinger of Death": 1.52,
                     "Record Keeper": 11.02,
-                    "Record Keeper's Assistant": 10.98
+                    "Record Keeper's Assistant": 10.98,
+                    "Dread Knight": 10.41,
+                    "Sentient Slime": 10.33,
+                    "Epoch Golem": 5.6,
+                    "Skeletal Champion": 5.18,
+                    "Portal Paladin": 4.31,
+                    "Harbinger of Death": 1.52
                 },
                 "Rift Antiskele": {
                     "Clockwork Timespinner": 21.49,
                     "SampleSize": 3109,
-                    "Dread Knight": 11.24,
-                    "Record Keeper's Assistant": 11.37,
-                    "Sentient Slime": 10.76,
-                    "Portal Paladin": 4.58,
+                    "Portal Plunderer": 21.18,
                     "Record Keeper": 11.81,
-                    "Harbinger of Death": 1.7,
+                    "Record Keeper's Assistant": 11.37,
+                    "Dread Knight": 11.24,
+                    "Sentient Slime": 10.76,
                     "Epoch Golem": 5.87,
-                    "Portal Plunderer": 21.18
+                    "Portal Paladin": 4.58,
+                    "Harbinger of Death": 1.7
                 }
             }
         },
         "Lucky Tower (Paladin's Bane)": {
             "Runic String": {
                 "-": {
-                    "Record Keeper": 10.97,
+                    "Epoch Golem": 24.65,
                     "SampleSize": 1052,
+                    "Portal Plunderer": 16.5,
+                    "Clockwork Timespinner": 14.08,
+                    "Dread Knight": 12.47,
+                    "Record Keeper": 10.97,
                     "Record Keeper's Assistant": 10.36,
                     "Skeletal Champion": 5.84,
                     "Sentient Slime": 3.02,
-                    "Harbinger of Death": 2.11,
-                    "Epoch Golem": 24.65,
-                    "Portal Plunderer": 16.5,
-                    "Clockwork Timespinner": 14.08,
-                    "Dread Knight": 12.47
+                    "Harbinger of Death": 2.11
                 },
                 "Rift Antiskele": {
-                    "Portal Plunderer": 18.04,
-                    "SampleSize": 1246,
-                    "Dread Knight": 13.75,
                     "Epoch Golem": 25.62,
+                    "SampleSize": 1246,
+                    "Portal Plunderer": 18.04,
+                    "Clockwork Timespinner": 14.37,
+                    "Dread Knight": 13.75,
                     "Record Keeper's Assistant": 11.52,
-                    "Harbinger of Death": 2.05,
-                    "Sentient Slime": 3.3,
                     "Record Keeper": 11.34,
-                    "Clockwork Timespinner": 14.37
+                    "Sentient Slime": 3.3,
+                    "Harbinger of Death": 2.05
                 }
             },
             "Ancient String": {
                 "-": {
-                    "Sentient Slime": 2.9,
-                    "SampleSize": 520,
-                    "Harbinger of Death": 1.45,
                     "Epoch Golem": 24.22,
+                    "SampleSize": 520,
                     "Portal Plunderer": 17.6,
                     "Clockwork Timespinner": 15.73,
                     "Record Keeper": 11.59,
                     "Dread Knight": 11.18,
                     "Record Keeper's Assistant": 10.35,
-                    "Skeletal Champion": 4.97
+                    "Skeletal Champion": 4.97,
+                    "Sentient Slime": 2.9,
+                    "Harbinger of Death": 1.45
                 },
                 "Rift Antiskele": {
-                    "Dread Knight": 11.83,
-                    "SampleSize": 604,
-                    "Harbinger of Death": 2.03,
-                    "Sentient Slime": 3.14,
-                    "Record Keeper's Assistant": 11.28,
                     "Epoch Golem": 24.58,
+                    "SampleSize": 604,
                     "Portal Plunderer": 18.48,
                     "Clockwork Timespinner": 16.45,
-                    "Record Keeper": 12.2
+                    "Record Keeper": 12.2,
+                    "Dread Knight": 11.83,
+                    "Record Keeper's Assistant": 11.28,
+                    "Sentient Slime": 3.14,
+                    "Harbinger of Death": 2.03
                 }
             },
             "Magical String": {
                 "-": {
-                    "Portal Plunderer": 13.6,
-                    "SampleSize": 591,
-                    "Record Keeper's Assistant": 10.95,
-                    "Clockwork Timespinner": 18.2,
                     "Epoch Golem": 23.85,
+                    "SampleSize": 591,
+                    "Clockwork Timespinner": 18.2,
+                    "Portal Plunderer": 13.6,
                     "Record Keeper": 10.95,
+                    "Record Keeper's Assistant": 10.95,
                     "Dread Knight": 10.42,
                     "Skeletal Champion": 5.3,
                     "Sentient Slime": 4.24,
                     "Harbinger of Death": 2.47
                 },
                 "Rift Antiskele": {
-                    "Dread Knight": 11.09,
+                    "Epoch Golem": 25.34,
                     "SampleSize": 727,
-                    "Harbinger of Death": 2.55,
-                    "Sentient Slime": 4.5,
-                    "Record Keeper's Assistant": 10.19,
-                    "Record Keeper": 12.14,
-                    "Portal Plunderer": 15.44,
                     "Clockwork Timespinner": 18.74,
-                    "Epoch Golem": 25.34
+                    "Portal Plunderer": 15.44,
+                    "Record Keeper": 12.14,
+                    "Dread Knight": 11.09,
+                    "Record Keeper's Assistant": 10.19,
+                    "Sentient Slime": 4.5,
+                    "Harbinger of Death": 2.55
                 }
             },
             "Brie String": {
                 "-": {
-                    "Harbinger of Death": 1.59,
-                    "SampleSize": 2632,
-                    "Dread Knight": 10.88,
                     "Clockwork Timespinner": 21.31,
+                    "SampleSize": 2632,
                     "Portal Plunderer": 21.16,
                     "Record Keeper": 11.51,
+                    "Record Keeper's Assistant": 11.47,
+                    "Dread Knight": 10.88,
                     "Sentient Slime": 10.8,
                     "Epoch Golem": 5.86,
-                    "Record Keeper's Assistant": 11.47,
-                    "Skeletal Champion": 5.42
+                    "Skeletal Champion": 5.42,
+                    "Harbinger of Death": 1.59
                 },
                 "Rift Antiskele": {
                     "Clockwork Timespinner": 22.52,
                     "SampleSize": 3109,
-                    "Harbinger of Death": 1.78,
-                    "Epoch Golem": 6.15,
-                    "Sentient Slime": 11.28,
-                    "Dread Knight": 11.78,
-                    "Record Keeper's Assistant": 11.92,
+                    "Portal Plunderer": 22.2,
                     "Record Keeper": 12.38,
-                    "Portal Plunderer": 22.2
+                    "Record Keeper's Assistant": 11.92,
+                    "Dread Knight": 11.78,
+                    "Sentient Slime": 11.28,
+                    "Epoch Golem": 6.15,
+                    "Harbinger of Death": 1.78
                 }
             }
         },
         "Pursuer Mousoleum": {
             "Brie String": {
                 "-": {
-                    "Record Keeper's Assistant": 5.88,
+                    "Skeletal Champion": 94.12,
                     "SampleSize": 405,
-                    "Skeletal Champion": 94.12
+                    "Record Keeper's Assistant": 5.88
                 },
                 "Rift Antiskele": {
                     "Record Keeper's Assistant": 93.18,
@@ -13847,9 +13847,9 @@
                     "Record Keeper's Assistant": 5.88
                 },
                 "Rift Antiskele": {
-                    "Record Keeper": 6.82,
+                    "Record Keeper's Assistant": 93.18,
                     "SampleSize": 525,
-                    "Record Keeper's Assistant": 93.18
+                    "Record Keeper": 6.82
                 }
             }
         },
@@ -13858,142 +13858,142 @@
                 "-": {
                     "Timelost Thaumaturge": 29.54,
                     "SampleSize": 4637,
-                    "Sentient Slime": 0.32,
-                    "Harbinger of Death": 1.84,
+                    "Shackled Servant": 15.86,
                     "Chamber Cleaver": 15.73,
+                    "Timeslither Pythoness": 11.45,
+                    "Dread Knight": 10.24,
+                    "Vigilant Ward": 6.72,
                     "Skeletal Champion": 4.34,
                     "Portal Paladin": 3.95,
-                    "Shackled Servant": 15.86,
-                    "Vigilant Ward": 6.72,
-                    "Dread Knight": 10.24,
-                    "Timeslither Pythoness": 11.45
+                    "Harbinger of Death": 1.84,
+                    "Sentient Slime": 0.32
                 },
                 "Rift Antiskele": {
-                    "Vigilant Ward": 6.97,
-                    "SampleSize": 4936,
-                    "Sentient Slime": 0.38,
-                    "Dread Knight": 10.93,
-                    "Timeslither Pythoness": 12.03,
-                    "Shackled Servant": 16.4,
-                    "Chamber Cleaver": 16.63,
                     "Timelost Thaumaturge": 30.53,
+                    "SampleSize": 4936,
+                    "Chamber Cleaver": 16.63,
+                    "Shackled Servant": 16.4,
+                    "Timeslither Pythoness": 12.03,
+                    "Dread Knight": 10.93,
+                    "Vigilant Ward": 6.97,
+                    "Portal Paladin": 4.22,
                     "Harbinger of Death": 1.91,
-                    "Portal Paladin": 4.22
+                    "Sentient Slime": 0.38
                 }
             },
             "Ancient String": {
                 "-": {
-                    "Harbinger of Death": 2.15,
+                    "Timelost Thaumaturge": 26.07,
                     "SampleSize": 15989,
-                    "Skeletal Champion": 5.2,
-                    "Portal Paladin": 5.47,
                     "Vigilant Ward": 20.93,
                     "Shackled Servant": 20.11,
                     "Timeslither Pythoness": 10.57,
                     "Sentient Slime": 9.5,
-                    "Timelost Thaumaturge": 26.07
+                    "Portal Paladin": 5.47,
+                    "Skeletal Champion": 5.2,
+                    "Harbinger of Death": 2.15
                 },
                 "Rift Antiskele": {
-                    "Sentient Slime": 10.14,
-                    "SampleSize": 18104,
-                    "Shackled Servant": 21.12,
-                    "Portal Paladin": 5.69,
-                    "Harbinger of Death": 2.33,
-                    "Vigilant Ward": 22.11,
                     "Timelost Thaumaturge": 27.51,
-                    "Timeslither Pythoness": 11.09
+                    "SampleSize": 18104,
+                    "Vigilant Ward": 22.11,
+                    "Shackled Servant": 21.12,
+                    "Timeslither Pythoness": 11.09,
+                    "Sentient Slime": 10.14,
+                    "Portal Paladin": 5.69,
+                    "Harbinger of Death": 2.33
                 }
             },
             "Magical String": {
                 "-": {
-                    "Portal Paladin": 4.07,
-                    "SampleSize": 393,
-                    "Timelost Thaumaturge": 1.53,
-                    "Harbinger of Death": 3.56,
-                    "Skeletal Champion": 6.36,
                     "Sentient Slime": 40.97,
+                    "SampleSize": 393,
                     "Dread Knight": 19.34,
                     "Shackled Servant": 16.03,
-                    "Vigilant Ward": 8.14
+                    "Vigilant Ward": 8.14,
+                    "Skeletal Champion": 6.36,
+                    "Portal Paladin": 4.07,
+                    "Harbinger of Death": 3.56,
+                    "Timelost Thaumaturge": 1.53
                 },
                 "Rift Antiskele": {
-                    "Harbinger of Death": 3.23,
-                    "SampleSize": 491,
                     "Sentient Slime": 41.51,
+                    "SampleSize": 491,
                     "Dread Knight": 22.58,
                     "Shackled Servant": 17.2,
                     "Vigilant Ward": 9.68,
-                    "Timelost Thaumaturge": 1.29,
-                    "Portal Paladin": 4.52
+                    "Portal Paladin": 4.52,
+                    "Harbinger of Death": 3.23,
+                    "Timelost Thaumaturge": 1.29
                 }
             },
             "Brie String": {
                 "-": {
-                    "Vigilant Ward": 14.89,
+                    "Sentient Slime": 38.88,
                     "SampleSize": 2246,
+                    "Dread Knight": 25.25,
+                    "Vigilant Ward": 14.89,
                     "Shackled Servant": 8.79,
                     "Portal Paladin": 5.16,
                     "Skeletal Champion": 4.98,
-                    "Dread Knight": 25.25,
-                    "Sentient Slime": 38.88,
                     "Harbinger of Death": 2.06
                 },
                 "Rift Antiskele": {
                     "Sentient Slime": 40.95,
                     "SampleSize": 2564,
-                    "Shackled Servant": 9.48,
+                    "Dread Knight": 25.9,
                     "Vigilant Ward": 15.26,
-                    "Harbinger of Death": 2.31,
+                    "Shackled Servant": 9.48,
                     "Portal Paladin": 6.1,
-                    "Dread Knight": 25.9
+                    "Harbinger of Death": 2.31
                 }
             },
             "Swiss String": {
                 "-": {
-                    "Portal Paladin": 1.76,
-                    "SampleSize": 170,
-                    "Skeletal Champion": 5.29,
-                    "Vigilant Ward": 18.24,
-                    "Dread Knight": 24.12,
                     "Sentient Slime": 42.94,
+                    "SampleSize": 170,
+                    "Dread Knight": 24.12,
+                    "Vigilant Ward": 18.24,
+                    "Skeletal Champion": 5.29,
                     "Shackled Servant": 4.12,
-                    "Harbinger of Death": 3.53
+                    "Harbinger of Death": 3.53,
+                    "Portal Paladin": 1.76
                 },
                 "Rift Antiskele": {
-                    "Dread Knight": 25.15,
+                    "Sentient Slime": 46.01,
                     "SampleSize": 172,
-                    "Portal Paladin": 1.84,
-                    "Harbinger of Death": 3.68,
-                    "Shackled Servant": 4.29,
+                    "Dread Knight": 25.15,
                     "Vigilant Ward": 19.02,
-                    "Sentient Slime": 46.01
+                    "Shackled Servant": 4.29,
+                    "Harbinger of Death": 3.68,
+                    "Portal Paladin": 1.84
                 }
             }
         },
         "Runic Laboratory (Paladin's Bane)": {
             "Runic String": {
                 "-": {
-                    "Sentient Slime": 0.34,
+                    "Timelost Thaumaturge": 30.75,
                     "SampleSize": 4637,
-                    "Harbinger of Death": 1.91,
-                    "Vigilant Ward": 7,
-                    "Dread Knight": 10.66,
-                    "Skeletal Champion": 4.52,
-                    "Timeslither Pythoness": 11.92,
-                    "Chamber Cleaver": 16.38,
                     "Shackled Servant": 16.51,
-                    "Timelost Thaumaturge": 30.75
+                    "Chamber Cleaver": 16.38,
+                    "Timeslither Pythoness": 11.92,
+                    "Dread Knight": 10.66,
+                    "Vigilant Ward": 7,
+                    "Skeletal Champion": 4.52,
+                    "Harbinger of Death": 1.91,
+                    "Sentient Slime": 0.34
                 },
                 "Rift Antiskele": {
                     "Timelost Thaumaturge": 31.87,
                     "SampleSize": 4936,
-                    "Sentient Slime": 0.4,
-                    "Harbinger of Death": 1.99,
-                    "Vigilant Ward": 7.28,
-                    "Dread Knight": 11.41,
                     "Chamber Cleaver": 17.36,
                     "Shackled Servant": 17.12,
-                    "Timeslither Pythoness": 12.56
+                    "Timeslither Pythoness": 12.56,
+                    "Dread Knight": 11.41,
+                    "Vigilant Ward": 7.28,
+                    "Harbinger of Death": 1.99,
+                    "Sentient Slime": 0.4
                 }
             },
             "Ancient String": {
@@ -14003,77 +14003,77 @@
                     "Vigilant Ward": 22.14,
                     "Shackled Servant": 21.28,
                     "Timeslither Pythoness": 11.18,
-                    "Skeletal Champion": 5.5,
                     "Sentient Slime": 10.05,
+                    "Skeletal Champion": 5.5,
                     "Harbinger of Death": 2.27
                 },
                 "Rift Antiskele": {
                     "Timelost Thaumaturge": 29.17,
                     "SampleSize": 18104,
-                    "Harbinger of Death": 2.48,
-                    "Sentient Slime": 10.75,
-                    "Timeslither Pythoness": 11.76,
+                    "Vigilant Ward": 23.44,
                     "Shackled Servant": 22.39,
-                    "Vigilant Ward": 23.44
+                    "Timeslither Pythoness": 11.76,
+                    "Sentient Slime": 10.75,
+                    "Harbinger of Death": 2.48
                 }
             },
             "Magical String": {
                 "-": {
-                    "Skeletal Champion": 6.63,
-                    "SampleSize": 393,
-                    "Vigilant Ward": 8.49,
-                    "Shackled Servant": 16.71,
                     "Sentient Slime": 42.71,
+                    "SampleSize": 393,
                     "Dread Knight": 20.16,
-                    "Timelost Thaumaturge": 1.59,
-                    "Harbinger of Death": 3.71
+                    "Shackled Servant": 16.71,
+                    "Vigilant Ward": 8.49,
+                    "Skeletal Champion": 6.63,
+                    "Harbinger of Death": 3.71,
+                    "Timelost Thaumaturge": 1.59
                 },
                 "Rift Antiskele": {
-                    "Dread Knight": 23.65,
+                    "Sentient Slime": 43.47,
                     "SampleSize": 491,
-                    "Timelost Thaumaturge": 1.35,
-                    "Harbinger of Death": 3.38,
-                    "Vigilant Ward": 10.14,
+                    "Dread Knight": 23.65,
                     "Shackled Servant": 18.02,
-                    "Sentient Slime": 43.47
+                    "Vigilant Ward": 10.14,
+                    "Harbinger of Death": 3.38,
+                    "Timelost Thaumaturge": 1.35
                 }
             },
             "Brie String": {
                 "-": {
-                    "Shackled Servant": 9.27,
-                    "SampleSize": 2246,
-                    "Skeletal Champion": 5.25,
-                    "Harbinger of Death": 2.17,
                     "Sentient Slime": 40.99,
+                    "SampleSize": 2246,
                     "Dread Knight": 26.62,
-                    "Vigilant Ward": 15.7
+                    "Vigilant Ward": 15.7,
+                    "Shackled Servant": 9.27,
+                    "Skeletal Champion": 5.25,
+                    "Harbinger of Death": 2.17
                 },
                 "Rift Antiskele": {
-                    "Shackled Servant": 10.1,
-                    "SampleSize": 2564,
-                    "Harbinger of Death": 2.46,
                     "Sentient Slime": 43.61,
+                    "SampleSize": 2564,
                     "Dread Knight": 27.58,
-                    "Vigilant Ward": 16.25
+                    "Vigilant Ward": 16.25,
+                    "Shackled Servant": 10.1,
+                    "Harbinger of Death": 2.46
                 }
             },
             "Swiss String": {
                 "-": {
-                    "Harbinger of Death": 3.59,
-                    "SampleSize": 170,
                     "Sentient Slime": 43.71,
+                    "SampleSize": 170,
+                    "Dread Knight": 24.55,
                     "Vigilant Ward": 18.56,
                     "Skeletal Champion": 5.39,
                     "Shackled Servant": 4.19,
-                    "Dread Knight": 24.55
+                    "Harbinger of Death": 3.59
                 },
                 "Rift Antiskele": {
-                    "Dread Knight": 25.62,
+                    "Sentient Slime": 46.88,
                     "SampleSize": 172,
-                    "Harbinger of Death": 3.75,
-                    "Shackled Servant": 4.38,
+                    "Dread Knight": 25.62,
                     "Vigilant Ward": 19.38,
-                    "Sentient Slime": 46.88
+                    "Shackled Servant": 4.38,
+                    "Harbinger of Death": 3.75
                 }
             }
         },
@@ -14087,96 +14087,96 @@
                     "Vigilant Ward": 0.4
                 },
                 "Rift Antiskele": {
-                    "Shackled Servant": 19.35,
-                    "SampleSize": 269,
                     "Timelost Thaumaturge": 77.42,
+                    "SampleSize": 269,
+                    "Shackled Servant": 19.35,
                     "Vigilant Ward": 3.23
                 }
             },
             "Ancient String": {
                 "-": {
-                    "Shackled Servant": 1.68,
-                    "SampleSize": 179,
-                    "Vigilant Ward": 1.12,
                     "Skeletal Champion": 91.06,
-                    "Timelost Thaumaturge": 6.15
+                    "SampleSize": 179,
+                    "Timelost Thaumaturge": 6.15,
+                    "Shackled Servant": 1.68,
+                    "Vigilant Ward": 1.12
                 },
                 "Rift Antiskele": {
-                    "Shackled Servant": 24.14,
+                    "Timelost Thaumaturge": 62.07,
                     "SampleSize": 208,
-                    "Vigilant Ward": 13.79,
-                    "Timelost Thaumaturge": 62.07
+                    "Shackled Servant": 24.14,
+                    "Vigilant Ward": 13.79
                 }
             },
             "Magical String": {
                 "-": {
-                    "Timelost Thaumaturge": 5.83,
-                    "SampleSize": 120,
                     "Skeletal Champion": 91.67,
+                    "SampleSize": 120,
+                    "Timelost Thaumaturge": 5.83,
                     "Vigilant Ward": 1.67,
                     "Shackled Servant": 0.83
                 },
                 "Rift Antiskele": {
-                    "Vigilant Ward": 17.65,
-                    "SampleSize": 144,
                     "Timelost Thaumaturge": 76.47,
+                    "SampleSize": 144,
+                    "Vigilant Ward": 17.65,
                     "Shackled Servant": 5.88
                 }
             },
             "Brie String": {
                 "-": {
-                    "Vigilant Ward": 4.21,
-                    "SampleSize": 913,
-                    "Shackled Servant": 1.88,
                     "Skeletal Champion": 90.58,
-                    "Timelost Thaumaturge": 3.33
+                    "SampleSize": 913,
+                    "Vigilant Ward": 4.21,
+                    "Timelost Thaumaturge": 3.33,
+                    "Shackled Servant": 1.88
                 },
                 "Rift Antiskele": {
-                    "Vigilant Ward": 37.76,
+                    "Timelost Thaumaturge": 41.33,
                     "SampleSize": 1170,
-                    "Shackled Servant": 20.92,
-                    "Timelost Thaumaturge": 41.33
+                    "Vigilant Ward": 37.76,
+                    "Shackled Servant": 20.92
                 }
             }
         },
         "Security (Paladin's Bane)": {
             "Runic String": {
                 "-": {
-                    "Vigilant Ward": 0.4,
+                    "Skeletal Champion": 91.7,
                     "SampleSize": 255,
-                    "Shackled Servant": 0.79,
                     "Timelost Thaumaturge": 7.11,
-                    "Skeletal Champion": 91.7
+                    "Shackled Servant": 0.79,
+                    "Vigilant Ward": 0.4
                 },
                 "Rift Antiskele": {
-                    "Vigilant Ward": 3.23,
-                    "SampleSize": 269,
                     "Timelost Thaumaturge": 77.42,
-                    "Shackled Servant": 19.35
+                    "SampleSize": 269,
+                    "Shackled Servant": 19.35,
+                    "Vigilant Ward": 3.23
                 }
             },
             "Ancient String": {
                 "-": {
                     "Skeletal Champion": 91.06,
                     "SampleSize": 179,
-                    "Shackled Servant": 1.68,
                     "Timelost Thaumaturge": 6.15,
+                    "Shackled Servant": 1.68,
                     "Vigilant Ward": 1.12
                 },
                 "Rift Antiskele": {
-                    "Shackled Servant": 24.14,
-                    "SampleSize": 208,
                     "Timelost Thaumaturge": 62.07,
+                    "SampleSize": 208,
+                    "Shackled Servant": 24.14,
                     "Vigilant Ward": 13.79
                 }
             },
             "Magical String": {
                 "-": {
-                    "Vigilant Ward": 1.67,
+                    "Skeletal Champion": 91.67,
                     "SampleSize": 120,
-                    "Shackled Servant": 0.83,
                     "Timelost Thaumaturge": 5.83,
-                    "Skeletal Champion": 91.67
+                    "Vigilant Ward": 1.67,
+                    "Shackled Servant": 0.83
                 },
                 "Rift Antiskele": {
                     "Timelost Thaumaturge": 76.47,
@@ -14187,11 +14187,11 @@
             },
             "Brie String": {
                 "-": {
-                    "Vigilant Ward": 4.21,
+                    "Skeletal Champion": 90.58,
                     "SampleSize": 913,
+                    "Vigilant Ward": 4.21,
                     "Timelost Thaumaturge": 3.33,
-                    "Shackled Servant": 1.88,
-                    "Skeletal Champion": 90.58
+                    "Shackled Servant": 1.88
                 },
                 "Rift Antiskele": {
                     "Timelost Thaumaturge": 41.33,
@@ -14206,95 +14206,95 @@
                 "-": {
                     "Carrion Medium": 33.83,
                     "SampleSize": 36410,
-                    "Skeletal Champion": 5.36,
+                    "Chronomaster": 26.26,
                     "Timeless Lich": 19.17,
                     "Sentient Slime": 10.24,
-                    "Chronomaster": 26.26,
+                    "Skeletal Champion": 5.36,
                     "Portal Paladin": 5.15
                 },
                 "Rift Antiskele": {
-                    "Timeless Lich": 20.18,
-                    "SampleSize": 43160,
-                    "Sentient Slime": 10.92,
-                    "Chronomaster": 27.71,
                     "Carrion Medium": 35.77,
+                    "SampleSize": 43160,
+                    "Chronomaster": 27.71,
+                    "Timeless Lich": 20.18,
+                    "Sentient Slime": 10.92,
                     "Portal Paladin": 5.42
                 }
             },
             "Ancient String": {
                 "-": {
-                    "Timeless Lich": 15.82,
-                    "SampleSize": 792,
-                    "Skeletal Champion": 5.87,
-                    "Portal Paladin": 4.97,
                     "Dread Knight": 30.48,
+                    "SampleSize": 792,
                     "Sentient Slime": 26.28,
-                    "Carrion Medium": 16.58
+                    "Carrion Medium": 16.58,
+                    "Timeless Lich": 15.82,
+                    "Skeletal Champion": 5.87,
+                    "Portal Paladin": 4.97
                 },
                 "Rift Antiskele": {
-                    "Timeless Lich": 17.45,
-                    "SampleSize": 906,
-                    "Portal Paladin": 5.66,
-                    "Carrion Medium": 17.33,
                     "Dread Knight": 32.08,
-                    "Sentient Slime": 27.48
+                    "SampleSize": 906,
+                    "Sentient Slime": 27.48,
+                    "Timeless Lich": 17.45,
+                    "Carrion Medium": 17.33,
+                    "Portal Paladin": 5.66
                 }
             },
             "Magical String": {
                 "-": {
-                    "Carrion Medium": 11.05,
-                    "SampleSize": 344,
-                    "Skeletal Champion": 6.4,
-                    "Dread Knight": 33.72,
                     "Sentient Slime": 40.41,
+                    "SampleSize": 344,
+                    "Dread Knight": 33.72,
+                    "Carrion Medium": 11.05,
+                    "Skeletal Champion": 6.4,
                     "Portal Paladin": 4.94,
                     "Timeless Lich": 3.49
                 },
                 "Rift Antiskele": {
-                    "Timeless Lich": 3.76,
-                    "SampleSize": 369,
-                    "Portal Paladin": 5.2,
-                    "Carrion Medium": 12.14,
                     "Sentient Slime": 42.49,
-                    "Dread Knight": 36.42
+                    "SampleSize": 369,
+                    "Dread Knight": 36.42,
+                    "Carrion Medium": 12.14,
+                    "Portal Paladin": 5.2,
+                    "Timeless Lich": 3.76
                 }
             },
             "Brie String": {
                 "-": {
                     "Dread Knight": 41.16,
                     "SampleSize": 1743,
-                    "Carrion Medium": 8.03,
-                    "Timeless Lich": 2.2,
-                    "Portal Paladin": 4.22,
                     "Sentient Slime": 38.21,
-                    "Skeletal Champion": 6.18
+                    "Carrion Medium": 8.03,
+                    "Skeletal Champion": 6.18,
+                    "Portal Paladin": 4.22,
+                    "Timeless Lich": 2.2
                 },
                 "Rift Antiskele": {
-                    "Carrion Medium": 8.45,
+                    "Dread Knight": 43.41,
                     "SampleSize": 1929,
                     "Sentient Slime": 41.13,
-                    "Dread Knight": 43.41,
-                    "Timeless Lich": 2.33,
-                    "Portal Paladin": 4.67
+                    "Carrion Medium": 8.45,
+                    "Portal Paladin": 4.67,
+                    "Timeless Lich": 2.33
                 }
             }
         },
         "Timewarp (Paladin's Bane)": {
             "Runic String": {
                 "-": {
-                    "Chronomaster": 27.68,
+                    "Carrion Medium": 35.66,
                     "SampleSize": 36410,
+                    "Chronomaster": 27.68,
                     "Timeless Lich": 20.21,
                     "Sentient Slime": 10.79,
-                    "Skeletal Champion": 5.65,
-                    "Carrion Medium": 35.66
+                    "Skeletal Champion": 5.65
                 },
                 "Rift Antiskele": {
                     "Carrion Medium": 37.82,
                     "SampleSize": 43160,
+                    "Chronomaster": 29.3,
                     "Timeless Lich": 21.33,
-                    "Sentient Slime": 11.54,
-                    "Chronomaster": 29.3
+                    "Sentient Slime": 11.54
                 }
             },
             "Ancient String": {
@@ -14307,21 +14307,21 @@
                     "Skeletal Champion": 6.17
                 },
                 "Rift Antiskele": {
-                    "Sentient Slime": 29.13,
+                    "Dread Knight": 34,
                     "SampleSize": 906,
+                    "Sentient Slime": 29.13,
                     "Timeless Lich": 18.5,
-                    "Carrion Medium": 18.38,
-                    "Dread Knight": 34
+                    "Carrion Medium": 18.38
                 }
             },
             "Magical String": {
                 "-": {
-                    "Dread Knight": 35.47,
-                    "SampleSize": 344,
-                    "Skeletal Champion": 6.73,
-                    "Timeless Lich": 3.67,
                     "Sentient Slime": 42.51,
-                    "Carrion Medium": 11.62
+                    "SampleSize": 344,
+                    "Dread Knight": 35.47,
+                    "Carrion Medium": 11.62,
+                    "Skeletal Champion": 6.73,
+                    "Timeless Lich": 3.67
                 },
                 "Rift Antiskele": {
                     "Sentient Slime": 44.82,
@@ -14333,19 +14333,19 @@
             },
             "Brie String": {
                 "-": {
-                    "Sentient Slime": 39.89,
+                    "Dread Knight": 42.97,
                     "SampleSize": 1743,
+                    "Sentient Slime": 39.89,
                     "Carrion Medium": 8.39,
                     "Skeletal Champion": 6.46,
-                    "Timeless Lich": 2.29,
-                    "Dread Knight": 42.97
+                    "Timeless Lich": 2.29
                 },
                 "Rift Antiskele": {
-                    "Carrion Medium": 8.86,
-                    "SampleSize": 1929,
-                    "Timeless Lich": 2.45,
                     "Dread Knight": 45.54,
-                    "Sentient Slime": 43.15
+                    "SampleSize": 1929,
+                    "Sentient Slime": 43.15,
+                    "Carrion Medium": 8.86,
+                    "Timeless Lich": 2.45
                 }
             }
         }
