@@ -422,6 +422,9 @@
             "-": {
                 "SB+": {
                     "-": 0.39
+                },
+                "Nian Gao'da": {
+                    "-": 3.14
                 }
             }
         },
@@ -1321,6 +1324,9 @@
             "-": {
                 "SB+": {
                     "-": 0.88
+                },
+                "Nian Gao'da": {
+                    "-": 1.89
                 }
             }
         },
@@ -1335,6 +1341,9 @@
             "-": {
                 "SB+": {
                     "-": 3.95
+                },
+                "Nian Gao'da": {
+                    "-": 3.82
                 }
             }
         },
@@ -2537,6 +2546,12 @@
                 },
                 "White Cheddar/Marble/Mozzarella/Cheddar": {
                     "-": 8.23
+                },
+                "Dumpling": {
+                    "-": 2.63
+                },
+                "Nian Gao'da": {
+                    "-": 1.26
                 }
             }
         },
@@ -2590,6 +2605,12 @@
                 },
                 "White Cheddar/Marble/Mozzarella/Cheddar": {
                     "-": 8.86
+                },
+                "Dumpling": {
+                    "-": 2.89
+                },
+                "Nian Gao'da": {
+                    "-": 1.89
                 }
             }
         }
@@ -2698,6 +2719,12 @@
                 },
                 "White Cheddar/Marble/Mozzarella/Cheddar": {
                     "-": 4.91
+                },
+                "Dumpling": {
+                    "-": 2.37
+                },
+                "Nian Gao'da": {
+                    "-": 0.63
                 }
             }
         },
@@ -2853,6 +2880,12 @@
                 },
                 "White Cheddar/Marble/Mozzarella/Cheddar": {
                     "-": 7.12
+                },
+                "Dumpling": {
+                    "-": 3.68
+                },
+                "Nian Gao'da": {
+                    "-": 0.63
                 }
             }
         }
@@ -2972,6 +3005,12 @@
                 },
                 "White Cheddar/Marble/Mozzarella/Cheddar": {
                     "-": 7.91
+                },
+                "Dumpling": {
+                    "-": 5.79
+                },
+                "Nian Gao'da": {
+                    "-": 0.63
                 }
             }
         }
@@ -3099,6 +3138,12 @@
                 },
                 "Swiss": {
                     "-": 1.29
+                },
+                "Dumpling": {
+                    "-": 2.37
+                },
+                "Nian Gao'da": {
+                    "-": 3.14
                 }
             }
         }
@@ -3247,6 +3292,12 @@
                 },
                 "Swiss": {
                     "-": 8.56
+                },
+                "Dumpling": {
+                    "-": 4.13
+                },
+                "Nian Gao'da": {
+                    "-": 1.4
                 }
             }
         }
@@ -4468,6 +4519,14 @@
                 "Gouda/Brie/Swiss/White Cheddar/Marble/Mozzarella/Cheddar": {
                     "-": 15.78
                 }
+            },
+            "-": {
+                "Dumpling": {
+                    "-": 7.39
+                },
+                "Nian Gao'da": {
+                    "-": 4.16
+                }
             }
         }
     },
@@ -4479,6 +4538,14 @@
                 },
                 "Gouda/Brie/Swiss/White Cheddar/Marble/Mozzarella/Cheddar": {
                     "-": 15.91
+                }
+            },
+            "-": {
+                "Dumpling": {
+                    "-": 10.87
+                },
+                "Nian Gao'da": {
+                    "-": 4.94
                 }
             }
         }
@@ -4492,6 +4559,14 @@
                 "Gouda/Brie/Swiss/White Cheddar/Marble/Mozzarella/Cheddar": {
                     "-": 16.3
                 }
+            },
+            "-": {
+                "Dumpling": {
+                    "-": 4.49
+                },
+                "Nian Gao'da": {
+                    "-": 3.12
+                }
             }
         }
     },
@@ -4504,6 +4579,14 @@
                 "Gouda/Brie/Swiss/White Cheddar/Marble/Mozzarella/Cheddar": {
                     "-": 15.99
                 }
+            },
+            "-": {
+                "Dumpling": {
+                    "-": 6.38
+                },
+                "Nian Gao'da": {
+                    "-": 4.94
+                }
             }
         }
     },
@@ -4515,6 +4598,14 @@
                 },
                 "Gouda/Brie/Swiss/White Cheddar/Marble/Mozzarella/Cheddar": {
                     "-": 16.17
+                }
+            },
+            "-": {
+                "Dumpling": {
+                    "-": 7.25
+                },
+                "Nian Gao'da": {
+                    "-": 3.9
                 }
             }
         }
@@ -4540,6 +4631,14 @@
                 "Gouda/Brie/Swiss/White Cheddar/Marble/Mozzarella/Cheddar": {
                     "-": 6.13
                 }
+            },
+            "-": {
+                "Dumpling": {
+                    "-": 6.09
+                },
+                "Nian Gao'da": {
+                    "-": 5.19
+                }
             }
         }
     },
@@ -4551,6 +4650,11 @@
                 },
                 "Gouda/Brie/Swiss/White Cheddar/Marble/Mozzarella/Cheddar": {
                     "-": 0.68
+                }
+            },
+            "-": {
+                "Nian Gao'da": {
+                    "-": 8.57
                 }
             }
         }
@@ -5033,6 +5137,9 @@
                 },
                 "SB+": {
                     "-": 9.43
+                },
+                "Dumpling": {
+                    "-": 3.77
                 }
             }
         },
@@ -5064,6 +5171,9 @@
                 },
                 "SB+": {
                     "-": 6.03
+                },
+                "Dumpling": {
+                    "-": 4.88
                 }
             }
         },
@@ -5095,6 +5205,9 @@
                 },
                 "SB+": {
                     "-": 9.72
+                },
+                "Dumpling": {
+                    "-": 2.22
                 }
             }
         },
@@ -5145,6 +5258,9 @@
                 },
                 "SB+": {
                     "-": 8.8
+                },
+                "Dumpling": {
+                    "-": 2
                 }
             }
         },
@@ -5324,6 +5440,9 @@
                 },
                 "White Cheddar": {
                     "-": 4.61
+                },
+                "Dumpling": {
+                    "-": 6.38
                 }
             }
         },
@@ -5377,6 +5496,9 @@
                 },
                 "SB+": {
                     "-": 13.63
+                },
+                "Dumpling": {
+                    "-": 7.98
                 }
             }
         }
@@ -5392,6 +5514,9 @@
                 },
                 "SB+": {
                     "-": 13.89
+                },
+                "Dumpling": {
+                    "-": 5.1
                 }
             }
         }
@@ -5407,6 +5532,9 @@
                 },
                 "SB+": {
                     "-": 13.56
+                },
+                "Dumpling": {
+                    "-": 6.43
                 }
             }
         }
@@ -5422,6 +5550,9 @@
                 },
                 "SB+": {
                     "-": 5.84
+                },
+                "Dumpling": {
+                    "-": 5.1
                 }
             }
         },
@@ -5601,6 +5732,9 @@
                 },
                 "White Cheddar": {
                     "-": 4.48
+                },
+                "Dumpling": {
+                    "-": 6.91
                 }
             }
         },
@@ -5648,6 +5782,9 @@
             "-": {
                 "Gouda/Brie/Swiss/White Cheddar/Marble/Mozzarella/Cheddar": {
                     "-": 3.09
+                },
+                "Dumpling": {
+                    "-": 0.89
                 }
             }
         },
@@ -7467,6 +7604,12 @@
                 },
                 "Brie": {
                     "-": 12.55
+                },
+                "Dumpling": {
+                    "-": 1.7
+                },
+                "Nian Gao'da": {
+                    "-": 1
                 }
             }
         }
@@ -7482,6 +7625,12 @@
                 },
                 "Brie": {
                     "-": 10.67
+                },
+                "Dumpling": {
+                    "-": 1.97
+                },
+                "Nian Gao'da": {
+                    "-": 0.38
                 }
             }
         }
@@ -7497,6 +7646,12 @@
                 },
                 "Brie": {
                     "-": 12.49
+                },
+                "Dumpling": {
+                    "-": 10.07
+                },
+                "Nian Gao'da": {
+                    "-": 2.61
                 }
             }
         }
@@ -7512,6 +7667,12 @@
                 },
                 "Brie": {
                     "-": 14.6
+                },
+                "Dumpling": {
+                    "-": 1.2
+                },
+                "Nian Gao'da": {
+                    "-": 0.62
                 }
             }
         }
@@ -7527,6 +7688,12 @@
                 },
                 "Brie": {
                     "-": 10.63
+                },
+                "Dumpling": {
+                    "-": 1.88
+                },
+                "Nian Gao'da": {
+                    "-": 1.14
                 }
             }
         }
@@ -7542,6 +7709,12 @@
                 },
                 "Brie": {
                     "-": 9.21
+                },
+                "Dumpling": {
+                    "-": 1.82
+                },
+                "Nian Gao'da": {
+                    "-": 0.85
                 }
             }
         }
@@ -7566,6 +7739,16 @@
             "-": {
                 "SB+": {
                     "-": 7.86
+                },
+                "Nian Gao'da": {
+                    "-": 8.48
+                }
+            }
+        },
+        "Moussu Picchu": {
+            "-": {
+                "Nian Gao'da": {
+                    "-": 0.26
                 }
             }
         }
@@ -7635,6 +7818,12 @@
             "-": {
                 "Glowing Gruyere": {
                     "-": 19.99
+                },
+                "Dumpling": {
+                    "-": 4.94
+                },
+                "Nian Gao'da": {
+                    "-": 3.03
                 }
             }
         }
@@ -7653,6 +7842,12 @@
             "-": {
                 "Glowing Gruyere": {
                     "-": 18.28
+                },
+                "Dumpling": {
+                    "-": 4.59
+                },
+                "Nian Gao'da": {
+                    "-": 2.18
                 }
             }
         }
@@ -7662,6 +7857,12 @@
             "-": {
                 "Glowing Gruyere": {
                     "-": 18.11
+                },
+                "Dumpling": {
+                    "-": 5.17
+                },
+                "Nian Gao'da": {
+                    "-": 2.84
                 }
             }
         }
@@ -7833,6 +8034,9 @@
                 },
                 "Brie String": {
                     "-": 2.01
+                },
+                "Nian Gao'da": {
+                    "-": 4.38
                 }
             }
         }
@@ -7912,6 +8116,12 @@
                 },
                 "Marble String": {
                     "-": 13.29
+                },
+                "Dumpling": {
+                    "-": 7.31
+                },
+                "Nian Gao'da": {
+                    "-": 1.86
                 }
             }
         }
@@ -7948,6 +8158,12 @@
                 },
                 "Marble String": {
                     "-": 14.35
+                },
+                "Dumpling": {
+                    "-": 10.44
+                },
+                "Nian Gao'da": {
+                    "-": 4.27
                 }
             }
         }
@@ -7960,6 +8176,9 @@
                 },
                 "Brie String": {
                     "-": 0.99
+                },
+                "Nian Gao'da": {
+                    "-": 2.74
                 }
             }
         }
@@ -7978,6 +8197,12 @@
                 },
                 "Marble String": {
                     "-": 2.11
+                },
+                "Dumpling": {
+                    "-": 4.66
+                },
+                "Nian Gao'da": {
+                    "-": 2.41
                 }
             }
         }
@@ -7996,6 +8221,12 @@
                 },
                 "Riftiago": {
                     "-": 4.99
+                },
+                "Dumpling": {
+                    "-": 1.29
+                },
+                "Nian Gao'da": {
+                    "-": 1.2
                 }
             }
         },
@@ -8044,6 +8275,12 @@
                 },
                 "Riftiago": {
                     "-": 4.97
+                },
+                "Dumpling": {
+                    "-": 5.78
+                },
+                "Nian Gao'da": {
+                    "-": 2.63
                 }
             }
         },
@@ -8083,6 +8320,12 @@
             "-": {
                 "Riftiago": {
                     "-": 25.02
+                },
+                "Dumpling": {
+                    "-": 4.98
+                },
+                "Nian Gao'da": {
+                    "-": 3.06
                 }
             }
         }
@@ -8092,6 +8335,12 @@
             "-": {
                 "Riftiago": {
                     "-": 25.01
+                },
+                "Dumpling": {
+                    "-": 2.89
+                },
+                "Nian Gao'da": {
+                    "-": 1.53
                 }
             }
         }
@@ -8101,6 +8350,12 @@
             "-": {
                 "Riftiago": {
                     "-": 24.93
+                },
+                "Dumpling": {
+                    "-": 1.77
+                },
+                "Nian Gao'da": {
+                    "-": 1.09
                 }
             }
         }
@@ -8847,6 +9102,12 @@
                 },
                 "White Cheddar/Marble/Mozzarella/Cheddar": {
                     "-": 5.7
+                },
+                "Dumpling": {
+                    "-": 4.74
+                },
+                "Nian Gao'da": {
+                    "-": 1.26
                 }
             }
         },
@@ -8905,6 +9166,12 @@
                 },
                 "White Cheddar/Marble/Mozzarella/Cheddar": {
                     "-": 3.96
+                },
+                "Dumpling": {
+                    "-": 6.84
+                },
+                "Nian Gao'da": {
+                    "-": 1.89
                 }
             }
         },
@@ -8964,6 +9231,9 @@
             "-": {
                 "SB+": {
                     "-": 1.88
+                },
+                "Nian Gao'da": {
+                    "-": 1.26
                 }
             }
         },
@@ -8983,6 +9253,9 @@
             "-": {
                 "SB+": {
                     "-": 0.77
+                },
+                "Nian Gao'da": {
+                    "-": 1.89
                 }
             }
         },
@@ -9036,6 +9309,12 @@
                 },
                 "Swiss": {
                     "-": 8.64
+                },
+                "Dumpling": {
+                    "-": 4.13
+                },
+                "Nian Gao'da": {
+                    "-": 1.49
                 }
             }
         }
@@ -9570,6 +9849,9 @@
                 },
                 "White Cheddar": {
                     "-": 7.31
+                },
+                "Dumpling": {
+                    "-": 8.16
                 }
             }
         },
@@ -11242,6 +11524,9 @@
                 },
                 "White Cheddar": {
                     "-": 4.92
+                },
+                "Dumpling": {
+                    "-": 8.51
                 }
             }
         },
@@ -11318,6 +11603,9 @@
                 },
                 "Brie": {
                     "-": 6.67
+                },
+                "Dumpling": {
+                    "-": 10.46
                 }
             }
         },
@@ -11372,6 +11660,9 @@
                 },
                 "Brie": {
                     "-": 5.2
+                },
+                "Dumpling": {
+                    "-": 6.91
                 }
             }
         },
@@ -11439,6 +11730,14 @@
                 "Cheddar": {
                     "-": 23.45
                 }
+            },
+            "-": {
+                "Dumpling": {
+                    "-": 2.86
+                },
+                "Nian Gao'da": {
+                    "-": 1.79
+                }
             }
         }
     },
@@ -11462,6 +11761,14 @@
                 },
                 "Cheddar": {
                     "-": 22.73
+                }
+            },
+            "-": {
+                "Dumpling": {
+                    "-": 4.08
+                },
+                "Nian Gao'da": {
+                    "-": 3.28
                 }
             }
         }
@@ -11487,6 +11794,14 @@
                 "Cheddar": {
                     "-": 24.95
                 }
+            },
+            "-": {
+                "Dumpling": {
+                    "-": 3.08
+                },
+                "Nian Gao'da": {
+                    "-": 0.7
+                }
             }
         }
     },
@@ -11510,6 +11825,14 @@
                 },
                 "Cheddar": {
                     "-": 14.51
+                }
+            },
+            "-": {
+                "Dumpling": {
+                    "-": 3.45
+                },
+                "Nian Gao'da": {
+                    "-": 2.88
                 }
             }
         }
@@ -11535,6 +11858,14 @@
                 "Cheddar": {
                     "-": 12.01
                 }
+            },
+            "-": {
+                "Dumpling": {
+                    "-": 3
+                },
+                "Nian Gao'da": {
+                    "-": 1.29
+                }
             }
         }
     },
@@ -11558,6 +11889,14 @@
                 },
                 "Cheddar": {
                     "-": 2.36
+                }
+            },
+            "-": {
+                "Dumpling": {
+                    "-": 3.26
+                },
+                "Nian Gao'da": {
+                    "-": 1.99
                 }
             }
         }
@@ -11604,6 +11943,14 @@
                 "Tier 2": {
                     "-": 15.95
                 }
+            },
+            "-": {
+                "Dumpling": {
+                    "-": 4.34
+                },
+                "Nian Gao'da": {
+                    "-": 0.3
+                }
             }
         }
     },
@@ -11612,6 +11959,14 @@
             "Tier 2": {
                 "Tier 2": {
                     "-": 4.98
+                }
+            },
+            "-": {
+                "Dumpling": {
+                    "-": 3.49
+                },
+                "Nian Gao'da": {
+                    "-": 0.6
                 }
             }
         }
@@ -11658,6 +12013,14 @@
                 "Tier 3": {
                     "-": 9.99
                 }
+            },
+            "-": {
+                "Dumpling": {
+                    "-": 2.97
+                },
+                "Nian Gao'da": {
+                    "-": 0.1
+                }
             }
         }
     },
@@ -11666,6 +12029,14 @@
             "Tier 3": {
                 "Tier 3": {
                     "-": 9.98
+                }
+            },
+            "-": {
+                "Dumpling": {
+                    "-": 4.27
+                },
+                "Nian Gao'da": {
+                    "-": 0.3
                 }
             }
         }
@@ -13841,6 +14212,9 @@
                 },
                 "White Cheddar": {
                     "-": 33.97
+                },
+                "Dumpling": {
+                    "-": 3.37
                 }
             }
         }
@@ -14111,6 +14485,12 @@
                 "Brie": {
                     "-": 15.84,
                     "Artisan": 18.07
+                },
+                "Dumpling": {
+                    "-": 9.02
+                },
+                "Nian Gao'da": {
+                    "-": 2.78
                 }
             }
         }
@@ -14129,6 +14509,12 @@
                 "Brie": {
                     "-": 13.88,
                     "Artisan": 16.03
+                },
+                "Dumpling": {
+                    "-": 11.43
+                },
+                "Nian Gao'da": {
+                    "-": 1.39
                 }
             }
         }
@@ -14147,6 +14533,12 @@
                 "Brie": {
                     "-": 11.94,
                     "Artisan": 13.85
+                },
+                "Dumpling": {
+                    "-": 6.44
+                },
+                "Nian Gao'da": {
+                    "-": 2.31
                 }
             }
         }
@@ -14165,6 +14557,12 @@
                 "Brie": {
                     "-": 10.17,
                     "Artisan": 4.47
+                },
+                "Dumpling": {
+                    "-": 3.7
+                },
+                "Nian Gao'da": {
+                    "-": 1.39
                 }
             }
         }
@@ -14183,6 +14581,12 @@
                 "Brie": {
                     "-": 10.13,
                     "Artisan": 4.1
+                },
+                "Dumpling": {
+                    "-": 5.48
+                },
+                "Nian Gao'da": {
+                    "-": 0.46
                 }
             }
         }
@@ -14213,6 +14617,12 @@
                 },
                 "Brie": {
                     "-": 8.07
+                },
+                "Dumpling": {
+                    "-": 1.93
+                },
+                "Nian Gao'da": {
+                    "-": 0.46
                 }
             }
         }
@@ -14223,6 +14633,9 @@
                 "SB+": {
                     "-": 8.28,
                     "Artisan": 7.97
+                },
+                "Nian Gao'da": {
+                    "-": 6.02
                 }
             }
         }
@@ -14241,6 +14654,9 @@
                 "Brie": {
                     "-": 13.99,
                     "Artisan": 10.57
+                },
+                "Dumpling": {
+                    "-": 1.45
                 }
             }
         }
@@ -14256,6 +14672,12 @@
                 },
                 "Brie": {
                     "-": 8.07
+                },
+                "Dumpling": {
+                    "-": 2.25
+                },
+                "Nian Gao'da": {
+                    "-": 0.93
                 }
             }
         }
@@ -14271,6 +14693,12 @@
                 },
                 "Brie": {
                     "-": 1.01
+                },
+                "Dumpling": {
+                    "-": 2.25
+                },
+                "Nian Gao'da": {
+                    "-": 1.85
                 }
             }
         }
@@ -14463,6 +14891,12 @@
                 },
                 "Swiss": {
                     "-": 6.08
+                },
+                "Dumpling": {
+                    "-": 2.65
+                },
+                "Nian Gao'da": {
+                    "-": 0.28
                 }
             }
         }
@@ -14484,6 +14918,12 @@
                 },
                 "Swiss": {
                     "-": 9.67
+                },
+                "Dumpling": {
+                    "-": 3.3
+                },
+                "Nian Gao'da": {
+                    "-": 0.93
                 }
             }
         }
@@ -14505,6 +14945,12 @@
                 },
                 "Swiss": {
                     "-": 4.83
+                },
+                "Dumpling": {
+                    "-": 4.36
+                },
+                "Nian Gao'da": {
+                    "-": 3.91
                 }
             }
         }
@@ -14526,6 +14972,12 @@
                 },
                 "Swiss": {
                     "-": 4.46
+                },
+                "Dumpling": {
+                    "-": 4.55
+                },
+                "Nian Gao'da": {
+                    "-": 2.52
                 }
             }
         }
@@ -14568,6 +15020,12 @@
                 },
                 "Swiss": {
                     "-": 5.54
+                },
+                "Dumpling": {
+                    "-": 4.87
+                },
+                "Nian Gao'da": {
+                    "-": 2.52
                 }
             }
         }
@@ -14589,6 +15047,12 @@
                 },
                 "Swiss": {
                     "-": 0.19
+                },
+                "Dumpling": {
+                    "-": 0.37
+                },
+                "Nian Gao'da": {
+                    "-": 0.37
                 }
             }
         }
@@ -14625,6 +15089,12 @@
                 },
                 "Swiss": {
                     "-": 6.89
+                },
+                "Dumpling": {
+                    "-": 3.48
+                },
+                "Nian Gao'da": {
+                    "-": 2.14
                 }
             }
         }
@@ -14652,6 +15122,9 @@
             "-": {
                 "SB+": {
                     "-": 2.42
+                },
+                "Nian Gao'da": {
+                    "-": 3.45
                 }
             }
         }
@@ -14670,6 +15143,12 @@
                 },
                 "Swiss": {
                     "-": 1.59
+                },
+                "Dumpling": {
+                    "-": 4.55
+                },
+                "Nian Gao'da": {
+                    "-": 2.89
                 }
             }
         }
@@ -17623,6 +18102,100 @@
                     "-": 3.34
                 }
             }
+        },
+        "Town of Gnawnia": {
+            "-": {
+                "Dumpling": {
+                    "-": 7.45
+                }
+            }
+        },
+        "Great Gnarled Tree": {
+            "-": {
+                "Dumpling": {
+                    "-": 9.74
+                },
+                "Nian Gao'da": {
+                    "-": 8.81
+                }
+            }
+        },
+        "Dojo": {
+            "-": {
+                "Dumpling": {
+                    "-": 7.54
+                }
+            }
+        },
+        "S.S. Huntington III": {
+            "-": {
+                "Dumpling": {
+                    "-": 6.73
+                },
+                "Nian Gao'da": {
+                    "-": 6.34
+                }
+            }
+        },
+        "King's Gauntlet": {
+            "-": {
+                "Dumpling": {
+                    "-": 6.9
+                },
+                "Nian Gao'da": {
+                    "-": 7.45
+                }
+            }
+        },
+        "Claw Shot City": {
+            "-": {
+                "Dumpling": {
+                    "-": 6.52
+                },
+                "Nian Gao'da": {
+                    "-": 3.9
+                }
+            }
+        },
+        "Muridae Market": {
+            "-": {
+                "Dumpling": {
+                    "-": 7.25
+                },
+                "Nian Gao'da": {
+                    "-": 9.26
+                }
+            }
+        },
+        "Gnawnia Rift": {
+            "-": {
+                "Dumpling": {
+                    "-": 6.91
+                },
+                "Nian Gao'da": {
+                    "-": 5.91
+                }
+            }
+        },
+        "Fungal Cavern": {
+            "-": {
+                "Dumpling": {
+                    "-": 7.45
+                },
+                "Nian Gao'da": {
+                    "-": 5.83
+                }
+            }
+        },
+        "Moussu Picchu": {
+            "-": {
+                "Dumpling": {
+                    "-": 6.98
+                },
+                "Nian Gao'da": {
+                    "-": 6.42
+                }
+            }
         }
     },
     "Barkshell": {
@@ -20226,6 +20799,12 @@
                 },
                 "Gouda": {
                     "-": 21.83
+                },
+                "Dumpling": {
+                    "-": 6.3
+                },
+                "Nian Gao'da": {
+                    "-": 3.47
                 }
             }
         }
@@ -20244,6 +20823,12 @@
                 },
                 "Gouda": {
                     "-": 22.19
+                },
+                "Dumpling": {
+                    "-": 6.35
+                },
+                "Nian Gao'da": {
+                    "-": 3.82
                 }
             }
         }
@@ -20262,6 +20847,12 @@
                 },
                 "Gouda": {
                     "-": 12.69
+                },
+                "Dumpling": {
+                    "-": 5
+                },
+                "Nian Gao'da": {
+                    "-": 1.91
                 }
             }
         }
@@ -20280,6 +20871,12 @@
                 },
                 "Gouda": {
                     "-": 12.61
+                },
+                "Dumpling": {
+                    "-": 8.54
+                },
+                "Nian Gao'da": {
+                    "-": 3.65
                 }
             }
         }
@@ -20289,6 +20886,9 @@
             "-": {
                 "SB+": {
                     "-": 9.1
+                },
+                "Nian Gao'da": {
+                    "-": 3.3
                 }
             }
         }
@@ -20304,6 +20904,12 @@
                 },
                 "Gouda": {
                     "-": 14.91
+                },
+                "Dumpling": {
+                    "-": 5.33
+                },
+                "Nian Gao'da": {
+                    "-": 2.69
                 }
             }
         }
@@ -20319,6 +20925,12 @@
                 },
                 "Gouda": {
                     "-": 15.77
+                },
+                "Dumpling": {
+                    "-": 7.52
+                },
+                "Nian Gao'da": {
+                    "-": 4.86
                 }
             }
         }
@@ -20328,6 +20940,9 @@
             "-": {
                 "Glowing Gruyere": {
                     "-": 9.5
+                },
+                "Nian Gao'da": {
+                    "-": 4.34
                 }
             }
         }
@@ -20557,11 +21172,6 @@
                     "-": 3.08
                 }
             },
-            "Entrance (Paladin's Bane)": {
-                "Runic String": {
-                    "-": 3.44
-                }
-            },
             "Furnace Room": {
                 "Brie String": {
                     "-": 91.9
@@ -20664,12 +21274,12 @@
             },
             "Pursuer Mousoleum": {
                 "Brie String": {
-                    "-": 94.12
+                    "-": 82.96
                 }
             },
             "Pursuer Mousoleum (Paladin's Bane)": {
                 "Brie String": {
-                    "-": 94.12
+                    "-": 82.96
                 }
             },
             "Runic Laboratory": {
@@ -20704,20 +21314,6 @@
                 },
                 "Swiss String": {
                     "-": 5.39
-                }
-            },
-            "Security": {
-                "Runic String": {
-                    "-": 91.7
-                },
-                "Ancient String": {
-                    "-": 91.06
-                },
-                "Magical String": {
-                    "-": 91.67
-                },
-                "Brie String": {
-                    "-": 90.58
                 }
             },
             "Security (Paladin's Bane)": {
@@ -20908,38 +21504,16 @@
             },
             "Guard Barracks": {
                 "Runic String": {
-                    "-": 17.98,
-                    "Rift Antiskele": 18.05
+                    "-": 18.05
                 },
                 "Ancient String": {
-                    "-": 15.56,
-                    "Rift Antiskele": 15.77
+                    "-": 15.77
                 },
                 "Magical String": {
-                    "-": 10.57,
-                    "Rift Antiskele": 10.55
+                    "-": 10.55
                 },
                 "Brie String": {
-                    "-": 9.01,
-                    "Rift Antiskele": 9.19
-                }
-            },
-            "Guard Barracks (Paladin's Bane)": {
-                "Runic String": {
-                    "-": 52.05,
-                    "Rift Antiskele": 52.25
-                },
-                "Ancient String": {
-                    "-": 36.6,
-                    "Rift Antiskele": 36.82
-                },
-                "Magical String": {
-                    "-": 19.24,
-                    "Rift Antiskele": 19.16
-                },
-                "Brie String": {
-                    "-": 15.34,
-                    "Rift Antiskele": 15.58
+                    "-": 9.19
                 }
             },
             "Hidden Treasury": {
@@ -20980,38 +21554,30 @@
             },
             "Ingress": {
                 "Runic String": {
-                    "-": 23.57,
-                    "Rift Antiskele": 23.28
+                    "-": 18.87
                 },
                 "Ancient String": {
-                    "-": 19.93,
-                    "Rift Antiskele": 19.33
+                    "-": 14.73
                 },
                 "Magical String": {
-                    "-": 5.3,
-                    "Rift Antiskele": 5.28
+                    "-": 3.24
                 },
                 "Brie String": {
-                    "-": 4.3,
-                    "Rift Antiskele": 4.25
+                    "-": 2.83
                 }
             },
             "Ingress (Paladin's Bane)": {
                 "Runic String": {
-                    "-": 23.57,
-                    "Rift Antiskele": 23.28
+                    "-": 18.87
                 },
                 "Ancient String": {
-                    "-": 19.93,
-                    "Rift Antiskele": 19.33
+                    "-": 14.73
                 },
                 "Magical String": {
-                    "-": 5.3,
-                    "Rift Antiskele": 5.28
+                    "-": 3.24
                 },
                 "Brie String": {
-                    "-": 4.3,
-                    "Rift Antiskele": 4.25
+                    "-": 2.83
                 }
             },
             "Lucky Tower": {
@@ -21136,12 +21702,6 @@
                     "Rift Antiskele": 80.95
                 }
             },
-            "Entrance (Paladin's Bane)": {
-                "Runic String": {
-                    "-": 87.63,
-                    "Rift Antiskele": 90.6
-                }
-            },
             "Gearworks": {
                 "Runic String": {
                     "-": 0.18,
@@ -21156,38 +21716,30 @@
             },
             "Ingress": {
                 "Runic String": {
-                    "-": 14.3,
-                    "Rift Antiskele": 14.43
+                    "-": 11.7
                 },
                 "Ancient String": {
-                    "-": 15.03,
-                    "Rift Antiskele": 14.61
+                    "-": 11.14
                 },
                 "Magical String": {
-                    "-": 14.02,
-                    "Rift Antiskele": 14.34
+                    "-": 8.8
                 },
                 "Brie String": {
-                    "-": 13.67,
-                    "Rift Antiskele": 13.31
+                    "-": 8.86
                 }
             },
             "Ingress (Paladin's Bane)": {
                 "Runic String": {
-                    "-": 14.3,
-                    "Rift Antiskele": 14.43
+                    "-": 11.7
                 },
                 "Ancient String": {
-                    "-": 15.03,
-                    "Rift Antiskele": 14.61
+                    "-": 11.14
                 },
                 "Magical String": {
-                    "-": 14.02,
-                    "Rift Antiskele": 14.34
+                    "-": 8.8
                 },
                 "Brie String": {
-                    "-": 13.67,
-                    "Rift Antiskele": 13.31
+                    "-": 8.86
                 }
             },
             "Runic Laboratory": {
@@ -21232,24 +21784,6 @@
                 "Swiss String": {
                     "-": 18.56,
                     "Rift Antiskele": 19.38
-                }
-            },
-            "Security": {
-                "Runic String": {
-                    "-": 0.4,
-                    "Rift Antiskele": 3.23
-                },
-                "Ancient String": {
-                    "-": 1.12,
-                    "Rift Antiskele": 13.79
-                },
-                "Magical String": {
-                    "-": 1.67,
-                    "Rift Antiskele": 17.65
-                },
-                "Brie String": {
-                    "-": 4.21,
-                    "Rift Antiskele": 37.76
                 }
             },
             "Security (Paladin's Bane)": {
@@ -21372,20 +21906,16 @@
             },
             "Guard Barracks": {
                 "Runic String": {
-                    "-": 65.46,
-                    "Rift Antiskele": 65.45
+                    "-": 65.45
                 },
                 "Ancient String": {
-                    "-": 57.48,
-                    "Rift Antiskele": 57.16
+                    "-": 57.16
                 },
                 "Magical String": {
-                    "-": 45.06,
-                    "Rift Antiskele": 44.94
+                    "-": 44.94
                 },
                 "Brie String": {
-                    "-": 41.27,
-                    "Rift Antiskele": 41.05
+                    "-": 41.05
                 }
             },
             "Hidden Treasury": {
@@ -21518,24 +22048,6 @@
                 "Magical String": {
                     "-": 1.59,
                     "Rift Antiskele": 1.35
-                }
-            },
-            "Security": {
-                "Runic String": {
-                    "-": 7.11,
-                    "Rift Antiskele": 77.42
-                },
-                "Ancient String": {
-                    "-": 6.15,
-                    "Rift Antiskele": 62.07
-                },
-                "Magical String": {
-                    "-": 5.83,
-                    "Rift Antiskele": 76.47
-                },
-                "Brie String": {
-                    "-": 3.33,
-                    "Rift Antiskele": 41.33
                 }
             },
             "Security (Paladin's Bane)": {
@@ -21704,38 +22216,30 @@
             },
             "Ingress": {
                 "Runic String": {
-                    "-": 11.31,
-                    "Rift Antiskele": 11.41
+                    "-": 9.25
                 },
                 "Ancient String": {
-                    "-": 16.08,
-                    "Rift Antiskele": 15.98
+                    "-": 12.18
                 },
                 "Magical String": {
-                    "-": 15.53,
-                    "Rift Antiskele": 15.47
+                    "-": 9.49
                 },
                 "Brie String": {
-                    "-": 9.52,
-                    "Rift Antiskele": 9.35
+                    "-": 6.22
                 }
             },
             "Ingress (Paladin's Bane)": {
                 "Runic String": {
-                    "-": 11.31,
-                    "Rift Antiskele": 11.41
+                    "-": 9.25
                 },
                 "Ancient String": {
-                    "-": 16.08,
-                    "Rift Antiskele": 15.98
+                    "-": 12.18
                 },
                 "Magical String": {
-                    "-": 15.53,
-                    "Rift Antiskele": 15.47
+                    "-": 9.49
                 },
                 "Brie String": {
-                    "-": 9.52,
-                    "Rift Antiskele": 9.35
+                    "-": 6.22
                 }
             },
             "Runic Laboratory": {
@@ -21780,24 +22284,6 @@
                 "Swiss String": {
                     "-": 4.19,
                     "Rift Antiskele": 4.38
-                }
-            },
-            "Security": {
-                "Runic String": {
-                    "-": 0.79,
-                    "Rift Antiskele": 19.35
-                },
-                "Ancient String": {
-                    "-": 1.68,
-                    "Rift Antiskele": 24.14
-                },
-                "Magical String": {
-                    "-": 0.83,
-                    "Rift Antiskele": 5.88
-                },
-                "Brie String": {
-                    "-": 1.88,
-                    "Rift Antiskele": 20.92
                 }
             },
             "Security (Paladin's Bane)": {
@@ -21910,38 +22396,30 @@
             },
             "Ingress": {
                 "Runic String": {
-                    "-": 1.31,
-                    "Rift Antiskele": 1.26
+                    "-": 1.02
                 },
                 "Ancient String": {
-                    "-": 1.75,
-                    "Rift Antiskele": 1.52
+                    "-": 1.16
                 },
                 "Magical String": {
-                    "-": 2.27,
-                    "Rift Antiskele": 2.26
+                    "-": 1.39
                 },
                 "Brie String": {
-                    "-": 2.3,
-                    "Rift Antiskele": 2.12
+                    "-": 1.41
                 }
             },
             "Ingress (Paladin's Bane)": {
                 "Runic String": {
-                    "-": 1.31,
-                    "Rift Antiskele": 1.26
+                    "-": 1.02
                 },
                 "Ancient String": {
-                    "-": 1.75,
-                    "Rift Antiskele": 1.52
+                    "-": 1.16
                 },
                 "Magical String": {
-                    "-": 2.27,
-                    "Rift Antiskele": 2.26
+                    "-": 1.39
                 },
                 "Brie String": {
-                    "-": 2.3,
-                    "Rift Antiskele": 2.12
+                    "-": 1.41
                 }
             },
             "Lucky Tower": {
@@ -22274,12 +22752,6 @@
                     "Rift Antiskele": 3.36
                 }
             },
-            "Entrance (Paladin's Bane)": {
-                "Runic String": {
-                    "-": 3.44,
-                    "Rift Antiskele": 3.76
-                }
-            },
             "Gearworks": {
                 "Magical String": {
                     "-": 4.13,
@@ -22294,30 +22766,13 @@
             },
             "Guard Barracks": {
                 "Runic String": {
-                    "-": 13.45,
-                    "Rift Antiskele": 13.45
+                    "-": 13.45
                 },
                 "Ancient String": {
-                    "-": 9.22,
-                    "Rift Antiskele": 9.36
+                    "-": 9.36
                 },
                 "Magical String": {
-                    "-": 11.96,
-                    "Rift Antiskele": 11.97
-                }
-            },
-            "Guard Barracks (Paladin's Bane)": {
-                "Runic String": {
-                    "-": 38.93,
-                    "Rift Antiskele": 38.94
-                },
-                "Ancient String": {
-                    "-": 21.68,
-                    "Rift Antiskele": 21.85
-                },
-                "Magical String": {
-                    "-": 21.78,
-                    "Rift Antiskele": 21.74
+                    "-": 11.97
                 }
             },
             "Hidden Treasury": {
@@ -22484,12 +22939,6 @@
                 "Runic String": {
                     "-": 3.69,
                     "Rift Antiskele": 3.92
-                }
-            },
-            "Entrance (Paladin's Bane)": {
-                "Runic String": {
-                    "-": 4.12,
-                    "Rift Antiskele": 4.39
                 }
             },
             "Furnace Room": {
@@ -22674,12 +23123,6 @@
                     "Rift Antiskele": 0.56
                 }
             },
-            "Entrance (Paladin's Bane)": {
-                "Runic String": {
-                    "-": 0.69,
-                    "Rift Antiskele": 0.63
-                }
-            },
             "Furnace Room": {
                 "Brie String": {
                     "-": 1.87,
@@ -22738,74 +23181,44 @@
             },
             "Guard Barracks": {
                 "Runic String": {
-                    "-": 2.05,
-                    "Rift Antiskele": 2.01
+                    "-": 2.01
                 },
                 "Ancient String": {
-                    "-": 6.19,
-                    "Rift Antiskele": 6.13
+                    "-": 6.13
                 },
                 "Magical String": {
-                    "-": 14.38,
-                    "Rift Antiskele": 14.5
+                    "-": 14.5
                 },
                 "Brie String": {
-                    "-": 26.61,
-                    "Rift Antiskele": 26.69
-                }
-            },
-            "Guard Barracks (Paladin's Bane)": {
-                "Runic String": {
-                    "-": 5.94,
-                    "Rift Antiskele": 5.82
-                },
-                "Ancient String": {
-                    "-": 14.57,
-                    "Rift Antiskele": 14.3
-                },
-                "Magical String": {
-                    "-": 26.17,
-                    "Rift Antiskele": 26.34
-                },
-                "Brie String": {
-                    "-": 45.31,
-                    "Rift Antiskele": 45.27
+                    "-": 26.69
                 }
             },
             "Ingress": {
                 "Runic String": {
-                    "-": 24.67,
-                    "Rift Antiskele": 25.04
+                    "-": 20.3
                 },
                 "Ancient String": {
-                    "-": 26.92,
-                    "Rift Antiskele": 26.48
+                    "-": 20.19
                 },
                 "Magical String": {
-                    "-": 31.06,
-                    "Rift Antiskele": 30.94
+                    "-": 18.98
                 },
                 "Brie String": {
-                    "-": 30.41,
-                    "Rift Antiskele": 31.3
+                    "-": 20.83
                 }
             },
             "Ingress (Paladin's Bane)": {
                 "Runic String": {
-                    "-": 24.67,
-                    "Rift Antiskele": 25.04
+                    "-": 20.3
                 },
                 "Ancient String": {
-                    "-": 26.92,
-                    "Rift Antiskele": 26.48
+                    "-": 20.19
                 },
                 "Magical String": {
-                    "-": 31.06,
-                    "Rift Antiskele": 30.94
+                    "-": 18.98
                 },
                 "Brie String": {
-                    "-": 30.41,
-                    "Rift Antiskele": 31.3
+                    "-": 20.83
                 }
             },
             "Lucky Tower": {
@@ -22974,12 +23387,12 @@
             },
             "Pursuer Mousoleum": {
                 "Brie String": {
-                    "Rift Antiskele": 6.82
+                    "Rift Antiskele": 2.11
                 }
             },
             "Pursuer Mousoleum (Paladin's Bane)": {
                 "Brie String": {
-                    "Rift Antiskele": 6.82
+                    "Rift Antiskele": 2.11
                 }
             }
         }
@@ -23112,14 +23525,14 @@
             },
             "Pursuer Mousoleum": {
                 "Brie String": {
-                    "-": 5.88,
-                    "Rift Antiskele": 93.18
+                    "-": 5.19,
+                    "Rift Antiskele": 28.87
                 }
             },
             "Pursuer Mousoleum (Paladin's Bane)": {
                 "Brie String": {
-                    "-": 5.88,
-                    "Rift Antiskele": 93.18
+                    "-": 5.19,
+                    "Rift Antiskele": 28.87
                 }
             }
         }
@@ -23174,12 +23587,6 @@
                 "Runic String": {
                     "-": 0.62,
                     "Rift Antiskele": 0.56
-                }
-            },
-            "Entrance (Paladin's Bane)": {
-                "Runic String": {
-                    "-": 0.69,
-                    "Rift Antiskele": 0.63
                 }
             },
             "Frozen Alcove": {
@@ -23264,74 +23671,44 @@
             },
             "Guard Barracks": {
                 "Runic String": {
-                    "-": 1.06,
-                    "Rift Antiskele": 1.03
+                    "-": 1.03
                 },
                 "Ancient String": {
-                    "-": 11.55,
-                    "Rift Antiskele": 11.58
+                    "-": 11.58
                 },
                 "Magical String": {
-                    "-": 18.03,
-                    "Rift Antiskele": 18.04
+                    "-": 18.04
                 },
                 "Brie String": {
-                    "-": 23.11,
-                    "Rift Antiskele": 23.07
-                }
-            },
-            "Guard Barracks (Paladin's Bane)": {
-                "Runic String": {
-                    "-": 3.08,
-                    "Rift Antiskele": 3
-                },
-                "Ancient String": {
-                    "-": 27.16,
-                    "Rift Antiskele": 27.03
-                },
-                "Magical String": {
-                    "-": 32.81,
-                    "Rift Antiskele": 32.76
-                },
-                "Brie String": {
-                    "-": 39.35,
-                    "Rift Antiskele": 39.14
+                    "-": 23.07
                 }
             },
             "Ingress": {
                 "Runic String": {
-                    "-": 24.83,
-                    "Rift Antiskele": 24.59
+                    "-": 19.93
                 },
                 "Ancient String": {
-                    "-": 20.28,
-                    "Rift Antiskele": 22.07
+                    "-": 16.82
                 },
                 "Magical String": {
-                    "-": 31.82,
-                    "Rift Antiskele": 31.7
+                    "-": 19.44
                 },
                 "Brie String": {
-                    "-": 39.78,
-                    "Rift Antiskele": 39.66
+                    "-": 26.39
                 }
             },
             "Ingress (Paladin's Bane)": {
                 "Runic String": {
-                    "-": 24.83,
-                    "Rift Antiskele": 24.59
+                    "-": 19.93
                 },
                 "Ancient String": {
-                    "-": 20.28,
-                    "Rift Antiskele": 22.07
+                    "-": 16.82
                 },
                 "Magical String": {
-                    "-": 31.82,
-                    "Rift Antiskele": 31.7
+                    "-": 19.44
                 },
                 "Brie String": {
-                    "-": 39.78,
-                    "Rift Antiskele": 39.66
+                    "-": 26.39
                 }
             },
             "Lucky Tower": {
@@ -23448,6 +23825,50 @@
                 "Brie String": {
                     "-": 39.89,
                     "Rift Antiskele": 43.15
+                }
+            }
+        }
+    },
+    "Portal Pursuer": {
+        "Bristle Woods Rift": {
+            "Ingress": {
+                "Runic String": {
+                    "-": 18.92
+                },
+                "Ancient String": {
+                    "-": 23.78
+                },
+                "Magical String": {
+                    "-": 38.66
+                },
+                "Brie String": {
+                    "-": 33.46
+                }
+            },
+            "Ingress (Paladin's Bane)": {
+                "Runic String": {
+                    "-": 18.92
+                },
+                "Ancient String": {
+                    "-": 23.78
+                },
+                "Magical String": {
+                    "-": 38.66
+                },
+                "Brie String": {
+                    "-": 33.46
+                }
+            },
+            "Pursuer Mousoleum": {
+                "Brie String": {
+                    "-": 11.85,
+                    "Rift Antiskele": 69.01
+                }
+            },
+            "Pursuer Mousoleum (Paladin's Bane)": {
+                "Brie String": {
+                    "-": 11.85,
+                    "Rift Antiskele": 69.01
                 }
             }
         }
@@ -23762,6 +24183,1600 @@
             "Pagoda": {
                 "Ascended": {
                     "-": 100
+                }
+            }
+        }
+    },
+    "Calligraphy": {
+        "Town of Gnawnia": {
+            "-": {
+                "Dumpling": {
+                    "-": 9.22
+                }
+            }
+        },
+        "Great Gnarled Tree": {
+            "-": {
+                "Dumpling": {
+                    "-": 9.74
+                },
+                "Nian Gao'da": {
+                    "-": 6.29
+                }
+            }
+        },
+        "Dojo": {
+            "-": {
+                "Dumpling": {
+                    "-": 6.87
+                }
+            }
+        },
+        "S.S. Huntington III": {
+            "-": {
+                "Dumpling": {
+                    "-": 7.61
+                },
+                "Nian Gao'da": {
+                    "-": 6.43
+                }
+            }
+        },
+        "King's Gauntlet": {
+            "-": {
+                "Dumpling": {
+                    "-": 7.83
+                },
+                "Nian Gao'da": {
+                    "-": 8.34
+                }
+            }
+        },
+        "Claw Shot City": {
+            "-": {
+                "Dumpling": {
+                    "-": 7.97
+                },
+                "Nian Gao'da": {
+                    "-": 8.57
+                }
+            }
+        },
+        "Muridae Market": {
+            "-": {
+                "Dumpling": {
+                    "-": 9.34
+                },
+                "Nian Gao'da": {
+                    "-": 6.48
+                }
+            }
+        },
+        "Gnawnia Rift": {
+            "-": {
+                "Dumpling": {
+                    "-": 8.11
+                },
+                "Nian Gao'da": {
+                    "-": 6.67
+                }
+            }
+        },
+        "Fungal Cavern": {
+            "-": {
+                "Dumpling": {
+                    "-": 7.26
+                },
+                "Nian Gao'da": {
+                    "-": 8.01
+                }
+            }
+        },
+        "Moussu Picchu": {
+            "-": {
+                "Dumpling": {
+                    "-": 8.63
+                },
+                "Nian Gao'da": {
+                    "-": 7.03
+                }
+            }
+        }
+    },
+    "Red Envelope": {
+        "Town of Gnawnia": {
+            "-": {
+                "Dumpling": {
+                    "-": 6.03
+                }
+            }
+        },
+        "Great Gnarled Tree": {
+            "-": {
+                "Dumpling": {
+                    "-": 6.32
+                },
+                "Nian Gao'da": {
+                    "-": 10.06
+                }
+            }
+        },
+        "Dojo": {
+            "-": {
+                "Dumpling": {
+                    "-": 6.65
+                }
+            }
+        },
+        "S.S. Huntington III": {
+            "-": {
+                "Dumpling": {
+                    "-": 7.75
+                },
+                "Nian Gao'da": {
+                    "-": 6.9
+                }
+            }
+        },
+        "King's Gauntlet": {
+            "-": {
+                "Dumpling": {
+                    "-": 7.38
+                },
+                "Nian Gao'da": {
+                    "-": 8.04
+                }
+            }
+        },
+        "Claw Shot City": {
+            "-": {
+                "Dumpling": {
+                    "-": 5.8
+                },
+                "Nian Gao'da": {
+                    "-": 6.23
+                }
+            }
+        },
+        "Muridae Market": {
+            "-": {
+                "Dumpling": {
+                    "-": 9.98
+                },
+                "Nian Gao'da": {
+                    "-": 11.11
+                }
+            }
+        },
+        "Gnawnia Rift": {
+            "-": {
+                "Dumpling": {
+                    "-": 8.27
+                },
+                "Nian Gao'da": {
+                    "-": 7.11
+                }
+            }
+        },
+        "Fungal Cavern": {
+            "-": {
+                "Dumpling": {
+                    "-": 6.93
+                },
+                "Nian Gao'da": {
+                    "-": 5.97
+                }
+            }
+        },
+        "Moussu Picchu": {
+            "-": {
+                "Dumpling": {
+                    "-": 7.08
+                },
+                "Nian Gao'da": {
+                    "-": 7.99
+                }
+            }
+        }
+    },
+    "Costumed Rabbit": {
+        "Town of Gnawnia": {
+            "-": {
+                "Dumpling": {
+                    "-": 3.01
+                }
+            }
+        },
+        "Great Gnarled Tree": {
+            "-": {
+                "Dumpling": {
+                    "-": 2.37
+                },
+                "Nian Gao'da": {
+                    "-": 1.26
+                }
+            }
+        },
+        "Dojo": {
+            "-": {
+                "Dumpling": {
+                    "-": 2
+                }
+            }
+        },
+        "S.S. Huntington III": {
+            "-": {
+                "Dumpling": {
+                    "-": 2.18
+                },
+                "Nian Gao'da": {
+                    "-": 1.3
+                }
+            }
+        },
+        "King's Gauntlet": {
+            "-": {
+                "Dumpling": {
+                    "-": 2.15
+                },
+                "Nian Gao'da": {
+                    "-": 3.57
+                }
+            }
+        },
+        "Claw Shot City": {
+            "-": {
+                "Dumpling": {
+                    "-": 1.16
+                },
+                "Nian Gao'da": {
+                    "-": 3.12
+                }
+            }
+        },
+        "Muridae Market": {
+            "-": {
+                "Dumpling": {
+                    "-": 2.25
+                },
+                "Nian Gao'da": {
+                    "-": 2.31
+                }
+            }
+        },
+        "Gnawnia Rift": {
+            "-": {
+                "Dumpling": {
+                    "-": 2.57
+                },
+                "Nian Gao'da": {
+                    "-": 2.08
+                }
+            }
+        },
+        "Fungal Cavern": {
+            "-": {
+                "Dumpling": {
+                    "-": 2.25
+                },
+                "Nian Gao'da": {
+                    "-": 2.27
+                }
+            }
+        },
+        "Moussu Picchu": {
+            "-": {
+                "Dumpling": {
+                    "-": 1.94
+                },
+                "Nian Gao'da": {
+                    "-": 2.95
+                }
+            }
+        }
+    },
+    "Wave Racer": {
+        "Town of Gnawnia": {
+            "-": {
+                "Dumpling": {
+                    "-": 2.84
+                }
+            }
+        },
+        "Great Gnarled Tree": {
+            "-": {
+                "Dumpling": {
+                    "-": 5.53
+                },
+                "Nian Gao'da": {
+                    "-": 1.89
+                }
+            }
+        },
+        "Dojo": {
+            "-": {
+                "Dumpling": {
+                    "-": 3.99
+                }
+            }
+        },
+        "S.S. Huntington III": {
+            "-": {
+                "Dumpling": {
+                    "-": 4.09
+                },
+                "Nian Gao'da": {
+                    "-": 3.08
+                }
+            }
+        },
+        "King's Gauntlet": {
+            "-": {
+                "Dumpling": {
+                    "-": 4.97
+                },
+                "Nian Gao'da": {
+                    "-": 4.37
+                }
+            }
+        },
+        "Claw Shot City": {
+            "-": {
+                "Dumpling": {
+                    "-": 3.77
+                },
+                "Nian Gao'da": {
+                    "-": 0.26
+                }
+            }
+        },
+        "Muridae Market": {
+            "-": {
+                "Dumpling": {
+                    "-": 1.45
+                },
+                "Nian Gao'da": {
+                    "-": 2.78
+                }
+            }
+        },
+        "Gnawnia Rift": {
+            "-": {
+                "Dumpling": {
+                    "-": 3.86
+                },
+                "Nian Gao'da": {
+                    "-": 2.52
+                }
+            }
+        },
+        "Fungal Cavern": {
+            "-": {
+                "Dumpling": {
+                    "-": 4.82
+                },
+                "Nian Gao'da": {
+                    "-": 2.56
+                }
+            }
+        },
+        "Moussu Picchu": {
+            "-": {
+                "Dumpling": {
+                    "-": 3.3
+                },
+                "Nian Gao'da": {
+                    "-": 1.56
+                }
+            }
+        }
+    },
+    "Costumed Tiger": {
+        "Town of Gnawnia": {
+            "-": {
+                "Dumpling": {
+                    "-": 2.3
+                }
+            }
+        },
+        "Great Gnarled Tree": {
+            "-": {
+                "Dumpling": {
+                    "-": 2.37
+                },
+                "Nian Gao'da": {
+                    "-": 1.89
+                }
+            }
+        },
+        "Dojo": {
+            "-": {
+                "Dumpling": {
+                    "-": 1.11
+                }
+            }
+        },
+        "S.S. Huntington III": {
+            "-": {
+                "Dumpling": {
+                    "-": 2.46
+                },
+                "Nian Gao'da": {
+                    "-": 3.36
+                }
+            }
+        },
+        "King's Gauntlet": {
+            "-": {
+                "Dumpling": {
+                    "-": 1.56
+                },
+                "Nian Gao'da": {
+                    "-": 2.88
+                }
+            }
+        },
+        "Claw Shot City": {
+            "-": {
+                "Dumpling": {
+                    "-": 1.88
+                },
+                "Nian Gao'da": {
+                    "-": 2.08
+                }
+            }
+        },
+        "Muridae Market": {
+            "-": {
+                "Dumpling": {
+                    "-": 2.42
+                },
+                "Nian Gao'da": {
+                    "-": 1.85
+                }
+            }
+        },
+        "Gnawnia Rift": {
+            "-": {
+                "Dumpling": {
+                    "-": 2.73
+                },
+                "Nian Gao'da": {
+                    "-": 2.19
+                }
+            }
+        },
+        "Fungal Cavern": {
+            "-": {
+                "Dumpling": {
+                    "-": 2.42
+                },
+                "Nian Gao'da": {
+                    "-": 2.65
+                }
+            }
+        },
+        "Moussu Picchu": {
+            "-": {
+                "Dumpling": {
+                    "-": 2.72
+                },
+                "Nian Gao'da": {
+                    "-": 2.26
+                }
+            }
+        }
+    },
+    "Costumed Dog": {
+        "Town of Gnawnia": {
+            "-": {
+                "Dumpling": {
+                    "-": 2.3
+                }
+            }
+        },
+        "Great Gnarled Tree": {
+            "-": {
+                "Dumpling": {
+                    "-": 3.16
+                },
+                "Nian Gao'da": {
+                    "-": 2.52
+                }
+            }
+        },
+        "Dojo": {
+            "-": {
+                "Dumpling": {
+                    "-": 1.33
+                }
+            }
+        },
+        "S.S. Huntington III": {
+            "-": {
+                "Dumpling": {
+                    "-": 1.81
+                },
+                "Nian Gao'da": {
+                    "-": 3.08
+                }
+            }
+        },
+        "King's Gauntlet": {
+            "-": {
+                "Dumpling": {
+                    "-": 2.49
+                },
+                "Nian Gao'da": {
+                    "-": 2.78
+                }
+            }
+        },
+        "Claw Shot City": {
+            "-": {
+                "Dumpling": {
+                    "-": 1.88
+                },
+                "Nian Gao'da": {
+                    "-": 2.6
+                }
+            }
+        },
+        "Muridae Market": {
+            "-": {
+                "Dumpling": {
+                    "-": 1.93
+                },
+                "Nian Gao'da": {
+                    "-": 1.39
+                }
+            }
+        },
+        "Gnawnia Rift": {
+            "-": {
+                "Dumpling": {
+                    "-": 2.33
+                },
+                "Nian Gao'da": {
+                    "-": 2.3
+                }
+            }
+        },
+        "Fungal Cavern": {
+            "-": {
+                "Dumpling": {
+                    "-": 2.3
+                },
+                "Nian Gao'da": {
+                    "-": 2.94
+                }
+            }
+        },
+        "Moussu Picchu": {
+            "-": {
+                "Dumpling": {
+                    "-": 1.79
+                },
+                "Nian Gao'da": {
+                    "-": 2.34
+                }
+            }
+        }
+    },
+    "Costumed Dragon": {
+        "Town of Gnawnia": {
+            "-": {
+                "Dumpling": {
+                    "-": 1.95
+                }
+            }
+        },
+        "Great Gnarled Tree": {
+            "-": {
+                "Dumpling": {
+                    "-": 2.11
+                },
+                "Nian Gao'da": {
+                    "-": 1.89
+                }
+            }
+        },
+        "Dojo": {
+            "-": {
+                "Dumpling": {
+                    "-": 1.33
+                }
+            }
+        },
+        "S.S. Huntington III": {
+            "-": {
+                "Dumpling": {
+                    "-": 2.18
+                },
+                "Nian Gao'da": {
+                    "-": 2.14
+                }
+            }
+        },
+        "King's Gauntlet": {
+            "-": {
+                "Dumpling": {
+                    "-": 2.15
+                },
+                "Nian Gao'da": {
+                    "-": 1.89
+                }
+            }
+        },
+        "Claw Shot City": {
+            "-": {
+                "Dumpling": {
+                    "-": 3.19
+                },
+                "Nian Gao'da": {
+                    "-": 1.56
+                }
+            }
+        },
+        "Muridae Market": {
+            "-": {
+                "Dumpling": {
+                    "-": 1.77
+                },
+                "Nian Gao'da": {
+                    "-": 1.85
+                }
+            }
+        },
+        "Gnawnia Rift": {
+            "-": {
+                "Dumpling": {
+                    "-": 2.49
+                },
+                "Nian Gao'da": {
+                    "-": 2.52
+                }
+            }
+        },
+        "Fungal Cavern": {
+            "-": {
+                "Dumpling": {
+                    "-": 2.4
+                },
+                "Nian Gao'da": {
+                    "-": 3.03
+                }
+            }
+        },
+        "Moussu Picchu": {
+            "-": {
+                "Dumpling": {
+                    "-": 2.42
+                },
+                "Nian Gao'da": {
+                    "-": 2.17
+                }
+            }
+        }
+    },
+    "Costumed Sheep": {
+        "Town of Gnawnia": {
+            "-": {
+                "Dumpling": {
+                    "-": 1.95
+                }
+            }
+        },
+        "Great Gnarled Tree": {
+            "-": {
+                "Dumpling": {
+                    "-": 1.84
+                },
+                "Nian Gao'da": {
+                    "-": 3.14
+                }
+            }
+        },
+        "Dojo": {
+            "-": {
+                "Dumpling": {
+                    "-": 2.22
+                }
+            }
+        },
+        "S.S. Huntington III": {
+            "-": {
+                "Dumpling": {
+                    "-": 1.86
+                },
+                "Nian Gao'da": {
+                    "-": 2.33
+                }
+            }
+        },
+        "King's Gauntlet": {
+            "-": {
+                "Dumpling": {
+                    "-": 2
+                },
+                "Nian Gao'da": {
+                    "-": 1.79
+                }
+            }
+        },
+        "Claw Shot City": {
+            "-": {
+                "Dumpling": {
+                    "-": 1.74
+                },
+                "Nian Gao'da": {
+                    "-": 1.56
+                }
+            }
+        },
+        "Muridae Market": {
+            "-": {
+                "Dumpling": {
+                    "-": 2.09
+                },
+                "Nian Gao'da": {
+                    "-": 4.63
+                }
+            }
+        },
+        "Gnawnia Rift": {
+            "-": {
+                "Dumpling": {
+                    "-": 2.33
+                },
+                "Nian Gao'da": {
+                    "-": 1.97
+                }
+            }
+        },
+        "Fungal Cavern": {
+            "-": {
+                "Dumpling": {
+                    "-": 1.78
+                },
+                "Nian Gao'da": {
+                    "-": 2.46
+                }
+            }
+        },
+        "Moussu Picchu": {
+            "-": {
+                "Dumpling": {
+                    "-": 2.23
+                },
+                "Nian Gao'da": {
+                    "-": 2
+                }
+            }
+        }
+    },
+    "Extreme Everysports": {
+        "Town of Gnawnia": {
+            "-": {
+                "Dumpling": {
+                    "-": 1.95
+                }
+            }
+        },
+        "Great Gnarled Tree": {
+            "-": {
+                "Dumpling": {
+                    "-": 5
+                },
+                "Nian Gao'da": {
+                    "-": 2.52
+                }
+            }
+        },
+        "Dojo": {
+            "-": {
+                "Dumpling": {
+                    "-": 5.54
+                }
+            }
+        },
+        "S.S. Huntington III": {
+            "-": {
+                "Dumpling": {
+                    "-": 4.46
+                },
+                "Nian Gao'da": {
+                    "-": 2.7
+                }
+            }
+        },
+        "King's Gauntlet": {
+            "-": {
+                "Dumpling": {
+                    "-": 4.82
+                },
+                "Nian Gao'da": {
+                    "-": 4.27
+                }
+            }
+        },
+        "Claw Shot City": {
+            "-": {
+                "Dumpling": {
+                    "-": 5.07
+                },
+                "Nian Gao'da": {
+                    "-": 1.82
+                }
+            }
+        },
+        "Muridae Market": {
+            "-": {
+                "Dumpling": {
+                    "-": 2.25
+                },
+                "Nian Gao'da": {
+                    "-": 2.78
+                }
+            }
+        },
+        "Gnawnia Rift": {
+            "-": {
+                "Dumpling": {
+                    "-": 2.97
+                },
+                "Nian Gao'da": {
+                    "-": 2.74
+                }
+            }
+        },
+        "Fungal Cavern": {
+            "-": {
+                "Dumpling": {
+                    "-": 4.68
+                },
+                "Nian Gao'da": {
+                    "-": 3.08
+                }
+            }
+        },
+        "Moussu Picchu": {
+            "-": {
+                "Dumpling": {
+                    "-": 3.69
+                },
+                "Nian Gao'da": {
+                    "-": 2.26
+                }
+            }
+        }
+    },
+    "Costumed Rooster": {
+        "Town of Gnawnia": {
+            "-": {
+                "Dumpling": {
+                    "-": 1.77
+                }
+            }
+        },
+        "Great Gnarled Tree": {
+            "-": {
+                "Dumpling": {
+                    "-": 1.05
+                },
+                "Nian Gao'da": {
+                    "-": 3.14
+                }
+            }
+        },
+        "Dojo": {
+            "-": {
+                "Dumpling": {
+                    "-": 2.44
+                }
+            }
+        },
+        "S.S. Huntington III": {
+            "-": {
+                "Dumpling": {
+                    "-": 2.32
+                },
+                "Nian Gao'da": {
+                    "-": 2.8
+                }
+            }
+        },
+        "King's Gauntlet": {
+            "-": {
+                "Dumpling": {
+                    "-": 1.97
+                },
+                "Nian Gao'da": {
+                    "-": 1.99
+                }
+            }
+        },
+        "Claw Shot City": {
+            "-": {
+                "Dumpling": {
+                    "-": 1.59
+                },
+                "Nian Gao'da": {
+                    "-": 1.56
+                }
+            }
+        },
+        "Muridae Market": {
+            "-": {
+                "Dumpling": {
+                    "-": 1.77
+                },
+                "Nian Gao'da": {
+                    "-": 1.85
+                }
+            }
+        },
+        "Gnawnia Rift": {
+            "-": {
+                "Dumpling": {
+                    "-": 1.53
+                },
+                "Nian Gao'da": {
+                    "-": 2.63
+                }
+            }
+        },
+        "Fungal Cavern": {
+            "-": {
+                "Dumpling": {
+                    "-": 1.92
+                },
+                "Nian Gao'da": {
+                    "-": 2.61
+                }
+            }
+        },
+        "Moussu Picchu": {
+            "-": {
+                "Dumpling": {
+                    "-": 2.09
+                },
+                "Nian Gao'da": {
+                    "-": 2.26
+                }
+            }
+        }
+    },
+    "Hurdle": {
+        "Town of Gnawnia": {
+            "-": {
+                "Dumpling": {
+                    "-": 1.77
+                }
+            }
+        },
+        "Great Gnarled Tree": {
+            "-": {
+                "Dumpling": {
+                    "-": 4.21
+                },
+                "Nian Gao'da": {
+                    "-": 4.4
+                }
+            }
+        },
+        "Dojo": {
+            "-": {
+                "Dumpling": {
+                    "-": 7.54
+                }
+            }
+        },
+        "S.S. Huntington III": {
+            "-": {
+                "Dumpling": {
+                    "-": 5.2
+                },
+                "Nian Gao'da": {
+                    "-": 4.47
+                }
+            }
+        },
+        "King's Gauntlet": {
+            "-": {
+                "Dumpling": {
+                    "-": 4.97
+                },
+                "Nian Gao'da": {
+                    "-": 4.67
+                }
+            }
+        },
+        "Claw Shot City": {
+            "-": {
+                "Dumpling": {
+                    "-": 3.19
+                },
+                "Nian Gao'da": {
+                    "-": 3.12
+                }
+            }
+        },
+        "Muridae Market": {
+            "-": {
+                "Dumpling": {
+                    "-": 2.9
+                },
+                "Nian Gao'da": {
+                    "-": 6.02
+                }
+            }
+        },
+        "Gnawnia Rift": {
+            "-": {
+                "Dumpling": {
+                    "-": 3.45
+                },
+                "Nian Gao'da": {
+                    "-": 3.61
+                }
+            }
+        },
+        "Fungal Cavern": {
+            "-": {
+                "Dumpling": {
+                    "-": 5.79
+                },
+                "Nian Gao'da": {
+                    "-": 4.22
+                }
+            }
+        },
+        "Moussu Picchu": {
+            "-": {
+                "Dumpling": {
+                    "-": 3.88
+                },
+                "Nian Gao'da": {
+                    "-": 3.21
+                }
+            }
+        }
+    },
+    "Costumed Snake": {
+        "Town of Gnawnia": {
+            "-": {
+                "Dumpling": {
+                    "-": 1.6
+                }
+            }
+        },
+        "Great Gnarled Tree": {
+            "-": {
+                "Dumpling": {
+                    "-": 2.63
+                },
+                "Nian Gao'da": {
+                    "-": 1.89
+                }
+            }
+        },
+        "Dojo": {
+            "-": {
+                "Dumpling": {
+                    "-": 1.55
+                }
+            }
+        },
+        "S.S. Huntington III": {
+            "-": {
+                "Dumpling": {
+                    "-": 2.37
+                },
+                "Nian Gao'da": {
+                    "-": 2.61
+                }
+            }
+        },
+        "King's Gauntlet": {
+            "-": {
+                "Dumpling": {
+                    "-": 1.89
+                },
+                "Nian Gao'da": {
+                    "-": 2.58
+                }
+            }
+        },
+        "Claw Shot City": {
+            "-": {
+                "Dumpling": {
+                    "-": 1.45
+                },
+                "Nian Gao'da": {
+                    "-": 2.6
+                }
+            }
+        },
+        "Muridae Market": {
+            "-": {
+                "Dumpling": {
+                    "-": 1.45
+                },
+                "Nian Gao'da": {
+                    "-": 0.93
+                }
+            }
+        },
+        "Gnawnia Rift": {
+            "-": {
+                "Dumpling": {
+                    "-": 2.25
+                },
+                "Nian Gao'da": {
+                    "-": 2.41
+                }
+            }
+        },
+        "Fungal Cavern": {
+            "-": {
+                "Dumpling": {
+                    "-": 2.5
+                },
+                "Nian Gao'da": {
+                    "-": 3.08
+                }
+            }
+        },
+        "Moussu Picchu": {
+            "-": {
+                "Dumpling": {
+                    "-": 2.04
+                },
+                "Nian Gao'da": {
+                    "-": 2.34
+                }
+            }
+        }
+    },
+    "Winter Games": {
+        "Town of Gnawnia": {
+            "-": {
+                "Dumpling": {
+                    "-": 1.6
+                }
+            }
+        },
+        "Great Gnarled Tree": {
+            "-": {
+                "Dumpling": {
+                    "-": 3.68
+                },
+                "Nian Gao'da": {
+                    "-": 3.14
+                }
+            }
+        },
+        "Dojo": {
+            "-": {
+                "Dumpling": {
+                    "-": 4.66
+                }
+            }
+        },
+        "S.S. Huntington III": {
+            "-": {
+                "Dumpling": {
+                    "-": 3.67
+                },
+                "Nian Gao'da": {
+                    "-": 2.8
+                }
+            }
+        },
+        "King's Gauntlet": {
+            "-": {
+                "Dumpling": {
+                    "-": 5.23
+                },
+                "Nian Gao'da": {
+                    "-": 3.77
+                }
+            }
+        },
+        "Claw Shot City": {
+            "-": {
+                "Dumpling": {
+                    "-": 4.49
+                },
+                "Nian Gao'da": {
+                    "-": 0.52
+                }
+            }
+        },
+        "Muridae Market": {
+            "-": {
+                "Dumpling": {
+                    "-": 3.38
+                },
+                "Nian Gao'da": {
+                    "-": 1.85
+                }
+            }
+        },
+        "Gnawnia Rift": {
+            "-": {
+                "Dumpling": {
+                    "-": 3.21
+                },
+                "Nian Gao'da": {
+                    "-": 3.5
+                }
+            }
+        },
+        "Fungal Cavern": {
+            "-": {
+                "Dumpling": {
+                    "-": 4.92
+                },
+                "Nian Gao'da": {
+                    "-": 2.46
+                }
+            }
+        },
+        "Moussu Picchu": {
+            "-": {
+                "Dumpling": {
+                    "-": 3.44
+                },
+                "Nian Gao'da": {
+                    "-": 1.39
+                }
+            }
+        }
+    },
+    "Costumed Horse": {
+        "Town of Gnawnia": {
+            "-": {
+                "Dumpling": {
+                    "-": 1.24
+                }
+            }
+        },
+        "Great Gnarled Tree": {
+            "-": {
+                "Dumpling": {
+                    "-": 3.16
+                },
+                "Nian Gao'da": {
+                    "-": 4.4
+                }
+            }
+        },
+        "Dojo": {
+            "-": {
+                "Dumpling": {
+                    "-": 2.22
+                }
+            }
+        },
+        "S.S. Huntington III": {
+            "-": {
+                "Dumpling": {
+                    "-": 2.41
+                },
+                "Nian Gao'da": {
+                    "-": 2.24
+                }
+            }
+        },
+        "King's Gauntlet": {
+            "-": {
+                "Dumpling": {
+                    "-": 1.93
+                },
+                "Nian Gao'da": {
+                    "-": 2.18
+                }
+            }
+        },
+        "Claw Shot City": {
+            "-": {
+                "Dumpling": {
+                    "-": 2.03
+                },
+                "Nian Gao'da": {
+                    "-": 4.68
+                }
+            }
+        },
+        "Muridae Market": {
+            "-": {
+                "Dumpling": {
+                    "-": 2.25
+                },
+                "Nian Gao'da": {
+                    "-": 2.78
+                }
+            }
+        },
+        "Gnawnia Rift": {
+            "-": {
+                "Dumpling": {
+                    "-": 2.17
+                },
+                "Nian Gao'da": {
+                    "-": 2.3
+                }
+            }
+        },
+        "Fungal Cavern": {
+            "-": {
+                "Dumpling": {
+                    "-": 2.09
+                },
+                "Nian Gao'da": {
+                    "-": 2.56
+                }
+            }
+        },
+        "Moussu Picchu": {
+            "-": {
+                "Dumpling": {
+                    "-": 2.67
+                },
+                "Nian Gao'da": {
+                    "-": 1.91
+                }
+            }
+        }
+    },
+    "Trampoline": {
+        "Town of Gnawnia": {
+            "-": {
+                "Dumpling": {
+                    "-": 1.24
+                }
+            }
+        },
+        "Great Gnarled Tree": {
+            "-": {
+                "Dumpling": {
+                    "-": 3.95
+                },
+                "Nian Gao'da": {
+                    "-": 3.14
+                }
+            }
+        },
+        "Dojo": {
+            "-": {
+                "Dumpling": {
+                    "-": 2.88
+                }
+            }
+        },
+        "S.S. Huntington III": {
+            "-": {
+                "Dumpling": {
+                    "-": 4.83
+                },
+                "Nian Gao'da": {
+                    "-": 2.14
+                }
+            }
+        },
+        "King's Gauntlet": {
+            "-": {
+                "Dumpling": {
+                    "-": 5.08
+                },
+                "Nian Gao'da": {
+                    "-": 3.28
+                }
+            }
+        },
+        "Claw Shot City": {
+            "-": {
+                "Dumpling": {
+                    "-": 4.35
+                },
+                "Nian Gao'da": {
+                    "-": 1.3
+                }
+            }
+        },
+        "Muridae Market": {
+            "-": {
+                "Dumpling": {
+                    "-": 1.77
+                },
+                "Nian Gao'da": {
+                    "-": 2.78
+                }
+            }
+        },
+        "Gnawnia Rift": {
+            "-": {
+                "Dumpling": {
+                    "-": 3.13
+                },
+                "Nian Gao'da": {
+                    "-": 3.17
+                }
+            }
+        },
+        "Fungal Cavern": {
+            "-": {
+                "Dumpling": {
+                    "-": 5.01
+                },
+                "Nian Gao'da": {
+                    "-": 2.23
+                }
+            }
+        },
+        "Moussu Picchu": {
+            "-": {
+                "Dumpling": {
+                    "-": 4.22
+                },
+                "Nian Gao'da": {
+                    "-": 1.65
+                }
+            }
+        }
+    },
+    "Costumed Monkey": {
+        "Town of Gnawnia": {
+            "-": {
+                "Dumpling": {
+                    "-": 1.06
+                }
+            }
+        },
+        "Great Gnarled Tree": {
+            "-": {
+                "Dumpling": {
+                    "-": 1.84
+                },
+                "Nian Gao'da": {
+                    "-": 1.89
+                }
+            }
+        },
+        "Dojo": {
+            "-": {
+                "Dumpling": {
+                    "-": 1.77
+                }
+            }
+        },
+        "S.S. Huntington III": {
+            "-": {
+                "Dumpling": {
+                    "-": 1.67
+                },
+                "Nian Gao'da": {
+                    "-": 2.52
+                }
+            }
+        },
+        "King's Gauntlet": {
+            "-": {
+                "Dumpling": {
+                    "-": 1.89
+                },
+                "Nian Gao'da": {
+                    "-": 3.08
+                }
+            }
+        },
+        "Claw Shot City": {
+            "-": {
+                "Dumpling": {
+                    "-": 1.45
+                },
+                "Nian Gao'da": {
+                    "-": 2.08
+                }
+            }
+        },
+        "Muridae Market": {
+            "-": {
+                "Dumpling": {
+                    "-": 1.77
+                },
+                "Nian Gao'da": {
+                    "-": 3.7
+                }
+            }
+        },
+        "Gnawnia Rift": {
+            "-": {
+                "Dumpling": {
+                    "-": 2.57
+                },
+                "Nian Gao'da": {
+                    "-": 2.08
+                }
+            }
+        },
+        "Fungal Cavern": {
+            "-": {
+                "Dumpling": {
+                    "-": 2.13
+                },
+                "Nian Gao'da": {
+                    "-": 2.65
+                }
+            }
+        },
+        "Moussu Picchu": {
+            "-": {
+                "Dumpling": {
+                    "-": 1.84
+                },
+                "Nian Gao'da": {
+                    "-": 3.04
+                }
+            }
+        }
+    },
+    "Lunar Red Candle Maker": {
+        "Great Gnarled Tree": {
+            "-": {
+                "Nian Gao'da": {
+                    "-": 18.24
+                }
+            }
+        },
+        "S.S. Huntington III": {
+            "-": {
+                "Nian Gao'da": {
+                    "-": 17.05
+                }
+            }
+        },
+        "King's Gauntlet": {
+            "-": {
+                "Nian Gao'da": {
+                    "-": 19.86
+                }
+            }
+        },
+        "Claw Shot City": {
+            "-": {
+                "Nian Gao'da": {
+                    "-": 17.66
+                }
+            }
+        },
+        "Muridae Market": {
+            "-": {
+                "Nian Gao'da": {
+                    "-": 18.06
+                }
+            }
+        },
+        "Gnawnia Rift": {
+            "-": {
+                "Nian Gao'da": {
+                    "-": 19.15
+                }
+            }
+        },
+        "Fungal Cavern": {
+            "-": {
+                "Nian Gao'da": {
+                    "-": 18.25
+                }
+            }
+        },
+        "Moussu Picchu": {
+            "-": {
+                "Nian Gao'da": {
+                    "-": 18.92
                 }
             }
         }

@@ -3839,3 +3839,5 @@ var batteryEffects = {
   9: [190000, 50],
   10: [300000, 100]
 };
+
+module.exports = { miceArray: miceArray }

@@ -1111,6 +1111,66 @@
                     "Circuit Judge": 16.67
                 }
             }
+        },
+        "-": {
+            "Dumpling": {
+                "-": {
+                    "Lasso Cowgirl": 10.87,
+                    "SampleSize": 690,
+                    "Calligraphy": 7.97,
+                    "Saloon Gal": 7.39,
+                    "Ruffian": 7.25,
+                    "Dumpling Chef": 6.52,
+                    "Shopkeeper": 6.38,
+                    "Prospector": 6.09,
+                    "Red Envelope": 5.8,
+                    "Extreme Everysports": 5.07,
+                    "Winter Games": 4.49,
+                    "Tumbleweed": 4.49,
+                    "Trampoline": 4.35,
+                    "Wave Racer": 3.77,
+                    "Hurdle": 3.19,
+                    "Costumed Dragon": 3.19,
+                    "Costumed Horse": 2.03,
+                    "Costumed Tiger": 1.88,
+                    "Costumed Dog": 1.88,
+                    "Costumed Sheep": 1.74,
+                    "Costumed Rooster": 1.59,
+                    "Costumed Snake": 1.45,
+                    "Costumed Monkey": 1.45,
+                    "Costumed Rabbit": 1.16
+                }
+            },
+            "Nian Gao'da": {
+                "-": {
+                    "Lunar Red Candle Maker": 17.66,
+                    "SampleSize": 385,
+                    "Pyrite": 8.57,
+                    "Calligraphy": 8.57,
+                    "Red Envelope": 6.23,
+                    "Prospector": 5.19,
+                    "Shopkeeper": 4.94,
+                    "Lasso Cowgirl": 4.94,
+                    "Costumed Horse": 4.68,
+                    "Saloon Gal": 4.16,
+                    "Ruffian": 3.9,
+                    "Dumpling Chef": 3.9,
+                    "Costumed Rabbit": 3.12,
+                    "Tumbleweed": 3.12,
+                    "Hurdle": 3.12,
+                    "Costumed Snake": 2.6,
+                    "Costumed Dog": 2.6,
+                    "Costumed Tiger": 2.08,
+                    "Costumed Monkey": 2.08,
+                    "Extreme Everysports": 1.82,
+                    "Costumed Dragon": 1.56,
+                    "Costumed Sheep": 1.56,
+                    "Costumed Rooster": 1.56,
+                    "Trampoline": 1.3,
+                    "Winter Games": 0.52,
+                    "Wave Racer": 0.26
+                }
+            }
         }
     },
     "Crystal Library": {
@@ -1458,6 +1518,37 @@
                     "Diamond": 5.34,
                     "Worker": 4.28,
                     "Assassin": 1.7
+                }
+            },
+            "Dumpling": {
+                "-": {
+                    "Student of the Cheese Claw": 7.98,
+                    "SampleSize": 451,
+                    "Hurdle": 7.54,
+                    "Dumpling Chef": 7.54,
+                    "Calligraphy": 6.87,
+                    "Red Envelope": 6.65,
+                    "Student of the Cheese Belt": 6.43,
+                    "Extreme Everysports": 5.54,
+                    "Monk": 5.1,
+                    "Student of the Cheese Fang": 5.1,
+                    "Samurai": 4.88,
+                    "Winter Games": 4.66,
+                    "Wave Racer": 3.99,
+                    "Kung Fu": 3.77,
+                    "Trampoline": 2.88,
+                    "Costumed Rooster": 2.44,
+                    "Costumed Horse": 2.22,
+                    "Costumed Sheep": 2.22,
+                    "Ninja": 2.22,
+                    "Costumed Rabbit": 2,
+                    "Archer": 2,
+                    "Costumed Monkey": 1.77,
+                    "Costumed Snake": 1.55,
+                    "Costumed Dragon": 1.33,
+                    "Costumed Dog": 1.33,
+                    "Costumed Tiger": 1.11,
+                    "Hapless": 0.89
                 }
             }
         }
@@ -2801,6 +2892,70 @@
                     "Huntereater": 26.42,
                     "Diamondhide": 9.81
                 }
+            },
+            "Dumpling": {
+                "-": {
+                    "Floating Spore": 10.07,
+                    "SampleSize": 4834,
+                    "Dumpling Chef": 7.45,
+                    "Calligraphy": 7.26,
+                    "Red Envelope": 6.93,
+                    "Hurdle": 5.79,
+                    "Dirt Thing": 5.17,
+                    "Trampoline": 5.01,
+                    "Crag Elder": 4.94,
+                    "Winter Games": 4.92,
+                    "Wave Racer": 4.82,
+                    "Extreme Everysports": 4.68,
+                    "Crystalline Slasher": 4.59,
+                    "Costumed Snake": 2.5,
+                    "Costumed Tiger": 2.42,
+                    "Costumed Dragon": 2.4,
+                    "Costumed Dog": 2.3,
+                    "Costumed Rabbit": 2.25,
+                    "Costumed Monkey": 2.13,
+                    "Costumed Horse": 2.09,
+                    "Lumahead": 1.97,
+                    "Costumed Rooster": 1.92,
+                    "Quillback": 1.88,
+                    "Mushroom Sprite": 1.82,
+                    "Costumed Sheep": 1.78,
+                    "Funglore": 1.7,
+                    "Mush": 1.2
+                }
+            },
+            "Nian Gao'da": {
+                "-": {
+                    "Lunar Red Candle Maker": 18.25,
+                    "SampleSize": 2110,
+                    "Nightshade Masquerade": 8.48,
+                    "Calligraphy": 8.01,
+                    "Red Envelope": 5.97,
+                    "Dumpling Chef": 5.83,
+                    "Hurdle": 4.22,
+                    "Costumed Snake": 3.08,
+                    "Extreme Everysports": 3.08,
+                    "Costumed Dragon": 3.03,
+                    "Crag Elder": 3.03,
+                    "Costumed Dog": 2.94,
+                    "Dirt Thing": 2.84,
+                    "Costumed Monkey": 2.65,
+                    "Costumed Tiger": 2.65,
+                    "Floating Spore": 2.61,
+                    "Costumed Rooster": 2.61,
+                    "Costumed Horse": 2.56,
+                    "Wave Racer": 2.56,
+                    "Costumed Sheep": 2.46,
+                    "Winter Games": 2.46,
+                    "Costumed Rabbit": 2.27,
+                    "Trampoline": 2.23,
+                    "Crystalline Slasher": 2.18,
+                    "Quillback": 1.14,
+                    "Funglore": 1,
+                    "Mushroom Sprite": 0.85,
+                    "Mush": 0.62,
+                    "Lumahead": 0.38
+                }
             }
         }
     },
@@ -2878,6 +3033,69 @@
             "Resonator": {
                 "-": {
                     "Goliath Field": 100
+                }
+            },
+            "Dumpling": {
+                "-": {
+                    "Excitable Electric": 10.44,
+                    "SampleSize": 1245,
+                    "Red Envelope": 8.27,
+                    "Calligraphy": 8.11,
+                    "Agitated Gentle Giant": 7.31,
+                    "Dumpling Chef": 6.91,
+                    "Wealth": 5.78,
+                    "Spiritual Steel": 4.98,
+                    "Mighty Mole": 4.66,
+                    "Wave Racer": 3.86,
+                    "Hurdle": 3.45,
+                    "Winter Games": 3.21,
+                    "Trampoline": 3.13,
+                    "Extreme Everysports": 2.97,
+                    "Shard Centurion": 2.89,
+                    "Costumed Tiger": 2.73,
+                    "Costumed Monkey": 2.57,
+                    "Costumed Rabbit": 2.57,
+                    "Costumed Dragon": 2.49,
+                    "Costumed Sheep": 2.33,
+                    "Costumed Dog": 2.33,
+                    "Costumed Snake": 2.25,
+                    "Costumed Horse": 2.17,
+                    "Cyborg": 1.77,
+                    "Costumed Rooster": 1.53,
+                    "Raw Diamond": 1.29
+                }
+            },
+            "Nian Gao'da": {
+                "-": {
+                    "Lunar Red Candle Maker": 19.15,
+                    "SampleSize": 914,
+                    "Red Envelope": 7.11,
+                    "Calligraphy": 6.67,
+                    "Dumpling Chef": 5.91,
+                    "Micro": 4.38,
+                    "Excitable Electric": 4.27,
+                    "Hurdle": 3.61,
+                    "Winter Games": 3.5,
+                    "Trampoline": 3.17,
+                    "Spiritual Steel": 3.06,
+                    "Dream Drifter": 2.74,
+                    "Extreme Everysports": 2.74,
+                    "Costumed Rooster": 2.63,
+                    "Wealth": 2.63,
+                    "Wave Racer": 2.52,
+                    "Costumed Dragon": 2.52,
+                    "Mighty Mole": 2.41,
+                    "Costumed Snake": 2.41,
+                    "Costumed Dog": 2.3,
+                    "Costumed Horse": 2.3,
+                    "Costumed Tiger": 2.19,
+                    "Costumed Rabbit": 2.08,
+                    "Costumed Monkey": 2.08,
+                    "Costumed Sheep": 1.97,
+                    "Agitated Gentle Giant": 1.86,
+                    "Shard Centurion": 1.53,
+                    "Raw Diamond": 1.2,
+                    "Cyborg": 1.09
                 }
             }
         }
@@ -5002,6 +5220,71 @@
                     "Wicked Witch of Whisker Woods": 1.74,
                     "Bat": 1.42
                 }
+            },
+            "Dumpling": {
+                "-": {
+                    "Dumpling Chef": 9.74,
+                    "SampleSize": 380,
+                    "Calligraphy": 9.74,
+                    "Centaur": 6.84,
+                    "Red Envelope": 6.32,
+                    "Wiggler": 5.79,
+                    "Wave Racer": 5.53,
+                    "Extreme Everysports": 5,
+                    "Fairy": 4.74,
+                    "Hurdle": 4.21,
+                    "Trampoline": 3.95,
+                    "Frog": 3.68,
+                    "Winter Games": 3.68,
+                    "Costumed Horse": 3.16,
+                    "Costumed Dog": 3.16,
+                    "Bear": 2.89,
+                    "Chameleon": 2.63,
+                    "Costumed Snake": 2.63,
+                    "Foxy": 2.37,
+                    "Costumed Tiger": 2.37,
+                    "Costumed Rabbit": 2.37,
+                    "Treant": 2.37,
+                    "Costumed Dragon": 2.11,
+                    "Costumed Sheep": 1.84,
+                    "Costumed Monkey": 1.84,
+                    "Costumed Rooster": 1.05
+                }
+            },
+            "Nian Gao'da": {
+                "-": {
+                    "Lunar Red Candle Maker": 18.24,
+                    "SampleSize": 159,
+                    "Red Envelope": 10.06,
+                    "Dumpling Chef": 8.81,
+                    "Calligraphy": 6.29,
+                    "Costumed Horse": 4.4,
+                    "Hurdle": 4.4,
+                    "Costumed Rooster": 3.14,
+                    "Trampoline": 3.14,
+                    "Costumed Sheep": 3.14,
+                    "Winter Games": 3.14,
+                    "Black Widow": 3.14,
+                    "Foxy": 3.14,
+                    "Costumed Dog": 2.52,
+                    "Extreme Everysports": 2.52,
+                    "Bear": 1.89,
+                    "Centaur": 1.89,
+                    "Costumed Monkey": 1.89,
+                    "Nomad": 1.89,
+                    "Wave Racer": 1.89,
+                    "Costumed Tiger": 1.89,
+                    "Nibbler": 1.89,
+                    "Costumed Dragon": 1.89,
+                    "Costumed Snake": 1.89,
+                    "Tiger": 1.26,
+                    "Costumed Rabbit": 1.26,
+                    "Fairy": 1.26,
+                    "Chameleon": 1.26,
+                    "Frog": 0.63,
+                    "Wiggler": 0.63,
+                    "Treant": 0.63
+                }
             }
         }
     },
@@ -6047,6 +6330,73 @@
             "Tier 8": {
                 "-": {
                     "Eclipse": 100
+                }
+            }
+        },
+        "-": {
+            "Dumpling": {
+                "-": {
+                    "Calligraphy": 7.83,
+                    "SampleSize": 2696,
+                    "Red Envelope": 7.38,
+                    "Dumpling Chef": 6.9,
+                    "Winter Games": 5.23,
+                    "Trampoline": 5.08,
+                    "Wave Racer": 4.97,
+                    "Hurdle": 4.97,
+                    "Extreme Everysports": 4.82,
+                    "Escape Artist": 4.34,
+                    "Fencer": 4.27,
+                    "Hapless Marionette": 4.08,
+                    "Rogue": 3.49,
+                    "Clockwork Samurai": 3.45,
+                    "Puppet Master": 3.26,
+                    "Toy Sylvan": 3.08,
+                    "Sock Puppet Ghost": 3,
+                    "Cavalier": 2.97,
+                    "Wound Up White": 2.86,
+                    "Costumed Dog": 2.49,
+                    "Costumed Rabbit": 2.15,
+                    "Costumed Dragon": 2.15,
+                    "Costumed Sheep": 2,
+                    "Costumed Rooster": 1.97,
+                    "Costumed Horse": 1.93,
+                    "Costumed Snake": 1.89,
+                    "Costumed Monkey": 1.89,
+                    "Costumed Tiger": 1.56
+                }
+            },
+            "Nian Gao'da": {
+                "-": {
+                    "Lunar Red Candle Maker": 19.86,
+                    "SampleSize": 1007,
+                    "Calligraphy": 8.34,
+                    "Red Envelope": 8.04,
+                    "Dumpling Chef": 7.45,
+                    "Hurdle": 4.67,
+                    "Wave Racer": 4.37,
+                    "Extreme Everysports": 4.27,
+                    "Winter Games": 3.77,
+                    "Costumed Rabbit": 3.57,
+                    "Trampoline": 3.28,
+                    "Hapless Marionette": 3.28,
+                    "Costumed Monkey": 3.08,
+                    "Costumed Tiger": 2.88,
+                    "Clockwork Samurai": 2.88,
+                    "Costumed Dog": 2.78,
+                    "Costumed Snake": 2.58,
+                    "Costumed Horse": 2.18,
+                    "Puppet Master": 1.99,
+                    "Costumed Rooster": 1.99,
+                    "Costumed Dragon": 1.89,
+                    "Costumed Sheep": 1.79,
+                    "Wound Up White": 1.79,
+                    "Sock Puppet Ghost": 1.29,
+                    "Toy Sylvan": 0.7,
+                    "Rogue": 0.6,
+                    "Escape Artist": 0.3,
+                    "Fencer": 0.3,
+                    "Cavalier": 0.1
                 }
             }
         }
@@ -7876,6 +8226,69 @@
                     "Falling Carpet": 4.47,
                     "Spice Merchant": 4.1
                 }
+            },
+            "Dumpling": {
+                "-": {
+                    "Lumberjack": 11.43,
+                    "SampleSize": 621,
+                    "Red Envelope": 9.98,
+                    "Calligraphy": 9.34,
+                    "Limestone Miner": 9.02,
+                    "Dumpling Chef": 7.25,
+                    "Glass Blower": 6.44,
+                    "Spice Merchant": 5.48,
+                    "Falling Carpet": 3.7,
+                    "Winter Games": 3.38,
+                    "Hurdle": 2.9,
+                    "Costumed Tiger": 2.42,
+                    "Costumed Horse": 2.25,
+                    "Snake Charmer": 2.25,
+                    "Extreme Everysports": 2.25,
+                    "Desert Nomad": 2.25,
+                    "Costumed Rabbit": 2.25,
+                    "Costumed Sheep": 2.09,
+                    "Costumed Dog": 1.93,
+                    "Market Guard": 1.93,
+                    "Costumed Dragon": 1.77,
+                    "Costumed Monkey": 1.77,
+                    "Costumed Rooster": 1.77,
+                    "Trampoline": 1.77,
+                    "Costumed Snake": 1.45,
+                    "Pie Thief": 1.45,
+                    "Wave Racer": 1.45
+                }
+            },
+            "Nian Gao'da": {
+                "-": {
+                    "Lunar Red Candle Maker": 18.06,
+                    "SampleSize": 216,
+                    "Red Envelope": 11.11,
+                    "Dumpling Chef": 9.26,
+                    "Calligraphy": 6.48,
+                    "Desert Architect": 6.02,
+                    "Hurdle": 6.02,
+                    "Costumed Sheep": 4.63,
+                    "Costumed Monkey": 3.7,
+                    "Extreme Everysports": 2.78,
+                    "Wave Racer": 2.78,
+                    "Limestone Miner": 2.78,
+                    "Costumed Horse": 2.78,
+                    "Trampoline": 2.78,
+                    "Costumed Rabbit": 2.31,
+                    "Glass Blower": 2.31,
+                    "Desert Nomad": 1.85,
+                    "Costumed Tiger": 1.85,
+                    "Costumed Dragon": 1.85,
+                    "Costumed Rooster": 1.85,
+                    "Winter Games": 1.85,
+                    "Costumed Dog": 1.39,
+                    "Falling Carpet": 1.39,
+                    "Lumberjack": 1.39,
+                    "Snake Charmer": 0.93,
+                    "Costumed Snake": 0.93,
+                    "Market Guard": 0.46,
+                    "Spice Merchant": 0.46
+                }
             }
         }
     },
@@ -8106,6 +8519,73 @@
                     "Mermouse": 1.24,
                     "Shelder": 0.19,
                     "Crown Collector": 0.11
+                }
+            },
+            "Dumpling": {
+                "-": {
+                    "Red Envelope": 7.75,
+                    "SampleSize": 2154,
+                    "Calligraphy": 7.61,
+                    "Dumpling Chef": 6.73,
+                    "Hurdle": 5.2,
+                    "Bottled": 4.87,
+                    "Trampoline": 4.83,
+                    "Squeaken": 4.55,
+                    "Swabbie": 4.55,
+                    "Extreme Everysports": 4.46,
+                    "Leviathan": 4.36,
+                    "Pirate": 4.13,
+                    "Shipwrecked": 4.13,
+                    "Wave Racer": 4.09,
+                    "Winter Games": 3.67,
+                    "Siren": 3.48,
+                    "Buccaneer": 3.3,
+                    "Captain": 2.65,
+                    "Costumed Tiger": 2.46,
+                    "Costumed Horse": 2.41,
+                    "Costumed Snake": 2.37,
+                    "Costumed Rooster": 2.32,
+                    "Costumed Rabbit": 2.18,
+                    "Costumed Dragon": 2.18,
+                    "Costumed Sheep": 1.86,
+                    "Costumed Dog": 1.81,
+                    "Costumed Monkey": 1.67,
+                    "Shelder": 0.37
+                }
+            },
+            "Nian Gao'da": {
+                "-": {
+                    "Lunar Red Candle Maker": 17.05,
+                    "SampleSize": 1073,
+                    "Red Envelope": 6.9,
+                    "Calligraphy": 6.43,
+                    "Dumpling Chef": 6.34,
+                    "Hurdle": 4.47,
+                    "Leviathan": 3.91,
+                    "Nibbler": 3.82,
+                    "Cook": 3.45,
+                    "Costumed Tiger": 3.36,
+                    "Wave Racer": 3.08,
+                    "Costumed Dog": 3.08,
+                    "Swabbie": 2.89,
+                    "Costumed Rooster": 2.8,
+                    "Winter Games": 2.8,
+                    "Extreme Everysports": 2.7,
+                    "Costumed Snake": 2.61,
+                    "Squeaken": 2.52,
+                    "Bottled": 2.52,
+                    "Costumed Monkey": 2.52,
+                    "Costumed Sheep": 2.33,
+                    "Costumed Horse": 2.24,
+                    "Trampoline": 2.14,
+                    "Siren": 2.14,
+                    "Costumed Dragon": 2.14,
+                    "Pirate": 1.49,
+                    "Shipwrecked": 1.4,
+                    "Costumed Rabbit": 1.3,
+                    "Buccaneer": 0.93,
+                    "Shelder": 0.37,
+                    "Captain": 0.28
                 }
             }
         }
@@ -9557,6 +10037,35 @@
                     "Diamond": 4.48,
                     "Bionic": 4.48,
                     "Zombie": 2.26
+                }
+            },
+            "Dumpling": {
+                "-": {
+                    "Flying": 10.46,
+                    "SampleSize": 564,
+                    "Calligraphy": 9.22,
+                    "Longtail": 8.51,
+                    "Pugilist": 8.16,
+                    "Dumpling Chef": 7.45,
+                    "Diamond": 6.91,
+                    "Speedy": 6.91,
+                    "Gold": 6.38,
+                    "Red Envelope": 6.03,
+                    "Cowardly": 3.37,
+                    "Costumed Rabbit": 3.01,
+                    "Wave Racer": 2.84,
+                    "Costumed Tiger": 2.3,
+                    "Costumed Dog": 2.3,
+                    "Costumed Dragon": 1.95,
+                    "Costumed Sheep": 1.95,
+                    "Extreme Everysports": 1.95,
+                    "Costumed Rooster": 1.77,
+                    "Hurdle": 1.77,
+                    "Costumed Snake": 1.6,
+                    "Winter Games": 1.6,
+                    "Costumed Horse": 1.24,
+                    "Trampoline": 1.24,
+                    "Costumed Monkey": 1.06
                 }
             }
         }
@@ -12251,6 +12760,66 @@
                     "Rainwater Purifier": 12.69,
                     "Breeze Borrower": 12.61
                 }
+            },
+            "Dumpling": {
+                "-": {
+                    "Calligraphy": 8.63,
+                    "SampleSize": 2062,
+                    "Breeze Borrower": 8.54,
+                    "Spore Salesman": 7.52,
+                    "Red Envelope": 7.08,
+                    "Dumpling Chef": 6.98,
+                    "Windy Farmer": 6.35,
+                    "Cloud Collector": 6.3,
+                    "Nightshade Flower Girl": 5.33,
+                    "Rainwater Purifier": 5,
+                    "Trampoline": 4.22,
+                    "Hurdle": 3.88,
+                    "Extreme Everysports": 3.69,
+                    "Winter Games": 3.44,
+                    "Wave Racer": 3.3,
+                    "Costumed Tiger": 2.72,
+                    "Costumed Horse": 2.67,
+                    "Costumed Dragon": 2.42,
+                    "Costumed Sheep": 2.23,
+                    "Costumed Rooster": 2.09,
+                    "Costumed Snake": 2.04,
+                    "Costumed Rabbit": 1.94,
+                    "Costumed Monkey": 1.84,
+                    "Costumed Dog": 1.79
+                }
+            },
+            "Nian Gao'da": {
+                "-": {
+                    "Lunar Red Candle Maker": 18.92,
+                    "SampleSize": 1152,
+                    "Red Envelope": 7.99,
+                    "Calligraphy": 7.03,
+                    "Dumpling Chef": 6.42,
+                    "Spore Salesman": 4.86,
+                    "Homeopathic Apothecary": 4.34,
+                    "Windy Farmer": 3.82,
+                    "Breeze Borrower": 3.65,
+                    "Cloud Collector": 3.47,
+                    "Nightshade Maiden": 3.3,
+                    "Hurdle": 3.21,
+                    "Costumed Monkey": 3.04,
+                    "Costumed Rabbit": 2.95,
+                    "Nightshade Flower Girl": 2.69,
+                    "Costumed Snake": 2.34,
+                    "Costumed Dog": 2.34,
+                    "Costumed Rooster": 2.26,
+                    "Extreme Everysports": 2.26,
+                    "Costumed Tiger": 2.26,
+                    "Costumed Dragon": 2.17,
+                    "Costumed Sheep": 2,
+                    "Costumed Horse": 1.91,
+                    "Rainwater Purifier": 1.91,
+                    "Trampoline": 1.65,
+                    "Wave Racer": 1.56,
+                    "Winter Games": 1.39,
+                    "Nightshade Masquerade": 0.26
+                }
             }
         },
         "Rain low": {
@@ -12617,8 +13186,8 @@
                     "Record Keeper": 5.48,
                     "Epoch Golem": 4.41,
                     "Dread Knight": 1.13,
-                    "Record Keeper's Assistant": 0.53,
-                    "Sentient Slime": 0.53
+                    "Sentient Slime": 0.53,
+                    "Record Keeper's Assistant": 0.53
                 },
                 "Rift Antiskele": {
                     "Clockwork Timespinner": 45.79,
@@ -12662,8 +13231,8 @@
                     "Portal Plunderer": 3.69,
                     "Epoch Golem": 3.08,
                     "Skeletal Champion": 3.08,
-                    "Sentient Slime": 0.62,
-                    "Clockwork Timespinner": 0.62
+                    "Clockwork Timespinner": 0.62,
+                    "Sentient Slime": 0.62
                 },
                 "Rift Antiskele": {
                     "Vigilant Ward": 80.95,
@@ -12673,27 +13242,6 @@
                     "Epoch Golem": 3.36,
                     "Sentient Slime": 0.56,
                     "Clockwork Timespinner": 0.56
-                }
-            }
-        },
-        "Entrance (Paladin's Bane)": {
-            "Runic String": {
-                "-": {
-                    "Vigilant Ward": 87.63,
-                    "SampleSize": 325,
-                    "Portal Plunderer": 4.12,
-                    "Skeletal Champion": 3.44,
-                    "Epoch Golem": 3.44,
-                    "Clockwork Timespinner": 0.69,
-                    "Sentient Slime": 0.69
-                },
-                "Rift Antiskele": {
-                    "Vigilant Ward": 90.6,
-                    "SampleSize": 368,
-                    "Portal Plunderer": 4.39,
-                    "Epoch Golem": 3.76,
-                    "Clockwork Timespinner": 0.63,
-                    "Sentient Slime": 0.63
                 }
             }
         },
@@ -12821,16 +13369,16 @@
                     "Skeletal Champion": 91.9,
                     "SampleSize": 328,
                     "Portal Paladin": 2.8,
-                    "Portal Plunderer": 1.87,
                     "Clockwork Timespinner": 1.87,
+                    "Portal Plunderer": 1.87,
                     "Dread Knight": 1.56
                 },
                 "Rift Antiskele": {
                     "Portal Paladin": 35.42,
                     "SampleSize": 419,
                     "Clockwork Timespinner": 31.25,
-                    "Dread Knight": 16.67,
-                    "Portal Plunderer": 16.67
+                    "Portal Plunderer": 16.67,
+                    "Dread Knight": 16.67
                 }
             }
         },
@@ -12839,15 +13387,15 @@
                 "-": {
                     "Skeletal Champion": 94.55,
                     "SampleSize": 328,
-                    "Clockwork Timespinner": 1.92,
                     "Portal Plunderer": 1.92,
+                    "Clockwork Timespinner": 1.92,
                     "Dread Knight": 1.6
                 },
                 "Rift Antiskele": {
                     "Clockwork Timespinner": 48.39,
                     "SampleSize": 419,
-                    "Dread Knight": 25.81,
-                    "Portal Plunderer": 25.81
+                    "Portal Plunderer": 25.81,
+                    "Dread Knight": 25.81
                 }
             }
         },
@@ -12882,8 +13430,8 @@
                     "Vigilant Ward": 0.27,
                     "Timelost Thaumaturge": 0.27,
                     "Shackled Servant": 0.09,
-                    "Timeslither Pythoness": 0.05,
-                    "Harbinger of Death": 0.05
+                    "Harbinger of Death": 0.05,
+                    "Timeslither Pythoness": 0.05
                 }
             },
             "Ancient String": {
@@ -13104,14 +13652,6 @@
         "Guard Barracks": {
             "Runic String": {
                 "-": {
-                    "Portal Paladin": 65.46,
-                    "SampleSize": 6785,
-                    "Dread Knight": 17.98,
-                    "Epoch Golem": 13.45,
-                    "Clockwork Timespinner": 2.05,
-                    "Sentient Slime": 1.06
-                },
-                "Rift Antiskele": {
                     "Portal Paladin": 65.45,
                     "SampleSize": 6969,
                     "Dread Knight": 18.05,
@@ -13122,14 +13662,6 @@
             },
             "Ancient String": {
                 "-": {
-                    "Portal Paladin": 57.48,
-                    "SampleSize": 2029,
-                    "Dread Knight": 15.56,
-                    "Sentient Slime": 11.55,
-                    "Epoch Golem": 9.22,
-                    "Clockwork Timespinner": 6.19
-                },
-                "Rift Antiskele": {
                     "Portal Paladin": 57.16,
                     "SampleSize": 2084,
                     "Dread Knight": 15.77,
@@ -13140,14 +13672,6 @@
             },
             "Magical String": {
                 "-": {
-                    "Portal Paladin": 45.06,
-                    "SampleSize": 1864,
-                    "Sentient Slime": 18.03,
-                    "Clockwork Timespinner": 14.38,
-                    "Epoch Golem": 11.96,
-                    "Dread Knight": 10.57
-                },
-                "Rift Antiskele": {
                     "Portal Paladin": 44.94,
                     "SampleSize": 1896,
                     "Sentient Slime": 18.04,
@@ -13158,82 +13682,11 @@
             },
             "Brie String": {
                 "-": {
-                    "Portal Paladin": 41.27,
-                    "SampleSize": 2154,
-                    "Clockwork Timespinner": 26.61,
-                    "Sentient Slime": 23.11,
-                    "Dread Knight": 9.01
-                },
-                "Rift Antiskele": {
                     "Portal Paladin": 41.05,
                     "SampleSize": 2309,
                     "Clockwork Timespinner": 26.69,
                     "Sentient Slime": 23.07,
                     "Dread Knight": 9.19
-                }
-            }
-        },
-        "Guard Barracks (Paladin's Bane)": {
-            "Runic String": {
-                "-": {
-                    "Dread Knight": 52.05,
-                    "SampleSize": 6785,
-                    "Epoch Golem": 38.93,
-                    "Clockwork Timespinner": 5.94,
-                    "Sentient Slime": 3.08
-                },
-                "Rift Antiskele": {
-                    "Dread Knight": 52.25,
-                    "SampleSize": 6969,
-                    "Epoch Golem": 38.94,
-                    "Clockwork Timespinner": 5.82,
-                    "Sentient Slime": 3
-                }
-            },
-            "Ancient String": {
-                "-": {
-                    "Dread Knight": 36.6,
-                    "SampleSize": 2029,
-                    "Sentient Slime": 27.16,
-                    "Epoch Golem": 21.68,
-                    "Clockwork Timespinner": 14.57
-                },
-                "Rift Antiskele": {
-                    "Dread Knight": 36.82,
-                    "SampleSize": 2084,
-                    "Sentient Slime": 27.03,
-                    "Epoch Golem": 21.85,
-                    "Clockwork Timespinner": 14.3
-                }
-            },
-            "Magical String": {
-                "-": {
-                    "Sentient Slime": 32.81,
-                    "SampleSize": 1864,
-                    "Clockwork Timespinner": 26.17,
-                    "Epoch Golem": 21.78,
-                    "Dread Knight": 19.24
-                },
-                "Rift Antiskele": {
-                    "Sentient Slime": 32.76,
-                    "SampleSize": 1896,
-                    "Clockwork Timespinner": 26.34,
-                    "Epoch Golem": 21.74,
-                    "Dread Knight": 19.16
-                }
-            },
-            "Brie String": {
-                "-": {
-                    "Clockwork Timespinner": 45.31,
-                    "SampleSize": 2154,
-                    "Sentient Slime": 39.35,
-                    "Dread Knight": 15.34
-                },
-                "Rift Antiskele": {
-                    "Clockwork Timespinner": 45.27,
-                    "SampleSize": 2309,
-                    "Sentient Slime": 39.14,
-                    "Dread Knight": 15.58
                 }
             }
         },
@@ -13328,8 +13781,8 @@
                     "Timeless Lich": 10.21,
                     "Epoch Golem": 8.72,
                     "Carrion Medium": 6.15,
-                    "Shackled Servant": 5.03,
                     "Skeletal Champion": 5.03,
+                    "Shackled Servant": 5.03,
                     "Portal Paladin": 4.55,
                     "Harbinger of Death": 2.14
                 },
@@ -13452,164 +13905,100 @@
         "Ingress": {
             "Runic String": {
                 "-": {
-                    "Sentient Slime": 24.83,
-                    "SampleSize": 2365,
-                    "Clockwork Timespinner": 24.67,
-                    "Dread Knight": 23.57,
-                    "Vigilant Ward": 14.3,
-                    "Shackled Servant": 11.31,
-                    "Harbinger of Death": 1.31
-                },
-                "Rift Antiskele": {
-                    "Clockwork Timespinner": 25.04,
+                    "Clockwork Timespinner": 20.3,
                     "SampleSize": 2453,
-                    "Sentient Slime": 24.59,
-                    "Dread Knight": 23.28,
-                    "Vigilant Ward": 14.43,
-                    "Shackled Servant": 11.41,
-                    "Harbinger of Death": 1.26
+                    "Sentient Slime": 19.93,
+                    "Portal Pursuer": 18.92,
+                    "Dread Knight": 18.87,
+                    "Vigilant Ward": 11.7,
+                    "Shackled Servant": 9.25,
+                    "Harbinger of Death": 1.02
                 }
             },
             "Ancient String": {
                 "-": {
-                    "Clockwork Timespinner": 26.92,
-                    "SampleSize": 761,
-                    "Sentient Slime": 20.28,
-                    "Dread Knight": 19.93,
-                    "Shackled Servant": 16.08,
-                    "Vigilant Ward": 15.03,
-                    "Harbinger of Death": 1.75
-                },
-                "Rift Antiskele": {
-                    "Clockwork Timespinner": 26.48,
+                    "Portal Pursuer": 23.78,
                     "SampleSize": 862,
-                    "Sentient Slime": 22.07,
-                    "Dread Knight": 19.33,
-                    "Shackled Servant": 15.98,
-                    "Vigilant Ward": 14.61,
-                    "Harbinger of Death": 1.52
+                    "Clockwork Timespinner": 20.19,
+                    "Sentient Slime": 16.82,
+                    "Dread Knight": 14.73,
+                    "Shackled Servant": 12.18,
+                    "Vigilant Ward": 11.14,
+                    "Harbinger of Death": 1.16
                 }
             },
             "Magical String": {
                 "-": {
-                    "Sentient Slime": 31.82,
-                    "SampleSize": 431,
-                    "Clockwork Timespinner": 31.06,
-                    "Shackled Servant": 15.53,
-                    "Vigilant Ward": 14.02,
-                    "Dread Knight": 5.3,
-                    "Harbinger of Death": 2.27
-                },
-                "Rift Antiskele": {
-                    "Sentient Slime": 31.7,
+                    "Portal Pursuer": 38.66,
                     "SampleSize": 432,
-                    "Clockwork Timespinner": 30.94,
-                    "Shackled Servant": 15.47,
-                    "Vigilant Ward": 14.34,
-                    "Dread Knight": 5.28,
-                    "Harbinger of Death": 2.26
+                    "Sentient Slime": 19.44,
+                    "Clockwork Timespinner": 18.98,
+                    "Shackled Servant": 9.49,
+                    "Vigilant Ward": 8.8,
+                    "Dread Knight": 3.24,
+                    "Harbinger of Death": 1.39
                 }
             },
             "Brie String": {
                 "-": {
-                    "Sentient Slime": 39.78,
-                    "SampleSize": 992,
-                    "Clockwork Timespinner": 30.41,
-                    "Vigilant Ward": 13.67,
-                    "Shackled Servant": 9.52,
-                    "Dread Knight": 4.3,
-                    "Harbinger of Death": 2.3
-                },
-                "Rift Antiskele": {
-                    "Sentient Slime": 39.66,
+                    "Portal Pursuer": 33.46,
                     "SampleSize": 1061,
-                    "Clockwork Timespinner": 31.3,
-                    "Vigilant Ward": 13.31,
-                    "Shackled Servant": 9.35,
-                    "Dread Knight": 4.25,
-                    "Harbinger of Death": 2.12
+                    "Sentient Slime": 26.39,
+                    "Clockwork Timespinner": 20.83,
+                    "Vigilant Ward": 8.86,
+                    "Shackled Servant": 6.22,
+                    "Dread Knight": 2.83,
+                    "Harbinger of Death": 1.41
                 }
             }
         },
         "Ingress (Paladin's Bane)": {
             "Runic String": {
                 "-": {
-                    "Sentient Slime": 24.83,
-                    "SampleSize": 2365,
-                    "Clockwork Timespinner": 24.67,
-                    "Dread Knight": 23.57,
-                    "Vigilant Ward": 14.3,
-                    "Shackled Servant": 11.31,
-                    "Harbinger of Death": 1.31
-                },
-                "Rift Antiskele": {
-                    "Clockwork Timespinner": 25.04,
+                    "Clockwork Timespinner": 20.3,
                     "SampleSize": 2453,
-                    "Sentient Slime": 24.59,
-                    "Dread Knight": 23.28,
-                    "Vigilant Ward": 14.43,
-                    "Shackled Servant": 11.41,
-                    "Harbinger of Death": 1.26
+                    "Sentient Slime": 19.93,
+                    "Portal Pursuer": 18.92,
+                    "Dread Knight": 18.87,
+                    "Vigilant Ward": 11.7,
+                    "Shackled Servant": 9.25,
+                    "Harbinger of Death": 1.02
                 }
             },
             "Ancient String": {
                 "-": {
-                    "Clockwork Timespinner": 26.92,
-                    "SampleSize": 761,
-                    "Sentient Slime": 20.28,
-                    "Dread Knight": 19.93,
-                    "Shackled Servant": 16.08,
-                    "Vigilant Ward": 15.03,
-                    "Harbinger of Death": 1.75
-                },
-                "Rift Antiskele": {
-                    "Clockwork Timespinner": 26.48,
+                    "Portal Pursuer": 23.78,
                     "SampleSize": 862,
-                    "Sentient Slime": 22.07,
-                    "Dread Knight": 19.33,
-                    "Shackled Servant": 15.98,
-                    "Vigilant Ward": 14.61,
-                    "Harbinger of Death": 1.52
+                    "Clockwork Timespinner": 20.19,
+                    "Sentient Slime": 16.82,
+                    "Dread Knight": 14.73,
+                    "Shackled Servant": 12.18,
+                    "Vigilant Ward": 11.14,
+                    "Harbinger of Death": 1.16
                 }
             },
             "Magical String": {
                 "-": {
-                    "Sentient Slime": 31.82,
-                    "SampleSize": 431,
-                    "Clockwork Timespinner": 31.06,
-                    "Shackled Servant": 15.53,
-                    "Vigilant Ward": 14.02,
-                    "Dread Knight": 5.3,
-                    "Harbinger of Death": 2.27
-                },
-                "Rift Antiskele": {
-                    "Sentient Slime": 31.7,
+                    "Portal Pursuer": 38.66,
                     "SampleSize": 432,
-                    "Clockwork Timespinner": 30.94,
-                    "Shackled Servant": 15.47,
-                    "Vigilant Ward": 14.34,
-                    "Dread Knight": 5.28,
-                    "Harbinger of Death": 2.26
+                    "Sentient Slime": 19.44,
+                    "Clockwork Timespinner": 18.98,
+                    "Shackled Servant": 9.49,
+                    "Vigilant Ward": 8.8,
+                    "Dread Knight": 3.24,
+                    "Harbinger of Death": 1.39
                 }
             },
             "Brie String": {
                 "-": {
-                    "Sentient Slime": 39.78,
-                    "SampleSize": 992,
-                    "Clockwork Timespinner": 30.41,
-                    "Vigilant Ward": 13.67,
-                    "Shackled Servant": 9.52,
-                    "Dread Knight": 4.3,
-                    "Harbinger of Death": 2.3
-                },
-                "Rift Antiskele": {
-                    "Sentient Slime": 39.66,
+                    "Portal Pursuer": 33.46,
                     "SampleSize": 1061,
-                    "Clockwork Timespinner": 31.3,
-                    "Vigilant Ward": 13.31,
-                    "Shackled Servant": 9.35,
-                    "Dread Knight": 4.25,
-                    "Harbinger of Death": 2.12
+                    "Sentient Slime": 26.39,
+                    "Clockwork Timespinner": 20.83,
+                    "Vigilant Ward": 8.86,
+                    "Shackled Servant": 6.22,
+                    "Dread Knight": 2.83,
+                    "Harbinger of Death": 1.41
                 }
             }
         },
@@ -13828,28 +14217,32 @@
         "Pursuer Mousoleum": {
             "Brie String": {
                 "-": {
-                    "Skeletal Champion": 94.12,
+                    "Skeletal Champion": 82.96,
                     "SampleSize": 405,
-                    "Record Keeper's Assistant": 5.88
+                    "Portal Pursuer": 11.85,
+                    "Record Keeper's Assistant": 5.19
                 },
                 "Rift Antiskele": {
-                    "Record Keeper's Assistant": 93.18,
+                    "Portal Pursuer": 69.01,
                     "SampleSize": 525,
-                    "Record Keeper": 6.82
+                    "Record Keeper's Assistant": 28.87,
+                    "Record Keeper": 2.11
                 }
             }
         },
         "Pursuer Mousoleum (Paladin's Bane)": {
             "Brie String": {
                 "-": {
-                    "Skeletal Champion": 94.12,
+                    "Skeletal Champion": 82.96,
                     "SampleSize": 405,
-                    "Record Keeper's Assistant": 5.88
+                    "Portal Pursuer": 11.85,
+                    "Record Keeper's Assistant": 5.19
                 },
                 "Rift Antiskele": {
-                    "Record Keeper's Assistant": 93.18,
+                    "Portal Pursuer": 69.01,
                     "SampleSize": 525,
-                    "Record Keeper": 6.82
+                    "Record Keeper's Assistant": 28.87,
+                    "Record Keeper": 2.11
                 }
             }
         },
@@ -14074,68 +14467,6 @@
                     "Vigilant Ward": 19.38,
                     "Shackled Servant": 4.38,
                     "Harbinger of Death": 3.75
-                }
-            }
-        },
-        "Security": {
-            "Runic String": {
-                "-": {
-                    "Skeletal Champion": 91.7,
-                    "SampleSize": 255,
-                    "Timelost Thaumaturge": 7.11,
-                    "Shackled Servant": 0.79,
-                    "Vigilant Ward": 0.4
-                },
-                "Rift Antiskele": {
-                    "Timelost Thaumaturge": 77.42,
-                    "SampleSize": 269,
-                    "Shackled Servant": 19.35,
-                    "Vigilant Ward": 3.23
-                }
-            },
-            "Ancient String": {
-                "-": {
-                    "Skeletal Champion": 91.06,
-                    "SampleSize": 179,
-                    "Timelost Thaumaturge": 6.15,
-                    "Shackled Servant": 1.68,
-                    "Vigilant Ward": 1.12
-                },
-                "Rift Antiskele": {
-                    "Timelost Thaumaturge": 62.07,
-                    "SampleSize": 208,
-                    "Shackled Servant": 24.14,
-                    "Vigilant Ward": 13.79
-                }
-            },
-            "Magical String": {
-                "-": {
-                    "Skeletal Champion": 91.67,
-                    "SampleSize": 120,
-                    "Timelost Thaumaturge": 5.83,
-                    "Vigilant Ward": 1.67,
-                    "Shackled Servant": 0.83
-                },
-                "Rift Antiskele": {
-                    "Timelost Thaumaturge": 76.47,
-                    "SampleSize": 144,
-                    "Vigilant Ward": 17.65,
-                    "Shackled Servant": 5.88
-                }
-            },
-            "Brie String": {
-                "-": {
-                    "Skeletal Champion": 90.58,
-                    "SampleSize": 913,
-                    "Vigilant Ward": 4.21,
-                    "Timelost Thaumaturge": 3.33,
-                    "Shackled Servant": 1.88
-                },
-                "Rift Antiskele": {
-                    "Timelost Thaumaturge": 41.33,
-                    "SampleSize": 1170,
-                    "Vigilant Ward": 37.76,
-                    "Shackled Servant": 20.92
                 }
             }
         },
