@@ -1111,66 +1111,6 @@
                     "Circuit Judge": 16.67
                 }
             }
-        },
-        "-": {
-            "Dumpling": {
-                "-": {
-                    "Lasso Cowgirl": 10.87,
-                    "SampleSize": 690,
-                    "Calligraphy": 7.97,
-                    "Saloon Gal": 7.39,
-                    "Ruffian": 7.25,
-                    "Dumpling Chef": 6.52,
-                    "Shopkeeper": 6.38,
-                    "Prospector": 6.09,
-                    "Red Envelope": 5.8,
-                    "Extreme Everysports": 5.07,
-                    "Winter Games": 4.49,
-                    "Tumbleweed": 4.49,
-                    "Trampoline": 4.35,
-                    "Wave Racer": 3.77,
-                    "Hurdle": 3.19,
-                    "Costumed Dragon": 3.19,
-                    "Costumed Horse": 2.03,
-                    "Costumed Tiger": 1.88,
-                    "Costumed Dog": 1.88,
-                    "Costumed Sheep": 1.74,
-                    "Costumed Rooster": 1.59,
-                    "Costumed Snake": 1.45,
-                    "Costumed Monkey": 1.45,
-                    "Costumed Rabbit": 1.16
-                }
-            },
-            "Nian Gao'da": {
-                "-": {
-                    "Lunar Red Candle Maker": 17.66,
-                    "SampleSize": 385,
-                    "Pyrite": 8.57,
-                    "Calligraphy": 8.57,
-                    "Red Envelope": 6.23,
-                    "Prospector": 5.19,
-                    "Shopkeeper": 4.94,
-                    "Lasso Cowgirl": 4.94,
-                    "Costumed Horse": 4.68,
-                    "Saloon Gal": 4.16,
-                    "Ruffian": 3.9,
-                    "Dumpling Chef": 3.9,
-                    "Costumed Rabbit": 3.12,
-                    "Tumbleweed": 3.12,
-                    "Hurdle": 3.12,
-                    "Costumed Snake": 2.6,
-                    "Costumed Dog": 2.6,
-                    "Costumed Tiger": 2.08,
-                    "Costumed Monkey": 2.08,
-                    "Extreme Everysports": 1.82,
-                    "Costumed Dragon": 1.56,
-                    "Costumed Sheep": 1.56,
-                    "Costumed Rooster": 1.56,
-                    "Trampoline": 1.3,
-                    "Winter Games": 0.52,
-                    "Wave Racer": 0.26
-                }
-            }
         }
     },
     "Crystal Library": {
@@ -1518,37 +1458,6 @@
                     "Diamond": 5.34,
                     "Worker": 4.28,
                     "Assassin": 1.7
-                }
-            },
-            "Dumpling": {
-                "-": {
-                    "Student of the Cheese Claw": 7.98,
-                    "SampleSize": 451,
-                    "Hurdle": 7.54,
-                    "Dumpling Chef": 7.54,
-                    "Calligraphy": 6.87,
-                    "Red Envelope": 6.65,
-                    "Student of the Cheese Belt": 6.43,
-                    "Extreme Everysports": 5.54,
-                    "Monk": 5.1,
-                    "Student of the Cheese Fang": 5.1,
-                    "Samurai": 4.88,
-                    "Winter Games": 4.66,
-                    "Wave Racer": 3.99,
-                    "Kung Fu": 3.77,
-                    "Trampoline": 2.88,
-                    "Costumed Rooster": 2.44,
-                    "Costumed Horse": 2.22,
-                    "Costumed Sheep": 2.22,
-                    "Ninja": 2.22,
-                    "Costumed Rabbit": 2,
-                    "Archer": 2,
-                    "Costumed Monkey": 1.77,
-                    "Costumed Snake": 1.55,
-                    "Costumed Dragon": 1.33,
-                    "Costumed Dog": 1.33,
-                    "Costumed Tiger": 1.11,
-                    "Hapless": 0.89
                 }
             }
         }
@@ -2545,51 +2454,6 @@
             }
         }
     },
-    "Forbidden Grove": {
-        "-": {
-            "Ancient": {
-                "-": {
-                    "Gargoyle": 17.92,
-                    "Spider": 15.5,
-                    "Ghost": 12.9,
-                    "Scavenger": 10.18,
-                    "Vampire": 7.58,
-                    "Zombie": 6.49,
-                    "Bat": 6.48,
-                    "Golem": 5.22,
-                    "Spectre": 5.13,
-                    "Ravenous Zombie": 2.63,
-                    "Gate Guardian": 2.56,
-                    "Reaper": 2.56,
-                    "Gorgon": 2.55,
-                    "Sorcerer": 1.3,
-                    "Realm Ripper": 1
-                }
-            },
-            "Moon": {
-                "-": {
-                    "Lycan": 47.06,
-                    "Scavenger": 22.17,
-                    "Sorcerer": 13.09,
-                    "Ghost": 11.62,
-                    "Vampire": 6.06
-                }
-            },
-            "Radioactive Blue": {
-                "-": {
-                    "Mutated White": 23.61,
-                    "Mutated Grey": 22.89,
-                    "Ghost": 17.12,
-                    "Mutated Brown": 12.53,
-                    "Realm Ripper": 10.15,
-                    "Zombie": 8.32,
-                    "Ravenous Zombie": 3.49,
-                    "Lycan": 1.76,
-                    "Black Widow": 0.13
-                }
-            }
-        }
-    },
     "Fort Rox": {
         "Day": {
             "Gouda": {
@@ -2892,70 +2756,6 @@
                     "Huntereater": 26.42,
                     "Diamondhide": 9.81
                 }
-            },
-            "Dumpling": {
-                "-": {
-                    "Floating Spore": 10.07,
-                    "SampleSize": 4834,
-                    "Dumpling Chef": 7.45,
-                    "Calligraphy": 7.26,
-                    "Red Envelope": 6.93,
-                    "Hurdle": 5.79,
-                    "Dirt Thing": 5.17,
-                    "Trampoline": 5.01,
-                    "Crag Elder": 4.94,
-                    "Winter Games": 4.92,
-                    "Wave Racer": 4.82,
-                    "Extreme Everysports": 4.68,
-                    "Crystalline Slasher": 4.59,
-                    "Costumed Snake": 2.5,
-                    "Costumed Tiger": 2.42,
-                    "Costumed Dragon": 2.4,
-                    "Costumed Dog": 2.3,
-                    "Costumed Rabbit": 2.25,
-                    "Costumed Monkey": 2.13,
-                    "Costumed Horse": 2.09,
-                    "Lumahead": 1.97,
-                    "Costumed Rooster": 1.92,
-                    "Quillback": 1.88,
-                    "Mushroom Sprite": 1.82,
-                    "Costumed Sheep": 1.78,
-                    "Funglore": 1.7,
-                    "Mush": 1.2
-                }
-            },
-            "Nian Gao'da": {
-                "-": {
-                    "Lunar Red Candle Maker": 18.25,
-                    "SampleSize": 2110,
-                    "Nightshade Masquerade": 8.48,
-                    "Calligraphy": 8.01,
-                    "Red Envelope": 5.97,
-                    "Dumpling Chef": 5.83,
-                    "Hurdle": 4.22,
-                    "Costumed Snake": 3.08,
-                    "Extreme Everysports": 3.08,
-                    "Costumed Dragon": 3.03,
-                    "Crag Elder": 3.03,
-                    "Costumed Dog": 2.94,
-                    "Dirt Thing": 2.84,
-                    "Costumed Monkey": 2.65,
-                    "Costumed Tiger": 2.65,
-                    "Floating Spore": 2.61,
-                    "Costumed Rooster": 2.61,
-                    "Costumed Horse": 2.56,
-                    "Wave Racer": 2.56,
-                    "Costumed Sheep": 2.46,
-                    "Winter Games": 2.46,
-                    "Costumed Rabbit": 2.27,
-                    "Trampoline": 2.23,
-                    "Crystalline Slasher": 2.18,
-                    "Quillback": 1.14,
-                    "Funglore": 1,
-                    "Mushroom Sprite": 0.85,
-                    "Mush": 0.62,
-                    "Lumahead": 0.38
-                }
             }
         }
     },
@@ -3033,69 +2833,6 @@
             "Resonator": {
                 "-": {
                     "Goliath Field": 100
-                }
-            },
-            "Dumpling": {
-                "-": {
-                    "Excitable Electric": 10.44,
-                    "SampleSize": 1245,
-                    "Red Envelope": 8.27,
-                    "Calligraphy": 8.11,
-                    "Agitated Gentle Giant": 7.31,
-                    "Dumpling Chef": 6.91,
-                    "Wealth": 5.78,
-                    "Spiritual Steel": 4.98,
-                    "Mighty Mole": 4.66,
-                    "Wave Racer": 3.86,
-                    "Hurdle": 3.45,
-                    "Winter Games": 3.21,
-                    "Trampoline": 3.13,
-                    "Extreme Everysports": 2.97,
-                    "Shard Centurion": 2.89,
-                    "Costumed Tiger": 2.73,
-                    "Costumed Monkey": 2.57,
-                    "Costumed Rabbit": 2.57,
-                    "Costumed Dragon": 2.49,
-                    "Costumed Sheep": 2.33,
-                    "Costumed Dog": 2.33,
-                    "Costumed Snake": 2.25,
-                    "Costumed Horse": 2.17,
-                    "Cyborg": 1.77,
-                    "Costumed Rooster": 1.53,
-                    "Raw Diamond": 1.29
-                }
-            },
-            "Nian Gao'da": {
-                "-": {
-                    "Lunar Red Candle Maker": 19.15,
-                    "SampleSize": 914,
-                    "Red Envelope": 7.11,
-                    "Calligraphy": 6.67,
-                    "Dumpling Chef": 5.91,
-                    "Micro": 4.38,
-                    "Excitable Electric": 4.27,
-                    "Hurdle": 3.61,
-                    "Winter Games": 3.5,
-                    "Trampoline": 3.17,
-                    "Spiritual Steel": 3.06,
-                    "Dream Drifter": 2.74,
-                    "Extreme Everysports": 2.74,
-                    "Costumed Rooster": 2.63,
-                    "Wealth": 2.63,
-                    "Wave Racer": 2.52,
-                    "Costumed Dragon": 2.52,
-                    "Mighty Mole": 2.41,
-                    "Costumed Snake": 2.41,
-                    "Costumed Dog": 2.3,
-                    "Costumed Horse": 2.3,
-                    "Costumed Tiger": 2.19,
-                    "Costumed Rabbit": 2.08,
-                    "Costumed Monkey": 2.08,
-                    "Costumed Sheep": 1.97,
-                    "Agitated Gentle Giant": 1.86,
-                    "Shard Centurion": 1.53,
-                    "Raw Diamond": 1.2,
-                    "Cyborg": 1.09
                 }
             }
         }
@@ -5220,71 +4957,6 @@
                     "Wicked Witch of Whisker Woods": 1.74,
                     "Bat": 1.42
                 }
-            },
-            "Dumpling": {
-                "-": {
-                    "Dumpling Chef": 9.74,
-                    "SampleSize": 380,
-                    "Calligraphy": 9.74,
-                    "Centaur": 6.84,
-                    "Red Envelope": 6.32,
-                    "Wiggler": 5.79,
-                    "Wave Racer": 5.53,
-                    "Extreme Everysports": 5,
-                    "Fairy": 4.74,
-                    "Hurdle": 4.21,
-                    "Trampoline": 3.95,
-                    "Frog": 3.68,
-                    "Winter Games": 3.68,
-                    "Costumed Horse": 3.16,
-                    "Costumed Dog": 3.16,
-                    "Bear": 2.89,
-                    "Chameleon": 2.63,
-                    "Costumed Snake": 2.63,
-                    "Foxy": 2.37,
-                    "Costumed Tiger": 2.37,
-                    "Costumed Rabbit": 2.37,
-                    "Treant": 2.37,
-                    "Costumed Dragon": 2.11,
-                    "Costumed Sheep": 1.84,
-                    "Costumed Monkey": 1.84,
-                    "Costumed Rooster": 1.05
-                }
-            },
-            "Nian Gao'da": {
-                "-": {
-                    "Lunar Red Candle Maker": 18.24,
-                    "SampleSize": 159,
-                    "Red Envelope": 10.06,
-                    "Dumpling Chef": 8.81,
-                    "Calligraphy": 6.29,
-                    "Costumed Horse": 4.4,
-                    "Hurdle": 4.4,
-                    "Costumed Rooster": 3.14,
-                    "Trampoline": 3.14,
-                    "Costumed Sheep": 3.14,
-                    "Winter Games": 3.14,
-                    "Black Widow": 3.14,
-                    "Foxy": 3.14,
-                    "Costumed Dog": 2.52,
-                    "Extreme Everysports": 2.52,
-                    "Bear": 1.89,
-                    "Centaur": 1.89,
-                    "Costumed Monkey": 1.89,
-                    "Nomad": 1.89,
-                    "Wave Racer": 1.89,
-                    "Costumed Tiger": 1.89,
-                    "Nibbler": 1.89,
-                    "Costumed Dragon": 1.89,
-                    "Costumed Snake": 1.89,
-                    "Tiger": 1.26,
-                    "Costumed Rabbit": 1.26,
-                    "Fairy": 1.26,
-                    "Chameleon": 1.26,
-                    "Frog": 0.63,
-                    "Wiggler": 0.63,
-                    "Treant": 0.63
-                }
             }
         }
     },
@@ -6330,73 +6002,6 @@
             "Tier 8": {
                 "-": {
                     "Eclipse": 100
-                }
-            }
-        },
-        "-": {
-            "Dumpling": {
-                "-": {
-                    "Calligraphy": 7.83,
-                    "SampleSize": 2696,
-                    "Red Envelope": 7.38,
-                    "Dumpling Chef": 6.9,
-                    "Winter Games": 5.23,
-                    "Trampoline": 5.08,
-                    "Wave Racer": 4.97,
-                    "Hurdle": 4.97,
-                    "Extreme Everysports": 4.82,
-                    "Escape Artist": 4.34,
-                    "Fencer": 4.27,
-                    "Hapless Marionette": 4.08,
-                    "Rogue": 3.49,
-                    "Clockwork Samurai": 3.45,
-                    "Puppet Master": 3.26,
-                    "Toy Sylvan": 3.08,
-                    "Sock Puppet Ghost": 3,
-                    "Cavalier": 2.97,
-                    "Wound Up White": 2.86,
-                    "Costumed Dog": 2.49,
-                    "Costumed Rabbit": 2.15,
-                    "Costumed Dragon": 2.15,
-                    "Costumed Sheep": 2,
-                    "Costumed Rooster": 1.97,
-                    "Costumed Horse": 1.93,
-                    "Costumed Snake": 1.89,
-                    "Costumed Monkey": 1.89,
-                    "Costumed Tiger": 1.56
-                }
-            },
-            "Nian Gao'da": {
-                "-": {
-                    "Lunar Red Candle Maker": 19.86,
-                    "SampleSize": 1007,
-                    "Calligraphy": 8.34,
-                    "Red Envelope": 8.04,
-                    "Dumpling Chef": 7.45,
-                    "Hurdle": 4.67,
-                    "Wave Racer": 4.37,
-                    "Extreme Everysports": 4.27,
-                    "Winter Games": 3.77,
-                    "Costumed Rabbit": 3.57,
-                    "Trampoline": 3.28,
-                    "Hapless Marionette": 3.28,
-                    "Costumed Monkey": 3.08,
-                    "Costumed Tiger": 2.88,
-                    "Clockwork Samurai": 2.88,
-                    "Costumed Dog": 2.78,
-                    "Costumed Snake": 2.58,
-                    "Costumed Horse": 2.18,
-                    "Puppet Master": 1.99,
-                    "Costumed Rooster": 1.99,
-                    "Costumed Dragon": 1.89,
-                    "Costumed Sheep": 1.79,
-                    "Wound Up White": 1.79,
-                    "Sock Puppet Ghost": 1.29,
-                    "Toy Sylvan": 0.7,
-                    "Rogue": 0.6,
-                    "Escape Artist": 0.3,
-                    "Fencer": 0.3,
-                    "Cavalier": 0.1
                 }
             }
         }
@@ -8226,69 +7831,6 @@
                     "Falling Carpet": 4.47,
                     "Spice Merchant": 4.1
                 }
-            },
-            "Dumpling": {
-                "-": {
-                    "Lumberjack": 11.43,
-                    "SampleSize": 621,
-                    "Red Envelope": 9.98,
-                    "Calligraphy": 9.34,
-                    "Limestone Miner": 9.02,
-                    "Dumpling Chef": 7.25,
-                    "Glass Blower": 6.44,
-                    "Spice Merchant": 5.48,
-                    "Falling Carpet": 3.7,
-                    "Winter Games": 3.38,
-                    "Hurdle": 2.9,
-                    "Costumed Tiger": 2.42,
-                    "Costumed Horse": 2.25,
-                    "Snake Charmer": 2.25,
-                    "Extreme Everysports": 2.25,
-                    "Desert Nomad": 2.25,
-                    "Costumed Rabbit": 2.25,
-                    "Costumed Sheep": 2.09,
-                    "Costumed Dog": 1.93,
-                    "Market Guard": 1.93,
-                    "Costumed Dragon": 1.77,
-                    "Costumed Monkey": 1.77,
-                    "Costumed Rooster": 1.77,
-                    "Trampoline": 1.77,
-                    "Costumed Snake": 1.45,
-                    "Pie Thief": 1.45,
-                    "Wave Racer": 1.45
-                }
-            },
-            "Nian Gao'da": {
-                "-": {
-                    "Lunar Red Candle Maker": 18.06,
-                    "SampleSize": 216,
-                    "Red Envelope": 11.11,
-                    "Dumpling Chef": 9.26,
-                    "Calligraphy": 6.48,
-                    "Desert Architect": 6.02,
-                    "Hurdle": 6.02,
-                    "Costumed Sheep": 4.63,
-                    "Costumed Monkey": 3.7,
-                    "Extreme Everysports": 2.78,
-                    "Wave Racer": 2.78,
-                    "Limestone Miner": 2.78,
-                    "Costumed Horse": 2.78,
-                    "Trampoline": 2.78,
-                    "Costumed Rabbit": 2.31,
-                    "Glass Blower": 2.31,
-                    "Desert Nomad": 1.85,
-                    "Costumed Tiger": 1.85,
-                    "Costumed Dragon": 1.85,
-                    "Costumed Rooster": 1.85,
-                    "Winter Games": 1.85,
-                    "Costumed Dog": 1.39,
-                    "Falling Carpet": 1.39,
-                    "Lumberjack": 1.39,
-                    "Snake Charmer": 0.93,
-                    "Costumed Snake": 0.93,
-                    "Market Guard": 0.46,
-                    "Spice Merchant": 0.46
-                }
             }
         }
     },
@@ -8519,73 +8061,6 @@
                     "Mermouse": 1.24,
                     "Shelder": 0.19,
                     "Crown Collector": 0.11
-                }
-            },
-            "Dumpling": {
-                "-": {
-                    "Red Envelope": 7.75,
-                    "SampleSize": 2154,
-                    "Calligraphy": 7.61,
-                    "Dumpling Chef": 6.73,
-                    "Hurdle": 5.2,
-                    "Bottled": 4.87,
-                    "Trampoline": 4.83,
-                    "Squeaken": 4.55,
-                    "Swabbie": 4.55,
-                    "Extreme Everysports": 4.46,
-                    "Leviathan": 4.36,
-                    "Pirate": 4.13,
-                    "Shipwrecked": 4.13,
-                    "Wave Racer": 4.09,
-                    "Winter Games": 3.67,
-                    "Siren": 3.48,
-                    "Buccaneer": 3.3,
-                    "Captain": 2.65,
-                    "Costumed Tiger": 2.46,
-                    "Costumed Horse": 2.41,
-                    "Costumed Snake": 2.37,
-                    "Costumed Rooster": 2.32,
-                    "Costumed Rabbit": 2.18,
-                    "Costumed Dragon": 2.18,
-                    "Costumed Sheep": 1.86,
-                    "Costumed Dog": 1.81,
-                    "Costumed Monkey": 1.67,
-                    "Shelder": 0.37
-                }
-            },
-            "Nian Gao'da": {
-                "-": {
-                    "Lunar Red Candle Maker": 17.05,
-                    "SampleSize": 1073,
-                    "Red Envelope": 6.9,
-                    "Calligraphy": 6.43,
-                    "Dumpling Chef": 6.34,
-                    "Hurdle": 4.47,
-                    "Leviathan": 3.91,
-                    "Nibbler": 3.82,
-                    "Cook": 3.45,
-                    "Costumed Tiger": 3.36,
-                    "Wave Racer": 3.08,
-                    "Costumed Dog": 3.08,
-                    "Swabbie": 2.89,
-                    "Costumed Rooster": 2.8,
-                    "Winter Games": 2.8,
-                    "Extreme Everysports": 2.7,
-                    "Costumed Snake": 2.61,
-                    "Squeaken": 2.52,
-                    "Bottled": 2.52,
-                    "Costumed Monkey": 2.52,
-                    "Costumed Sheep": 2.33,
-                    "Costumed Horse": 2.24,
-                    "Trampoline": 2.14,
-                    "Siren": 2.14,
-                    "Costumed Dragon": 2.14,
-                    "Pirate": 1.49,
-                    "Shipwrecked": 1.4,
-                    "Costumed Rabbit": 1.3,
-                    "Buccaneer": 0.93,
-                    "Shelder": 0.37,
-                    "Captain": 0.28
                 }
             }
         }
@@ -10037,35 +9512,6 @@
                     "Diamond": 4.48,
                     "Bionic": 4.48,
                     "Zombie": 2.26
-                }
-            },
-            "Dumpling": {
-                "-": {
-                    "Flying": 10.46,
-                    "SampleSize": 564,
-                    "Calligraphy": 9.22,
-                    "Longtail": 8.51,
-                    "Pugilist": 8.16,
-                    "Dumpling Chef": 7.45,
-                    "Diamond": 6.91,
-                    "Speedy": 6.91,
-                    "Gold": 6.38,
-                    "Red Envelope": 6.03,
-                    "Cowardly": 3.37,
-                    "Costumed Rabbit": 3.01,
-                    "Wave Racer": 2.84,
-                    "Costumed Tiger": 2.3,
-                    "Costumed Dog": 2.3,
-                    "Costumed Dragon": 1.95,
-                    "Costumed Sheep": 1.95,
-                    "Extreme Everysports": 1.95,
-                    "Costumed Rooster": 1.77,
-                    "Hurdle": 1.77,
-                    "Costumed Snake": 1.6,
-                    "Winter Games": 1.6,
-                    "Costumed Horse": 1.24,
-                    "Trampoline": 1.24,
-                    "Costumed Monkey": 1.06
                 }
             }
         }
@@ -12760,66 +12206,6 @@
                     "Rainwater Purifier": 12.69,
                     "Breeze Borrower": 12.61
                 }
-            },
-            "Dumpling": {
-                "-": {
-                    "Calligraphy": 8.63,
-                    "SampleSize": 2062,
-                    "Breeze Borrower": 8.54,
-                    "Spore Salesman": 7.52,
-                    "Red Envelope": 7.08,
-                    "Dumpling Chef": 6.98,
-                    "Windy Farmer": 6.35,
-                    "Cloud Collector": 6.3,
-                    "Nightshade Flower Girl": 5.33,
-                    "Rainwater Purifier": 5,
-                    "Trampoline": 4.22,
-                    "Hurdle": 3.88,
-                    "Extreme Everysports": 3.69,
-                    "Winter Games": 3.44,
-                    "Wave Racer": 3.3,
-                    "Costumed Tiger": 2.72,
-                    "Costumed Horse": 2.67,
-                    "Costumed Dragon": 2.42,
-                    "Costumed Sheep": 2.23,
-                    "Costumed Rooster": 2.09,
-                    "Costumed Snake": 2.04,
-                    "Costumed Rabbit": 1.94,
-                    "Costumed Monkey": 1.84,
-                    "Costumed Dog": 1.79
-                }
-            },
-            "Nian Gao'da": {
-                "-": {
-                    "Lunar Red Candle Maker": 18.92,
-                    "SampleSize": 1152,
-                    "Red Envelope": 7.99,
-                    "Calligraphy": 7.03,
-                    "Dumpling Chef": 6.42,
-                    "Spore Salesman": 4.86,
-                    "Homeopathic Apothecary": 4.34,
-                    "Windy Farmer": 3.82,
-                    "Breeze Borrower": 3.65,
-                    "Cloud Collector": 3.47,
-                    "Nightshade Maiden": 3.3,
-                    "Hurdle": 3.21,
-                    "Costumed Monkey": 3.04,
-                    "Costumed Rabbit": 2.95,
-                    "Nightshade Flower Girl": 2.69,
-                    "Costumed Snake": 2.34,
-                    "Costumed Dog": 2.34,
-                    "Costumed Rooster": 2.26,
-                    "Extreme Everysports": 2.26,
-                    "Costumed Tiger": 2.26,
-                    "Costumed Dragon": 2.17,
-                    "Costumed Sheep": 2,
-                    "Costumed Horse": 1.91,
-                    "Rainwater Purifier": 1.91,
-                    "Trampoline": 1.65,
-                    "Wave Racer": 1.56,
-                    "Winter Games": 1.39,
-                    "Nightshade Masquerade": 0.26
-                }
             }
         },
         "Rain low": {
@@ -14845,6 +14231,484 @@
                 "-": {
                     "Ascended Elder": 100,
                     "SampleSize": 949
+                }
+            }
+        }
+    },
+    "Forbidden Grove": {
+        "open": {
+            "Ancient": {
+                "-": {
+                    "Gargoyle": 18.02,
+                    "SampleSize": 2702,
+                    "Spider": 15.14,
+                    "Ghost": 13.51,
+                    "Scavenger": 10.4,
+                    "Vampire": 8.11,
+                    "Zombie": 6.96,
+                    "Bat": 6.74,
+                    "Spectre": 5.48,
+                    "Golem": 5.22,
+                    "Gorgon": 2.78,
+                    "Gate Guardian": 2.37,
+                    "Reaper": 2.15,
+                    "Ravenous Zombie": 2.15,
+                    "Sorcerer": 1
+                }
+            },
+            "Moon": {
+                "-": {
+                    "Lycan": 52.83,
+                    "SampleSize": 212,
+                    "Scavenger": 18.87,
+                    "Ghost": 13.21,
+                    "Sorcerer": 8.02,
+                    "Vampire": 7.08
+                }
+            },
+            "Radioactive Blue": {
+                "-": {
+                    "Mutated Grey": 26.7,
+                    "SampleSize": 1296,
+                    "Mutated White": 23.84,
+                    "Ghost": 20.6,
+                    "Mutated Brown": 13.43,
+                    "Zombie": 9.8,
+                    "Ravenous Zombie": 3.94,
+                    "Lycan": 1.62,
+                    "Black Widow": 0.08
+                }
+            },
+            "Rancid Radioactive Blue": {
+                "-": {
+                    "Mutated Grey": 29.41,
+                    "SampleSize": 102,
+                    "Mutated White": 25.49,
+                    "Ghost": 19.61,
+                    "Zombie": 9.8,
+                    "Mutated Brown": 8.82,
+                    "Lycan": 3.92,
+                    "Ravenous Zombie": 2.94
+                }
+            }
+        },
+        "closed": {
+            "Ancient": {
+                "-": {
+                    "Realm Ripper": 100,
+                    "SampleSize": 342
+                }
+            }
+        }
+    },
+    "Mysterious Anomaly": {
+        "2008": {
+            "Rewind Raclette": {
+                "-": {
+                    "Present": 19.23,
+                    "Birthday": 36.73,
+                    "Time Punk": 34.92,
+                    "Time Tailor": 9.12
+                }
+            },
+            "SB+": {
+                "-": {
+                    "Zombie": 27.66,
+                    "Ninja": 22.92,
+                    "Pirate": 21.38,
+                    "White": 14.85,
+                    "Lycan": 9.22,
+                    "Assassin": 3.97
+                }
+            },
+            "Moon": {
+                "-": {
+                    "Lycan": 51.46,
+                    "Zombie": 14.62,
+                    "Pirate": 14.04,
+                    "Ninja": 13.45,
+                    "White": 6.43
+                }
+            },
+            "Crescent": {
+                "-": {
+                    "Lycan": 51.46,
+                    "Zombie": 14.62,
+                    "Pirate": 14.04,
+                    "Ninja": 13.45,
+                    "White": 6.43
+                }
+            },
+            "Gouda": {
+                "-": {
+                    "White": 36.98,
+                    "Pirate": 29.13,
+                    "Ninja": 15.46,
+                    "Zombie": 12.6,
+                    "Lycan": 5.83
+                }
+            },
+            "Brie": {
+                "-": {
+                    "White": 36.98,
+                    "Pirate": 29.13,
+                    "Ninja": 15.46,
+                    "Zombie": 12.6,
+                    "Lycan": 5.83
+                }
+            }
+        },
+        "2009": {
+            "Rewind Raclette": {
+                "-": {
+                    "Birthday": 33.05,
+                    "Terrible Twos": 27.34,
+                    "Time Punk": 31.42,
+                    "Time Tailor": 8.2
+                }
+            },
+            "SB+": {
+                "-": {
+                    "Cyclops": 28.76,
+                    "Gate Guardian": 20.29,
+                    "Grunt": 18.1,
+                    "Finder": 17.23,
+                    "Pack": 14.74,
+                    "Shelder": 0.88
+                }
+            },
+            "Gouda": {
+                "-": {
+                    "Gate Guardian": 33.1,
+                    "Cyclops": 31.02,
+                    "Grunt": 14.12,
+                    "Pack": 12.04,
+                    "Finder": 9.72
+                }
+            },
+            "Brie": {
+                "-": {
+                    "Gate Guardian": 33.1,
+                    "Cyclops": 31.02,
+                    "Grunt": 14.12,
+                    "Pack": 12.04,
+                    "Finder": 9.72
+                }
+            }
+        },
+        "2010": {
+            "Rewind Raclette": {
+                "-": {
+                    "Birthday": 43.06,
+                    "Buckethead": 1.28,
+                    "Pintail": 3.19,
+                    "Sleepwalker": 0.85,
+                    "Time Punk": 40.94,
+                    "Time Tailor": 10.69
+                }
+            },
+            "SB+": {
+                "-": {
+                    "Technic Pawn": 21.97,
+                    "Dancer": 19.65,
+                    "Tidal Fisher": 19.36,
+                    "Mystic Pawn": 17.34,
+                    "Farmhand": 13.58,
+                    "Spring Familiar": 8.09
+                }
+            },
+            "Gouda": {
+                "-": {
+                    "Technic Pawn": 26.44,
+                    "Tidal Fisher": 25.29,
+                    "Dancer": 21.84,
+                    "Mystic Pawn": 20.69,
+                    "Farmhand": 5.75
+                }
+            },
+            "Brie": {
+                "-": {
+                    "Technic Pawn": 26.44,
+                    "Tidal Fisher": 25.29,
+                    "Dancer": 21.84,
+                    "Mystic Pawn": 20.69,
+                    "Farmhand": 5.75
+                }
+            }
+        },
+        "2011": {
+            "Rewind Raclette": {
+                "-": {
+                    "Birthday": 42.01,
+                    "Dinosuit": 7.62,
+                    "Time Punk": 39.94,
+                    "Time Tailor": 10.43
+                }
+            },
+            "SB+": {
+                "-": {
+                    "Desert Soldier": 24.77,
+                    "Desert Architect": 18.35,
+                    "Pocketwatch": 18.35,
+                    "Desert Archer": 14.68,
+                    "Bookborn": 14.68,
+                    "Vanguard": 9.17
+                }
+            },
+            "Gouda": {
+                "-": {
+                    "Pocketwatch": 34.48,
+                    "Desert Archer": 20.69,
+                    "Vanguard": 17.24,
+                    "Bookborn": 17.24,
+                    "Desert Soldier": 10.34
+                }
+            },
+            "Brie": {
+                "-": {
+                    "Pocketwatch": 34.48,
+                    "Desert Archer": 20.69,
+                    "Vanguard": 17.24,
+                    "Bookborn": 17.24,
+                    "Desert Soldier": 10.34
+                }
+            }
+        },
+        "2012": {
+            "Rewind Raclette": {
+                "-": {
+                    "Birthday": 43.39,
+                    "Force Fighter Blue": 0.43,
+                    "Force Fighter Yellow": 0.59,
+                    "Force Fighter Red": 0.75,
+                    "Force Fighter Pink": 0.8,
+                    "Force Fighter Green": 1.23,
+                    "Super FighterBot MegaSupreme": 0.8,
+                    "Time Punk": 41.24,
+                    "Time Tailor": 10.77
+                }
+            },
+            "SB+": {
+                "-": {
+                    "Living Ice": 29.03,
+                    "Cursed Thief": 22.58,
+                    "Grubling": 22.58,
+                    "Strawberry Hotcakes": 12.9,
+                    "Incompetent Ice Climber": 6.45,
+                    "Yeti": 6.45
+                }
+            },
+            "Gouda": {
+                "-": {
+                    "Incompetent Ice Climber": 0,
+                    "Yeti": 0,
+                    "Strawberry Hotcakes": 0,
+                    "Cursed Thief": 0,
+                    "Grubling": 0
+                }
+            },
+            "Brie": {
+                "-": {
+                    "Incompetent Ice Climber": 0,
+                    "Yeti": 0,
+                    "Strawberry Hotcakes": 0,
+                    "Cursed Thief": 0,
+                    "Grubling": 0
+                }
+            }
+        },
+        "2013": {
+            "Rewind Raclette": {
+                "-": {
+                    "Birthday": 43.81,
+                    "Dance Party": 0.65,
+                    "Breakdancer": 0.76,
+                    "Para Para Dancer": 1.08,
+                    "El Flamenco": 1.19,
+                    "Time Punk": 41.64,
+                    "Time Tailor": 10.87
+                }
+            },
+            "SB+": {
+                "-": {
+                    "Pyrite": 0,
+                    "Prospector": 0,
+                    "Lasso Cowgirl": 0,
+                    "Stowaway": 0,
+                    "Fuel": 0,
+                    "Steel Horse Rider": 0
+                }
+            },
+            "Gouda": {
+                "-": {
+                    "Prospector": 0,
+                    "Lasso Cowgirl": 0,
+                    "Stowaway": 0,
+                    "Fuel": 0,
+                    "Steel Horse Rider": 0
+                }
+            },
+            "Brie": {
+                "-": {
+                    "Prospector": 0,
+                    "Lasso Cowgirl": 0,
+                    "Stowaway": 0,
+                    "Fuel": 0,
+                    "Steel Horse Rider": 0
+                }
+            }
+        },
+        "2014": {
+            "Rewind Raclette": {
+                "-": {
+                    "Birthday": 0,
+                    "Cupcake Runner": 0,
+                    "Cupcake Cutie": 0,
+                    "Time Punk": 0,
+                    "Time Tailor": 0
+                }
+            },
+            "SB+": {
+                "-": {
+                    "Hydrologist": 0,
+                    "Bog Beast": 0,
+                    "Sludge Soaker": 0,
+                    "Brawny": 0,
+                    "Sand Dollar Diver": 0,
+                    "Amplified Grey": 0
+                }
+            },
+            "Gouda": {
+                "-": {
+                    "Bog Beast": 0,
+                    "Sludge Soaker": 0,
+                    "Brawny": 0,
+                    "Sand Dollar Diver": 0,
+                    "Amplified Grey": 0
+                }
+            },
+            "Brie": {
+                "-": {
+                    "Bog Beast": 0,
+                    "Sludge Soaker": 0,
+                    "Brawny": 0,
+                    "Sand Dollar Diver": 0,
+                    "Amplified Grey": 0
+                }
+            }
+        },
+        "2015": {
+            "Rewind Raclette": {
+                "-": {
+                    "Birthday": 0,
+                    "Cupcake Candle Thief": 0,
+                    "Cupcake Camo": 0,
+                    "Time Punk": 0,
+                    "Time Tailor": 0
+                }
+            },
+            "SB+": {
+                "-": {
+                    "Nightshade Masquerade": 0,
+                    "Twisted Treant": 0,
+                    "Funglore": 0,
+                    "Drudge": 0,
+                    "RR-8": 0,
+                    "Summoning Scholar": 0
+                }
+            },
+            "Gouda": {
+                "-": {
+                    "Twisted Treant": 0,
+                    "Funglore": 0,
+                    "Drudge": 0,
+                    "RR-8": 0,
+                    "Summoning Scholar": 0
+                }
+            },
+            "Brie": {
+                "-": {
+                    "Twisted Treant": 0,
+                    "Funglore": 0,
+                    "Drudge": 0,
+                    "RR-8": 0,
+                    "Summoning Scholar": 0
+                }
+            }
+        },
+        "2016": {
+            "Rewind Raclette": {
+                "-": {
+                    "Birthday": 0,
+                    "Sprinkly Sweet Cupcake Cook": 0,
+                    "Time Punk": 0,
+                    "Time Tailor": 0
+                }
+            },
+            "SB+": {
+                "-": {
+                    "Enlightened Labourer": 0,
+                    "Armored Archer": 0,
+                    "Shinobi": 0,
+                    "Meteorite Snacker": 0,
+                    "Mischievous Meteorite Miner": 0,
+                    "Werehauler": 0
+                }
+            },
+            "Gouda": {
+                "-": {
+                    "Armored Archer": 0,
+                    "Shinobi": 0,
+                    "Meteorite Snacker": 0,
+                    "Mischievous Meteorite Miner": 0,
+                    "Werehauler": 0
+                }
+            },
+            "Brie": {
+                "-": {
+                    "Armored Archer": 0,
+                    "Shinobi": 0,
+                    "Meteorite Snacker": 0,
+                    "Mischievous Meteorite Miner": 0,
+                    "Werehauler": 0
+                }
+            }
+        },
+        "2017": {
+            "Rewind Raclette": {
+                "-": {
+                    "Birthday": 0,
+                    "Time Punk": 0,
+                    "Time Tailor": 0,
+                    "Time Thief": 0
+                }
+            },
+            "SB+": {
+                "-": {
+                    "Homeopathic Apothecary": 0,
+                    "Epoch Golem": 0,
+                    "Portal Plunderer": 0,
+                    "Clockwork Timespinner": 0,
+                    "Cloud Collector": 0,
+                    "Windy Farmer": 0
+                }
+            },
+            "Gouda": {
+                "-": {
+                    "Epoch Golem": 0,
+                    "Portal Plunderer": 0,
+                    "Clockwork Timespinner": 0,
+                    "Cloud Collector": 0,
+                    "Windy Farmer": 0
+                }
+            },
+            "Brie": {
+                "-": {
+                    "Epoch Golem": 0,
+                    "Portal Plunderer": 0,
+                    "Clockwork Timespinner": 0,
+                    "Cloud Collector": 0,
+                    "Windy Farmer": 0
                 }
             }
         }

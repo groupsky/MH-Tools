@@ -146,7 +146,7 @@ function updateCustomSetup() {
 }
 
 function checkLoadState() {
-  var loadPercentage = (popLoaded + baselineLoaded + wisdomLoaded + lootLoaded) / 4 * 100;
+  var loadPercentage = (popLoaded + wisdomLoaded + lootLoaded) / 3 * 100;
   var status = document.getElementById("status");
   status.innerHTML = "<td>Loaded " + loadPercentage + "%...</td>";
 
@@ -172,31 +172,26 @@ function checkLoadState() {
     }, 3000);
   }
 
-  function getSliderValue() {
-    var amplifierParameter = parseInt(getURLParameter("amplifier"));
-    if (amplifierParameter >= 0 && amplifierParameter <= 175) {
-      $("#ampSlider").slider("option", "value", amplifierParameter);
-      var myColor = getColor(amplifierParameter);
-      $("#ampSlider .ui-slider-range").css("background-color", myColor);
-      $(
-        "#ampSlider .ui-state-default, .ui-widget-content .ui-state-default"
-      ).css("background-color", myColor);
-      $("#ampValue").val(amplifierParameter);
-      ztAmp = amplifierParameter;
-      calculateTrapSetup();
-    }
-  }
-
   function calculateBonusLuck() {
+    // Called by initial checkLoadState only
+    // Skip if location/weapon/base/charm fails b/c invalid trapLuck
+
     var totalLuck = getURLParameter("totalluck");
-    if (totalLuck) {
-      calculateTrapSetup();
-    }
-    var bonusLuckParameter =
-      parseInt(getURLParameter("bonusLuck")) || parseInt(totalLuck) - trapLuck;
-    if (bonusLuckParameter >= 0) {
-      document.getElementById("bonusLuck").value = bonusLuckParameter;
-      bonusLuckChanged();
+    if (totalLuck) calculateTrapSetup();
+
+    var bonusLuckParameter = 0;
+    var locationIndex = document.getElementById("location").selectedIndex;
+    var weaponIndex = document.getElementById("weapon").selectedIndex;
+    var baseIndex = document.getElementById("base").selectedIndex;
+    var charmIndex = document.getElementById("charm").selectedIndex;
+    if (locationIndex && weaponIndex && baseIndex && charmIndex) {
+      bonusLuckParameter =
+        parseInt(getURLParameter("bonusLuck")) ||
+        parseInt(totalLuck) - trapLuck;
+      if (bonusLuckParameter > 0) {
+        document.getElementById("bonusLuck").value = bonusLuckParameter;
+        bonusLuckChanged();
+      }
     }
   }
 }
@@ -363,6 +358,8 @@ function showPop(type) {
         ) {
           mousePower /= 2;
         }
+
+        if (locationName === 'Mysterious Anomaly' && eff < 1) eff = 1
 
         var catchRate = calcCR(eff, trapPower, trapLuck, mousePower);
 
@@ -726,8 +723,6 @@ function showPop(type) {
 
         resultsHTML += "<tr align='right'>" + mouseRow + "</tr>";
       }
-
-      formatSampleSize();
     }
 
     if (
@@ -1058,18 +1053,11 @@ function updateLink() {
     riftstalker: riftStalkerCodex,
     ballistaLevel: fortRox.ballistaLevel,
     cannonLevel: fortRox.cannonLevel,
-    rank: rank
+    rank: rank,
+    amplifier: ztAmp
   };
   var URLString = buildURL("cre.html", urlParams);
   document.getElementById("link").href = URLString;
-  ga("send", "event", "link", "updated", URLString);
-  ga("send", "event", "weapon", "selected", weaponName);
-  ga("send", "event", "location", "selected", locationName);
-  ga("send", "event", "phase", "selected", phaseName);
-  ga("send", "event", "cheese", "selected", cheeseName);
-  ga("send", "event", "base", "selected", baseName);
-  ga("send", "event", "charm", "selected", charmName);
-  ga("send", "event", "tournament", "selected", tournamentName);
 }
 
 function cheeseChanged() {

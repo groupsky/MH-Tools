@@ -26,7 +26,7 @@
             }
         },
         "Forbidden Grove": {
-            "-": {
+            "open": {
                 "Ancient": {
                     "-": 5.22
                 }
@@ -45,9 +45,9 @@
             }
         },
         "Forbidden Grove": {
-            "-": {
+            "open": {
                 "Ancient": {
-                    "-": 2.55
+                    "-": 2.78
                 }
             }
         }
@@ -64,9 +64,9 @@
             }
         },
         "Forbidden Grove": {
-            "-": {
+            "open": {
                 "Ancient": {
-                    "-": 5.13
+                    "-": 5.48
                 }
             }
         }
@@ -83,12 +83,12 @@
             }
         },
         "Forbidden Grove": {
-            "-": {
+            "open": {
                 "Ancient": {
-                    "-": 1.3
+                    "-": 1
                 },
                 "Moon": {
-                    "-": 13.09
+                    "-": 8.02
                 }
             }
         }
@@ -144,9 +144,19 @@
             }
         },
         "Forbidden Grove": {
-            "-": {
+            "open": {
                 "Ancient": {
-                    "-": 2.56
+                    "-": 2.37
+                }
+            }
+        },
+        "Mysterious Anomaly": {
+            "2009": {
+                "SB+": {
+                    "-": 20.29
+                },
+                "Gouda/Brie": {
+                    "-": 33.1
                 }
             }
         }
@@ -175,13 +185,6 @@
                 },
                 "Gilded": {
                     "-": 4.87
-                }
-            }
-        },
-        "Forbidden Grove": {
-            "-": {
-                "Radioactive Blue": {
-                    "-": 22.89
                 }
             }
         },
@@ -221,6 +224,16 @@
                     "Super Brain": 2.03
                 }
             }
+        },
+        "Forbidden Grove": {
+            "open": {
+                "Radioactive Blue": {
+                    "-": 26.7
+                },
+                "Rancid Radioactive Blue": {
+                    "-": 29.41
+                }
+            }
         }
     },
     "Mutated White": {
@@ -247,13 +260,6 @@
                 },
                 "Gilded": {
                     "-": 4.82
-                }
-            }
-        },
-        "Forbidden Grove": {
-            "-": {
-                "Radioactive Blue": {
-                    "-": 23.61
                 }
             }
         },
@@ -293,6 +299,16 @@
                     "Super Brain": 1.79
                 }
             }
+        },
+        "Forbidden Grove": {
+            "open": {
+                "Radioactive Blue": {
+                    "-": 23.84
+                },
+                "Rancid Radioactive Blue": {
+                    "-": 25.49
+                }
+            }
         }
     },
     "Mutated Brown": {
@@ -319,13 +335,6 @@
                 },
                 "Gilded": {
                     "-": 2.52
-                }
-            }
-        },
-        "Forbidden Grove": {
-            "-": {
-                "Radioactive Blue": {
-                    "-": 12.53
                 }
             }
         },
@@ -363,6 +372,16 @@
                     "-": 3.62,
                     "Brain": 0.82,
                     "Super Brain": 1.02
+                }
+            }
+        },
+        "Forbidden Grove": {
+            "open": {
+                "Radioactive Blue": {
+                    "-": 13.43
+                },
+                "Rancid Radioactive Blue": {
+                    "-": 8.82
                 }
             }
         }
@@ -411,20 +430,10 @@
                 }
             }
         },
-        "Forbidden Grove": {
-            "-": {
-                "Radioactive Blue": {
-                    "-": 0.13
-                }
-            }
-        },
         "Great Gnarled Tree": {
             "-": {
                 "SB+": {
                     "-": 0.39
-                },
-                "Nian Gao'da": {
-                    "-": 3.14
                 }
             }
         },
@@ -490,6 +499,13 @@
             "-": {
                 "SB+": {
                     "-": 0.67
+                }
+            }
+        },
+        "Forbidden Grove": {
+            "open": {
+                "Radioactive Blue": {
+                    "-": 0.08
                 }
             }
         }
@@ -692,6 +708,16 @@
             "Low Tide": {
                 "Vanilla Stilton": {
                     "-": 2.88
+                }
+            }
+        },
+        "Mysterious Anomaly": {
+            "2010": {
+                "SB+": {
+                    "-": 19.36
+                },
+                "Gouda/Brie": {
+                    "-": 25.29
                 }
             }
         }
@@ -1324,9 +1350,6 @@
             "-": {
                 "SB+": {
                     "-": 0.88
-                },
-                "Nian Gao'da": {
-                    "-": 1.89
                 }
             }
         },
@@ -1341,9 +1364,6 @@
             "-": {
                 "SB+": {
                     "-": 3.95
-                },
-                "Nian Gao'da": {
-                    "-": 3.82
                 }
             }
         },
@@ -1779,16 +1799,6 @@
                 }
             }
         },
-        "Forbidden Grove": {
-            "-": {
-                "Ancient": {
-                    "-": 6.49
-                },
-                "Radioactive Blue": {
-                    "-": 8.32
-                }
-            }
-        },
         "Laboratory": {
             "-": {
                 "SB+": {
@@ -1894,6 +1904,32 @@
                 },
                 "White Cheddar": {
                     "-": 2.26
+                }
+            }
+        },
+        "Forbidden Grove": {
+            "open": {
+                "Ancient": {
+                    "-": 6.96
+                },
+                "Radioactive Blue": {
+                    "-": 9.8
+                },
+                "Rancid Radioactive Blue": {
+                    "-": 9.8
+                }
+            }
+        },
+        "Mysterious Anomaly": {
+            "2008": {
+                "SB+": {
+                    "-": 27.66
+                },
+                "Moon/Crescent": {
+                    "-": 14.62
+                },
+                "Gouda/Brie": {
+                    "-": 12.6
                 }
             }
         }
@@ -2011,6 +2047,16 @@
                 },
                 "Marble String": {
                     "-": 9.06
+                }
+            }
+        },
+        "Mysterious Anomaly": {
+            "2014": {
+                "SB+": {
+                    "-": 0
+                },
+                "Gouda/Brie": {
+                    "-": 0
                 }
             }
         }
@@ -2546,12 +2592,6 @@
                 },
                 "White Cheddar/Marble/Mozzarella/Cheddar": {
                     "-": 8.23
-                },
-                "Dumpling": {
-                    "-": 2.63
-                },
-                "Nian Gao'da": {
-                    "-": 1.26
                 }
             }
         },
@@ -2605,12 +2645,6 @@
                 },
                 "White Cheddar/Marble/Mozzarella/Cheddar": {
                     "-": 8.86
-                },
-                "Dumpling": {
-                    "-": 2.89
-                },
-                "Nian Gao'da": {
-                    "-": 1.89
                 }
             }
         }
@@ -2719,12 +2753,6 @@
                 },
                 "White Cheddar/Marble/Mozzarella/Cheddar": {
                     "-": 4.91
-                },
-                "Dumpling": {
-                    "-": 2.37
-                },
-                "Nian Gao'da": {
-                    "-": 0.63
                 }
             }
         },
@@ -2784,6 +2812,16 @@
                 },
                 "Gnarled": {
                     "-": 4.36
+                }
+            }
+        },
+        "Mysterious Anomaly": {
+            "2009": {
+                "SB+": {
+                    "-": 28.76
+                },
+                "Gouda/Brie": {
+                    "-": 31.02
                 }
             }
         }
@@ -2880,12 +2918,6 @@
                 },
                 "White Cheddar/Marble/Mozzarella/Cheddar": {
                     "-": 7.12
-                },
-                "Dumpling": {
-                    "-": 3.68
-                },
-                "Nian Gao'da": {
-                    "-": 0.63
                 }
             }
         }
@@ -3005,12 +3037,6 @@
                 },
                 "White Cheddar/Marble/Mozzarella/Cheddar": {
                     "-": 7.91
-                },
-                "Dumpling": {
-                    "-": 5.79
-                },
-                "Nian Gao'da": {
-                    "-": 0.63
                 }
             }
         }
@@ -3138,12 +3164,6 @@
                 },
                 "Swiss": {
                     "-": 1.29
-                },
-                "Dumpling": {
-                    "-": 2.37
-                },
-                "Nian Gao'da": {
-                    "-": 3.14
                 }
             }
         }
@@ -3292,12 +3312,6 @@
                 },
                 "Swiss": {
                     "-": 8.56
-                },
-                "Dumpling": {
-                    "-": 4.13
-                },
-                "Nian Gao'da": {
-                    "-": 1.4
                 }
             }
         }
@@ -3635,9 +3649,9 @@
             }
         },
         "Forbidden Grove": {
-            "-": {
+            "open": {
                 "Ancient": {
-                    "-": 15.5
+                    "-": 15.14
                 }
             }
         }
@@ -3673,12 +3687,12 @@
             }
         },
         "Forbidden Grove": {
-            "-": {
+            "open": {
                 "Ancient": {
-                    "-": 10.18
+                    "-": 10.4
                 },
                 "Moon": {
-                    "-": 22.17
+                    "-": 18.87
                 }
             }
         }
@@ -3735,16 +3749,6 @@
                 }
             }
         },
-        "Forbidden Grove": {
-            "-": {
-                "Ancient": {
-                    "-": 7.58
-                },
-                "Moon": {
-                    "-": 6.06
-                }
-            }
-        },
         "Mousoleum": {
             "-": {
                 "Moon": {
@@ -3759,6 +3763,16 @@
                     "-": 11.23,
                     "Brain": 5.23,
                     "Super Brain": 5.21
+                }
+            }
+        },
+        "Forbidden Grove": {
+            "open": {
+                "Ancient": {
+                    "-": 8.11
+                },
+                "Moon": {
+                    "-": 7.08
                 }
             }
         }
@@ -3813,19 +3827,6 @@
                 }
             }
         },
-        "Forbidden Grove": {
-            "-": {
-                "Ancient": {
-                    "-": 12.9
-                },
-                "Moon": {
-                    "-": 11.62
-                },
-                "Radioactive Blue": {
-                    "-": 17.12
-                }
-            }
-        },
         "Mousoleum": {
             "-": {
                 "Moon": {
@@ -3842,6 +3843,22 @@
                     "Super Brain": 13.32
                 }
             }
+        },
+        "Forbidden Grove": {
+            "open": {
+                "Ancient": {
+                    "-": 13.51
+                },
+                "Moon": {
+                    "-": 13.21
+                },
+                "Radioactive Blue": {
+                    "-": 20.6
+                },
+                "Rancid Radioactive Blue": {
+                    "-": 19.61
+                }
+            }
         }
     },
     "Ravenous Zombie": {
@@ -3850,16 +3867,6 @@
                 "Undead Emmental": {
                     "-": 12.47,
                     "Antiskele": 8.35
-                }
-            }
-        },
-        "Forbidden Grove": {
-            "-": {
-                "Ancient": {
-                    "-": 2.63
-                },
-                "Radioactive Blue": {
-                    "-": 3.49
                 }
             }
         },
@@ -3877,6 +3884,19 @@
                     "-": 5.81,
                     "Brain": 22.62,
                     "Super Brain": 21.27
+                }
+            }
+        },
+        "Forbidden Grove": {
+            "open": {
+                "Ancient": {
+                    "-": 2.15
+                },
+                "Radioactive Blue": {
+                    "-": 3.94
+                },
+                "Rancid Radioactive Blue": {
+                    "-": 2.94
                 }
             }
         }
@@ -3957,16 +3977,6 @@
                 }
             }
         },
-        "Forbidden Grove": {
-            "-": {
-                "Moon": {
-                    "-": 47.06
-                },
-                "Radioactive Blue": {
-                    "-": 1.76
-                }
-            }
-        },
         "Mousoleum": {
             "-": {
                 "Moon": {
@@ -3976,6 +3986,32 @@
                     "-": 3.56,
                     "Brain": 0.77,
                     "Super Brain": 1.05
+                }
+            }
+        },
+        "Forbidden Grove": {
+            "open": {
+                "Moon": {
+                    "-": 52.83
+                },
+                "Radioactive Blue": {
+                    "-": 1.62
+                },
+                "Rancid Radioactive Blue": {
+                    "-": 3.92
+                }
+            }
+        },
+        "Mysterious Anomaly": {
+            "2008": {
+                "SB+": {
+                    "-": 9.22
+                },
+                "Moon/Crescent": {
+                    "-": 51.46
+                },
+                "Gouda/Brie": {
+                    "-": 5.83
                 }
             }
         }
@@ -3989,13 +4025,6 @@
                 "Radioactive Blue": {
                     "-": 3.56,
                     "Antiskele": 3.52
-                }
-            }
-        },
-        "Forbidden Grove": {
-            "-": {
-                "Ancient": {
-                    "-": 6.48
                 }
             }
         },
@@ -4046,6 +4075,13 @@
                 },
                 "Swiss/Marble/Mozzarella/Cheddar/White Cheddar": {
                     "-": 1.02
+                }
+            }
+        },
+        "Forbidden Grove": {
+            "open": {
+                "Ancient": {
+                    "-": 6.74
                 }
             }
         }
@@ -4519,14 +4555,6 @@
                 "Gouda/Brie/Swiss/White Cheddar/Marble/Mozzarella/Cheddar": {
                     "-": 15.78
                 }
-            },
-            "-": {
-                "Dumpling": {
-                    "-": 7.39
-                },
-                "Nian Gao'da": {
-                    "-": 4.16
-                }
             }
         }
     },
@@ -4539,13 +4567,15 @@
                 "Gouda/Brie/Swiss/White Cheddar/Marble/Mozzarella/Cheddar": {
                     "-": 15.91
                 }
-            },
-            "-": {
-                "Dumpling": {
-                    "-": 10.87
+            }
+        },
+        "Mysterious Anomaly": {
+            "2013": {
+                "SB+": {
+                    "-": 0
                 },
-                "Nian Gao'da": {
-                    "-": 4.94
+                "Gouda/Brie": {
+                    "-": 0
                 }
             }
         }
@@ -4559,14 +4589,6 @@
                 "Gouda/Brie/Swiss/White Cheddar/Marble/Mozzarella/Cheddar": {
                     "-": 16.3
                 }
-            },
-            "-": {
-                "Dumpling": {
-                    "-": 4.49
-                },
-                "Nian Gao'da": {
-                    "-": 3.12
-                }
             }
         }
     },
@@ -4579,14 +4601,6 @@
                 "Gouda/Brie/Swiss/White Cheddar/Marble/Mozzarella/Cheddar": {
                     "-": 15.99
                 }
-            },
-            "-": {
-                "Dumpling": {
-                    "-": 6.38
-                },
-                "Nian Gao'da": {
-                    "-": 4.94
-                }
             }
         }
     },
@@ -4598,14 +4612,6 @@
                 },
                 "Gouda/Brie/Swiss/White Cheddar/Marble/Mozzarella/Cheddar": {
                     "-": 16.17
-                }
-            },
-            "-": {
-                "Dumpling": {
-                    "-": 7.25
-                },
-                "Nian Gao'da": {
-                    "-": 3.9
                 }
             }
         }
@@ -4631,13 +4637,15 @@
                 "Gouda/Brie/Swiss/White Cheddar/Marble/Mozzarella/Cheddar": {
                     "-": 6.13
                 }
-            },
-            "-": {
-                "Dumpling": {
-                    "-": 6.09
+            }
+        },
+        "Mysterious Anomaly": {
+            "2013": {
+                "SB+": {
+                    "-": 0
                 },
-                "Nian Gao'da": {
-                    "-": 5.19
+                "Gouda/Brie": {
+                    "-": 0
                 }
             }
         }
@@ -4651,10 +4659,12 @@
                 "Gouda/Brie/Swiss/White Cheddar/Marble/Mozzarella/Cheddar": {
                     "-": 0.68
                 }
-            },
-            "-": {
-                "Nian Gao'da": {
-                    "-": 8.57
+            }
+        },
+        "Mysterious Anomaly": {
+            "2013": {
+                "SB+": {
+                    "-": 0
                 }
             }
         }
@@ -4745,6 +4755,16 @@
                 "Brie": {
                     "-": 18.5,
                     "Scholar": 17.5
+                }
+            }
+        },
+        "Mysterious Anomaly": {
+            "2011": {
+                "SB+": {
+                    "-": 18.35
+                },
+                "Gouda/Brie": {
+                    "-": 34.48
                 }
             }
         }
@@ -4863,6 +4883,16 @@
                 "Brie": {
                     "-": 7.14,
                     "Scholar": 6.17
+                }
+            }
+        },
+        "Mysterious Anomaly": {
+            "2011": {
+                "SB+": {
+                    "-": 14.68
+                },
+                "Gouda/Brie": {
+                    "-": 17.24
                 }
             }
         }
@@ -4989,6 +5019,16 @@
             "Cursed": {
                 "Graveblossom Camembert": {
                     "-": 21.65
+                }
+            }
+        },
+        "Mysterious Anomaly": {
+            "2012": {
+                "SB+": {
+                    "-": 22.58
+                },
+                "Gouda/Brie": {
+                    "-": 0
                 }
             }
         }
@@ -5124,6 +5164,16 @@
                     "-": 8.5
                 }
             }
+        },
+        "Mysterious Anomaly": {
+            "2009": {
+                "SB+": {
+                    "-": 18.1
+                },
+                "Gouda/Brie": {
+                    "-": 14.12
+                }
+            }
         }
     },
     "Kung Fu": {
@@ -5137,9 +5187,6 @@
                 },
                 "SB+": {
                     "-": 9.43
-                },
-                "Dumpling": {
-                    "-": 3.77
                 }
             }
         },
@@ -5171,9 +5218,6 @@
                 },
                 "SB+": {
                     "-": 6.03
-                },
-                "Dumpling": {
-                    "-": 4.88
                 }
             }
         },
@@ -5205,9 +5249,6 @@
                 },
                 "SB+": {
                     "-": 9.72
-                },
-                "Dumpling": {
-                    "-": 2.22
                 }
             }
         },
@@ -5245,6 +5286,19 @@
                     "-": 9.12
                 }
             }
+        },
+        "Mysterious Anomaly": {
+            "2008": {
+                "SB+": {
+                    "-": 22.92
+                },
+                "Moon/Crescent": {
+                    "-": 13.45
+                },
+                "Gouda/Brie": {
+                    "-": 15.46
+                }
+            }
         }
     },
     "Archer": {
@@ -5258,9 +5312,6 @@
                 },
                 "SB+": {
                     "-": 8.8
-                },
-                "Dumpling": {
-                    "-": 2
                 }
             }
         },
@@ -5440,9 +5491,6 @@
                 },
                 "White Cheddar": {
                     "-": 4.61
-                },
-                "Dumpling": {
-                    "-": 6.38
                 }
             }
         },
@@ -5496,9 +5544,6 @@
                 },
                 "SB+": {
                     "-": 13.63
-                },
-                "Dumpling": {
-                    "-": 7.98
                 }
             }
         }
@@ -5514,9 +5559,6 @@
                 },
                 "SB+": {
                     "-": 13.89
-                },
-                "Dumpling": {
-                    "-": 5.1
                 }
             }
         }
@@ -5532,9 +5574,6 @@
                 },
                 "SB+": {
                     "-": 13.56
-                },
-                "Dumpling": {
-                    "-": 6.43
                 }
             }
         }
@@ -5550,9 +5589,6 @@
                 },
                 "SB+": {
                     "-": 5.84
-                },
-                "Dumpling": {
-                    "-": 5.1
                 }
             }
         },
@@ -5732,9 +5768,6 @@
                 },
                 "White Cheddar": {
                     "-": 4.48
-                },
-                "Dumpling": {
-                    "-": 6.91
                 }
             }
         },
@@ -5782,9 +5815,6 @@
             "-": {
                 "Gouda/Brie/Swiss/White Cheddar/Marble/Mozzarella/Cheddar": {
                     "-": 3.09
-                },
-                "Dumpling": {
-                    "-": 0.89
                 }
             }
         },
@@ -5814,6 +5844,13 @@
                 },
                 "SB+": {
                     "-": 1.7
+                }
+            }
+        },
+        "Mysterious Anomaly": {
+            "2008": {
+                "SB+": {
+                    "-": 3.97
                 }
             }
         }
@@ -5925,6 +5962,16 @@
                     "-": 4.52
                 }
             }
+        },
+        "Mysterious Anomaly": {
+            "2009": {
+                "SB+": {
+                    "-": 14.74
+                },
+                "Gouda/Brie": {
+                    "-": 12.04
+                }
+            }
         }
     },
     "Soothsayer": {
@@ -5986,6 +6033,58 @@
             "-": {
                 "SB+": {
                     "-": 11.11
+                }
+            }
+        },
+        "Mysterious Anomaly": {
+            "2008": {
+                "Rewind Raclette": {
+                    "-": 36.73
+                }
+            },
+            "2009": {
+                "Rewind Raclette": {
+                    "-": 33.05
+                }
+            },
+            "2010": {
+                "Rewind Raclette": {
+                    "-": 43.06
+                }
+            },
+            "2011": {
+                "Rewind Raclette": {
+                    "-": 42.01
+                }
+            },
+            "2012": {
+                "Rewind Raclette": {
+                    "-": 43.39
+                }
+            },
+            "2013": {
+                "Rewind Raclette": {
+                    "-": 43.81
+                }
+            },
+            "2014": {
+                "Rewind Raclette": {
+                    "-": 0
+                }
+            },
+            "2015": {
+                "Rewind Raclette": {
+                    "-": 0
+                }
+            },
+            "2016": {
+                "Rewind Raclette": {
+                    "-": 0
+                }
+            },
+            "2017": {
+                "Rewind Raclette": {
+                    "-": 0
                 }
             }
         }
@@ -6098,6 +6197,16 @@
                     "Warpath Warrior": 8.04
                 }
             }
+        },
+        "Mysterious Anomaly": {
+            "2011": {
+                "SB+": {
+                    "-": 14.68
+                },
+                "Gouda/Brie": {
+                    "-": 20.69
+                }
+            }
         }
     },
     "Desert Soldier": {
@@ -6126,6 +6235,16 @@
                     "Warpath Warrior": 81.99
                 }
             }
+        },
+        "Mysterious Anomaly": {
+            "2011": {
+                "SB+": {
+                    "-": 24.77
+                },
+                "Gouda/Brie": {
+                    "-": 10.34
+                }
+            }
         }
     },
     "Vanguard": {
@@ -6152,6 +6271,16 @@
                     "Warpath Archer": 8.23,
                     "Warpath Scout": 77.49,
                     "Warpath Warrior": 7.99
+                }
+            }
+        },
+        "Mysterious Anomaly": {
+            "2011": {
+                "SB+": {
+                    "-": 9.17
+                },
+                "Gouda/Brie": {
+                    "-": 17.24
                 }
             }
         }
@@ -6959,36 +7088,6 @@
             }
         }
     },
-    "Gargoyle": {
-        "Forbidden Grove": {
-            "-": {
-                "Ancient": {
-                    "-": 17.92
-                }
-            }
-        }
-    },
-    "Reaper": {
-        "Forbidden Grove": {
-            "-": {
-                "Ancient": {
-                    "-": 2.56
-                }
-            }
-        }
-    },
-    "Realm Ripper": {
-        "Forbidden Grove": {
-            "-": {
-                "Ancient": {
-                    "-": 1
-                },
-                "Radioactive Blue": {
-                    "-": 10.15
-                }
-            }
-        }
-    },
     "Hardworking Hauler": {
         "Fort Rox": {
             "Day": {
@@ -7035,6 +7134,16 @@
                     "-": 14.21
                 }
             }
+        },
+        "Mysterious Anomaly": {
+            "2016": {
+                "SB+": {
+                    "-": 0
+                },
+                "Gouda/Brie": {
+                    "-": 0
+                }
+            }
         }
     },
     "Mining Materials Manager": {
@@ -7057,6 +7166,16 @@
                 },
                 "SB+": {
                     "-": 25.43
+                }
+            }
+        },
+        "Mysterious Anomaly": {
+            "2016": {
+                "SB+": {
+                    "-": 0
+                },
+                "Gouda/Brie": {
+                    "-": 0
                 }
             }
         }
@@ -7273,6 +7392,16 @@
                 },
                 "Moon": {
                     "-": 0.19
+                }
+            }
+        },
+        "Mysterious Anomaly": {
+            "2016": {
+                "SB+": {
+                    "-": 0
+                },
+                "Gouda/Brie": {
+                    "-": 0
                 }
             }
         }
@@ -7604,12 +7733,16 @@
                 },
                 "Brie": {
                     "-": 12.55
+                }
+            }
+        },
+        "Mysterious Anomaly": {
+            "2015": {
+                "SB+": {
+                    "-": 0
                 },
-                "Dumpling": {
-                    "-": 1.7
-                },
-                "Nian Gao'da": {
-                    "-": 1
+                "Gouda/Brie": {
+                    "-": 0
                 }
             }
         }
@@ -7625,12 +7758,6 @@
                 },
                 "Brie": {
                     "-": 10.67
-                },
-                "Dumpling": {
-                    "-": 1.97
-                },
-                "Nian Gao'da": {
-                    "-": 0.38
                 }
             }
         }
@@ -7646,12 +7773,6 @@
                 },
                 "Brie": {
                     "-": 12.49
-                },
-                "Dumpling": {
-                    "-": 10.07
-                },
-                "Nian Gao'da": {
-                    "-": 2.61
                 }
             }
         }
@@ -7667,12 +7788,6 @@
                 },
                 "Brie": {
                     "-": 14.6
-                },
-                "Dumpling": {
-                    "-": 1.2
-                },
-                "Nian Gao'da": {
-                    "-": 0.62
                 }
             }
         }
@@ -7688,12 +7803,6 @@
                 },
                 "Brie": {
                     "-": 10.63
-                },
-                "Dumpling": {
-                    "-": 1.88
-                },
-                "Nian Gao'da": {
-                    "-": 1.14
                 }
             }
         }
@@ -7709,12 +7818,6 @@
                 },
                 "Brie": {
                     "-": 9.21
-                },
-                "Dumpling": {
-                    "-": 1.82
-                },
-                "Nian Gao'da": {
-                    "-": 0.85
                 }
             }
         }
@@ -7739,16 +7842,13 @@
             "-": {
                 "SB+": {
                     "-": 7.86
-                },
-                "Nian Gao'da": {
-                    "-": 8.48
                 }
             }
         },
-        "Moussu Picchu": {
-            "-": {
-                "Nian Gao'da": {
-                    "-": 0.26
+        "Mysterious Anomaly": {
+            "2015": {
+                "SB+": {
+                    "-": 0
                 }
             }
         }
@@ -7818,12 +7918,6 @@
             "-": {
                 "Glowing Gruyere": {
                     "-": 19.99
-                },
-                "Dumpling": {
-                    "-": 4.94
-                },
-                "Nian Gao'da": {
-                    "-": 3.03
                 }
             }
         }
@@ -7842,12 +7936,6 @@
             "-": {
                 "Glowing Gruyere": {
                     "-": 18.28
-                },
-                "Dumpling": {
-                    "-": 4.59
-                },
-                "Nian Gao'da": {
-                    "-": 2.18
                 }
             }
         }
@@ -7857,12 +7945,6 @@
             "-": {
                 "Glowing Gruyere": {
                     "-": 18.11
-                },
-                "Dumpling": {
-                    "-": 5.17
-                },
-                "Nian Gao'da": {
-                    "-": 2.84
                 }
             }
         }
@@ -8034,9 +8116,6 @@
                 },
                 "Brie String": {
                     "-": 2.01
-                },
-                "Nian Gao'da": {
-                    "-": 4.38
                 }
             }
         }
@@ -8082,6 +8161,16 @@
                     "-": 7
                 }
             }
+        },
+        "Mysterious Anomaly": {
+            "2014": {
+                "SB+": {
+                    "-": 0
+                },
+                "Gouda/Brie": {
+                    "-": 0
+                }
+            }
         }
     },
     "Greyrun": {
@@ -8116,12 +8205,6 @@
                 },
                 "Marble String": {
                     "-": 13.29
-                },
-                "Dumpling": {
-                    "-": 7.31
-                },
-                "Nian Gao'da": {
-                    "-": 1.86
                 }
             }
         }
@@ -8158,12 +8241,6 @@
                 },
                 "Marble String": {
                     "-": 14.35
-                },
-                "Dumpling": {
-                    "-": 10.44
-                },
-                "Nian Gao'da": {
-                    "-": 4.27
                 }
             }
         }
@@ -8176,9 +8253,6 @@
                 },
                 "Brie String": {
                     "-": 0.99
-                },
-                "Nian Gao'da": {
-                    "-": 2.74
                 }
             }
         }
@@ -8197,12 +8271,6 @@
                 },
                 "Marble String": {
                     "-": 2.11
-                },
-                "Dumpling": {
-                    "-": 4.66
-                },
-                "Nian Gao'da": {
-                    "-": 2.41
                 }
             }
         }
@@ -8221,12 +8289,6 @@
                 },
                 "Riftiago": {
                     "-": 4.99
-                },
-                "Dumpling": {
-                    "-": 1.29
-                },
-                "Nian Gao'da": {
-                    "-": 1.2
                 }
             }
         },
@@ -8275,12 +8337,6 @@
                 },
                 "Riftiago": {
                     "-": 4.97
-                },
-                "Dumpling": {
-                    "-": 5.78
-                },
-                "Nian Gao'da": {
-                    "-": 2.63
                 }
             }
         },
@@ -8320,12 +8376,6 @@
             "-": {
                 "Riftiago": {
                     "-": 25.02
-                },
-                "Dumpling": {
-                    "-": 4.98
-                },
-                "Nian Gao'da": {
-                    "-": 3.06
                 }
             }
         }
@@ -8335,12 +8385,6 @@
             "-": {
                 "Riftiago": {
                     "-": 25.01
-                },
-                "Dumpling": {
-                    "-": 2.89
-                },
-                "Nian Gao'da": {
-                    "-": 1.53
                 }
             }
         }
@@ -8350,12 +8394,6 @@
             "-": {
                 "Riftiago": {
                     "-": 24.93
-                },
-                "Dumpling": {
-                    "-": 1.77
-                },
-                "Nian Gao'da": {
-                    "-": 1.09
                 }
             }
         }
@@ -8670,6 +8708,16 @@
                     "Magmatic Crystal": 0.51
                 }
             }
+        },
+        "Mysterious Anomaly": {
+            "2013": {
+                "SB+": {
+                    "-": 0
+                },
+                "Gouda/Brie": {
+                    "-": 0
+                }
+            }
         }
     },
     "Train Conductor": {
@@ -8962,6 +9010,16 @@
                     "Greasy Glob": 15.65
                 }
             }
+        },
+        "Mysterious Anomaly": {
+            "2013": {
+                "SB+": {
+                    "-": 0
+                },
+                "Gouda/Brie": {
+                    "-": 0
+                }
+            }
         }
     },
     "Stoutgear": {
@@ -9013,6 +9071,16 @@
                     "Dusty Coal": 11.02,
                     "Black Powder": 11.12,
                     "Magmatic Crystal": 11.69
+                }
+            }
+        },
+        "Mysterious Anomaly": {
+            "2013": {
+                "SB+": {
+                    "-": 0
+                },
+                "Gouda/Brie": {
+                    "-": 0
                 }
             }
         }
@@ -9102,12 +9170,6 @@
                 },
                 "White Cheddar/Marble/Mozzarella/Cheddar": {
                     "-": 5.7
-                },
-                "Dumpling": {
-                    "-": 4.74
-                },
-                "Nian Gao'da": {
-                    "-": 1.26
                 }
             }
         },
@@ -9166,12 +9228,6 @@
                 },
                 "White Cheddar/Marble/Mozzarella/Cheddar": {
                     "-": 3.96
-                },
-                "Dumpling": {
-                    "-": 6.84
-                },
-                "Nian Gao'da": {
-                    "-": 1.89
                 }
             }
         },
@@ -9231,9 +9287,6 @@
             "-": {
                 "SB+": {
                     "-": 1.88
-                },
-                "Nian Gao'da": {
-                    "-": 1.26
                 }
             }
         },
@@ -9253,9 +9306,6 @@
             "-": {
                 "SB+": {
                     "-": 0.77
-                },
-                "Nian Gao'da": {
-                    "-": 1.89
                 }
             }
         },
@@ -9309,12 +9359,19 @@
                 },
                 "Swiss": {
                     "-": 8.64
+                }
+            }
+        },
+        "Mysterious Anomaly": {
+            "2008": {
+                "SB+": {
+                    "-": 21.38
                 },
-                "Dumpling": {
-                    "-": 4.13
+                "Moon/Crescent": {
+                    "-": 14.04
                 },
-                "Nian Gao'da": {
-                    "-": 1.49
+                "Gouda/Brie": {
+                    "-": 29.13
                 }
             }
         }
@@ -9761,6 +9818,19 @@
                     "-": 11.36
                 }
             }
+        },
+        "Mysterious Anomaly": {
+            "2008": {
+                "SB+": {
+                    "-": 14.85
+                },
+                "Moon/Crescent": {
+                    "-": 6.43
+                },
+                "Gouda/Brie": {
+                    "-": 36.98
+                }
+            }
         }
     },
     "Pugilist": {
@@ -9849,9 +9919,6 @@
                 },
                 "White Cheddar": {
                     "-": 7.31
-                },
-                "Dumpling": {
-                    "-": 8.16
                 }
             }
         },
@@ -10471,6 +10538,16 @@
                     "-": 16.91
                 }
             }
+        },
+        "Mysterious Anomaly": {
+            "2012": {
+                "SB+": {
+                    "-": 6.45
+                },
+                "Gouda/Brie": {
+                    "-": 0
+                }
+            }
         }
     },
     "Snow Soldier": {
@@ -10782,6 +10859,16 @@
                 },
                 "Swiss/Marble/Mozzarella": {
                     "Softserve": 9.25
+                }
+            }
+        },
+        "Mysterious Anomaly": {
+            "2012": {
+                "SB+": {
+                    "-": 6.45
+                },
+                "Gouda/Brie": {
+                    "-": 0
                 }
             }
         }
@@ -11524,9 +11611,6 @@
                 },
                 "White Cheddar": {
                     "-": 4.92
-                },
-                "Dumpling": {
-                    "-": 8.51
                 }
             }
         },
@@ -11603,9 +11687,6 @@
                 },
                 "Brie": {
                     "-": 6.67
-                },
-                "Dumpling": {
-                    "-": 10.46
                 }
             }
         },
@@ -11660,9 +11741,6 @@
                 },
                 "Brie": {
                     "-": 5.2
-                },
-                "Dumpling": {
-                    "-": 6.91
                 }
             }
         },
@@ -11730,14 +11808,6 @@
                 "Cheddar": {
                     "-": 23.45
                 }
-            },
-            "-": {
-                "Dumpling": {
-                    "-": 2.86
-                },
-                "Nian Gao'da": {
-                    "-": 1.79
-                }
             }
         }
     },
@@ -11761,14 +11831,6 @@
                 },
                 "Cheddar": {
                     "-": 22.73
-                }
-            },
-            "-": {
-                "Dumpling": {
-                    "-": 4.08
-                },
-                "Nian Gao'da": {
-                    "-": 3.28
                 }
             }
         }
@@ -11794,14 +11856,6 @@
                 "Cheddar": {
                     "-": 24.95
                 }
-            },
-            "-": {
-                "Dumpling": {
-                    "-": 3.08
-                },
-                "Nian Gao'da": {
-                    "-": 0.7
-                }
             }
         }
     },
@@ -11825,14 +11879,6 @@
                 },
                 "Cheddar": {
                     "-": 14.51
-                }
-            },
-            "-": {
-                "Dumpling": {
-                    "-": 3.45
-                },
-                "Nian Gao'da": {
-                    "-": 2.88
                 }
             }
         }
@@ -11858,14 +11904,6 @@
                 "Cheddar": {
                     "-": 12.01
                 }
-            },
-            "-": {
-                "Dumpling": {
-                    "-": 3
-                },
-                "Nian Gao'da": {
-                    "-": 1.29
-                }
             }
         }
     },
@@ -11889,14 +11927,6 @@
                 },
                 "Cheddar": {
                     "-": 2.36
-                }
-            },
-            "-": {
-                "Dumpling": {
-                    "-": 3.26
-                },
-                "Nian Gao'da": {
-                    "-": 1.99
                 }
             }
         }
@@ -11943,14 +11973,6 @@
                 "Tier 2": {
                     "-": 15.95
                 }
-            },
-            "-": {
-                "Dumpling": {
-                    "-": 4.34
-                },
-                "Nian Gao'da": {
-                    "-": 0.3
-                }
             }
         }
     },
@@ -11959,14 +11981,6 @@
             "Tier 2": {
                 "Tier 2": {
                     "-": 4.98
-                }
-            },
-            "-": {
-                "Dumpling": {
-                    "-": 3.49
-                },
-                "Nian Gao'da": {
-                    "-": 0.6
                 }
             }
         }
@@ -12013,14 +12027,6 @@
                 "Tier 3": {
                     "-": 9.99
                 }
-            },
-            "-": {
-                "Dumpling": {
-                    "-": 2.97
-                },
-                "Nian Gao'da": {
-                    "-": 0.1
-                }
             }
         }
     },
@@ -12029,14 +12035,6 @@
             "Tier 3": {
                 "Tier 3": {
                     "-": 9.98
-                }
-            },
-            "-": {
-                "Dumpling": {
-                    "-": 4.27
-                },
-                "Nian Gao'da": {
-                    "-": 0.3
                 }
             }
         }
@@ -12082,6 +12080,16 @@
             "Tier 4": {
                 "Tier 4": {
                     "-": 10.07
+                }
+            }
+        },
+        "Mysterious Anomaly": {
+            "2010": {
+                "SB+": {
+                    "-": 19.65
+                },
+                "Gouda/Brie": {
+                    "-": 21.84
                 }
             }
         }
@@ -12768,6 +12776,16 @@
                     "-": 0.75
                 }
             }
+        },
+        "Mysterious Anomaly": {
+            "2015": {
+                "SB+": {
+                    "-": 0
+                },
+                "Gouda/Brie": {
+                    "-": 0
+                }
+            }
         }
     },
     "Masked Pikeman": {
@@ -13125,6 +13143,16 @@
                     "-": 0.85
                 }
             }
+        },
+        "Mysterious Anomaly": {
+            "2015": {
+                "SB+": {
+                    "-": 0
+                },
+                "Gouda/Brie": {
+                    "-": 0
+                }
+            }
         }
     },
     "Ash Golem": {
@@ -13237,6 +13265,16 @@
                 },
                 "Gouda": {
                     "-": 0.79
+                }
+            }
+        },
+        "Mysterious Anomaly": {
+            "2015": {
+                "SB+": {
+                    "-": 0
+                },
+                "Gouda/Brie": {
+                    "-": 0
                 }
             }
         }
@@ -14048,6 +14086,16 @@
                     "-": 10.89
                 }
             }
+        },
+        "Mysterious Anomaly": {
+            "2012": {
+                "SB+": {
+                    "-": 12.9
+                },
+                "Gouda/Brie": {
+                    "-": 0
+                }
+            }
         }
     },
     "Thistle": {
@@ -14212,9 +14260,6 @@
                 },
                 "White Cheddar": {
                     "-": 33.97
-                },
-                "Dumpling": {
-                    "-": 3.37
                 }
             }
         }
@@ -14485,12 +14530,6 @@
                 "Brie": {
                     "-": 15.84,
                     "Artisan": 18.07
-                },
-                "Dumpling": {
-                    "-": 9.02
-                },
-                "Nian Gao'da": {
-                    "-": 2.78
                 }
             }
         }
@@ -14509,12 +14548,6 @@
                 "Brie": {
                     "-": 13.88,
                     "Artisan": 16.03
-                },
-                "Dumpling": {
-                    "-": 11.43
-                },
-                "Nian Gao'da": {
-                    "-": 1.39
                 }
             }
         }
@@ -14533,12 +14566,6 @@
                 "Brie": {
                     "-": 11.94,
                     "Artisan": 13.85
-                },
-                "Dumpling": {
-                    "-": 6.44
-                },
-                "Nian Gao'da": {
-                    "-": 2.31
                 }
             }
         }
@@ -14557,12 +14584,6 @@
                 "Brie": {
                     "-": 10.17,
                     "Artisan": 4.47
-                },
-                "Dumpling": {
-                    "-": 3.7
-                },
-                "Nian Gao'da": {
-                    "-": 1.39
                 }
             }
         }
@@ -14581,12 +14602,6 @@
                 "Brie": {
                     "-": 10.13,
                     "Artisan": 4.1
-                },
-                "Dumpling": {
-                    "-": 5.48
-                },
-                "Nian Gao'da": {
-                    "-": 0.46
                 }
             }
         }
@@ -14617,12 +14632,6 @@
                 },
                 "Brie": {
                     "-": 8.07
-                },
-                "Dumpling": {
-                    "-": 1.93
-                },
-                "Nian Gao'da": {
-                    "-": 0.46
                 }
             }
         }
@@ -14633,9 +14642,13 @@
                 "SB+": {
                     "-": 8.28,
                     "Artisan": 7.97
-                },
-                "Nian Gao'da": {
-                    "-": 6.02
+                }
+            }
+        },
+        "Mysterious Anomaly": {
+            "2011": {
+                "SB+": {
+                    "-": 18.35
                 }
             }
         }
@@ -14654,9 +14667,6 @@
                 "Brie": {
                     "-": 13.99,
                     "Artisan": 10.57
-                },
-                "Dumpling": {
-                    "-": 1.45
                 }
             }
         }
@@ -14672,12 +14682,6 @@
                 },
                 "Brie": {
                     "-": 8.07
-                },
-                "Dumpling": {
-                    "-": 2.25
-                },
-                "Nian Gao'da": {
-                    "-": 0.93
                 }
             }
         }
@@ -14693,12 +14697,6 @@
                 },
                 "Brie": {
                     "-": 1.01
-                },
-                "Dumpling": {
-                    "-": 2.25
-                },
-                "Nian Gao'da": {
-                    "-": 1.85
                 }
             }
         }
@@ -14812,6 +14810,16 @@
                     "-": 4.42
                 }
             }
+        },
+        "Mysterious Anomaly": {
+            "2009": {
+                "SB+": {
+                    "-": 17.23
+                },
+                "Gouda/Brie": {
+                    "-": 9.72
+                }
+            }
         }
     },
     "Beast Tamer": {
@@ -14891,12 +14899,6 @@
                 },
                 "Swiss": {
                     "-": 6.08
-                },
-                "Dumpling": {
-                    "-": 2.65
-                },
-                "Nian Gao'da": {
-                    "-": 0.28
                 }
             }
         }
@@ -14918,12 +14920,6 @@
                 },
                 "Swiss": {
                     "-": 9.67
-                },
-                "Dumpling": {
-                    "-": 3.3
-                },
-                "Nian Gao'da": {
-                    "-": 0.93
                 }
             }
         }
@@ -14945,12 +14941,6 @@
                 },
                 "Swiss": {
                     "-": 4.83
-                },
-                "Dumpling": {
-                    "-": 4.36
-                },
-                "Nian Gao'da": {
-                    "-": 3.91
                 }
             }
         }
@@ -14972,12 +14962,6 @@
                 },
                 "Swiss": {
                     "-": 4.46
-                },
-                "Dumpling": {
-                    "-": 4.55
-                },
-                "Nian Gao'da": {
-                    "-": 2.52
                 }
             }
         }
@@ -15020,12 +15004,6 @@
                 },
                 "Swiss": {
                     "-": 5.54
-                },
-                "Dumpling": {
-                    "-": 4.87
-                },
-                "Nian Gao'da": {
-                    "-": 2.52
                 }
             }
         }
@@ -15047,12 +15025,13 @@
                 },
                 "Swiss": {
                     "-": 0.19
-                },
-                "Dumpling": {
-                    "-": 0.37
-                },
-                "Nian Gao'da": {
-                    "-": 0.37
+                }
+            }
+        },
+        "Mysterious Anomaly": {
+            "2009": {
+                "SB+": {
+                    "-": 0.88
                 }
             }
         }
@@ -15089,12 +15068,6 @@
                 },
                 "Swiss": {
                     "-": 6.89
-                },
-                "Dumpling": {
-                    "-": 3.48
-                },
-                "Nian Gao'da": {
-                    "-": 2.14
                 }
             }
         }
@@ -15122,9 +15095,6 @@
             "-": {
                 "SB+": {
                     "-": 2.42
-                },
-                "Nian Gao'da": {
-                    "-": 3.45
                 }
             }
         }
@@ -15143,12 +15113,6 @@
                 },
                 "Swiss": {
                     "-": 1.59
-                },
-                "Dumpling": {
-                    "-": 4.55
-                },
-                "Nian Gao'da": {
-                    "-": 2.89
                 }
             }
         }
@@ -15287,6 +15251,16 @@
             "Stampede": {
                 "Dewthief Camembert": {
                     "Grubling Chow": 24.54
+                }
+            }
+        },
+        "Mysterious Anomaly": {
+            "2012": {
+                "SB+": {
+                    "-": 22.58
+                },
+                "Gouda/Brie": {
+                    "-": 0
                 }
             }
         }
@@ -15637,6 +15611,13 @@
                     "-": 4.98
                 }
             }
+        },
+        "Mysterious Anomaly": {
+            "2010": {
+                "SB+": {
+                    "-": 8.09
+                }
+            }
         }
     },
     "Living Ice": {
@@ -15645,6 +15626,13 @@
                 "SB+": {
                     "-": 13.27,
                     "Softserve": 18.57
+                }
+            }
+        },
+        "Mysterious Anomaly": {
+            "2012": {
+                "SB+": {
+                    "-": 29.03
                 }
             }
         }
@@ -15684,6 +15672,13 @@
                 },
                 "SB+": {
                     "-": 20.36
+                }
+            }
+        },
+        "Mysterious Anomaly": {
+            "2014": {
+                "SB+": {
+                    "-": 0
                 }
             }
         }
@@ -16219,6 +16214,16 @@
                 },
                 "Gouda": {
                     "-": 35.04
+                }
+            }
+        },
+        "Mysterious Anomaly": {
+            "2014": {
+                "SB+": {
+                    "-": 0
+                },
+                "Gouda/Brie": {
+                    "-": 0
                 }
             }
         }
@@ -17590,6 +17595,16 @@
                     "Rotten": 9.51
                 }
             }
+        },
+        "Mysterious Anomaly": {
+            "2014": {
+                "SB+": {
+                    "-": 0
+                },
+                "Gouda/Brie": {
+                    "-": 0
+                }
+            }
         }
     },
     "Plague Hag": {
@@ -17955,6 +17970,16 @@
                     "Rotten": 3.14
                 }
             }
+        },
+        "Mysterious Anomaly": {
+            "2014": {
+                "SB+": {
+                    "-": 0
+                },
+                "Gouda/Brie": {
+                    "-": 0
+                }
+            }
         }
     },
     "Sludge": {
@@ -18100,100 +18125,6 @@
             "-": {
                 "SB+": {
                     "-": 3.34
-                }
-            }
-        },
-        "Town of Gnawnia": {
-            "-": {
-                "Dumpling": {
-                    "-": 7.45
-                }
-            }
-        },
-        "Great Gnarled Tree": {
-            "-": {
-                "Dumpling": {
-                    "-": 9.74
-                },
-                "Nian Gao'da": {
-                    "-": 8.81
-                }
-            }
-        },
-        "Dojo": {
-            "-": {
-                "Dumpling": {
-                    "-": 7.54
-                }
-            }
-        },
-        "S.S. Huntington III": {
-            "-": {
-                "Dumpling": {
-                    "-": 6.73
-                },
-                "Nian Gao'da": {
-                    "-": 6.34
-                }
-            }
-        },
-        "King's Gauntlet": {
-            "-": {
-                "Dumpling": {
-                    "-": 6.9
-                },
-                "Nian Gao'da": {
-                    "-": 7.45
-                }
-            }
-        },
-        "Claw Shot City": {
-            "-": {
-                "Dumpling": {
-                    "-": 6.52
-                },
-                "Nian Gao'da": {
-                    "-": 3.9
-                }
-            }
-        },
-        "Muridae Market": {
-            "-": {
-                "Dumpling": {
-                    "-": 7.25
-                },
-                "Nian Gao'da": {
-                    "-": 9.26
-                }
-            }
-        },
-        "Gnawnia Rift": {
-            "-": {
-                "Dumpling": {
-                    "-": 6.91
-                },
-                "Nian Gao'da": {
-                    "-": 5.91
-                }
-            }
-        },
-        "Fungal Cavern": {
-            "-": {
-                "Dumpling": {
-                    "-": 7.45
-                },
-                "Nian Gao'da": {
-                    "-": 5.83
-                }
-            }
-        },
-        "Moussu Picchu": {
-            "-": {
-                "Dumpling": {
-                    "-": 6.98
-                },
-                "Nian Gao'da": {
-                    "-": 6.42
                 }
             }
         }
@@ -18647,6 +18578,16 @@
             "Monstrous Black Widow": {
                 "Lactrodectus Lancashire": {
                     "-": 0.33
+                }
+            }
+        },
+        "Mysterious Anomaly": {
+            "2015": {
+                "SB+": {
+                    "-": 0
+                },
+                "Gouda/Brie": {
+                    "-": 0
                 }
             }
         }
@@ -19813,6 +19754,16 @@
                     "-": 5.1
                 }
             }
+        },
+        "Mysterious Anomaly": {
+            "2010": {
+                "SB+": {
+                    "-": 13.58
+                },
+                "Gouda/Brie": {
+                    "-": 5.75
+                }
+            }
         }
     },
     "Exo-Tech": {
@@ -20226,6 +20177,16 @@
                     "-": 11.84
                 }
             }
+        },
+        "Mysterious Anomaly": {
+            "2010": {
+                "SB+": {
+                    "-": 21.97
+                },
+                "Gouda/Brie": {
+                    "-": 26.44
+                }
+            }
         }
     },
     "Mystic Pawn": {
@@ -20347,6 +20308,16 @@
             "Chess Master": {
                 "Checkmate": {
                     "-": 12.28
+                }
+            }
+        },
+        "Mysterious Anomaly": {
+            "2010": {
+                "SB+": {
+                    "-": 17.34
+                },
+                "Gouda/Brie": {
+                    "-": 20.69
                 }
             }
         }
@@ -20799,12 +20770,16 @@
                 },
                 "Gouda": {
                     "-": 21.83
+                }
+            }
+        },
+        "Mysterious Anomaly": {
+            "2017": {
+                "SB+": {
+                    "-": 0
                 },
-                "Dumpling": {
-                    "-": 6.3
-                },
-                "Nian Gao'da": {
-                    "-": 3.47
+                "Gouda/Brie": {
+                    "-": 0
                 }
             }
         }
@@ -20823,12 +20798,16 @@
                 },
                 "Gouda": {
                     "-": 22.19
+                }
+            }
+        },
+        "Mysterious Anomaly": {
+            "2017": {
+                "SB+": {
+                    "-": 0
                 },
-                "Dumpling": {
-                    "-": 6.35
-                },
-                "Nian Gao'da": {
-                    "-": 3.82
+                "Gouda/Brie": {
+                    "-": 0
                 }
             }
         }
@@ -20847,12 +20826,6 @@
                 },
                 "Gouda": {
                     "-": 12.69
-                },
-                "Dumpling": {
-                    "-": 5
-                },
-                "Nian Gao'da": {
-                    "-": 1.91
                 }
             }
         }
@@ -20871,12 +20844,6 @@
                 },
                 "Gouda": {
                     "-": 12.61
-                },
-                "Dumpling": {
-                    "-": 8.54
-                },
-                "Nian Gao'da": {
-                    "-": 3.65
                 }
             }
         }
@@ -20886,9 +20853,6 @@
             "-": {
                 "SB+": {
                     "-": 9.1
-                },
-                "Nian Gao'da": {
-                    "-": 3.3
                 }
             }
         }
@@ -20904,12 +20868,6 @@
                 },
                 "Gouda": {
                     "-": 14.91
-                },
-                "Dumpling": {
-                    "-": 5.33
-                },
-                "Nian Gao'da": {
-                    "-": 2.69
                 }
             }
         }
@@ -20925,12 +20883,6 @@
                 },
                 "Gouda": {
                     "-": 15.77
-                },
-                "Dumpling": {
-                    "-": 7.52
-                },
-                "Nian Gao'da": {
-                    "-": 4.86
                 }
             }
         }
@@ -20940,9 +20892,13 @@
             "-": {
                 "Glowing Gruyere": {
                     "-": 9.5
-                },
-                "Nian Gao'da": {
-                    "-": 4.34
+                }
+            }
+        },
+        "Mysterious Anomaly": {
+            "2017": {
+                "SB+": {
+                    "-": 0
                 }
             }
         }
@@ -22847,6 +22803,16 @@
                     "Rift Antiskele": 6.15
                 }
             }
+        },
+        "Mysterious Anomaly": {
+            "2017": {
+                "SB+": {
+                    "-": 0
+                },
+                "Gouda/Brie": {
+                    "-": 0
+                }
+            }
         }
     },
     "Chamber Cleaver": {
@@ -23069,6 +23035,16 @@
                     "Rift Antiskele": 22.2
                 }
             }
+        },
+        "Mysterious Anomaly": {
+            "2017": {
+                "SB+": {
+                    "-": 0
+                },
+                "Gouda/Brie": {
+                    "-": 0
+                }
+            }
         }
     },
     "Clockwork Timespinner": {
@@ -23255,6 +23231,16 @@
                 "Brie String": {
                     "-": 21.31,
                     "Rift Antiskele": 22.52
+                }
+            }
+        },
+        "Mysterious Anomaly": {
+            "2017": {
+                "SB+": {
+                    "-": 0
+                },
+                "Gouda/Brie": {
+                    "-": 0
                 }
             }
         }
@@ -23903,6 +23889,16 @@
                     "-": 10.55
                 }
             }
+        },
+        "Mysterious Anomaly": {
+            "2016": {
+                "SB+": {
+                    "-": 0
+                },
+                "Gouda/Brie": {
+                    "-": 0
+                }
+            }
         }
     },
     "Armored Archer": {
@@ -23919,6 +23915,16 @@
                 },
                 "Swiss String": {
                     "-": 22.15
+                }
+            }
+        },
+        "Mysterious Anomaly": {
+            "2016": {
+                "SB+": {
+                    "-": 0
+                },
+                "Gouda/Brie": {
+                    "-": 0
                 }
             }
         }
@@ -23952,6 +23958,13 @@
                 },
                 "Brie String": {
                     "-": 2.14
+                }
+            }
+        },
+        "Mysterious Anomaly": {
+            "2016": {
+                "SB+": {
+                    "-": 0
                 }
             }
         }
@@ -24187,1596 +24200,335 @@
             }
         }
     },
-    "Calligraphy": {
-        "Town of Gnawnia": {
-            "-": {
-                "Dumpling": {
-                    "-": 9.22
-                }
-            }
-        },
-        "Great Gnarled Tree": {
-            "-": {
-                "Dumpling": {
-                    "-": 9.74
-                },
-                "Nian Gao'da": {
-                    "-": 6.29
-                }
-            }
-        },
-        "Dojo": {
-            "-": {
-                "Dumpling": {
-                    "-": 6.87
-                }
-            }
-        },
-        "S.S. Huntington III": {
-            "-": {
-                "Dumpling": {
-                    "-": 7.61
-                },
-                "Nian Gao'da": {
-                    "-": 6.43
-                }
-            }
-        },
-        "King's Gauntlet": {
-            "-": {
-                "Dumpling": {
-                    "-": 7.83
-                },
-                "Nian Gao'da": {
-                    "-": 8.34
-                }
-            }
-        },
-        "Claw Shot City": {
-            "-": {
-                "Dumpling": {
-                    "-": 7.97
-                },
-                "Nian Gao'da": {
-                    "-": 8.57
-                }
-            }
-        },
-        "Muridae Market": {
-            "-": {
-                "Dumpling": {
-                    "-": 9.34
-                },
-                "Nian Gao'da": {
-                    "-": 6.48
-                }
-            }
-        },
-        "Gnawnia Rift": {
-            "-": {
-                "Dumpling": {
-                    "-": 8.11
-                },
-                "Nian Gao'da": {
-                    "-": 6.67
-                }
-            }
-        },
-        "Fungal Cavern": {
-            "-": {
-                "Dumpling": {
-                    "-": 7.26
-                },
-                "Nian Gao'da": {
-                    "-": 8.01
-                }
-            }
-        },
-        "Moussu Picchu": {
-            "-": {
-                "Dumpling": {
-                    "-": 8.63
-                },
-                "Nian Gao'da": {
-                    "-": 7.03
+    "Gargoyle": {
+        "Forbidden Grove": {
+            "open": {
+                "Ancient": {
+                    "-": 18.02
                 }
             }
         }
     },
-    "Red Envelope": {
-        "Town of Gnawnia": {
-            "-": {
-                "Dumpling": {
-                    "-": 6.03
-                }
-            }
-        },
-        "Great Gnarled Tree": {
-            "-": {
-                "Dumpling": {
-                    "-": 6.32
-                },
-                "Nian Gao'da": {
-                    "-": 10.06
-                }
-            }
-        },
-        "Dojo": {
-            "-": {
-                "Dumpling": {
-                    "-": 6.65
-                }
-            }
-        },
-        "S.S. Huntington III": {
-            "-": {
-                "Dumpling": {
-                    "-": 7.75
-                },
-                "Nian Gao'da": {
-                    "-": 6.9
-                }
-            }
-        },
-        "King's Gauntlet": {
-            "-": {
-                "Dumpling": {
-                    "-": 7.38
-                },
-                "Nian Gao'da": {
-                    "-": 8.04
-                }
-            }
-        },
-        "Claw Shot City": {
-            "-": {
-                "Dumpling": {
-                    "-": 5.8
-                },
-                "Nian Gao'da": {
-                    "-": 6.23
-                }
-            }
-        },
-        "Muridae Market": {
-            "-": {
-                "Dumpling": {
-                    "-": 9.98
-                },
-                "Nian Gao'da": {
-                    "-": 11.11
-                }
-            }
-        },
-        "Gnawnia Rift": {
-            "-": {
-                "Dumpling": {
-                    "-": 8.27
-                },
-                "Nian Gao'da": {
-                    "-": 7.11
-                }
-            }
-        },
-        "Fungal Cavern": {
-            "-": {
-                "Dumpling": {
-                    "-": 6.93
-                },
-                "Nian Gao'da": {
-                    "-": 5.97
-                }
-            }
-        },
-        "Moussu Picchu": {
-            "-": {
-                "Dumpling": {
-                    "-": 7.08
-                },
-                "Nian Gao'da": {
-                    "-": 7.99
-                }
-            }
-        }
-    },
-    "Costumed Rabbit": {
-        "Town of Gnawnia": {
-            "-": {
-                "Dumpling": {
-                    "-": 3.01
-                }
-            }
-        },
-        "Great Gnarled Tree": {
-            "-": {
-                "Dumpling": {
-                    "-": 2.37
-                },
-                "Nian Gao'da": {
-                    "-": 1.26
-                }
-            }
-        },
-        "Dojo": {
-            "-": {
-                "Dumpling": {
-                    "-": 2
-                }
-            }
-        },
-        "S.S. Huntington III": {
-            "-": {
-                "Dumpling": {
-                    "-": 2.18
-                },
-                "Nian Gao'da": {
-                    "-": 1.3
-                }
-            }
-        },
-        "King's Gauntlet": {
-            "-": {
-                "Dumpling": {
+    "Reaper": {
+        "Forbidden Grove": {
+            "open": {
+                "Ancient": {
                     "-": 2.15
-                },
-                "Nian Gao'da": {
-                    "-": 3.57
-                }
-            }
-        },
-        "Claw Shot City": {
-            "-": {
-                "Dumpling": {
-                    "-": 1.16
-                },
-                "Nian Gao'da": {
-                    "-": 3.12
-                }
-            }
-        },
-        "Muridae Market": {
-            "-": {
-                "Dumpling": {
-                    "-": 2.25
-                },
-                "Nian Gao'da": {
-                    "-": 2.31
-                }
-            }
-        },
-        "Gnawnia Rift": {
-            "-": {
-                "Dumpling": {
-                    "-": 2.57
-                },
-                "Nian Gao'da": {
-                    "-": 2.08
-                }
-            }
-        },
-        "Fungal Cavern": {
-            "-": {
-                "Dumpling": {
-                    "-": 2.25
-                },
-                "Nian Gao'da": {
-                    "-": 2.27
-                }
-            }
-        },
-        "Moussu Picchu": {
-            "-": {
-                "Dumpling": {
-                    "-": 1.94
-                },
-                "Nian Gao'da": {
-                    "-": 2.95
                 }
             }
         }
     },
-    "Wave Racer": {
-        "Town of Gnawnia": {
-            "-": {
-                "Dumpling": {
-                    "-": 2.84
-                }
-            }
-        },
-        "Great Gnarled Tree": {
-            "-": {
-                "Dumpling": {
-                    "-": 5.53
-                },
-                "Nian Gao'da": {
-                    "-": 1.89
-                }
-            }
-        },
-        "Dojo": {
-            "-": {
-                "Dumpling": {
-                    "-": 3.99
-                }
-            }
-        },
-        "S.S. Huntington III": {
-            "-": {
-                "Dumpling": {
-                    "-": 4.09
-                },
-                "Nian Gao'da": {
-                    "-": 3.08
-                }
-            }
-        },
-        "King's Gauntlet": {
-            "-": {
-                "Dumpling": {
-                    "-": 4.97
-                },
-                "Nian Gao'da": {
-                    "-": 4.37
-                }
-            }
-        },
-        "Claw Shot City": {
-            "-": {
-                "Dumpling": {
-                    "-": 3.77
-                },
-                "Nian Gao'da": {
-                    "-": 0.26
-                }
-            }
-        },
-        "Muridae Market": {
-            "-": {
-                "Dumpling": {
-                    "-": 1.45
-                },
-                "Nian Gao'da": {
-                    "-": 2.78
-                }
-            }
-        },
-        "Gnawnia Rift": {
-            "-": {
-                "Dumpling": {
-                    "-": 3.86
-                },
-                "Nian Gao'da": {
-                    "-": 2.52
-                }
-            }
-        },
-        "Fungal Cavern": {
-            "-": {
-                "Dumpling": {
-                    "-": 4.82
-                },
-                "Nian Gao'da": {
-                    "-": 2.56
-                }
-            }
-        },
-        "Moussu Picchu": {
-            "-": {
-                "Dumpling": {
-                    "-": 3.3
-                },
-                "Nian Gao'da": {
-                    "-": 1.56
+    "Realm Ripper": {
+        "Forbidden Grove": {
+            "closed": {
+                "Ancient": {
+                    "-": 100
                 }
             }
         }
     },
-    "Costumed Tiger": {
-        "Town of Gnawnia": {
-            "-": {
-                "Dumpling": {
-                    "-": 2.3
-                }
-            }
-        },
-        "Great Gnarled Tree": {
-            "-": {
-                "Dumpling": {
-                    "-": 2.37
-                },
-                "Nian Gao'da": {
-                    "-": 1.89
-                }
-            }
-        },
-        "Dojo": {
-            "-": {
-                "Dumpling": {
-                    "-": 1.11
-                }
-            }
-        },
-        "S.S. Huntington III": {
-            "-": {
-                "Dumpling": {
-                    "-": 2.46
-                },
-                "Nian Gao'da": {
-                    "-": 3.36
-                }
-            }
-        },
-        "King's Gauntlet": {
-            "-": {
-                "Dumpling": {
-                    "-": 1.56
-                },
-                "Nian Gao'da": {
-                    "-": 2.88
-                }
-            }
-        },
-        "Claw Shot City": {
-            "-": {
-                "Dumpling": {
-                    "-": 1.88
-                },
-                "Nian Gao'da": {
-                    "-": 2.08
-                }
-            }
-        },
-        "Muridae Market": {
-            "-": {
-                "Dumpling": {
-                    "-": 2.42
-                },
-                "Nian Gao'da": {
-                    "-": 1.85
-                }
-            }
-        },
-        "Gnawnia Rift": {
-            "-": {
-                "Dumpling": {
-                    "-": 2.73
-                },
-                "Nian Gao'da": {
-                    "-": 2.19
-                }
-            }
-        },
-        "Fungal Cavern": {
-            "-": {
-                "Dumpling": {
-                    "-": 2.42
-                },
-                "Nian Gao'da": {
-                    "-": 2.65
-                }
-            }
-        },
-        "Moussu Picchu": {
-            "-": {
-                "Dumpling": {
-                    "-": 2.72
-                },
-                "Nian Gao'da": {
-                    "-": 2.26
+    "Present": {
+        "Mysterious Anomaly": {
+            "2008": {
+                "Rewind Raclette": {
+                    "-": 19.23
                 }
             }
         }
     },
-    "Costumed Dog": {
-        "Town of Gnawnia": {
-            "-": {
-                "Dumpling": {
-                    "-": 2.3
+    "Time Punk": {
+        "Mysterious Anomaly": {
+            "2008": {
+                "Rewind Raclette": {
+                    "-": 34.92
                 }
-            }
-        },
-        "Great Gnarled Tree": {
-            "-": {
-                "Dumpling": {
-                    "-": 3.16
-                },
-                "Nian Gao'da": {
-                    "-": 2.52
+            },
+            "2009": {
+                "Rewind Raclette": {
+                    "-": 31.42
                 }
-            }
-        },
-        "Dojo": {
-            "-": {
-                "Dumpling": {
-                    "-": 1.33
+            },
+            "2010": {
+                "Rewind Raclette": {
+                    "-": 40.94
                 }
-            }
-        },
-        "S.S. Huntington III": {
-            "-": {
-                "Dumpling": {
-                    "-": 1.81
-                },
-                "Nian Gao'da": {
-                    "-": 3.08
+            },
+            "2011": {
+                "Rewind Raclette": {
+                    "-": 39.94
                 }
-            }
-        },
-        "King's Gauntlet": {
-            "-": {
-                "Dumpling": {
-                    "-": 2.49
-                },
-                "Nian Gao'da": {
-                    "-": 2.78
+            },
+            "2012": {
+                "Rewind Raclette": {
+                    "-": 41.24
                 }
-            }
-        },
-        "Claw Shot City": {
-            "-": {
-                "Dumpling": {
-                    "-": 1.88
-                },
-                "Nian Gao'da": {
-                    "-": 2.6
+            },
+            "2013": {
+                "Rewind Raclette": {
+                    "-": 41.64
                 }
-            }
-        },
-        "Muridae Market": {
-            "-": {
-                "Dumpling": {
-                    "-": 1.93
-                },
-                "Nian Gao'da": {
-                    "-": 1.39
+            },
+            "2014": {
+                "Rewind Raclette": {
+                    "-": 0
                 }
-            }
-        },
-        "Gnawnia Rift": {
-            "-": {
-                "Dumpling": {
-                    "-": 2.33
-                },
-                "Nian Gao'da": {
-                    "-": 2.3
+            },
+            "2015": {
+                "Rewind Raclette": {
+                    "-": 0
                 }
-            }
-        },
-        "Fungal Cavern": {
-            "-": {
-                "Dumpling": {
-                    "-": 2.3
-                },
-                "Nian Gao'da": {
-                    "-": 2.94
+            },
+            "2016": {
+                "Rewind Raclette": {
+                    "-": 0
                 }
-            }
-        },
-        "Moussu Picchu": {
-            "-": {
-                "Dumpling": {
-                    "-": 1.79
-                },
-                "Nian Gao'da": {
-                    "-": 2.34
+            },
+            "2017": {
+                "Rewind Raclette": {
+                    "-": 0
                 }
             }
         }
     },
-    "Costumed Dragon": {
-        "Town of Gnawnia": {
-            "-": {
-                "Dumpling": {
-                    "-": 1.95
+    "Time Tailor": {
+        "Mysterious Anomaly": {
+            "2008": {
+                "Rewind Raclette": {
+                    "-": 9.12
+                }
+            },
+            "2009": {
+                "Rewind Raclette": {
+                    "-": 8.2
+                }
+            },
+            "2010": {
+                "Rewind Raclette": {
+                    "-": 10.69
+                }
+            },
+            "2011": {
+                "Rewind Raclette": {
+                    "-": 10.43
+                }
+            },
+            "2012": {
+                "Rewind Raclette": {
+                    "-": 10.77
+                }
+            },
+            "2013": {
+                "Rewind Raclette": {
+                    "-": 10.87
+                }
+            },
+            "2014": {
+                "Rewind Raclette": {
+                    "-": 0
+                }
+            },
+            "2015": {
+                "Rewind Raclette": {
+                    "-": 0
+                }
+            },
+            "2016": {
+                "Rewind Raclette": {
+                    "-": 0
+                }
+            },
+            "2017": {
+                "Rewind Raclette": {
+                    "-": 0
                 }
             }
-        },
-        "Great Gnarled Tree": {
-            "-": {
-                "Dumpling": {
-                    "-": 2.11
-                },
-                "Nian Gao'da": {
-                    "-": 1.89
+        }
+    },
+    "Terrible Twos": {
+        "Mysterious Anomaly": {
+            "2009": {
+                "Rewind Raclette": {
+                    "-": 27.34
                 }
             }
-        },
-        "Dojo": {
-            "-": {
-                "Dumpling": {
-                    "-": 1.33
+        }
+    },
+    "Buckethead": {
+        "Mysterious Anomaly": {
+            "2010": {
+                "Rewind Raclette": {
+                    "-": 1.28
                 }
             }
-        },
-        "S.S. Huntington III": {
-            "-": {
-                "Dumpling": {
-                    "-": 2.18
-                },
-                "Nian Gao'da": {
-                    "-": 2.14
-                }
-            }
-        },
-        "King's Gauntlet": {
-            "-": {
-                "Dumpling": {
-                    "-": 2.15
-                },
-                "Nian Gao'da": {
-                    "-": 1.89
-                }
-            }
-        },
-        "Claw Shot City": {
-            "-": {
-                "Dumpling": {
+        }
+    },
+    "Pintail": {
+        "Mysterious Anomaly": {
+            "2010": {
+                "Rewind Raclette": {
                     "-": 3.19
-                },
-                "Nian Gao'da": {
-                    "-": 1.56
-                }
-            }
-        },
-        "Muridae Market": {
-            "-": {
-                "Dumpling": {
-                    "-": 1.77
-                },
-                "Nian Gao'da": {
-                    "-": 1.85
-                }
-            }
-        },
-        "Gnawnia Rift": {
-            "-": {
-                "Dumpling": {
-                    "-": 2.49
-                },
-                "Nian Gao'da": {
-                    "-": 2.52
-                }
-            }
-        },
-        "Fungal Cavern": {
-            "-": {
-                "Dumpling": {
-                    "-": 2.4
-                },
-                "Nian Gao'da": {
-                    "-": 3.03
-                }
-            }
-        },
-        "Moussu Picchu": {
-            "-": {
-                "Dumpling": {
-                    "-": 2.42
-                },
-                "Nian Gao'da": {
-                    "-": 2.17
                 }
             }
         }
     },
-    "Costumed Sheep": {
-        "Town of Gnawnia": {
-            "-": {
-                "Dumpling": {
-                    "-": 1.95
-                }
-            }
-        },
-        "Great Gnarled Tree": {
-            "-": {
-                "Dumpling": {
-                    "-": 1.84
-                },
-                "Nian Gao'da": {
-                    "-": 3.14
-                }
-            }
-        },
-        "Dojo": {
-            "-": {
-                "Dumpling": {
-                    "-": 2.22
-                }
-            }
-        },
-        "S.S. Huntington III": {
-            "-": {
-                "Dumpling": {
-                    "-": 1.86
-                },
-                "Nian Gao'da": {
-                    "-": 2.33
-                }
-            }
-        },
-        "King's Gauntlet": {
-            "-": {
-                "Dumpling": {
-                    "-": 2
-                },
-                "Nian Gao'da": {
-                    "-": 1.79
-                }
-            }
-        },
-        "Claw Shot City": {
-            "-": {
-                "Dumpling": {
-                    "-": 1.74
-                },
-                "Nian Gao'da": {
-                    "-": 1.56
-                }
-            }
-        },
-        "Muridae Market": {
-            "-": {
-                "Dumpling": {
-                    "-": 2.09
-                },
-                "Nian Gao'da": {
-                    "-": 4.63
-                }
-            }
-        },
-        "Gnawnia Rift": {
-            "-": {
-                "Dumpling": {
-                    "-": 2.33
-                },
-                "Nian Gao'da": {
-                    "-": 1.97
-                }
-            }
-        },
-        "Fungal Cavern": {
-            "-": {
-                "Dumpling": {
-                    "-": 1.78
-                },
-                "Nian Gao'da": {
-                    "-": 2.46
-                }
-            }
-        },
-        "Moussu Picchu": {
-            "-": {
-                "Dumpling": {
-                    "-": 2.23
-                },
-                "Nian Gao'da": {
-                    "-": 2
+    "Sleepwalker": {
+        "Mysterious Anomaly": {
+            "2010": {
+                "Rewind Raclette": {
+                    "-": 0.85
                 }
             }
         }
     },
-    "Extreme Everysports": {
-        "Town of Gnawnia": {
-            "-": {
-                "Dumpling": {
-                    "-": 1.95
-                }
-            }
-        },
-        "Great Gnarled Tree": {
-            "-": {
-                "Dumpling": {
-                    "-": 5
-                },
-                "Nian Gao'da": {
-                    "-": 2.52
-                }
-            }
-        },
-        "Dojo": {
-            "-": {
-                "Dumpling": {
-                    "-": 5.54
-                }
-            }
-        },
-        "S.S. Huntington III": {
-            "-": {
-                "Dumpling": {
-                    "-": 4.46
-                },
-                "Nian Gao'da": {
-                    "-": 2.7
-                }
-            }
-        },
-        "King's Gauntlet": {
-            "-": {
-                "Dumpling": {
-                    "-": 4.82
-                },
-                "Nian Gao'da": {
-                    "-": 4.27
-                }
-            }
-        },
-        "Claw Shot City": {
-            "-": {
-                "Dumpling": {
-                    "-": 5.07
-                },
-                "Nian Gao'da": {
-                    "-": 1.82
-                }
-            }
-        },
-        "Muridae Market": {
-            "-": {
-                "Dumpling": {
-                    "-": 2.25
-                },
-                "Nian Gao'da": {
-                    "-": 2.78
-                }
-            }
-        },
-        "Gnawnia Rift": {
-            "-": {
-                "Dumpling": {
-                    "-": 2.97
-                },
-                "Nian Gao'da": {
-                    "-": 2.74
-                }
-            }
-        },
-        "Fungal Cavern": {
-            "-": {
-                "Dumpling": {
-                    "-": 4.68
-                },
-                "Nian Gao'da": {
-                    "-": 3.08
-                }
-            }
-        },
-        "Moussu Picchu": {
-            "-": {
-                "Dumpling": {
-                    "-": 3.69
-                },
-                "Nian Gao'da": {
-                    "-": 2.26
+    "Dinosuit": {
+        "Mysterious Anomaly": {
+            "2011": {
+                "Rewind Raclette": {
+                    "-": 7.62
                 }
             }
         }
     },
-    "Costumed Rooster": {
-        "Town of Gnawnia": {
-            "-": {
-                "Dumpling": {
-                    "-": 1.77
-                }
-            }
-        },
-        "Great Gnarled Tree": {
-            "-": {
-                "Dumpling": {
-                    "-": 1.05
-                },
-                "Nian Gao'da": {
-                    "-": 3.14
-                }
-            }
-        },
-        "Dojo": {
-            "-": {
-                "Dumpling": {
-                    "-": 2.44
-                }
-            }
-        },
-        "S.S. Huntington III": {
-            "-": {
-                "Dumpling": {
-                    "-": 2.32
-                },
-                "Nian Gao'da": {
-                    "-": 2.8
-                }
-            }
-        },
-        "King's Gauntlet": {
-            "-": {
-                "Dumpling": {
-                    "-": 1.97
-                },
-                "Nian Gao'da": {
-                    "-": 1.99
-                }
-            }
-        },
-        "Claw Shot City": {
-            "-": {
-                "Dumpling": {
-                    "-": 1.59
-                },
-                "Nian Gao'da": {
-                    "-": 1.56
-                }
-            }
-        },
-        "Muridae Market": {
-            "-": {
-                "Dumpling": {
-                    "-": 1.77
-                },
-                "Nian Gao'da": {
-                    "-": 1.85
-                }
-            }
-        },
-        "Gnawnia Rift": {
-            "-": {
-                "Dumpling": {
-                    "-": 1.53
-                },
-                "Nian Gao'da": {
-                    "-": 2.63
-                }
-            }
-        },
-        "Fungal Cavern": {
-            "-": {
-                "Dumpling": {
-                    "-": 1.92
-                },
-                "Nian Gao'da": {
-                    "-": 2.61
-                }
-            }
-        },
-        "Moussu Picchu": {
-            "-": {
-                "Dumpling": {
-                    "-": 2.09
-                },
-                "Nian Gao'da": {
-                    "-": 2.26
+    "Force Fighter Blue": {
+        "Mysterious Anomaly": {
+            "2012": {
+                "Rewind Raclette": {
+                    "-": 0.43
                 }
             }
         }
     },
-    "Hurdle": {
-        "Town of Gnawnia": {
-            "-": {
-                "Dumpling": {
-                    "-": 1.77
-                }
-            }
-        },
-        "Great Gnarled Tree": {
-            "-": {
-                "Dumpling": {
-                    "-": 4.21
-                },
-                "Nian Gao'da": {
-                    "-": 4.4
-                }
-            }
-        },
-        "Dojo": {
-            "-": {
-                "Dumpling": {
-                    "-": 7.54
-                }
-            }
-        },
-        "S.S. Huntington III": {
-            "-": {
-                "Dumpling": {
-                    "-": 5.2
-                },
-                "Nian Gao'da": {
-                    "-": 4.47
-                }
-            }
-        },
-        "King's Gauntlet": {
-            "-": {
-                "Dumpling": {
-                    "-": 4.97
-                },
-                "Nian Gao'da": {
-                    "-": 4.67
-                }
-            }
-        },
-        "Claw Shot City": {
-            "-": {
-                "Dumpling": {
-                    "-": 3.19
-                },
-                "Nian Gao'da": {
-                    "-": 3.12
-                }
-            }
-        },
-        "Muridae Market": {
-            "-": {
-                "Dumpling": {
-                    "-": 2.9
-                },
-                "Nian Gao'da": {
-                    "-": 6.02
-                }
-            }
-        },
-        "Gnawnia Rift": {
-            "-": {
-                "Dumpling": {
-                    "-": 3.45
-                },
-                "Nian Gao'da": {
-                    "-": 3.61
-                }
-            }
-        },
-        "Fungal Cavern": {
-            "-": {
-                "Dumpling": {
-                    "-": 5.79
-                },
-                "Nian Gao'da": {
-                    "-": 4.22
-                }
-            }
-        },
-        "Moussu Picchu": {
-            "-": {
-                "Dumpling": {
-                    "-": 3.88
-                },
-                "Nian Gao'da": {
-                    "-": 3.21
+    "Force Fighter Yellow": {
+        "Mysterious Anomaly": {
+            "2012": {
+                "Rewind Raclette": {
+                    "-": 0.59
                 }
             }
         }
     },
-    "Costumed Snake": {
-        "Town of Gnawnia": {
-            "-": {
-                "Dumpling": {
-                    "-": 1.6
-                }
-            }
-        },
-        "Great Gnarled Tree": {
-            "-": {
-                "Dumpling": {
-                    "-": 2.63
-                },
-                "Nian Gao'da": {
-                    "-": 1.89
-                }
-            }
-        },
-        "Dojo": {
-            "-": {
-                "Dumpling": {
-                    "-": 1.55
-                }
-            }
-        },
-        "S.S. Huntington III": {
-            "-": {
-                "Dumpling": {
-                    "-": 2.37
-                },
-                "Nian Gao'da": {
-                    "-": 2.61
-                }
-            }
-        },
-        "King's Gauntlet": {
-            "-": {
-                "Dumpling": {
-                    "-": 1.89
-                },
-                "Nian Gao'da": {
-                    "-": 2.58
-                }
-            }
-        },
-        "Claw Shot City": {
-            "-": {
-                "Dumpling": {
-                    "-": 1.45
-                },
-                "Nian Gao'da": {
-                    "-": 2.6
-                }
-            }
-        },
-        "Muridae Market": {
-            "-": {
-                "Dumpling": {
-                    "-": 1.45
-                },
-                "Nian Gao'da": {
-                    "-": 0.93
-                }
-            }
-        },
-        "Gnawnia Rift": {
-            "-": {
-                "Dumpling": {
-                    "-": 2.25
-                },
-                "Nian Gao'da": {
-                    "-": 2.41
-                }
-            }
-        },
-        "Fungal Cavern": {
-            "-": {
-                "Dumpling": {
-                    "-": 2.5
-                },
-                "Nian Gao'da": {
-                    "-": 3.08
-                }
-            }
-        },
-        "Moussu Picchu": {
-            "-": {
-                "Dumpling": {
-                    "-": 2.04
-                },
-                "Nian Gao'da": {
-                    "-": 2.34
+    "Force Fighter Red": {
+        "Mysterious Anomaly": {
+            "2012": {
+                "Rewind Raclette": {
+                    "-": 0.75
                 }
             }
         }
     },
-    "Winter Games": {
-        "Town of Gnawnia": {
-            "-": {
-                "Dumpling": {
-                    "-": 1.6
-                }
-            }
-        },
-        "Great Gnarled Tree": {
-            "-": {
-                "Dumpling": {
-                    "-": 3.68
-                },
-                "Nian Gao'da": {
-                    "-": 3.14
-                }
-            }
-        },
-        "Dojo": {
-            "-": {
-                "Dumpling": {
-                    "-": 4.66
-                }
-            }
-        },
-        "S.S. Huntington III": {
-            "-": {
-                "Dumpling": {
-                    "-": 3.67
-                },
-                "Nian Gao'da": {
-                    "-": 2.8
-                }
-            }
-        },
-        "King's Gauntlet": {
-            "-": {
-                "Dumpling": {
-                    "-": 5.23
-                },
-                "Nian Gao'da": {
-                    "-": 3.77
-                }
-            }
-        },
-        "Claw Shot City": {
-            "-": {
-                "Dumpling": {
-                    "-": 4.49
-                },
-                "Nian Gao'da": {
-                    "-": 0.52
-                }
-            }
-        },
-        "Muridae Market": {
-            "-": {
-                "Dumpling": {
-                    "-": 3.38
-                },
-                "Nian Gao'da": {
-                    "-": 1.85
-                }
-            }
-        },
-        "Gnawnia Rift": {
-            "-": {
-                "Dumpling": {
-                    "-": 3.21
-                },
-                "Nian Gao'da": {
-                    "-": 3.5
-                }
-            }
-        },
-        "Fungal Cavern": {
-            "-": {
-                "Dumpling": {
-                    "-": 4.92
-                },
-                "Nian Gao'da": {
-                    "-": 2.46
-                }
-            }
-        },
-        "Moussu Picchu": {
-            "-": {
-                "Dumpling": {
-                    "-": 3.44
-                },
-                "Nian Gao'da": {
-                    "-": 1.39
+    "Force Fighter Pink": {
+        "Mysterious Anomaly": {
+            "2012": {
+                "Rewind Raclette": {
+                    "-": 0.8
                 }
             }
         }
     },
-    "Costumed Horse": {
-        "Town of Gnawnia": {
-            "-": {
-                "Dumpling": {
-                    "-": 1.24
-                }
-            }
-        },
-        "Great Gnarled Tree": {
-            "-": {
-                "Dumpling": {
-                    "-": 3.16
-                },
-                "Nian Gao'da": {
-                    "-": 4.4
-                }
-            }
-        },
-        "Dojo": {
-            "-": {
-                "Dumpling": {
-                    "-": 2.22
-                }
-            }
-        },
-        "S.S. Huntington III": {
-            "-": {
-                "Dumpling": {
-                    "-": 2.41
-                },
-                "Nian Gao'da": {
-                    "-": 2.24
-                }
-            }
-        },
-        "King's Gauntlet": {
-            "-": {
-                "Dumpling": {
-                    "-": 1.93
-                },
-                "Nian Gao'da": {
-                    "-": 2.18
-                }
-            }
-        },
-        "Claw Shot City": {
-            "-": {
-                "Dumpling": {
-                    "-": 2.03
-                },
-                "Nian Gao'da": {
-                    "-": 4.68
-                }
-            }
-        },
-        "Muridae Market": {
-            "-": {
-                "Dumpling": {
-                    "-": 2.25
-                },
-                "Nian Gao'da": {
-                    "-": 2.78
-                }
-            }
-        },
-        "Gnawnia Rift": {
-            "-": {
-                "Dumpling": {
-                    "-": 2.17
-                },
-                "Nian Gao'da": {
-                    "-": 2.3
-                }
-            }
-        },
-        "Fungal Cavern": {
-            "-": {
-                "Dumpling": {
-                    "-": 2.09
-                },
-                "Nian Gao'da": {
-                    "-": 2.56
-                }
-            }
-        },
-        "Moussu Picchu": {
-            "-": {
-                "Dumpling": {
-                    "-": 2.67
-                },
-                "Nian Gao'da": {
-                    "-": 1.91
+    "Force Fighter Green": {
+        "Mysterious Anomaly": {
+            "2012": {
+                "Rewind Raclette": {
+                    "-": 1.23
                 }
             }
         }
     },
-    "Trampoline": {
-        "Town of Gnawnia": {
-            "-": {
-                "Dumpling": {
-                    "-": 1.24
-                }
-            }
-        },
-        "Great Gnarled Tree": {
-            "-": {
-                "Dumpling": {
-                    "-": 3.95
-                },
-                "Nian Gao'da": {
-                    "-": 3.14
-                }
-            }
-        },
-        "Dojo": {
-            "-": {
-                "Dumpling": {
-                    "-": 2.88
-                }
-            }
-        },
-        "S.S. Huntington III": {
-            "-": {
-                "Dumpling": {
-                    "-": 4.83
-                },
-                "Nian Gao'da": {
-                    "-": 2.14
-                }
-            }
-        },
-        "King's Gauntlet": {
-            "-": {
-                "Dumpling": {
-                    "-": 5.08
-                },
-                "Nian Gao'da": {
-                    "-": 3.28
-                }
-            }
-        },
-        "Claw Shot City": {
-            "-": {
-                "Dumpling": {
-                    "-": 4.35
-                },
-                "Nian Gao'da": {
-                    "-": 1.3
-                }
-            }
-        },
-        "Muridae Market": {
-            "-": {
-                "Dumpling": {
-                    "-": 1.77
-                },
-                "Nian Gao'da": {
-                    "-": 2.78
-                }
-            }
-        },
-        "Gnawnia Rift": {
-            "-": {
-                "Dumpling": {
-                    "-": 3.13
-                },
-                "Nian Gao'da": {
-                    "-": 3.17
-                }
-            }
-        },
-        "Fungal Cavern": {
-            "-": {
-                "Dumpling": {
-                    "-": 5.01
-                },
-                "Nian Gao'da": {
-                    "-": 2.23
-                }
-            }
-        },
-        "Moussu Picchu": {
-            "-": {
-                "Dumpling": {
-                    "-": 4.22
-                },
-                "Nian Gao'da": {
-                    "-": 1.65
+    "Super FighterBot MegaSupreme": {
+        "Mysterious Anomaly": {
+            "2012": {
+                "Rewind Raclette": {
+                    "-": 0.8
                 }
             }
         }
     },
-    "Costumed Monkey": {
-        "Town of Gnawnia": {
-            "-": {
-                "Dumpling": {
-                    "-": 1.06
-                }
-            }
-        },
-        "Great Gnarled Tree": {
-            "-": {
-                "Dumpling": {
-                    "-": 1.84
-                },
-                "Nian Gao'da": {
-                    "-": 1.89
-                }
-            }
-        },
-        "Dojo": {
-            "-": {
-                "Dumpling": {
-                    "-": 1.77
-                }
-            }
-        },
-        "S.S. Huntington III": {
-            "-": {
-                "Dumpling": {
-                    "-": 1.67
-                },
-                "Nian Gao'da": {
-                    "-": 2.52
-                }
-            }
-        },
-        "King's Gauntlet": {
-            "-": {
-                "Dumpling": {
-                    "-": 1.89
-                },
-                "Nian Gao'da": {
-                    "-": 3.08
-                }
-            }
-        },
-        "Claw Shot City": {
-            "-": {
-                "Dumpling": {
-                    "-": 1.45
-                },
-                "Nian Gao'da": {
-                    "-": 2.08
-                }
-            }
-        },
-        "Muridae Market": {
-            "-": {
-                "Dumpling": {
-                    "-": 1.77
-                },
-                "Nian Gao'da": {
-                    "-": 3.7
-                }
-            }
-        },
-        "Gnawnia Rift": {
-            "-": {
-                "Dumpling": {
-                    "-": 2.57
-                },
-                "Nian Gao'da": {
-                    "-": 2.08
-                }
-            }
-        },
-        "Fungal Cavern": {
-            "-": {
-                "Dumpling": {
-                    "-": 2.13
-                },
-                "Nian Gao'da": {
-                    "-": 2.65
-                }
-            }
-        },
-        "Moussu Picchu": {
-            "-": {
-                "Dumpling": {
-                    "-": 1.84
-                },
-                "Nian Gao'da": {
-                    "-": 3.04
+    "Dance Party": {
+        "Mysterious Anomaly": {
+            "2013": {
+                "Rewind Raclette": {
+                    "-": 0.65
                 }
             }
         }
     },
-    "Lunar Red Candle Maker": {
-        "Great Gnarled Tree": {
-            "-": {
-                "Nian Gao'da": {
-                    "-": 18.24
+    "Breakdancer": {
+        "Mysterious Anomaly": {
+            "2013": {
+                "Rewind Raclette": {
+                    "-": 0.76
                 }
             }
-        },
-        "S.S. Huntington III": {
-            "-": {
-                "Nian Gao'da": {
-                    "-": 17.05
+        }
+    },
+    "Para Para Dancer": {
+        "Mysterious Anomaly": {
+            "2013": {
+                "Rewind Raclette": {
+                    "-": 1.08
                 }
             }
-        },
-        "King's Gauntlet": {
-            "-": {
-                "Nian Gao'da": {
-                    "-": 19.86
+        }
+    },
+    "El Flamenco": {
+        "Mysterious Anomaly": {
+            "2013": {
+                "Rewind Raclette": {
+                    "-": 1.19
                 }
             }
-        },
-        "Claw Shot City": {
-            "-": {
-                "Nian Gao'da": {
-                    "-": 17.66
+        }
+    },
+    "Cupcake Runner": {
+        "Mysterious Anomaly": {
+            "2014": {
+                "Rewind Raclette": {
+                    "-": 0
                 }
             }
-        },
-        "Muridae Market": {
-            "-": {
-                "Nian Gao'da": {
-                    "-": 18.06
+        }
+    },
+    "Cupcake Cutie": {
+        "Mysterious Anomaly": {
+            "2014": {
+                "Rewind Raclette": {
+                    "-": 0
                 }
             }
-        },
-        "Gnawnia Rift": {
-            "-": {
-                "Nian Gao'da": {
-                    "-": 19.15
+        }
+    },
+    "Cupcake Candle Thief": {
+        "Mysterious Anomaly": {
+            "2015": {
+                "Rewind Raclette": {
+                    "-": 0
                 }
             }
-        },
-        "Fungal Cavern": {
-            "-": {
-                "Nian Gao'da": {
-                    "-": 18.25
+        }
+    },
+    "Cupcake Camo": {
+        "Mysterious Anomaly": {
+            "2015": {
+                "Rewind Raclette": {
+                    "-": 0
                 }
             }
-        },
-        "Moussu Picchu": {
-            "-": {
-                "Nian Gao'da": {
-                    "-": 18.92
+        }
+    },
+    "Sprinkly Sweet Cupcake Cook": {
+        "Mysterious Anomaly": {
+            "2016": {
+                "Rewind Raclette": {
+                    "-": 0
+                }
+            }
+        }
+    },
+    "Time Thief": {
+        "Mysterious Anomaly": {
+            "2017": {
+                "Rewind Raclette": {
+                    "-": 0
                 }
             }
         }

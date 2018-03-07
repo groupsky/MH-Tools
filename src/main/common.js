@@ -260,6 +260,7 @@ function calculateTrapSetup(skipDisp) {
     if (user === CRE_USER && !skipDisp) {
       showPop(2);
       showTrapSetup();
+      formatSampleSize(); // showTrapSetup creates the necessary sampleSize <td>
     }
   } else {
     showTrapSetup(0);
@@ -504,18 +505,20 @@ function findEff(mouseName) {
     return 0;
   } else {
     var typeIndex = typeEff[trapType];
+    if (!powersArray[mouseName]) {
+      console.error('Missing ', mouseName)
+      return 1
+    }
     return powersArray[mouseName][typeIndex] / 100;
   }
 }
 
-function findBaselineAttraction(cheese, location) {
-  return (
-    baselineAttArray[cheese] || baselineArray[location + " (" + cheese + ")"]
-  );
+function findBaselineAttraction(cheese) {
+  return baselineAttArray[cheese];
 }
 
 function getCheeseAttraction() {
-  var baselineAtt = findBaselineAttraction(cheeseName, locationName);
+  var baselineAtt = findBaselineAttraction(cheeseName);
   return baselineAtt + trapAtt / 100 - trapAtt / 100 * baselineAtt;
 }
 
@@ -899,5 +902,21 @@ function updateInputFromParameter(category, callback) {
   if (parameter && parameter !== NULL_URL_PARAM) {
     input.value = parameter;
     callback();
+  }
+}
+
+function getSliderValue() {
+  var amplifierParameter = parseInt(getURLParameter("amplifier"));
+  if (amplifierParameter >= 0 && amplifierParameter <= 175) {
+    $("#ampSlider").slider("option", "value", amplifierParameter);
+    var myColor = getColor(amplifierParameter);
+    $("#ampSlider .ui-slider-range").css("background-color", myColor);
+    $("#ampSlider .ui-state-default, .ui-widget-content .ui-state-default").css(
+      "background-color",
+      myColor
+    );
+    $("#ampValue").val(amplifierParameter);
+    ztAmp = amplifierParameter;
+    calculateTrapSetup();
   }
 }
