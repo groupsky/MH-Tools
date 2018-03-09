@@ -24385,22 +24385,22 @@
             }
         }
     },
-    "Force Fighter Yellow": {
-        "Mysterious Anomaly": {
-            "2012": {
-                "Rewind Raclette": {
-                    "-": 6.25,
-                    "Reality Restitch": 5.13
-                }
-            }
-        }
-    },
     "Force Fighter Pink": {
         "Mysterious Anomaly": {
             "2012": {
                 "Rewind Raclette": {
                     "-": 6.25,
                     "Reality Restitch": 5.65
+                }
+            }
+        }
+    },
+    "Force Fighter Yellow": {
+        "Mysterious Anomaly": {
+            "2012": {
+                "Rewind Raclette": {
+                    "-": 6.25,
+                    "Reality Restitch": 5.13
                 }
             }
         }

@@ -10397,6 +10397,22 @@
                         }
                     }
                 }
+            },
+            "Time Thief": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Time Thread": 0.5,
+                                "SampleSize": 20,
+                                "Paradox Pattern": 0.35,
+                                "Spacetime Spool": 0.15,
+                                "Fabric of Time": 0.7,
+                                "Pausing Pin": 0.2
+                            }
+                        }
+                    }
+                }
             }
         }
     }

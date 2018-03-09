@@ -14409,11 +14409,11 @@
                     "Shelder": 0.87
                 },
                 "Reality Restitch": {
-                    "Finder": 26.67,
-                    "SampleSize": 15,
                     "Gate Guardian": 26.67,
-                    "Pack": 20,
+                    "SampleSize": 15,
+                    "Finder": 26.67,
                     "Grunt": 20,
+                    "Pack": 20,
                     "Cyclops": 6.67
                 }
             },
@@ -14533,8 +14533,8 @@
                     "Super FighterBot MegaSupreme": 6.86,
                     "Force Fighter Blue": 6.76,
                     "Time Tailor": 6.71,
-                    "Force Fighter Yellow": 6.25,
-                    "Force Fighter Pink": 6.25
+                    "Force Fighter Pink": 6.25,
+                    "Force Fighter Yellow": 6.25
                 },
                 "Reality Restitch": {
                     "Time Punk": 18.42,
@@ -14608,8 +14608,8 @@
                 "-": {
                     "Lasso Cowgirl": 25.35,
                     "SampleSize": 284,
-                    "Pyrite": 19.37,
                     "Fuel": 19.37,
+                    "Pyrite": 19.37,
                     "Stowaway": 18.66,
                     "Steel Horse Rider": 8.8,
                     "Prospector": 8.45
