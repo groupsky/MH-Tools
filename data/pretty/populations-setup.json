@@ -10140,317 +10140,385 @@
         "2008": {
             "Rewind Raclette": {
                 "-": {
-                    "Present": 45.98,
-                    "Birthday": 24.54,
-                    "Time Punk": 23.22,
-                    "Time Tailor": 6.26
+                    "Present": 45.87,
+                    "Birthday": 24.48,
+                    "Time Punk": 22.95,
+                    "Time Tailor": 6.71
                 },
                 "Reality Restitch": {
-                    "Present": 40.9,
-                    "Birthday": 19.04,
-                    "Time Punk": 17.37,
+                    "Present": 40.56,
+                    "Time Punk": 18.42,
+                    "Birthday": 17.99,
                     "Reality Restitch": 17.01,
-                    "Time Tailor": 5.67
+                    "Time Tailor": 6.03
                 }
             },
             "SB+": {
                 "-": {
-                    "Zombie": 26.38,
-                    "Ninja": 22.47,
-                    "Pirate": 22.24,
-                    "White": 15.44,
-                    "Lycan": 9.1,
-                    "Assassin": 4.38
+                    "Zombie": 26.5,
+                    "Pirate": 22.57,
+                    "Ninja": 22.36,
+                    "White": 15.27,
+                    "Lycan": 9.05,
+                    "Assassin": 4.25
                 }
             },
             "Gouda": {
                 "-": {
-                    "White": 36.12,
-                    "Pirate": 29.09,
-                    "Ninja": 15.76,
-                    "Zombie": 13.21,
-                    "Lycan": 5.82
+                    "White": 35.7,
+                    "Pirate": 28.72,
+                    "Ninja": 16.28,
+                    "Zombie": 13.49,
+                    "Lycan": 5.81
                 }
             },
             "Brie": {
                 "-": {
-                    "White": 50,
-                    "Pirate": 26.19,
-                    "Ninja": 14.29,
-                    "Zombie": 7.14,
-                    "Lycan": 2.38
+                    "White": 48.84,
+                    "Pirate": 25.58,
+                    "Ninja": 16.28,
+                    "Zombie": 6.98,
+                    "Lycan": 2.33
                 }
             },
             "White Cheddar": {
                 "-": {
-                    "Ninja": 55.93,
-                    "Zombie": 42.37,
-                    "Pirate": 1.69
+                    "Ninja": 56.45,
+                    "Zombie": 41.94,
+                    "Pirate": 1.61
                 }
             },
             "Moon": {
                 "-": {
-                    "Lycan": 51.07,
-                    "Pirate": 17.65,
-                    "Zombie": 13.37,
-                    "Ninja": 11.76,
-                    "White": 6.15
+                    "Lycan": 50.68,
+                    "Pirate": 17.92,
+                    "Zombie": 14.85,
+                    "Ninja": 11.43,
+                    "White": 5.12
                 }
             },
             "Crescent": {
                 "-": {
-                    "Zombie": 38.24,
-                    "Lycan": 25,
-                    "Ninja": 23.53,
-                    "Pirate": 7.35,
-                    "White": 5.88
+                    "Zombie": 34.17,
+                    "Lycan": 27.5,
+                    "Ninja": 24.17,
+                    "White": 7.5,
+                    "Pirate": 6.67
                 }
             }
         },
         "2009": {
             "Rewind Raclette": {
                 "-": {
-                    "Terrible Twos": 45.98,
-                    "Birthday": 24.54,
-                    "Time Punk": 23.22,
-                    "Time Tailor": 6.26
+                    "Terrible Twos": 45.87,
+                    "Birthday": 24.48,
+                    "Time Punk": 22.95,
+                    "Time Tailor": 6.71
                 },
                 "Reality Restitch": {
-                    "Terrible Twos": 40.9,
-                    "Birthday": 19.04,
-                    "Time Punk": 17.37,
+                    "Terrible Twos": 40.56,
+                    "Time Punk": 18.42,
+                    "Birthday": 17.99,
                     "Reality Restitch": 17.01,
-                    "Time Tailor": 5.67
+                    "Time Tailor": 6.03
                 }
             },
             "SB+": {
                 "-": {
-                    "Cyclops": 29.18,
-                    "Gate Guardian": 19.67,
+                    "Cyclops": 29.64,
+                    "Gate Guardian": 19.79,
                     "Grunt": 17.26,
-                    "Finder": 17.05,
-                    "Pack": 15.9,
-                    "Shelder": 0.94
+                    "Finder": 16.91,
+                    "Pack": 15.52,
+                    "Shelder": 0.87
+                },
+                "Reality Restitch": {
+                    "Finder": 26.67,
+                    "Gate Guardian": 26.67,
+                    "Pack": 20,
+                    "Grunt": 20,
+                    "Cyclops": 6.67
                 }
             },
             "Gouda": {
                 "-": {
-                    "Gate Guardian": 34.06,
-                    "Cyclops": 30.28,
-                    "Grunt": 13.68,
-                    "Pack": 12.08,
-                    "Finder": 9.9
+                    "Gate Guardian": 35.52,
+                    "Cyclops": 30.17,
+                    "Grunt": 12.65,
+                    "Pack": 11.44,
+                    "Finder": 10.22
                 }
             }
         },
         "2010": {
             "Rewind Raclette": {
                 "-": {
-                    "Pintail": 27.59,
-                    "Birthday": 24.54,
-                    "Time Punk": 23.22,
-                    "Buckethead": 10.15,
-                    "Sleepwalker": 8.25,
-                    "Time Tailor": 6.26
+                    "Pintail": 26.31,
+                    "Birthday": 24.48,
+                    "Time Punk": 22.95,
+                    "Buckethead": 10.48,
+                    "Sleepwalker": 9.08,
+                    "Time Tailor": 6.71
                 },
                 "Reality Restitch": {
-                    "Pintail": 22.31,
-                    "Birthday": 19.04,
-                    "Time Punk": 17.37,
+                    "Pintail": 22.75,
+                    "Time Punk": 18.42,
+                    "Birthday": 17.99,
                     "Reality Restitch": 17.01,
-                    "Sleepwalker": 12.39,
-                    "Buckethead": 6.2,
-                    "Time Tailor": 5.67
+                    "Sleepwalker": 9.89,
+                    "Buckethead": 7.91,
+                    "Time Tailor": 6.03
                 }
             },
             "SB+": {
                 "-": {
-                    "Technic Pawn": 22.86,
-                    "Tidal Fisher": 18.89,
-                    "Mystic Pawn": 17.5,
-                    "Dancer": 16.9,
-                    "Farmhand": 14.71,
-                    "Spring Familiar": 9.15
+                    "Technic Pawn": 21.24,
+                    "Mystic Pawn": 18.7,
+                    "Tidal Fisher": 18.54,
+                    "Dancer": 16.48,
+                    "Farmhand": 14.42,
+                    "Spring Familiar": 10.62
                 }
             },
             "Gouda": {
                 "-": {
-                    "Tidal Fisher": 26.56,
-                    "Mystic Pawn": 23.44,
-                    "Dancer": 21.88,
-                    "Technic Pawn": 20.31,
-                    "Farmhand": 7.81
+                    "Tidal Fisher": 25.6,
+                    "Dancer": 23.2,
+                    "Mystic Pawn": 20.8,
+                    "Technic Pawn": 19.6,
+                    "Farmhand": 10.8
                 }
             }
         },
         "2011": {
             "Rewind Raclette": {
                 "-": {
-                    "Dinosuit": 45.98,
-                    "Birthday": 24.54,
-                    "Time Punk": 23.22,
-                    "Time Tailor": 6.26
+                    "Dinosuit": 45.87,
+                    "Birthday": 24.48,
+                    "Time Punk": 22.95,
+                    "Time Tailor": 6.71
                 },
                 "Reality Restitch": {
-                    "Dinosuit": 40.9,
-                    "Birthday": 19.04,
-                    "Time Punk": 17.37,
+                    "Dinosuit": 40.56,
+                    "Time Punk": 18.42,
+                    "Birthday": 17.99,
                     "Reality Restitch": 17.01,
-                    "Time Tailor": 5.67
+                    "Time Tailor": 6.03
                 }
             },
             "SB+": {
                 "-": {
-                    "Desert Architect": 22.18,
-                    "Pocketwatch": 19.69,
-                    "Desert Soldier": 17.97,
-                    "Bookborn": 14.15,
-                    "Desert Archer": 13.77,
-                    "Vanguard": 12.24
+                    "Desert Architect": 21.99,
+                    "Pocketwatch": 18.78,
+                    "Desert Soldier": 17.34,
+                    "Bookborn": 15.89,
+                    "Desert Archer": 13.48,
+                    "Vanguard": 12.52
                 }
             },
             "Gouda": {
                 "-": {
-                    "Bookborn": 24.54,
-                    "Pocketwatch": 22.69,
-                    "Desert Soldier": 19.91,
-                    "Vanguard": 18.52,
-                    "Desert Archer": 14.35
+                    "Bookborn": 22.51,
+                    "Desert Soldier": 21.37,
+                    "Pocketwatch": 20.23,
+                    "Vanguard": 19.37,
+                    "Desert Archer": 16.52
                 }
             },
             "Brie": {
                 "-": {
-                    "Desert Soldier": 25,
-                    "Bookborn": 25,
-                    "Pocketwatch": 20,
-                    "Desert Archer": 20,
-                    "Vanguard": 10
+                    "Pocketwatch": 26.32,
+                    "Desert Archer": 21.05,
+                    "Desert Soldier": 21.05,
+                    "Bookborn": 19.3,
+                    "Vanguard": 12.28
                 }
             }
         },
         "2012": {
             "Rewind Raclette": {
                 "-": {
-                    "Birthday": 24.54,
-                    "Time Punk": 23.22,
-                    "Force Fighter Green": 10.71,
-                    "Super FighterBot MegaSupreme": 8.31,
-                    "Force Fighter Red": 8.13,
-                    "Force Fighter Pink": 6.65,
-                    "Force Fighter Yellow": 6.28,
-                    "Time Tailor": 6.26,
-                    "Force Fighter Blue": 5.91
+                    "Birthday": 24.48,
+                    "Time Punk": 22.95,
+                    "Force Fighter Green": 11.26,
+                    "Force Fighter Red": 8.5,
+                    "Super FighterBot MegaSupreme": 6.86,
+                    "Force Fighter Blue": 6.76,
+                    "Time Tailor": 6.71,
+                    "Force Fighter Yellow": 6.25,
+                    "Force Fighter Pink": 6.25
                 },
                 "Reality Restitch": {
-                    "Birthday": 19.04,
-                    "Time Punk": 17.37,
+                    "Time Punk": 18.42,
+                    "Birthday": 17.99,
                     "Reality Restitch": 17.01,
-                    "Force Fighter Green": 9.97,
-                    "Force Fighter Red": 8.98,
-                    "Force Fighter Yellow": 6.98,
-                    "Force Fighter Blue": 5.98,
-                    "Time Tailor": 5.67,
-                    "Super FighterBot MegaSupreme": 4.99,
-                    "Force Fighter Pink": 3.99
+                    "Force Fighter Green": 9.24,
+                    "Force Fighter Red": 7.7,
+                    "Force Fighter Blue": 7.19,
+                    "Time Tailor": 6.03,
+                    "Force Fighter Pink": 5.65,
+                    "Super FighterBot MegaSupreme": 5.65,
+                    "Force Fighter Yellow": 5.13
                 }
             },
             "SB+": {
                 "-": {
-                    "Incompetent Ice Climber": 21.13,
-                    "Strawberry Hotcakes": 19.01,
-                    "Living Ice": 18.31,
-                    "Cursed Thief": 16.9,
-                    "Grubling": 14.79,
-                    "Yeti": 9.86
+                    "Strawberry Hotcakes": 20.28,
+                    "Incompetent Ice Climber": 19.72,
+                    "Cursed Thief": 19.44,
+                    "Living Ice": 15.77,
+                    "Grubling": 13.52,
+                    "Yeti": 11.27
+                },
+                "Reality Restitch": {
+                    "Strawberry Hotcakes": 30.77,
+                    "Grubling": 23.08,
+                    "Living Ice": 15.38,
+                    "Cursed Thief": 15.38,
+                    "Yeti": 15.38
                 }
             },
             "Gouda": {
                 "-": {
-                    "Incompetent Ice Climber": 51.61,
-                    "Cursed Thief": 16.13,
-                    "Yeti": 12.9,
-                    "Strawberry Hotcakes": 9.68,
-                    "Grubling": 9.68
+                    "Incompetent Ice Climber": 45.58,
+                    "Strawberry Hotcakes": 18.37,
+                    "Yeti": 17.01,
+                    "Cursed Thief": 13.61,
+                    "Grubling": 5.44
                 }
             }
         },
         "2013": {
             "Rewind Raclette": {
                 "-": {
-                    "Birthday": 24.54,
-                    "Time Punk": 23.22,
-                    "Para Para Dancer": 13.65,
-                    "El Flamenco": 12.75,
-                    "Breakdancer": 10.24,
-                    "Dance Party": 9.34,
-                    "Time Tailor": 6.26
+                    "Birthday": 24.48,
+                    "Time Punk": 22.95,
+                    "Para Para Dancer": 13.43,
+                    "El Flamenco": 12.96,
+                    "Breakdancer": 10.54,
+                    "Dance Party": 8.95,
+                    "Time Tailor": 6.71
                 },
                 "Reality Restitch": {
-                    "Birthday": 19.04,
-                    "Time Punk": 17.37,
+                    "Time Punk": 18.42,
+                    "Birthday": 17.99,
                     "Reality Restitch": 17.01,
-                    "Para Para Dancer": 12.89,
-                    "El Flamenco": 11.79,
-                    "Dance Party": 11.79,
-                    "Time Tailor": 5.67,
-                    "Breakdancer": 4.42
+                    "Para Para Dancer": 12.85,
+                    "El Flamenco": 12.34,
+                    "Dance Party": 9.57,
+                    "Time Tailor": 6.03,
+                    "Breakdancer": 5.79
                 }
             },
             "SB+": {
                 "-": {
-                    "Fuel": 26,
-                    "Lasso Cowgirl": 22,
-                    "Pyrite": 22,
-                    "Stowaway": 18,
-                    "Steel Horse Rider": 8,
-                    "Prospector": 4
+                    "Lasso Cowgirl": 25.35,
+                    "Pyrite": 19.37,
+                    "Fuel": 19.37,
+                    "Stowaway": 18.66,
+                    "Steel Horse Rider": 8.8,
+                    "Prospector": 8.45
                 }
             },
             "Gouda": {
                 "-": {
-                    "Stowaway": 34.88,
-                    "Lasso Cowgirl": 23.26,
-                    "Fuel": 23.26,
-                    "Steel Horse Rider": 11.63,
-                    "Prospector": 6.98
+                    "Lasso Cowgirl": 31.4,
+                    "Stowaway": 27.91,
+                    "Fuel": 26.74,
+                    "Steel Horse Rider": 9.3,
+                    "Prospector": 4.65
                 }
             }
         },
         "2014": {
             "Rewind Raclette": {
                 "-": {
-                    "Birthday": 24.54,
-                    "Time Punk": 23.22,
-                    "Cupcake Cutie": 22.99,
-                    "Cupcake Runner": 22.99,
-                    "Time Tailor": 6.26
+                    "Birthday": 24.48,
+                    "Cupcake Cutie": 23.4,
+                    "Time Punk": 22.95,
+                    "Cupcake Runner": 22.47,
+                    "Time Tailor": 6.71
                 },
                 "Reality Restitch": {
-                    "Cupcake Runner": 21.52,
-                    "Cupcake Cutie": 19.37,
-                    "Birthday": 19.04,
-                    "Time Punk": 17.37,
+                    "Cupcake Runner": 22.71,
+                    "Time Punk": 18.42,
+                    "Birthday": 17.99,
+                    "Cupcake Cutie": 17.84,
                     "Reality Restitch": 17.01,
-                    "Time Tailor": 5.67
+                    "Time Tailor": 6.03
+                }
+            },
+            "SB+": {
+                "-": {
+                    "Bog Beast": 35.48,
+                    "Sand Dollar Diver": 22.58,
+                    "Hydrologist": 16.13,
+                    "Amplified Grey": 12.9,
+                    "Brawny": 6.45,
+                    "Sludge Soaker": 6.45
                 }
             }
         },
         "2015": {
             "Rewind Raclette": {
                 "-": {
-                    "Cupcake Candle Thief": 28.4,
-                    "Birthday": 24.54,
-                    "Time Punk": 23.22,
-                    "Cupcake Camo": 17.58,
-                    "Time Tailor": 6.26
+                    "Cupcake Candle Thief": 26.82,
+                    "Birthday": 24.48,
+                    "Time Punk": 22.95,
+                    "Cupcake Camo": 19.05,
+                    "Time Tailor": 6.71
                 },
                 "Reality Restitch": {
-                    "Cupcake Candle Thief": 26.63,
-                    "Birthday": 19.04,
-                    "Time Punk": 17.37,
+                    "Cupcake Candle Thief": 26.16,
+                    "Time Punk": 18.42,
+                    "Birthday": 17.99,
                     "Reality Restitch": 17.01,
-                    "Cupcake Camo": 14.27,
-                    "Time Tailor": 5.67
+                    "Cupcake Camo": 14.39,
+                    "Time Tailor": 6.03
+                }
+            }
+        },
+        "2016": {
+            "Rewind Raclette": {
+                "-": {
+                    "Sprinkly Sweet Cupcake Cook": 45.87,
+                    "Birthday": 24.48,
+                    "Time Punk": 22.95,
+                    "Time Tailor": 6.71
+                },
+                "Reality Restitch": {
+                    "Sprinkly Sweet Cupcake Cook": 40.56,
+                    "Time Punk": 18.42,
+                    "Birthday": 17.99,
+                    "Reality Restitch": 17.01,
+                    "Time Tailor": 6.03
+                }
+            },
+            "SB+": {
+                "-": {
+                    "Armored Archer": 43.75,
+                    "Enlightened Labourer": 18.75,
+                    "Werehauler": 12.5,
+                    "Shinobi": 12.5,
+                    "Mischievous Meteorite Miner": 6.25,
+                    "Meteorite Snacker": 6.25
+                }
+            }
+        },
+        "2017": {
+            "Rewind Raclette": {
+                "-": {
+                    "Time Thief": 45.87,
+                    "Birthday": 24.48,
+                    "Time Punk": 22.95,
+                    "Time Tailor": 6.71
+                },
+                "Reality Restitch": {
+                    "Time Thief": 40.56,
+                    "Time Punk": 18.42,
+                    "Birthday": 17.99,
+                    "Reality Restitch": 17.01,
+                    "Time Tailor": 6.03
                 }
             }
         }

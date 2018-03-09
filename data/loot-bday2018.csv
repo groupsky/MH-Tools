@@ -1,112 +1,125 @@
 "Location","Phase","Trap","Base","Cheese","Charm","Mouse","Loot","Qty","Sample"
-"Mysterious Anomaly","-","-","-","-","-","Assassin","Rewind Raclette",2,37
-"Mysterious Anomaly","-","-","-","-","-","Pirate","Rewind Raclette",1,961
-"Mysterious Anomaly","-","-","-","-","-","Ninja","Rewind Raclette",0.43108108108108106,740
-"Mysterious Anomaly","-","-","-","-","-","Zombie","Rewind Raclette",0.75642965204236,661
-"Mysterious Anomaly","-","-","-","-","-","Lycan","Rewind Raclette",1.4422110552763818,398
-"Mysterious Anomaly","-","-","-","-","-","Shelder","Rewind Raclette",2,14
-"Mysterious Anomaly","-","-","-","-","-","Cyclops","Rewind Raclette",0.3155080213903743,935
-"Mysterious Anomaly","-","-","-","-","-","Grunt","Rewind Raclette",1.477326968973747,419
-"Mysterious Anomaly","-","-","-","-","-","Pack","Rewind Raclette",1.497584541062802,414
-"Mysterious Anomaly","-","-","-","-","-","Finder","Rewind Raclette",1.473809523809524,420
-"Mysterious Anomaly","-","-","-","-","-","Spring Familiar","Rewind Raclette",2,60
-"Mysterious Anomaly","-","-","-","-","-","Dancer","Rewind Raclette",0.350597609561753,251
-"Mysterious Anomaly","-","-","-","-","-","Farmhand","Rewind Raclette",1.5274725274725274,182
-"Mysterious Anomaly","-","-","-","-","-","Mystic Pawn","Rewind Raclette",0.700374531835206,267
-"Mysterious Anomaly","-","-","-","-","-","Technic Pawn","Rewind Raclette",0.6931034482758621,290
-"Mysterious Anomaly","-","-","-","-","-","Desert Architect","Rewind Raclette",2,128
-"Mysterious Anomaly","-","-","-","-","-","Desert Soldier","Rewind Raclette",0.3698630136986301,219
-"Mysterious Anomaly","-","-","-","-","-","Desert Archer","Rewind Raclette",0.34806629834254144,181
-"Mysterious Anomaly","-","-","-","-","-","Vanguard","Rewind Raclette",0.31351351351351353,185
-"Mysterious Anomaly","-","-","-","-","-","Pocketwatch","Rewind Raclette",0.5984555984555985,259
-"Mysterious Anomaly","-","-","-","-","-","Bookborn","Rewind Raclette",1.5454545454545454,220
-"Mysterious Anomaly","-","-","-","-","-","Living Ice","Rewind Raclette",2,36
-"Mysterious Anomaly","-","-","-","-","-","Yeti","Rewind Raclette",1.5142857142857142,35
-"Mysterious Anomaly","-","-","-","-","-","Strawberry Hotcakes","Rewind Raclette",0.673469387755102,49
-"Mysterious Anomaly","-","-","-","-","-","Cursed Thief","Rewind Raclette",0.7297297297297297,37
-"Mysterious Anomaly","-","-","-","-","-","Grubling","Rewind Raclette",0.5348837209302325,43
-"Mysterious Anomaly","-","-","-","-","-","Pyrite","Rewind Raclette",2,14
-"Mysterious Anomaly","-","-","-","-","-","Lasso Cowgirl","Rewind Raclette",0.88,25
-"Mysterious Anomaly","-","-","-","-","-","Stowaway","Rewind Raclette",0.7777777777777778,27
-"Mysterious Anomaly","-","-","-","-","-","Fuel","Rewind Raclette",0.8461538461538461,26
-"Mysterious Anomaly","-","-","-","-","-","Steel Horse Rider","Rewind Raclette",1,11
-"Mysterious Anomaly","-","-","-","-","-","Hydrologist","Rewind Raclette",2,2
+"Mysterious Anomaly","-","-","-","-","-","Assassin","Rewind Raclette",2,39
+"Mysterious Anomaly","-","-","-","-","-","Pirate","Rewind Raclette",1,1063
+"Mysterious Anomaly","-","-","-","-","-","Ninja","Rewind Raclette",0.4207980652962515,827
+"Mysterious Anomaly","-","-","-","-","-","Zombie","Rewind Raclette",0.730718954248366,765
+"Mysterious Anomaly","-","-","-","-","-","Lycan","Rewind Raclette",1.4596622889305817,533
+"Mysterious Anomaly","-","-","-","-","-","Shelder","Rewind Raclette",2,16
+"Mysterious Anomaly","-","-","-","-","-","Cyclops","Rewind Raclette",0.3166515013648772,1099
+"Mysterious Anomaly","-","-","-","-","-","Grunt","Rewind Raclette",1.482897384305835,497
+"Mysterious Anomaly","-","-","-","-","-","Pack","Rewind Raclette",1.4968944099378882,483
+"Mysterious Anomaly","-","-","-","-","-","Finder","Rewind Raclette",1.4803149606299213,508
+"Mysterious Anomaly","-","-","-","-","-","Spring Familiar","Rewind Raclette",2,84
+"Mysterious Anomaly","-","-","-","-","-","Dancer","Rewind Raclette",0.3465045592705167,329
+"Mysterious Anomaly","-","-","-","-","-","Farmhand","Rewind Raclette",1.5397489539748954,239
+"Mysterious Anomaly","-","-","-","-","-","Mystic Pawn","Rewind Raclette",0.6845070422535211,355
+"Mysterious Anomaly","-","-","-","-","-","Technic Pawn","Rewind Raclette",0.6897506925207756,361
+"Mysterious Anomaly","-","-","-","-","-","Desert Architect","Rewind Raclette",2,175
+"Mysterious Anomaly","-","-","-","-","-","Desert Soldier","Rewind Raclette",0.3743169398907104,366
+"Mysterious Anomaly","-","-","-","-","-","Desert Archer","Rewind Raclette",0.36363636363636365,330
+"Mysterious Anomaly","-","-","-","-","-","Vanguard","Rewind Raclette",0.3425076452599388,327
+"Mysterious Anomaly","-","-","-","-","-","Pocketwatch","Rewind Raclette",0.6108490566037735,424
+"Mysterious Anomaly","-","-","-","-","-","Bookborn","Rewind Raclette",1.5498721227621484,391
+"Mysterious Anomaly","-","-","-","-","-","Living Ice","Rewind Raclette",2,77
+"Mysterious Anomaly","-","-","-","-","-","Yeti","Rewind Raclette",1.537037037037037,108
+"Mysterious Anomaly","-","-","-","-","-","Strawberry Hotcakes","Rewind Raclette",0.6594202898550725,138
+"Mysterious Anomaly","-","-","-","-","-","Cursed Thief","Rewind Raclette",0.6481481481481481,108
+"Mysterious Anomaly","-","-","-","-","-","Grubling","Rewind Raclette",0.5670103092783505,97
+"Mysterious Anomaly","-","-","-","-","-","Pyrite","Rewind Raclette",2,67
+"Mysterious Anomaly","-","-","-","-","-","Lasso Cowgirl","Rewind Raclette",0.8707482993197279,147
+"Mysterious Anomaly","-","-","-","-","-","Stowaway","Rewind Raclette",0.8165137614678899,109
+"Mysterious Anomaly","-","-","-","-","-","Fuel","Rewind Raclette",0.9191919191919192,99
+"Mysterious Anomaly","-","-","-","-","-","Steel Horse Rider","Rewind Raclette",1,46
+"Mysterious Anomaly","-","-","-","-","-","Hydrologist","Rewind Raclette",2,7
+"Mysterious Anomaly","-","-","-","-","-","Bog Beast","Rewind Raclette",0.7272727272727273,11
+"Mysterious Anomaly","-","-","-","-","-","Sludge Soaker","Rewind Raclette",0.25,4
+"Mysterious Anomaly","-","-","-","-","-","Sand Dollar Diver","Rewind Raclette",1,11
+"Mysterious Anomaly","-","-","-","-","-","Amplified Grey","Rewind Raclette",0.6,5
+"Mysterious Anomaly","-","-","-","-","-","Nightshade Masquerade","Rewind Raclette",2,2
 "Mysterious Anomaly","-","-","-","-","-","Drudge","Rewind Raclette",1,1
-"Mysterious Anomaly","-","-","-","-","-","Present","Time Thread",1.485456369107322,997
-"Mysterious Anomaly","-","-","-","-","-","Terrible Twos","Time Thread",0.5662983425414365,1810
-"Mysterious Anomaly","-","-","-","-","-","Terrible Twos","Pausing Pin",0.5441988950276243,1810
-"Mysterious Anomaly","-","-","-","-","-","Buckethead","Pausing Pin",0.5208333333333334,48
-"Mysterious Anomaly","-","-","-","-","-","Pintail","Pausing Pin",2,144
-"Mysterious Anomaly","-","-","-","-","-","Sleepwalker","Pausing Pin",0.5370370370370371,54
-"Mysterious Anomaly","-","-","-","-","-","Dinosuit","Spacetime Spool",0.6758241758241759,728
-"Mysterious Anomaly","-","-","-","-","-","Dinosuit","Pausing Pin",0.510989010989011,728
-"Mysterious Anomaly","-","-","-","-","-","Force Fighter Blue","Spacetime Spool",1,46
-"Mysterious Anomaly","-","-","-","-","-","Force Fighter Yellow","Spacetime Spool",1,51
-"Mysterious Anomaly","-","-","-","-","-","Force Fighter Red","Spacetime Spool",1,59
-"Mysterious Anomaly","-","-","-","-","-","Force Fighter Pink","Spacetime Spool",1,48
-"Mysterious Anomaly","-","-","-","-","-","Force Fighter Green","Spacetime Spool",1.4935064935064934,77
-"Mysterious Anomaly","-","-","-","-","-","Super FighterBot MegaSupreme","Spacetime Spool",2,65
-"Mysterious Anomaly","-","-","-","-","-","Breakdancer","Spacetime Spool",0.5802469135802469,81
-"Mysterious Anomaly","-","-","-","-","-","Para Para Dancer","Paradox Pattern",0.8421052631578947,133
-"Mysterious Anomaly","-","-","-","-","-","El Flamenco","Spacetime Spool",1,116
-"Mysterious Anomaly","-","-","-","-","-","El Flamenco","Paradox Pattern",1,116
-"Mysterious Anomaly","-","-","-","-","-","Cupcake Runner","Paradox Pattern",1,33
-"Mysterious Anomaly","-","-","-","-","-","Cupcake Cutie","Paradox Pattern",1,35
-"Mysterious Anomaly","-","-","-","-","-","Cupcake Candle Thief","Paradox Pattern",0.47540983606557374,61
-"Mysterious Anomaly","-","-","-","-","-","Cupcake Camo","Fabric of Time",0.9024390243902439,41
-"Mysterious Anomaly","-","-","-","-","-","Cupcake Camo","Paradox Pattern",0.6097560975609756,41
-"Mysterious Anomaly","-","-","-","-","-","Sprinkly Sweet Cupcake Cook","Fabric of Time",1,13
-"Mysterious Anomaly","2008","-","-","-","-","Time Punk","Time Thread",1.458438287153652,0
-"Mysterious Anomaly","2009","-","-","-","-","Time Punk","Time Thread",0.729219143576826,0
-"Mysterious Anomaly","2009","-","-","-","-","Time Punk","Pausing Pin",0.729219143576826,0
-"Mysterious Anomaly","2010","-","-","-","-","Time Punk","Pausing Pin",1.458438287153652,0
-"Mysterious Anomaly","2011","-","-","-","-","Time Punk","Pausing Pin",0.729219143576826,0
-"Mysterious Anomaly","2011","-","-","-","-","Time Punk","Spacetime Spool",0.729219143576826,0
-"Mysterious Anomaly","2012","-","-","-","-","Time Punk","Spacetime Spool",1.458438287153652,0
-"Mysterious Anomaly","2013","-","-","-","-","Time Punk","Spacetime Spool",0.729219143576826,0
-"Mysterious Anomaly","2013","-","-","-","-","Time Punk","Paradox Pattern",0.729219143576826,0
-"Mysterious Anomaly","2014","-","-","-","-","Time Punk","Paradox Pattern",1.458438287153652,0
-"Mysterious Anomaly","2015","-","-","-","-","Time Punk","Paradox Pattern",0.729219143576826,0
-"Mysterious Anomaly","2015","-","-","-","-","Time Punk","Fabric of Time",0.729219143576826,0
-"Mysterious Anomaly","2016","-","-","-","-","Time Punk","Fabric of Time",1.458438287153652,0
-"Mysterious Anomaly","2017","-","-","-","-","Time Punk","Time Thread",0.29168765743073044,0
-"Mysterious Anomaly","2017","-","-","-","-","Time Punk","Pausing Pin",0.29168765743073044,0
-"Mysterious Anomaly","2017","-","-","-","-","Time Punk","Spacetime Spool",0.29168765743073044,0
-"Mysterious Anomaly","2017","-","-","-","-","Time Punk","Paradox Pattern",0.29168765743073044,0
-"Mysterious Anomaly","2017","-","-","-","-","Time Punk","Fabric of Time",0.29168765743073044,0
-"Mysterious Anomaly","2008","-","-","-","-","Time Tailor","Time Thread",1.6095551894563425,0
-"Mysterious Anomaly","2009","-","-","-","-","Time Tailor","Time Thread",0.8047775947281712,0
-"Mysterious Anomaly","2009","-","-","-","-","Time Tailor","Pausing Pin",0.8047775947281712,0
-"Mysterious Anomaly","2010","-","-","-","-","Time Tailor","Pausing Pin",1.6095551894563425,0
-"Mysterious Anomaly","2011","-","-","-","-","Time Tailor","Pausing Pin",0.8047775947281712,0
-"Mysterious Anomaly","2011","-","-","-","-","Time Tailor","Spacetime Spool",0.8047775947281712,0
-"Mysterious Anomaly","2012","-","-","-","-","Time Tailor","Spacetime Spool",1.6095551894563425,0
-"Mysterious Anomaly","2013","-","-","-","-","Time Tailor","Spacetime Spool",0.8047775947281712,0
-"Mysterious Anomaly","2013","-","-","-","-","Time Tailor","Paradox Pattern",0.8047775947281712,0
-"Mysterious Anomaly","2014","-","-","-","-","Time Tailor","Paradox Pattern",1.6095551894563425,0
-"Mysterious Anomaly","2015","-","-","-","-","Time Tailor","Paradox Pattern",0.8047775947281712,0
-"Mysterious Anomaly","2015","-","-","-","-","Time Tailor","Fabric of Time",0.8047775947281712,0
-"Mysterious Anomaly","2016","-","-","-","-","Time Tailor","Fabric of Time",1.6095551894563425,0
-"Mysterious Anomaly","2017","-","-","-","-","Time Tailor","Time Thread",0.3219110378912685,0
-"Mysterious Anomaly","2017","-","-","-","-","Time Tailor","Pausing Pin",0.3219110378912685,0
-"Mysterious Anomaly","2017","-","-","-","-","Time Tailor","Spacetime Spool",0.3219110378912685,0
-"Mysterious Anomaly","2017","-","-","-","-","Time Tailor","Paradox Pattern",0.3219110378912685,0
-"Mysterious Anomaly","2017","-","-","-","-","Time Tailor","Fabric of Time",0.3219110378912685,0
-"Mysterious Anomaly","2008","-","-","-","-","Reality Restitch","Time Thread",2.8993506493506493,0
-"Mysterious Anomaly","2009","-","-","-","-","Reality Restitch","Time Thread",1.4496753246753247,0
-"Mysterious Anomaly","2009","-","-","-","-","Reality Restitch","Pausing Pin",1.4496753246753247,0
-"Mysterious Anomaly","2010","-","-","-","-","Reality Restitch","Pausing Pin",2.8993506493506493,0
-"Mysterious Anomaly","2011","-","-","-","-","Reality Restitch","Pausing Pin",1.4496753246753247,0
-"Mysterious Anomaly","2011","-","-","-","-","Reality Restitch","Spacetime Spool",1.4496753246753247,0
-"Mysterious Anomaly","2012","-","-","-","-","Reality Restitch","Spacetime Spool",2.8993506493506493,0
-"Mysterious Anomaly","2013","-","-","-","-","Reality Restitch","Spacetime Spool",1.4496753246753247,0
-"Mysterious Anomaly","2013","-","-","-","-","Reality Restitch","Paradox Pattern",1.4496753246753247,0
-"Mysterious Anomaly","2014","-","-","-","-","Reality Restitch","Paradox Pattern",2.8993506493506493,0
-"Mysterious Anomaly","2015","-","-","-","-","Reality Restitch","Paradox Pattern",1.4496753246753247,0
-"Mysterious Anomaly","2015","-","-","-","-","Reality Restitch","Fabric of Time",1.4496753246753247,0
-"Mysterious Anomaly","2016","-","-","-","-","Reality Restitch","Fabric of Time",2.8993506493506493,0
-"Mysterious Anomaly","2017","-","-","-","-","Reality Restitch","Time Thread",0.5798701298701299,0
-"Mysterious Anomaly","2017","-","-","-","-","Reality Restitch","Pausing Pin",0.5798701298701299,0
-"Mysterious Anomaly","2017","-","-","-","-","Reality Restitch","Spacetime Spool",0.5798701298701299,0
-"Mysterious Anomaly","2017","-","-","-","-","Reality Restitch","Paradox Pattern",0.5798701298701299,0
-"Mysterious Anomaly","2017","-","-","-","-","Reality Restitch","Fabric of Time",0.5798701298701299,0
+"Mysterious Anomaly","-","-","-","-","-","Enlightened Labourer","Rewind Raclette",2,3
+"Mysterious Anomaly","-","-","-","-","-","Shinobi","Rewind Raclette",1,2
+"Mysterious Anomaly","-","-","-","-","-","Meteorite Snacker","Rewind Raclette",1,2
+"Mysterious Anomaly","-","-","-","-","-","Mischievous Meteorite Miner","Rewind Raclette",1,1
+"Mysterious Anomaly","-","-","-","-","-","Homeopathic Apothecary","Rewind Raclette",2,2
+"Mysterious Anomaly","-","-","-","-","-","Epoch Golem","Rewind Raclette",1,4
+"Mysterious Anomaly","-","-","-","-","-","Portal Plunderer","Rewind Raclette",1,1
+"Mysterious Anomaly","-","-","-","-","-","Clockwork Timespinner","Rewind Raclette",0.6666666666666666,3
+"Mysterious Anomaly","-","-","-","-","-","Present","Time Thread",1.4763912310286678,1186
+"Mysterious Anomaly","-","-","-","-","-","Terrible Twos","Time Thread",0.5604395604395604,2275
+"Mysterious Anomaly","-","-","-","-","-","Terrible Twos","Pausing Pin",0.5481318681318681,2275
+"Mysterious Anomaly","-","-","-","-","-","Buckethead","Pausing Pin",0.5671641791044776,67
+"Mysterious Anomaly","-","-","-","-","-","Pintail","Pausing Pin",2,185
+"Mysterious Anomaly","-","-","-","-","-","Sleepwalker","Pausing Pin",0.5915492957746479,71
+"Mysterious Anomaly","-","-","-","-","-","Dinosuit","Spacetime Spool",0.6982543640897756,1203
+"Mysterious Anomaly","-","-","-","-","-","Dinosuit","Pausing Pin",0.4937655860349127,1203
+"Mysterious Anomaly","-","-","-","-","-","Force Fighter Blue","Spacetime Spool",1,102
+"Mysterious Anomaly","-","-","-","-","-","Force Fighter Yellow","Spacetime Spool",1,98
+"Mysterious Anomaly","-","-","-","-","-","Force Fighter Red","Spacetime Spool",1,114
+"Mysterious Anomaly","-","-","-","-","-","Force Fighter Pink","Spacetime Spool",1,95
+"Mysterious Anomaly","-","-","-","-","-","Force Fighter Green","Spacetime Spool",1.4876543209876543,162
+"Mysterious Anomaly","-","-","-","-","-","Super FighterBot MegaSupreme","Spacetime Spool",2,114
+"Mysterious Anomaly","-","-","-","-","-","Breakdancer","Spacetime Spool",0.6086956521739131,161
+"Mysterious Anomaly","-","-","-","-","-","Para Para Dancer","Paradox Pattern",0.8285714285714286,245
+"Mysterious Anomaly","-","-","-","-","-","El Flamenco","Spacetime Spool",1,224
+"Mysterious Anomaly","-","-","-","-","-","El Flamenco","Paradox Pattern",1,224
+"Mysterious Anomaly","-","-","-","-","-","Cupcake Runner","Paradox Pattern",1,65
+"Mysterious Anomaly","-","-","-","-","-","Cupcake Cutie","Paradox Pattern",1,61
+"Mysterious Anomaly","-","-","-","-","-","Cupcake Candle Thief","Paradox Pattern",0.49404761904761907,168
+"Mysterious Anomaly","-","-","-","-","-","Cupcake Camo","Fabric of Time",0.8706896551724138,116
+"Mysterious Anomaly","-","-","-","-","-","Cupcake Camo","Paradox Pattern",0.5086206896551724,116
+"Mysterious Anomaly","-","-","-","-","-","Sprinkly Sweet Cupcake Cook","Fabric of Time",1,90
+"Mysterious Anomaly","2008","-","-","-","-","Time Punk","Time Thread",1.3551079136690647,0
+"Mysterious Anomaly","2009","-","-","-","-","Time Punk","Time Thread",0.6775539568345323,0
+"Mysterious Anomaly","2009","-","-","-","-","Time Punk","Pausing Pin",0.6775539568345323,0
+"Mysterious Anomaly","2010","-","-","-","-","Time Punk","Pausing Pin",1.3551079136690647,0
+"Mysterious Anomaly","2011","-","-","-","-","Time Punk","Pausing Pin",0.6775539568345323,0
+"Mysterious Anomaly","2011","-","-","-","-","Time Punk","Spacetime Spool",0.6775539568345323,0
+"Mysterious Anomaly","2012","-","-","-","-","Time Punk","Spacetime Spool",1.3551079136690647,0
+"Mysterious Anomaly","2013","-","-","-","-","Time Punk","Spacetime Spool",0.6775539568345323,0
+"Mysterious Anomaly","2013","-","-","-","-","Time Punk","Paradox Pattern",0.6775539568345323,0
+"Mysterious Anomaly","2014","-","-","-","-","Time Punk","Paradox Pattern",1.3551079136690647,0
+"Mysterious Anomaly","2015","-","-","-","-","Time Punk","Paradox Pattern",0.6775539568345323,0
+"Mysterious Anomaly","2015","-","-","-","-","Time Punk","Fabric of Time",0.6775539568345323,0
+"Mysterious Anomaly","2016","-","-","-","-","Time Punk","Fabric of Time",1.3551079136690647,0
+"Mysterious Anomaly","2017","-","-","-","-","Time Punk","Time Thread",0.27102158273381294,0
+"Mysterious Anomaly","2017","-","-","-","-","Time Punk","Pausing Pin",0.27102158273381294,0
+"Mysterious Anomaly","2017","-","-","-","-","Time Punk","Spacetime Spool",0.27102158273381294,0
+"Mysterious Anomaly","2017","-","-","-","-","Time Punk","Paradox Pattern",0.27102158273381294,0
+"Mysterious Anomaly","2017","-","-","-","-","Time Punk","Fabric of Time",0.27102158273381294,0
+"Mysterious Anomaly","2008","-","-","-","-","Time Tailor","Time Thread",1.5985626283367558,0
+"Mysterious Anomaly","2009","-","-","-","-","Time Tailor","Time Thread",0.7992813141683779,0
+"Mysterious Anomaly","2009","-","-","-","-","Time Tailor","Pausing Pin",0.7992813141683779,0
+"Mysterious Anomaly","2010","-","-","-","-","Time Tailor","Pausing Pin",1.5985626283367558,0
+"Mysterious Anomaly","2011","-","-","-","-","Time Tailor","Pausing Pin",0.7992813141683779,0
+"Mysterious Anomaly","2011","-","-","-","-","Time Tailor","Spacetime Spool",0.7992813141683779,0
+"Mysterious Anomaly","2012","-","-","-","-","Time Tailor","Spacetime Spool",1.5985626283367558,0
+"Mysterious Anomaly","2013","-","-","-","-","Time Tailor","Spacetime Spool",0.7992813141683779,0
+"Mysterious Anomaly","2013","-","-","-","-","Time Tailor","Paradox Pattern",0.7992813141683779,0
+"Mysterious Anomaly","2014","-","-","-","-","Time Tailor","Paradox Pattern",1.5985626283367558,0
+"Mysterious Anomaly","2015","-","-","-","-","Time Tailor","Paradox Pattern",0.7992813141683779,0
+"Mysterious Anomaly","2015","-","-","-","-","Time Tailor","Fabric of Time",0.7992813141683779,0
+"Mysterious Anomaly","2016","-","-","-","-","Time Tailor","Fabric of Time",1.5985626283367558,0
+"Mysterious Anomaly","2017","-","-","-","-","Time Tailor","Time Thread",0.3197125256673512,0
+"Mysterious Anomaly","2017","-","-","-","-","Time Tailor","Pausing Pin",0.3197125256673512,0
+"Mysterious Anomaly","2017","-","-","-","-","Time Tailor","Spacetime Spool",0.3197125256673512,0
+"Mysterious Anomaly","2017","-","-","-","-","Time Tailor","Paradox Pattern",0.3197125256673512,0
+"Mysterious Anomaly","2017","-","-","-","-","Time Tailor","Fabric of Time",0.3197125256673512,0
+"Mysterious Anomaly","2008","-","-","-","-","Reality Restitch","Time Thread",2.8534883720930235,0
+"Mysterious Anomaly","2009","-","-","-","-","Reality Restitch","Time Thread",1.4267441860465118,0
+"Mysterious Anomaly","2009","-","-","-","-","Reality Restitch","Pausing Pin",1.4267441860465118,0
+"Mysterious Anomaly","2010","-","-","-","-","Reality Restitch","Pausing Pin",2.8534883720930235,0
+"Mysterious Anomaly","2011","-","-","-","-","Reality Restitch","Pausing Pin",1.4267441860465118,0
+"Mysterious Anomaly","2011","-","-","-","-","Reality Restitch","Spacetime Spool",1.4267441860465118,0
+"Mysterious Anomaly","2012","-","-","-","-","Reality Restitch","Spacetime Spool",2.8534883720930235,0
+"Mysterious Anomaly","2013","-","-","-","-","Reality Restitch","Spacetime Spool",1.4267441860465118,0
+"Mysterious Anomaly","2013","-","-","-","-","Reality Restitch","Paradox Pattern",1.4267441860465118,0
+"Mysterious Anomaly","2014","-","-","-","-","Reality Restitch","Paradox Pattern",2.8534883720930235,0
+"Mysterious Anomaly","2015","-","-","-","-","Reality Restitch","Paradox Pattern",1.4267441860465118,0
+"Mysterious Anomaly","2015","-","-","-","-","Reality Restitch","Fabric of Time",1.4267441860465118,0
+"Mysterious Anomaly","2016","-","-","-","-","Reality Restitch","Fabric of Time",2.8534883720930235,0
+"Mysterious Anomaly","2017","-","-","-","-","Reality Restitch","Time Thread",0.5706976744186048,0
+"Mysterious Anomaly","2017","-","-","-","-","Reality Restitch","Pausing Pin",0.5706976744186048,0
+"Mysterious Anomaly","2017","-","-","-","-","Reality Restitch","Spacetime Spool",0.5706976744186048,0
+"Mysterious Anomaly","2017","-","-","-","-","Reality Restitch","Paradox Pattern",0.5706976744186048,0
+"Mysterious Anomaly","2017","-","-","-","-","Reality Restitch","Fabric of Time",0.5706976744186048,0
