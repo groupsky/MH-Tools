@@ -153,11 +153,11 @@
         "Mysterious Anomaly": {
             "2009": {
                 "SB+": {
-                    "-": 19.79,
-                    "Reality Restitch": 26.67
+                    "-": 19.3,
+                    "Reality Restitch": 26.32
                 },
                 "Gouda": {
-                    "-": 35.52
+                    "-": 34.51
                 }
             }
         }
@@ -715,10 +715,13 @@
         "Mysterious Anomaly": {
             "2010": {
                 "SB+": {
-                    "-": 18.54
+                    "-": 18.28
                 },
                 "Gouda": {
-                    "-": 25.6
+                    "-": 25.77
+                },
+                "Brie": {
+                    "-": 27.27
                 }
             }
         }
@@ -1924,22 +1927,22 @@
         "Mysterious Anomaly": {
             "2008": {
                 "SB+": {
-                    "-": 26.5
+                    "-": 26.66
                 },
                 "Gouda": {
-                    "-": 13.49
+                    "-": 13.84
                 },
                 "Brie": {
                     "-": 6.98
                 },
                 "White Cheddar": {
-                    "-": 41.94
+                    "-": 42.67
                 },
                 "Moon": {
-                    "-": 14.85
+                    "-": 14.61
                 },
                 "Crescent": {
-                    "-": 34.17
+                    "-": 33.83
                 }
             }
         }
@@ -2063,7 +2066,7 @@
         "Mysterious Anomaly": {
             "2014": {
                 "SB+": {
-                    "-": 12.9
+                    "-": 9.57
                 }
             }
         }
@@ -2825,11 +2828,11 @@
         "Mysterious Anomaly": {
             "2009": {
                 "SB+": {
-                    "-": 29.64,
-                    "Reality Restitch": 6.67
+                    "-": 29.31,
+                    "Reality Restitch": 15.79
                 },
                 "Gouda": {
-                    "-": 30.17
+                    "-": 30.64
                 }
             }
         }
@@ -4013,19 +4016,19 @@
         "Mysterious Anomaly": {
             "2008": {
                 "SB+": {
-                    "-": 9.05
+                    "-": 8.62
                 },
                 "Gouda": {
-                    "-": 5.81
+                    "-": 5.8
                 },
                 "Brie": {
                     "-": 2.33
                 },
                 "Moon": {
-                    "-": 50.68
+                    "-": 50
                 },
                 "Crescent": {
-                    "-": 27.5
+                    "-": 27.07
                 }
             }
         }
@@ -4586,10 +4589,13 @@
         "Mysterious Anomaly": {
             "2013": {
                 "SB+": {
-                    "-": 25.35
+                    "-": 25.68
                 },
                 "Gouda": {
-                    "-": 31.4
+                    "-": 35.6
+                },
+                "Brie": {
+                    "-": 30
                 }
             }
         }
@@ -4656,10 +4662,13 @@
         "Mysterious Anomaly": {
             "2013": {
                 "SB+": {
-                    "-": 8.45
+                    "-": 7.21
                 },
                 "Gouda": {
-                    "-": 4.65
+                    "-": 5.2
+                },
+                "Brie": {
+                    "-": 10
                 }
             }
         }
@@ -4678,7 +4687,7 @@
         "Mysterious Anomaly": {
             "2013": {
                 "SB+": {
-                    "-": 19.37
+                    "-": 21.62
                 }
             }
         }
@@ -4775,13 +4784,14 @@
         "Mysterious Anomaly": {
             "2011": {
                 "SB+": {
-                    "-": 18.78
+                    "-": 19.15,
+                    "Reality Restitch": 27.27
                 },
                 "Gouda": {
-                    "-": 20.23
+                    "-": 21.61
                 },
                 "Brie": {
-                    "-": 26.32
+                    "-": 23.47
                 }
             }
         }
@@ -4906,13 +4916,13 @@
         "Mysterious Anomaly": {
             "2011": {
                 "SB+": {
-                    "-": 15.89
+                    "-": 16.01
                 },
                 "Gouda": {
-                    "-": 22.51
+                    "-": 22.99
                 },
                 "Brie": {
-                    "-": 19.3
+                    "-": 20.41
                 }
             }
         }
@@ -5045,11 +5055,11 @@
         "Mysterious Anomaly": {
             "2012": {
                 "SB+": {
-                    "-": 19.44,
-                    "Reality Restitch": 15.38
+                    "-": 20.45,
+                    "Reality Restitch": 11.76
                 },
                 "Gouda": {
-                    "-": 13.61
+                    "-": 14.2
                 }
             }
         }
@@ -5189,11 +5199,11 @@
         "Mysterious Anomaly": {
             "2009": {
                 "SB+": {
-                    "-": 17.26,
-                    "Reality Restitch": 20
+                    "-": 17.16,
+                    "Reality Restitch": 21.05
                 },
                 "Gouda": {
-                    "-": 12.65
+                    "-": 12.61
                 }
             }
         }
@@ -5312,22 +5322,22 @@
         "Mysterious Anomaly": {
             "2008": {
                 "SB+": {
-                    "-": 22.36
+                    "-": 21.9
                 },
                 "Gouda": {
-                    "-": 16.28
+                    "-": 16.63
                 },
                 "Brie": {
                     "-": 16.28
                 },
                 "White Cheddar": {
-                    "-": 56.45
+                    "-": 54.67
                 },
                 "Moon": {
-                    "-": 11.43
+                    "-": 11.45
                 },
                 "Crescent": {
-                    "-": 24.17
+                    "-": 24.06
                 }
             }
         }
@@ -5881,7 +5891,7 @@
         "Mysterious Anomaly": {
             "2008": {
                 "SB+": {
-                    "-": 4.25
+                    "-": 4.46
                 }
             }
         }
@@ -5997,11 +6007,11 @@
         "Mysterious Anomaly": {
             "2009": {
                 "SB+": {
-                    "-": 15.52,
-                    "Reality Restitch": 20
+                    "-": 16.15,
+                    "Reality Restitch": 15.79
                 },
                 "Gouda": {
-                    "-": 11.44
+                    "-": 11.62
                 }
             }
         }
@@ -6071,62 +6081,62 @@
         "Mysterious Anomaly": {
             "2008": {
                 "Rewind Raclette": {
-                    "-": 24.48,
-                    "Reality Restitch": 17.99
+                    "-": 23.88,
+                    "Reality Restitch": 17.53
                 }
             },
             "2009": {
                 "Rewind Raclette": {
-                    "-": 24.48,
-                    "Reality Restitch": 17.99
+                    "-": 23.88,
+                    "Reality Restitch": 17.53
                 }
             },
             "2010": {
                 "Rewind Raclette": {
-                    "-": 24.48,
-                    "Reality Restitch": 17.99
+                    "-": 23.88,
+                    "Reality Restitch": 17.53
                 }
             },
             "2011": {
                 "Rewind Raclette": {
-                    "-": 24.48,
-                    "Reality Restitch": 17.99
+                    "-": 23.88,
+                    "Reality Restitch": 17.53
                 }
             },
             "2012": {
                 "Rewind Raclette": {
-                    "-": 24.48,
-                    "Reality Restitch": 17.99
+                    "-": 23.88,
+                    "Reality Restitch": 17.53
                 }
             },
             "2013": {
                 "Rewind Raclette": {
-                    "-": 24.48,
-                    "Reality Restitch": 17.99
+                    "-": 23.88,
+                    "Reality Restitch": 17.53
                 }
             },
             "2014": {
                 "Rewind Raclette": {
-                    "-": 24.48,
-                    "Reality Restitch": 17.99
+                    "-": 23.88,
+                    "Reality Restitch": 17.53
                 }
             },
             "2015": {
                 "Rewind Raclette": {
-                    "-": 24.48,
-                    "Reality Restitch": 17.99
+                    "-": 23.88,
+                    "Reality Restitch": 17.53
                 }
             },
             "2016": {
                 "Rewind Raclette": {
-                    "-": 24.48,
-                    "Reality Restitch": 17.99
+                    "-": 23.88,
+                    "Reality Restitch": 17.53
                 }
             },
             "2017": {
                 "Rewind Raclette": {
-                    "-": 24.48,
-                    "Reality Restitch": 17.99
+                    "-": 23.88,
+                    "Reality Restitch": 17.53
                 }
             }
         }
@@ -6243,13 +6253,14 @@
         "Mysterious Anomaly": {
             "2011": {
                 "SB+": {
-                    "-": 13.48
+                    "-": 13.27,
+                    "Reality Restitch": 9.09
                 },
                 "Gouda": {
-                    "-": 16.52
+                    "-": 15.63
                 },
                 "Brie": {
-                    "-": 21.05
+                    "-": 18.37
                 }
             }
         }
@@ -6284,13 +6295,14 @@
         "Mysterious Anomaly": {
             "2011": {
                 "SB+": {
-                    "-": 17.34
+                    "-": 17.37,
+                    "Reality Restitch": 18.18
                 },
                 "Gouda": {
-                    "-": 21.37
+                    "-": 20.92
                 },
                 "Brie": {
-                    "-": 21.05
+                    "-": 18.37
                 }
             }
         }
@@ -6325,13 +6337,14 @@
         "Mysterious Anomaly": {
             "2011": {
                 "SB+": {
-                    "-": 12.52
+                    "-": 12.31,
+                    "Reality Restitch": 27.27
                 },
                 "Gouda": {
-                    "-": 19.37
+                    "-": 18.85
                 },
                 "Brie": {
-                    "-": 12.28
+                    "-": 19.39
                 }
             }
         }
@@ -7189,7 +7202,10 @@
         "Mysterious Anomaly": {
             "2016": {
                 "SB+": {
-                    "-": 6.25
+                    "-": 9.46
+                },
+                "Gouda": {
+                    "-": 11.76
                 }
             }
         }
@@ -7220,7 +7236,10 @@
         "Mysterious Anomaly": {
             "2016": {
                 "SB+": {
-                    "-": 6.25
+                    "-": 13.51
+                },
+                "Gouda": {
+                    "-": 23.53
                 }
             }
         }
@@ -7443,7 +7462,7 @@
         "Mysterious Anomaly": {
             "2016": {
                 "SB+": {
-                    "-": 12.5
+                    "-": 16.22
                 }
             }
         }
@@ -7777,6 +7796,13 @@
                     "-": 12.55
                 }
             }
+        },
+        "Mysterious Anomaly": {
+            "2015": {
+                "SB+": {
+                    "-": 17.07
+                }
+            }
         }
     },
     "Lumahead": {
@@ -7874,6 +7900,13 @@
             "-": {
                 "SB+": {
                     "-": 7.86
+                }
+            }
+        },
+        "Mysterious Anomaly": {
+            "2015": {
+                "SB+": {
+                    "-": 19.51
                 }
             }
         }
@@ -8190,7 +8223,7 @@
         "Mysterious Anomaly": {
             "2014": {
                 "SB+": {
-                    "-": 6.45
+                    "-": 14.89
                 }
             }
         }
@@ -8734,10 +8767,13 @@
         "Mysterious Anomaly": {
             "2013": {
                 "SB+": {
-                    "-": 18.66
+                    "-": 18.69
                 },
                 "Gouda": {
-                    "-": 27.91
+                    "-": 24.8
+                },
+                "Brie": {
+                    "-": 10
                 }
             }
         }
@@ -9036,10 +9072,13 @@
         "Mysterious Anomaly": {
             "2013": {
                 "SB+": {
-                    "-": 8.8
+                    "-": 9.91
                 },
                 "Gouda": {
-                    "-": 9.3
+                    "-": 8.4
+                },
+                "Brie": {
+                    "-": 15
                 }
             }
         }
@@ -9099,10 +9138,13 @@
         "Mysterious Anomaly": {
             "2013": {
                 "SB+": {
-                    "-": 19.37
+                    "-": 16.89
                 },
                 "Gouda": {
-                    "-": 26.74
+                    "-": 26
+                },
+                "Brie": {
+                    "-": 35
                 }
             }
         }
@@ -9387,22 +9429,22 @@
         "Mysterious Anomaly": {
             "2008": {
                 "SB+": {
-                    "-": 22.57
+                    "-": 23.19
                 },
                 "Gouda": {
-                    "-": 28.72
+                    "-": 28.46
                 },
                 "Brie": {
                     "-": 25.58
                 },
                 "White Cheddar": {
-                    "-": 1.61
+                    "-": 2.67
                 },
                 "Moon": {
-                    "-": 17.92
+                    "-": 19.08
                 },
                 "Crescent": {
-                    "-": 6.67
+                    "-": 7.52
                 }
             }
         }
@@ -9853,19 +9895,19 @@
         "Mysterious Anomaly": {
             "2008": {
                 "SB+": {
-                    "-": 15.27
+                    "-": 15.16
                 },
                 "Gouda": {
-                    "-": 35.7
+                    "-": 35.27
                 },
                 "Brie": {
                     "-": 48.84
                 },
                 "Moon": {
-                    "-": 5.12
+                    "-": 4.87
                 },
                 "Crescent": {
-                    "-": 7.5
+                    "-": 7.52
                 }
             }
         }
@@ -10579,10 +10621,11 @@
         "Mysterious Anomaly": {
             "2012": {
                 "SB+": {
-                    "-": 19.72
+                    "-": 20.04,
+                    "Reality Restitch": 11.76
                 },
                 "Gouda": {
-                    "-": 45.58
+                    "-": 46.02
                 }
             }
         }
@@ -10902,11 +10945,11 @@
         "Mysterious Anomaly": {
             "2012": {
                 "SB+": {
-                    "-": 11.27,
-                    "Reality Restitch": 15.38
+                    "-": 10.63,
+                    "Reality Restitch": 11.76
                 },
                 "Gouda": {
-                    "-": 17.01
+                    "-": 17.61
                 }
             }
         }
@@ -12124,10 +12167,13 @@
         "Mysterious Anomaly": {
             "2010": {
                 "SB+": {
-                    "-": 16.48
+                    "-": 15.8
                 },
                 "Gouda": {
-                    "-": 23.2
+                    "-": 23.46
+                },
+                "Brie": {
+                    "-": 18.18
                 }
             }
         }
@@ -12814,6 +12860,13 @@
                     "-": 0.75
                 }
             }
+        },
+        "Mysterious Anomaly": {
+            "2015": {
+                "SB+": {
+                    "-": 19.51
+                }
+            }
         }
     },
     "Masked Pikeman": {
@@ -13171,6 +13224,13 @@
                     "-": 0.85
                 }
             }
+        },
+        "Mysterious Anomaly": {
+            "2015": {
+                "SB+": {
+                    "-": 14.63
+                }
+            }
         }
     },
     "Ash Golem": {
@@ -13283,6 +13343,13 @@
                 },
                 "Gouda": {
                     "-": 0.79
+                }
+            }
+        },
+        "Mysterious Anomaly": {
+            "2015": {
+                "SB+": {
+                    "-": 19.51
                 }
             }
         }
@@ -14098,11 +14165,11 @@
         "Mysterious Anomaly": {
             "2012": {
                 "SB+": {
-                    "-": 20.28,
-                    "Reality Restitch": 30.77
+                    "-": 18.2,
+                    "Reality Restitch": 23.53
                 },
                 "Gouda": {
-                    "-": 18.37
+                    "-": 16.48
                 }
             }
         }
@@ -14657,7 +14724,8 @@
         "Mysterious Anomaly": {
             "2011": {
                 "SB+": {
-                    "-": 21.99
+                    "-": 21.89,
+                    "Reality Restitch": 18.18
                 }
             }
         }
@@ -14823,11 +14891,11 @@
         "Mysterious Anomaly": {
             "2009": {
                 "SB+": {
-                    "-": 16.91,
-                    "Reality Restitch": 26.67
+                    "-": 17.23,
+                    "Reality Restitch": 21.05
                 },
                 "Gouda": {
-                    "-": 10.22
+                    "-": 10.62
                 }
             }
         }
@@ -15041,7 +15109,7 @@
         "Mysterious Anomaly": {
             "2009": {
                 "SB+": {
-                    "-": 0.87
+                    "-": 0.86
                 }
             }
         }
@@ -15267,11 +15335,11 @@
         "Mysterious Anomaly": {
             "2012": {
                 "SB+": {
-                    "-": 13.52,
-                    "Reality Restitch": 23.08
+                    "-": 14.93,
+                    "Reality Restitch": 17.65
                 },
                 "Gouda": {
-                    "-": 5.44
+                    "-": 5.68
                 }
             }
         }
@@ -15626,7 +15694,7 @@
         "Mysterious Anomaly": {
             "2010": {
                 "SB+": {
-                    "-": 10.62
+                    "-": 10.84
                 }
             }
         }
@@ -15643,8 +15711,8 @@
         "Mysterious Anomaly": {
             "2012": {
                 "SB+": {
-                    "-": 15.77,
-                    "Reality Restitch": 15.38
+                    "-": 15.75,
+                    "Reality Restitch": 23.53
                 }
             }
         }
@@ -15690,7 +15758,7 @@
         "Mysterious Anomaly": {
             "2014": {
                 "SB+": {
-                    "-": 16.13
+                    "-": 15.96
                 }
             }
         }
@@ -16232,7 +16300,7 @@
         "Mysterious Anomaly": {
             "2014": {
                 "SB+": {
-                    "-": 22.58
+                    "-": 22.34
                 }
             }
         }
@@ -17608,7 +17676,7 @@
         "Mysterious Anomaly": {
             "2014": {
                 "SB+": {
-                    "-": 6.45
+                    "-": 14.89
                 }
             }
         }
@@ -17980,7 +18048,7 @@
         "Mysterious Anomaly": {
             "2014": {
                 "SB+": {
-                    "-": 35.48
+                    "-": 22.34
                 }
             }
         }
@@ -18581,6 +18649,13 @@
             "Monstrous Black Widow": {
                 "Lactrodectus Lancashire": {
                     "-": 0.33
+                }
+            }
+        },
+        "Mysterious Anomaly": {
+            "2015": {
+                "SB+": {
+                    "-": 9.76
                 }
             }
         }
@@ -19751,10 +19826,13 @@
         "Mysterious Anomaly": {
             "2010": {
                 "SB+": {
-                    "-": 14.42
+                    "-": 13.71
                 },
                 "Gouda": {
-                    "-": 10.8
+                    "-": 11.15
+                },
+                "Brie": {
+                    "-": 18.18
                 }
             }
         }
@@ -20174,10 +20252,13 @@
         "Mysterious Anomaly": {
             "2010": {
                 "SB+": {
-                    "-": 21.24
+                    "-": 21.8
                 },
                 "Gouda": {
-                    "-": 19.6
+                    "-": 18.85
+                },
+                "Brie": {
+                    "-": 18.18
                 }
             }
         }
@@ -20307,10 +20388,13 @@
         "Mysterious Anomaly": {
             "2010": {
                 "SB+": {
-                    "-": 18.7
+                    "-": 19.58
                 },
                 "Gouda": {
-                    "-": 20.8
+                    "-": 20.77
+                },
+                "Brie": {
+                    "-": 18.18
                 }
             }
         }
@@ -20765,6 +20849,13 @@
                     "-": 21.83
                 }
             }
+        },
+        "Mysterious Anomaly": {
+            "2017": {
+                "SB+": {
+                    "-": 20.37
+                }
+            }
         }
     },
     "Windy Farmer": {
@@ -20781,6 +20872,13 @@
                 },
                 "Gouda": {
                     "-": 22.19
+                }
+            }
+        },
+        "Mysterious Anomaly": {
+            "2017": {
+                "SB+": {
+                    "-": 9.26
                 }
             }
         }
@@ -20865,6 +20963,13 @@
             "-": {
                 "Glowing Gruyere": {
                     "-": 9.5
+                }
+            }
+        },
+        "Mysterious Anomaly": {
+            "2017": {
+                "SB+": {
+                    "-": 18.52
                 }
             }
         }
@@ -22769,6 +22874,13 @@
                     "Rift Antiskele": 6.15
                 }
             }
+        },
+        "Mysterious Anomaly": {
+            "2017": {
+                "SB+": {
+                    "-": 27.78
+                }
+            }
         }
     },
     "Chamber Cleaver": {
@@ -22991,6 +23103,13 @@
                     "Rift Antiskele": 22.2
                 }
             }
+        },
+        "Mysterious Anomaly": {
+            "2017": {
+                "SB+": {
+                    "-": 7.41
+                }
+            }
         }
     },
     "Clockwork Timespinner": {
@@ -23177,6 +23296,13 @@
                 "Brie String": {
                     "-": 21.31,
                     "Rift Antiskele": 22.52
+                }
+            }
+        },
+        "Mysterious Anomaly": {
+            "2017": {
+                "SB+": {
+                    "-": 16.67
                 }
             }
         }
@@ -23829,7 +23955,10 @@
         "Mysterious Anomaly": {
             "2016": {
                 "SB+": {
-                    "-": 12.5
+                    "-": 13.51
+                },
+                "Gouda": {
+                    "-": 23.53
                 }
             }
         }
@@ -23854,7 +23983,10 @@
         "Mysterious Anomaly": {
             "2016": {
                 "SB+": {
-                    "-": 43.75
+                    "-": 27.03
+                },
+                "Gouda": {
+                    "-": 41.18
                 }
             }
         }
@@ -23894,7 +24026,7 @@
         "Mysterious Anomaly": {
             "2016": {
                 "SB+": {
-                    "-": 18.75
+                    "-": 20.27
                 }
             }
         }
@@ -24161,8 +24293,8 @@
         "Mysterious Anomaly": {
             "2008": {
                 "Rewind Raclette": {
-                    "-": 45.87,
-                    "Reality Restitch": 40.56
+                    "-": 45.8,
+                    "Reality Restitch": 38.94
                 }
             }
         }
@@ -24172,61 +24304,61 @@
             "2008": {
                 "Rewind Raclette": {
                     "-": 22.95,
-                    "Reality Restitch": 18.42
+                    "Reality Restitch": 19.32
                 }
             },
             "2009": {
                 "Rewind Raclette": {
                     "-": 22.95,
-                    "Reality Restitch": 18.42
+                    "Reality Restitch": 19.32
                 }
             },
             "2010": {
                 "Rewind Raclette": {
                     "-": 22.95,
-                    "Reality Restitch": 18.42
+                    "Reality Restitch": 19.32
                 }
             },
             "2011": {
                 "Rewind Raclette": {
                     "-": 22.95,
-                    "Reality Restitch": 18.42
+                    "Reality Restitch": 19.32
                 }
             },
             "2012": {
                 "Rewind Raclette": {
                     "-": 22.95,
-                    "Reality Restitch": 18.42
+                    "Reality Restitch": 19.32
                 }
             },
             "2013": {
                 "Rewind Raclette": {
                     "-": 22.95,
-                    "Reality Restitch": 18.42
+                    "Reality Restitch": 19.32
                 }
             },
             "2014": {
                 "Rewind Raclette": {
                     "-": 22.95,
-                    "Reality Restitch": 18.42
+                    "Reality Restitch": 19.32
                 }
             },
             "2015": {
                 "Rewind Raclette": {
                     "-": 22.95,
-                    "Reality Restitch": 18.42
+                    "Reality Restitch": 19.32
                 }
             },
             "2016": {
                 "Rewind Raclette": {
                     "-": 22.95,
-                    "Reality Restitch": 18.42
+                    "Reality Restitch": 19.32
                 }
             },
             "2017": {
                 "Rewind Raclette": {
                     "-": 22.95,
-                    "Reality Restitch": 18.42
+                    "Reality Restitch": 19.32
                 }
             }
         }
@@ -24235,62 +24367,62 @@
         "Mysterious Anomaly": {
             "2008": {
                 "Rewind Raclette": {
-                    "-": 6.71,
-                    "Reality Restitch": 6.03
+                    "-": 7.37,
+                    "Reality Restitch": 7.1
                 }
             },
             "2009": {
                 "Rewind Raclette": {
-                    "-": 6.71,
-                    "Reality Restitch": 6.03
+                    "-": 7.37,
+                    "Reality Restitch": 7.1
                 }
             },
             "2010": {
                 "Rewind Raclette": {
-                    "-": 6.71,
-                    "Reality Restitch": 6.03
+                    "-": 7.37,
+                    "Reality Restitch": 7.1
                 }
             },
             "2011": {
                 "Rewind Raclette": {
-                    "-": 6.71,
-                    "Reality Restitch": 6.03
+                    "-": 7.37,
+                    "Reality Restitch": 7.1
                 }
             },
             "2012": {
                 "Rewind Raclette": {
-                    "-": 6.71,
-                    "Reality Restitch": 6.03
+                    "-": 7.37,
+                    "Reality Restitch": 7.1
                 }
             },
             "2013": {
                 "Rewind Raclette": {
-                    "-": 6.71,
-                    "Reality Restitch": 6.03
+                    "-": 7.37,
+                    "Reality Restitch": 7.1
                 }
             },
             "2014": {
                 "Rewind Raclette": {
-                    "-": 6.71,
-                    "Reality Restitch": 6.03
+                    "-": 7.37,
+                    "Reality Restitch": 7.1
                 }
             },
             "2015": {
                 "Rewind Raclette": {
-                    "-": 6.71,
-                    "Reality Restitch": 6.03
+                    "-": 7.37,
+                    "Reality Restitch": 7.1
                 }
             },
             "2016": {
                 "Rewind Raclette": {
-                    "-": 6.71,
-                    "Reality Restitch": 6.03
+                    "-": 7.37,
+                    "Reality Restitch": 7.1
                 }
             },
             "2017": {
                 "Rewind Raclette": {
-                    "-": 6.71,
-                    "Reality Restitch": 6.03
+                    "-": 7.37,
+                    "Reality Restitch": 7.1
                 }
             }
         }
@@ -24299,8 +24431,8 @@
         "Mysterious Anomaly": {
             "2009": {
                 "Rewind Raclette": {
-                    "-": 45.87,
-                    "Reality Restitch": 40.56
+                    "-": 45.8,
+                    "Reality Restitch": 38.94
                 }
             }
         }
@@ -24309,8 +24441,8 @@
         "Mysterious Anomaly": {
             "2010": {
                 "Rewind Raclette": {
-                    "-": 26.31,
-                    "Reality Restitch": 22.75
+                    "-": 26.41,
+                    "Reality Restitch": 23.67
                 }
             }
         }
@@ -24319,8 +24451,8 @@
         "Mysterious Anomaly": {
             "2010": {
                 "Rewind Raclette": {
-                    "-": 10.48,
-                    "Reality Restitch": 7.91
+                    "-": 9.86,
+                    "Reality Restitch": 6.87
                 }
             }
         }
@@ -24329,8 +24461,8 @@
         "Mysterious Anomaly": {
             "2010": {
                 "Rewind Raclette": {
-                    "-": 9.08,
-                    "Reality Restitch": 9.89
+                    "-": 9.53,
+                    "Reality Restitch": 8.4
                 }
             }
         }
@@ -24339,8 +24471,8 @@
         "Mysterious Anomaly": {
             "2011": {
                 "Rewind Raclette": {
-                    "-": 45.87,
-                    "Reality Restitch": 40.56
+                    "-": 45.8,
+                    "Reality Restitch": 38.94
                 }
             }
         }
@@ -24349,8 +24481,8 @@
         "Mysterious Anomaly": {
             "2012": {
                 "Rewind Raclette": {
-                    "-": 11.26,
-                    "Reality Restitch": 9.24
+                    "-": 10.64,
+                    "Reality Restitch": 8.16
                 }
             }
         }
@@ -24359,18 +24491,8 @@
         "Mysterious Anomaly": {
             "2012": {
                 "Rewind Raclette": {
-                    "-": 8.5,
-                    "Reality Restitch": 7.7
-                }
-            }
-        }
-    },
-    "Super FighterBot MegaSupreme": {
-        "Mysterious Anomaly": {
-            "2012": {
-                "Rewind Raclette": {
-                    "-": 6.86,
-                    "Reality Restitch": 5.65
+                    "-": 7.52,
+                    "Reality Restitch": 7.05
                 }
             }
         }
@@ -24379,18 +24501,18 @@
         "Mysterious Anomaly": {
             "2012": {
                 "Rewind Raclette": {
-                    "-": 6.76,
-                    "Reality Restitch": 7.19
+                    "-": 7.3,
+                    "Reality Restitch": 5.93
                 }
             }
         }
     },
-    "Force Fighter Pink": {
+    "Super FighterBot MegaSupreme": {
         "Mysterious Anomaly": {
             "2012": {
                 "Rewind Raclette": {
-                    "-": 6.25,
-                    "Reality Restitch": 5.65
+                    "-": 7.16,
+                    "Reality Restitch": 4.82
                 }
             }
         }
@@ -24399,8 +24521,18 @@
         "Mysterious Anomaly": {
             "2012": {
                 "Rewind Raclette": {
-                    "-": 6.25,
-                    "Reality Restitch": 5.13
+                    "-": 6.81,
+                    "Reality Restitch": 7.05
+                }
+            }
+        }
+    },
+    "Force Fighter Pink": {
+        "Mysterious Anomaly": {
+            "2012": {
+                "Rewind Raclette": {
+                    "-": 6.38,
+                    "Reality Restitch": 5.93
                 }
             }
         }
@@ -24409,8 +24541,8 @@
         "Mysterious Anomaly": {
             "2013": {
                 "Rewind Raclette": {
-                    "-": 13.43,
-                    "Reality Restitch": 12.85
+                    "-": 15,
+                    "Reality Restitch": 12.92
                 }
             }
         }
@@ -24419,8 +24551,8 @@
         "Mysterious Anomaly": {
             "2013": {
                 "Rewind Raclette": {
-                    "-": 12.96,
-                    "Reality Restitch": 12.34
+                    "-": 12.31,
+                    "Reality Restitch": 11.63
                 }
             }
         }
@@ -24429,8 +24561,8 @@
         "Mysterious Anomaly": {
             "2013": {
                 "Rewind Raclette": {
-                    "-": 10.54,
-                    "Reality Restitch": 5.79
+                    "-": 9.43,
+                    "Reality Restitch": 5.72
                 }
             }
         }
@@ -24439,18 +24571,8 @@
         "Mysterious Anomaly": {
             "2013": {
                 "Rewind Raclette": {
-                    "-": 8.95,
-                    "Reality Restitch": 9.57
-                }
-            }
-        }
-    },
-    "Cupcake Cutie": {
-        "Mysterious Anomaly": {
-            "2014": {
-                "Rewind Raclette": {
-                    "-": 23.4,
-                    "Reality Restitch": 17.84
+                    "-": 9.06,
+                    "Reality Restitch": 8.67
                 }
             }
         }
@@ -24459,8 +24581,18 @@
         "Mysterious Anomaly": {
             "2014": {
                 "Rewind Raclette": {
-                    "-": 22.47,
-                    "Reality Restitch": 22.71
+                    "-": 23.93,
+                    "Reality Restitch": 22.44
+                }
+            }
+        }
+    },
+    "Cupcake Cutie": {
+        "Mysterious Anomaly": {
+            "2014": {
+                "Rewind Raclette": {
+                    "-": 21.88,
+                    "Reality Restitch": 16.5
                 }
             }
         }
@@ -24469,8 +24601,8 @@
         "Mysterious Anomaly": {
             "2015": {
                 "Rewind Raclette": {
-                    "-": 26.82,
-                    "Reality Restitch": 26.16
+                    "-": 23.72,
+                    "Reality Restitch": 22.92
                 }
             }
         }
@@ -24479,8 +24611,8 @@
         "Mysterious Anomaly": {
             "2015": {
                 "Rewind Raclette": {
-                    "-": 19.05,
-                    "Reality Restitch": 14.39
+                    "-": 22.08,
+                    "Reality Restitch": 16.02
                 }
             }
         }
@@ -24489,8 +24621,8 @@
         "Mysterious Anomaly": {
             "2016": {
                 "Rewind Raclette": {
-                    "-": 45.87,
-                    "Reality Restitch": 40.56
+                    "-": 45.8,
+                    "Reality Restitch": 38.94
                 }
             }
         }
@@ -24499,8 +24631,8 @@
         "Mysterious Anomaly": {
             "2017": {
                 "Rewind Raclette": {
-                    "-": 45.87,
-                    "Reality Restitch": 40.56
+                    "-": 45.8,
+                    "Reality Restitch": 38.94
                 }
             }
         }
@@ -24509,52 +24641,52 @@
         "Mysterious Anomaly": {
             "2008": {
                 "Rewind Raclette": {
-                    "Reality Restitch": 17.01
+                    "Reality Restitch": 17.1
                 }
             },
             "2009": {
                 "Rewind Raclette": {
-                    "Reality Restitch": 17.01
+                    "Reality Restitch": 17.1
                 }
             },
             "2010": {
                 "Rewind Raclette": {
-                    "Reality Restitch": 17.01
+                    "Reality Restitch": 17.1
                 }
             },
             "2011": {
                 "Rewind Raclette": {
-                    "Reality Restitch": 17.01
+                    "Reality Restitch": 17.1
                 }
             },
             "2012": {
                 "Rewind Raclette": {
-                    "Reality Restitch": 17.01
+                    "Reality Restitch": 17.1
                 }
             },
             "2013": {
                 "Rewind Raclette": {
-                    "Reality Restitch": 17.01
+                    "Reality Restitch": 17.1
                 }
             },
             "2014": {
                 "Rewind Raclette": {
-                    "Reality Restitch": 17.01
+                    "Reality Restitch": 17.1
                 }
             },
             "2015": {
                 "Rewind Raclette": {
-                    "Reality Restitch": 17.01
+                    "Reality Restitch": 17.1
                 }
             },
             "2016": {
                 "Rewind Raclette": {
-                    "Reality Restitch": 17.01
+                    "Reality Restitch": 17.1
                 }
             },
             "2017": {
                 "Rewind Raclette": {
-                    "Reality Restitch": 17.01
+                    "Reality Restitch": 17.1
                 }
             }
         }
