@@ -9227,6 +9227,396 @@
         }
     },
     "Mysterious Anomaly": {
+        "2008": {
+            "Time Punk": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Time Thread": 1,
+                                "SampleSize": 364
+                            }
+                        }
+                    }
+                }
+            },
+            "Time Tailor": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Time Thread": 1,
+                                "SampleSize": 82
+                            }
+                        }
+                    }
+                }
+            },
+            "Reality Restitch": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Time Thread": 3,
+                                "SampleSize": 31
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "2009": {
+            "Time Punk": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Time Thread": 1,
+                                "SampleSize": 589,
+                                "Pausing Pin": 1
+                            }
+                        }
+                    }
+                }
+            },
+            "Time Tailor": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Time Thread": 1,
+                                "SampleSize": 100,
+                                "Pausing Pin": 1
+                            }
+                        }
+                    }
+                }
+            },
+            "Reality Restitch": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Pausing Pin": 1,
+                                "SampleSize": 38,
+                                "Time Thread": 2
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "2010": {
+            "Time Punk": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Pausing Pin": 1,
+                                "SampleSize": 469
+                            }
+                        }
+                    }
+                }
+            },
+            "Time Tailor": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Pausing Pin": 1,
+                                "SampleSize": 103
+                            }
+                        }
+                    }
+                }
+            },
+            "Reality Restitch": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Pausing Pin": 3,
+                                "SampleSize": 36
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "2011": {
+            "Time Punk": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Pausing Pin": 1,
+                                "SampleSize": 444,
+                                "Spacetime Spool": 0.6081081081081081
+                            }
+                        }
+                    }
+                }
+            },
+            "Time Tailor": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Pausing Pin": 1,
+                                "SampleSize": 116,
+                                "Spacetime Spool": 1
+                            }
+                        }
+                    }
+                }
+            },
+            "Reality Restitch": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Spacetime Spool": 1,
+                                "SampleSize": 25,
+                                "Pausing Pin": 2
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "2012": {
+            "Time Punk": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Spacetime Spool": 0.5972382048331415,
+                                "SampleSize": 869
+                            }
+                        }
+                    }
+                }
+            },
+            "Time Tailor": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Spacetime Spool": 1,
+                                "SampleSize": 334
+                            }
+                        }
+                    }
+                }
+            },
+            "Reality Restitch": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Spacetime Spool": 3,
+                                "SampleSize": 50
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "2013": {
+            "Time Punk": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Spacetime Spool": 0.6089238845144357,
+                                "SampleSize": 762,
+                                "Paradox Pattern": 0.15616797900262466
+                            }
+                        }
+                    }
+                }
+            },
+            "Time Tailor": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Spacetime Spool": 1,
+                                "SampleSize": 401,
+                                "Paradox Pattern": 1
+                            }
+                        }
+                    }
+                }
+            },
+            "Reality Restitch": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Spacetime Spool": 2,
+                                "SampleSize": 63,
+                                "Paradox Pattern": 1
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "2014": {
+            "Time Punk": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Paradox Pattern": 0.149812734082397,
+                                "SampleSize": 267
+                            }
+                        }
+                    }
+                }
+            },
+            "Time Tailor": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Paradox Pattern": 1,
+                                "SampleSize": 164
+                            }
+                        }
+                    }
+                }
+            },
+            "Reality Restitch": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Paradox Pattern": 2,
+                                "SampleSize": 30
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "2015": {
+            "Time Punk": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Paradox Pattern": 0.18236472945891782,
+                                "SampleSize": 499
+                            }
+                        }
+                    }
+                }
+            },
+            "Time Tailor": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Paradox Pattern": 1,
+                                "SampleSize": 333,
+                                "Fabric of Time": 1
+                            }
+                        }
+                    }
+                }
+            },
+            "Reality Restitch": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Paradox Pattern": 1,
+                                "SampleSize": 113,
+                                "Fabric of Time": 1
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "2016": {
+            "Time Tailor": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Fabric of Time": 1,
+                                "SampleSize": 186
+                            }
+                        }
+                    }
+                }
+            },
+            "Reality Restitch": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Fabric of Time": 2,
+                                "SampleSize": 68
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "2017": {
+            "Time Punk": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Time Thread": 0.262954796030871,
+                                "SampleSize": 1814,
+                                "Pausing Pin": 0.25909592061742004,
+                                "Spacetime Spool": 0.2486218302094818,
+                                "Paradox Pattern": 0.22932745314222713
+                            }
+                        }
+                    }
+                }
+            },
+            "Time Tailor": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Fabric of Time": 0.3183098591549296,
+                                "SampleSize": 1065,
+                                "Spacetime Spool": 0.3126760563380282,
+                                "Paradox Pattern": 0.29671361502347415,
+                                "Time Thread": 0.29389671361502345,
+                                "Pausing Pin": 0.29295774647887324
+                            }
+                        }
+                    }
+                }
+            },
+            "Reality Restitch": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Paradox Pattern": 0.5092250922509225,
+                                "SampleSize": 271,
+                                "Fabric of Time": 0.4907749077490775,
+                                "Pausing Pin": 0.6789667896678967,
+                                "Spacetime Spool": 0.6642066420664207,
+                                "Time Thread": 0.6568265682656826
+                            }
+                        }
+                    }
+                }
+            }
+        },
         "-": {
             "Assassin": {
                 "-": {
@@ -10119,53 +10509,6 @@
                                 "Spacetime Spool": 0.29867674858223064,
                                 "Pausing Pin": 0.2835538752362949,
                                 "Fabric of Time": 0.6427221172022685
-                            }
-                        }
-                    }
-                }
-            },
-            "Time Punk": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Time Thread": 0.262954796030871,
-                                "SampleSize": 1814,
-                                "Pausing Pin": 0.25909592061742004,
-                                "Spacetime Spool": 0.2486218302094818,
-                                "Paradox Pattern": 0.22932745314222713
-                            }
-                        }
-                    }
-                }
-            },
-            "Time Tailor": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Time Thread": 0.29389671361502345,
-                                "SampleSize": 1065,
-                                "Pausing Pin": 0.29295774647887324,
-                                "Spacetime Spool": 0.3126760563380282,
-                                "Paradox Pattern": 0.29671361502347415,
-                                "Fabric of Time": 0.3183098591549296
-                            }
-                        }
-                    }
-                }
-            },
-            "Reality Restitch": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Time Thread": 0.6568265682656826,
-                                "SampleSize": 271,
-                                "Pausing Pin": 0.6789667896678967,
-                                "Spacetime Spool": 0.6642066420664207,
-                                "Paradox Pattern": 0.5092250922509225,
-                                "Fabric of Time": 0.4907749077490775
                             }
                         }
                     }
