@@ -9234,7 +9234,7 @@
                         "-": {
                             "-": {
                                 "Time Thread": 1,
-                                "SampleSize": 498
+                                "SampleSize": 597
                             }
                         }
                     }
@@ -9246,7 +9246,7 @@
                         "-": {
                             "-": {
                                 "Time Thread": 1,
-                                "SampleSize": 106
+                                "SampleSize": 135
                             }
                         }
                     }
@@ -9258,7 +9258,7 @@
                         "-": {
                             "-": {
                                 "Time Thread": 3,
-                                "SampleSize": 41
+                                "SampleSize": 48
                             }
                         }
                     }
@@ -9269,9 +9269,9 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Time Thread": 4,
-                                "SampleSize": 158,
-                                "Rewind Raclette": 1.4493670886075949
+                                "Rewind Raclette": 1.4787644787644787,
+                                "SampleSize": 259,
+                                "Time Thread": 4
                             }
                         }
                     }
@@ -9285,7 +9285,7 @@
                         "-": {
                             "-": {
                                 "Time Thread": 1,
-                                "SampleSize": 755,
+                                "SampleSize": 858,
                                 "Pausing Pin": 1
                             }
                         }
@@ -9298,7 +9298,7 @@
                         "-": {
                             "-": {
                                 "Time Thread": 1,
-                                "SampleSize": 132,
+                                "SampleSize": 153,
                                 "Pausing Pin": 1
                             }
                         }
@@ -9311,7 +9311,7 @@
                         "-": {
                             "-": {
                                 "Time Thread": 2,
-                                "SampleSize": 50,
+                                "SampleSize": 55,
                                 "Pausing Pin": 1
                             }
                         }
@@ -9323,8 +9323,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Rewind Raclette": 1.4739583333333333,
-                                "SampleSize": 192,
+                                "Rewind Raclette": 1.4983050847457626,
+                                "SampleSize": 295,
                                 "Time Thread": 2,
                                 "Pausing Pin": 2
                             }
@@ -9340,7 +9340,7 @@
                         "-": {
                             "-": {
                                 "Pausing Pin": 1,
-                                "SampleSize": 671
+                                "SampleSize": 794
                             }
                         }
                     }
@@ -9352,7 +9352,7 @@
                         "-": {
                             "-": {
                                 "Pausing Pin": 1,
-                                "SampleSize": 153
+                                "SampleSize": 180
                             }
                         }
                     }
@@ -9364,7 +9364,7 @@
                         "-": {
                             "-": {
                                 "Pausing Pin": 3,
-                                "SampleSize": 51
+                                "SampleSize": 61
                             }
                         }
                     }
@@ -9375,8 +9375,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Rewind Raclette": 1.5045871559633028,
-                                "SampleSize": 218,
+                                "Rewind Raclette": 1.4984709480122325,
+                                "SampleSize": 327,
                                 "Pausing Pin": 4
                             }
                         }
@@ -9391,8 +9391,8 @@
                         "-": {
                             "-": {
                                 "Pausing Pin": 1,
-                                "SampleSize": 502,
-                                "Spacetime Spool": 0.601593625498008
+                                "SampleSize": 532,
+                                "Spacetime Spool": 0.6033834586466166
                             }
                         }
                     }
@@ -9404,7 +9404,7 @@
                         "-": {
                             "-": {
                                 "Pausing Pin": 1,
-                                "SampleSize": 132,
+                                "SampleSize": 141,
                                 "Spacetime Spool": 1
                             }
                         }
@@ -9417,7 +9417,7 @@
                         "-": {
                             "-": {
                                 "Pausing Pin": 2,
-                                "SampleSize": 38,
+                                "SampleSize": 42,
                                 "Spacetime Spool": 1
                             }
                         }
@@ -9429,10 +9429,10 @@
                     "-": {
                         "-": {
                             "-": {
+                                "Rewind Raclette": 1.547945205479452,
+                                "SampleSize": 219,
                                 "Pausing Pin": 2,
-                                "SampleSize": 137,
-                                "Spacetime Spool": 2,
-                                "Rewind Raclette": 1.5766423357664234
+                                "Spacetime Spool": 2
                             }
                         }
                     }
@@ -9445,8 +9445,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Spacetime Spool": 0.5942408376963351,
-                                "SampleSize": 1146
+                                "Spacetime Spool": 0.5977272727272728,
+                                "SampleSize": 1320
                             }
                         }
                     }
@@ -9458,7 +9458,7 @@
                         "-": {
                             "-": {
                                 "Spacetime Spool": 1,
-                                "SampleSize": 444
+                                "SampleSize": 517
                             }
                         }
                     }
@@ -9470,7 +9470,7 @@
                         "-": {
                             "-": {
                                 "Spacetime Spool": 3,
-                                "SampleSize": 80
+                                "SampleSize": 86
                             }
                         }
                     }
@@ -9481,9 +9481,9 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Rewind Raclette": 1.5248868778280542,
-                                "SampleSize": 221,
-                                "Spacetime Spool": 4
+                                "Spacetime Spool": 4,
+                                "SampleSize": 323,
+                                "Rewind Raclette": 1.5139318885448916
                             }
                         }
                     }
@@ -9496,9 +9496,9 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Spacetime Spool": 0.6089266737513284,
-                                "SampleSize": 941,
-                                "Paradox Pattern": 0.153028692879915
+                                "Spacetime Spool": 0.6039510818438382,
+                                "SampleSize": 1063,
+                                "Paradox Pattern": 0.14769520225776106
                             }
                         }
                     }
@@ -9510,7 +9510,7 @@
                         "-": {
                             "-": {
                                 "Spacetime Spool": 1,
-                                "SampleSize": 485,
+                                "SampleSize": 544,
                                 "Paradox Pattern": 1
                             }
                         }
@@ -9523,7 +9523,7 @@
                         "-": {
                             "-": {
                                 "Spacetime Spool": 2,
-                                "SampleSize": 84,
+                                "SampleSize": 93,
                                 "Paradox Pattern": 1
                             }
                         }
@@ -9536,9 +9536,9 @@
                         "-": {
                             "-": {
                                 "Spacetime Spool": 2,
-                                "SampleSize": 388,
+                                "SampleSize": 520,
                                 "Paradox Pattern": 2,
-                                "Rewind Raclette": 1.4948453608247423
+                                "Rewind Raclette": 1.4961538461538462
                             }
                         }
                     }
@@ -9551,8 +9551,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Paradox Pattern": 0.1484848484848485,
-                                "SampleSize": 330
+                                "Paradox Pattern": 0.1387434554973822,
+                                "SampleSize": 382
                             }
                         }
                     }
@@ -9564,7 +9564,7 @@
                         "-": {
                             "-": {
                                 "Paradox Pattern": 1,
-                                "SampleSize": 194
+                                "SampleSize": 236
                             }
                         }
                     }
@@ -9576,7 +9576,7 @@
                         "-": {
                             "-": {
                                 "Paradox Pattern": 2,
-                                "SampleSize": 48
+                                "SampleSize": 53
                             }
                         }
                     }
@@ -9588,8 +9588,8 @@
                         "-": {
                             "-": {
                                 "Paradox Pattern": 3,
-                                "SampleSize": 152,
-                                "Rewind Raclette": 1.4605263157894737
+                                "SampleSize": 248,
+                                "Rewind Raclette": 1.5080645161290323
                             }
                         }
                     }
@@ -9602,8 +9602,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Paradox Pattern": 0.1704225352112676,
-                                "SampleSize": 710
+                                "Paradox Pattern": 0.1709090909090909,
+                                "SampleSize": 825
                             }
                         }
                     }
@@ -9615,7 +9615,7 @@
                         "-": {
                             "-": {
                                 "Paradox Pattern": 1,
-                                "SampleSize": 478,
+                                "SampleSize": 581,
                                 "Fabric of Time": 1
                             }
                         }
@@ -9628,7 +9628,7 @@
                         "-": {
                             "-": {
                                 "Paradox Pattern": 1,
-                                "SampleSize": 163,
+                                "SampleSize": 181,
                                 "Fabric of Time": 1
                             }
                         }
@@ -9640,8 +9640,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Rewind Raclette": 1.5426829268292683,
-                                "SampleSize": 328,
+                                "Rewind Raclette": 1.526946107784431,
+                                "SampleSize": 501,
                                 "Paradox Pattern": 2,
                                 "Fabric of Time": 1
                             }
@@ -9657,7 +9657,7 @@
                         "-": {
                             "-": {
                                 "Fabric of Time": 1,
-                                "SampleSize": 316
+                                "SampleSize": 447
                             }
                         }
                     }
@@ -9669,7 +9669,7 @@
                         "-": {
                             "-": {
                                 "Fabric of Time": 2,
-                                "SampleSize": 126
+                                "SampleSize": 155
                             }
                         }
                     }
@@ -9680,9 +9680,9 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Fabric of Time": 3,
-                                "SampleSize": 310,
-                                "Rewind Raclette": 1.5
+                                "Rewind Raclette": 1.5010141987829615,
+                                "SampleSize": 493,
+                                "Fabric of Time": 3
                             }
                         }
                     }
@@ -9695,11 +9695,11 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Pausing Pin": 0.26198729058347775,
-                                "SampleSize": 3462,
-                                "Time Thread": 0.2593876372039284,
-                                "Spacetime Spool": 0.24696707105719237,
-                                "Paradox Pattern": 0.2316580011554015
+                                "Pausing Pin": 0.25699977236512633,
+                                "SampleSize": 4393,
+                                "Time Thread": 0.25654450261780104,
+                                "Spacetime Spool": 0.24903255178693376,
+                                "Paradox Pattern": 0.23742317323013887
                             }
                         }
                     }
@@ -9710,12 +9710,12 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Fabric of Time": 0.31444241316270566,
-                                "SampleSize": 2188,
-                                "Time Thread": 0.30895795246800734,
-                                "Paradox Pattern": 0.2952468007312614,
-                                "Spacetime Spool": 0.29113345521023765,
-                                "Pausing Pin": 0.2893053016453382
+                                "Time Thread": 0.30857552924291354,
+                                "SampleSize": 2787,
+                                "Fabric of Time": 0.3028345891639756,
+                                "Pausing Pin": 0.30068173663437386,
+                                "Paradox Pattern": 0.2942231790455687,
+                                "Spacetime Spool": 0.29350556153570145
                             }
                         }
                     }
@@ -9726,12 +9726,12 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Fabric of Time": 0.5012048192771085,
-                                "SampleSize": 415,
-                                "Paradox Pattern": 0.4987951807228916,
-                                "Time Thread": 0.689156626506024,
-                                "Spacetime Spool": 0.6650602409638554,
-                                "Pausing Pin": 0.6457831325301204
+                                "Paradox Pattern": 0.506578947368421,
+                                "SampleSize": 456,
+                                "Fabric of Time": 0.4934210526315789,
+                                "Time Thread": 0.6929824561403509,
+                                "Pausing Pin": 0.6578947368421053,
+                                "Spacetime Spool": 0.6491228070175439
                             }
                         }
                     }
@@ -9742,13 +9742,13 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Rewind Raclette": 1.5028618152085036,
-                                "SampleSize": 1223,
-                                "Paradox Pattern": 0.5322976287816844,
-                                "Fabric of Time": 0.4677023712183156,
-                                "Spacetime Spool": 0.6852003270645952,
-                                "Time Thread": 0.6753883892068684,
-                                "Pausing Pin": 0.6394112837285364
+                                "Rewind Raclette": 1.50199203187251,
+                                "SampleSize": 1757,
+                                "Paradox Pattern": 0.5196357427433125,
+                                "Fabric of Time": 0.4803642572566875,
+                                "Spacetime Spool": 0.6932270916334662,
+                                "Time Thread": 0.6738759248719408,
+                                "Pausing Pin": 0.632896983494593
                             }
                         }
                     }
@@ -9762,7 +9762,7 @@
                         "-": {
                             "-": {
                                 "Rewind Raclette": 2,
-                                "SampleSize": 23
+                                "SampleSize": 30
                             }
                         }
                     }
@@ -9774,7 +9774,7 @@
                         "-": {
                             "-": {
                                 "Rewind Raclette": 1,
-                                "SampleSize": 625
+                                "SampleSize": 730
                             }
                         }
                     }
@@ -9785,8 +9785,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Rewind Raclette": 0.3442265795206972,
-                                "SampleSize": 459
+                                "Rewind Raclette": 0.3890909090909091,
+                                "SampleSize": 550
                             }
                         }
                     }
@@ -9797,8 +9797,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Rewind Raclette": 0.6440677966101694,
-                                "SampleSize": 472
+                                "Rewind Raclette": 0.643510054844607,
+                                "SampleSize": 547
                             }
                         }
                     }
@@ -9809,8 +9809,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Rewind Raclette": 1.4823529411764707,
-                                "SampleSize": 510
+                                "Rewind Raclette": 1.48526863084922,
+                                "SampleSize": 577
                             }
                         }
                     }
@@ -9822,7 +9822,7 @@
                         "-": {
                             "-": {
                                 "Rewind Raclette": 2,
-                                "SampleSize": 11
+                                "SampleSize": 15
                             }
                         }
                     }
@@ -9833,8 +9833,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Rewind Raclette": 0.32891832229580575,
-                                "SampleSize": 906
+                                "Rewind Raclette": 0.3471698113207547,
+                                "SampleSize": 1060
                             }
                         }
                     }
@@ -9845,8 +9845,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Rewind Raclette": 1.4959839357429718,
-                                "SampleSize": 498
+                                "Rewind Raclette": 1.4894366197183098,
+                                "SampleSize": 568
                             }
                         }
                     }
@@ -9857,8 +9857,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Rewind Raclette": 1.5336426914153132,
-                                "SampleSize": 431
+                                "Rewind Raclette": 1.5383064516129032,
+                                "SampleSize": 496
                             }
                         }
                     }
@@ -9869,8 +9869,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Rewind Raclette": 1.4969072164948454,
-                                "SampleSize": 485
+                                "Rewind Raclette": 1.4917733089579526,
+                                "SampleSize": 547
                             }
                         }
                     }
@@ -9882,7 +9882,7 @@
                         "-": {
                             "-": {
                                 "Rewind Raclette": 2,
-                                "SampleSize": 176
+                                "SampleSize": 204
                             }
                         }
                     }
@@ -9893,8 +9893,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Rewind Raclette": 0.3137254901960784,
-                                "SampleSize": 408
+                                "Rewind Raclette": 0.31392931392931395,
+                                "SampleSize": 481
                             }
                         }
                     }
@@ -9905,8 +9905,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Rewind Raclette": 1.495114006514658,
-                                "SampleSize": 307
+                                "Rewind Raclette": 1.4850136239782017,
+                                "SampleSize": 367
                             }
                         }
                     }
@@ -9917,8 +9917,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Rewind Raclette": 0.6633416458852868,
-                                "SampleSize": 401
+                                "Rewind Raclette": 0.6764705882352942,
+                                "SampleSize": 476
                             }
                         }
                     }
@@ -9929,8 +9929,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Rewind Raclette": 0.6516587677725119,
-                                "SampleSize": 422
+                                "Rewind Raclette": 0.6653465346534654,
+                                "SampleSize": 505
                             }
                         }
                     }
@@ -9942,7 +9942,7 @@
                         "-": {
                             "-": {
                                 "Rewind Raclette": 2,
-                                "SampleSize": 187
+                                "SampleSize": 216
                             }
                         }
                     }
@@ -9953,8 +9953,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Rewind Raclette": 0.3273942093541203,
-                                "SampleSize": 449
+                                "Rewind Raclette": 0.3118712273641851,
+                                "SampleSize": 497
                             }
                         }
                     }
@@ -9965,8 +9965,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Rewind Raclette": 0.31666666666666665,
-                                "SampleSize": 420
+                                "Rewind Raclette": 0.3123644251626898,
+                                "SampleSize": 461
                             }
                         }
                     }
@@ -9977,8 +9977,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Rewind Raclette": 0.38847117794486213,
-                                "SampleSize": 399
+                                "Rewind Raclette": 0.3851203501094092,
+                                "SampleSize": 457
                             }
                         }
                     }
@@ -9989,8 +9989,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Rewind Raclette": 0.6489151873767258,
-                                "SampleSize": 507
+                                "Rewind Raclette": 0.6690265486725664,
+                                "SampleSize": 565
                             }
                         }
                     }
@@ -10001,8 +10001,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Rewind Raclette": 1.4841628959276019,
-                                "SampleSize": 442
+                                "Rewind Raclette": 1.4716599190283401,
+                                "SampleSize": 494
                             }
                         }
                     }
@@ -10014,7 +10014,7 @@
                         "-": {
                             "-": {
                                 "Rewind Raclette": 2,
-                                "SampleSize": 110
+                                "SampleSize": 133
                             }
                         }
                     }
@@ -10025,8 +10025,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Rewind Raclette": 1.5345911949685536,
-                                "SampleSize": 159
+                                "Rewind Raclette": 1.553072625698324,
+                                "SampleSize": 179
                             }
                         }
                     }
@@ -10037,8 +10037,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Rewind Raclette": 0.625,
-                                "SampleSize": 208
+                                "Rewind Raclette": 0.6111111111111112,
+                                "SampleSize": 234
                             }
                         }
                     }
@@ -10049,8 +10049,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Rewind Raclette": 0.632,
-                                "SampleSize": 125
+                                "Rewind Raclette": 0.6326530612244898,
+                                "SampleSize": 147
                             }
                         }
                     }
@@ -10061,8 +10061,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Rewind Raclette": 0.6684491978609626,
-                                "SampleSize": 187
+                                "Rewind Raclette": 0.6728110599078341,
+                                "SampleSize": 217
                             }
                         }
                     }
@@ -10074,7 +10074,7 @@
                         "-": {
                             "-": {
                                 "Rewind Raclette": 2,
-                                "SampleSize": 489
+                                "SampleSize": 527
                             }
                         }
                     }
@@ -10085,8 +10085,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Rewind Raclette": 0.8032166508987701,
-                                "SampleSize": 2114
+                                "Rewind Raclette": 0.8047469771607703,
+                                "SampleSize": 2233
                             }
                         }
                     }
@@ -10097,8 +10097,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Rewind Raclette": 0.7901538461538462,
-                                "SampleSize": 1625
+                                "Rewind Raclette": 0.7860438292964245,
+                                "SampleSize": 1734
                             }
                         }
                     }
@@ -10109,8 +10109,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Rewind Raclette": 0.8354263053536021,
-                                "SampleSize": 1513
+                                "Rewind Raclette": 0.8366214549938348,
+                                "SampleSize": 1622
                             }
                         }
                     }
@@ -10122,7 +10122,7 @@
                         "-": {
                             "-": {
                                 "Rewind Raclette": 1,
-                                "SampleSize": 597
+                                "SampleSize": 635
                             }
                         }
                     }
@@ -10134,7 +10134,7 @@
                         "-": {
                             "-": {
                                 "Rewind Raclette": 2,
-                                "SampleSize": 137
+                                "SampleSize": 179
                             }
                         }
                     }
@@ -10145,8 +10145,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Rewind Raclette": 0.38336713995943206,
-                                "SampleSize": 493
+                                "Rewind Raclette": 0.38421052631578945,
+                                "SampleSize": 570
                             }
                         }
                     }
@@ -10157,8 +10157,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Rewind Raclette": 0.4236111111111111,
-                                "SampleSize": 432
+                                "Rewind Raclette": 0.41295546558704455,
+                                "SampleSize": 494
                             }
                         }
                     }
@@ -10169,8 +10169,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Rewind Raclette": 0.43820224719101125,
-                                "SampleSize": 445
+                                "Rewind Raclette": 0.4255725190839695,
+                                "SampleSize": 524
                             }
                         }
                     }
@@ -10181,8 +10181,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Rewind Raclette": 0.9973890339425587,
-                                "SampleSize": 383
+                                "Rewind Raclette": 1,
+                                "SampleSize": 452
                             }
                         }
                     }
@@ -10193,8 +10193,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Rewind Raclette": 0.8156565656565656,
-                                "SampleSize": 396
+                                "Rewind Raclette": 0.8089171974522293,
+                                "SampleSize": 471
                             }
                         }
                     }
@@ -10206,7 +10206,7 @@
                         "-": {
                             "-": {
                                 "Rewind Raclette": 2,
-                                "SampleSize": 233
+                                "SampleSize": 258
                             }
                         }
                     }
@@ -10217,8 +10217,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Rewind Raclette": 0.8178963893249608,
-                                "SampleSize": 637
+                                "Rewind Raclette": 0.8103448275862069,
+                                "SampleSize": 696
                             }
                         }
                     }
@@ -10229,8 +10229,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Rewind Raclette": 0.8096385542168675,
-                                "SampleSize": 415
+                                "Rewind Raclette": 0.8098434004474273,
+                                "SampleSize": 447
                             }
                         }
                     }
@@ -10242,7 +10242,7 @@
                         "-": {
                             "-": {
                                 "Rewind Raclette": 1,
-                                "SampleSize": 406
+                                "SampleSize": 443
                             }
                         }
                     }
@@ -10253,8 +10253,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Rewind Raclette": 0.8491048593350383,
-                                "SampleSize": 391
+                                "Rewind Raclette": 0.8528735632183908,
+                                "SampleSize": 435
                             }
                         }
                     }
@@ -10266,7 +10266,7 @@
                         "-": {
                             "-": {
                                 "Rewind Raclette": 2,
-                                "SampleSize": 212
+                                "SampleSize": 239
                             }
                         }
                     }
@@ -10278,7 +10278,7 @@
                         "-": {
                             "-": {
                                 "Rewind Raclette": 1,
-                                "SampleSize": 357
+                                "SampleSize": 423
                             }
                         }
                     }
@@ -10290,7 +10290,7 @@
                         "-": {
                             "-": {
                                 "Rewind Raclette": 1,
-                                "SampleSize": 352
+                                "SampleSize": 414
                             }
                         }
                     }
@@ -10301,8 +10301,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Rewind Raclette": 0.6142433234421365,
-                                "SampleSize": 337
+                                "Rewind Raclette": 0.6188235294117647,
+                                "SampleSize": 425
                             }
                         }
                     }
@@ -10313,8 +10313,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Rewind Raclette": 0.3744292237442922,
-                                "SampleSize": 219
+                                "Rewind Raclette": 0.36186770428015563,
+                                "SampleSize": 257
                             }
                         }
                     }
@@ -10326,7 +10326,7 @@
                         "-": {
                             "-": {
                                 "Rewind Raclette": 2,
-                                "SampleSize": 300
+                                "SampleSize": 391
                             }
                         }
                     }
@@ -10337,8 +10337,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Rewind Raclette": 0.9984202211690363,
-                                "SampleSize": 633
+                                "Rewind Raclette": 1,
+                                "SampleSize": 925
                             }
                         }
                     }
@@ -10350,7 +10350,7 @@
                         "-": {
                             "-": {
                                 "Rewind Raclette": 1,
-                                "SampleSize": 566
+                                "SampleSize": 837
                             }
                         }
                     }
@@ -10361,8 +10361,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Rewind Raclette": 0.4967148488830486,
-                                "SampleSize": 761
+                                "Rewind Raclette": 0.5431654676258992,
+                                "SampleSize": 1112
                             }
                         }
                     }
@@ -10373,8 +10373,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Rewind Raclette": 0.724025974025974,
-                                "SampleSize": 616
+                                "Rewind Raclette": 0.7669902912621359,
+                                "SampleSize": 927
                             }
                         }
                     }
@@ -10385,8 +10385,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Rewind Raclette": 0.7410852713178294,
-                                "SampleSize": 645
+                                "Rewind Raclette": 0.7646443514644351,
+                                "SampleSize": 956
                             }
                         }
                     }
@@ -10397,8 +10397,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Time Thread": 1.5036880927291887,
-                                "SampleSize": 949
+                                "Time Thread": 1.5013100436681224,
+                                "SampleSize": 1145
                             }
                         }
                     }
@@ -10409,9 +10409,9 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Pausing Pin": 0.5361635220125787,
-                                "SampleSize": 1272,
-                                "Time Thread": 0.5204402515723271
+                                "Pausing Pin": 0.534106412005457,
+                                "SampleSize": 1466,
+                                "Time Thread": 0.5129604365620737
                             }
                         }
                     }
@@ -10422,8 +10422,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Pausing Pin": 0.672,
-                                "SampleSize": 250
+                                "Pausing Pin": 0.66,
+                                "SampleSize": 300
                             }
                         }
                     }
@@ -10435,7 +10435,7 @@
                         "-": {
                             "-": {
                                 "Pausing Pin": 2,
-                                "SampleSize": 671
+                                "SampleSize": 795
                             }
                         }
                     }
@@ -10446,8 +10446,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Pausing Pin": 0.5805243445692884,
-                                "SampleSize": 267
+                                "Pausing Pin": 0.580441640378549,
+                                "SampleSize": 317
                             }
                         }
                     }
@@ -10458,9 +10458,9 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Spacetime Spool": 0.6949280847842544,
-                                "SampleSize": 1321,
-                                "Pausing Pin": 0.5117335352006056
+                                "Spacetime Spool": 0.689410092395167,
+                                "SampleSize": 1407,
+                                "Pausing Pin": 0.5074626865671642
                             }
                         }
                     }
@@ -10472,7 +10472,7 @@
                         "-": {
                             "-": {
                                 "Spacetime Spool": 1,
-                                "SampleSize": 310
+                                "SampleSize": 359
                             }
                         }
                     }
@@ -10484,7 +10484,7 @@
                         "-": {
                             "-": {
                                 "Spacetime Spool": 1,
-                                "SampleSize": 336
+                                "SampleSize": 387
                             }
                         }
                     }
@@ -10496,7 +10496,7 @@
                         "-": {
                             "-": {
                                 "Spacetime Spool": 1,
-                                "SampleSize": 331
+                                "SampleSize": 372
                             }
                         }
                     }
@@ -10508,7 +10508,7 @@
                         "-": {
                             "-": {
                                 "Spacetime Spool": 1,
-                                "SampleSize": 337
+                                "SampleSize": 388
                             }
                         }
                     }
@@ -10519,8 +10519,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Spacetime Spool": 1.5529661016949152,
-                                "SampleSize": 472
+                                "Spacetime Spool": 1.5522935779816514,
+                                "SampleSize": 545
                             }
                         }
                     }
@@ -10532,7 +10532,7 @@
                         "-": {
                             "-": {
                                 "Spacetime Spool": 2,
-                                "SampleSize": 317
+                                "SampleSize": 379
                             }
                         }
                     }
@@ -10543,8 +10543,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Spacetime Spool": 0.6141414141414141,
-                                "SampleSize": 495
+                                "Spacetime Spool": 0.6138790035587188,
+                                "SampleSize": 562
                             }
                         }
                     }
@@ -10555,8 +10555,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Paradox Pattern": 0.7590861889927311,
-                                "SampleSize": 963
+                                "Paradox Pattern": 0.7653631284916201,
+                                "SampleSize": 1074
                             }
                         }
                     }
@@ -10568,7 +10568,7 @@
                         "-": {
                             "-": {
                                 "Spacetime Spool": 1,
-                                "SampleSize": 731,
+                                "SampleSize": 819,
                                 "Paradox Pattern": 1
                             }
                         }
@@ -10581,7 +10581,7 @@
                         "-": {
                             "-": {
                                 "Paradox Pattern": 1,
-                                "SampleSize": 594
+                                "SampleSize": 716
                             }
                         }
                     }
@@ -10593,7 +10593,7 @@
                         "-": {
                             "-": {
                                 "Paradox Pattern": 1,
-                                "SampleSize": 586
+                                "SampleSize": 691
                             }
                         }
                     }
@@ -10604,8 +10604,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Paradox Pattern": 0.5259156876295784,
-                                "SampleSize": 1447
+                                "Paradox Pattern": 0.5224489795918368,
+                                "SampleSize": 1715
                             }
                         }
                     }
@@ -10616,9 +10616,9 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Fabric of Time": 0.898936170212766,
-                                "SampleSize": 1316,
-                                "Paradox Pattern": 0.44984802431610943
+                                "Fabric of Time": 0.8961960025789814,
+                                "SampleSize": 1551,
+                                "Paradox Pattern": 0.4513217279174726
                             }
                         }
                     }
@@ -10630,7 +10630,7 @@
                         "-": {
                             "-": {
                                 "Fabric of Time": 1,
-                                "SampleSize": 1649
+                                "SampleSize": 2258
                             }
                         }
                     }
@@ -10641,12 +10641,12 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Time Thread": 0.3228035538005923,
-                                "SampleSize": 2026,
-                                "Pausing Pin": 0.3040473840078973,
-                                "Paradox Pattern": 0.2926949654491609,
-                                "Spacetime Spool": 0.2981243830207305,
-                                "Fabric of Time": 0.6786771964461994
+                                "Time Thread": 0.32246661429693635,
+                                "SampleSize": 2546,
+                                "Spacetime Spool": 0.31657501963864887,
+                                "Pausing Pin": 0.30204241948153965,
+                                "Paradox Pattern": 0.2898664571877455,
+                                "Fabric of Time": 0.6527886881382561
                             }
                         }
                     }

@@ -1,342 +1,419 @@
 "Location","Phase","Cheese","Charm","Attraction Rate","Mouse","Sample Size"
-"Mysterious Anomaly","2008","Rewind Raclette","-","40.71%","Present",226
-"Mysterious Anomaly","2008","Rewind Raclette","-","20.80%","Time Punk",226
-"Mysterious Anomaly","2008","Rewind Raclette","-","18.58%","Birthday",226
-"Mysterious Anomaly","2008","Rewind Raclette","-","16.81%","Lucky",226
-"Mysterious Anomaly","2008","Rewind Raclette","-","3.10%","Time Tailor",226
-"Mysterious Anomaly","2008","Rewind Raclette","Reality Restitch","38.10%","Present",63
-"Mysterious Anomaly","2008","Rewind Raclette","Reality Restitch","22.22%","Birthday",63
-"Mysterious Anomaly","2008","Rewind Raclette","Reality Restitch","17.46%","Time Punk",63
-"Mysterious Anomaly","2008","Rewind Raclette","Reality Restitch","9.52%","Lucky",63
-"Mysterious Anomaly","2008","Rewind Raclette","Reality Restitch","9.52%","Reality Restitch",63
-"Mysterious Anomaly","2008","Rewind Raclette","Reality Restitch","3.17%","Time Tailor",63
-"Mysterious Anomaly","2008","SB+","-","28.86%","Pirate",149
-"Mysterious Anomaly","2008","SB+","-","23.49%","Zombie",149
-"Mysterious Anomaly","2008","SB+","-","13.42%","Ninja",149
-"Mysterious Anomaly","2008","SB+","-","12.08%","Lucky",149
-"Mysterious Anomaly","2008","SB+","-","11.41%","White",149
-"Mysterious Anomaly","2008","SB+","-","5.37%","Assassin",149
-"Mysterious Anomaly","2008","SB+","-","5.37%","Lycan",149
-"Mysterious Anomaly","2008","Gouda","-","30.68%","White",88
-"Mysterious Anomaly","2008","Gouda","-","21.59%","Pirate",88
-"Mysterious Anomaly","2008","Gouda","-","15.91%","Zombie",88
-"Mysterious Anomaly","2008","Gouda","-","15.91%","Lucky",88
-"Mysterious Anomaly","2008","Gouda","-","13.64%","Ninja",88
-"Mysterious Anomaly","2008","Gouda","-","2.27%","Lycan",88
-"Mysterious Anomaly","2008","Moon","-","46.79%","Lycan",109
-"Mysterious Anomaly","2008","Moon","-","22.94%","Zombie",109
-"Mysterious Anomaly","2008","Moon","-","15.60%","Pirate",109
-"Mysterious Anomaly","2008","Moon","-","9.17%","Ninja",109
-"Mysterious Anomaly","2008","Moon","-","5.50%","White",109
-"Mysterious Anomaly","2008","Crescent","-","33.33%","Lycan",36
-"Mysterious Anomaly","2008","Crescent","-","30.56%","Zombie",36
-"Mysterious Anomaly","2008","Crescent","-","16.67%","White",36
-"Mysterious Anomaly","2008","Crescent","-","13.89%","Pirate",36
-"Mysterious Anomaly","2008","Crescent","-","5.56%","Ninja",36
-"Mysterious Anomaly","2009","Rewind Raclette","-","39.53%","Terrible Twos",172
-"Mysterious Anomaly","2009","Rewind Raclette","-","21.51%","Time Punk",172
-"Mysterious Anomaly","2009","Rewind Raclette","-","18.02%","Lucky",172
-"Mysterious Anomaly","2009","Rewind Raclette","-","16.28%","Birthday",172
-"Mysterious Anomaly","2009","Rewind Raclette","-","4.65%","Time Tailor",172
-"Mysterious Anomaly","2009","Rewind Raclette","Reality Restitch","32.79%","Terrible Twos",61
-"Mysterious Anomaly","2009","Rewind Raclette","Reality Restitch","18.03%","Lucky",61
-"Mysterious Anomaly","2009","Rewind Raclette","Reality Restitch","18.03%","Time Punk",61
-"Mysterious Anomaly","2009","Rewind Raclette","Reality Restitch","16.39%","Reality Restitch",61
-"Mysterious Anomaly","2009","Rewind Raclette","Reality Restitch","13.11%","Birthday",61
-"Mysterious Anomaly","2009","Rewind Raclette","Reality Restitch","1.64%","Time Tailor",61
-"Mysterious Anomaly","2009","SB+","-","20.19%","Cyclops",317
-"Mysterious Anomaly","2009","SB+","-","17.67%","Gate Guardian",317
-"Mysterious Anomaly","2009","SB+","-","17.03%","Grunt",317
-"Mysterious Anomaly","2009","SB+","-","16.09%","Lucky",317
-"Mysterious Anomaly","2009","SB+","-","15.77%","Finder",317
-"Mysterious Anomaly","2009","SB+","-","12.62%","Pack",317
-"Mysterious Anomaly","2009","SB+","-","0.63%","Shelder",317
-"Mysterious Anomaly","2009","Gouda","-","29.21%","Gate Guardian",89
-"Mysterious Anomaly","2009","Gouda","-","21.35%","Finder",89
-"Mysterious Anomaly","2009","Gouda","-","19.10%","Cyclops",89
-"Mysterious Anomaly","2009","Gouda","-","16.85%","Grunt",89
-"Mysterious Anomaly","2009","Gouda","-","8.99%","Lucky",89
-"Mysterious Anomaly","2009","Gouda","-","4.49%","Pack",89
-"Mysterious Anomaly","2009","Gouda","Reality Restitch","25.00%","Lucky",12
-"Mysterious Anomaly","2009","Gouda","Reality Restitch","25.00%","Gate Guardian",12
-"Mysterious Anomaly","2009","Gouda","Reality Restitch","16.67%","Cyclops",12
-"Mysterious Anomaly","2009","Gouda","Reality Restitch","16.67%","Pack",12
-"Mysterious Anomaly","2009","Gouda","Reality Restitch","16.67%","Reality Restitch",12
-"Mysterious Anomaly","2010","Rewind Raclette","-","20.83%","Birthday",528
-"Mysterious Anomaly","2010","Rewind Raclette","-","20.45%","Pintail",528
-"Mysterious Anomaly","2010","Rewind Raclette","-","19.13%","Time Punk",528
-"Mysterious Anomaly","2010","Rewind Raclette","-","17.61%","Lucky",528
-"Mysterious Anomaly","2010","Rewind Raclette","-","9.47%","Buckethead",528
-"Mysterious Anomaly","2010","Rewind Raclette","-","7.77%","Sleepwalker",528
-"Mysterious Anomaly","2010","Rewind Raclette","-","4.73%","Time Tailor",528
-"Mysterious Anomaly","2010","Rewind Raclette","Reality Restitch","20.45%","Time Punk",88
-"Mysterious Anomaly","2010","Rewind Raclette","Reality Restitch","18.18%","Pintail",88
-"Mysterious Anomaly","2010","Rewind Raclette","Reality Restitch","17.05%","Birthday",88
-"Mysterious Anomaly","2010","Rewind Raclette","Reality Restitch","12.50%","Lucky",88
-"Mysterious Anomaly","2010","Rewind Raclette","Reality Restitch","11.36%","Reality Restitch",88
-"Mysterious Anomaly","2010","Rewind Raclette","Reality Restitch","9.09%","Sleepwalker",88
-"Mysterious Anomaly","2010","Rewind Raclette","Reality Restitch","6.82%","Buckethead",88
-"Mysterious Anomaly","2010","Rewind Raclette","Reality Restitch","4.55%","Time Tailor",88
-"Mysterious Anomaly","2010","SB+","-","20.83%","Mystic Pawn",216
-"Mysterious Anomaly","2010","SB+","-","15.74%","Dancer",216
-"Mysterious Anomaly","2010","SB+","-","15.28%","Spring Familiar",216
-"Mysterious Anomaly","2010","SB+","-","13.43%","Tidal Fisher",216
-"Mysterious Anomaly","2010","SB+","-","12.50%","Technic Pawn",216
-"Mysterious Anomaly","2010","SB+","-","12.04%","Lucky",216
-"Mysterious Anomaly","2010","SB+","-","10.19%","Farmhand",216
-"Mysterious Anomaly","2010","SB+","Reality Restitch","25.00%","Farmhand",12
-"Mysterious Anomaly","2010","SB+","Reality Restitch","25.00%","Tidal Fisher",12
-"Mysterious Anomaly","2010","SB+","Reality Restitch","16.67%","Dancer",12
-"Mysterious Anomaly","2010","SB+","Reality Restitch","8.33%","Lucky",12
-"Mysterious Anomaly","2010","SB+","Reality Restitch","8.33%","Technic Pawn",12
-"Mysterious Anomaly","2010","SB+","Reality Restitch","8.33%","Mystic Pawn",12
-"Mysterious Anomaly","2010","SB+","Reality Restitch","8.33%","Reality Restitch",12
-"Mysterious Anomaly","2010","Gouda","-","21.05%","Dancer",19
-"Mysterious Anomaly","2010","Gouda","-","21.05%","Tidal Fisher",19
-"Mysterious Anomaly","2010","Gouda","-","21.05%","Lucky",19
-"Mysterious Anomaly","2010","Gouda","-","21.05%","Farmhand",19
-"Mysterious Anomaly","2010","Gouda","-","10.53%","Technic Pawn",19
-"Mysterious Anomaly","2010","Gouda","-","5.26%","Mystic Pawn",19
-"Mysterious Anomaly","2011","Rewind Raclette","-","42.96%","Dinosuit",142
-"Mysterious Anomaly","2011","Rewind Raclette","-","19.01%","Birthday",142
-"Mysterious Anomaly","2011","Rewind Raclette","-","19.01%","Lucky",142
-"Mysterious Anomaly","2011","Rewind Raclette","-","13.38%","Time Punk",142
-"Mysterious Anomaly","2011","Rewind Raclette","-","5.63%","Time Tailor",142
-"Mysterious Anomaly","2011","Rewind Raclette","Reality Restitch","37.50%","Dinosuit",40
-"Mysterious Anomaly","2011","Rewind Raclette","Reality Restitch","20.00%","Reality Restitch",40
-"Mysterious Anomaly","2011","Rewind Raclette","Reality Restitch","17.50%","Lucky",40
-"Mysterious Anomaly","2011","Rewind Raclette","Reality Restitch","17.50%","Birthday",40
-"Mysterious Anomaly","2011","Rewind Raclette","Reality Restitch","7.50%","Time Punk",40
-"Mysterious Anomaly","2011","SB+","-","18.80%","Desert Architect",117
-"Mysterious Anomaly","2011","SB+","-","16.24%","Lucky",117
-"Mysterious Anomaly","2011","SB+","-","14.53%","Pocketwatch",117
-"Mysterious Anomaly","2011","SB+","-","13.68%","Desert Archer",117
-"Mysterious Anomaly","2011","SB+","-","12.82%","Bookborn",117
-"Mysterious Anomaly","2011","SB+","-","12.82%","Vanguard",117
-"Mysterious Anomaly","2011","SB+","-","11.11%","Desert Soldier",117
-"Mysterious Anomaly","2011","Gouda","-","26.97%","Bookborn",89
-"Mysterious Anomaly","2011","Gouda","-","20.22%","Pocketwatch",89
-"Mysterious Anomaly","2011","Gouda","-","16.85%","Desert Archer",89
-"Mysterious Anomaly","2011","Gouda","-","15.73%","Desert Soldier",89
-"Mysterious Anomaly","2011","Gouda","-","11.24%","Lucky",89
-"Mysterious Anomaly","2011","Gouda","-","8.99%","Vanguard",89
-"Mysterious Anomaly","2012","Rewind Raclette","-","20.85%","Time Punk",633
-"Mysterious Anomaly","2012","Rewind Raclette","-","17.69%","Birthday",633
-"Mysterious Anomaly","2012","Rewind Raclette","-","14.06%","Lucky",633
-"Mysterious Anomaly","2012","Rewind Raclette","-","7.90%","Time Tailor",633
-"Mysterious Anomaly","2012","Rewind Raclette","-","7.90%","Force Fighter Pink",633
-"Mysterious Anomaly","2012","Rewind Raclette","-","7.58%","Force Fighter Green",633
-"Mysterious Anomaly","2012","Rewind Raclette","-","7.11%","Force Fighter Red",633
-"Mysterious Anomaly","2012","Rewind Raclette","-","6.32%","Super FighterBot MegaSupreme",633
-"Mysterious Anomaly","2012","Rewind Raclette","-","5.53%","Force Fighter Yellow",633
-"Mysterious Anomaly","2012","Rewind Raclette","-","5.06%","Force Fighter Blue",633
-"Mysterious Anomaly","2012","Rewind Raclette","Reality Restitch","15.87%","Reality Restitch",126
-"Mysterious Anomaly","2012","Rewind Raclette","Reality Restitch","14.29%","Time Punk",126
-"Mysterious Anomaly","2012","Rewind Raclette","Reality Restitch","14.29%","Birthday",126
-"Mysterious Anomaly","2012","Rewind Raclette","Reality Restitch","13.49%","Lucky",126
-"Mysterious Anomaly","2012","Rewind Raclette","Reality Restitch","7.94%","Force Fighter Green",126
-"Mysterious Anomaly","2012","Rewind Raclette","Reality Restitch","7.14%","Time Tailor",126
-"Mysterious Anomaly","2012","Rewind Raclette","Reality Restitch","7.14%","Force Fighter Yellow",126
-"Mysterious Anomaly","2012","Rewind Raclette","Reality Restitch","6.35%","Force Fighter Blue",126
-"Mysterious Anomaly","2012","Rewind Raclette","Reality Restitch","4.76%","Force Fighter Pink",126
-"Mysterious Anomaly","2012","Rewind Raclette","Reality Restitch","4.76%","Force Fighter Red",126
-"Mysterious Anomaly","2012","Rewind Raclette","Reality Restitch","3.97%","Super FighterBot MegaSupreme",126
-"Mysterious Anomaly","2012","SB+","-","21.82%","Lucky",110
-"Mysterious Anomaly","2012","SB+","-","20.00%","Strawberry Hotcakes",110
-"Mysterious Anomaly","2012","SB+","-","14.55%","Yeti",110
-"Mysterious Anomaly","2012","SB+","-","12.73%","Cursed Thief",110
-"Mysterious Anomaly","2012","SB+","-","12.73%","Incompetent Ice Climber",110
-"Mysterious Anomaly","2012","SB+","-","11.82%","Living Ice",110
-"Mysterious Anomaly","2012","SB+","-","6.36%","Grubling",110
-"Mysterious Anomaly","2012","SB+","Reality Restitch","36.36%","Lucky",11
-"Mysterious Anomaly","2012","SB+","Reality Restitch","18.18%","Incompetent Ice Climber",11
-"Mysterious Anomaly","2012","SB+","Reality Restitch","18.18%","Cursed Thief",11
-"Mysterious Anomaly","2012","SB+","Reality Restitch","9.09%","Reality Restitch",11
-"Mysterious Anomaly","2012","SB+","Reality Restitch","9.09%","Yeti",11
-"Mysterious Anomaly","2012","SB+","Reality Restitch","9.09%","Grubling",11
-"Mysterious Anomaly","2013","Rewind Raclette","-","17.67%","Para Para Dancer",481
-"Mysterious Anomaly","2013","Rewind Raclette","-","17.46%","Time Punk",481
-"Mysterious Anomaly","2013","Rewind Raclette","-","17.26%","Lucky",481
-"Mysterious Anomaly","2013","Rewind Raclette","-","12.47%","Birthday",481
-"Mysterious Anomaly","2013","Rewind Raclette","-","12.27%","El Flamenco",481
-"Mysterious Anomaly","2013","Rewind Raclette","-","8.73%","Dance Party",481
-"Mysterious Anomaly","2013","Rewind Raclette","-","7.69%","Time Tailor",481
-"Mysterious Anomaly","2013","Rewind Raclette","-","6.44%","Breakdancer",481
-"Mysterious Anomaly","2013","Rewind Raclette","Reality Restitch","16.48%","Lucky",91
-"Mysterious Anomaly","2013","Rewind Raclette","Reality Restitch","15.38%","Birthday",91
-"Mysterious Anomaly","2013","Rewind Raclette","Reality Restitch","14.29%","Reality Restitch",91
-"Mysterious Anomaly","2013","Rewind Raclette","Reality Restitch","12.09%","Time Punk",91
-"Mysterious Anomaly","2013","Rewind Raclette","Reality Restitch","10.99%","El Flamenco",91
-"Mysterious Anomaly","2013","Rewind Raclette","Reality Restitch","9.89%","Breakdancer",91
-"Mysterious Anomaly","2013","Rewind Raclette","Reality Restitch","8.79%","Dance Party",91
-"Mysterious Anomaly","2013","Rewind Raclette","Reality Restitch","7.69%","Para Para Dancer",91
-"Mysterious Anomaly","2013","Rewind Raclette","Reality Restitch","4.40%","Time Tailor",91
-"Mysterious Anomaly","2013","SB+","-","27.11%","Lasso Cowgirl",332
-"Mysterious Anomaly","2013","SB+","-","17.17%","Lucky",332
-"Mysterious Anomaly","2013","SB+","-","16.87%","Pyrite",332
-"Mysterious Anomaly","2013","SB+","-","13.86%","Stowaway",332
-"Mysterious Anomaly","2013","SB+","-","12.65%","Fuel",332
-"Mysterious Anomaly","2013","SB+","-","8.73%","Steel Horse Rider",332
-"Mysterious Anomaly","2013","SB+","-","3.61%","Prospector",332
-"Mysterious Anomaly","2013","SB+","Reality Restitch","29.41%","Pyrite",17
-"Mysterious Anomaly","2013","SB+","Reality Restitch","17.65%","Steel Horse Rider",17
-"Mysterious Anomaly","2013","SB+","Reality Restitch","17.65%","Lucky",17
-"Mysterious Anomaly","2013","SB+","Reality Restitch","11.76%","Reality Restitch",17
-"Mysterious Anomaly","2013","SB+","Reality Restitch","11.76%","Lasso Cowgirl",17
-"Mysterious Anomaly","2013","SB+","Reality Restitch","5.88%","Stowaway",17
-"Mysterious Anomaly","2013","SB+","Reality Restitch","5.88%","Fuel",17
-"Mysterious Anomaly","2013","Gouda","-","27.66%","Lasso Cowgirl",235
-"Mysterious Anomaly","2013","Gouda","-","22.55%","Stowaway",235
-"Mysterious Anomaly","2013","Gouda","-","19.15%","Fuel",235
-"Mysterious Anomaly","2013","Gouda","-","14.89%","Lucky",235
-"Mysterious Anomaly","2013","Gouda","-","11.06%","Steel Horse Rider",235
-"Mysterious Anomaly","2013","Gouda","-","4.68%","Prospector",235
-"Mysterious Anomaly","2013","Gouda","Reality Restitch","27.78%","Lasso Cowgirl",36
-"Mysterious Anomaly","2013","Gouda","Reality Restitch","22.22%","Stowaway",36
-"Mysterious Anomaly","2013","Gouda","Reality Restitch","19.44%","Lucky",36
-"Mysterious Anomaly","2013","Gouda","Reality Restitch","13.89%","Fuel",36
-"Mysterious Anomaly","2013","Gouda","Reality Restitch","5.56%","Steel Horse Rider",36
-"Mysterious Anomaly","2013","Gouda","Reality Restitch","5.56%","Reality Restitch",36
-"Mysterious Anomaly","2013","Gouda","Reality Restitch","5.56%","Prospector",36
-"Mysterious Anomaly","2013","Brie","-","40.00%","Lasso Cowgirl",15
-"Mysterious Anomaly","2013","Brie","-","26.67%","Fuel",15
-"Mysterious Anomaly","2013","Brie","-","13.33%","Lucky",15
-"Mysterious Anomaly","2013","Brie","-","13.33%","Stowaway",15
-"Mysterious Anomaly","2013","Brie","-","6.67%","Steel Horse Rider",15
-"Mysterious Anomaly","2014","Rewind Raclette","-","22.60%","Cupcake Runner",208
-"Mysterious Anomaly","2014","Rewind Raclette","-","21.15%","Cupcake Cutie",208
-"Mysterious Anomaly","2014","Rewind Raclette","-","17.79%","Birthday",208
-"Mysterious Anomaly","2014","Rewind Raclette","-","16.35%","Lucky",208
-"Mysterious Anomaly","2014","Rewind Raclette","-","13.94%","Time Punk",208
-"Mysterious Anomaly","2014","Rewind Raclette","-","8.17%","Time Tailor",208
-"Mysterious Anomaly","2014","Rewind Raclette","Reality Restitch","24.66%","Cupcake Cutie",73
-"Mysterious Anomaly","2014","Rewind Raclette","Reality Restitch","16.44%","Cupcake Runner",73
-"Mysterious Anomaly","2014","Rewind Raclette","Reality Restitch","16.44%","Reality Restitch",73
-"Mysterious Anomaly","2014","Rewind Raclette","Reality Restitch","13.70%","Lucky",73
-"Mysterious Anomaly","2014","Rewind Raclette","Reality Restitch","12.33%","Birthday",73
-"Mysterious Anomaly","2014","Rewind Raclette","Reality Restitch","9.59%","Time Punk",73
-"Mysterious Anomaly","2014","Rewind Raclette","Reality Restitch","6.85%","Time Tailor",73
-"Mysterious Anomaly","2014","SB+","-","18.62%","Sand Dollar Diver",145
-"Mysterious Anomaly","2014","SB+","-","17.93%","Sludge Soaker",145
-"Mysterious Anomaly","2014","SB+","-","15.17%","Bog Beast",145
-"Mysterious Anomaly","2014","SB+","-","14.48%","Lucky",145
-"Mysterious Anomaly","2014","SB+","-","12.41%","Hydrologist",145
-"Mysterious Anomaly","2014","SB+","-","11.03%","Brawny",145
-"Mysterious Anomaly","2014","SB+","-","10.34%","Amplified Grey",145
-"Mysterious Anomaly","2014","SB+","Reality Restitch","23.53%","Lucky",17
-"Mysterious Anomaly","2014","SB+","Reality Restitch","17.65%","Sludge Soaker",17
-"Mysterious Anomaly","2014","SB+","Reality Restitch","17.65%","Brawny",17
-"Mysterious Anomaly","2014","SB+","Reality Restitch","11.76%","Hydrologist",17
-"Mysterious Anomaly","2014","SB+","Reality Restitch","11.76%","Reality Restitch",17
-"Mysterious Anomaly","2014","SB+","Reality Restitch","5.88%","Amplified Grey",17
-"Mysterious Anomaly","2014","SB+","Reality Restitch","5.88%","Bog Beast",17
-"Mysterious Anomaly","2014","SB+","Reality Restitch","5.88%","Sand Dollar Diver",17
-"Mysterious Anomaly","2014","Gouda","-","25.93%","Bog Beast",54
-"Mysterious Anomaly","2014","Gouda","-","20.37%","Brawny",54
-"Mysterious Anomaly","2014","Gouda","-","20.37%","Sludge Soaker",54
-"Mysterious Anomaly","2014","Gouda","-","12.96%","Lucky",54
-"Mysterious Anomaly","2014","Gouda","-","11.11%","Amplified Grey",54
-"Mysterious Anomaly","2014","Gouda","-","9.26%","Sand Dollar Diver",54
-"Mysterious Anomaly","2015","Rewind Raclette","-","24.66%","Cupcake Candle Thief",511
-"Mysterious Anomaly","2015","Rewind Raclette","-","21.72%","Cupcake Camo",511
-"Mysterious Anomaly","2015","Rewind Raclette","-","17.22%","Lucky",511
-"Mysterious Anomaly","2015","Rewind Raclette","-","15.26%","Time Punk",511
-"Mysterious Anomaly","2015","Rewind Raclette","-","11.35%","Birthday",511
-"Mysterious Anomaly","2015","Rewind Raclette","-","9.78%","Time Tailor",511
-"Mysterious Anomaly","2015","Rewind Raclette","Reality Restitch","22.12%","Cupcake Camo",226
-"Mysterious Anomaly","2015","Rewind Raclette","Reality Restitch","21.24%","Cupcake Candle Thief",226
-"Mysterious Anomaly","2015","Rewind Raclette","Reality Restitch","16.37%","Lucky",226
-"Mysterious Anomaly","2015","Rewind Raclette","Reality Restitch","14.16%","Reality Restitch",226
-"Mysterious Anomaly","2015","Rewind Raclette","Reality Restitch","11.50%","Birthday",226
-"Mysterious Anomaly","2015","Rewind Raclette","Reality Restitch","8.85%","Time Tailor",226
-"Mysterious Anomaly","2015","Rewind Raclette","Reality Restitch","5.75%","Time Punk",226
-"Mysterious Anomaly","2015","SB+","-","19.11%","Nightshade Masquerade",157
-"Mysterious Anomaly","2015","SB+","-","17.20%","Funglore",157
-"Mysterious Anomaly","2015","SB+","-","16.56%","RR-8",157
-"Mysterious Anomaly","2015","SB+","-","15.29%","Lucky",157
-"Mysterious Anomaly","2015","SB+","-","14.65%","Drudge",157
-"Mysterious Anomaly","2015","SB+","-","10.19%","Summoning Scholar",157
-"Mysterious Anomaly","2015","SB+","-","7.01%","Twisted Treant",157
-"Mysterious Anomaly","2015","SB+","Reality Restitch","25.00%","Nightshade Masquerade",12
-"Mysterious Anomaly","2015","SB+","Reality Restitch","25.00%","Funglore",12
-"Mysterious Anomaly","2015","SB+","Reality Restitch","16.67%","RR-8",12
-"Mysterious Anomaly","2015","SB+","Reality Restitch","16.67%","Reality Restitch",12
-"Mysterious Anomaly","2015","SB+","Reality Restitch","8.33%","Drudge",12
-"Mysterious Anomaly","2015","SB+","Reality Restitch","8.33%","Twisted Treant",12
-"Mysterious Anomaly","2015","Gouda","-","34.43%","Funglore",61
-"Mysterious Anomaly","2015","Gouda","-","18.03%","RR-8",61
-"Mysterious Anomaly","2015","Gouda","-","16.39%","Drudge",61
-"Mysterious Anomaly","2015","Gouda","-","13.11%","Twisted Treant",61
-"Mysterious Anomaly","2015","Gouda","-","11.48%","Lucky",61
-"Mysterious Anomaly","2015","Gouda","-","6.56%","Summoning Scholar",61
-"Mysterious Anomaly","2016","Rewind Raclette","-","47.53%","Sprinkly Sweet Cupcake Cook",587
-"Mysterious Anomaly","2016","Rewind Raclette","-","16.35%","Time Punk",587
-"Mysterious Anomaly","2016","Rewind Raclette","-","14.31%","Lucky",587
-"Mysterious Anomaly","2016","Rewind Raclette","-","12.78%","Birthday",587
-"Mysterious Anomaly","2016","Rewind Raclette","-","9.03%","Time Tailor",587
-"Mysterious Anomaly","2016","Rewind Raclette","Reality Restitch","36.27%","Sprinkly Sweet Cupcake Cook",204
-"Mysterious Anomaly","2016","Rewind Raclette","Reality Restitch","23.04%","Reality Restitch",204
-"Mysterious Anomaly","2016","Rewind Raclette","Reality Restitch","12.75%","Lucky",204
-"Mysterious Anomaly","2016","Rewind Raclette","Reality Restitch","12.25%","Birthday",204
-"Mysterious Anomaly","2016","Rewind Raclette","Reality Restitch","11.27%","Time Punk",204
-"Mysterious Anomaly","2016","Rewind Raclette","Reality Restitch","4.41%","Time Tailor",204
-"Mysterious Anomaly","2016","SB+","-","20.48%","Armored Archer",332
-"Mysterious Anomaly","2016","SB+","-","14.76%","Werehauler",332
-"Mysterious Anomaly","2016","SB+","-","13.55%","Mischievous Meteorite Miner",332
-"Mysterious Anomaly","2016","SB+","-","13.25%","Shinobi",332
-"Mysterious Anomaly","2016","SB+","-","13.25%","Lucky",332
-"Mysterious Anomaly","2016","SB+","-","12.65%","Meteorite Snacker",332
-"Mysterious Anomaly","2016","SB+","-","12.05%","Enlightened Labourer",332
-"Mysterious Anomaly","2016","SB+","Reality Restitch","16.00%","Meteorite Snacker",25
-"Mysterious Anomaly","2016","SB+","Reality Restitch","16.00%","Reality Restitch",25
-"Mysterious Anomaly","2016","SB+","Reality Restitch","16.00%","Enlightened Labourer",25
-"Mysterious Anomaly","2016","SB+","Reality Restitch","12.00%","Mischievous Meteorite Miner",25
-"Mysterious Anomaly","2016","SB+","Reality Restitch","12.00%","Lucky",25
-"Mysterious Anomaly","2016","SB+","Reality Restitch","12.00%","Shinobi",25
-"Mysterious Anomaly","2016","SB+","Reality Restitch","12.00%","Armored Archer",25
-"Mysterious Anomaly","2016","SB+","Reality Restitch","4.00%","Werehauler",25
-"Mysterious Anomaly","2016","Gouda","-","22.62%","Armored Archer",84
-"Mysterious Anomaly","2016","Gouda","-","21.43%","Meteorite Snacker",84
-"Mysterious Anomaly","2016","Gouda","-","20.24%","Werehauler",84
-"Mysterious Anomaly","2016","Gouda","-","13.10%","Mischievous Meteorite Miner",84
-"Mysterious Anomaly","2016","Gouda","-","11.90%","Shinobi",84
-"Mysterious Anomaly","2016","Gouda","-","10.71%","Lucky",84
-"Mysterious Anomaly","2017","Rewind Raclette","-","27.41%","Time Punk",2740
-"Mysterious Anomaly","2017","Rewind Raclette","-","21.50%","Birthday",2740
-"Mysterious Anomaly","2017","Rewind Raclette","-","19.53%","Time Tailor",2740
-"Mysterious Anomaly","2017","Rewind Raclette","-","16.09%","Time Thief",2740
-"Mysterious Anomaly","2017","Rewind Raclette","-","15.47%","Lucky",2740
-"Mysterious Anomaly","2017","Rewind Raclette","Reality Restitch","21.40%","Time Punk",687
-"Mysterious Anomaly","2017","Rewind Raclette","Reality Restitch","17.90%","Birthday",687
-"Mysterious Anomaly","2017","Rewind Raclette","Reality Restitch","17.03%","Lucky",687
-"Mysterious Anomaly","2017","Rewind Raclette","Reality Restitch","15.72%","Reality Restitch",687
-"Mysterious Anomaly","2017","Rewind Raclette","Reality Restitch","14.26%","Time Tailor",687
-"Mysterious Anomaly","2017","Rewind Raclette","Reality Restitch","13.68%","Time Thief",687
-"Mysterious Anomaly","2017","SB+","-","17.57%","Epoch Golem",700
-"Mysterious Anomaly","2017","SB+","-","16.43%","Lucky",700
-"Mysterious Anomaly","2017","SB+","-","15.14%","Clockwork Timespinner",700
-"Mysterious Anomaly","2017","SB+","-","13.57%","Homeopathic Apothecary",700
-"Mysterious Anomaly","2017","SB+","-","13.29%","Windy Farmer",700
-"Mysterious Anomaly","2017","SB+","-","12.14%","Cloud Collector",700
-"Mysterious Anomaly","2017","SB+","-","11.86%","Portal Plunderer",700
-"Mysterious Anomaly","2017","SB+","Reality Restitch","20.51%","Lucky",39
-"Mysterious Anomaly","2017","SB+","Reality Restitch","17.95%","Cloud Collector",39
-"Mysterious Anomaly","2017","SB+","Reality Restitch","15.38%","Windy Farmer",39
-"Mysterious Anomaly","2017","SB+","Reality Restitch","12.82%","Clockwork Timespinner",39
-"Mysterious Anomaly","2017","SB+","Reality Restitch","10.26%","Homeopathic Apothecary",39
-"Mysterious Anomaly","2017","SB+","Reality Restitch","10.26%","Epoch Golem",39
-"Mysterious Anomaly","2017","SB+","Reality Restitch","7.69%","Portal Plunderer",39
-"Mysterious Anomaly","2017","SB+","Reality Restitch","5.13%","Reality Restitch",39
-"Mysterious Anomaly","2017","Gouda","-","21.57%","Clockwork Timespinner",510
-"Mysterious Anomaly","2017","Gouda","-","18.24%","Cloud Collector",510
-"Mysterious Anomaly","2017","Gouda","-","17.06%","Windy Farmer",510
-"Mysterious Anomaly","2017","Gouda","-","16.67%","Lucky",510
-"Mysterious Anomaly","2017","Gouda","-","16.47%","Portal Plunderer",510
-"Mysterious Anomaly","2017","Gouda","-","10.00%","Epoch Golem",510
-"Mysterious Anomaly","2017","Gouda","Reality Restitch","22.73%","Clockwork Timespinner",22
-"Mysterious Anomaly","2017","Gouda","Reality Restitch","18.18%","Lucky",22
-"Mysterious Anomaly","2017","Gouda","Reality Restitch","18.18%","Cloud Collector",22
-"Mysterious Anomaly","2017","Gouda","Reality Restitch","18.18%","Reality Restitch",22
-"Mysterious Anomaly","2017","Gouda","Reality Restitch","13.64%","Portal Plunderer",22
-"Mysterious Anomaly","2017","Gouda","Reality Restitch","4.55%","Epoch Golem",22
-"Mysterious Anomaly","2017","Gouda","Reality Restitch","4.55%","Windy Farmer",22
+"Mysterious Anomaly","2008","Rewind Raclette","-","56.81%","Present",903
+"Mysterious Anomaly","2008","Rewind Raclette","-","29.90%","Time Punk",903
+"Mysterious Anomaly","2008","Rewind Raclette","-","7.42%","Lucky",903
+"Mysterious Anomaly","2008","Rewind Raclette","-","5.87%","Time Tailor",903
+"Mysterious Anomaly","2008","Rewind Raclette","Reality Restitch","44.55%","Present",220
+"Mysterious Anomaly","2008","Rewind Raclette","Reality Restitch","23.64%","Time Punk",220
+"Mysterious Anomaly","2008","Rewind Raclette","Reality Restitch","19.09%","Reality Restitch",220
+"Mysterious Anomaly","2008","Rewind Raclette","Reality Restitch","6.36%","Lucky",220
+"Mysterious Anomaly","2008","Rewind Raclette","Reality Restitch","6.36%","Time Tailor",220
+"Mysterious Anomaly","2008","SB+","-","27.36%","Pirate",552
+"Mysterious Anomaly","2008","SB+","-","20.47%","Zombie",552
+"Mysterious Anomaly","2008","SB+","-","18.12%","Ninja",552
+"Mysterious Anomaly","2008","SB+","-","15.58%","White",552
+"Mysterious Anomaly","2008","SB+","-","7.79%","Lycan",552
+"Mysterious Anomaly","2008","SB+","-","5.98%","Lucky",552
+"Mysterious Anomaly","2008","SB+","-","4.71%","Assassin",552
+"Mysterious Anomaly","2008","SB+","Reality Restitch","26.67%","Pirate",15
+"Mysterious Anomaly","2008","SB+","Reality Restitch","26.67%","Reality Restitch",15
+"Mysterious Anomaly","2008","SB+","Reality Restitch","20.00%","White",15
+"Mysterious Anomaly","2008","SB+","Reality Restitch","6.67%","Lycan",15
+"Mysterious Anomaly","2008","SB+","Reality Restitch","6.67%","Ninja",15
+"Mysterious Anomaly","2008","SB+","Reality Restitch","6.67%","Lucky",15
+"Mysterious Anomaly","2008","SB+","Reality Restitch","6.67%","Zombie",15
+"Mysterious Anomaly","2008","Gouda","-","28.77%","White",292
+"Mysterious Anomaly","2008","Gouda","-","24.32%","Pirate",292
+"Mysterious Anomaly","2008","Gouda","-","19.18%","Ninja",292
+"Mysterious Anomaly","2008","Gouda","-","15.75%","Zombie",292
+"Mysterious Anomaly","2008","Gouda","-","8.90%","Lucky",292
+"Mysterious Anomaly","2008","Gouda","-","3.08%","Lycan",292
+"Mysterious Anomaly","2008","Brie","-","54.55%","White",11
+"Mysterious Anomaly","2008","Brie","-","18.18%","Ninja",11
+"Mysterious Anomaly","2008","Brie","-","18.18%","Pirate",11
+"Mysterious Anomaly","2008","Brie","-","9.09%","Zombie",11
+"Mysterious Anomaly","2008","White Cheddar","-","53.42%","Ninja",73
+"Mysterious Anomaly","2008","White Cheddar","-","42.47%","Zombie",73
+"Mysterious Anomaly","2008","White Cheddar","-","4.11%","Pirate",73
+"Mysterious Anomaly","2008","Moon","-","47.45%","Lycan",822
+"Mysterious Anomaly","2008","Moon","-","20.68%","Pirate",822
+"Mysterious Anomaly","2008","Moon","-","14.72%","Zombie",822
+"Mysterious Anomaly","2008","Moon","-","10.22%","Ninja",822
+"Mysterious Anomaly","2008","Moon","-","6.93%","White",822
+"Mysterious Anomaly","2008","Crescent","-","39.29%","Zombie",84
+"Mysterious Anomaly","2008","Crescent","-","26.19%","Lycan",84
+"Mysterious Anomaly","2008","Crescent","-","15.48%","Ninja",84
+"Mysterious Anomaly","2008","Crescent","-","9.52%","White",84
+"Mysterious Anomaly","2008","Crescent","-","9.52%","Pirate",84
+"Mysterious Anomaly","2009","Rewind Raclette","-","55.52%","Terrible Twos",969
+"Mysterious Anomaly","2009","Rewind Raclette","-","34.06%","Time Punk",969
+"Mysterious Anomaly","2009","Rewind Raclette","-","5.37%","Time Tailor",969
+"Mysterious Anomaly","2009","Rewind Raclette","-","5.06%","Lucky",969
+"Mysterious Anomaly","2009","Rewind Raclette","Reality Restitch","42.39%","Terrible Twos",184
+"Mysterious Anomaly","2009","Rewind Raclette","Reality Restitch","22.28%","Reality Restitch",184
+"Mysterious Anomaly","2009","Rewind Raclette","Reality Restitch","19.57%","Time Punk",184
+"Mysterious Anomaly","2009","Rewind Raclette","Reality Restitch","8.70%","Lucky",184
+"Mysterious Anomaly","2009","Rewind Raclette","Reality Restitch","7.07%","Time Tailor",184
+"Mysterious Anomaly","2009","SB+","-","26.89%","Cyclops",1614
+"Mysterious Anomaly","2009","SB+","-","19.76%","Gate Guardian",1614
+"Mysterious Anomaly","2009","SB+","-","16.42%","Grunt",1614
+"Mysterious Anomaly","2009","SB+","-","16.11%","Finder",1614
+"Mysterious Anomaly","2009","SB+","-","14.93%","Pack",1614
+"Mysterious Anomaly","2009","SB+","-","5.14%","Lucky",1614
+"Mysterious Anomaly","2009","SB+","-","0.74%","Shelder",1614
+"Mysterious Anomaly","2009","SB+","Reality Restitch","29.31%","Cyclops",58
+"Mysterious Anomaly","2009","SB+","Reality Restitch","17.24%","Grunt",58
+"Mysterious Anomaly","2009","SB+","Reality Restitch","17.24%","Pack",58
+"Mysterious Anomaly","2009","SB+","Reality Restitch","17.24%","Gate Guardian",58
+"Mysterious Anomaly","2009","SB+","Reality Restitch","10.34%","Reality Restitch",58
+"Mysterious Anomaly","2009","SB+","Reality Restitch","5.17%","Finder",58
+"Mysterious Anomaly","2009","SB+","Reality Restitch","3.45%","Lucky",58
+"Mysterious Anomaly","2009","Gouda","-","35.04%","Gate Guardian",645
+"Mysterious Anomaly","2009","Gouda","-","26.98%","Cyclops",645
+"Mysterious Anomaly","2009","Gouda","-","14.42%","Grunt",645
+"Mysterious Anomaly","2009","Gouda","-","12.25%","Finder",645
+"Mysterious Anomaly","2009","Gouda","-","8.84%","Pack",645
+"Mysterious Anomaly","2009","Gouda","-","2.48%","Lucky",645
+"Mysterious Anomaly","2009","Gouda","Reality Restitch","34.62%","Cyclops",26
+"Mysterious Anomaly","2009","Gouda","Reality Restitch","23.08%","Gate Guardian",26
+"Mysterious Anomaly","2009","Gouda","Reality Restitch","15.38%","Reality Restitch",26
+"Mysterious Anomaly","2009","Gouda","Reality Restitch","11.54%","Pack",26
+"Mysterious Anomaly","2009","Gouda","Reality Restitch","11.54%","Lucky",26
+"Mysterious Anomaly","2009","Gouda","Reality Restitch","3.85%","Grunt",26
+"Mysterious Anomaly","2010","Rewind Raclette","-","30.04%","Time Punk",1488
+"Mysterious Anomaly","2010","Rewind Raclette","-","29.91%","Pintail",1488
+"Mysterious Anomaly","2010","Rewind Raclette","-","11.76%","Buckethead",1488
+"Mysterious Anomaly","2010","Rewind Raclette","-","11.49%","Sleepwalker",1488
+"Mysterious Anomaly","2010","Rewind Raclette","-","9.14%","Lucky",1488
+"Mysterious Anomaly","2010","Rewind Raclette","-","7.66%","Time Tailor",1488
+"Mysterious Anomaly","2010","Rewind Raclette","Reality Restitch","27.04%","Time Punk",307
+"Mysterious Anomaly","2010","Rewind Raclette","Reality Restitch","25.08%","Pintail",307
+"Mysterious Anomaly","2010","Rewind Raclette","Reality Restitch","17.26%","Reality Restitch",307
+"Mysterious Anomaly","2010","Rewind Raclette","Reality Restitch","12.05%","Sleepwalker",307
+"Mysterious Anomaly","2010","Rewind Raclette","Reality Restitch","9.12%","Buckethead",307
+"Mysterious Anomaly","2010","Rewind Raclette","Reality Restitch","4.89%","Time Tailor",307
+"Mysterious Anomaly","2010","Rewind Raclette","Reality Restitch","4.56%","Lucky",307
+"Mysterious Anomaly","2010","SB+","-","18.39%","Tidal Fisher",1425
+"Mysterious Anomaly","2010","SB+","-","18.32%","Mystic Pawn",1425
+"Mysterious Anomaly","2010","SB+","-","18.04%","Technic Pawn",1425
+"Mysterious Anomaly","2010","SB+","-","16.28%","Dancer",1425
+"Mysterious Anomaly","2010","SB+","-","13.05%","Farmhand",1425
+"Mysterious Anomaly","2010","SB+","-","12.70%","Spring Familiar",1425
+"Mysterious Anomaly","2010","SB+","-","3.23%","Lucky",1425
+"Mysterious Anomaly","2010","SB+","Reality Restitch","21.82%","Technic Pawn",55
+"Mysterious Anomaly","2010","SB+","Reality Restitch","14.55%","Tidal Fisher",55
+"Mysterious Anomaly","2010","SB+","Reality Restitch","14.55%","Mystic Pawn",55
+"Mysterious Anomaly","2010","SB+","Reality Restitch","14.55%","Dancer",55
+"Mysterious Anomaly","2010","SB+","Reality Restitch","12.73%","Farmhand",55
+"Mysterious Anomaly","2010","SB+","Reality Restitch","9.09%","Spring Familiar",55
+"Mysterious Anomaly","2010","SB+","Reality Restitch","9.09%","Reality Restitch",55
+"Mysterious Anomaly","2010","SB+","Reality Restitch","3.64%","Lucky",55
+"Mysterious Anomaly","2010","Gouda","-","22.18%","Tidal Fisher",248
+"Mysterious Anomaly","2010","Gouda","-","22.18%","Dancer",248
+"Mysterious Anomaly","2010","Gouda","-","18.95%","Technic Pawn",248
+"Mysterious Anomaly","2010","Gouda","-","18.15%","Mystic Pawn",248
+"Mysterious Anomaly","2010","Gouda","-","14.52%","Farmhand",248
+"Mysterious Anomaly","2010","Gouda","-","4.03%","Lucky",248
+"Mysterious Anomaly","2011","Rewind Raclette","-","66.61%","Dinosuit",1093
+"Mysterious Anomaly","2011","Rewind Raclette","-","24.06%","Time Punk",1093
+"Mysterious Anomaly","2011","Rewind Raclette","-","5.76%","Time Tailor",1093
+"Mysterious Anomaly","2011","Rewind Raclette","-","3.57%","Lucky",1093
+"Mysterious Anomaly","2011","Rewind Raclette","Reality Restitch","47.95%","Dinosuit",146
+"Mysterious Anomaly","2011","Rewind Raclette","Reality Restitch","23.29%","Reality Restitch",146
+"Mysterious Anomaly","2011","Rewind Raclette","Reality Restitch","19.86%","Time Punk",146
+"Mysterious Anomaly","2011","Rewind Raclette","Reality Restitch","5.48%","Lucky",146
+"Mysterious Anomaly","2011","Rewind Raclette","Reality Restitch","3.42%","Time Tailor",146
+"Mysterious Anomaly","2011","SB+","-","21.26%","Desert Architect",823
+"Mysterious Anomaly","2011","SB+","-","17.13%","Pocketwatch",823
+"Mysterious Anomaly","2011","SB+","-","15.80%","Desert Soldier",823
+"Mysterious Anomaly","2011","SB+","-","14.22%","Desert Archer",823
+"Mysterious Anomaly","2011","SB+","-","13.97%","Bookborn",823
+"Mysterious Anomaly","2011","SB+","-","12.27%","Vanguard",823
+"Mysterious Anomaly","2011","SB+","-","5.35%","Lucky",823
+"Mysterious Anomaly","2011","SB+","Reality Restitch","21.74%","Vanguard",23
+"Mysterious Anomaly","2011","SB+","Reality Restitch","17.39%","Reality Restitch",23
+"Mysterious Anomaly","2011","SB+","Reality Restitch","13.04%","Pocketwatch",23
+"Mysterious Anomaly","2011","SB+","Reality Restitch","13.04%","Desert Architect",23
+"Mysterious Anomaly","2011","SB+","Reality Restitch","13.04%","Desert Soldier",23
+"Mysterious Anomaly","2011","SB+","Reality Restitch","8.70%","Lucky",23
+"Mysterious Anomaly","2011","SB+","Reality Restitch","8.70%","Bookborn",23
+"Mysterious Anomaly","2011","SB+","Reality Restitch","4.35%","Desert Archer",23
+"Mysterious Anomaly","2011","Gouda","-","23.65%","Pocketwatch",389
+"Mysterious Anomaly","2011","Gouda","-","20.82%","Bookborn",389
+"Mysterious Anomaly","2011","Gouda","-","18.25%","Desert Soldier",389
+"Mysterious Anomaly","2011","Gouda","-","16.97%","Vanguard",389
+"Mysterious Anomaly","2011","Gouda","-","15.42%","Desert Archer",389
+"Mysterious Anomaly","2011","Gouda","-","4.88%","Lucky",389
+"Mysterious Anomaly","2011","Gouda","Reality Restitch","23.08%","Pocketwatch",13
+"Mysterious Anomaly","2011","Gouda","Reality Restitch","23.08%","Bookborn",13
+"Mysterious Anomaly","2011","Gouda","Reality Restitch","15.38%","Desert Soldier",13
+"Mysterious Anomaly","2011","Gouda","Reality Restitch","15.38%","Reality Restitch",13
+"Mysterious Anomaly","2011","Gouda","Reality Restitch","7.69%","Vanguard",13
+"Mysterious Anomaly","2011","Gouda","Reality Restitch","7.69%","Desert Archer",13
+"Mysterious Anomaly","2011","Gouda","Reality Restitch","7.69%","Lucky",13
+"Mysterious Anomaly","2011","Brie","-","29.03%","Pocketwatch",62
+"Mysterious Anomaly","2011","Brie","-","22.58%","Desert Soldier",62
+"Mysterious Anomaly","2011","Brie","-","20.97%","Desert Archer",62
+"Mysterious Anomaly","2011","Brie","-","17.74%","Vanguard",62
+"Mysterious Anomaly","2011","Brie","-","9.68%","Bookborn",62
+"Mysterious Anomaly","2012","Rewind Raclette","-","29.56%","Time Punk",2547
+"Mysterious Anomaly","2012","Rewind Raclette","-","11.58%","Force Fighter Green",2547
+"Mysterious Anomaly","2012","Rewind Raclette","-","11.39%","Time Tailor",2547
+"Mysterious Anomaly","2012","Rewind Raclette","-","8.72%","Super FighterBot MegaSupreme",2547
+"Mysterious Anomaly","2012","Rewind Raclette","-","8.56%","Force Fighter Pink",2547
+"Mysterious Anomaly","2012","Rewind Raclette","-","8.52%","Force Fighter Yellow",2547
+"Mysterious Anomaly","2012","Rewind Raclette","-","8.32%","Force Fighter Red",2547
+"Mysterious Anomaly","2012","Rewind Raclette","-","7.42%","Force Fighter Blue",2547
+"Mysterious Anomaly","2012","Rewind Raclette","-","5.93%","Lucky",2547
+"Mysterious Anomaly","2012","Rewind Raclette","Reality Restitch","24.57%","Time Punk",403
+"Mysterious Anomaly","2012","Rewind Raclette","Reality Restitch","17.87%","Reality Restitch",403
+"Mysterious Anomaly","2012","Rewind Raclette","Reality Restitch","9.93%","Force Fighter Green",403
+"Mysterious Anomaly","2012","Rewind Raclette","Reality Restitch","8.68%","Force Fighter Pink",403
+"Mysterious Anomaly","2012","Rewind Raclette","Reality Restitch","8.44%","Force Fighter Yellow",403
+"Mysterious Anomaly","2012","Rewind Raclette","Reality Restitch","7.94%","Time Tailor",403
+"Mysterious Anomaly","2012","Rewind Raclette","Reality Restitch","7.44%","Force Fighter Blue",403
+"Mysterious Anomaly","2012","Rewind Raclette","Reality Restitch","5.96%","Force Fighter Red",403
+"Mysterious Anomaly","2012","Rewind Raclette","Reality Restitch","4.96%","Lucky",403
+"Mysterious Anomaly","2012","Rewind Raclette","Reality Restitch","4.22%","Super FighterBot MegaSupreme",403
+"Mysterious Anomaly","2012","SB+","-","20.96%","Strawberry Hotcakes",644
+"Mysterious Anomaly","2012","SB+","-","19.10%","Incompetent Ice Climber",644
+"Mysterious Anomaly","2012","SB+","-","18.01%","Grubling",644
+"Mysterious Anomaly","2012","SB+","-","14.13%","Living Ice",644
+"Mysterious Anomaly","2012","SB+","-","13.66%","Cursed Thief",644
+"Mysterious Anomaly","2012","SB+","-","9.32%","Yeti",644
+"Mysterious Anomaly","2012","SB+","-","4.81%","Lucky",644
+"Mysterious Anomaly","2012","SB+","Reality Restitch","15.79%","Reality Restitch",38
+"Mysterious Anomaly","2012","SB+","Reality Restitch","15.79%","Incompetent Ice Climber",38
+"Mysterious Anomaly","2012","SB+","Reality Restitch","15.79%","Cursed Thief",38
+"Mysterious Anomaly","2012","SB+","Reality Restitch","13.16%","Strawberry Hotcakes",38
+"Mysterious Anomaly","2012","SB+","Reality Restitch","13.16%","Grubling",38
+"Mysterious Anomaly","2012","SB+","Reality Restitch","13.16%","Lucky",38
+"Mysterious Anomaly","2012","SB+","Reality Restitch","10.53%","Living Ice",38
+"Mysterious Anomaly","2012","SB+","Reality Restitch","2.63%","Yeti",38
+"Mysterious Anomaly","2012","Gouda","-","48.19%","Incompetent Ice Climber",83
+"Mysterious Anomaly","2012","Gouda","-","21.69%","Yeti",83
+"Mysterious Anomaly","2012","Gouda","-","10.84%","Grubling",83
+"Mysterious Anomaly","2012","Gouda","-","9.64%","Strawberry Hotcakes",83
+"Mysterious Anomaly","2012","Gouda","-","9.64%","Cursed Thief",83
+"Mysterious Anomaly","2012","Gouda","Reality Restitch","40.00%","Incompetent Ice Climber",15
+"Mysterious Anomaly","2012","Gouda","Reality Restitch","33.33%","Grubling",15
+"Mysterious Anomaly","2012","Gouda","Reality Restitch","13.33%","Strawberry Hotcakes",15
+"Mysterious Anomaly","2012","Gouda","Reality Restitch","6.67%","Reality Restitch",15
+"Mysterious Anomaly","2012","Gouda","Reality Restitch","6.67%","Yeti",15
+"Mysterious Anomaly","2013","Rewind Raclette","-","22.22%","Time Punk",2439
+"Mysterious Anomaly","2013","Rewind Raclette","-","21.69%","Para Para Dancer",2439
+"Mysterious Anomaly","2013","Rewind Raclette","-","17.47%","El Flamenco",2439
+"Mysterious Anomaly","2013","Rewind Raclette","-","11.77%","Dance Party",2439
+"Mysterious Anomaly","2013","Rewind Raclette","-","11.36%","Time Tailor",2439
+"Mysterious Anomaly","2013","Rewind Raclette","-","10.87%","Breakdancer",2439
+"Mysterious Anomaly","2013","Rewind Raclette","-","4.63%","Lucky",2439
+"Mysterious Anomaly","2013","Rewind Raclette","Reality Restitch","18.07%","Reality Restitch",415
+"Mysterious Anomaly","2013","Rewind Raclette","Reality Restitch","17.11%","Para Para Dancer",415
+"Mysterious Anomaly","2013","Rewind Raclette","Reality Restitch","16.14%","Time Punk",415
+"Mysterious Anomaly","2013","Rewind Raclette","Reality Restitch","13.98%","El Flamenco",415
+"Mysterious Anomaly","2013","Rewind Raclette","Reality Restitch","10.60%","Breakdancer",415
+"Mysterious Anomaly","2013","Rewind Raclette","Reality Restitch","9.88%","Dance Party",415
+"Mysterious Anomaly","2013","Rewind Raclette","Reality Restitch","9.40%","Time Tailor",415
+"Mysterious Anomaly","2013","Rewind Raclette","Reality Restitch","4.82%","Lucky",415
+"Mysterious Anomaly","2013","SB+","-","25.90%","Lasso Cowgirl",1695
+"Mysterious Anomaly","2013","SB+","-","18.35%","Stowaway",1695
+"Mysterious Anomaly","2013","SB+","-","17.99%","Fuel",1695
+"Mysterious Anomaly","2013","SB+","-","17.58%","Pyrite",1695
+"Mysterious Anomaly","2013","SB+","-","9.91%","Steel Horse Rider",1695
+"Mysterious Anomaly","2013","SB+","-","5.13%","Prospector",1695
+"Mysterious Anomaly","2013","SB+","-","5.13%","Lucky",1695
+"Mysterious Anomaly","2013","SB+","Reality Restitch","20.75%","Pyrite",53
+"Mysterious Anomaly","2013","SB+","Reality Restitch","18.87%","Lasso Cowgirl",53
+"Mysterious Anomaly","2013","SB+","Reality Restitch","16.98%","Reality Restitch",53
+"Mysterious Anomaly","2013","SB+","Reality Restitch","13.21%","Fuel",53
+"Mysterious Anomaly","2013","SB+","Reality Restitch","11.32%","Stowaway",53
+"Mysterious Anomaly","2013","SB+","Reality Restitch","9.43%","Steel Horse Rider",53
+"Mysterious Anomaly","2013","SB+","Reality Restitch","5.66%","Lucky",53
+"Mysterious Anomaly","2013","SB+","Reality Restitch","3.77%","Prospector",53
+"Mysterious Anomaly","2013","Gouda","-","34.69%","Lasso Cowgirl",1715
+"Mysterious Anomaly","2013","Gouda","-","25.77%","Stowaway",1715
+"Mysterious Anomaly","2013","Gouda","-","23.50%","Fuel",1715
+"Mysterious Anomaly","2013","Gouda","-","8.80%","Steel Horse Rider",1715
+"Mysterious Anomaly","2013","Gouda","-","4.37%","Prospector",1715
+"Mysterious Anomaly","2013","Gouda","-","2.86%","Lucky",1715
+"Mysterious Anomaly","2013","Gouda","Reality Restitch","23.81%","Lasso Cowgirl",63
+"Mysterious Anomaly","2013","Gouda","Reality Restitch","22.22%","Stowaway",63
+"Mysterious Anomaly","2013","Gouda","Reality Restitch","19.05%","Fuel",63
+"Mysterious Anomaly","2013","Gouda","Reality Restitch","12.70%","Lucky",63
+"Mysterious Anomaly","2013","Gouda","Reality Restitch","11.11%","Steel Horse Rider",63
+"Mysterious Anomaly","2013","Gouda","Reality Restitch","6.35%","Reality Restitch",63
+"Mysterious Anomaly","2013","Gouda","Reality Restitch","4.76%","Prospector",63
+"Mysterious Anomaly","2013","Brie","-","32.80%","Lasso Cowgirl",125
+"Mysterious Anomaly","2013","Brie","-","23.20%","Stowaway",125
+"Mysterious Anomaly","2013","Brie","-","22.40%","Fuel",125
+"Mysterious Anomaly","2013","Brie","-","11.20%","Steel Horse Rider",125
+"Mysterious Anomaly","2013","Brie","-","8.80%","Prospector",125
+"Mysterious Anomaly","2013","Brie","-","1.60%","Lucky",125
+"Mysterious Anomaly","2014","Rewind Raclette","-","33.12%","Cupcake Runner",1111
+"Mysterious Anomaly","2014","Rewind Raclette","-","32.13%","Cupcake Cutie",1111
+"Mysterious Anomaly","2014","Rewind Raclette","-","18.54%","Time Punk",1111
+"Mysterious Anomaly","2014","Rewind Raclette","-","11.07%","Time Tailor",1111
+"Mysterious Anomaly","2014","Rewind Raclette","-","5.13%","Lucky",1111
+"Mysterious Anomaly","2014","Rewind Raclette","Reality Restitch","30.71%","Cupcake Runner",254
+"Mysterious Anomaly","2014","Rewind Raclette","Reality Restitch","27.56%","Cupcake Cutie",254
+"Mysterious Anomaly","2014","Rewind Raclette","Reality Restitch","16.14%","Reality Restitch",254
+"Mysterious Anomaly","2014","Rewind Raclette","Reality Restitch","12.99%","Time Punk",254
+"Mysterious Anomaly","2014","Rewind Raclette","Reality Restitch","7.87%","Time Tailor",254
+"Mysterious Anomaly","2014","Rewind Raclette","Reality Restitch","4.72%","Lucky",254
+"Mysterious Anomaly","2014","SB+","-","17.98%","Sludge Soaker",890
+"Mysterious Anomaly","2014","SB+","-","17.64%","Bog Beast",890
+"Mysterious Anomaly","2014","SB+","-","15.28%","Sand Dollar Diver",890
+"Mysterious Anomaly","2014","SB+","-","14.83%","Hydrologist",890
+"Mysterious Anomaly","2014","SB+","-","14.83%","Brawny",890
+"Mysterious Anomaly","2014","SB+","-","14.16%","Amplified Grey",890
+"Mysterious Anomaly","2014","SB+","-","5.28%","Lucky",890
+"Mysterious Anomaly","2014","SB+","Reality Restitch","20.97%","Sludge Soaker",62
+"Mysterious Anomaly","2014","SB+","Reality Restitch","19.35%","Brawny",62
+"Mysterious Anomaly","2014","SB+","Reality Restitch","17.74%","Bog Beast",62
+"Mysterious Anomaly","2014","SB+","Reality Restitch","11.29%","Hydrologist",62
+"Mysterious Anomaly","2014","SB+","Reality Restitch","9.68%","Reality Restitch",62
+"Mysterious Anomaly","2014","SB+","Reality Restitch","8.06%","Lucky",62
+"Mysterious Anomaly","2014","SB+","Reality Restitch","6.45%","Amplified Grey",62
+"Mysterious Anomaly","2014","SB+","Reality Restitch","6.45%","Sand Dollar Diver",62
+"Mysterious Anomaly","2014","Gouda","-","22.45%","Sludge Soaker",392
+"Mysterious Anomaly","2014","Gouda","-","22.45%","Bog Beast",392
+"Mysterious Anomaly","2014","Gouda","-","17.86%","Amplified Grey",392
+"Mysterious Anomaly","2014","Gouda","-","17.60%","Sand Dollar Diver",392
+"Mysterious Anomaly","2014","Gouda","-","16.84%","Brawny",392
+"Mysterious Anomaly","2014","Gouda","-","2.81%","Lucky",392
+"Mysterious Anomaly","2014","Gouda","Reality Restitch","25.71%","Brawny",35
+"Mysterious Anomaly","2014","Gouda","Reality Restitch","17.14%","Bog Beast",35
+"Mysterious Anomaly","2014","Gouda","Reality Restitch","17.14%","Amplified Grey",35
+"Mysterious Anomaly","2014","Gouda","Reality Restitch","17.14%","Sand Dollar Diver",35
+"Mysterious Anomaly","2014","Gouda","Reality Restitch","17.14%","Sludge Soaker",35
+"Mysterious Anomaly","2014","Gouda","Reality Restitch","5.71%","Reality Restitch",35
+"Mysterious Anomaly","2014","Brie","-","24.66%","Sludge Soaker",73
+"Mysterious Anomaly","2014","Brie","-","23.29%","Brawny",73
+"Mysterious Anomaly","2014","Brie","-","19.18%","Sand Dollar Diver",73
+"Mysterious Anomaly","2014","Brie","-","16.44%","Amplified Grey",73
+"Mysterious Anomaly","2014","Brie","-","16.44%","Bog Beast",73
+"Mysterious Anomaly","2015","Rewind Raclette","-","35.11%","Cupcake Candle Thief",2344
+"Mysterious Anomaly","2015","Rewind Raclette","-","30.46%","Cupcake Camo",2344
+"Mysterious Anomaly","2015","Rewind Raclette","-","16.60%","Time Punk",2344
+"Mysterious Anomaly","2015","Rewind Raclette","-","11.56%","Time Tailor",2344
+"Mysterious Anomaly","2015","Rewind Raclette","-","6.27%","Lucky",2344
+"Mysterious Anomaly","2015","Rewind Raclette","Reality Restitch","27.70%","Cupcake Candle Thief",888
+"Mysterious Anomaly","2015","Rewind Raclette","Reality Restitch","27.14%","Cupcake Camo",888
+"Mysterious Anomaly","2015","Rewind Raclette","Reality Restitch","18.13%","Reality Restitch",888
+"Mysterious Anomaly","2015","Rewind Raclette","Reality Restitch","12.73%","Time Punk",888
+"Mysterious Anomaly","2015","Rewind Raclette","Reality Restitch","8.90%","Time Tailor",888
+"Mysterious Anomaly","2015","Rewind Raclette","Reality Restitch","5.41%","Lucky",888
+"Mysterious Anomaly","2015","SB+","-","21.89%","Nightshade Masquerade",868
+"Mysterious Anomaly","2015","SB+","-","18.32%","Funglore",868
+"Mysterious Anomaly","2015","SB+","-","17.05%","Drudge",868
+"Mysterious Anomaly","2015","SB+","-","15.44%","RR-8",868
+"Mysterious Anomaly","2015","SB+","-","14.17%","Summoning Scholar",868
+"Mysterious Anomaly","2015","SB+","-","9.22%","Twisted Treant",868
+"Mysterious Anomaly","2015","SB+","-","3.92%","Lucky",868
+"Mysterious Anomaly","2015","SB+","Reality Restitch","26.67%","Nightshade Masquerade",45
+"Mysterious Anomaly","2015","SB+","Reality Restitch","20.00%","Reality Restitch",45
+"Mysterious Anomaly","2015","SB+","Reality Restitch","17.78%","Funglore",45
+"Mysterious Anomaly","2015","SB+","Reality Restitch","13.33%","RR-8",45
+"Mysterious Anomaly","2015","SB+","Reality Restitch","8.89%","Summoning Scholar",45
+"Mysterious Anomaly","2015","SB+","Reality Restitch","8.89%","Drudge",45
+"Mysterious Anomaly","2015","SB+","Reality Restitch","4.44%","Twisted Treant",45
+"Mysterious Anomaly","2015","Gouda","-","37.62%","Funglore",622
+"Mysterious Anomaly","2015","Gouda","-","17.04%","Drudge",622
+"Mysterious Anomaly","2015","Gouda","-","15.76%","RR-8",622
+"Mysterious Anomaly","2015","Gouda","-","15.11%","Summoning Scholar",622
+"Mysterious Anomaly","2015","Gouda","-","11.90%","Twisted Treant",622
+"Mysterious Anomaly","2015","Gouda","-","2.57%","Lucky",622
+"Mysterious Anomaly","2015","Gouda","Reality Restitch","30.77%","Funglore",26
+"Mysterious Anomaly","2015","Gouda","Reality Restitch","19.23%","Drudge",26
+"Mysterious Anomaly","2015","Gouda","Reality Restitch","15.38%","Twisted Treant",26
+"Mysterious Anomaly","2015","Gouda","Reality Restitch","11.54%","Summoning Scholar",26
+"Mysterious Anomaly","2015","Gouda","Reality Restitch","11.54%","RR-8",26
+"Mysterious Anomaly","2015","Gouda","Reality Restitch","11.54%","Reality Restitch",26
+"Mysterious Anomaly","2015","Brie","-","41.98%","Funglore",81
+"Mysterious Anomaly","2015","Brie","-","20.99%","Drudge",81
+"Mysterious Anomaly","2015","Brie","-","17.28%","Summoning Scholar",81
+"Mysterious Anomaly","2015","Brie","-","9.88%","Twisted Treant",81
+"Mysterious Anomaly","2015","Brie","-","8.64%","RR-8",81
+"Mysterious Anomaly","2015","Brie","-","1.23%","Lucky",81
+"Mysterious Anomaly","2016","Rewind Raclette","-","59.32%","Sprinkly Sweet Cupcake Cook",1765
+"Mysterious Anomaly","2016","Rewind Raclette","-","21.25%","Time Punk",1765
+"Mysterious Anomaly","2016","Rewind Raclette","-","11.78%","Time Tailor",1765
+"Mysterious Anomaly","2016","Rewind Raclette","-","7.65%","Lucky",1765
+"Mysterious Anomaly","2016","Rewind Raclette","Reality Restitch","46.58%","Sprinkly Sweet Cupcake Cook",672
+"Mysterious Anomaly","2016","Rewind Raclette","Reality Restitch","19.35%","Reality Restitch",672
+"Mysterious Anomaly","2016","Rewind Raclette","Reality Restitch","17.71%","Time Punk",672
+"Mysterious Anomaly","2016","Rewind Raclette","Reality Restitch","9.23%","Time Tailor",672
+"Mysterious Anomaly","2016","Rewind Raclette","Reality Restitch","7.14%","Lucky",672
+"Mysterious Anomaly","2016","SB+","-","19.97%","Armored Archer",1277
+"Mysterious Anomaly","2016","SB+","-","18.56%","Shinobi",1277
+"Mysterious Anomaly","2016","SB+","-","15.27%","Werehauler",1277
+"Mysterious Anomaly","2016","SB+","-","14.25%","Mischievous Meteorite Miner",1277
+"Mysterious Anomaly","2016","SB+","-","13.55%","Meteorite Snacker",1277
+"Mysterious Anomaly","2016","SB+","-","13.00%","Enlightened Labourer",1277
+"Mysterious Anomaly","2016","SB+","-","5.40%","Lucky",1277
+"Mysterious Anomaly","2016","SB+","Reality Restitch","16.00%","Mischievous Meteorite Miner",125
+"Mysterious Anomaly","2016","SB+","Reality Restitch","15.20%","Armored Archer",125
+"Mysterious Anomaly","2016","SB+","Reality Restitch","15.20%","Shinobi",125
+"Mysterious Anomaly","2016","SB+","Reality Restitch","15.20%","Meteorite Snacker",125
+"Mysterious Anomaly","2016","SB+","Reality Restitch","12.80%","Werehauler",125
+"Mysterious Anomaly","2016","SB+","Reality Restitch","11.20%","Reality Restitch",125
+"Mysterious Anomaly","2016","SB+","Reality Restitch","10.40%","Enlightened Labourer",125
+"Mysterious Anomaly","2016","SB+","Reality Restitch","4.00%","Lucky",125
+"Mysterious Anomaly","2016","Gouda","-","25.11%","Armored Archer",458
+"Mysterious Anomaly","2016","Gouda","-","20.52%","Mischievous Meteorite Miner",458
+"Mysterious Anomaly","2016","Gouda","-","20.09%","Meteorite Snacker",458
+"Mysterious Anomaly","2016","Gouda","-","18.56%","Werehauler",458
+"Mysterious Anomaly","2016","Gouda","-","12.45%","Shinobi",458
+"Mysterious Anomaly","2016","Gouda","-","3.28%","Lucky",458
+"Mysterious Anomaly","2016","Gouda","Reality Restitch","30.00%","Mischievous Meteorite Miner",30
+"Mysterious Anomaly","2016","Gouda","Reality Restitch","20.00%","Meteorite Snacker",30
+"Mysterious Anomaly","2016","Gouda","Reality Restitch","16.67%","Reality Restitch",30
+"Mysterious Anomaly","2016","Gouda","Reality Restitch","13.33%","Armored Archer",30
+"Mysterious Anomaly","2016","Gouda","Reality Restitch","10.00%","Shinobi",30
+"Mysterious Anomaly","2016","Gouda","Reality Restitch","10.00%","Werehauler",30
+"Mysterious Anomaly","2016","Brie","-","53.85%","Armored Archer",13
+"Mysterious Anomaly","2016","Brie","-","15.38%","Werehauler",13
+"Mysterious Anomaly","2016","Brie","-","15.38%","Shinobi",13
+"Mysterious Anomaly","2016","Brie","-","15.38%","Mischievous Meteorite Miner",13
+"Mysterious Anomaly","2017","Rewind Raclette","-","39.91%","Time Punk",5805
+"Mysterious Anomaly","2017","Rewind Raclette","-","25.74%","Time Tailor",5805
+"Mysterious Anomaly","2017","Rewind Raclette","-","24.13%","Time Thief",5805
+"Mysterious Anomaly","2017","Rewind Raclette","-","10.22%","Lucky",5805
+"Mysterious Anomaly","2017","Rewind Raclette","Reality Restitch","34.02%","Time Punk",1937
+"Mysterious Anomaly","2017","Rewind Raclette","Reality Restitch","20.96%","Reality Restitch",1937
+"Mysterious Anomaly","2017","Rewind Raclette","Reality Restitch","19.46%","Time Thief",1937
+"Mysterious Anomaly","2017","Rewind Raclette","Reality Restitch","18.02%","Time Tailor",1937
+"Mysterious Anomaly","2017","Rewind Raclette","Reality Restitch","7.54%","Lucky",1937
+"Mysterious Anomaly","2017","SB+","-","19.15%","Epoch Golem",1854
+"Mysterious Anomaly","2017","SB+","-","17.04%","Clockwork Timespinner",1854
+"Mysterious Anomaly","2017","SB+","-","14.72%","Cloud Collector",1854
+"Mysterious Anomaly","2017","SB+","-","14.13%","Windy Farmer",1854
+"Mysterious Anomaly","2017","SB+","-","13.65%","Homeopathic Apothecary",1854
+"Mysterious Anomaly","2017","SB+","-","13.27%","Portal Plunderer",1854
+"Mysterious Anomaly","2017","SB+","-","8.04%","Lucky",1854
+"Mysterious Anomaly","2017","SB+","Reality Restitch","16.44%","Reality Restitch",146
+"Mysterious Anomaly","2017","SB+","Reality Restitch","16.44%","Clockwork Timespinner",146
+"Mysterious Anomaly","2017","SB+","Reality Restitch","15.07%","Windy Farmer",146
+"Mysterious Anomaly","2017","SB+","Reality Restitch","15.07%","Epoch Golem",146
+"Mysterious Anomaly","2017","SB+","Reality Restitch","11.64%","Cloud Collector",146
+"Mysterious Anomaly","2017","SB+","Reality Restitch","10.27%","Portal Plunderer",146
+"Mysterious Anomaly","2017","SB+","Reality Restitch","9.59%","Homeopathic Apothecary",146
+"Mysterious Anomaly","2017","SB+","Reality Restitch","5.48%","Lucky",146
+"Mysterious Anomaly","2017","Gouda","-","22.17%","Clockwork Timespinner",1209
+"Mysterious Anomaly","2017","Gouda","-","20.35%","Windy Farmer",1209
+"Mysterious Anomaly","2017","Gouda","-","18.94%","Cloud Collector",1209
+"Mysterious Anomaly","2017","Gouda","-","16.87%","Portal Plunderer",1209
+"Mysterious Anomaly","2017","Gouda","-","12.08%","Epoch Golem",1209
+"Mysterious Anomaly","2017","Gouda","-","9.59%","Lucky",1209
+"Mysterious Anomaly","2017","Gouda","Reality Restitch","26.47%","Clockwork Timespinner",68
+"Mysterious Anomaly","2017","Gouda","Reality Restitch","17.65%","Cloud Collector",68
+"Mysterious Anomaly","2017","Gouda","Reality Restitch","13.24%","Portal Plunderer",68
+"Mysterious Anomaly","2017","Gouda","Reality Restitch","13.24%","Windy Farmer",68
+"Mysterious Anomaly","2017","Gouda","Reality Restitch","11.76%","Epoch Golem",68
+"Mysterious Anomaly","2017","Gouda","Reality Restitch","11.76%","Reality Restitch",68
+"Mysterious Anomaly","2017","Gouda","Reality Restitch","5.88%","Lucky",68
+"Mysterious Anomaly","2017","Brie","-","23.08%","Epoch Golem",26
+"Mysterious Anomaly","2017","Brie","-","23.08%","Windy Farmer",26
+"Mysterious Anomaly","2017","Brie","-","23.08%","Cloud Collector",26
+"Mysterious Anomaly","2017","Brie","-","19.23%","Clockwork Timespinner",26
+"Mysterious Anomaly","2017","Brie","-","11.54%","Portal Plunderer",26
