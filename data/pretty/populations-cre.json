@@ -14305,409 +14305,428 @@
         "2008": {
             "Rewind Raclette": {
                 "-": {
-                    "Present": 47.41,
-                    "SampleSize": 1082,
-                    "Time Punk": 24.95,
-                    "Birthday": 22.74,
-                    "Time Tailor": 4.9
+                    "Present": 46.95,
+                    "SampleSize": 1312,
+                    "Time Punk": 25.38,
+                    "Birthday": 22.87,
+                    "Time Tailor": 4.8
                 },
                 "Reality Restitch": {
-                    "Present": 37.4,
-                    "SampleSize": 262,
-                    "Birthday": 21.37,
-                    "Time Punk": 19.85,
-                    "Reality Restitch": 16.03,
-                    "Time Tailor": 5.34
+                    "Present": 37.92,
+                    "SampleSize": 385,
+                    "Birthday": 22.08,
+                    "Time Punk": 20,
+                    "Reality Restitch": 16.1,
+                    "Time Tailor": 3.9
                 }
             },
             "SB+": {
                 "-": {
-                    "Pirate": 29.09,
-                    "SampleSize": 519,
-                    "Zombie": 21.77,
-                    "Ninja": 19.27,
-                    "White": 16.57,
-                    "Lycan": 8.29,
-                    "Assassin": 5.01
+                    "Pirate": 28.64,
+                    "SampleSize": 653,
+                    "Zombie": 20.98,
+                    "Ninja": 19.75,
+                    "White": 17.3,
+                    "Lycan": 7.96,
+                    "Assassin": 5.36
                 },
                 "Reality Restitch": {
-                    "Pirate": 28.57,
-                    "SampleSize": 14,
-                    "Reality Restitch": 28.57,
-                    "White": 21.43,
-                    "Lycan": 7.14,
-                    "Ninja": 7.14,
-                    "Zombie": 7.14
+                    "Reality Restitch": 40,
+                    "SampleSize": 20,
+                    "White": 25,
+                    "Pirate": 20,
+                    "Lycan": 5,
+                    "Ninja": 5,
+                    "Zombie": 5
                 }
             },
             "Gouda": {
                 "-": {
-                    "White": 31.58,
-                    "SampleSize": 266,
-                    "Pirate": 26.69,
-                    "Ninja": 21.05,
-                    "Zombie": 17.29,
-                    "Lycan": 3.38
+                    "White": 30.61,
+                    "SampleSize": 330,
+                    "Pirate": 30,
+                    "Ninja": 18.79,
+                    "Zombie": 16.97,
+                    "Lycan": 3.64
                 }
             },
             "Brie": {
                 "-": {
-                    "White": 54.55,
-                    "SampleSize": 11,
-                    "Ninja": 18.18,
-                    "Pirate": 18.18,
-                    "Zombie": 9.09
+                    "White": 37.5,
+                    "SampleSize": 16,
+                    "Pirate": 25,
+                    "Ninja": 18.75,
+                    "Zombie": 18.75
                 }
             },
             "White Cheddar": {
                 "-": {
-                    "Ninja": 53.42,
-                    "SampleSize": 73,
-                    "Zombie": 42.47,
-                    "Pirate": 4.11
+                    "Ninja": 53.16,
+                    "SampleSize": 79,
+                    "Zombie": 43.04,
+                    "Pirate": 3.8
                 }
             },
             "Moon": {
                 "-": {
-                    "Lycan": 47.45,
-                    "SampleSize": 822,
-                    "Pirate": 20.68,
-                    "Zombie": 14.72,
-                    "Ninja": 10.22,
-                    "White": 6.93
+                    "Lycan": 47.88,
+                    "SampleSize": 919,
+                    "Pirate": 20.78,
+                    "Zombie": 14.69,
+                    "Ninja": 10.12,
+                    "White": 6.53
                 }
             },
             "Crescent": {
                 "-": {
-                    "Zombie": 39.29,
-                    "SampleSize": 84,
-                    "Lycan": 26.19,
-                    "Ninja": 15.48,
-                    "White": 9.52,
-                    "Pirate": 9.52
+                    "Zombie": 36.59,
+                    "SampleSize": 123,
+                    "Lycan": 26.83,
+                    "Ninja": 17.89,
+                    "Pirate": 12.2,
+                    "White": 6.5
                 }
             }
         },
         "2009": {
             "Rewind Raclette": {
                 "-": {
-                    "Terrible Twos": 43.14,
-                    "SampleSize": 1247,
-                    "Time Punk": 26.46,
-                    "Birthday": 26.22,
-                    "Time Tailor": 4.17
+                    "Terrible Twos": 43.43,
+                    "SampleSize": 1423,
+                    "Birthday": 26.21,
+                    "Time Punk": 26,
+                    "Time Tailor": 4.36
                 },
                 "Reality Restitch": {
-                    "Terrible Twos": 38.05,
-                    "SampleSize": 205,
-                    "Reality Restitch": 20,
-                    "Birthday": 18.05,
-                    "Time Punk": 17.56,
-                    "Time Tailor": 6.34
+                    "Terrible Twos": 36.15,
+                    "SampleSize": 296,
+                    "Reality Restitch": 20.61,
+                    "Birthday": 19.26,
+                    "Time Punk": 18.92,
+                    "Time Tailor": 5.07
                 }
             },
             "SB+": {
                 "-": {
-                    "Cyclops": 28.35,
-                    "SampleSize": 1531,
-                    "Gate Guardian": 20.84,
-                    "Grunt": 17.31,
-                    "Finder": 16.98,
-                    "Pack": 15.74,
-                    "Shelder": 0.78
+                    "Cyclops": 28.53,
+                    "SampleSize": 2061,
+                    "Gate Guardian": 21.11,
+                    "Finder": 17.27,
+                    "Grunt": 16.98,
+                    "Pack": 15.14,
+                    "Shelder": 0.97
                 },
                 "Reality Restitch": {
-                    "Cyclops": 30.36,
-                    "SampleSize": 56,
-                    "Grunt": 17.86,
-                    "Pack": 17.86,
-                    "Gate Guardian": 17.86,
-                    "Reality Restitch": 10.71,
-                    "Finder": 5.36
+                    "Cyclops": 24.32,
+                    "SampleSize": 74,
+                    "Gate Guardian": 21.62,
+                    "Pack": 17.57,
+                    "Grunt": 16.22,
+                    "Reality Restitch": 14.86,
+                    "Finder": 5.41
                 }
             },
             "Gouda": {
                 "-": {
-                    "Gate Guardian": 35.93,
-                    "SampleSize": 629,
-                    "Cyclops": 27.66,
-                    "Grunt": 14.79,
-                    "Finder": 12.56,
-                    "Pack": 9.06
+                    "Gate Guardian": 34.89,
+                    "SampleSize": 728,
+                    "Cyclops": 27.34,
+                    "Grunt": 15.11,
+                    "Finder": 13.19,
+                    "Pack": 9.48
                 },
                 "Reality Restitch": {
-                    "Cyclops": 39.13,
-                    "SampleSize": 23,
-                    "Gate Guardian": 26.09,
-                    "Reality Restitch": 17.39,
-                    "Pack": 13.04,
-                    "Grunt": 4.35
+                    "Cyclops": 36,
+                    "SampleSize": 25,
+                    "Gate Guardian": 24,
+                    "Pack": 20,
+                    "Reality Restitch": 16,
+                    "Grunt": 4
                 }
             }
         },
         "2010": {
             "Rewind Raclette": {
                 "-": {
-                    "Birthday": 25.35,
-                    "SampleSize": 1811,
-                    "Time Punk": 24.68,
-                    "Pintail": 24.57,
-                    "Buckethead": 9.66,
-                    "Sleepwalker": 9.44,
-                    "Time Tailor": 6.29
+                    "Birthday": 25.67,
+                    "SampleSize": 2193,
+                    "Pintail": 25.13,
+                    "Time Punk": 24.4,
+                    "Sleepwalker": 9.58,
+                    "Buckethead": 9.53,
+                    "Time Tailor": 5.7
                 },
                 "Reality Restitch": {
-                    "Time Punk": 22.49,
-                    "SampleSize": 369,
-                    "Pintail": 20.87,
-                    "Birthday": 20.6,
-                    "Reality Restitch": 14.36,
-                    "Sleepwalker": 10.03,
-                    "Buckethead": 7.59,
-                    "Time Tailor": 4.07
+                    "Birthday": 21.67,
+                    "SampleSize": 466,
+                    "Time Punk": 21.24,
+                    "Pintail": 19.96,
+                    "Reality Restitch": 16.31,
+                    "Sleepwalker": 9.66,
+                    "Buckethead": 6.65,
+                    "Time Tailor": 4.51
                 }
             },
             "SB+": {
                 "-": {
-                    "Tidal Fisher": 19,
-                    "SampleSize": 1379,
-                    "Mystic Pawn": 18.93,
-                    "Technic Pawn": 18.64,
-                    "Dancer": 16.82,
-                    "Farmhand": 13.49,
-                    "Spring Familiar": 13.13
+                    "Tidal Fisher": 19.11,
+                    "SampleSize": 1716,
+                    "Mystic Pawn": 18.94,
+                    "Technic Pawn": 18.94,
+                    "Dancer": 16.78,
+                    "Farmhand": 14.45,
+                    "Spring Familiar": 11.77
                 },
                 "Reality Restitch": {
-                    "Technic Pawn": 22.64,
-                    "SampleSize": 53,
-                    "Dancer": 15.09,
-                    "Tidal Fisher": 15.09,
-                    "Mystic Pawn": 15.09,
-                    "Farmhand": 13.21,
-                    "Reality Restitch": 9.43,
-                    "Spring Familiar": 9.43
+                    "Technic Pawn": 20,
+                    "SampleSize": 70,
+                    "Tidal Fisher": 15.71,
+                    "Mystic Pawn": 15.71,
+                    "Reality Restitch": 14.29,
+                    "Dancer": 11.43,
+                    "Spring Familiar": 11.43,
+                    "Farmhand": 11.43
                 }
             },
             "Gouda": {
                 "-": {
-                    "Tidal Fisher": 23.11,
-                    "SampleSize": 238,
-                    "Dancer": 23.11,
-                    "Technic Pawn": 19.75,
-                    "Mystic Pawn": 18.91,
-                    "Farmhand": 15.13
+                    "Tidal Fisher": 24.74,
+                    "SampleSize": 291,
+                    "Dancer": 23.02,
+                    "Technic Pawn": 19.59,
+                    "Mystic Pawn": 18.21,
+                    "Farmhand": 14.43
+                }
+            },
+            "Brie": {
+                "-": {
+                    "Technic Pawn": 29.17,
+                    "SampleSize": 24,
+                    "Tidal Fisher": 29.17,
+                    "Mystic Pawn": 20.83,
+                    "Dancer": 16.67,
+                    "Farmhand": 4.17
                 }
             }
         },
         "2011": {
             "Rewind Raclette": {
                 "-": {
-                    "Dinosuit": 49.52,
-                    "SampleSize": 1470,
-                    "Birthday": 28.3,
-                    "Time Punk": 17.89,
+                    "Dinosuit": 49.68,
+                    "SampleSize": 1560,
+                    "Birthday": 27.76,
+                    "Time Punk": 18.27,
                     "Time Tailor": 4.29
                 },
                 "Reality Restitch": {
-                    "Dinosuit": 41.18,
-                    "SampleSize": 170,
-                    "Reality Restitch": 20,
-                    "Birthday": 18.82,
-                    "Time Punk": 17.06,
-                    "Time Tailor": 2.94
+                    "Dinosuit": 43.19,
+                    "SampleSize": 213,
+                    "Birthday": 19.25,
+                    "Reality Restitch": 17.84,
+                    "Time Punk": 16.43,
+                    "Time Tailor": 3.29
                 }
             },
             "SB+": {
                 "-": {
-                    "Desert Architect": 22.46,
-                    "SampleSize": 779,
-                    "Pocketwatch": 18.1,
-                    "Desert Soldier": 16.69,
-                    "Desert Archer": 15.02,
-                    "Bookborn": 14.76,
-                    "Vanguard": 12.97
+                    "Desert Architect": 21.89,
+                    "SampleSize": 932,
+                    "Pocketwatch": 18.03,
+                    "Desert Soldier": 17.17,
+                    "Desert Archer": 15.56,
+                    "Bookborn": 14.38,
+                    "Vanguard": 12.98
                 },
                 "Reality Restitch": {
-                    "Vanguard": 23.81,
-                    "SampleSize": 21,
-                    "Reality Restitch": 19.05,
-                    "Pocketwatch": 14.29,
-                    "Desert Architect": 14.29,
-                    "Desert Soldier": 14.29,
-                    "Bookborn": 9.52,
-                    "Desert Archer": 4.76
+                    "Reality Restitch": 17.24,
+                    "SampleSize": 29,
+                    "Desert Soldier": 17.24,
+                    "Vanguard": 17.24,
+                    "Pocketwatch": 17.24,
+                    "Desert Architect": 13.79,
+                    "Bookborn": 10.34,
+                    "Desert Archer": 6.9
                 }
             },
             "Gouda": {
                 "-": {
-                    "Pocketwatch": 24.86,
-                    "SampleSize": 370,
-                    "Bookborn": 21.89,
-                    "Desert Soldier": 19.19,
-                    "Vanguard": 17.84,
-                    "Desert Archer": 16.22
+                    "Pocketwatch": 25.06,
+                    "SampleSize": 431,
+                    "Bookborn": 21.58,
+                    "Desert Soldier": 19.49,
+                    "Vanguard": 18.56,
+                    "Desert Archer": 15.31
                 },
                 "Reality Restitch": {
-                    "Pocketwatch": 25,
-                    "SampleSize": 12,
-                    "Bookborn": 25,
-                    "Desert Soldier": 16.67,
-                    "Reality Restitch": 16.67,
-                    "Vanguard": 8.33,
-                    "Desert Archer": 8.33
+                    "Pocketwatch": 26.67,
+                    "SampleSize": 15,
+                    "Bookborn": 26.67,
+                    "Desert Soldier": 20,
+                    "Reality Restitch": 13.33,
+                    "Vanguard": 6.67,
+                    "Desert Archer": 6.67
                 }
             },
             "Brie": {
                 "-": {
-                    "Pocketwatch": 29.03,
-                    "SampleSize": 62,
-                    "Desert Soldier": 22.58,
-                    "Desert Archer": 20.97,
-                    "Vanguard": 17.74,
-                    "Bookborn": 9.68
+                    "Pocketwatch": 28.57,
+                    "SampleSize": 63,
+                    "Desert Soldier": 22.22,
+                    "Desert Archer": 20.63,
+                    "Vanguard": 17.46,
+                    "Bookborn": 11.11
                 }
             }
         },
         "2012": {
             "Rewind Raclette": {
                 "-": {
-                    "Time Punk": 24.75,
-                    "SampleSize": 3043,
-                    "Birthday": 21.26,
+                    "Time Punk": 24.94,
+                    "SampleSize": 3858,
+                    "Birthday": 21.57,
                     "Force Fighter Green": 9.69,
-                    "Time Tailor": 9.53,
-                    "Super FighterBot MegaSupreme": 7.3,
-                    "Force Fighter Pink": 7.16,
-                    "Force Fighter Yellow": 7.13,
-                    "Force Fighter Red": 6.97,
-                    "Force Fighter Blue": 6.21
+                    "Time Tailor": 9.59,
+                    "Force Fighter Pink": 7.05,
+                    "Force Fighter Red": 7.05,
+                    "Super FighterBot MegaSupreme": 7,
+                    "Force Fighter Yellow": 6.79,
+                    "Force Fighter Blue": 6.32
                 },
                 "Reality Restitch": {
-                    "Birthday": 20.7,
-                    "SampleSize": 483,
-                    "Time Punk": 20.5,
-                    "Reality Restitch": 14.91,
-                    "Force Fighter Green": 8.28,
-                    "Force Fighter Pink": 7.25,
-                    "Force Fighter Yellow": 7.04,
-                    "Time Tailor": 6.63,
-                    "Force Fighter Blue": 6.21,
+                    "Birthday": 19.39,
+                    "SampleSize": 624,
+                    "Time Punk": 18.91,
+                    "Reality Restitch": 15.71,
+                    "Force Fighter Green": 8.33,
+                    "Time Tailor": 7.53,
+                    "Force Fighter Yellow": 7.53,
+                    "Force Fighter Pink": 6.89,
+                    "Force Fighter Blue": 6.25,
                     "Force Fighter Red": 4.97,
-                    "Super FighterBot MegaSupreme": 3.52
+                    "Super FighterBot MegaSupreme": 4.49
                 }
             },
             "SB+": {
                 "-": {
-                    "Strawberry Hotcakes": 22.02,
-                    "SampleSize": 613,
-                    "Incompetent Ice Climber": 20.07,
-                    "Grubling": 18.92,
-                    "Living Ice": 14.85,
-                    "Cursed Thief": 14.36,
-                    "Yeti": 9.79
+                    "Strawberry Hotcakes": 21.78,
+                    "SampleSize": 753,
+                    "Incompetent Ice Climber": 20.45,
+                    "Grubling": 18.59,
+                    "Cursed Thief": 15.27,
+                    "Living Ice": 14.34,
+                    "Yeti": 9.56
                 },
                 "Reality Restitch": {
-                    "Reality Restitch": 18.18,
-                    "SampleSize": 33,
-                    "Incompetent Ice Climber": 18.18,
-                    "Cursed Thief": 18.18,
-                    "Strawberry Hotcakes": 15.15,
-                    "Grubling": 15.15,
-                    "Living Ice": 12.12,
-                    "Yeti": 3.03
+                    "Strawberry Hotcakes": 18.92,
+                    "SampleSize": 37,
+                    "Incompetent Ice Climber": 16.22,
+                    "Cursed Thief": 16.22,
+                    "Grubling": 16.22,
+                    "Reality Restitch": 16.22,
+                    "Living Ice": 10.81,
+                    "Yeti": 5.41
                 }
             },
             "Gouda": {
                 "-": {
-                    "Incompetent Ice Climber": 48.19,
-                    "SampleSize": 83,
-                    "Yeti": 21.69,
-                    "Grubling": 10.84,
-                    "Strawberry Hotcakes": 9.64,
-                    "Cursed Thief": 9.64
+                    "Incompetent Ice Climber": 45.24,
+                    "SampleSize": 126,
+                    "Yeti": 26.19,
+                    "Cursed Thief": 11.9,
+                    "Grubling": 8.73,
+                    "Strawberry Hotcakes": 7.94
                 },
                 "Reality Restitch": {
-                    "Incompetent Ice Climber": 40,
-                    "SampleSize": 15,
-                    "Grubling": 33.33,
-                    "Strawberry Hotcakes": 13.33,
-                    "Reality Restitch": 6.67,
-                    "Yeti": 6.67
+                    "Incompetent Ice Climber": 33.33,
+                    "SampleSize": 21,
+                    "Grubling": 28.57,
+                    "Reality Restitch": 14.29,
+                    "Strawberry Hotcakes": 9.52,
+                    "Yeti": 9.52,
+                    "Cursed Thief": 4.76
                 }
             }
         },
         "2013": {
             "Rewind Raclette": {
                 "-": {
-                    "Time Punk": 19.42,
-                    "SampleSize": 2791,
-                    "Para Para Dancer": 18.95,
-                    "Birthday": 16.66,
-                    "El Flamenco": 15.26,
-                    "Dance Party": 10.28,
-                    "Time Tailor": 9.92,
-                    "Breakdancer": 9.49
+                    "Time Punk": 19.36,
+                    "SampleSize": 3275,
+                    "Para Para Dancer": 18.9,
+                    "Birthday": 16.34,
+                    "El Flamenco": 15.33,
+                    "Dance Party": 10.5,
+                    "Time Tailor": 9.95,
+                    "Breakdancer": 9.62
                 },
                 "Reality Restitch": {
-                    "Reality Restitch": 16.45,
-                    "SampleSize": 456,
-                    "Para Para Dancer": 15.57,
-                    "Time Punk": 14.69,
-                    "Birthday": 13.38,
-                    "El Flamenco": 12.72,
-                    "Breakdancer": 9.65,
-                    "Dance Party": 8.99,
-                    "Time Tailor": 8.55
+                    "Reality Restitch": 17.38,
+                    "SampleSize": 558,
+                    "Time Punk": 14.87,
+                    "Para Para Dancer": 14.52,
+                    "Birthday": 13.08,
+                    "El Flamenco": 12.54,
+                    "Breakdancer": 9.68,
+                    "Dance Party": 9.32,
+                    "Time Tailor": 8.6
                 }
             },
             "SB+": {
                 "-": {
-                    "Lasso Cowgirl": 27.3,
-                    "SampleSize": 1608,
-                    "Stowaway": 19.34,
+                    "Lasso Cowgirl": 26.83,
+                    "SampleSize": 1871,
+                    "Stowaway": 20.1,
                     "Fuel": 18.97,
-                    "Pyrite": 18.53,
-                    "Steel Horse Rider": 10.45,
-                    "Prospector": 5.41
+                    "Pyrite": 18.44,
+                    "Steel Horse Rider": 10.26,
+                    "Prospector": 5.4
                 },
                 "Reality Restitch": {
-                    "Pyrite": 22,
-                    "SampleSize": 50,
-                    "Lasso Cowgirl": 20,
-                    "Reality Restitch": 18,
-                    "Fuel": 14,
-                    "Stowaway": 12,
-                    "Steel Horse Rider": 10,
-                    "Prospector": 4
+                    "Pyrite": 20.29,
+                    "SampleSize": 69,
+                    "Reality Restitch": 18.84,
+                    "Fuel": 17.39,
+                    "Lasso Cowgirl": 17.39,
+                    "Stowaway": 13.04,
+                    "Steel Horse Rider": 10.14,
+                    "Prospector": 2.9
                 }
             },
             "Gouda": {
                 "-": {
-                    "Lasso Cowgirl": 35.71,
-                    "SampleSize": 1666,
-                    "Stowaway": 26.53,
-                    "Fuel": 24.19,
-                    "Steel Horse Rider": 9.06,
-                    "Prospector": 4.5
+                    "Lasso Cowgirl": 35.7,
+                    "SampleSize": 1843,
+                    "Stowaway": 26.32,
+                    "Fuel": 23.93,
+                    "Steel Horse Rider": 9.28,
+                    "Prospector": 4.77
                 },
                 "Reality Restitch": {
-                    "Lasso Cowgirl": 27.27,
-                    "SampleSize": 55,
-                    "Stowaway": 25.45,
-                    "Fuel": 21.82,
-                    "Steel Horse Rider": 12.73,
-                    "Reality Restitch": 7.27,
-                    "Prospector": 5.45
+                    "Lasso Cowgirl": 26.32,
+                    "SampleSize": 57,
+                    "Stowaway": 24.56,
+                    "Fuel": 24.56,
+                    "Steel Horse Rider": 12.28,
+                    "Reality Restitch": 7.02,
+                    "Prospector": 5.26
                 }
             },
             "Brie": {
                 "-": {
-                    "Lasso Cowgirl": 33.33,
-                    "SampleSize": 123,
-                    "Stowaway": 23.58,
-                    "Fuel": 22.76,
-                    "Steel Horse Rider": 11.38,
-                    "Prospector": 8.94
+                    "Lasso Cowgirl": 33.08,
+                    "SampleSize": 130,
+                    "Stowaway": 23.85,
+                    "Fuel": 23.08,
+                    "Steel Horse Rider": 11.54,
+                    "Prospector": 8.46
+                },
+                "Reality Restitch": {
+                    "Fuel": 31.58,
+                    "SampleSize": 19,
+                    "Stowaway": 31.58,
+                    "Lasso Cowgirl": 15.79,
+                    "Steel Horse Rider": 10.53,
+                    "Prospector": 10.53
                 }
             },
             "Ghoulgonzola": {
@@ -14723,132 +14742,132 @@
         "2014": {
             "Rewind Raclette": {
                 "-": {
-                    "Cupcake Runner": 29.3,
-                    "SampleSize": 1256,
-                    "Cupcake Cutie": 28.42,
-                    "Time Punk": 16.4,
-                    "Birthday": 16.08,
-                    "Time Tailor": 9.79
+                    "Cupcake Runner": 29.11,
+                    "SampleSize": 1515,
+                    "Cupcake Cutie": 28.91,
+                    "Birthday": 16.5,
+                    "Time Punk": 15.58,
+                    "Time Tailor": 9.9
                 },
                 "Reality Restitch": {
-                    "Cupcake Runner": 28.16,
-                    "SampleSize": 277,
-                    "Cupcake Cutie": 25.27,
-                    "Reality Restitch": 14.8,
-                    "Birthday": 12.64,
-                    "Time Punk": 11.91,
-                    "Time Tailor": 7.22
+                    "Cupcake Runner": 27.17,
+                    "SampleSize": 368,
+                    "Cupcake Cutie": 26.09,
+                    "Reality Restitch": 15.76,
+                    "Birthday": 12.23,
+                    "Time Punk": 10.87,
+                    "Time Tailor": 7.88
                 }
             },
             "SB+": {
                 "-": {
-                    "Sludge Soaker": 18.98,
-                    "SampleSize": 843,
-                    "Bog Beast": 18.62,
-                    "Sand Dollar Diver": 16.13,
-                    "Hydrologist": 15.66,
-                    "Brawny": 15.66,
-                    "Amplified Grey": 14.95
+                    "Bog Beast": 19,
+                    "SampleSize": 1063,
+                    "Sludge Soaker": 18.53,
+                    "Amplified Grey": 15.9,
+                    "Brawny": 15.8,
+                    "Hydrologist": 15.52,
+                    "Sand Dollar Diver": 15.24
                 },
                 "Reality Restitch": {
-                    "Sludge Soaker": 22.81,
-                    "SampleSize": 57,
-                    "Brawny": 21.05,
-                    "Bog Beast": 19.3,
-                    "Hydrologist": 12.28,
-                    "Reality Restitch": 10.53,
-                    "Sand Dollar Diver": 7.02,
-                    "Amplified Grey": 7.02
+                    "Sludge Soaker": 21.31,
+                    "SampleSize": 61,
+                    "Brawny": 19.67,
+                    "Bog Beast": 18.03,
+                    "Hydrologist": 13.11,
+                    "Reality Restitch": 11.48,
+                    "Sand Dollar Diver": 8.2,
+                    "Amplified Grey": 8.2
                 }
             },
             "Gouda": {
                 "-": {
-                    "Sludge Soaker": 23.1,
-                    "SampleSize": 381,
-                    "Bog Beast": 23.1,
-                    "Amplified Grey": 18.37,
-                    "Sand Dollar Diver": 18.11,
-                    "Brawny": 17.32
+                    "Bog Beast": 22.82,
+                    "SampleSize": 539,
+                    "Sludge Soaker": 21.15,
+                    "Sand Dollar Diver": 20.78,
+                    "Amplified Grey": 17.81,
+                    "Brawny": 17.44
                 },
                 "Reality Restitch": {
-                    "Brawny": 25.71,
-                    "SampleSize": 35,
-                    "Bog Beast": 17.14,
-                    "Amplified Grey": 17.14,
-                    "Sand Dollar Diver": 17.14,
-                    "Sludge Soaker": 17.14,
-                    "Reality Restitch": 5.71
+                    "Sludge Soaker": 22.22,
+                    "SampleSize": 54,
+                    "Brawny": 20.37,
+                    "Bog Beast": 18.52,
+                    "Sand Dollar Diver": 16.67,
+                    "Amplified Grey": 14.81,
+                    "Reality Restitch": 7.41
                 }
             },
             "Brie": {
                 "-": {
-                    "Sludge Soaker": 24.66,
-                    "SampleSize": 73,
-                    "Brawny": 23.29,
-                    "Sand Dollar Diver": 19.18,
-                    "Amplified Grey": 16.44,
-                    "Bog Beast": 16.44
+                    "Brawny": 24.05,
+                    "SampleSize": 79,
+                    "Sludge Soaker": 22.78,
+                    "Sand Dollar Diver": 20.25,
+                    "Amplified Grey": 17.72,
+                    "Bog Beast": 15.19
                 }
             }
         },
         "2015": {
             "Rewind Raclette": {
                 "-": {
-                    "Cupcake Candle Thief": 31.19,
-                    "SampleSize": 2639,
-                    "Cupcake Camo": 27.06,
-                    "Birthday": 16.75,
-                    "Time Punk": 14.74,
-                    "Time Tailor": 10.27
+                    "Cupcake Candle Thief": 30.85,
+                    "SampleSize": 3037,
+                    "Cupcake Camo": 27.79,
+                    "Birthday": 16.5,
+                    "Time Punk": 14.62,
+                    "Time Tailor": 10.24
                 },
                 "Reality Restitch": {
-                    "Cupcake Candle Thief": 25.44,
-                    "SampleSize": 967,
-                    "Cupcake Camo": 24.92,
-                    "Reality Restitch": 16.65,
-                    "Birthday": 13.13,
-                    "Time Punk": 11.69,
-                    "Time Tailor": 8.17
+                    "Cupcake Camo": 25.45,
+                    "SampleSize": 1155,
+                    "Cupcake Candle Thief": 25.37,
+                    "Reality Restitch": 15.93,
+                    "Birthday": 12.9,
+                    "Time Punk": 12.12,
+                    "Time Tailor": 8.23
                 }
             },
             "SB+": {
                 "-": {
-                    "Nightshade Masquerade": 22.78,
-                    "SampleSize": 834,
-                    "Funglore": 19.06,
-                    "Drudge": 17.75,
-                    "RR-8": 16.07,
-                    "Summoning Scholar": 14.75,
-                    "Twisted Treant": 9.59
+                    "Nightshade Masquerade": 23.46,
+                    "SampleSize": 925,
+                    "Funglore": 19.03,
+                    "Drudge": 17.08,
+                    "RR-8": 15.57,
+                    "Summoning Scholar": 14.7,
+                    "Twisted Treant": 10.16
                 },
                 "Reality Restitch": {
-                    "Nightshade Masquerade": 26.67,
-                    "SampleSize": 45,
-                    "Reality Restitch": 20,
-                    "Funglore": 17.78,
-                    "RR-8": 13.33,
-                    "Summoning Scholar": 8.89,
-                    "Drudge": 8.89,
-                    "Twisted Treant": 4.44
+                    "Nightshade Masquerade": 25.86,
+                    "SampleSize": 58,
+                    "Funglore": 20.69,
+                    "Reality Restitch": 17.24,
+                    "Summoning Scholar": 12.07,
+                    "RR-8": 10.34,
+                    "Drudge": 8.62,
+                    "Twisted Treant": 5.17
                 }
             },
             "Gouda": {
                 "-": {
-                    "Funglore": 38.61,
-                    "SampleSize": 606,
-                    "Drudge": 17.49,
-                    "RR-8": 16.17,
-                    "Summoning Scholar": 15.51,
-                    "Twisted Treant": 12.21
+                    "Funglore": 37.5,
+                    "SampleSize": 672,
+                    "Drudge": 17.11,
+                    "Summoning Scholar": 16.82,
+                    "RR-8": 16.22,
+                    "Twisted Treant": 12.35
                 },
                 "Reality Restitch": {
-                    "Funglore": 30.77,
-                    "SampleSize": 26,
-                    "Drudge": 19.23,
-                    "Twisted Treant": 15.38,
-                    "Reality Restitch": 11.54,
-                    "Summoning Scholar": 11.54,
-                    "RR-8": 11.54
+                    "Funglore": 32.14,
+                    "SampleSize": 28,
+                    "Drudge": 17.86,
+                    "Summoning Scholar": 14.29,
+                    "Twisted Treant": 14.29,
+                    "RR-8": 10.71,
+                    "Reality Restitch": 10.71
                 }
             },
             "Brie": {
@@ -14865,137 +14884,137 @@
         "2016": {
             "Rewind Raclette": {
                 "-": {
-                    "Sprinkly Sweet Cupcake Cook": 53.58,
-                    "SampleSize": 1954,
-                    "Time Punk": 19.19,
-                    "Birthday": 16.58,
-                    "Time Tailor": 10.64
+                    "Sprinkly Sweet Cupcake Cook": 53.87,
+                    "SampleSize": 2426,
+                    "Time Punk": 19.17,
+                    "Birthday": 16.53,
+                    "Time Tailor": 10.43
                 },
                 "Reality Restitch": {
-                    "Sprinkly Sweet Cupcake Cook": 44.33,
-                    "SampleSize": 706,
-                    "Reality Restitch": 18.41,
-                    "Time Punk": 16.86,
-                    "Birthday": 11.61,
-                    "Time Tailor": 8.78
+                    "Sprinkly Sweet Cupcake Cook": 45.24,
+                    "SampleSize": 1019,
+                    "Reality Restitch": 17.47,
+                    "Time Punk": 17.37,
+                    "Birthday": 11.87,
+                    "Time Tailor": 8.05
                 }
             },
             "SB+": {
                 "-": {
-                    "Armored Archer": 21.11,
-                    "SampleSize": 1208,
-                    "Shinobi": 19.62,
-                    "Werehauler": 16.14,
-                    "Mischievous Meteorite Miner": 15.07,
-                    "Meteorite Snacker": 14.32,
-                    "Enlightened Labourer": 13.74
+                    "Armored Archer": 21.53,
+                    "SampleSize": 1389,
+                    "Shinobi": 19.15,
+                    "Werehauler": 15.91,
+                    "Mischievous Meteorite Miner": 15.41,
+                    "Meteorite Snacker": 14.04,
+                    "Enlightened Labourer": 13.97
                 },
                 "Reality Restitch": {
-                    "Mischievous Meteorite Miner": 16.67,
-                    "SampleSize": 120,
-                    "Armored Archer": 15.83,
-                    "Shinobi": 15.83,
-                    "Meteorite Snacker": 15.83,
-                    "Werehauler": 13.33,
-                    "Reality Restitch": 11.67,
-                    "Enlightened Labourer": 10.83
+                    "Armored Archer": 17.24,
+                    "SampleSize": 145,
+                    "Shinobi": 17.24,
+                    "Mischievous Meteorite Miner": 16.55,
+                    "Meteorite Snacker": 15.17,
+                    "Enlightened Labourer": 11.72,
+                    "Werehauler": 11.03,
+                    "Reality Restitch": 11.03
                 }
             },
             "Gouda": {
                 "-": {
-                    "Armored Archer": 25.96,
-                    "SampleSize": 443,
-                    "Mischievous Meteorite Miner": 21.22,
-                    "Meteorite Snacker": 20.77,
-                    "Werehauler": 19.19,
-                    "Shinobi": 12.87
+                    "Armored Archer": 25.37,
+                    "SampleSize": 544,
+                    "Werehauler": 21.14,
+                    "Meteorite Snacker": 20.59,
+                    "Mischievous Meteorite Miner": 19.85,
+                    "Shinobi": 13.05
                 },
                 "Reality Restitch": {
-                    "Mischievous Meteorite Miner": 30,
-                    "SampleSize": 30,
-                    "Meteorite Snacker": 20,
+                    "Mischievous Meteorite Miner": 38.1,
+                    "SampleSize": 42,
                     "Reality Restitch": 16.67,
-                    "Armored Archer": 13.33,
-                    "Shinobi": 10,
-                    "Werehauler": 10
+                    "Meteorite Snacker": 14.29,
+                    "Armored Archer": 11.9,
+                    "Shinobi": 9.52,
+                    "Werehauler": 9.52
                 }
             },
             "Brie": {
                 "-": {
-                    "Armored Archer": 53.85,
-                    "SampleSize": 13,
-                    "Mischievous Meteorite Miner": 15.38,
-                    "Werehauler": 15.38,
-                    "Shinobi": 15.38
+                    "Armored Archer": 44,
+                    "SampleSize": 25,
+                    "Mischievous Meteorite Miner": 24,
+                    "Werehauler": 24,
+                    "Shinobi": 8
                 }
             }
         },
         "2017": {
             "Rewind Raclette": {
                 "-": {
-                    "Time Punk": 32.74,
-                    "SampleSize": 7076,
-                    "Birthday": 26.34,
-                    "Time Tailor": 21.11,
-                    "Time Thief": 19.8
+                    "Time Punk": 32.99,
+                    "SampleSize": 8150,
+                    "Birthday": 26.21,
+                    "Time Tailor": 21.26,
+                    "Time Thief": 19.53
                 },
                 "Reality Restitch": {
-                    "Time Punk": 28.33,
-                    "SampleSize": 2326,
-                    "Birthday": 23,
-                    "Reality Restitch": 17.45,
-                    "Time Thief": 16.21,
-                    "Time Tailor": 15
+                    "Time Punk": 28.47,
+                    "SampleSize": 2736,
+                    "Birthday": 22.88,
+                    "Reality Restitch": 17.14,
+                    "Time Thief": 16.05,
+                    "Time Tailor": 15.46
                 }
             },
             "SB+": {
                 "-": {
-                    "Epoch Golem": 20.82,
-                    "SampleSize": 1705,
-                    "Clockwork Timespinner": 18.53,
-                    "Cloud Collector": 16.01,
-                    "Windy Farmer": 15.37,
-                    "Homeopathic Apothecary": 14.84,
-                    "Portal Plunderer": 14.43
+                    "Epoch Golem": 20.34,
+                    "SampleSize": 2163,
+                    "Clockwork Timespinner": 18.59,
+                    "Windy Farmer": 16.55,
+                    "Cloud Collector": 15.4,
+                    "Homeopathic Apothecary": 14.98,
+                    "Portal Plunderer": 14.15
                 },
                 "Reality Restitch": {
-                    "Clockwork Timespinner": 17.39,
-                    "SampleSize": 138,
-                    "Reality Restitch": 17.39,
-                    "Epoch Golem": 15.94,
-                    "Windy Farmer": 15.94,
-                    "Cloud Collector": 12.32,
-                    "Portal Plunderer": 10.87,
-                    "Homeopathic Apothecary": 10.14
+                    "Clockwork Timespinner": 17.57,
+                    "SampleSize": 239,
+                    "Epoch Golem": 16.74,
+                    "Reality Restitch": 15.9,
+                    "Cloud Collector": 13.81,
+                    "Windy Farmer": 13.39,
+                    "Portal Plunderer": 13.39,
+                    "Homeopathic Apothecary": 9.21
                 }
             },
             "Gouda": {
                 "-": {
-                    "Clockwork Timespinner": 24.52,
-                    "SampleSize": 1093,
-                    "Windy Farmer": 22.51,
-                    "Cloud Collector": 20.95,
-                    "Portal Plunderer": 18.66,
-                    "Epoch Golem": 13.36
+                    "Clockwork Timespinner": 24.19,
+                    "SampleSize": 1765,
+                    "Windy Farmer": 22.49,
+                    "Cloud Collector": 20.85,
+                    "Portal Plunderer": 18.24,
+                    "Epoch Golem": 14.22
                 },
                 "Reality Restitch": {
-                    "Clockwork Timespinner": 28.13,
-                    "SampleSize": 64,
-                    "Cloud Collector": 18.75,
-                    "Windy Farmer": 14.06,
-                    "Portal Plunderer": 14.06,
-                    "Epoch Golem": 12.5,
-                    "Reality Restitch": 12.5
+                    "Clockwork Timespinner": 26.97,
+                    "SampleSize": 89,
+                    "Cloud Collector": 20.22,
+                    "Windy Farmer": 14.61,
+                    "Epoch Golem": 13.48,
+                    "Reality Restitch": 13.48,
+                    "Portal Plunderer": 11.24
                 }
             },
             "Brie": {
                 "-": {
-                    "Epoch Golem": 23.08,
-                    "SampleSize": 26,
-                    "Windy Farmer": 23.08,
-                    "Cloud Collector": 23.08,
-                    "Clockwork Timespinner": 19.23,
-                    "Portal Plunderer": 11.54
+                    "Cloud Collector": 23.73,
+                    "SampleSize": 59,
+                    "Windy Farmer": 22.03,
+                    "Clockwork Timespinner": 20.34,
+                    "Portal Plunderer": 16.95,
+                    "Epoch Golem": 16.95
                 }
             }
         }
