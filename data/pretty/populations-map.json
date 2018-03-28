@@ -23589,5 +23589,425 @@
                 }
             }
         }
+    },
+    "Egg Painter": {
+        "Town of Gnawnia": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 22.94
+                }
+            }
+        },
+        "Gnawnia Rift": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 21.6
+                }
+            }
+        },
+        "Fungal Cavern": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 24.76
+                }
+            }
+        },
+        "Moussu Picchu": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 20.42
+                }
+            }
+        }
+    },
+    "Chocolate Overload": {
+        "Town of Gnawnia": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 12.12
+                }
+            }
+        },
+        "Gnawnia Rift": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 10.4
+                }
+            }
+        },
+        "Fungal Cavern": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 11.19
+                }
+            }
+        },
+        "Moussu Picchu": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 5.63
+                }
+            }
+        }
+    },
+    "Coco Commander": {
+        "Town of Gnawnia": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 9.52
+                }
+            }
+        },
+        "Gnawnia Rift": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 5.6
+                }
+            }
+        },
+        "Fungal Cavern": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 10.48
+                }
+            }
+        },
+        "Moussu Picchu": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 14.08
+                }
+            }
+        }
+    },
+    "Eggsplosive Scientist": {
+        "Town of Gnawnia": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 9.09
+                }
+            }
+        },
+        "Gnawnia Rift": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 9.6
+                }
+            }
+        },
+        "Fungal Cavern": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 8.81
+                }
+            }
+        },
+        "Moussu Picchu": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 8.45
+                }
+            }
+        }
+    },
+    "Eggscavator": {
+        "Town of Gnawnia": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 9.09
+                }
+            }
+        },
+        "Gnawnia Rift": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 8.8
+                }
+            }
+        },
+        "Fungal Cavern": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 7.86
+                }
+            }
+        },
+        "Moussu Picchu": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 10.56
+                }
+            }
+        }
+    },
+    "Chocolate Gold Foil": {
+        "Town of Gnawnia": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 8.66
+                }
+            }
+        },
+        "Gnawnia Rift": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 6.4
+                }
+            }
+        },
+        "Fungal Cavern": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 4.76
+                }
+            }
+        },
+        "Moussu Picchu": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 8.45
+                }
+            }
+        }
+    },
+    "Egg Scrambler": {
+        "Town of Gnawnia": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 7.36
+                }
+            }
+        },
+        "Gnawnia Rift": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 7.2
+                }
+            }
+        },
+        "Fungal Cavern": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 8.33
+                }
+            }
+        },
+        "Moussu Picchu": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 7.75
+                }
+            }
+        }
+    },
+    "Carefree Cook": {
+        "Town of Gnawnia": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 6.06
+                }
+            }
+        },
+        "Gnawnia Rift": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 4.8
+                }
+            }
+        },
+        "Fungal Cavern": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 4.05
+                }
+            }
+        },
+        "Moussu Picchu": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 4.23
+                }
+            }
+        }
+    },
+    "Spring Sprig": {
+        "Town of Gnawnia": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 3.9
+                }
+            }
+        },
+        "Gnawnia Rift": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 5.6
+                }
+            }
+        },
+        "Fungal Cavern": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 5.95
+                }
+            }
+        },
+        "Moussu Picchu": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 6.34
+                }
+            }
+        }
+    },
+    "Hardboiled": {
+        "Town of Gnawnia": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 3.46
+                }
+            }
+        },
+        "Gnawnia Rift": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 4
+                }
+            }
+        },
+        "Fungal Cavern": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 2.86
+                }
+            }
+        },
+        "Moussu Picchu": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 2.82
+                }
+            }
+        }
+    },
+    "Pan Slammer": {
+        "Town of Gnawnia": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 3.03
+                }
+            }
+        },
+        "Gnawnia Rift": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 5.6
+                }
+            }
+        },
+        "Fungal Cavern": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 4.29
+                }
+            }
+        },
+        "Moussu Picchu": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 2.11
+                }
+            }
+        }
+    },
+    "Hare Razer": {
+        "Town of Gnawnia": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 2.16
+                }
+            }
+        },
+        "Gnawnia Rift": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 4
+                }
+            }
+        },
+        "Fungal Cavern": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 2.14
+                }
+            }
+        },
+        "Moussu Picchu": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 3.52
+                }
+            }
+        }
+    },
+    "Onion Chopper": {
+        "Town of Gnawnia": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 1.73
+                }
+            }
+        },
+        "Gnawnia Rift": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 4.8
+                }
+            }
+        },
+        "Fungal Cavern": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 2.62
+                }
+            }
+        },
+        "Moussu Picchu": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 2.82
+                }
+            }
+        }
+    },
+    "Eggsquisite Entertainer": {
+        "Town of Gnawnia": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 0.87
+                }
+            }
+        },
+        "Gnawnia Rift": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 1.6
+                }
+            }
+        },
+        "Fungal Cavern": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 1.9
+                }
+            }
+        },
+        "Moussu Picchu": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 2.82
+                }
+            }
+        }
     }
 }

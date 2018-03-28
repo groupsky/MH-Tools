@@ -9217,7 +9217,92 @@
                     "-": {
                         "Digby Drillbot": {
                             "-": {
-                                "Scrap Metal": 1
+                                "Scrap Metal": 1,
+                                "SampleSize": "Phase"
+                            }
+                        }
+                    }
+                }
+            },
+            "Chocolate Gold Foil": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Eggstra Charge Charm": 1,
+                                "SampleSize": 98
+                            }
+                        }
+                    }
+                }
+            },
+            "Carefree Cook": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Eggstra Charge Charm": 1,
+                                "SampleSize": 81
+                            }
+                        }
+                    }
+                }
+            },
+            "Onion Chopper": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Eggstra Charge Charm": 1,
+                                "SampleSize": 35
+                            }
+                        }
+                    }
+                }
+            },
+            "Eggsplosive Scientist": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Eggstra Charge Charm": 1.4,
+                                "SampleSize": 125
+                            }
+                        }
+                    }
+                }
+            },
+            "Eggscavator": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Eggstra Charge Charm": 1.4098360655737705,
+                                "SampleSize": 122
+                            }
+                        }
+                    }
+                }
+            },
+            "Hare Razer": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Eggstra Charge Charm": 2,
+                                "SampleSize": 41
+                            }
+                        }
+                    }
+                }
+            },
+            "Pan Slammer": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Eggstra Charge Charm": 1,
+                                "SampleSize": 54
                             }
                         }
                     }
