@@ -9230,7 +9230,19 @@
                         "-": {
                             "-": {
                                 "Eggstra Charge Charm": 1,
-                                "SampleSize": 98
+                                "SampleSize": 99
+                            }
+                        }
+                    }
+                }
+            },
+            "Chocolate Overload": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Eggscavator Charge Charm": 0.4928571428571429,
+                                "SampleSize": 140
                             }
                         }
                     }
@@ -9242,7 +9254,20 @@
                         "-": {
                             "-": {
                                 "Eggstra Charge Charm": 1,
-                                "SampleSize": 81
+                                "SampleSize": 82,
+                                "Eggscavator Charge Charm": 3
+                            }
+                        }
+                    }
+                }
+            },
+            "Egg Scrambler": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Eggscavator Charge Charm": 0.5238095238095238,
+                                "SampleSize": 126
                             }
                         }
                     }
@@ -9254,7 +9279,20 @@
                         "-": {
                             "-": {
                                 "Eggstra Charge Charm": 1,
-                                "SampleSize": 35
+                                "SampleSize": 37,
+                                "Eggscavator Charge Charm": 3
+                            }
+                        }
+                    }
+                }
+            },
+            "Coco Commander": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Eggscavator Charge Charm": 0.631578947368421,
+                                "SampleSize": 133
                             }
                         }
                     }
@@ -9265,8 +9303,9 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Eggstra Charge Charm": 1.4,
-                                "SampleSize": 125
+                                "Eggstra Charge Charm": 1.3984375,
+                                "SampleSize": 128,
+                                "Eggscavator Charge Charm": 1.53125
                             }
                         }
                     }
@@ -9277,8 +9316,9 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Eggstra Charge Charm": 1.4098360655737705,
-                                "SampleSize": 122
+                                "Eggscavator Charge Charm": 2.9761904761904763,
+                                "SampleSize": 126,
+                                "Eggstra Charge Charm": 1.4126984126984128
                             }
                         }
                     }
@@ -9290,7 +9330,8 @@
                         "-": {
                             "-": {
                                 "Eggstra Charge Charm": 2,
-                                "SampleSize": 41
+                                "SampleSize": 42,
+                                "Eggscavator Charge Charm": 3
                             }
                         }
                     }
@@ -9302,7 +9343,8 @@
                         "-": {
                             "-": {
                                 "Eggstra Charge Charm": 1,
-                                "SampleSize": 54
+                                "SampleSize": 54,
+                                "Eggscavator Charge Charm": 3
                             }
                         }
                     }
