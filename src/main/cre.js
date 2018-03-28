@@ -18,25 +18,6 @@ function isCustom() {
 window.onload = function() {
   user = CRE_USER;
 
-  $("#instructions").click(function() {
-    var instructionString =
-      "Drag the blue 'CRE' link to your bookmarks bar if possible. If that doesn't work, try the manual steps below.\n\n";
-    instructionString +=
-      "Google Chrome:\n- Bookmark a random page and name it 'CRE'";
-    instructionString +=
-      "\n- Copy the bookmarklet code by right-clicking the 'CRE' link and selecting 'Copy link address...'";
-    instructionString +=
-      "\n- Right click the newly created bookmark and select 'Edit...'";
-    instructionString += "\n- Paste into the 'URL' field\n\n";
-    instructionString +=
-      "Firefox:\n- Right click the 'CRE' link and select 'Bookmark This Link'\n\n";
-    instructionString +=
-      "Internet Explorer:\n- Right click the 'CRE' link and select 'Add to favorites...'\n\n";
-    instructionString +=
-      "Mobile/Other Browsers:\n- Same concept as above. Processes may vary";
-    alert(instructionString);
-  });
-
   loadBookmarkletFromJS(
     BOOKMARKLET_LOADER_URL,
     "bookmarkletLoader",
@@ -359,8 +340,6 @@ function showPop(type) {
           mousePower /= 2;
         }
 
-        if (locationName === 'Mysterious Anomaly' && eff < 1) eff = 1
-
         var catchRate = calcCR(eff, trapPower, trapLuck, mousePower);
 
         if (locationName === "Zugzwang's Tower") {
@@ -561,6 +540,13 @@ function showPop(type) {
             catchRate = 1;
             minLuckValue = 0;
           }
+        }
+
+        /**
+         * Increase CR by 10% for 10th Anniversary traps
+         */
+        if (weaponName.startsWith("Anniversary")) {
+          catchRate += (1 - catchRate) / 10;
         }
 
         minLuckOverall = Math.max(minLuckValue, minLuckOverall);

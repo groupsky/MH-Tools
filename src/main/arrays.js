@@ -328,8 +328,7 @@ var baselineAttArray = {
   "Vengeful Vanilla Stilton": 0.9891, // Sample: 678 (Medium)
   "White Cheddar": 0.5842, // Sample: 505 (Medium)
   "Wicked Gnarly": 0.9870, // Sample: 1116 (High)
-  "Windy": 0.9992, // Sample: 14793 (Very High)
-  "Rewind Raclette": 1,
+  "Windy": 0.9992 // Sample: 14793 (Very High)
 };
 
 /* Its okay using strings as keys here, JS will convert it */
@@ -1613,35 +1612,13 @@ var tourneysArray = {
     "Mousevina von Vermin": 10,
     "Titanic Brain-Taker": 20,
     "Lycan": 50
-  },
-  "Event: 10th Year Birthday Bash!": {
-    "Force Fighter Blue": 3,
-    "Force Fighter Yellow": 3,
-    "Force Fighter Red": 3,
-    "Force Fighter Pink": 3,
-    "Force Fighter Green": 3,
-    "Sleepwalker": 8,
-    "Buckethead": 8,
-    "Cupcake Cutie": 9,
-    "Cupcake Runner": 9,
-    "Present": 10,
-    "Super FighterBot MegaSupreme": 10,
-    "Cupcake Candle Thief": 10,
-    "Cupcake Camo": 10,
-    "Sprinkly Sweet Cupcake Cook": 10,
-    "Terrible Twos": 12,
-    "Dinosuit": 14,
-    "Birthday": 15,
-    "El Flamenco": 15,
-    "Time Punk": 20,
-    "Time Tailor": 20,
-    "Time Thief": 30
   }
 };
 
 // Power, power bonus (%), attraction bonus (%), luck, cheese effect
 // prettier-ignore
 var basesArray = {
+  "10 Layer Birthday Cake Base" : [300, 10, 10, 10, "No Effect"],
   "2017 New Year's Base" : [200, 7, 0, 10, "Fresh"],
   "2018 New Year's Base" : [200, 7, 0, 10, "Fresh"],
   "Aqua Base": [230, 0, 0, 8, "No Effect"],
@@ -1731,6 +1708,11 @@ var weaponsArray = {
   "Ancient Box Trap": ["Forgotten", 4300, 10, 0, 4, "No Effect"],
   "Ancient Gauntlet": ["Physical", 1050, 4, 20, 4, "Extremely Fresh"],
   "Ancient Spear Gun": ["Hydro", 3600, 5, 10, 12, "Fresh"],
+  "Anniversary Ambush": ["Tactical", 3000, 5, 0, 25, "No Effect"],
+  "Anniversary Ancient Box Trap": ["Forgotten", 4300, 10, 0, 10, "No Effect"],
+  "Anniversary Arcane Capturing Rod Of Never Yielding Mystery": ["Arcane", 3800, 12, 0, 25, "Insanely Stale"],
+  "Anniversary DeathBot": ["Physical", 2400, 15, 10, 25, "Stale"],
+  "Anniversary Reaper's Perch": ["Shadow", 3300, 10, 5, 25, "Stale"],
   "Arcane Blast Trap": ["Arcane", 3400, 8, 0, 20, "Insanely Fresh"],
   "Arcane Capturing Rod Of Never Yielding Mystery": ["Arcane", 3800, 12, 0, 18, "Insanely Stale"],
   "Bandit Deflector": ["Law", 1500, 11, 0, 0, "No Effect"],
@@ -1955,7 +1937,7 @@ var charmsArray = {
   "Flamebane Charm": [0, 0, 0, 0, "No Effect"],
   "Forgotten Charm": [0, 0, 0, 0, "No Effect"],
   "Freshness Charm": [0, 0, 0, 0, "Very Fresh"],
-  "Gargantua Guarantee Charm": [250, 5, 0, 0, "No Effect"],
+  "Gargantua Charm": [250, 5, 0, 0, "No Effect"],
   "Gemstone Boost Charm": [0, 0, 0, 0, "No Effect"],
   "Gift Wrapped Charm": [0, 0, 0, 2, "No Effect"],
   "Gilded Charm": [360, 3, 20, 3, "Extremely Fresh"],
@@ -1970,6 +1952,7 @@ var charmsArray = {
   "Grubling Chow Charm": [0, 0, 0, 0, "No Effect"],
   "Haunted Ultimate Luck Charm": [0, 0, 0, 20, "No Effect"],
   "Horsepower Charm": [0, 0, 0, 0, "No Effect"],
+  "Hunter's Horn Rewind Charm": [0, 0, 0, 0, "No Effect"],
   "Hydro Charm": [0, 0, 0, 0, "No Effect"],
   "Lantern Oil Charm": [200, 2, 2, 1, "Fresh"],
   "Let It Snow Charm": [0, 0, 0, 5, "No Effect"],
@@ -2576,7 +2559,7 @@ var powersArray = {
   "Mummy": 	[4015, 100, 0, 100, 0, 0, 25, 200, 25, 0, 0],
   "Ravenous Zombie": 	[4590, 100, 0, 100, 0, 0, 25, 200, 25, 0, 0],
   "Vampire": 	[6885, 100, 0, 100, 0, 0, 25, 200, 25, 0, 0],
-  "Lycan": 	[7500, 100, 0, 100, 0, 0, 25, 200, 25, 0, 0],
+  "Lycan": 	[9235, 100, 0, 100, 0, 0, 25, 200, 25, 0, 0],
   "Mystic Pawn": 	[1800, 0, 0, 0, 0, 0, 0, 0, 100, 0, 0],
   "Technic Pawn": 	[1800, 0, 0, 0, 0, 0, 0, 0, 100, 0, 0],
   "Mystic Knight": 	[8596, 0, 0, 0, 0, 0, 0, 0, 100, 0, 0],
@@ -2939,7 +2922,7 @@ var powersArray = {
   "Clockwork Timespinner" : [2300, 0, 0, 0, 0, 0, 0, 0, 0, 0, 100],
   "Dread Knight" : [2450, 0, 0, 0, 0, 0, 0, 0, 0, 0, 100],
   "Harbinger of Death" : [4590, 0, 0, 0, 0, 0, 0, 0, 0, 0, 216], // low-med confidence
-  "Absolute Acolyte" : [2160*7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 700], // low-med confidence
+  "Absolute Acolyte" : [2160*25, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2500], // low-med confidence
   "Timelost Thaumaturge" : [2350*2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 200], // medium confidence
   "Vigilant Ward" : [2500*2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 200], // med-high confidence
   "Carrion Medium" : [8400, 0, 0, 0, 0, 0, 0, 0, 0, 0, 315], // low-med confidence
@@ -2947,7 +2930,7 @@ var powersArray = {
   "Timeless Lich" : [9500, 0, 0, 0, 0, 0, 0, 0, 0, 0, 300], // low-med confidence
   "Timeslither Pythoness" : [4400*2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 200], // medium confidence
   "Portal Paladin" : [8000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 100],
-  "Portal Pursuer" : [10000*0.75, 0, 0, 0, 0, 0, 0, 0, 0, 0, 75], // low confidence
+  "Portal Pursuer" : [5000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 50], // low confidence
   // Moussu Picchu
   "Breeze Borrower": [3500, 100, 100, 0, 0, 0, 0, 100, 0, 0, 0],
   "Cloud Collector": [2400, 100, 100, 0, 0, 0, 0, 100, 0, 0, 0],
@@ -2971,41 +2954,17 @@ var powersArray = {
   "Violet Stormchild": [2000, 0, 100, 0, 0, 0, 0, 0, 0, 0, 0], // unconfirmed power
   "Thunderlord": [4500*3, 0, 300, 0, 0, 0, 0, 0, 0, 0, 0], // low-med confidence
   "Thundering Watcher": [5500*3, 0, 300, 0, 0, 0, 0, 0, 0, 0, 0], // low-med confidence
-  "Dragoon": [9600*2, 0, 200, 0, 0, 0, 0, 0, 0, 0, 0], // low-med confidence
+  "Dragoon": [9600*4, 0, 400, 0, 0, 0, 0, 0, 0, 0, 0], // low-med confidence
   "Ful'Mina, The Mountain Queen": [260000, 0, 3000, 0, 0, 0, 0, 0, 0, 0, 0], // medium confidence
   // Mountain
   "Craggy Ore": [1200, 100, 100, 100, 100, 0, 100, 100, 100, 100, 100],
   "Slope Swimmer": [1200, 100, 100, 100, 100, 0, 100, 100, 100, 100, 100],
   "Mountain": [1900, 100, 100, 100, 100, 0, 100, 100, 100, 100, 100],
-  // Event Birthday
-  "Time Thief": [4522, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100],
-  "Time Tailor": [1599, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100],
-  "Time Punk": [1117, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100],
-  "Sprinkly Sweet Cupcake Cook": [1219, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100],
-  "Reality Restitch": [609, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100],
-  "El Flamenco": [609, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100],
-  "Cupcake Runner": [609, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100],
-  "Cupcake Candle Thief": [609, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100],
-  "Para Para Dancer": [609, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100],
-  "Cupcake Cutie": [609, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100],
-  "Cupcake Camo": [609, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100],
-  "Breakdancer": [1219, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100],
-  "Dance Party": [609, 100, 100, 100, 100, 100, 100, 100, 100, 100, 100],
 };
 
 /* [Gold, Points] */
 // prettier-ignore
 var miceArray = {
-  // Event Birthday
-  "Time Thief": [10000, 10000],
-  "Time Tailor": [500, 5000],
-  "Time Punk": [250, 2500],
-  "Sprinkly Sweet Cupcake Cook": [3000, 3000],
-  "Reality Restitch": [1000, 6000],
-  "Cupcake Candle Thief": [3000, 1000],
-  "Cupcake Camo": [1000, 2500],
-  // "Dance Party": [],
-
   "Abominable Snow": [5000, 5000],
   "Bionic": [550, 300],
   "Black Widow": [10, 480],
