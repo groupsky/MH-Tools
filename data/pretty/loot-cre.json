@@ -73,6 +73,18 @@
                         }
                     }
                 }
+            },
+            "Pugilist": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Valour Egg": 0.25,
+                                "SampleSize": 4
+                            }
+                        }
+                    }
+                }
             }
         }
     },
@@ -126,6 +138,18 @@
                             "-": {
                                 "Simple Orb": 1,
                                 "SampleSize": 1918
+                            }
+                        }
+                    }
+                }
+            },
+            "Gold": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Valour Egg": 0.5,
+                                "SampleSize": 2
                             }
                         }
                     }
@@ -213,7 +237,8 @@
                         "-": {
                             "-": {
                                 "Gauntlet Potion Tier 3": 0.2887065109894165,
-                                "SampleSize": 67747
+                                "SampleSize": 24,
+                                "Valour Egg": 0.08333333333333333
                             }
                         }
                     }
@@ -285,7 +310,8 @@
                         "-": {
                             "-": {
                                 "Gauntlet Potion Tier 4": 0.1272688152212335,
-                                "SampleSize": 130134
+                                "SampleSize": 21,
+                                "Valour Egg": 0.19047619047619047
                             }
                         }
                     }
@@ -2871,8 +2897,9 @@
                         "-": {
                             "-": {
                                 "Raider-B-Gone Mouse Repellent": 0.9998897626221798,
-                                "SampleSize": 27214,
-                                "Copper Bead": 0.7800029396634085
+                                "SampleSize": 9,
+                                "Copper Bead": 0.7800029396634085,
+                                "Gnawnian Express Egg": 0.1111111111111111
                             }
                         }
                     }
@@ -2884,10 +2911,11 @@
                         "-": {
                             "-": {
                                 "Fuel Nugget": 2.4377729257641922,
-                                "SampleSize": 21068,
+                                "SampleSize": 10,
                                 "Tin Scrap": 2.3274159863299793,
                                 "Magmatic Crystal Charm": 1.5800265805961649,
-                                "Ancient Relic": 0.013670020884754129
+                                "Ancient Relic": 0.013670020884754129,
+                                "Gnawnian Express Egg": 0.1
                             }
                         }
                     }
@@ -2899,8 +2927,9 @@
                         "-": {
                             "-": {
                                 "Raider-B-Gone Mouse Repellent": 0.9999288813028945,
-                                "SampleSize": 28122,
-                                "Copper Bead": 0.7797098357158097
+                                "SampleSize": 5,
+                                "Copper Bead": 0.7797098357158097,
+                                "Gnawnian Express Egg": 0.6
                             }
                         }
                     }
@@ -2926,8 +2955,9 @@
                         "-": {
                             "-": {
                                 "Royal Supply Crate": 1.999959446032808,
-                                "SampleSize": 49317,
-                                "Iron Pellet": 1.5723584159620414
+                                "SampleSize": 19,
+                                "Iron Pellet": 1.5723584159620414,
+                                "Gnawnian Express Egg": 0.15789473684210525
                             }
                         }
                     }
@@ -2939,8 +2969,9 @@
                         "-": {
                             "-": {
                                 "Royal Supply Crate": 0.9999399840957853,
-                                "SampleSize": 66649,
-                                "Iron Pellet": 1.5558523008597278
+                                "SampleSize": 18,
+                                "Iron Pellet": 1.5558523008597278,
+                                "Gnawnian Express Egg": 0.16666666666666666
                             }
                         }
                     }
@@ -2952,7 +2983,8 @@
                         "-": {
                             "-": {
                                 "Copper Bead": 1.5765208490943883,
-                                "SampleSize": 22471
+                                "SampleSize": 10,
+                                "Gnawnian Express Egg": 0.1
                             }
                         }
                     }
@@ -2964,8 +2996,9 @@
                         "-": {
                             "-": {
                                 "Fuel Nugget": 0.9999313681754229,
-                                "SampleSize": 58282,
-                                "Tin Scrap": 1.2864006039600562
+                                "SampleSize": 19,
+                                "Tin Scrap": 1.2864006039600562,
+                                "Gnawnian Express Egg": 0.05263157894736842
                             }
                         }
                     }
@@ -2977,8 +3010,9 @@
                         "-": {
                             "-": {
                                 "Raider-B-Gone Mouse Repellent": 1,
-                                "SampleSize": 25880,
-                                "Copper Bead": 0.7863601236476043
+                                "SampleSize": 6,
+                                "Copper Bead": 0.7863601236476043,
+                                "Gnawnian Express Egg": 0.16666666666666666
                             }
                         }
                     }
@@ -2990,9 +3024,10 @@
                         "-": {
                             "-": {
                                 "Fuel Nugget": 3.570141784820684,
-                                "SampleSize": 5995,
+                                "SampleSize": 16,
                                 "Tin Scrap": 3.129608006672227,
-                                "Ancient Relic": 0.020016680567139282
+                                "Ancient Relic": 0.020016680567139282,
+                                "Gnawnian Express Egg": 0.125
                             }
                         }
                     }
@@ -3004,9 +3039,10 @@
                         "-": {
                             "-": {
                                 "Fuel Nugget": 5.807017543859649,
-                                "SampleSize": 1140,
+                                "SampleSize": 6,
                                 "Tin Scrap": 4.6535087719298245,
-                                "Ancient Relic": 0.02280701754385965
+                                "Ancient Relic": 0.02280701754385965,
+                                "Gnawnian Express Egg": 0.3333333333333333
                             }
                         }
                     }
@@ -3018,7 +3054,8 @@
                         "-": {
                             "-": {
                                 "Copper Bead": 1.5813536147667064,
-                                "SampleSize": 35106
+                                "SampleSize": 18,
+                                "Gnawnian Express Egg": 0.16666666666666666
                             }
                         }
                     }
@@ -3030,7 +3067,8 @@
                         "-": {
                             "-": {
                                 "Copper Bead": 1.574026566330312,
-                                "SampleSize": 35082
+                                "SampleSize": 13,
+                                "Gnawnian Express Egg": 0.15384615384615385
                             }
                         }
                     }
@@ -3042,7 +3080,8 @@
                         "-": {
                             "-": {
                                 "Copper Bead": 1.5766958234374095,
-                                "SampleSize": 34526
+                                "SampleSize": 8,
+                                "Gnawnian Express Egg": 0.125
                             }
                         }
                     }
@@ -3054,8 +3093,9 @@
                         "-": {
                             "-": {
                                 "Raider-B-Gone Mouse Repellent": 1,
-                                "SampleSize": 26697,
-                                "Copper Bead": 0.7843577930104506
+                                "SampleSize": 4,
+                                "Copper Bead": 0.7843577930104506,
+                                "Gnawnian Express Egg": 0.25
                             }
                         }
                     }
@@ -3067,7 +3107,8 @@
                         "-": {
                             "-": {
                                 "Fool's Gold": 3.991309442437262,
-                                "SampleSize": 20482
+                                "SampleSize": 9,
+                                "Gnawnian Express Egg": 0.1111111111111111
                             }
                         }
                     }
@@ -3079,8 +3120,9 @@
                         "-": {
                             "-": {
                                 "Royal Supply Crate": 4.100662379732147,
-                                "SampleSize": 41366,
-                                "Iron Pellet": 1.572595851665619
+                                "SampleSize": 12,
+                                "Iron Pellet": 1.572595851665619,
+                                "Gnawnian Express Egg": 0.25
                             }
                         }
                     }
@@ -3092,9 +3134,10 @@
                         "-": {
                             "-": {
                                 "Dusty Coal Charm": 1.2399089458368535,
-                                "SampleSize": 85224,
+                                "SampleSize": 27,
                                 "Tin Scrap": 1.2880057260865483,
-                                "Fuel Nugget": 0.7849080071341407
+                                "Fuel Nugget": 0.7849080071341407,
+                                "Gnawnian Express Egg": 0.07407407407407407
                             }
                         }
                     }
@@ -3106,8 +3149,141 @@
                         "-": {
                             "-": {
                                 "Royal Supply Crate": 2.999799973329777,
-                                "SampleSize": 14998,
-                                "Iron Pellet": 1.5692759034537938
+                                "SampleSize": 3,
+                                "Iron Pellet": 1.5692759034537938,
+                                "Gnawnian Express Egg": 0.3333333333333333
+                            }
+                        }
+                    }
+                }
+            },
+            "Angry Train Staff": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Gnawnian Express Egg": 0.20833333333333334,
+                                "SampleSize": 24
+                            }
+                        }
+                    }
+                }
+            },
+            "Bartender": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Gnawnian Express Egg": 0.1111111111111111,
+                                "SampleSize": 9
+                            }
+                        }
+                    }
+                }
+            },
+            "Farrier": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Gnawnian Express Egg": 1,
+                                "SampleSize": 1
+                            }
+                        }
+                    }
+                }
+            },
+            "Mysterious Traveller": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Gnawnian Express Egg": 0.27586206896551724,
+                                "SampleSize": 29
+                            }
+                        }
+                    }
+                }
+            },
+            "Parlour Player": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Gnawnian Express Egg": 0.14285714285714285,
+                                "SampleSize": 7
+                            }
+                        }
+                    }
+                }
+            },
+            "Passenger": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Gnawnian Express Egg": 0.25,
+                                "SampleSize": 24
+                            }
+                        }
+                    }
+                }
+            },
+            "Photographer": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Gnawnian Express Egg": 0.13636363636363635,
+                                "SampleSize": 22
+                            }
+                        }
+                    }
+                }
+            },
+            "Stuffy Banker": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Gnawnian Express Egg": 0.3333333333333333,
+                                "SampleSize": 6
+                            }
+                        }
+                    }
+                }
+            },
+            "Train Conductor": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Gnawnian Express Egg": 0.21052631578947367,
+                                "SampleSize": 19
+                            }
+                        }
+                    }
+                }
+            },
+            "Travelling Barber": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Gnawnian Express Egg": 0.3333333333333333,
+                                "SampleSize": 21
+                            }
+                        }
+                    }
+                }
+            },
+            "Upper Class Lady": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Gnawnian Express Egg": 0.14285714285714285,
+                                "SampleSize": 7
                             }
                         }
                     }
@@ -3497,11 +3673,12 @@
                         "-": {
                             "-": {
                                 "Heating Oil": 0.3382738258183098,
-                                "SampleSize": 25571,
+                                "SampleSize": 2,
                                 "Wire Spool": 0.33408939814633765,
                                 "Frosty Metal": 0.3276367760353526,
                                 "Simple Orb": 0.15181260021117673,
-                                "Flawed Orb": 0.30057486996988775
+                                "Flawed Orb": 0.30057486996988775,
+                                "Slushy Shoreline Egg": 0.5
                             }
                         }
                     }
@@ -3537,7 +3714,8 @@
                         "-": {
                             "-": {
                                 "War Scrap": 0.4363503025117643,
-                                "SampleSize": 49089
+                                "SampleSize": 3,
+                                "Slushy Shoreline Egg": 0.3333333333333333
                             }
                         }
                     }
@@ -5114,7 +5292,8 @@
                         "-": {
                             "-": {
                                 "Nightshade": 1.4999,
-                                "SampleSize": 184045
+                                "SampleSize": 36,
+                                "Fungal Egg": 0.3055555555555556
                             }
                         }
                     }
@@ -5146,7 +5325,8 @@
                         "-": {
                             "-": {
                                 "Nightshade": 0.5505,
-                                "SampleSize": 124843
+                                "SampleSize": 23,
+                                "Fungal Egg": 0.43478260869565216
                             }
                         }
                     }
@@ -5212,7 +5392,8 @@
                         "-": {
                             "-": {
                                 "Cavern Fungus": 0.3227,
-                                "SampleSize": 112888
+                                "SampleSize": 28,
+                                "Fungal Egg": 0.32142857142857145
                             }
                         }
                     }
@@ -5224,8 +5405,9 @@
                         "-": {
                             "-": {
                                 "Cavern Fungus": 3.4965,
-                                "SampleSize": 191369,
-                                "Flawed Orb": 0.2065
+                                "SampleSize": 47,
+                                "Flawed Orb": 0.2065,
+                                "Fungal Egg": 0.23404255319148937
                             }
                         }
                     }
@@ -5237,8 +5419,9 @@
                         "-": {
                             "-": {
                                 "Cavern Fungus": 1.2774,
-                                "SampleSize": 183269,
-                                "Flawed Orb": 0.204
+                                "SampleSize": 50,
+                                "Flawed Orb": 0.204,
+                                "Fungal Egg": 0.36
                             }
                         }
                     }
@@ -5250,7 +5433,8 @@
                         "-": {
                             "-": {
                                 "Flawed Orb": 0.1399,
-                                "SampleSize": 29986
+                                "SampleSize": 11,
+                                "Fungal Egg": 0.2727272727272727
                             }
                         }
                     }
@@ -5262,7 +5446,8 @@
                         "-": {
                             "-": {
                                 "Cavern Fungus": 0.7316,
-                                "SampleSize": 195941
+                                "SampleSize": 43,
+                                "Fungal Egg": 0.37209302325581395
                             }
                         }
                     }
@@ -5274,7 +5459,8 @@
                         "-": {
                             "-": {
                                 "Cavern Fungus": 0.7311,
-                                "SampleSize": 161905
+                                "SampleSize": 41,
+                                "Fungal Egg": 0.17073170731707318
                             }
                         }
                     }
@@ -5286,7 +5472,8 @@
                         "-": {
                             "-": {
                                 "Flawed Orb": 0.1375,
-                                "SampleSize": 31458
+                                "SampleSize": 10,
+                                "Fungal Egg": 0.2
                             }
                         }
                     }
@@ -5298,7 +5485,8 @@
                         "-": {
                             "-": {
                                 "Flawed Orb": 0.133,
-                                "SampleSize": 21945
+                                "SampleSize": 7,
+                                "Fungal Egg": 0.2857142857142857
                             }
                         }
                     }
@@ -5628,8 +5816,9 @@
                         "-": {
                             "-": {
                                 "Diamond": 1,
-                                "SampleSize": 6928,
-                                "Flawed Orb": 0.5618
+                                "SampleSize": 5,
+                                "Flawed Orb": 0.5618,
+                                "Cave Gemstone Egg": 0.8
                             }
                         }
                     }
@@ -5651,7 +5840,8 @@
                         "-": {
                             "-": {
                                 "Diamond": 0.5596,
-                                "SampleSize": 32848
+                                "SampleSize": 11,
+                                "Cave Gemstone Egg": 0.45454545454545453
                             }
                         }
                     }
@@ -5673,7 +5863,8 @@
                         "-": {
                             "-": {
                                 "Diamond": 0.548,
-                                "SampleSize": 25688
+                                "SampleSize": 15,
+                                "Cave Gemstone Egg": 0.5333333333333333
                             }
                         }
                     }
@@ -5695,7 +5886,8 @@
                         "-": {
                             "-": {
                                 "Diamond": 0.5581,
-                                "SampleSize": 42513
+                                "SampleSize": 25,
+                                "Cave Gemstone Egg": 0.56
                             }
                         }
                     }
@@ -5717,9 +5909,10 @@
                         "-": {
                             "-": {
                                 "Crystal Crucible": 10,
-                                "SampleSize": 6368,
+                                "SampleSize": 20,
                                 "Ancient Relic": 0.948,
-                                "Divine Orb": 0.5766
+                                "Divine Orb": 0.5766,
+                                "Cave Diamond Egg": 1
                             }
                         }
                     }
@@ -5741,9 +5934,10 @@
                         "-": {
                             "-": {
                                 "Divine Orb": 1.5,
-                                "SampleSize": 1156,
+                                "SampleSize": 2,
                                 "Crystal Crucible": 1.9974,
-                                "Ancient Relic": 0.9438
+                                "Ancient Relic": 0.9438,
+                                "Cave Diamond Egg": 1
                             }
                         }
                     }
@@ -5765,8 +5959,9 @@
                         "-": {
                             "-": {
                                 "Crystal Crucible": 1,
-                                "SampleSize": 3835,
-                                "Ancient Relic": 0.103
+                                "SampleSize": 10,
+                                "Ancient Relic": 0.103,
+                                "Cave Diamond Egg": 1
                             }
                         }
                     }
@@ -5777,6 +5972,18 @@
                             "-": {
                                 "Crystal Crucible": 4,
                                 "SampleSize": 3835
+                            }
+                        }
+                    }
+                }
+            },
+            "Spiked Burrower": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Fungal Egg": 0.36,
+                                "SampleSize": 25
                             }
                         }
                     }
@@ -6369,7 +6576,9 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Windy Potion": 0.5
+                                "Windy Potion": 0.5,
+                                "Wind Egg": 0.04081632653061224,
+                                "SampleSize": 49
                             }
                         }
                     }
@@ -6381,7 +6590,9 @@
                         "-": {
                             "-": {
                                 "Rainy Potion": 1,
-                                "Fire Bowl Fuel": 0.25
+                                "Fire Bowl Fuel": 0.25,
+                                "Rain Egg": 0.01282051282051282,
+                                "SampleSize": 78
                             }
                         }
                     }
@@ -6394,7 +6605,9 @@
                             "-": {
                                 "Windy Potion": 1.5,
                                 "Rainy Potion": 1.5,
-                                "Fire Bowl Fuel": 2
+                                "Fire Bowl Fuel": 2,
+                                "Rain Egg": 0.1,
+                                "SampleSize": 10
                             }
                         }
                     }
@@ -6417,7 +6630,9 @@
                         "-": {
                             "-": {
                                 "Nightshade": 1.5,
-                                "Cavern Fungus": 8
+                                "Cavern Fungus": 8,
+                                "Rain Egg": 1,
+                                "SampleSize": 1
                             }
                         }
                     }
@@ -6428,7 +6643,9 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Rainy Potion": 0.5
+                                "Rainy Potion": 0.5,
+                                "Rain Egg": 0.018518518518518517,
+                                "SampleSize": 54
                             }
                         }
                     }
@@ -6451,7 +6668,9 @@
                         "-": {
                             "-": {
                                 "Windy Potion": 1,
-                                "Fire Bowl Fuel": 0.25
+                                "Fire Bowl Fuel": 0.25,
+                                "Wind Egg": 0.056818181818181816,
+                                "SampleSize": 88
                             }
                         }
                     }
@@ -6484,7 +6703,10 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Shadowvine": 0.83
+                                "Shadowvine": 0.83,
+                                "Rain Egg": 0.05172413793103448,
+                                "SampleSize": 58,
+                                "Wind Egg": 0.034482758620689655
                             }
                         }
                     }
@@ -6495,7 +6717,10 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Shadowvine": 2
+                                "Shadowvine": 2,
+                                "Rain Egg": 0.09,
+                                "SampleSize": 100,
+                                "Wind Egg": 0.03
                             }
                         }
                     }
@@ -6508,7 +6733,10 @@
                             "-": {
                                 "Shadowvine": 3.5,
                                 "Fire Bowl Fuel": 0.3,
-                                "Dragonbane Charm": 0.07
+                                "Dragonbane Charm": 0.07,
+                                "Rain Egg": 0.11428571428571428,
+                                "SampleSize": 70,
+                                "Wind Egg": 0.1
                             }
                         }
                     }
@@ -6519,7 +6747,9 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Arcanevine": 0.45
+                                "Arcanevine": 0.45,
+                                "Rain Egg": 0.041666666666666664,
+                                "SampleSize": 48
                             }
                         }
                     }
@@ -6530,7 +6760,9 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Arcanevine": 0.08
+                                "Arcanevine": 0.08,
+                                "Rain Egg": 0.09090909090909091,
+                                "SampleSize": 88
                             }
                         }
                     }
@@ -6541,7 +6773,10 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Arcanevine": 0.83
+                                "Arcanevine": 0.83,
+                                "Wind Egg": 0.07339449541284404,
+                                "SampleSize": 109,
+                                "Rain Egg": 0.06422018348623854
                             }
                         }
                     }
@@ -6552,7 +6787,10 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Arcanevine": 2
+                                "Arcanevine": 2,
+                                "Wind Egg": 0.0673076923076923,
+                                "SampleSize": 208,
+                                "Rain Egg": 0.038461538461538464
                             }
                         }
                     }
@@ -6565,7 +6803,10 @@
                             "-": {
                                 "Arcanevine": 3.5,
                                 "Fire Bowl Fuel": 0.3,
-                                "Dragonbane Charm": 0.07
+                                "Dragonbane Charm": 0.07,
+                                "Wind Egg": 0.06914893617021277,
+                                "SampleSize": 188,
+                                "Rain Egg": 0.015957446808510637
                             }
                         }
                     }
@@ -6589,7 +6830,9 @@
                         "-": {
                             "-": {
                                 "Dragonscales": 0.22,
-                                "Minerals": 0.2
+                                "Minerals": 0.2,
+                                "Wind Egg": 0.1111111111111111,
+                                "SampleSize": 9
                             }
                         }
                     }
@@ -6601,7 +6844,10 @@
                         "-": {
                             "-": {
                                 "Dragonscales": 0.375,
-                                "Minerals": 0.4
+                                "Minerals": 0.4,
+                                "Rain Egg": 0.12631578947368421,
+                                "SampleSize": 95,
+                                "Wind Egg": 0.07368421052631578
                             }
                         }
                     }
@@ -6613,7 +6859,10 @@
                         "-": {
                             "-": {
                                 "Dragonscales": 0.53,
-                                "Minerals": 0.39
+                                "Minerals": 0.39,
+                                "Rain Egg": 0.13909774436090225,
+                                "SampleSize": 266,
+                                "Wind Egg": 0.12030075187969924
                             }
                         }
                     }
@@ -6625,7 +6874,9 @@
                         "-": {
                             "-": {
                                 "Dragonscales": 2.62,
-                                "Minerals": 3.43
+                                "Minerals": 3.43,
+                                "Wind Egg": 0.25,
+                                "SampleSize": 8
                             }
                         }
                     }
@@ -6645,6 +6896,19 @@
                                 "Rainy Potion": 0.02,
                                 "Windy Potion": 0.02,
                                 "Minerals": 2.85
+                            }
+                        }
+                    }
+                }
+            },
+            "Ful'Mina, The Mountain Queen": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Rain Egg": 0.13488372093023257,
+                                "SampleSize": 645,
+                                "Wind Egg": 0.12093023255813953
                             }
                         }
                     }
@@ -9192,7 +9456,9 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Enerchi": 2
+                                "Enerchi": 2,
+                                "Enerchi Egg": 1,
+                                "SampleSize": 326
                             }
                         }
                     },
@@ -9374,7 +9640,10 @@
                         "-": {
                             "-": {
                                 "Marshmallow Monterey": 0.7575757575757576,
-                                "SampleSize": 66
+                                "SampleSize": 66,
+                                "Gnawnia Rift Egg": 0.15151515151515152,
+                                "Enlarged Rift Egg": 0.06060606060606061,
+                                "Lucky Egg": 0.015151515151515152
                             }
                         }
                     }
@@ -9386,7 +9655,8 @@
                         "-": {
                             "-": {
                                 "Marshmallow Monterey": 0.75,
-                                "SampleSize": 20
+                                "SampleSize": 20,
+                                "Gauntlet Magic Egg": 0.1
                             }
                         }
                     }
@@ -9410,7 +9680,8 @@
                         "-": {
                             "-": {
                                 "Marshmallow Monterey": 1,
-                                "SampleSize": 2
+                                "SampleSize": 2,
+                                "Assassin Egg": 1
                             }
                         }
                     }
@@ -9506,7 +9777,9 @@
                         "-": {
                             "-": {
                                 "Marshmallow Monterey": 0.8181818181818182,
-                                "SampleSize": 11
+                                "SampleSize": 11,
+                                "S. S. Huntington III Egg": 0.18181818181818182,
+                                "Lucky Egg": 0.09090909090909091
                             }
                         }
                     }
@@ -9518,7 +9791,9 @@
                         "-": {
                             "-": {
                                 "Marshmallow Monterey": 0.6388888888888888,
-                                "SampleSize": 72
+                                "SampleSize": 72,
+                                "Gnawnia Rift Egg": 0.1111111111111111,
+                                "Enlarged Rift Egg": 0.041666666666666664
                             }
                         }
                     }
@@ -9542,7 +9817,9 @@
                         "-": {
                             "-": {
                                 "Marshmallow Monterey": 0.4074074074074074,
-                                "SampleSize": 162
+                                "SampleSize": 162,
+                                "Gnawnia Egg": 0.2839506172839506,
+                                "Brown Egg": 0.2777777777777778
                             }
                         }
                     }
@@ -9566,7 +9843,8 @@
                         "-": {
                             "-": {
                                 "Marshmallow Monterey": 0.6774193548387096,
-                                "SampleSize": 31
+                                "SampleSize": 31,
+                                "S. S. Huntington III Egg": 0.0967741935483871
                             }
                         }
                     }
@@ -9614,7 +9892,8 @@
                         "-": {
                             "-": {
                                 "Marshmallow Monterey": 0.25,
-                                "SampleSize": 8
+                                "SampleSize": 8,
+                                "Whisker Woods Egg": 0.375
                             }
                         }
                     }
@@ -9650,7 +9929,8 @@
                         "-": {
                             "-": {
                                 "Marshmallow Monterey": 1,
-                                "SampleSize": 1
+                                "SampleSize": 1,
+                                "Cook Egg": 1
                             }
                         }
                     }
@@ -9686,7 +9966,8 @@
                         "-": {
                             "-": {
                                 "Marshmallow Monterey": 0.6470588235294118,
-                                "SampleSize": 17
+                                "SampleSize": 17,
+                                "Gauntlet Bard Egg": 0.058823529411764705
                             }
                         }
                     }
@@ -9710,7 +9991,8 @@
                         "-": {
                             "-": {
                                 "Marshmallow Monterey": 0.4,
-                                "SampleSize": 5
+                                "SampleSize": 5,
+                                "Crown Collector Egg": 1
                             }
                         }
                     }
@@ -9722,7 +10004,8 @@
                         "-": {
                             "-": {
                                 "Marshmallow Monterey": 0.55,
-                                "SampleSize": 20
+                                "SampleSize": 20,
+                                "Crystal Behemoth Egg": 1
                             }
                         }
                     }
@@ -9842,7 +10125,9 @@
                         "-": {
                             "-": {
                                 "Marshmallow Monterey": 0.7049180327868853,
-                                "SampleSize": 61
+                                "SampleSize": 61,
+                                "Gnawnia Rift Egg": 0.08196721311475409,
+                                "Enlarged Rift Egg": 0.08196721311475409
                             }
                         }
                     }
@@ -9890,7 +10175,8 @@
                         "-": {
                             "-": {
                                 "Marshmallow Monterey": 0.26666666666666666,
-                                "SampleSize": 75
+                                "SampleSize": 75,
+                                "Diamond Egg": 0.5066666666666667
                             }
                         }
                     }
@@ -9926,7 +10212,9 @@
                         "-": {
                             "-": {
                                 "Marshmallow Monterey": 0.9333333333333333,
-                                "SampleSize": 15
+                                "SampleSize": 15,
+                                "Gnawnia Rift Egg": 0.13333333333333333,
+                                "Enlarged Rift Egg": 0.13333333333333333
                             }
                         }
                     }
@@ -9938,7 +10226,8 @@
                         "-": {
                             "-": {
                                 "Marshmallow Monterey": 0.5897435897435898,
-                                "SampleSize": 39
+                                "SampleSize": 39,
+                                "Gauntlet Bard Egg": 0.1282051282051282
                             }
                         }
                     }
@@ -9962,7 +10251,8 @@
                         "-": {
                             "-": {
                                 "Marshmallow Monterey": 0.42857142857142855,
-                                "SampleSize": 7
+                                "SampleSize": 7,
+                                "Whisker Woods Egg": 0.2857142857142857
                             }
                         }
                     }
@@ -9974,7 +10264,8 @@
                         "-": {
                             "-": {
                                 "Marshmallow Monterey": 0.5161290322580645,
-                                "SampleSize": 93
+                                "SampleSize": 93,
+                                "Eclipse Egg": 1
                             }
                         }
                     }
@@ -10022,7 +10313,9 @@
                         "-": {
                             "-": {
                                 "Marshmallow Monterey": 0.5483870967741935,
-                                "SampleSize": 62
+                                "SampleSize": 62,
+                                "Enlarged Rift Egg": 0.08064516129032258,
+                                "Gnawnia Rift Egg": 0.08064516129032258
                             }
                         }
                     }
@@ -10058,7 +10351,9 @@
                         "-": {
                             "-": {
                                 "Marshmallow Monterey": 0.5789473684210527,
-                                "SampleSize": 19
+                                "SampleSize": 19,
+                                "Gauntlet Bard Egg": 0.10526315789473684,
+                                "Lucky Egg": 0.05263157894736842
                             }
                         }
                     }
@@ -10142,7 +10437,8 @@
                         "-": {
                             "-": {
                                 "Marshmallow Monterey": 0.6666666666666666,
-                                "SampleSize": 30
+                                "SampleSize": 30,
+                                "Haunted Egg": 0.2
                             }
                         }
                     }
@@ -10166,7 +10462,8 @@
                         "-": {
                             "-": {
                                 "Marshmallow Monterey": 0.6818181818181818,
-                                "SampleSize": 22
+                                "SampleSize": 22,
+                                "Muridae Egg": 0.18181818181818182
                             }
                         }
                     }
@@ -10214,7 +10511,9 @@
                         "-": {
                             "-": {
                                 "Marshmallow Monterey": 0.7777777777777778,
-                                "SampleSize": 18
+                                "SampleSize": 18,
+                                "Enlarged Rift Egg": 0.16666666666666666,
+                                "Gnawnia Rift Egg": 0.05555555555555555
                             }
                         }
                     }
@@ -10250,7 +10549,9 @@
                         "-": {
                             "-": {
                                 "Marshmallow Monterey": 0.37662337662337664,
-                                "SampleSize": 154
+                                "SampleSize": 154,
+                                "Gnawnia Egg": 0.3051948051948052,
+                                "Grey Egg": 0.2012987012987013
                             }
                         }
                     }
@@ -10262,7 +10563,9 @@
                         "-": {
                             "-": {
                                 "Marshmallow Monterey": 0.6987951807228916,
-                                "SampleSize": 83
+                                "SampleSize": 83,
+                                "Enlarged Rift Egg": 0.12048192771084337,
+                                "Gnawnia Rift Egg": 0.07228915662650602
                             }
                         }
                     }
@@ -10274,7 +10577,9 @@
                         "-": {
                             "-": {
                                 "Marshmallow Monterey": 0.8695652173913043,
-                                "SampleSize": 23
+                                "SampleSize": 23,
+                                "Gauntlet Bard Egg": 0.17391304347826086,
+                                "Lucky Egg": 0.043478260869565216
                             }
                         }
                     }
@@ -10334,7 +10639,8 @@
                         "-": {
                             "-": {
                                 "Marshmallow Monterey": 0.56,
-                                "SampleSize": 25
+                                "SampleSize": 25,
+                                "Hydra Egg": 0.88
                             }
                         }
                     }
@@ -10346,7 +10652,8 @@
                         "-": {
                             "-": {
                                 "Marshmallow Monterey": 0.6666666666666666,
-                                "SampleSize": 12
+                                "SampleSize": 12,
+                                "Gauntlet Magic Egg": 0.08333333333333333
                             }
                         }
                     }
@@ -10394,7 +10701,8 @@
                         "-": {
                             "-": {
                                 "Marshmallow Monterey": 1,
-                                "SampleSize": 18
+                                "SampleSize": 18,
+                                "Haunted Egg": 0.6111111111111112
                             }
                         }
                     }
@@ -10454,7 +10762,8 @@
                         "-": {
                             "-": {
                                 "Marshmallow Monterey": 1.0555555555555556,
-                                "SampleSize": 18
+                                "SampleSize": 18,
+                                "Muridae Egg": 0.05555555555555555
                             }
                         }
                     }
@@ -10502,7 +10811,8 @@
                         "-": {
                             "-": {
                                 "Marshmallow Monterey": 0.6428571428571429,
-                                "SampleSize": 28
+                                "SampleSize": 28,
+                                "Muridae Egg": 0.17857142857142858
                             }
                         }
                     }
@@ -10514,7 +10824,8 @@
                         "-": {
                             "-": {
                                 "Marshmallow Monterey": 0.7142857142857143,
-                                "SampleSize": 7
+                                "SampleSize": 7,
+                                "Mage Weaver Egg": 1
                             }
                         }
                     }
@@ -10526,7 +10837,8 @@
                         "-": {
                             "-": {
                                 "Marshmallow Monterey": 0.5454545454545454,
-                                "SampleSize": 11
+                                "SampleSize": 11,
+                                "Magic Egg": 1
                             }
                         }
                     }
@@ -10574,7 +10886,9 @@
                         "-": {
                             "-": {
                                 "Marshmallow Monterey": 0.5185185185185185,
-                                "SampleSize": 27
+                                "SampleSize": 27,
+                                "Enlarged Rift Egg": 0.14814814814814814,
+                                "Gnawnia Rift Egg": 0.07407407407407407
                             }
                         }
                     }
@@ -10586,7 +10900,9 @@
                         "-": {
                             "-": {
                                 "Marshmallow Monterey": 0.5714285714285714,
-                                "SampleSize": 14
+                                "SampleSize": 14,
+                                "Mighty Mole Egg": 1,
+                                "Enlarged Rift Egg": 0.21428571428571427
                             }
                         }
                     }
@@ -10646,7 +10962,8 @@
                         "-": {
                             "-": {
                                 "Marshmallow Monterey": 0.08333333333333333,
-                                "SampleSize": 12
+                                "SampleSize": 12,
+                                "Haunted Egg": 0.25
                             }
                         }
                     }
@@ -10706,7 +11023,8 @@
                         "-": {
                             "-": {
                                 "Marshmallow Monterey": 0.7857142857142857,
-                                "SampleSize": 14
+                                "SampleSize": 14,
+                                "Nibbler Egg": 1
                             }
                         }
                     }
@@ -10718,7 +11036,8 @@
                         "-": {
                             "-": {
                                 "Marshmallow Monterey": 1,
-                                "SampleSize": 5
+                                "SampleSize": 5,
+                                "Nightshade Egg": 0.4
                             }
                         }
                     }
@@ -10826,7 +11145,9 @@
                         "-": {
                             "-": {
                                 "Marshmallow Monterey": 0.36363636363636365,
-                                "SampleSize": 33
+                                "SampleSize": 33,
+                                "Pirate Egg": 1,
+                                "Lucky Egg": 0.030303030303030304
                             }
                         }
                     }
@@ -10874,7 +11195,8 @@
                         "-": {
                             "-": {
                                 "Marshmallow Monterey": 0.6,
-                                "SampleSize": 35
+                                "SampleSize": 35,
+                                "Enlarged Rift Egg": 0.05714285714285714
                             }
                         }
                     }
@@ -10886,7 +11208,9 @@
                         "-": {
                             "-": {
                                 "Marshmallow Monterey": 0.6341463414634146,
-                                "SampleSize": 41
+                                "SampleSize": 41,
+                                "Enlarged Rift Egg": 0.04878048780487805,
+                                "Gnawnia Rift Egg": 0.024390243902439025
                             }
                         }
                     }
@@ -10898,7 +11222,10 @@
                         "-": {
                             "-": {
                                 "Marshmallow Monterey": 0.6341463414634146,
-                                "SampleSize": 82
+                                "SampleSize": 82,
+                                "Enlarged Rift Egg": 0.10975609756097561,
+                                "Gnawnia Rift Egg": 0.06097560975609756,
+                                "Lucky Egg": 0.012195121951219513
                             }
                         }
                     }
@@ -10958,7 +11285,8 @@
                         "-": {
                             "-": {
                                 "Marshmallow Monterey": 0.7692307692307693,
-                                "SampleSize": 13
+                                "SampleSize": 13,
+                                "Scavenger Egg": 0.3076923076923077
                             }
                         }
                     }
@@ -10982,7 +11310,10 @@
                         "-": {
                             "-": {
                                 "Marshmallow Monterey": 0.75,
-                                "SampleSize": 60
+                                "SampleSize": 60,
+                                "Enlarged Rift Egg": 0.08333333333333333,
+                                "Gnawnia Rift Egg": 0.05,
+                                "Lucky Egg": 0.016666666666666666
                             }
                         }
                     }
@@ -11114,7 +11445,10 @@
                         "-": {
                             "-": {
                                 "Marshmallow Monterey": 0.8313253012048193,
-                                "SampleSize": 83
+                                "SampleSize": 83,
+                                "Enlarged Rift Egg": 0.12048192771084337,
+                                "Gnawnia Rift Egg": 0.024096385542168676,
+                                "Lucky Egg": 0.012048192771084338
                             }
                         }
                     }
@@ -11162,7 +11496,8 @@
                         "-": {
                             "-": {
                                 "Marshmallow Monterey": 0.875,
-                                "SampleSize": 8
+                                "SampleSize": 8,
+                                "S. S. Huntington III Egg": 0.625
                             }
                         }
                     }
@@ -11222,7 +11557,8 @@
                         "-": {
                             "-": {
                                 "Marshmallow Monterey": 0.7,
-                                "SampleSize": 10
+                                "SampleSize": 10,
+                                "Dojo Student Egg": 0.2
                             }
                         }
                     }
@@ -11234,7 +11570,9 @@
                         "-": {
                             "-": {
                                 "Marshmallow Monterey": 0.7272727272727273,
-                                "SampleSize": 11
+                                "SampleSize": 11,
+                                "Dojo Student Egg": 0.45454545454545453,
+                                "Lucky Egg": 0.09090909090909091
                             }
                         }
                     }
@@ -11246,7 +11584,8 @@
                         "-": {
                             "-": {
                                 "Marshmallow Monterey": 0.8888888888888888,
-                                "SampleSize": 18
+                                "SampleSize": 18,
+                                "Dojo Student Egg": 0.5
                             }
                         }
                     }
@@ -11270,7 +11609,10 @@
                         "-": {
                             "-": {
                                 "Marshmallow Monterey": 0.6875,
-                                "SampleSize": 64
+                                "SampleSize": 64,
+                                "Gnawnia Rift Egg": 0.09375,
+                                "Enlarged Rift Egg": 0.078125,
+                                "Lucky Egg": 0.046875
                             }
                         }
                     }
@@ -11306,7 +11648,8 @@
                         "-": {
                             "-": {
                                 "Marshmallow Monterey": 0.3181818181818182,
-                                "SampleSize": 22
+                                "SampleSize": 22,
+                                "Gauntlet Magic Egg": 0.09090909090909091
                             }
                         }
                     }
@@ -11366,7 +11709,8 @@
                         "-": {
                             "-": {
                                 "Marshmallow Monterey": 0.9,
-                                "SampleSize": 10
+                                "SampleSize": 10,
+                                "Haunted Egg": 0.4
                             }
                         }
                     }
@@ -11390,7 +11734,9 @@
                         "-": {
                             "-": {
                                 "Marshmallow Monterey": 0.46153846153846156,
-                                "SampleSize": 39
+                                "SampleSize": 39,
+                                "Enlarged Rift Egg": 0.10256410256410256,
+                                "Lucky Egg": 0.02564102564102564
                             }
                         }
                     }
@@ -11402,7 +11748,10 @@
                         "-": {
                             "-": {
                                 "Marshmallow Monterey": 0.4497354497354497,
-                                "SampleSize": 189
+                                "SampleSize": 189,
+                                "White Egg": 0.24338624338624337,
+                                "Gnawnia Egg": 0.2222222222222222,
+                                "Lucky Egg": 0.015873015873015872
                             }
                         }
                     }
@@ -11462,7 +11811,8 @@
                         "-": {
                             "-": {
                                 "Marshmallow Monterey": 0.4375,
-                                "SampleSize": 16
+                                "SampleSize": 16,
+                                "Gauntlet Magic Egg": 0.0625
                             }
                         }
                     }
@@ -11487,6 +11837,2295 @@
                             "-": {
                                 "Marshmallow Monterey": 1,
                                 "SampleSize": 1
+                            }
+                        }
+                    }
+                }
+            },
+            "Abominable Snow": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Abominable Snow Egg": 1,
+                                "SampleSize": 66,
+                                "Lucky Egg": 0.015151515151515152
+                            }
+                        }
+                    }
+                }
+            },
+            "Absolute Acolyte": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Absolute Acolyte Egg": 1,
+                                "SampleSize": 29,
+                                "Bristle Woods Rift Egg": 0.1724137931034483,
+                                "Lucky Egg": 0.034482758620689655
+                            }
+                        }
+                    }
+                }
+            },
+            "Acolyte": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Acolyte Egg": 1,
+                                "SampleSize": 5
+                            }
+                        }
+                    }
+                }
+            },
+            "Aether": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Aether Egg": 1,
+                                "SampleSize": 2
+                            }
+                        }
+                    }
+                }
+            },
+            "Ascended Elder": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Ascended Elder Egg": 1,
+                                "SampleSize": 51
+                            }
+                        }
+                    }
+                }
+            },
+            "Big Bad Burroughs": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Big Bad Burroughs Egg": 1,
+                                "SampleSize": 2
+                            }
+                        }
+                    }
+                }
+            },
+            "Black Widow": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Black Widow Egg": 1,
+                                "SampleSize": 5
+                            }
+                        }
+                    }
+                }
+            },
+            "Burglar": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Burglar Egg": 0.6,
+                                "SampleSize": 10
+                            }
+                        }
+                    }
+                }
+            },
+            "Chamber Cleaver": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Chamber Cleaver Egg": 1,
+                                "SampleSize": 58,
+                                "Bristle Woods Rift Egg": 0.1206896551724138
+                            }
+                        }
+                    }
+                }
+            },
+            "Cherry": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Cherry Egg": 1,
+                                "SampleSize": 1
+                            }
+                        }
+                    }
+                }
+            },
+            "Cherry Sprite": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Cherry Sprite Egg": 1,
+                                "SampleSize": 4
+                            }
+                        }
+                    }
+                }
+            },
+            "Chrono": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Chrono Egg": 1,
+                                "SampleSize": 2
+                            }
+                        }
+                    }
+                }
+            },
+            "Hazmat": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Clean Egg": 1,
+                                "SampleSize": 1
+                            }
+                        }
+                    }
+                }
+            },
+            "Corrupt": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Corrupt Egg": 0.5714285714285714,
+                                "SampleSize": 7
+                            }
+                        }
+                    }
+                }
+            },
+            "Crate Camo": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Crate Egg": 0.2631578947368421,
+                                "SampleSize": 19
+                            }
+                        }
+                    }
+                }
+            },
+            "Cute Crate Carrier": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Crate Egg": 0.4444444444444444,
+                                "SampleSize": 18
+                            }
+                        }
+                    }
+                }
+            },
+            "Captain Croissant": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Croissant Egg": 1,
+                                "SampleSize": 8
+                            }
+                        }
+                    }
+                }
+            },
+            "Cursed Librarian": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Cursed Librarian Egg": 0.16666666666666666,
+                                "SampleSize": 6,
+                                "Lucky Egg": 0.16666666666666666
+                            }
+                        }
+                    }
+                }
+            },
+            "Decrepit Tentacle Terror": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Decrepit Tentacle Egg": 1,
+                                "SampleSize": 27
+                            }
+                        }
+                    }
+                }
+            },
+            "Deep": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Deep Egg": 1,
+                                "SampleSize": 8
+                            }
+                        }
+                    }
+                }
+            },
+            "Desert Nomad": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Desert Nomad Egg": 1,
+                                "SampleSize": 2
+                            }
+                        }
+                    }
+                }
+            },
+            "Dragon": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Dragon Egg": 1,
+                                "SampleSize": 11
+                            }
+                        }
+                    }
+                }
+            },
+            "General Drheller": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Icewing's Generals Egg": 1,
+                                "SampleSize": 2,
+                                "Drheller Egg": 1
+                            }
+                        }
+                    }
+                }
+            },
+            "Essence Guardian": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Essence Guardian Egg": 1,
+                                "SampleSize": 2
+                            }
+                        }
+                    }
+                }
+            },
+            "Ethereal Librarian": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Ethereal Librarian Egg": 0.5,
+                                "SampleSize": 6
+                            }
+                        }
+                    }
+                }
+            },
+            "Fog": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Fog Egg": 1,
+                                "SampleSize": 4
+                            }
+                        }
+                    }
+                }
+            },
+            "Ful'Mina, The Mountain Queen": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Ful'Mina Egg": 0.12558139534883722,
+                                "SampleSize": 645,
+                                "Lucky Egg": 0.010852713178294573
+                            }
+                        }
+                    }
+                }
+            },
+            "Gargantuamouse": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Gargantua Egg": 1,
+                                "SampleSize": 6,
+                                "Lucky Egg": 0.16666666666666666
+                            }
+                        }
+                    }
+                }
+            },
+            "Gilded Leaf": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Gilded Leaf Egg": 1,
+                                "SampleSize": 5,
+                                "Enlarged Rift Egg": 0.2
+                            }
+                        }
+                    }
+                }
+            },
+            "Grand Master of the Dojo": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Grand Master of the Dojo Egg": 0.2826086956521739,
+                                "SampleSize": 184,
+                                "Lucky Egg": 0.005434782608695652
+                            }
+                        }
+                    }
+                }
+            },
+            "Grizzled Silth": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Grizzled Silth Egg": 1,
+                                "SampleSize": 1
+                            }
+                        }
+                    }
+                }
+            },
+            "Icewing": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Icewing Egg": 1,
+                                "SampleSize": 7,
+                                "Lucky Egg": 0.14285714285714285
+                            }
+                        }
+                    }
+                }
+            },
+            "Princess Fist": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Icewing's Generals Egg": 1,
+                                "SampleSize": 4
+                            }
+                        }
+                    }
+                }
+            },
+            "Lord Splodington": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Icewing's Generals Egg": 1,
+                                "SampleSize": 6
+                            }
+                        }
+                    }
+                }
+            },
+            "Lich": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Lich Egg": 1,
+                                "SampleSize": 13
+                            }
+                        }
+                    }
+                }
+            },
+            "Living Salt": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Living Salt Egg": 1,
+                                "SampleSize": 35
+                            }
+                        }
+                    }
+                }
+            },
+            "M400": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "M400 Egg": 1,
+                                "SampleSize": 13
+                            }
+                        }
+                    }
+                }
+            },
+            "Magmatic Golem": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Magmatic Golem Egg": 1,
+                                "SampleSize": 6
+                            }
+                        }
+                    }
+                }
+            },
+            "Master of the Dojo": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Furoma Egg": 0.25,
+                                "SampleSize": 36,
+                                "Master of the Dojo Egg": 0.08333333333333333,
+                                "Lucky Egg": 0.027777777777777776
+                            }
+                        }
+                    }
+                }
+            },
+            "Monster": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Monster Egg": 1,
+                                "SampleSize": 8
+                            }
+                        }
+                    }
+                }
+            },
+            "Monster of the Meteor": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Monster of the Meteor Egg": 0.6274509803921569,
+                                "SampleSize": 51,
+                                "Dawn Egg": 0.19607843137254902
+                            }
+                        }
+                    }
+                }
+            },
+            "Mutant Mongrel": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Mutant Mongrel Egg": 1,
+                                "SampleSize": 2
+                            }
+                        }
+                    }
+                }
+            },
+            "Mystic King": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Mystic King Egg": 1,
+                                "SampleSize": 4,
+                                "Lucky Egg": 0.25
+                            }
+                        }
+                    }
+                }
+            },
+            "Naturalist": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Naturalist Egg": 1,
+                                "SampleSize": 3
+                            }
+                        }
+                    }
+                }
+            },
+            "Menace of the Rift": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Null Rift Egg": 1,
+                                "SampleSize": 16,
+                                "Rift Mist Egg": 0.125
+                            }
+                        }
+                    }
+                }
+            },
+            "Barmy Gunner": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Pirate Crew Egg": 0.5,
+                                "SampleSize": 2
+                            }
+                        }
+                    }
+                }
+            },
+            "Bilged Boatswain": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Pirate Crew Egg": 0.4,
+                                "SampleSize": 5,
+                                "Lucky Egg": 0.2
+                            }
+                        }
+                    }
+                }
+            },
+            "Cabin Boy": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Pirate Crew Egg": 0.5,
+                                "SampleSize": 4
+                            }
+                        }
+                    }
+                }
+            },
+            "Corrupt Commodore": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Pirate Crew Egg": 0.75,
+                                "SampleSize": 4
+                            }
+                        }
+                    }
+                }
+            },
+            "Dashing Buccaneer": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Pirate Crew Egg": 0.75,
+                                "SampleSize": 8
+                            }
+                        }
+                    }
+                }
+            },
+            "Pocketwatch": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Pocketwatch Egg": 0.16666666666666666,
+                                "SampleSize": 18
+                            }
+                        }
+                    }
+                }
+            },
+            "Swarm of Pygmy Mice": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Pygmy Swarm Egg": 0.8571428571428571,
+                                "SampleSize": 7
+                            }
+                        }
+                    }
+                }
+            },
+            "Quesodillo": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Quesodillo Egg": 1,
+                                "SampleSize": 1
+                            }
+                        }
+                    }
+                }
+            },
+            "Realm Ripper": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Realm Ripper Egg": 1,
+                                "SampleSize": 20
+                            }
+                        }
+                    }
+                }
+            },
+            "Count Vampire": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Rift Fang Egg": 1,
+                                "SampleSize": 6,
+                                "Rift Mist Egg": 0.3333333333333333
+                            }
+                        }
+                    }
+                }
+            },
+            "Monstrous Black Widow": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Rift Venom Egg": 1,
+                                "SampleSize": 84,
+                                "Enlarged Rift Egg": 0.05952380952380952
+                            }
+                        }
+                    }
+                }
+            },
+            "Sarcophamouse": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Sarcophamouse Egg": 0.15789473684210525,
+                                "SampleSize": 19
+                            }
+                        }
+                    }
+                }
+            },
+            "Sharpshooter": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Sharpshooter Egg": 1,
+                                "SampleSize": 13
+                            }
+                        }
+                    }
+                }
+            },
+            "Shattered Carmine": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Shattered Egg": 1,
+                                "SampleSize": 3
+                            }
+                        }
+                    }
+                }
+            },
+            "Dark Magi": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Shattered Egg": 1,
+                                "SampleSize": 6
+                            }
+                        }
+                    }
+                }
+            },
+            "King Scarab": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Shattered Egg": 1,
+                                "SampleSize": 6
+                            }
+                        }
+                    }
+                }
+            },
+            "Shelder": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Shelder Egg": 1,
+                                "SampleSize": 1
+                            }
+                        }
+                    }
+                }
+            },
+            "Silth": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Silth Egg": 1,
+                                "SampleSize": 4
+                            }
+                        }
+                    }
+                }
+            },
+            "Spud": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Spud Egg": 0.2222222222222222,
+                                "SampleSize": 18,
+                                "Gnawnia Egg": 0.16666666666666666
+                            }
+                        }
+                    }
+                }
+            },
+            "Technic King": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Technic King Egg": 1,
+                                "SampleSize": 4
+                            }
+                        }
+                    }
+                }
+            },
+            "Thistle": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Living Garden Egg": 0.625,
+                                "SampleSize": 8,
+                                "Thistle Egg": 0.375
+                            }
+                        }
+                    }
+                }
+            },
+            "Thunderlord": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Thunder Egg": 1,
+                                "SampleSize": 95
+                            }
+                        }
+                    }
+                }
+            },
+            "Tiny": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Tiny Egg": 1,
+                                "SampleSize": 20,
+                                "Lucky Egg": 0.05
+                            }
+                        }
+                    }
+                }
+            },
+            "Tritus": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Tritus Egg": 1,
+                                "SampleSize": 8
+                            }
+                        }
+                    }
+                }
+            },
+            "Twisted Lilly": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Twisted Lilly Egg": 1,
+                                "SampleSize": 1
+                            }
+                        }
+                    }
+                }
+            },
+            "Molten Midas": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Unstable Crystal Egg": 1,
+                                "SampleSize": 62,
+                                "Lucky Egg": 0.016129032258064516
+                            }
+                        }
+                    }
+                }
+            },
+            "Bounty Hunter": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Wanted Poster Egg": 1,
+                                "SampleSize": 11
+                            }
+                        }
+                    }
+                }
+            },
+            "Warmonger": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Warmonger Egg": 0.8333333333333334,
+                                "SampleSize": 12
+                            }
+                        }
+                    }
+                }
+            },
+            "Derr Lich": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Cove Egg": 1,
+                                "SampleSize": 15
+                            }
+                        }
+                    }
+                }
+            },
+            "Elub Lich": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Cove Egg": 1,
+                                "SampleSize": 9
+                            }
+                        }
+                    }
+                }
+            },
+            "Nerg Lich": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Cove Egg": 1,
+                                "SampleSize": 4
+                            }
+                        }
+                    }
+                }
+            },
+            "Effervescent": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Crystal Library Egg": 0.375,
+                                "SampleSize": 24
+                            }
+                        }
+                    }
+                }
+            },
+            "Flutterby": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Crystal Library Egg": 0.3888888888888889,
+                                "SampleSize": 18
+                            }
+                        }
+                    }
+                }
+            },
+            "Infiltrator": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Crystal Library Egg": 0.375,
+                                "SampleSize": 16
+                            }
+                        }
+                    }
+                }
+            },
+            "Dawn Guardian": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Dawn Egg": 0.24528301886792453,
+                                "SampleSize": 53,
+                                "Lucky Egg": 0.018867924528301886
+                            }
+                        }
+                    }
+                }
+            },
+            "Hardworking Hauler": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Day Egg": 0.1111111111111111,
+                                "SampleSize": 9
+                            }
+                        }
+                    }
+                }
+            },
+            "Meteorite Miner": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Day Egg": 0.16666666666666666,
+                                "SampleSize": 12
+                            }
+                        }
+                    }
+                }
+            },
+            "Mining Materials Manager": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Day Egg": 0.2,
+                                "SampleSize": 5
+                            }
+                        }
+                    }
+                }
+            },
+            "Mischievous Meteorite Miner": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Day Egg": 0.26666666666666666,
+                                "SampleSize": 15
+                            }
+                        }
+                    }
+                }
+            },
+            "Derr Chieftain": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Derr Egg": 1,
+                                "SampleSize": 4
+                            }
+                        }
+                    }
+                }
+            },
+            "Renegade": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Derr Egg": 0.5714285714285714,
+                                "SampleSize": 7
+                            }
+                        }
+                    }
+                }
+            },
+            "Elub Chieftain": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Elub Egg": 1,
+                                "SampleSize": 1
+                            }
+                        }
+                    }
+                }
+            },
+            "Vanquisher": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Elub Egg": 0.6666666666666666,
+                                "SampleSize": 3
+                            }
+                        }
+                    }
+                }
+            },
+            "Conqueror": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Nerg Egg": 1,
+                                "SampleSize": 5
+                            }
+                        }
+                    }
+                }
+            },
+            "Nerg Chieftain": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Nerg Egg": 1,
+                                "SampleSize": 1
+                            }
+                        }
+                    }
+                }
+            },
+            "Dojo Sensei": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Furoma Egg": 0.4,
+                                "SampleSize": 5
+                            }
+                        }
+                    }
+                }
+            },
+            "Ravenous Zombie": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Haunted Egg": 0.4,
+                                "SampleSize": 5
+                            }
+                        }
+                    }
+                }
+            },
+            "Iceblock": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Iceberg Egg": 0.7272727272727273,
+                                "SampleSize": 11,
+                                "Lucky Egg": 0.09090909090909091
+                            }
+                        }
+                    }
+                }
+            },
+            "Polar Bear": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Iceberg Egg": 0.2,
+                                "SampleSize": 10
+                            }
+                        }
+                    }
+                }
+            },
+            "Snowblind": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Iceberg Egg": 0.2857142857142857,
+                                "SampleSize": 7
+                            }
+                        }
+                    }
+                }
+            },
+            "Wolfskie": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Iceberg Egg": 0.1111111111111111,
+                                "SampleSize": 9
+                            }
+                        }
+                    }
+                }
+            },
+            "Chitinous": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Jungle of Dread Egg": 1,
+                                "SampleSize": 2
+                            }
+                        }
+                    }
+                }
+            },
+            "Fetid Swamp": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Jungle of Dread Egg": 1,
+                                "SampleSize": 2
+                            }
+                        }
+                    }
+                }
+            },
+            "Jurassic": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Jungle of Dread Egg": 1,
+                                "SampleSize": 1
+                            }
+                        }
+                    }
+                }
+            },
+            "Magma Carrier": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Jungle of Dread Egg": 1,
+                                "SampleSize": 3
+                            }
+                        }
+                    }
+                }
+            },
+            "Primal": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Jungle of Dread Egg": 1,
+                                "SampleSize": 2
+                            }
+                        }
+                    }
+                }
+            },
+            "Stonework Warrior": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Jungle of Dread Egg": 1,
+                                "SampleSize": 4
+                            }
+                        }
+                    }
+                }
+            },
+            "Barkshell": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Living Garden Egg": 1,
+                                "SampleSize": 1
+                            }
+                        }
+                    }
+                }
+            },
+            "Cursed Thief": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Living Garden Egg": 0.875,
+                                "SampleSize": 8
+                            }
+                        }
+                    }
+                }
+            },
+            "Ethereal Engineer": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Living Garden Egg": 0.6666666666666666,
+                                "SampleSize": 6
+                            }
+                        }
+                    }
+                }
+            },
+            "Serpentine": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Living Garden Egg": 0.6666666666666666,
+                                "SampleSize": 21
+                            }
+                        }
+                    }
+                }
+            },
+            "Spiky Devil": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Living Garden Egg": 1,
+                                "SampleSize": 5
+                            }
+                        }
+                    }
+                }
+            },
+            "Alpha Weremouse": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Night Egg": 0.15789473684210525,
+                                "SampleSize": 38,
+                                "Lucky Egg": 0.02631578947368421
+                            }
+                        }
+                    }
+                }
+            },
+            "Arcane Summoner": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Night Egg": 0.2857142857142857,
+                                "SampleSize": 7
+                            }
+                        }
+                    }
+                }
+            },
+            "Cursed Taskmaster": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Night Egg": 0.2857142857142857,
+                                "SampleSize": 14
+                            }
+                        }
+                    }
+                }
+            },
+            "Hypnotized Gunslinger": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Night Egg": 0.10526315789473684,
+                                "SampleSize": 19
+                            }
+                        }
+                    }
+                }
+            },
+            "Meteorite Golem": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Night Egg": 0.2222222222222222,
+                                "SampleSize": 9
+                            }
+                        }
+                    }
+                }
+            },
+            "Meteorite Mystic": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Night Egg": 0.625,
+                                "SampleSize": 8
+                            }
+                        }
+                    }
+                }
+            },
+            "Mischievous Wereminer": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Night Egg": 0.23529411764705882,
+                                "SampleSize": 34
+                            }
+                        }
+                    }
+                }
+            },
+            "Night Shift Materials Manager": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Night Egg": 0.1,
+                                "SampleSize": 10
+                            }
+                        }
+                    }
+                }
+            },
+            "Night Watcher": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Night Egg": 0.26666666666666666,
+                                "SampleSize": 15
+                            }
+                        }
+                    }
+                }
+            },
+            "Nightfire": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Night Egg": 0.15789473684210525,
+                                "SampleSize": 19
+                            }
+                        }
+                    }
+                }
+            },
+            "Nightmancer": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Night Egg": 0.3181818181818182,
+                                "SampleSize": 22
+                            }
+                        }
+                    }
+                }
+            },
+            "Reveling Lycanthrope": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Night Egg": 0.2857142857142857,
+                                "SampleSize": 21
+                            }
+                        }
+                    }
+                }
+            },
+            "Wealthy Werewarrior": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Night Egg": 0.4444444444444444,
+                                "SampleSize": 9
+                            }
+                        }
+                    }
+                }
+            },
+            "Werehauler": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Night Egg": 0.2553191489361702,
+                                "SampleSize": 47
+                            }
+                        }
+                    }
+                }
+            },
+            "Wereminer": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Night Egg": 0.25925925925925924,
+                                "SampleSize": 27
+                            }
+                        }
+                    }
+                }
+            },
+            "Harvest Harrier": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Seasonal Garden Egg": 0.2727272727272727,
+                                "SampleSize": 11
+                            }
+                        }
+                    }
+                }
+            },
+            "Stinger": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Seasonal Garden Egg": 0.25,
+                                "SampleSize": 36,
+                                "Lucky Egg": 0.027777777777777776
+                            }
+                        }
+                    }
+                }
+            },
+            "Crimson Commander": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Warpath Egg": 0.7142857142857143,
+                                "SampleSize": 7
+                            }
+                        }
+                    }
+                }
+            },
+            "Sand Cavalry": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Warpath Egg": 0.5185185185185185,
+                                "SampleSize": 27
+                            }
+                        }
+                    }
+                }
+            },
+            "Sandwing Cavalry": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Warpath Egg": 0.5769230769230769,
+                                "SampleSize": 26
+                            }
+                        }
+                    }
+                }
+            },
+            "Mystic Rook": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Zugzwang's Egg": 0.2692307692307692,
+                                "SampleSize": 26
+                            }
+                        }
+                    }
+                }
+            },
+            "Technic Rook": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Zugzwang's Egg": 0.3076923076923077,
+                                "SampleSize": 13
+                            }
+                        }
+                    }
+                }
+            },
+            "Amplified Brown": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Rift Mist Egg": 0.25,
+                                "SampleSize": 4
+                            }
+                        }
+                    }
+                }
+            },
+            "Assassin Beast": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Rift Mist Egg": 0.14285714285714285,
+                                "SampleSize": 7
+                            }
+                        }
+                    }
+                }
+            },
+            "Big Bad Behemoth Burroughs": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Rift Mist Egg": 0.1111111111111111,
+                                "SampleSize": 9
+                            }
+                        }
+                    }
+                }
+            },
+            "Bloomed Sylvan": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Enlarged Rift Egg": 0.18181818181818182,
+                                "SampleSize": 11
+                            }
+                        }
+                    }
+                }
+            },
+            "Boulder Biter": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Rift Mist Egg": 0.12121212121212122,
+                                "SampleSize": 33,
+                                "Enlarged Rift Egg": 0.09090909090909091
+                            }
+                        }
+                    }
+                }
+            },
+            "Clump": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Rift Mist Egg": 0.1875,
+                                "SampleSize": 16,
+                                "Enlarged Rift Egg": 0.0625
+                            }
+                        }
+                    }
+                }
+            },
+            "Cranky Caterpillar": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Enlarged Rift Egg": 0.08333333333333333,
+                                "SampleSize": 12
+                            }
+                        }
+                    }
+                }
+            },
+            "Crazed Goblin": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Enlarged Rift Egg": 0.09090909090909091,
+                                "SampleSize": 11
+                            }
+                        }
+                    }
+                }
+            },
+            "Cyber Miner": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Rift Mist Egg": 0.1111111111111111,
+                                "SampleSize": 9,
+                                "Enlarged Rift Egg": 0.1111111111111111
+                            }
+                        }
+                    }
+                }
+            },
+            "Cybernetic Specialist": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Rift Mist Egg": 0.3333333333333333,
+                                "SampleSize": 3
+                            }
+                        }
+                    }
+                }
+            },
+            "Cyclops Barbarian": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Lucky Egg": 0.1,
+                                "SampleSize": 10
+                            }
+                        }
+                    }
+                }
+            },
+            "Doktor": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Enlarged Rift Egg": 1,
+                                "SampleSize": 1
+                            }
+                        }
+                    }
+                }
+            },
+            "Itty Bitty Rifty Burroughs": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Rift Mist Egg": 0.08333333333333333,
+                                "SampleSize": 12
+                            }
+                        }
+                    }
+                }
+            },
+            "Lambent": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Rift Mist Egg": 0.23529411764705882,
+                                "SampleSize": 17,
+                                "Enlarged Rift Egg": 0.058823529411764705
+                            }
+                        }
+                    }
+                }
+            },
+            "Lycanoid": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Rift Mist Egg": 0.2857142857142857,
+                                "SampleSize": 14
+                            }
+                        }
+                    }
+                }
+            },
+            "Master Exploder": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Rift Mist Egg": 0.09090909090909091,
+                                "SampleSize": 22,
+                                "Lucky Egg": 0.045454545454545456,
+                                "Enlarged Rift Egg": 0.045454545454545456
+                            }
+                        }
+                    }
+                }
+            },
+            "Mossy Moosker": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Enlarged Rift Egg": 0.06666666666666667,
+                                "SampleSize": 15
+                            }
+                        }
+                    }
+                }
+            },
+            "Phase Zombie": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Rift Mist Egg": 0.16666666666666666,
+                                "SampleSize": 6
+                            }
+                        }
+                    }
+                }
+            },
+            "Plutonium Tentacle": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Rift Mist Egg": 0.2727272727272727,
+                                "SampleSize": 11,
+                                "Enlarged Rift Egg": 0.09090909090909091
+                            }
+                        }
+                    }
+                }
+            },
+            "Pneumatic Dirt Displacement": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Enlarged Rift Egg": 0.36363636363636365,
+                                "SampleSize": 11
+                            }
+                        }
+                    }
+                }
+            },
+            "Portable Generator": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Enlarged Rift Egg": 0.5,
+                                "SampleSize": 2
+                            }
+                        }
+                    }
+                }
+            },
+            "Rancid Bog Beast": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Rift Mist Egg": 0.375,
+                                "SampleSize": 8
+                            }
+                        }
+                    }
+                }
+            },
+            "Revenant": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Enlarged Rift Egg": 0.25,
+                                "SampleSize": 8,
+                                "Rift Mist Egg": 0.125
+                            }
+                        }
+                    }
+                }
+            },
+            "Rifterranian": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Enlarged Rift Egg": 0.18181818181818182,
+                                "SampleSize": 11
+                            }
+                        }
+                    }
+                }
+            },
+            "Spirit Fox": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Enlarged Rift Egg": 0.1111111111111111,
+                                "SampleSize": 9
+                            }
+                        }
+                    }
+                }
+            },
+            "Spirit of Balance": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Enlarged Rift Egg": 0.1,
+                                "SampleSize": 10
+                            }
+                        }
+                    }
+                }
+            },
+            "Super Mega Mecha Ultra RoboGold": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Rift Mist Egg": 0.4,
+                                "SampleSize": 5,
+                                "Enlarged Rift Egg": 0.2
+                            }
+                        }
+                    }
+                }
+            },
+            "Toxic Avenger": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Rift Mist Egg": 0.3333333333333333,
+                                "SampleSize": 15,
+                                "Enlarged Rift Egg": 0.06666666666666667
+                            }
+                        }
+                    }
+                }
+            },
+            "Toxikinetic": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Rift Mist Egg": 0.3333333333333333,
+                                "SampleSize": 3,
+                                "Enlarged Rift Egg": 0.3333333333333333
+                            }
+                        }
+                    }
+                }
+            },
+            "Treant Queen": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Enlarged Rift Egg": 0.14285714285714285,
+                                "SampleSize": 7
+                            }
+                        }
+                    }
+                }
+            },
+            "Tri-dra": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Enlarged Rift Egg": 0.16666666666666666,
+                                "SampleSize": 6
+                            }
+                        }
+                    }
+                }
+            },
+            "Twisted Treant": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Enlarged Rift Egg": 0.1875,
+                                "SampleSize": 16
+                            }
+                        }
+                    }
+                }
+            },
+            "Zombot Unipire the Third": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Rift Mist Egg": 0.14285714285714285,
+                                "SampleSize": 7
+                            }
+                        }
+                    }
+                }
+            },
+            "Carrion Medium": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Bristle Woods Rift Egg": 0.14935064935064934,
+                                "SampleSize": 154,
+                                "Lucky Egg": 0.006493506493506494
+                            }
+                        }
+                    }
+                }
+            },
+            "Chronomaster": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Bristle Woods Rift Egg": 0.1568627450980392,
+                                "SampleSize": 153,
+                                "Lucky Egg": 0.006535947712418301
+                            }
+                        }
+                    }
+                }
+            },
+            "Clockwork Timespinner": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Bristle Woods Rift Egg": 0.1318181818181818,
+                                "SampleSize": 220,
+                                "Lucky Egg": 0.013636363636363636
+                            }
+                        }
+                    }
+                }
+            },
+            "Dread Knight": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Bristle Woods Rift Egg": 0.13170731707317074,
+                                "SampleSize": 410
+                            }
+                        }
+                    }
+                }
+            },
+            "Epoch Golem": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Bristle Woods Rift Egg": 0.15126050420168066,
+                                "SampleSize": 119
+                            }
+                        }
+                    }
+                }
+            },
+            "Harbinger of Death": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Bristle Woods Rift Egg": 0.1111111111111111,
+                                "SampleSize": 36
+                            }
+                        }
+                    }
+                }
+            },
+            "Portal Paladin": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Bristle Woods Rift Egg": 0.143646408839779,
+                                "SampleSize": 181
+                            }
+                        }
+                    }
+                }
+            },
+            "Portal Plunderer": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Bristle Woods Rift Egg": 0.1038961038961039,
+                                "SampleSize": 231
+                            }
+                        }
+                    }
+                }
+            },
+            "Portal Pursuer": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Bristle Woods Rift Egg": 0.17647058823529413,
+                                "SampleSize": 17
+                            }
+                        }
+                    }
+                }
+            },
+            "Record Keeper": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Bristle Woods Rift Egg": 0.14814814814814814,
+                                "SampleSize": 54,
+                                "Lucky Egg": 0.018518518518518517
+                            }
+                        }
+                    }
+                }
+            },
+            "Record Keeper's Assistant": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Bristle Woods Rift Egg": 0.044444444444444446,
+                                "SampleSize": 45,
+                                "Lucky Egg": 0.022222222222222223
+                            }
+                        }
+                    }
+                }
+            },
+            "Sentient Slime": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Bristle Woods Rift Egg": 0.17410714285714285,
+                                "SampleSize": 224,
+                                "Lucky Egg": 0.013392857142857142
+                            }
+                        }
+                    }
+                }
+            },
+            "Shackled Servant": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Bristle Woods Rift Egg": 0.21794871794871795,
+                                "SampleSize": 78
+                            }
+                        }
+                    }
+                }
+            },
+            "Skeletal Champion": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Bristle Woods Rift Egg": 0.11214953271028037,
+                                "SampleSize": 321
+                            }
+                        }
+                    }
+                }
+            },
+            "Timeless Lich": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Bristle Woods Rift Egg": 0.08602150537634409,
+                                "SampleSize": 93
+                            }
+                        }
+                    }
+                }
+            },
+            "Timelost Thaumaturge": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Bristle Woods Rift Egg": 0.058823529411764705,
+                                "SampleSize": 102
+                            }
+                        }
+                    }
+                }
+            },
+            "Timeslither Pythoness": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Bristle Woods Rift Egg": 0.09523809523809523,
+                                "SampleSize": 42
+                            }
+                        }
+                    }
+                }
+            },
+            "Vigilant Ward": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Bristle Woods Rift Egg": 0.14285714285714285,
+                                "SampleSize": 119,
+                                "Lucky Egg": 0.01680672268907563
+                            }
+                        }
+                    }
+                }
+            },
+            "Biohazard": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Toxic Spill Egg": 0.5,
+                                "SampleSize": 2
+                            }
+                        }
+                    }
+                }
+            },
+            "Bog Beast": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Toxic Spill Egg": 0.5,
+                                "SampleSize": 2
+                            }
+                        }
+                    }
+                }
+            },
+            "Gelatinous Octahedron": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Toxic Spill Egg": 0.5,
+                                "SampleSize": 2
+                            }
+                        }
+                    }
+                }
+            },
+            "Mutant Ninja": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Toxic Spill Egg": 0.25,
+                                "SampleSize": 4
+                            }
+                        }
+                    }
+                }
+            },
+            "Outbreak Assassin": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Toxic Spill Egg": 0.3333333333333333,
+                                "SampleSize": 3
+                            }
+                        }
+                    }
+                }
+            },
+            "Scrap Metal Monster": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Toxic Spill Egg": 0.5,
+                                "SampleSize": 2
+                            }
+                        }
+                    }
+                }
+            },
+            "Tentacle": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Toxic Spill Egg": 0.14285714285714285,
+                                "SampleSize": 7
                             }
                         }
                     }
