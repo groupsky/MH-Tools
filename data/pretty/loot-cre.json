@@ -9149,188 +9149,6 @@
                     }
                 }
             }
-        },
-        "-": {
-            "Absolute Acolyte": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Bristle Woods Rift Egg": 1,
-                                "SampleSize": 1
-                            }
-                        }
-                    }
-                }
-            },
-            "Carrion Medium": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Bristle Woods Rift Egg": 0.14285714285714285,
-                                "SampleSize": 7
-                            }
-                        }
-                    }
-                }
-            },
-            "Chamber Cleaver": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Bristle Woods Rift Egg": 0.125,
-                                "SampleSize": 8
-                            }
-                        }
-                    }
-                }
-            },
-            "Clockwork Timespinner": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Bristle Woods Rift Egg": 0.13043478260869565,
-                                "SampleSize": 23
-                            }
-                        }
-                    }
-                }
-            },
-            "Dread Knight": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Bristle Woods Rift Egg": 0.13333333333333333,
-                                "SampleSize": 45
-                            }
-                        }
-                    }
-                }
-            },
-            "Epoch Golem": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Bristle Woods Rift Egg": 0.4,
-                                "SampleSize": 10
-                            }
-                        }
-                    }
-                }
-            },
-            "Portal Paladin": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Bristle Woods Rift Egg": 0.13333333333333333,
-                                "SampleSize": 15
-                            }
-                        }
-                    }
-                }
-            },
-            "Portal Plunderer": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Bristle Woods Rift Egg": 0.10714285714285714,
-                                "SampleSize": 28
-                            }
-                        }
-                    }
-                }
-            },
-            "Sentient Slime": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Bristle Woods Rift Egg": 0.2857142857142857,
-                                "SampleSize": 14
-                            }
-                        }
-                    }
-                }
-            },
-            "Shackled Servant": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Bristle Woods Rift Egg": 0.6666666666666666,
-                                "SampleSize": 6
-                            }
-                        }
-                    }
-                }
-            },
-            "Skeletal Champion": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Bristle Woods Rift Egg": 0.06060606060606061,
-                                "SampleSize": 33
-                            }
-                        }
-                    }
-                }
-            },
-            "Timeless Lich": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Bristle Woods Rift Egg": 0.07692307692307693,
-                                "SampleSize": 13
-                            }
-                        }
-                    }
-                }
-            },
-            "Timelost Thaumaturge": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Bristle Woods Rift Egg": 0.25,
-                                "SampleSize": 4
-                            }
-                        }
-                    }
-                }
-            },
-            "Timeslither Pythoness": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Bristle Woods Rift Egg": 0.16666666666666666,
-                                "SampleSize": 6
-                            }
-                        }
-                    }
-                }
-            },
-            "Vigilant Ward": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Bristle Woods Rift Egg": 0.21428571428571427,
-                                "SampleSize": 14
-                            }
-                        }
-                    }
-                }
-            }
         }
     },
     "Harbour": {
@@ -9405,8 +9223,8 @@
                         },
                         "-": {
                             "-": {
-                                "Marshmallow Monterey": 0.4117647058823529,
-                                "SampleSize": 17
+                                "Marshmallow Monterey": 0.38333333333333336,
+                                "SampleSize": 60
                             }
                         }
                     }
@@ -9418,7 +9236,7 @@
                         "-": {
                             "-": {
                                 "Eggstra Charge Charm": 1,
-                                "SampleSize": 98
+                                "SampleSize": 269
                             }
                         }
                     }
@@ -9429,8 +9247,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Eggscavator Charge Charm": 0.5,
-                                "SampleSize": 138
+                                "Eggscavator Charge Charm": 0.49214659685863876,
+                                "SampleSize": 382
                             }
                         }
                     }
@@ -9442,7 +9260,7 @@
                         "-": {
                             "-": {
                                 "Eggstra Charge Charm": 1,
-                                "SampleSize": 81,
+                                "SampleSize": 225,
                                 "Eggscavator Charge Charm": 3
                             }
                         }
@@ -9454,8 +9272,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Eggscavator Charge Charm": 0.5081967213114754,
-                                "SampleSize": 122
+                                "Eggscavator Charge Charm": 0.5513513513513514,
+                                "SampleSize": 370
                             }
                         }
                     }
@@ -9467,7 +9285,7 @@
                         "-": {
                             "-": {
                                 "Eggstra Charge Charm": 1,
-                                "SampleSize": 35,
+                                "SampleSize": 128,
                                 "Eggscavator Charge Charm": 3
                             }
                         }
@@ -9479,8 +9297,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Eggscavator Charge Charm": 0.6412213740458015,
-                                "SampleSize": 131
+                                "Eggscavator Charge Charm": 0.6522842639593909,
+                                "SampleSize": 394
                             }
                         }
                     }
@@ -9491,9 +9309,9 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Eggstra Charge Charm": 1.4,
-                                "SampleSize": 125,
-                                "Eggscavator Charge Charm": 1.504
+                                "Eggstra Charge Charm": 1.324022346368715,
+                                "SampleSize": 358,
+                                "Eggscavator Charge Charm": 1.5837988826815643
                             }
                         }
                     }
@@ -9504,9 +9322,9 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Eggscavator Charge Charm": 2.9754098360655736,
-                                "SampleSize": 122,
-                                "Eggstra Charge Charm": 1.4098360655737705
+                                "Eggscavator Charge Charm": 3,
+                                "SampleSize": 370,
+                                "Eggstra Charge Charm": 1.4
                             }
                         }
                     }
@@ -9518,7 +9336,7 @@
                         "-": {
                             "-": {
                                 "Eggstra Charge Charm": 2,
-                                "SampleSize": 41,
+                                "SampleSize": 136,
                                 "Eggscavator Charge Charm": 3
                             }
                         }
@@ -9531,7 +9349,7 @@
                         "-": {
                             "-": {
                                 "Eggstra Charge Charm": 1,
-                                "SampleSize": 54,
+                                "SampleSize": 154,
                                 "Eggscavator Charge Charm": 3
                             }
                         }
@@ -9543,14 +9361,230 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Marshmallow Monterey": 1.5,
-                                "SampleSize": 2
+                                "Marshmallow Monterey": 0.7142857142857143,
+                                "SampleSize": 7
                             }
                         }
                     }
                 }
             },
             "Agitated Gentle Giant": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.7575757575757576,
+                                "SampleSize": 66
+                            }
+                        }
+                    }
+                }
+            },
+            "Aquos": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.75,
+                                "SampleSize": 20
+                            }
+                        }
+                    }
+                }
+            },
+            "Archer": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.48717948717948717,
+                                "SampleSize": 39
+                            }
+                        }
+                    }
+                }
+            },
+            "Assassin": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 1,
+                                "SampleSize": 2
+                            }
+                        }
+                    }
+                }
+            },
+            "Bandit": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.5416666666666666,
+                                "SampleSize": 24
+                            }
+                        }
+                    }
+                }
+            },
+            "Bat": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.3684210526315789,
+                                "SampleSize": 19
+                            }
+                        }
+                    }
+                }
+            },
+            "Berserker": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.5238095238095238,
+                                "SampleSize": 21
+                            }
+                        }
+                    }
+                }
+            },
+            "Bionic": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.2987012987012987,
+                                "SampleSize": 77
+                            }
+                        }
+                    }
+                }
+            },
+            "Bitter Root": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.6428571428571429,
+                                "SampleSize": 28
+                            }
+                        }
+                    }
+                }
+            },
+            "Black Mage": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.25,
+                                "SampleSize": 8
+                            }
+                        }
+                    }
+                }
+            },
+            "Blacksmith": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.4166666666666667,
+                                "SampleSize": 12
+                            }
+                        }
+                    }
+                }
+            },
+            "Bottled": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.8181818181818182,
+                                "SampleSize": 11
+                            }
+                        }
+                    }
+                }
+            },
+            "Brawny": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.6388888888888888,
+                                "SampleSize": 72
+                            }
+                        }
+                    }
+                }
+            },
+            "Briegull": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.7142857142857143,
+                                "SampleSize": 7
+                            }
+                        }
+                    }
+                }
+            },
+            "Brown": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.4074074074074074,
+                                "SampleSize": 162
+                            }
+                        }
+                    }
+                }
+            },
+            "Buccaneer": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.56,
+                                "SampleSize": 25
+                            }
+                        }
+                    }
+                }
+            },
+            "Captain": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.6774193548387096,
+                                "SampleSize": 31
+                            }
+                        }
+                    }
+                }
+            },
+            "Caretaker": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.16666666666666666,
+                                "SampleSize": 6
+                            }
+                        }
+                    }
+                }
+            },
+            "Cavalier": {
                 "-": {
                     "-": {
                         "-": {
@@ -9562,159 +9596,49 @@
                     }
                 }
             },
-            "Aquos": {
+            "Cavern Crumbler": {
                 "-": {
                     "-": {
                         "-": {
                             "-": {
-                                "Marshmallow Monterey": 1,
-                                "SampleSize": 2
+                                "Marshmallow Monterey": 0.5,
+                                "SampleSize": 4
                             }
                         }
                     }
                 }
             },
-            "Archer": {
+            "Centaur": {
                 "-": {
                     "-": {
                         "-": {
                             "-": {
-                                "Marshmallow Monterey": 0.6666666666666666,
-                                "SampleSize": 9
-                            }
-                        }
-                    }
-                }
-            },
-            "Assassin": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Marshmallow Monterey": 2,
-                                "SampleSize": 1
-                            }
-                        }
-                    }
-                }
-            },
-            "Bandit": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Marshmallow Monterey": 0.4117647058823529,
-                                "SampleSize": 17
-                            }
-                        }
-                    }
-                }
-            },
-            "Berserker": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Marshmallow Monterey": 1,
-                                "SampleSize": 2
-                            }
-                        }
-                    }
-                }
-            },
-            "Bionic": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Marshmallow Monterey": 0.24,
-                                "SampleSize": 25
-                            }
-                        }
-                    }
-                }
-            },
-            "Bitter Root": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Marshmallow Monterey": 1.1666666666666667,
-                                "SampleSize": 6
-                            }
-                        }
-                    }
-                }
-            },
-            "Bottled": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Marshmallow Monterey": 1,
-                                "SampleSize": 1
-                            }
-                        }
-                    }
-                }
-            },
-            "Brawny": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Marshmallow Monterey": 0.7894736842105263,
-                                "SampleSize": 19
-                            }
-                        }
-                    }
-                }
-            },
-            "Briegull": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Marshmallow Monterey": 1.5,
-                                "SampleSize": 2
-                            }
-                        }
-                    }
-                }
-            },
-            "Brown": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Marshmallow Monterey": 0.46808510638297873,
-                                "SampleSize": 19,
-                                "Brown Egg": 0.3684210526315789,
-                                "Lucky Egg": 0.05263157894736842
-                            }
-                        }
-                    }
-                }
-            },
-            "Buccaneer": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Marshmallow Monterey": 0.875,
+                                "Marshmallow Monterey": 0.25,
                                 "SampleSize": 8
                             }
                         }
                     }
                 }
             },
-            "Captain": {
+            "Chameleon": {
                 "-": {
                     "-": {
                         "-": {
                             "-": {
-                                "Marshmallow Monterey": 0.625,
-                                "SampleSize": 8
+                                "Marshmallow Monterey": 0.25,
+                                "SampleSize": 4
+                            }
+                        }
+                    }
+                }
+            },
+            "Clockwork Samurai": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.23809523809523808,
+                                "SampleSize": 21
                             }
                         }
                     }
@@ -9732,13 +9656,37 @@
                     }
                 }
             },
+            "Core Sample": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 1,
+                                "SampleSize": 2
+                            }
+                        }
+                    }
+                }
+            },
             "Cowardly": {
                 "-": {
                     "-": {
                         "-": {
                             "-": {
-                                "Marshmallow Monterey": 0.49122807017543857,
-                                "SampleSize": 57
+                                "Marshmallow Monterey": 0.5732484076433121,
+                                "SampleSize": 157
+                            }
+                        }
+                    }
+                }
+            },
+            "Cowbell": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.6470588235294118,
+                                "SampleSize": 17
                             }
                         }
                     }
@@ -9749,8 +9697,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Marshmallow Monterey": 2,
-                                "SampleSize": 1
+                                "Marshmallow Monterey": 1.2857142857142858,
+                                "SampleSize": 7
                             }
                         }
                     }
@@ -9761,8 +9709,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Marshmallow Monterey": 1,
-                                "SampleSize": 2
+                                "Marshmallow Monterey": 0.4,
+                                "SampleSize": 5
                             }
                         }
                     }
@@ -9773,9 +9721,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Marshmallow Monterey": 1,
-                                "SampleSize": 2,
-                                "Crystal Behemoth Egg": 1
+                                "Marshmallow Monterey": 0.55,
+                                "SampleSize": 20
                             }
                         }
                     }
@@ -9786,8 +9733,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Marshmallow Monterey": 1,
-                                "SampleSize": 1
+                                "Marshmallow Monterey": 1.1666666666666667,
+                                "SampleSize": 6
                             }
                         }
                     }
@@ -9798,8 +9745,32 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Marshmallow Monterey": 1,
-                                "SampleSize": 1
+                                "Marshmallow Monterey": 0.7931034482758621,
+                                "SampleSize": 29
+                            }
+                        }
+                    }
+                }
+            },
+            "Crystal Golem": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.6,
+                                "SampleSize": 5
+                            }
+                        }
+                    }
+                }
+            },
+            "Crystal Lurker": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 1.0909090909090908,
+                                "SampleSize": 11
                             }
                         }
                     }
@@ -9810,8 +9781,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Marshmallow Monterey": 0.5,
-                                "SampleSize": 2
+                                "Marshmallow Monterey": 0.4666666666666667,
+                                "SampleSize": 15
                             }
                         }
                     }
@@ -9822,8 +9793,20 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Marshmallow Monterey": 0.5,
-                                "SampleSize": 2
+                                "Marshmallow Monterey": 0.44,
+                                "SampleSize": 25
+                            }
+                        }
+                    }
+                }
+            },
+            "Crystalback": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.7333333333333333,
+                                "SampleSize": 15
                             }
                         }
                     }
@@ -9834,8 +9817,20 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Marshmallow Monterey": 1,
-                                "SampleSize": 3
+                                "Marshmallow Monterey": 0.75,
+                                "SampleSize": 4
+                            }
+                        }
+                    }
+                }
+            },
+            "Curious Chemist": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.8333333333333334,
+                                "SampleSize": 6
                             }
                         }
                     }
@@ -9846,208 +9841,14 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Marshmallow Monterey": 0.2857142857142857,
-                                "SampleSize": 7
+                                "Marshmallow Monterey": 0.7049180327868853,
+                                "SampleSize": 61
                             }
                         }
                     }
                 }
             },
-            "Demolitions": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Marshmallow Monterey": 1,
-                                "SampleSize": 1
-                            }
-                        }
-                    }
-                }
-            },
-            "Desert Architect": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Marshmallow Monterey": 1,
-                                "SampleSize": 2
-                            }
-                        }
-                    }
-                }
-            },
-            "Diamond": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Marshmallow Monterey": 0.16666666666666666,
-                                "SampleSize": 7,
-                                "Diamond Egg": 0.5714285714285714
-                            }
-                        }
-                    }
-                }
-            },
-            "Dream Drifter": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Marshmallow Monterey": 1,
-                                "SampleSize": 6
-                            }
-                        }
-                    }
-                }
-            },
-            "Drummer": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Marshmallow Monterey": 1,
-                                "SampleSize": 7
-                            }
-                        }
-                    }
-                }
-            },
-            "Dwarf": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Marshmallow Monterey": 0.5238095238095238,
-                                "SampleSize": 42
-                            }
-                        }
-                    }
-                }
-            },
-            "Eagle Owl": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Marshmallow Monterey": 1,
-                                "SampleSize": 1
-                            }
-                        }
-                    }
-                }
-            },
-            "Eclipse": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Marshmallow Monterey": 0.5,
-                                "SampleSize": 12,
-                                "Eclipse Egg": 1
-                            }
-                        }
-                    }
-                }
-            },
-            "Escape Artist": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Marshmallow Monterey": 0.5,
-                                "SampleSize": 6
-                            }
-                        }
-                    }
-                }
-            },
-            "Excitable Electric": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Marshmallow Monterey": 0.5,
-                                "SampleSize": 8
-                            }
-                        }
-                    }
-                }
-            },
-            "Falling Carpet": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Marshmallow Monterey": 0.8,
-                                "SampleSize": 5
-                            }
-                        }
-                    }
-                }
-            },
-            "Fencer": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Marshmallow Monterey": 0.3333333333333333,
-                                "SampleSize": 3
-                            }
-                        }
-                    }
-                }
-            },
-            "Fiddler": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Marshmallow Monterey": 1.5,
-                                "SampleSize": 2
-                            }
-                        }
-                    }
-                }
-            },
-            "Fiend": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Marshmallow Monterey": 0.5769230769230769,
-                                "SampleSize": 26
-                            }
-                        }
-                    }
-                }
-            },
-            "Floating Spore": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Marshmallow Monterey": 0.6666666666666666,
-                                "SampleSize": 9
-                            }
-                        }
-                    }
-                }
-            },
-            "Flying": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Marshmallow Monterey": 0.29411764705882354,
-                                "SampleSize": 17
-                            }
-                        }
-                    }
-                }
-            },
-            "Funglore": {
+            "Dancer": {
                 "-": {
                     "-": {
                         "-": {
@@ -10059,13 +9860,301 @@
                     }
                 }
             },
+            "Demolitions": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.42857142857142855,
+                                "SampleSize": 7
+                            }
+                        }
+                    }
+                }
+            },
+            "Desert Architect": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 1,
+                                "SampleSize": 9
+                            }
+                        }
+                    }
+                }
+            },
+            "Diamond": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.26666666666666666,
+                                "SampleSize": 75
+                            }
+                        }
+                    }
+                }
+            },
+            "Diamondhide": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 1,
+                                "SampleSize": 2
+                            }
+                        }
+                    }
+                }
+            },
+            "Dirt Thing": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 1,
+                                "SampleSize": 3
+                            }
+                        }
+                    }
+                }
+            },
+            "Dream Drifter": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.9333333333333333,
+                                "SampleSize": 15
+                            }
+                        }
+                    }
+                }
+            },
+            "Drummer": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.5897435897435898,
+                                "SampleSize": 39
+                            }
+                        }
+                    }
+                }
+            },
+            "Dwarf": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.5106382978723404,
+                                "SampleSize": 141
+                            }
+                        }
+                    }
+                }
+            },
+            "Eagle Owl": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.42857142857142855,
+                                "SampleSize": 7
+                            }
+                        }
+                    }
+                }
+            },
+            "Eclipse": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.5161290322580645,
+                                "SampleSize": 93
+                            }
+                        }
+                    }
+                }
+            },
+            "Elder": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 1,
+                                "SampleSize": 4
+                            }
+                        }
+                    }
+                }
+            },
+            "Elven Princess": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 1.5,
+                                "SampleSize": 2
+                            }
+                        }
+                    }
+                }
+            },
+            "Escape Artist": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.6956521739130435,
+                                "SampleSize": 23
+                            }
+                        }
+                    }
+                }
+            },
+            "Excitable Electric": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.5483870967741935,
+                                "SampleSize": 62
+                            }
+                        }
+                    }
+                }
+            },
+            "Falling Carpet": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.7894736842105263,
+                                "SampleSize": 19
+                            }
+                        }
+                    }
+                }
+            },
+            "Fencer": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.8181818181818182,
+                                "SampleSize": 11
+                            }
+                        }
+                    }
+                }
+            },
+            "Fiddler": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.5789473684210527,
+                                "SampleSize": 19
+                            }
+                        }
+                    }
+                }
+            },
+            "Fiend": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.6981132075471698,
+                                "SampleSize": 53
+                            }
+                        }
+                    }
+                }
+            },
+            "Floating Spore": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.8055555555555556,
+                                "SampleSize": 36
+                            }
+                        }
+                    }
+                }
+            },
+            "Flying": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.4918032786885246,
+                                "SampleSize": 61
+                            }
+                        }
+                    }
+                }
+            },
+            "Foxy": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 1,
+                                "SampleSize": 1
+                            }
+                        }
+                    }
+                }
+            },
+            "Funglore": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.6595744680851063,
+                                "SampleSize": 47
+                            }
+                        }
+                    }
+                }
+            },
+            "Gemorpher": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.3333333333333333,
+                                "SampleSize": 24
+                            }
+                        }
+                    }
+                }
+            },
             "Ghost": {
                 "-": {
                     "-": {
                         "-": {
                             "-": {
-                                "Marshmallow Monterey": 0.2857142857142857,
-                                "SampleSize": 7
+                                "Marshmallow Monterey": 0.6666666666666666,
+                                "SampleSize": 30
+                            }
+                        }
+                    }
+                }
+            },
+            "Giant Snail": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 1,
+                                "SampleSize": 10
                             }
                         }
                     }
@@ -10076,8 +10165,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Marshmallow Monterey": 0.8,
-                                "SampleSize": 5
+                                "Marshmallow Monterey": 0.6818181818181818,
+                                "SampleSize": 22
                             }
                         }
                     }
@@ -10088,8 +10177,32 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Marshmallow Monterey": 0.14285714285714285,
-                                "SampleSize": 21
+                                "Marshmallow Monterey": 0.3194444444444444,
+                                "SampleSize": 72
+                            }
+                        }
+                    }
+                }
+            },
+            "Goldleaf": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 1.3333333333333333,
+                                "SampleSize": 3
+                            }
+                        }
+                    }
+                }
+            },
+            "Golem": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.08333333333333333,
+                                "SampleSize": 36
                             }
                         }
                     }
@@ -10100,8 +10213,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Marshmallow Monterey": 1,
-                                "SampleSize": 7
+                                "Marshmallow Monterey": 0.7777777777777778,
+                                "SampleSize": 18
                             }
                         }
                     }
@@ -10112,8 +10225,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Marshmallow Monterey": 0.30434782608695654,
-                                "SampleSize": 23
+                                "Marshmallow Monterey": 0.3389830508474576,
+                                "SampleSize": 59
                             }
                         }
                     }
@@ -10136,9 +10249,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Marshmallow Monterey": 0.40425531914893614,
-                                "SampleSize": 14,
-                                "Grey Egg": 0.21428571428571427
+                                "Marshmallow Monterey": 0.37662337662337664,
+                                "SampleSize": 154
                             }
                         }
                     }
@@ -10149,8 +10261,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Marshmallow Monterey": 1,
-                                "SampleSize": 16
+                                "Marshmallow Monterey": 0.6987951807228916,
+                                "SampleSize": 83
                             }
                         }
                     }
@@ -10161,8 +10273,20 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Marshmallow Monterey": 2,
-                                "SampleSize": 1
+                                "Marshmallow Monterey": 0.8695652173913043,
+                                "SampleSize": 23
+                            }
+                        }
+                    }
+                }
+            },
+            "Hapless": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.4444444444444444,
+                                "SampleSize": 9
                             }
                         }
                     }
@@ -10173,8 +10297,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Marshmallow Monterey": 0.3333333333333333,
-                                "SampleSize": 6
+                                "Marshmallow Monterey": 0.5714285714285714,
+                                "SampleSize": 35
                             }
                         }
                     }
@@ -10185,8 +10309,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Marshmallow Monterey": 0.75,
-                                "SampleSize": 4
+                                "Marshmallow Monterey": 0.5,
+                                "SampleSize": 14
                             }
                         }
                     }
@@ -10197,8 +10321,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Marshmallow Monterey": 1,
-                                "SampleSize": 3
+                                "Marshmallow Monterey": 0.7,
+                                "SampleSize": 10
                             }
                         }
                     }
@@ -10209,8 +10333,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Marshmallow Monterey": 0.875,
-                                "SampleSize": 8
+                                "Marshmallow Monterey": 0.56,
+                                "SampleSize": 25
                             }
                         }
                     }
@@ -10221,8 +10345,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Marshmallow Monterey": 0.25,
-                                "SampleSize": 4
+                                "Marshmallow Monterey": 0.6666666666666666,
+                                "SampleSize": 12
                             }
                         }
                     }
@@ -10233,7 +10357,31 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Marshmallow Monterey": 0.5,
+                                "Marshmallow Monterey": 0.5238095238095238,
+                                "SampleSize": 21
+                            }
+                        }
+                    }
+                }
+            },
+            "Industrious Digger": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.9090909090909091,
+                                "SampleSize": 11
+                            }
+                        }
+                    }
+                }
+            },
+            "Itty-Bitty Burroughs": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.9,
                                 "SampleSize": 10
                             }
                         }
@@ -10246,7 +10394,7 @@
                         "-": {
                             "-": {
                                 "Marshmallow Monterey": 1,
-                                "SampleSize": 1
+                                "SampleSize": 18
                             }
                         }
                     }
@@ -10257,8 +10405,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Marshmallow Monterey": 1.25,
-                                "SampleSize": 4
+                                "Marshmallow Monterey": 0.7837837837837838,
+                                "SampleSize": 37
                             }
                         }
                     }
@@ -10269,8 +10417,20 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Marshmallow Monterey": 0.3333333333333333,
-                                "SampleSize": 6
+                                "Marshmallow Monterey": 0.7368421052631579,
+                                "SampleSize": 19
+                            }
+                        }
+                    }
+                }
+            },
+            "Lambent Crystal": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.14285714285714285,
+                                "SampleSize": 7
                             }
                         }
                     }
@@ -10281,8 +10441,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Marshmallow Monterey": 0.3333333333333333,
-                                "SampleSize": 3
+                                "Marshmallow Monterey": 0.6666666666666666,
+                                "SampleSize": 15
                             }
                         }
                     }
@@ -10293,8 +10453,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Marshmallow Monterey": 1,
-                                "SampleSize": 8
+                                "Marshmallow Monterey": 1.0555555555555556,
+                                "SampleSize": 18
                             }
                         }
                     }
@@ -10305,8 +10465,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Marshmallow Monterey": 0.5555555555555556,
-                                "SampleSize": 9
+                                "Marshmallow Monterey": 0.5833333333333334,
+                                "SampleSize": 24
                             }
                         }
                     }
@@ -10317,8 +10477,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Marshmallow Monterey": 0.875,
-                                "SampleSize": 8
+                                "Marshmallow Monterey": 0.5853658536585366,
+                                "SampleSize": 41
                             }
                         }
                     }
@@ -10329,8 +10489,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Marshmallow Monterey": 0.5,
-                                "SampleSize": 8
+                                "Marshmallow Monterey": 0.6,
+                                "SampleSize": 50
                             }
                         }
                     }
@@ -10341,8 +10501,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Marshmallow Monterey": 0.3333333333333333,
-                                "SampleSize": 3
+                                "Marshmallow Monterey": 0.6428571428571429,
+                                "SampleSize": 28
                             }
                         }
                     }
@@ -10353,9 +10513,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Marshmallow Monterey": 1,
-                                "SampleSize": 1,
-                                "Mage Weaver Egg": 1
+                                "Marshmallow Monterey": 0.7142857142857143,
+                                "SampleSize": 7
                             }
                         }
                     }
@@ -10366,9 +10525,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Marshmallow Monterey": 0.6666666666666666,
-                                "SampleSize": 1,
-                                "Magic Egg": 1
+                                "Marshmallow Monterey": 0.5454545454545454,
+                                "SampleSize": 11
                             }
                         }
                     }
@@ -10379,8 +10537,44 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Marshmallow Monterey": 1.6666666666666667,
-                                "SampleSize": 3
+                                "Marshmallow Monterey": 1,
+                                "SampleSize": 8
+                            }
+                        }
+                    }
+                }
+            },
+            "Master Burglar": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.5833333333333334,
+                                "SampleSize": 12
+                            }
+                        }
+                    }
+                }
+            },
+            "Mermouse": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.25,
+                                "SampleSize": 4
+                            }
+                        }
+                    }
+                }
+            },
+            "Micro": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.5185185185185185,
+                                "SampleSize": 27
                             }
                         }
                     }
@@ -10391,9 +10585,32 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Marshmallow Monterey": 0.5,
-                                "SampleSize": 1,
-                                "Mighty Mole Egg": 1
+                                "Marshmallow Monterey": 0.5714285714285714,
+                                "SampleSize": 14
+                            }
+                        }
+                    }
+                }
+            },
+            "Miner": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 1,
+                                "SampleSize": 9
+                            }
+                        }
+                    }
+                }
+            },
+            "Monk": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.7058823529411765,
+                                "SampleSize": 17
                             }
                         }
                     }
@@ -10405,7 +10622,7 @@
                         "-": {
                             "-": {
                                 "Marshmallow Monterey": 2,
-                                "SampleSize": 1
+                                "SampleSize": 2
                             }
                         }
                     }
@@ -10416,8 +10633,20 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Marshmallow Monterey": 1,
-                                "SampleSize": 2
+                                "Marshmallow Monterey": 1.2727272727272727,
+                                "SampleSize": 11
+                            }
+                        }
+                    }
+                }
+            },
+            "Mummy": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.08333333333333333,
+                                "SampleSize": 12
                             }
                         }
                     }
@@ -10428,8 +10657,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Marshmallow Monterey": 0.3333333333333333,
-                                "SampleSize": 12
+                                "Marshmallow Monterey": 0.5581395348837209,
+                                "SampleSize": 43
                             }
                         }
                     }
@@ -10440,387 +10669,14 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Marshmallow Monterey": 1,
-                                "SampleSize": 2
+                                "Marshmallow Monterey": 0.6521739130434783,
+                                "SampleSize": 23
                             }
                         }
                     }
                 }
             },
             "Narrator": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Marshmallow Monterey": 1,
-                                "SampleSize": 5
-                            }
-                        }
-                    }
-                }
-            },
-            "Necromancer": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Marshmallow Monterey": 1,
-                                "SampleSize": 3
-                            }
-                        }
-                    }
-                }
-            },
-            "Nibbler": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Marshmallow Monterey": 0.6,
-                                "SampleSize": 1,
-                                "Nibbler Egg": 1
-                            }
-                        }
-                    }
-                }
-            },
-            "Nightshade Masquerade": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Marshmallow Monterey": 2,
-                                "SampleSize": 1
-                            }
-                        }
-                    }
-                }
-            },
-            "Ninja": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Marshmallow Monterey": 0.6,
-                                "SampleSize": 5
-                            }
-                        }
-                    }
-                }
-            },
-            "Page": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Marshmallow Monterey": 0.8333333333333334,
-                                "SampleSize": 6
-                            }
-                        }
-                    }
-                }
-            },
-            "Pathfinder": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Marshmallow Monterey": 0.6,
-                                "SampleSize": 5
-                            }
-                        }
-                    }
-                }
-            },
-            "Pie Thief": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Marshmallow Monterey": 1,
-                                "SampleSize": 6
-                            }
-                        }
-                    }
-                }
-            },
-            "Pinchy": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Marshmallow Monterey": 0.5,
-                                "SampleSize": 2
-                            }
-                        }
-                    }
-                }
-            },
-            "Pugilist": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Marshmallow Monterey": 0.42857142857142855,
-                                "SampleSize": 21
-                            }
-                        }
-                    }
-                }
-            },
-            "Puppet Master": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Marshmallow Monterey": 2,
-                                "SampleSize": 1
-                            }
-                        }
-                    }
-                }
-            },
-            "Quillback": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Marshmallow Monterey": 1,
-                                "SampleSize": 8
-                            }
-                        }
-                    }
-                }
-            },
-            "Rift Guardian": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Marshmallow Monterey": 0.8333333333333334,
-                                "SampleSize": 6
-                            }
-                        }
-                    }
-                }
-            },
-            "Riftweaver": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Marshmallow Monterey": 0.5,
-                                "SampleSize": 16
-                            }
-                        }
-                    }
-                }
-            },
-            "Sacred Shrine": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Marshmallow Monterey": 0.3333333333333333,
-                                "SampleSize": 3
-                            }
-                        }
-                    }
-                }
-            },
-            "Salt Water Snapper": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Marshmallow Monterey": 1,
-                                "SampleSize": 4
-                            }
-                        }
-                    }
-                }
-            },
-            "Samurai": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Marshmallow Monterey": 0.5,
-                                "SampleSize": 8
-                            }
-                        }
-                    }
-                }
-            },
-            "Scout": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Marshmallow Monterey": 0.5,
-                                "SampleSize": 4
-                            }
-                        }
-                    }
-                }
-            },
-            "Shard Centurion": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Marshmallow Monterey": 0.6,
-                                "SampleSize": 5
-                            }
-                        }
-                    }
-                }
-            },
-            "Shipwrecked": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Marshmallow Monterey": 0.6,
-                                "SampleSize": 5
-                            }
-                        }
-                    }
-                }
-            },
-            "Silvertail": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Marshmallow Monterey": 0.4,
-                                "SampleSize": 5
-                            }
-                        }
-                    }
-                }
-            },
-            "Siren": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Marshmallow Monterey": 2,
-                                "SampleSize": 1
-                            }
-                        }
-                    }
-                }
-            },
-            "Skeleton": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Marshmallow Monterey": 1,
-                                "SampleSize": 1
-                            }
-                        }
-                    }
-                }
-            },
-            "Snake Charmer": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Marshmallow Monterey": 0.6666666666666666,
-                                "SampleSize": 3
-                            }
-                        }
-                    }
-                }
-            },
-            "Sock Puppet Ghost": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Marshmallow Monterey": 0.375,
-                                "SampleSize": 8
-                            }
-                        }
-                    }
-                }
-            },
-            "Speedy": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Marshmallow Monterey": 0.4166666666666667,
-                                "SampleSize": 12
-                            }
-                        }
-                    }
-                }
-            },
-            "Spice Merchant": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Marshmallow Monterey": 0.42857142857142855,
-                                "SampleSize": 7
-                            }
-                        }
-                    }
-                }
-            },
-            "Spiked Burrower": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Marshmallow Monterey": 0.4,
-                                "SampleSize": 5
-                            }
-                        }
-                    }
-                }
-            },
-            "Spiritual Steel": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Marshmallow Monterey": 1,
-                                "SampleSize": 8
-                            }
-                        }
-                    }
-                }
-            },
-            "Spore Muncher": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Marshmallow Monterey": 1,
-                                "SampleSize": 2
-                            }
-                        }
-                    }
-                }
-            },
-            "Squeaken": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Marshmallow Monterey": 0.3333333333333333,
-                                "SampleSize": 3
-                            }
-                        }
-                    }
-                }
-            },
-            "Stealth": {
                 "-": {
                     "-": {
                         "-": {
@@ -10832,19 +10688,439 @@
                     }
                 }
             },
-            "Stone Maiden": {
+            "Necromancer": {
                 "-": {
                     "-": {
                         "-": {
                             "-": {
-                                "Marshmallow Monterey": 1,
-                                "SampleSize": 2
+                                "Marshmallow Monterey": 0.7777777777777778,
+                                "SampleSize": 9
                             }
                         }
                     }
                 }
             },
-            "Student of the Cheese Belt": {
+            "Nibbler": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.7857142857142857,
+                                "SampleSize": 14
+                            }
+                        }
+                    }
+                }
+            },
+            "Nightshade Masquerade": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 1,
+                                "SampleSize": 5
+                            }
+                        }
+                    }
+                }
+            },
+            "Ninja": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.3870967741935484,
+                                "SampleSize": 31
+                            }
+                        }
+                    }
+                }
+            },
+            "Ooze": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.6842105263157895,
+                                "SampleSize": 19
+                            }
+                        }
+                    }
+                }
+            },
+            "Page": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.88,
+                                "SampleSize": 25
+                            }
+                        }
+                    }
+                }
+            },
+            "Paladin": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.5714285714285714,
+                                "SampleSize": 7
+                            }
+                        }
+                    }
+                }
+            },
+            "Pathfinder": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.25,
+                                "SampleSize": 12
+                            }
+                        }
+                    }
+                }
+            },
+            "Phalanx": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.6923076923076923,
+                                "SampleSize": 26
+                            }
+                        }
+                    }
+                }
+            },
+            "Pie Thief": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.8125,
+                                "SampleSize": 16
+                            }
+                        }
+                    }
+                }
+            },
+            "Pinchy": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.6666666666666666,
+                                "SampleSize": 9
+                            }
+                        }
+                    }
+                }
+            },
+            "Pirate": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.36363636363636365,
+                                "SampleSize": 33
+                            }
+                        }
+                    }
+                }
+            },
+            "Pugilist": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.3333333333333333,
+                                "SampleSize": 93
+                            }
+                        }
+                    }
+                }
+            },
+            "Puppet Master": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 1,
+                                "SampleSize": 4
+                            }
+                        }
+                    }
+                }
+            },
+            "Quillback": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.8048780487804879,
+                                "SampleSize": 41
+                            }
+                        }
+                    }
+                }
+            },
+            "Raw Diamond": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.6,
+                                "SampleSize": 35
+                            }
+                        }
+                    }
+                }
+            },
+            "Rift Guardian": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.6341463414634146,
+                                "SampleSize": 41
+                            }
+                        }
+                    }
+                }
+            },
+            "Riftweaver": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.6341463414634146,
+                                "SampleSize": 82
+                            }
+                        }
+                    }
+                }
+            },
+            "Rock Muncher": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.625,
+                                "SampleSize": 8
+                            }
+                        }
+                    }
+                }
+            },
+            "Sacred Shrine": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.8461538461538461,
+                                "SampleSize": 13
+                            }
+                        }
+                    }
+                }
+            },
+            "Salt Water Snapper": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.9375,
+                                "SampleSize": 16
+                            }
+                        }
+                    }
+                }
+            },
+            "Samurai": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.7037037037037037,
+                                "SampleSize": 27
+                            }
+                        }
+                    }
+                }
+            },
+            "Scavenger": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.7692307692307693,
+                                "SampleSize": 13
+                            }
+                        }
+                    }
+                }
+            },
+            "Scout": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.5,
+                                "SampleSize": 8
+                            }
+                        }
+                    }
+                }
+            },
+            "Shard Centurion": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.75,
+                                "SampleSize": 60
+                            }
+                        }
+                    }
+                }
+            },
+            "Shipwrecked": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 1,
+                                "SampleSize": 14
+                            }
+                        }
+                    }
+                }
+            },
+            "Silvertail": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.23076923076923078,
+                                "SampleSize": 13
+                            }
+                        }
+                    }
+                }
+            },
+            "Siren": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 1.6666666666666667,
+                                "SampleSize": 3
+                            }
+                        }
+                    }
+                }
+            },
+            "Skeleton": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.9230769230769231,
+                                "SampleSize": 26
+                            }
+                        }
+                    }
+                }
+            },
+            "Snake Charmer": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.3333333333333333,
+                                "SampleSize": 9
+                            }
+                        }
+                    }
+                }
+            },
+            "Sock Puppet Ghost": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.5909090909090909,
+                                "SampleSize": 22
+                            }
+                        }
+                    }
+                }
+            },
+            "Speedy": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.5476190476190477,
+                                "SampleSize": 42
+                            }
+                        }
+                    }
+                }
+            },
+            "Spice Merchant": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.6190476190476191,
+                                "SampleSize": 21
+                            }
+                        }
+                    }
+                }
+            },
+            "Spider": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.7058823529411765,
+                                "SampleSize": 17
+                            }
+                        }
+                    }
+                }
+            },
+            "Spiked Burrower": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.52,
+                                "SampleSize": 25
+                            }
+                        }
+                    }
+                }
+            },
+            "Spiritual Steel": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.8313253012048193,
+                                "SampleSize": 83
+                            }
+                        }
+                    }
+                }
+            },
+            "Splintered Stone Sentry": {
                 "-": {
                     "-": {
                         "-": {
@@ -10856,13 +11132,145 @@
                     }
                 }
             },
+            "Spore Muncher": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.7,
+                                "SampleSize": 10
+                            }
+                        }
+                    }
+                }
+            },
+            "Sporeticus": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.5714285714285714,
+                                "SampleSize": 7
+                            }
+                        }
+                    }
+                }
+            },
+            "Squeaken": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.875,
+                                "SampleSize": 8
+                            }
+                        }
+                    }
+                }
+            },
+            "Stalagmite": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 1.1111111111111112,
+                                "SampleSize": 9
+                            }
+                        }
+                    }
+                }
+            },
+            "Stealth": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.65,
+                                "SampleSize": 20
+                            }
+                        }
+                    }
+                }
+            },
+            "Stone Cutter": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 1,
+                                "SampleSize": 6
+                            }
+                        }
+                    }
+                }
+            },
+            "Stone Maiden": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 1,
+                                "SampleSize": 7
+                            }
+                        }
+                    }
+                }
+            },
+            "Student of the Cheese Belt": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.7,
+                                "SampleSize": 10
+                            }
+                        }
+                    }
+                }
+            },
+            "Student of the Cheese Claw": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.7272727272727273,
+                                "SampleSize": 11
+                            }
+                        }
+                    }
+                }
+            },
+            "Student of the Cheese Fang": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.8888888888888888,
+                                "SampleSize": 18
+                            }
+                        }
+                    }
+                }
+            },
+            "Subterranean": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.4,
+                                "SampleSize": 5
+                            }
+                        }
+                    }
+                }
+            },
             "Supernatural": {
                 "-": {
                     "-": {
                         "-": {
                             "-": {
-                                "Marshmallow Monterey": 0.7368421052631579,
-                                "SampleSize": 19
+                                "Marshmallow Monterey": 0.6875,
+                                "SampleSize": 64
                             }
                         }
                     }
@@ -10880,69 +11288,31 @@
                     }
                 }
             },
-            "Toy Sylvan": {
+            "Taleweaver": {
                 "-": {
                     "-": {
                         "-": {
                             "-": {
-                                "Marshmallow Monterey": 0.7142857142857143,
+                                "Marshmallow Monterey": 0.5714285714285714,
                                 "SampleSize": 7
                             }
                         }
                     }
                 }
             },
-            "Trailblazer": {
+            "Terra": {
                 "-": {
                     "-": {
                         "-": {
                             "-": {
-                                "Marshmallow Monterey": 0.16666666666666666,
-                                "SampleSize": 6
+                                "Marshmallow Monterey": 0.3181818181818182,
+                                "SampleSize": 22
                             }
                         }
                     }
                 }
             },
-            "Water Nymph": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Marshmallow Monterey": 1,
-                                "SampleSize": 4
-                            }
-                        }
-                    }
-                }
-            },
-            "White": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Marshmallow Monterey": 0.46511627906976744,
-                                "SampleSize": 19,
-                                "White Egg": 0.3684210526315789,
-                                "Lucky Egg": 0.05263157894736842
-                            }
-                        }
-                    }
-                }
-            },
-            "White Mage": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Marshmallow Monterey": 1.3333333333333333,
-                                "SampleSize": 3
-                            }
-                        }
-                    }
-                }
-            },
-            "Wordsmith": {
+            "Terror Knight": {
                 "-": {
                     "-": {
                         "-": {
@@ -10954,7 +11324,115 @@
                     }
                 }
             },
-            "Wound Up White": {
+            "Toy Sylvan": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.45161290322580644,
+                                "SampleSize": 31
+                            }
+                        }
+                    }
+                }
+            },
+            "Trailblazer": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.18181818181818182,
+                                "SampleSize": 11
+                            }
+                        }
+                    }
+                }
+            },
+            "Treant": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.75,
+                                "SampleSize": 4
+                            }
+                        }
+                    }
+                }
+            },
+            "Vampire": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.9,
+                                "SampleSize": 10
+                            }
+                        }
+                    }
+                }
+            },
+            "Water Nymph": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.2857142857142857,
+                                "SampleSize": 21
+                            }
+                        }
+                    }
+                }
+            },
+            "Wealth": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.46153846153846156,
+                                "SampleSize": 39
+                            }
+                        }
+                    }
+                }
+            },
+            "White": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.4497354497354497,
+                                "SampleSize": 189
+                            }
+                        }
+                    }
+                }
+            },
+            "White Mage": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.7894736842105263,
+                                "SampleSize": 19
+                            }
+                        }
+                    }
+                }
+            },
+            "Wordsmith": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.6875,
+                                "SampleSize": 16
+                            }
+                        }
+                    }
+                }
+            },
+            "Worker": {
                 "-": {
                     "-": {
                         "-": {
@@ -10966,13 +11444,37 @@
                     }
                 }
             },
+            "Wound Up White": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.72,
+                                "SampleSize": 25
+                            }
+                        }
+                    }
+                }
+            },
+            "Zephyr": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Marshmallow Monterey": 0.4375,
+                                "SampleSize": 16
+                            }
+                        }
+                    }
+                }
+            },
             "Zombie": {
                 "-": {
                     "-": {
                         "-": {
                             "-": {
-                                "Marshmallow Monterey": 0.8333333333333334,
-                                "SampleSize": 6
+                                "Marshmallow Monterey": 0.6086956521739131,
+                                "SampleSize": 23
                             }
                         }
                     }
@@ -10984,427 +11486,6 @@
                         "-": {
                             "-": {
                                 "Marshmallow Monterey": 1,
-                                "SampleSize": 1
-                            }
-                        }
-                    }
-                }
-            },
-            "Abominable Snow": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Abominable Snow Egg": 1,
-                                "SampleSize": 3
-                            }
-                        }
-                    }
-                }
-            },
-            "Absolute Acolyte": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Absolute Acolyte Egg": 1,
-                                "SampleSize": 1
-                            }
-                        }
-                    }
-                }
-            },
-            "Acolyte": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Acolyte Egg": 1,
-                                "SampleSize": 1
-                            }
-                        }
-                    }
-                }
-            },
-            "Ascended Elder": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Ascended Elder Egg": 1,
-                                "SampleSize": 6
-                            }
-                        }
-                    }
-                }
-            },
-            "Chamber Cleaver": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Chamber Cleaver Egg": 1,
-                                "SampleSize": 8
-                            }
-                        }
-                    }
-                }
-            },
-            "Corrupt": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Corrupt Egg": 1,
-                                "SampleSize": 1
-                            }
-                        }
-                    }
-                }
-            },
-            "Crate Camo": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Crate Egg": 0.3333333333333333,
-                                "SampleSize": 3
-                            }
-                        }
-                    }
-                }
-            },
-            "Cute Crate Carrier": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Crate Egg": 0.5,
-                                "SampleSize": 2
-                            }
-                        }
-                    }
-                }
-            },
-            "Captain Croissant": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Croissant Egg": 1,
-                                "SampleSize": 1
-                            }
-                        }
-                    }
-                }
-            },
-            "Cursed Librarian": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Lucky Egg": 0.5,
-                                "SampleSize": 2
-                            }
-                        }
-                    }
-                }
-            },
-            "Decrepit Tentacle Terror": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Decrepit Tentacle Egg": 1,
-                                "SampleSize": 4
-                            }
-                        }
-                    }
-                }
-            },
-            "Dragon": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Dragon Egg": 1,
-                                "SampleSize": 1
-                            }
-                        }
-                    }
-                }
-            },
-            "Ful'Mina, The Mountain Queen": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Ful'Mina Egg": 0.11290322580645161,
-                                "SampleSize": 62,
-                                "Lucky Egg": 0.016129032258064516
-                            }
-                        }
-                    }
-                }
-            },
-            "Gargantuamouse": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Gargantua Egg": 1,
-                                "SampleSize": 1
-                            }
-                        }
-                    }
-                }
-            },
-            "Grand Master of the Dojo": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Grand Master of the Dojo Egg": 1,
-                                "SampleSize": 23
-                            }
-                        }
-                    }
-                }
-            },
-            "Lord Splodington": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Icewing's Generals Egg": 1,
-                                "SampleSize": 1
-                            }
-                        }
-                    }
-                }
-            },
-            "Living Salt": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Living Salt Egg": 1,
-                                "SampleSize": 1
-                            }
-                        }
-                    }
-                }
-            },
-            "M400": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "M400 Egg": 1,
-                                "SampleSize": 3
-                            }
-                        }
-                    }
-                }
-            },
-            "Monster of the Meteor": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Monster of the Meteor Egg": 1,
-                                "SampleSize": 3
-                            }
-                        }
-                    }
-                }
-            },
-            "Menace of the Rift": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Null Rift Egg": 1,
-                                "SampleSize": 2
-                            }
-                        }
-                    }
-                }
-            },
-            "Barmy Gunner": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Pirate Crew Egg": 1,
-                                "SampleSize": 1
-                            }
-                        }
-                    }
-                }
-            },
-            "Bilged Boatswain": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Lucky Egg": 1,
-                                "SampleSize": 1
-                            }
-                        }
-                    }
-                }
-            },
-            "Pirate": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Pirate Egg": 1,
-                                "SampleSize": 5
-                            }
-                        }
-                    }
-                }
-            },
-            "Realm Ripper": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Realm Ripper Egg": 1,
-                                "SampleSize": 1
-                            }
-                        }
-                    }
-                }
-            },
-            "Monstrous Black Widow": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Rift Venom Egg": 1,
-                                "SampleSize": 10
-                            }
-                        }
-                    }
-                }
-            },
-            "Sharpshooter": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Sharpshooter Egg": 1,
-                                "SampleSize": 1
-                            }
-                        }
-                    }
-                }
-            },
-            "Shattered Carmine": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Shattered Egg": 1,
-                                "SampleSize": 1
-                            }
-                        }
-                    }
-                }
-            },
-            "Dark Magi": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Shattered Egg": 1,
-                                "SampleSize": 4
-                            }
-                        }
-                    }
-                }
-            },
-            "King Scarab": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Shattered Egg": 1,
-                                "SampleSize": 1
-                            }
-                        }
-                    }
-                }
-            },
-            "Thistle": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Thistle Egg": 1,
-                                "SampleSize": 1
-                            }
-                        }
-                    }
-                }
-            },
-            "Thunderlord": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Thunder Egg": 1,
-                                "SampleSize": 15
-                            }
-                        }
-                    }
-                }
-            },
-            "Tiny": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Tiny Egg": 1,
-                                "SampleSize": 3
-                            }
-                        }
-                    }
-                }
-            },
-            "Tritus": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Tritus Egg": 1,
-                                "SampleSize": 1
-                            }
-                        }
-                    }
-                }
-            },
-            "Bounty Hunter": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Wanted Poster Egg": 1,
-                                "SampleSize": 1
-                            }
-                        }
-                    }
-                }
-            },
-            "Warmonger": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Warmonger Egg": 1,
                                 "SampleSize": 1
                             }
                         }

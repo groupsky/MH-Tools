@@ -740,21 +740,21 @@
             },
             "Marshmallow Monterey": {
                 "-": {
-                    "Egg Painter": 23.16,
-                    "SampleSize": 95,
-                    "Carefree Cook": 10.53,
-                    "Eggscavator": 9.47,
-                    "Egg Scrambler": 9.47,
-                    "Eggsplosive Scientist": 7.37,
-                    "Coco Commander": 7.37,
-                    "Hare Razer": 5.26,
-                    "Chocolate Overload": 5.26,
-                    "Hardboiled": 5.26,
-                    "Spring Sprig": 5.26,
-                    "Chocolate Gold Foil": 4.21,
-                    "Pan Slammer": 4.21,
-                    "Onion Chopper": 2.11,
-                    "Eggsquisite Entertainer": 1.05
+                    "Egg Painter": 22.06,
+                    "SampleSize": 136,
+                    "Carefree Cook": 11.76,
+                    "Egg Scrambler": 10.29,
+                    "Eggsplosive Scientist": 8.09,
+                    "Eggscavator": 8.09,
+                    "Coco Commander": 6.62,
+                    "Chocolate Overload": 5.88,
+                    "Chocolate Gold Foil": 5.88,
+                    "Hardboiled": 5.15,
+                    "Spring Sprig": 5.15,
+                    "Pan Slammer": 3.68,
+                    "Hare Razer": 3.68,
+                    "Onion Chopper": 2.94,
+                    "Eggsquisite Entertainer": 0.74
                 }
             }
         }
@@ -1130,6 +1130,27 @@
                     "Circuit Judge": 16.67
                 }
             }
+        },
+        "-": {
+            "Marshmallow Monterey": {
+                "-": {
+                    "Egg Painter": 26.98,
+                    "SampleSize": 126,
+                    "Spring Sprig": 9.52,
+                    "Eggsplosive Scientist": 7.94,
+                    "Egg Scrambler": 7.94,
+                    "Chocolate Overload": 7.14,
+                    "Hare Razer": 6.35,
+                    "Chocolate Gold Foil": 6.35,
+                    "Carefree Cook": 5.56,
+                    "Eggscavator": 5.56,
+                    "Coco Commander": 5.56,
+                    "Eggsquisite Entertainer": 3.97,
+                    "Pan Slammer": 3.97,
+                    "Onion Chopper": 1.59,
+                    "Hardboiled": 1.59
+                }
+            }
         }
     },
     "Crystal Library": {
@@ -1481,17 +1502,18 @@
             },
             "Marshmallow Monterey": {
                 "-": {
-                    "Egg Painter": 21.05,
-                    "SampleSize": 19,
-                    "Chocolate Gold Foil": 15.79,
-                    "Hare Razer": 10.53,
-                    "Coco Commander": 10.53,
-                    "Chocolate Overload": 10.53,
-                    "Pan Slammer": 10.53,
-                    "Carefree Cook": 5.26,
-                    "Eggscavator": 5.26,
-                    "Eggsquisite Entertainer": 5.26,
-                    "Spring Sprig": 5.26
+                    "Egg Painter": 25,
+                    "SampleSize": 36,
+                    "Eggscavator": 11.11,
+                    "Chocolate Gold Foil": 11.11,
+                    "Carefree Cook": 11.11,
+                    "Coco Commander": 8.33,
+                    "Chocolate Overload": 8.33,
+                    "Eggsplosive Scientist": 5.56,
+                    "Hare Razer": 5.56,
+                    "Pan Slammer": 5.56,
+                    "Eggsquisite Entertainer": 5.56,
+                    "Spring Sprig": 2.78
                 }
             }
         }
@@ -2793,21 +2815,21 @@
             },
             "Marshmallow Monterey": {
                 "-": {
-                    "Egg Painter": 24.76,
-                    "SampleSize": 420,
-                    "Chocolate Overload": 11.19,
-                    "Coco Commander": 10.48,
-                    "Eggsplosive Scientist": 8.81,
-                    "Egg Scrambler": 8.33,
-                    "Eggscavator": 7.86,
-                    "Spring Sprig": 5.95,
-                    "Chocolate Gold Foil": 4.76,
-                    "Pan Slammer": 4.29,
-                    "Carefree Cook": 4.05,
-                    "Hardboiled": 2.86,
-                    "Onion Chopper": 2.62,
-                    "Hare Razer": 2.14,
-                    "Eggsquisite Entertainer": 1.9
+                    "Egg Painter": 22.67,
+                    "SampleSize": 1041,
+                    "Chocolate Overload": 10.28,
+                    "Coco Commander": 9.99,
+                    "Egg Scrambler": 9.22,
+                    "Eggscavator": 8.84,
+                    "Eggsplosive Scientist": 7.88,
+                    "Spring Sprig": 5.96,
+                    "Chocolate Gold Foil": 5.76,
+                    "Carefree Cook": 4.32,
+                    "Pan Slammer": 3.55,
+                    "Onion Chopper": 3.27,
+                    "Hardboiled": 3.27,
+                    "Hare Razer": 2.59,
+                    "Eggsquisite Entertainer": 2.4
                 }
             }
         }
@@ -2890,21 +2912,38 @@
             },
             "Marshmallow Monterey": {
                 "-": {
-                    "Egg Painter": 21.6,
-                    "SampleSize": 125,
-                    "Chocolate Overload": 10.4,
-                    "Eggsplosive Scientist": 9.6,
-                    "Eggscavator": 8.8,
-                    "Egg Scrambler": 7.2,
-                    "Chocolate Gold Foil": 6.4,
-                    "Coco Commander": 5.6,
-                    "Pan Slammer": 5.6,
-                    "Spring Sprig": 5.6,
-                    "Carefree Cook": 4.8,
-                    "Onion Chopper": 4.8,
-                    "Hare Razer": 4,
-                    "Hardboiled": 4,
-                    "Eggsquisite Entertainer": 1.6
+                    "Egg Painter": 20.91,
+                    "SampleSize": 373,
+                    "Coco Commander": 10.72,
+                    "Eggscavator": 9.12,
+                    "Egg Scrambler": 9.12,
+                    "Eggsplosive Scientist": 9.12,
+                    "Chocolate Overload": 7.24,
+                    "Carefree Cook": 6.17,
+                    "Chocolate Gold Foil": 5.09,
+                    "Hare Razer": 5.09,
+                    "Spring Sprig": 4.29,
+                    "Hardboiled": 4.02,
+                    "Pan Slammer": 3.75,
+                    "Eggsquisite Entertainer": 2.95,
+                    "Onion Chopper": 2.41
+                },
+                "Dark Chocolate": {
+                    "Egg Painter": 17.78,
+                    "SampleSize": 45,
+                    "Eggscavator": 13.33,
+                    "Sinister Egg Painter": 8.89,
+                    "Onion Chopper": 8.89,
+                    "Pan Slammer": 6.67,
+                    "Spring Sprig": 6.67,
+                    "Carefree Cook": 6.67,
+                    "Hare Razer": 6.67,
+                    "Chocolate Gold Foil": 4.44,
+                    "Hardboiled": 4.44,
+                    "Eggsquisite Entertainer": 4.44,
+                    "Eggsplosive Scientist": 4.44,
+                    "Coco Commander": 4.44,
+                    "Chocolate Overload": 2.22
                 }
             }
         }
@@ -5032,18 +5071,18 @@
             },
             "Marshmallow Monterey": {
                 "Dark Chocolate": {
-                    "Chocolate Gold Foil": 20.69,
-                    "SampleSize": 29,
                     "Eggsquisite Entertainer": 20.69,
+                    "SampleSize": 29,
+                    "Chocolate Gold Foil": 20.69,
                     "Egg Painter": 13.79,
-                    "Pan Slammer": 6.9,
                     "Sinister Egg Painter": 6.9,
                     "Spring Sprig": 6.9,
                     "Carefree Cook": 6.9,
                     "Onion Chopper": 6.9,
-                    "Coco Commander": 3.45,
+                    "Pan Slammer": 6.9,
                     "Hare Razer": 3.45,
-                    "Eggscavator": 3.45
+                    "Eggscavator": 3.45,
+                    "Coco Commander": 3.45
                 }
             }
         }
@@ -6096,20 +6135,33 @@
         "-": {
             "Marshmallow Monterey": {
                 "-": {
-                    "Egg Painter": 24,
-                    "SampleSize": 75,
-                    "Chocolate Gold Foil": 12,
-                    "Eggsplosive Scientist": 12,
-                    "Eggscavator": 9.33,
-                    "Egg Scrambler": 9.33,
-                    "Chocolate Overload": 9.33,
-                    "Coco Commander": 6.67,
-                    "Spring Sprig": 5.33,
-                    "Eggsquisite Entertainer": 4,
-                    "Hardboiled": 2.67,
-                    "Carefree Cook": 2.67,
-                    "Onion Chopper": 1.33,
-                    "Pan Slammer": 1.33
+                    "Egg Painter": 21.36,
+                    "SampleSize": 337,
+                    "Eggsplosive Scientist": 10.98,
+                    "Eggscavator": 10.09,
+                    "Coco Commander": 9.5,
+                    "Chocolate Overload": 9.5,
+                    "Chocolate Gold Foil": 8.31,
+                    "Egg Scrambler": 8.01,
+                    "Spring Sprig": 4.75,
+                    "Pan Slammer": 3.86,
+                    "Carefree Cook": 3.26,
+                    "Hardboiled": 2.97,
+                    "Eggsquisite Entertainer": 2.97,
+                    "Onion Chopper": 2.97,
+                    "Hare Razer": 1.48
+                },
+                "Dark Chocolate": {
+                    "Hare Razer": 26.67,
+                    "SampleSize": 15,
+                    "Sinister Egg Painter": 20,
+                    "Eggsquisite Entertainer": 13.33,
+                    "Egg Scrambler": 6.67,
+                    "Pan Slammer": 6.67,
+                    "Hardboiled": 6.67,
+                    "Spring Sprig": 6.67,
+                    "Carefree Cook": 6.67,
+                    "Egg Painter": 6.67
                 }
             }
         }
@@ -7939,6 +7991,24 @@
                     "Falling Carpet": 4.47,
                     "Spice Merchant": 4.1
                 }
+            },
+            "Marshmallow Monterey": {
+                "-": {
+                    "Egg Painter": 17.65,
+                    "SampleSize": 51,
+                    "Coco Commander": 13.73,
+                    "Carefree Cook": 9.8,
+                    "Egg Scrambler": 7.84,
+                    "Chocolate Overload": 7.84,
+                    "Chocolate Gold Foil": 7.84,
+                    "Hardboiled": 7.84,
+                    "Spring Sprig": 7.84,
+                    "Eggsplosive Scientist": 5.88,
+                    "Eggscavator": 5.88,
+                    "Pan Slammer": 3.92,
+                    "Hare Razer": 1.96,
+                    "Eggsquisite Entertainer": 1.96
+                }
             }
         }
     },
@@ -8173,21 +8243,21 @@
             },
             "Marshmallow Monterey": {
                 "-": {
-                    "Egg Painter": 20.48,
-                    "SampleSize": 83,
-                    "Eggsplosive Scientist": 10.84,
-                    "Egg Scrambler": 10.84,
-                    "Spring Sprig": 9.64,
-                    "Eggscavator": 8.43,
-                    "Chocolate Overload": 8.43,
-                    "Chocolate Gold Foil": 7.23,
-                    "Carefree Cook": 6.02,
-                    "Coco Commander": 4.82,
-                    "Eggsquisite Entertainer": 4.82,
-                    "Pan Slammer": 2.41,
-                    "Hardboiled": 2.41,
-                    "Hare Razer": 2.41,
-                    "Onion Chopper": 1.2
+                    "Egg Painter": 20,
+                    "SampleSize": 160,
+                    "Chocolate Overload": 12.5,
+                    "Egg Scrambler": 11.88,
+                    "Eggsplosive Scientist": 10.63,
+                    "Spring Sprig": 7.5,
+                    "Eggscavator": 7.5,
+                    "Chocolate Gold Foil": 6.88,
+                    "Carefree Cook": 6.25,
+                    "Coco Commander": 5.63,
+                    "Eggsquisite Entertainer": 3.75,
+                    "Pan Slammer": 3.13,
+                    "Hare Razer": 2.5,
+                    "Hardboiled": 1.25,
+                    "Onion Chopper": 0.63
                 }
             }
         }
@@ -9466,6 +9536,22 @@
                     "Subterranean": 4.56,
                     "Nugget": 0.42
                 }
+            },
+            "Marshmallow Monterey": {
+                "-": {
+                    "Egg Painter": 25,
+                    "SampleSize": 24,
+                    "Chocolate Overload": 16.67,
+                    "Eggsplosive Scientist": 16.67,
+                    "Eggscavator": 12.5,
+                    "Carefree Cook": 4.17,
+                    "Spring Sprig": 4.17,
+                    "Egg Scrambler": 4.17,
+                    "Chocolate Gold Foil": 4.17,
+                    "Pan Slammer": 4.17,
+                    "Eggsquisite Entertainer": 4.17,
+                    "Onion Chopper": 4.17
+                }
             }
         }
     },
@@ -9643,21 +9729,34 @@
             },
             "Marshmallow Monterey": {
                 "-": {
-                    "Egg Painter": 22.94,
-                    "SampleSize": 231,
-                    "Chocolate Overload": 12.12,
-                    "Coco Commander": 9.52,
-                    "Eggsplosive Scientist": 9.09,
-                    "Eggscavator": 9.09,
-                    "Chocolate Gold Foil": 8.66,
-                    "Egg Scrambler": 7.36,
-                    "Carefree Cook": 6.06,
-                    "Spring Sprig": 3.9,
-                    "Hardboiled": 3.46,
-                    "Pan Slammer": 3.03,
-                    "Hare Razer": 2.16,
-                    "Onion Chopper": 1.73,
-                    "Eggsquisite Entertainer": 0.87
+                    "Egg Painter": 21.69,
+                    "SampleSize": 567,
+                    "Chocolate Overload": 10.93,
+                    "Eggsplosive Scientist": 9.7,
+                    "Eggscavator": 8.64,
+                    "Egg Scrambler": 8.64,
+                    "Coco Commander": 7.76,
+                    "Chocolate Gold Foil": 6.7,
+                    "Spring Sprig": 6,
+                    "Carefree Cook": 5.64,
+                    "Onion Chopper": 3.7,
+                    "Pan Slammer": 3.7,
+                    "Hare Razer": 2.82,
+                    "Eggsquisite Entertainer": 2.12,
+                    "Hardboiled": 1.94
+                },
+                "Dark Chocolate": {
+                    "Sinister Egg Painter": 21.43,
+                    "SampleSize": 14,
+                    "Spring Sprig": 14.29,
+                    "Hare Razer": 14.29,
+                    "Eggscavator": 7.14,
+                    "Coco Commander": 7.14,
+                    "Chocolate Gold Foil": 7.14,
+                    "Pan Slammer": 7.14,
+                    "Eggsquisite Entertainer": 7.14,
+                    "Carefree Cook": 7.14,
+                    "Onion Chopper": 7.14
                 }
             }
         }
@@ -12355,21 +12454,21 @@
             },
             "Marshmallow Monterey": {
                 "-": {
-                    "Egg Painter": 20.42,
-                    "SampleSize": 142,
-                    "Coco Commander": 14.08,
-                    "Eggscavator": 10.56,
-                    "Eggsplosive Scientist": 8.45,
-                    "Chocolate Gold Foil": 8.45,
-                    "Egg Scrambler": 7.75,
-                    "Spring Sprig": 6.34,
-                    "Chocolate Overload": 5.63,
-                    "Carefree Cook": 4.23,
-                    "Hare Razer": 3.52,
-                    "Onion Chopper": 2.82,
-                    "Hardboiled": 2.82,
-                    "Eggsquisite Entertainer": 2.82,
-                    "Pan Slammer": 2.11
+                    "Egg Painter": 22.61,
+                    "SampleSize": 491,
+                    "Coco Commander": 9.98,
+                    "Eggsplosive Scientist": 9.78,
+                    "Egg Scrambler": 8.55,
+                    "Eggscavator": 8.55,
+                    "Chocolate Overload": 8.15,
+                    "Chocolate Gold Foil": 7.54,
+                    "Spring Sprig": 6.31,
+                    "Carefree Cook": 5.7,
+                    "Hare Razer": 3.46,
+                    "Pan Slammer": 2.85,
+                    "Eggsquisite Entertainer": 2.44,
+                    "Onion Chopper": 2.24,
+                    "Hardboiled": 1.83
                 }
             }
         },

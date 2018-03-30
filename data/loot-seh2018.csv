@@ -1,201 +1,196 @@
 "Location","Phase","Trap","Base","Cheese","Charm","Mouse","Loot","Qty","Sample"
-"-","-","-","-","-","-","Chocolate Gold Foil","Eggstra Charge Charm",1,98
-"-","-","-","-","-","-","Chocolate Overload","Eggscavator Charge Charm",0.5,138
-"-","-","-","-","-","-","Carefree Cook","Eggstra Charge Charm",1,81
-"-","-","-","-","-","-","Carefree Cook","Eggscavator Charge Charm",3,81
-"-","-","-","-","-","-","Egg Scrambler","Eggscavator Charge Charm",0.5081967213114754,122
-"-","-","-","-","-","-","Onion Chopper","Eggstra Charge Charm",1,35
-"-","-","-","-","-","-","Onion Chopper","Eggscavator Charge Charm",3,35
-"-","-","-","-","-","-","Coco Commander","Eggscavator Charge Charm",0.6412213740458015,131
-"-","-","-","-","-","-","Eggsplosive Scientist","Eggstra Charge Charm",1.4,125
-"-","-","-","-","-","-","Eggsplosive Scientist","Eggscavator Charge Charm",1.504,125
-"-","-","-","-","-","-","Eggscavator","Eggscavator Charge Charm",2.9754098360655736,122
-"-","-","-","-","-","-","Eggscavator","Eggstra Charge Charm",1.4098360655737705,122
-"-","-","-","-","-","-","Hare Razer","Eggstra Charge Charm",2,41
-"-","-","-","-","-","-","Hare Razer","Eggscavator Charge Charm",3,41
-"-","-","-","-","-","-","Pan Slammer","Eggstra Charge Charm",1,54
-"-","-","-","-","-","-","Pan Slammer","Eggscavator Charge Charm",3,54
-"-","-","-","-","-","-","Aged","Marshmallow Monterey",1.5,2
-"-","-","-","-","-","-","Agitated Gentle Giant","Marshmallow Monterey",0.5,14
-"-","-","-","-","-","-","Aquos","Marshmallow Monterey",1,2
-"-","-","-","-","-","-","Archer","Marshmallow Monterey",0.6666666666666666,9
-"-","-","-","-","-","-","Assassin","Marshmallow Monterey",2,1
-"-","-","-","-","-","-","Bandit","Marshmallow Monterey",0.4117647058823529,17
-"-","-","-","-","-","-","Berserker","Marshmallow Monterey",1,2
-"-","-","-","-","-","-","Bionic","Marshmallow Monterey",0.24,25
-"-","-","-","-","-","-","Bitter Root","Marshmallow Monterey",1.1666666666666667,6
-"-","-","-","-","-","-","Bottled","Marshmallow Monterey",1,1
-"-","-","-","-","-","-","Brawny","Marshmallow Monterey",0.7894736842105263,19
-"-","-","-","-","-","-","Briegull","Marshmallow Monterey",1.5,2
-"-","-","-","-","-","-","Brown","Marshmallow Monterey",0.46808510638297873,47
-"-","-","-","-","-","-","Buccaneer","Marshmallow Monterey",0.875,8
-"-","-","-","-","-","-","Captain","Marshmallow Monterey",0.625,8
+"-","-","-","-","-","-","Chocolate Gold Foil","Eggstra Charge Charm",1,269
+"-","-","-","-","-","-","Chocolate Overload","Eggscavator Charge Charm",0.49214659685863876,382
+"-","-","-","-","-","-","Carefree Cook","Eggstra Charge Charm",1,225
+"-","-","-","-","-","-","Carefree Cook","Eggscavator Charge Charm",3,225
+"-","-","-","-","-","-","Egg Scrambler","Eggscavator Charge Charm",0.5513513513513514,370
+"-","-","-","-","-","-","Onion Chopper","Eggstra Charge Charm",1,128
+"-","-","-","-","-","-","Onion Chopper","Eggscavator Charge Charm",3,128
+"-","-","-","-","-","-","Coco Commander","Eggscavator Charge Charm",0.6522842639593909,394
+"-","-","-","-","-","-","Eggsplosive Scientist","Eggstra Charge Charm",1.324022346368715,358
+"-","-","-","-","-","-","Eggsplosive Scientist","Eggscavator Charge Charm",1.5837988826815643,358
+"-","-","-","-","-","-","Eggscavator","Eggscavator Charge Charm",3,370
+"-","-","-","-","-","-","Eggscavator","Eggstra Charge Charm",1.4,370
+"-","-","-","-","-","-","Hare Razer","Eggstra Charge Charm",2,136
+"-","-","-","-","-","-","Hare Razer","Eggscavator Charge Charm",3,136
+"-","-","-","-","-","-","Pan Slammer","Eggstra Charge Charm",1,154
+"-","-","-","-","-","-","Pan Slammer","Eggscavator Charge Charm",3,154
+"-","-","-","-","-","-","Aged","Marshmallow Monterey",0.7142857142857143,7
+"-","-","-","-","-","-","Agitated Gentle Giant","Marshmallow Monterey",0.7575757575757576,66
+"-","-","-","-","-","-","Aquos","Marshmallow Monterey",0.75,20
+"-","-","-","-","-","-","Archer","Marshmallow Monterey",0.48717948717948717,39
+"-","-","-","-","-","-","Assassin","Marshmallow Monterey",1,2
+"-","-","-","-","-","-","Bandit","Marshmallow Monterey",0.5416666666666666,24
+"-","-","-","-","-","-","Bat","Marshmallow Monterey",0.3684210526315789,19
+"-","-","-","-","-","-","Berserker","Marshmallow Monterey",0.5238095238095238,21
+"-","-","-","-","-","-","Bionic","Marshmallow Monterey",0.2987012987012987,77
+"-","-","-","-","-","-","Bitter Root","Marshmallow Monterey",0.6428571428571429,28
+"-","-","-","-","-","-","Black Mage","Marshmallow Monterey",0.25,8
+"-","-","-","-","-","-","Blacksmith","Marshmallow Monterey",0.4166666666666667,12
+"-","-","-","-","-","-","Bottled","Marshmallow Monterey",0.8181818181818182,11
+"-","-","-","-","-","-","Brawny","Marshmallow Monterey",0.6388888888888888,72
+"-","-","-","-","-","-","Briegull","Marshmallow Monterey",0.7142857142857143,7
+"-","-","-","-","-","-","Brown","Marshmallow Monterey",0.4074074074074074,162
+"-","-","-","-","-","-","Buccaneer","Marshmallow Monterey",0.56,25
+"-","-","-","-","-","-","Captain","Marshmallow Monterey",0.6774193548387096,31
+"-","-","-","-","-","-","Caretaker","Marshmallow Monterey",0.16666666666666666,6
+"-","-","-","-","-","-","Cavalier","Marshmallow Monterey",0.5,14
+"-","-","-","-","-","-","Cavern Crumbler","Marshmallow Monterey",0.5,4
+"-","-","-","-","-","-","Centaur","Marshmallow Monterey",0.25,8
+"-","-","-","-","-","-","Chameleon","Marshmallow Monterey",0.25,4
+"-","-","-","-","-","-","Clockwork Samurai","Marshmallow Monterey",0.23809523809523808,21
 "-","-","-","-","-","-","Cook","Marshmallow Monterey",1,1
-"-","-","-","-","-","-","Cowardly","Marshmallow Monterey",0.49122807017543857,57
-"-","-","-","-","-","-","Crag Elder","Marshmallow Monterey",2,1
-"-","-","-","-","-","-","Crown Collector","Marshmallow Monterey",1,2
-"-","-","-","-","-","-","Crystal Behemoth","Marshmallow Monterey",1,4
-"-","-","-","-","-","-","Crystal Cave Worm","Marshmallow Monterey",1,1
-"-","-","-","-","-","-","Crystal Controller","Marshmallow Monterey",1,1
-"-","-","-","-","-","-","Crystal Observer","Marshmallow Monterey",0.5,2
-"-","-","-","-","-","-","Crystal Queen","Marshmallow Monterey",0.5,2
-"-","-","-","-","-","-","Crystalline Slasher","Marshmallow Monterey",1,3
-"-","-","-","-","-","-","Cyborg","Marshmallow Monterey",0.2857142857142857,7
-"-","-","-","-","-","-","Demolitions","Marshmallow Monterey",1,1
-"-","-","-","-","-","-","Desert Architect","Marshmallow Monterey",1,2
-"-","-","-","-","-","-","Diamond","Marshmallow Monterey",0.16666666666666666,24
-"-","-","-","-","-","-","Dream Drifter","Marshmallow Monterey",1,6
-"-","-","-","-","-","-","Drummer","Marshmallow Monterey",1,7
-"-","-","-","-","-","-","Dwarf","Marshmallow Monterey",0.5238095238095238,42
-"-","-","-","-","-","-","Eagle Owl","Marshmallow Monterey",1,1
-"-","-","-","-","-","-","Eclipse","Marshmallow Monterey",0.5,20
-"-","-","-","-","-","-","Escape Artist","Marshmallow Monterey",0.5,6
-"-","-","-","-","-","-","Excitable Electric","Marshmallow Monterey",0.5,8
-"-","-","-","-","-","-","Falling Carpet","Marshmallow Monterey",0.8,5
-"-","-","-","-","-","-","Fencer","Marshmallow Monterey",0.3333333333333333,3
-"-","-","-","-","-","-","Fiddler","Marshmallow Monterey",1.5,2
-"-","-","-","-","-","-","Fiend","Marshmallow Monterey",0.5769230769230769,26
-"-","-","-","-","-","-","Floating Spore","Marshmallow Monterey",0.6666666666666666,9
-"-","-","-","-","-","-","Flying","Marshmallow Monterey",0.29411764705882354,17
-"-","-","-","-","-","-","Funglore","Marshmallow Monterey",0.7142857142857143,7
-"-","-","-","-","-","-","Ghost","Marshmallow Monterey",0.2857142857142857,7
-"-","-","-","-","-","-","Glass Blower","Marshmallow Monterey",0.8,5
-"-","-","-","-","-","-","Gold","Marshmallow Monterey",0.14285714285714285,21
-"-","-","-","-","-","-","Goliath Field","Marshmallow Monterey",1,7
-"-","-","-","-","-","-","Granite","Marshmallow Monterey",0.30434782608695654,23
+"-","-","-","-","-","-","Core Sample","Marshmallow Monterey",1,2
+"-","-","-","-","-","-","Cowardly","Marshmallow Monterey",0.5732484076433121,157
+"-","-","-","-","-","-","Cowbell","Marshmallow Monterey",0.6470588235294118,17
+"-","-","-","-","-","-","Crag Elder","Marshmallow Monterey",1.2857142857142858,7
+"-","-","-","-","-","-","Crown Collector","Marshmallow Monterey",0.4,5
+"-","-","-","-","-","-","Crystal Behemoth","Marshmallow Monterey",0.55,20
+"-","-","-","-","-","-","Crystal Cave Worm","Marshmallow Monterey",1.1666666666666667,6
+"-","-","-","-","-","-","Crystal Controller","Marshmallow Monterey",0.7931034482758621,29
+"-","-","-","-","-","-","Crystal Golem","Marshmallow Monterey",0.6,5
+"-","-","-","-","-","-","Crystal Lurker","Marshmallow Monterey",1.0909090909090908,11
+"-","-","-","-","-","-","Crystal Observer","Marshmallow Monterey",0.4666666666666667,15
+"-","-","-","-","-","-","Crystal Queen","Marshmallow Monterey",0.44,25
+"-","-","-","-","-","-","Crystalback","Marshmallow Monterey",0.7333333333333333,15
+"-","-","-","-","-","-","Crystalline Slasher","Marshmallow Monterey",0.75,4
+"-","-","-","-","-","-","Curious Chemist","Marshmallow Monterey",0.8333333333333334,6
+"-","-","-","-","-","-","Cyborg","Marshmallow Monterey",0.7049180327868853,61
+"-","-","-","-","-","-","Dancer","Marshmallow Monterey",0.7142857142857143,7
+"-","-","-","-","-","-","Demolitions","Marshmallow Monterey",0.42857142857142855,7
+"-","-","-","-","-","-","Desert Architect","Marshmallow Monterey",1,9
+"-","-","-","-","-","-","Diamond","Marshmallow Monterey",0.26666666666666666,75
+"-","-","-","-","-","-","Diamondhide","Marshmallow Monterey",1,2
+"-","-","-","-","-","-","Dirt Thing","Marshmallow Monterey",1,3
+"-","-","-","-","-","-","Dream Drifter","Marshmallow Monterey",0.9333333333333333,15
+"-","-","-","-","-","-","Drummer","Marshmallow Monterey",0.5897435897435898,39
+"-","-","-","-","-","-","Dwarf","Marshmallow Monterey",0.5106382978723404,141
+"-","-","-","-","-","-","Eagle Owl","Marshmallow Monterey",0.42857142857142855,7
+"-","-","-","-","-","-","Eclipse","Marshmallow Monterey",0.5161290322580645,93
+"-","-","-","-","-","-","Elder","Marshmallow Monterey",1,4
+"-","-","-","-","-","-","Elven Princess","Marshmallow Monterey",1.5,2
+"-","-","-","-","-","-","Escape Artist","Marshmallow Monterey",0.6956521739130435,23
+"-","-","-","-","-","-","Excitable Electric","Marshmallow Monterey",0.5483870967741935,62
+"-","-","-","-","-","-","Falling Carpet","Marshmallow Monterey",0.7894736842105263,19
+"-","-","-","-","-","-","Fencer","Marshmallow Monterey",0.8181818181818182,11
+"-","-","-","-","-","-","Fiddler","Marshmallow Monterey",0.5789473684210527,19
+"-","-","-","-","-","-","Fiend","Marshmallow Monterey",0.6981132075471698,53
+"-","-","-","-","-","-","Floating Spore","Marshmallow Monterey",0.8055555555555556,36
+"-","-","-","-","-","-","Flying","Marshmallow Monterey",0.4918032786885246,61
+"-","-","-","-","-","-","Foxy","Marshmallow Monterey",1,1
+"-","-","-","-","-","-","Funglore","Marshmallow Monterey",0.6595744680851063,47
+"-","-","-","-","-","-","Gemorpher","Marshmallow Monterey",0.3333333333333333,24
+"-","-","-","-","-","-","Ghost","Marshmallow Monterey",0.6666666666666666,30
+"-","-","-","-","-","-","Giant Snail","Marshmallow Monterey",1,10
+"-","-","-","-","-","-","Glass Blower","Marshmallow Monterey",0.6818181818181818,22
+"-","-","-","-","-","-","Gold","Marshmallow Monterey",0.3194444444444444,72
+"-","-","-","-","-","-","Goldleaf","Marshmallow Monterey",1.3333333333333333,3
+"-","-","-","-","-","-","Golem","Marshmallow Monterey",0.08333333333333333,36
+"-","-","-","-","-","-","Goliath Field","Marshmallow Monterey",0.7777777777777778,18
+"-","-","-","-","-","-","Granite","Marshmallow Monterey",0.3389830508474576,59
 "-","-","-","-","-","-","Grave Robber","Marshmallow Monterey",1,1
-"-","-","-","-","-","-","Grey","Marshmallow Monterey",0.40425531914893614,47
-"-","-","-","-","-","-","Greyrun","Marshmallow Monterey",1,16
-"-","-","-","-","-","-","Guqin Player","Marshmallow Monterey",2,1
-"-","-","-","-","-","-","Hapless Marionette","Marshmallow Monterey",0.3333333333333333,6
-"-","-","-","-","-","-","Healer","Marshmallow Monterey",0.75,4
-"-","-","-","-","-","-","Huntereater","Marshmallow Monterey",1,3
-"-","-","-","-","-","-","Hydra","Marshmallow Monterey",0.875,8
-"-","-","-","-","-","-","Ignis","Marshmallow Monterey",0.25,4
-"-","-","-","-","-","-","Impersonator","Marshmallow Monterey",0.5,10
-"-","-","-","-","-","-","Keeper's Assistant","Marshmallow Monterey",1,1
-"-","-","-","-","-","-","Knight","Marshmallow Monterey",1.25,4
-"-","-","-","-","-","-","Kung Fu","Marshmallow Monterey",0.3333333333333333,6
-"-","-","-","-","-","-","Leviathan","Marshmallow Monterey",0.3333333333333333,3
-"-","-","-","-","-","-","Limestone Miner","Marshmallow Monterey",1,8
-"-","-","-","-","-","-","Lockpick","Marshmallow Monterey",0.5555555555555556,9
-"-","-","-","-","-","-","Longtail","Marshmallow Monterey",0.875,8
-"-","-","-","-","-","-","Lumahead","Marshmallow Monterey",0.5,8
-"-","-","-","-","-","-","Lumberjack","Marshmallow Monterey",0.3333333333333333,3
-"-","-","-","-","-","-","Mage Weaver","Marshmallow Monterey",1,1
-"-","-","-","-","-","-","Magic","Marshmallow Monterey",0.6666666666666666,6
-"-","-","-","-","-","-","Market Guard","Marshmallow Monterey",1.6666666666666667,3
-"-","-","-","-","-","-","Mighty Mole","Marshmallow Monterey",0.5,2
-"-","-","-","-","-","-","Moosker","Marshmallow Monterey",2,1
-"-","-","-","-","-","-","Mouldy Mole","Marshmallow Monterey",1,2
-"-","-","-","-","-","-","Mush","Marshmallow Monterey",0.3333333333333333,12
-"-","-","-","-","-","-","Mushroom Sprite","Marshmallow Monterey",1,2
-"-","-","-","-","-","-","Narrator","Marshmallow Monterey",1,5
-"-","-","-","-","-","-","Necromancer","Marshmallow Monterey",1,3
-"-","-","-","-","-","-","Nibbler","Marshmallow Monterey",0.6,5
-"-","-","-","-","-","-","Nightshade Masquerade","Marshmallow Monterey",2,1
-"-","-","-","-","-","-","Ninja","Marshmallow Monterey",0.6,5
-"-","-","-","-","-","-","Page","Marshmallow Monterey",0.8333333333333334,6
-"-","-","-","-","-","-","Pathfinder","Marshmallow Monterey",0.6,5
-"-","-","-","-","-","-","Pie Thief","Marshmallow Monterey",1,6
-"-","-","-","-","-","-","Pinchy","Marshmallow Monterey",0.5,2
-"-","-","-","-","-","-","Pugilist","Marshmallow Monterey",0.42857142857142855,21
-"-","-","-","-","-","-","Puppet Master","Marshmallow Monterey",2,1
-"-","-","-","-","-","-","Quillback","Marshmallow Monterey",1,8
-"-","-","-","-","-","-","Rift Guardian","Marshmallow Monterey",0.8333333333333334,6
-"-","-","-","-","-","-","Riftweaver","Marshmallow Monterey",0.5,16
-"-","-","-","-","-","-","Sacred Shrine","Marshmallow Monterey",0.3333333333333333,3
-"-","-","-","-","-","-","Salt Water Snapper","Marshmallow Monterey",1,4
-"-","-","-","-","-","-","Samurai","Marshmallow Monterey",0.5,8
-"-","-","-","-","-","-","Scout","Marshmallow Monterey",0.5,4
-"-","-","-","-","-","-","Shard Centurion","Marshmallow Monterey",0.6,5
-"-","-","-","-","-","-","Shipwrecked","Marshmallow Monterey",0.6,5
-"-","-","-","-","-","-","Silvertail","Marshmallow Monterey",0.4,5
-"-","-","-","-","-","-","Siren","Marshmallow Monterey",2,1
-"-","-","-","-","-","-","Skeleton","Marshmallow Monterey",1,1
-"-","-","-","-","-","-","Snake Charmer","Marshmallow Monterey",0.6666666666666666,3
-"-","-","-","-","-","-","Sock Puppet Ghost","Marshmallow Monterey",0.375,8
-"-","-","-","-","-","-","Speedy","Marshmallow Monterey",0.4166666666666667,12
-"-","-","-","-","-","-","Spice Merchant","Marshmallow Monterey",0.42857142857142855,7
-"-","-","-","-","-","-","Spiked Burrower","Marshmallow Monterey",0.4,5
-"-","-","-","-","-","-","Spiritual Steel","Marshmallow Monterey",1,8
-"-","-","-","-","-","-","Spore Muncher","Marshmallow Monterey",1,2
-"-","-","-","-","-","-","Squeaken","Marshmallow Monterey",0.3333333333333333,3
-"-","-","-","-","-","-","Stealth","Marshmallow Monterey",0.625,8
-"-","-","-","-","-","-","Steel","Marshmallow Monterey",0.4117647058823529,17
-"-","-","-","-","-","-","Stone Maiden","Marshmallow Monterey",1,2
-"-","-","-","-","-","-","Student of the Cheese Belt","Marshmallow Monterey",0.5,2
-"-","-","-","-","-","-","Supernatural","Marshmallow Monterey",0.7368421052631579,19
+"-","-","-","-","-","-","Grey","Marshmallow Monterey",0.37662337662337664,154
+"-","-","-","-","-","-","Greyrun","Marshmallow Monterey",0.6987951807228916,83
+"-","-","-","-","-","-","Guqin Player","Marshmallow Monterey",0.8695652173913043,23
+"-","-","-","-","-","-","Hapless","Marshmallow Monterey",0.4444444444444444,9
+"-","-","-","-","-","-","Hapless Marionette","Marshmallow Monterey",0.5714285714285714,35
+"-","-","-","-","-","-","Healer","Marshmallow Monterey",0.5,14
+"-","-","-","-","-","-","Huntereater","Marshmallow Monterey",0.7,10
+"-","-","-","-","-","-","Hydra","Marshmallow Monterey",0.56,25
+"-","-","-","-","-","-","Ignis","Marshmallow Monterey",0.6666666666666666,12
+"-","-","-","-","-","-","Impersonator","Marshmallow Monterey",0.5238095238095238,21
+"-","-","-","-","-","-","Industrious Digger","Marshmallow Monterey",0.9090909090909091,11
+"-","-","-","-","-","-","Itty-Bitty Burroughs","Marshmallow Monterey",0.9,10
+"-","-","-","-","-","-","Keeper's Assistant","Marshmallow Monterey",1,18
+"-","-","-","-","-","-","Knight","Marshmallow Monterey",0.7837837837837838,37
+"-","-","-","-","-","-","Kung Fu","Marshmallow Monterey",0.7368421052631579,19
+"-","-","-","-","-","-","Lambent Crystal","Marshmallow Monterey",0.14285714285714285,7
+"-","-","-","-","-","-","Leviathan","Marshmallow Monterey",0.6666666666666666,15
+"-","-","-","-","-","-","Limestone Miner","Marshmallow Monterey",1.0555555555555556,18
+"-","-","-","-","-","-","Lockpick","Marshmallow Monterey",0.5833333333333334,24
+"-","-","-","-","-","-","Longtail","Marshmallow Monterey",0.5853658536585366,41
+"-","-","-","-","-","-","Lumahead","Marshmallow Monterey",0.6,50
+"-","-","-","-","-","-","Lumberjack","Marshmallow Monterey",0.6428571428571429,28
+"-","-","-","-","-","-","Mage Weaver","Marshmallow Monterey",0.7142857142857143,7
+"-","-","-","-","-","-","Magic","Marshmallow Monterey",0.5454545454545454,11
+"-","-","-","-","-","-","Market Guard","Marshmallow Monterey",1,8
+"-","-","-","-","-","-","Master Burglar","Marshmallow Monterey",0.5833333333333334,12
+"-","-","-","-","-","-","Mermouse","Marshmallow Monterey",0.25,4
+"-","-","-","-","-","-","Micro","Marshmallow Monterey",0.5185185185185185,27
+"-","-","-","-","-","-","Mighty Mole","Marshmallow Monterey",0.5714285714285714,14
+"-","-","-","-","-","-","Miner","Marshmallow Monterey",1,9
+"-","-","-","-","-","-","Monk","Marshmallow Monterey",0.7058823529411765,17
+"-","-","-","-","-","-","Moosker","Marshmallow Monterey",2,2
+"-","-","-","-","-","-","Mouldy Mole","Marshmallow Monterey",1.2727272727272727,11
+"-","-","-","-","-","-","Mummy","Marshmallow Monterey",0.08333333333333333,12
+"-","-","-","-","-","-","Mush","Marshmallow Monterey",0.5581395348837209,43
+"-","-","-","-","-","-","Mushroom Sprite","Marshmallow Monterey",0.6521739130434783,23
+"-","-","-","-","-","-","Narrator","Marshmallow Monterey",0.625,8
+"-","-","-","-","-","-","Necromancer","Marshmallow Monterey",0.7777777777777778,9
+"-","-","-","-","-","-","Nibbler","Marshmallow Monterey",0.7857142857142857,14
+"-","-","-","-","-","-","Nightshade Masquerade","Marshmallow Monterey",1,5
+"-","-","-","-","-","-","Ninja","Marshmallow Monterey",0.3870967741935484,31
+"-","-","-","-","-","-","Ooze","Marshmallow Monterey",0.6842105263157895,19
+"-","-","-","-","-","-","Page","Marshmallow Monterey",0.88,25
+"-","-","-","-","-","-","Paladin","Marshmallow Monterey",0.5714285714285714,7
+"-","-","-","-","-","-","Pathfinder","Marshmallow Monterey",0.25,12
+"-","-","-","-","-","-","Phalanx","Marshmallow Monterey",0.6923076923076923,26
+"-","-","-","-","-","-","Pie Thief","Marshmallow Monterey",0.8125,16
+"-","-","-","-","-","-","Pinchy","Marshmallow Monterey",0.6666666666666666,9
+"-","-","-","-","-","-","Pirate","Marshmallow Monterey",0.36363636363636365,33
+"-","-","-","-","-","-","Pugilist","Marshmallow Monterey",0.3333333333333333,93
+"-","-","-","-","-","-","Puppet Master","Marshmallow Monterey",1,4
+"-","-","-","-","-","-","Quillback","Marshmallow Monterey",0.8048780487804879,41
+"-","-","-","-","-","-","Raw Diamond","Marshmallow Monterey",0.6,35
+"-","-","-","-","-","-","Rift Guardian","Marshmallow Monterey",0.6341463414634146,41
+"-","-","-","-","-","-","Riftweaver","Marshmallow Monterey",0.6341463414634146,82
+"-","-","-","-","-","-","Rock Muncher","Marshmallow Monterey",0.625,8
+"-","-","-","-","-","-","Sacred Shrine","Marshmallow Monterey",0.8461538461538461,13
+"-","-","-","-","-","-","Salt Water Snapper","Marshmallow Monterey",0.9375,16
+"-","-","-","-","-","-","Samurai","Marshmallow Monterey",0.7037037037037037,27
+"-","-","-","-","-","-","Scavenger","Marshmallow Monterey",0.7692307692307693,13
+"-","-","-","-","-","-","Scout","Marshmallow Monterey",0.5,8
+"-","-","-","-","-","-","Shard Centurion","Marshmallow Monterey",0.75,60
+"-","-","-","-","-","-","Shipwrecked","Marshmallow Monterey",1,14
+"-","-","-","-","-","-","Silvertail","Marshmallow Monterey",0.23076923076923078,13
+"-","-","-","-","-","-","Siren","Marshmallow Monterey",1.6666666666666667,3
+"-","-","-","-","-","-","Skeleton","Marshmallow Monterey",0.9230769230769231,26
+"-","-","-","-","-","-","Snake Charmer","Marshmallow Monterey",0.3333333333333333,9
+"-","-","-","-","-","-","Sock Puppet Ghost","Marshmallow Monterey",0.5909090909090909,22
+"-","-","-","-","-","-","Speedy","Marshmallow Monterey",0.5476190476190477,42
+"-","-","-","-","-","-","Spice Merchant","Marshmallow Monterey",0.6190476190476191,21
+"-","-","-","-","-","-","Spider","Marshmallow Monterey",0.7058823529411765,17
+"-","-","-","-","-","-","Spiked Burrower","Marshmallow Monterey",0.52,25
+"-","-","-","-","-","-","Spiritual Steel","Marshmallow Monterey",0.8313253012048193,83
+"-","-","-","-","-","-","Splintered Stone Sentry","Marshmallow Monterey",0.5,2
+"-","-","-","-","-","-","Spore Muncher","Marshmallow Monterey",0.7,10
+"-","-","-","-","-","-","Sporeticus","Marshmallow Monterey",0.5714285714285714,7
+"-","-","-","-","-","-","Squeaken","Marshmallow Monterey",0.875,8
+"-","-","-","-","-","-","Stalagmite","Marshmallow Monterey",1.1111111111111112,9
+"-","-","-","-","-","-","Stealth","Marshmallow Monterey",0.65,20
+"-","-","-","-","-","-","Steel","Marshmallow Monterey",0.38333333333333336,60
+"-","-","-","-","-","-","Stone Cutter","Marshmallow Monterey",1,6
+"-","-","-","-","-","-","Stone Maiden","Marshmallow Monterey",1,7
+"-","-","-","-","-","-","Student of the Cheese Belt","Marshmallow Monterey",0.7,10
+"-","-","-","-","-","-","Student of the Cheese Claw","Marshmallow Monterey",0.7272727272727273,11
+"-","-","-","-","-","-","Student of the Cheese Fang","Marshmallow Monterey",0.8888888888888888,18
+"-","-","-","-","-","-","Subterranean","Marshmallow Monterey",0.4,5
+"-","-","-","-","-","-","Supernatural","Marshmallow Monterey",0.6875,64
 "-","-","-","-","-","-","Sylvan","Marshmallow Monterey",0.6,5
-"-","-","-","-","-","-","Toy Sylvan","Marshmallow Monterey",0.7142857142857143,7
-"-","-","-","-","-","-","Trailblazer","Marshmallow Monterey",0.16666666666666666,6
-"-","-","-","-","-","-","Water Nymph","Marshmallow Monterey",1,4
-"-","-","-","-","-","-","White","Marshmallow Monterey",0.46511627906976744,43
-"-","-","-","-","-","-","White Mage","Marshmallow Monterey",1.3333333333333333,3
-"-","-","-","-","-","-","Wordsmith","Marshmallow Monterey",0.625,8
-"-","-","-","-","-","-","Wound Up White","Marshmallow Monterey",0.6666666666666666,6
-"-","-","-","-","-","-","Zombie","Marshmallow Monterey",0.8333333333333334,6
+"-","-","-","-","-","-","Taleweaver","Marshmallow Monterey",0.5714285714285714,7
+"-","-","-","-","-","-","Terra","Marshmallow Monterey",0.3181818181818182,22
+"-","-","-","-","-","-","Terror Knight","Marshmallow Monterey",0.625,8
+"-","-","-","-","-","-","Toy Sylvan","Marshmallow Monterey",0.45161290322580644,31
+"-","-","-","-","-","-","Trailblazer","Marshmallow Monterey",0.18181818181818182,11
+"-","-","-","-","-","-","Treant","Marshmallow Monterey",0.75,4
+"-","-","-","-","-","-","Vampire","Marshmallow Monterey",0.9,10
+"-","-","-","-","-","-","Water Nymph","Marshmallow Monterey",0.2857142857142857,21
+"-","-","-","-","-","-","Wealth","Marshmallow Monterey",0.46153846153846156,39
+"-","-","-","-","-","-","White","Marshmallow Monterey",0.4497354497354497,189
+"-","-","-","-","-","-","White Mage","Marshmallow Monterey",0.7894736842105263,19
+"-","-","-","-","-","-","Wordsmith","Marshmallow Monterey",0.6875,16
+"-","-","-","-","-","-","Worker","Marshmallow Monterey",0.6666666666666666,6
+"-","-","-","-","-","-","Wound Up White","Marshmallow Monterey",0.72,25
+"-","-","-","-","-","-","Zephyr","Marshmallow Monterey",0.4375,16
+"-","-","-","-","-","-","Zombie","Marshmallow Monterey",0.6086956521739131,23
 "-","-","-","-","-","-","Zombot Unipire","Marshmallow Monterey",1,1
-"-","-","-","-","-","-","Abominable Snow","Abominable Snow Egg",1,3
-"-","-","-","-","-","-","Absolute Acolyte","Absolute Acolyte Egg",1,1
-"-","-","-","-","-","-","Acolyte","Acolyte Egg",1,1
-"-","-","-","-","-","-","Ascended Elder","Ascended Elder Egg",1,6
-"-","-","-","-","-","-","Brown","Brown Egg",0.3684210526315789,19
-"-","-","-","-","-","-","Brown","Lucky Egg",0.05263157894736842,19
-"-","-","-","-","-","-","Chamber Cleaver","Chamber Cleaver Egg",1,8
-"-","-","-","-","-","-","Corrupt","Corrupt Egg",1,1
-"-","-","-","-","-","-","Crate Camo","Crate Egg",0.3333333333333333,3
-"-","-","-","-","-","-","Cute Crate Carrier","Crate Egg",0.5,2
-"-","-","-","-","-","-","Captain Croissant","Croissant Egg",1,1
-"-","-","-","-","-","-","Crystal Behemoth","Crystal Behemoth Egg",1,2
-"-","-","-","-","-","-","Cursed Librarian","Lucky Egg",0.5,2
-"-","-","-","-","-","-","Decrepit Tentacle Terror","Decrepit Tentacle Egg",1,4
-"-","-","-","-","-","-","Diamond","Diamond Egg",0.5714285714285714,7
-"-","-","-","-","-","-","Dragon","Dragon Egg",1,1
-"-","-","-","-","-","-","Eclipse","Eclipse Egg",1,12
-"-","-","-","-","-","-","Ful'Mina, The Mountain Queen","Ful'Mina Egg",0.11290322580645161,62
-"-","-","-","-","-","-","Ful'Mina, The Mountain Queen","Lucky Egg",0.016129032258064516,62
-"-","-","-","-","-","-","Gargantuamouse","Gargantua Egg",1,1
-"-","-","-","-","-","-","Grand Master of the Dojo","Grand Master of the Dojo Egg",1,23
-"-","-","-","-","-","-","Grey","Grey Egg",0.21428571428571427,14
-"-","-","-","-","-","-","Lord Splodington","Icewing's Generals Egg",1,1
-"-","-","-","-","-","-","Living Salt","Living Salt Egg",1,1
-"-","-","-","-","-","-","M400","M400 Egg",1,3
-"-","-","-","-","-","-","Mage Weaver","Mage Weaver Egg",1,1
-"-","-","-","-","-","-","Magic","Magic Egg",1,1
-"-","-","-","-","-","-","Mighty Mole","Mighty Mole Egg",1,1
-"-","-","-","-","-","-","Monster of the Meteor","Monster of the Meteor Egg",1,3
-"-","-","-","-","-","-","Nibbler","Nibbler Egg",1,1
-"-","-","-","-","-","-","Menace of the Rift","Null Rift Egg",1,2
-"-","-","-","-","-","-","Barmy Gunner","Pirate Crew Egg",1,1
-"-","-","-","-","-","-","Bilged Boatswain","Lucky Egg",1,1
-"-","-","-","-","-","-","Pirate","Pirate Egg",1,5
-"-","-","-","-","-","-","Realm Ripper","Realm Ripper Egg",1,1
-"-","-","-","-","-","-","Monstrous Black Widow","Rift Venom Egg",1,10
-"-","-","-","-","-","-","Sharpshooter","Sharpshooter Egg",1,1
-"-","-","-","-","-","-","Shattered Carmine","Shattered Egg",1,1
-"-","-","-","-","-","-","Dark Magi","Shattered Egg",1,4
-"-","-","-","-","-","-","King Scarab","Shattered Egg",1,1
-"-","-","-","-","-","-","Thistle","Thistle Egg",1,1
-"-","-","-","-","-","-","Thunderlord","Thunder Egg",1,15
-"-","-","-","-","-","-","Tiny","Tiny Egg",1,3
-"-","-","-","-","-","-","Tritus","Tritus Egg",1,1
-"-","-","-","-","-","-","Bounty Hunter","Wanted Poster Egg",1,1
-"-","-","-","-","-","-","Warmonger","Warmonger Egg",1,1
-"-","-","-","-","-","-","White","White Egg",0.3684210526315789,19
-"-","-","-","-","-","-","White","Lucky Egg",0.05263157894736842,19
-"Bristle Woods Rift","-","-","-","-","-","Absolute Acolyte","Bristle Woods Rift Egg",1,1
-"Bristle Woods Rift","-","-","-","-","-","Carrion Medium","Bristle Woods Rift Egg",0.14285714285714285,7
-"Bristle Woods Rift","-","-","-","-","-","Chamber Cleaver","Bristle Woods Rift Egg",0.125,8
-"Bristle Woods Rift","-","-","-","-","-","Clockwork Timespinner","Bristle Woods Rift Egg",0.13043478260869565,23
-"Bristle Woods Rift","-","-","-","-","-","Dread Knight","Bristle Woods Rift Egg",0.13333333333333333,45
-"Bristle Woods Rift","-","-","-","-","-","Epoch Golem","Bristle Woods Rift Egg",0.4,10
-"Bristle Woods Rift","-","-","-","-","-","Portal Paladin","Bristle Woods Rift Egg",0.13333333333333333,15
-"Bristle Woods Rift","-","-","-","-","-","Portal Plunderer","Bristle Woods Rift Egg",0.10714285714285714,28
-"Bristle Woods Rift","-","-","-","-","-","Sentient Slime","Bristle Woods Rift Egg",0.2857142857142857,14
-"Bristle Woods Rift","-","-","-","-","-","Shackled Servant","Bristle Woods Rift Egg",0.6666666666666666,6
-"Bristle Woods Rift","-","-","-","-","-","Skeletal Champion","Bristle Woods Rift Egg",0.06060606060606061,33
-"Bristle Woods Rift","-","-","-","-","-","Timeless Lich","Bristle Woods Rift Egg",0.07692307692307693,13
-"Bristle Woods Rift","-","-","-","-","-","Timelost Thaumaturge","Bristle Woods Rift Egg",0.25,4
-"Bristle Woods Rift","-","-","-","-","-","Timeslither Pythoness","Bristle Woods Rift Egg",0.16666666666666666,6
-"Bristle Woods Rift","-","-","-","-","-","Vigilant Ward","Bristle Woods Rift Egg",0.21428571428571427,14
