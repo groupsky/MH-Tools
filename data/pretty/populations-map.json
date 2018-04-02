@@ -23594,78 +23594,80 @@
         "Town of Gnawnia": {
             "-": {
                 "Marshmallow Monterey": {
-                    "-": 22.33
+                    "-": 22.93,
+                    "Dark Chocolate": 8.57
                 }
             }
         },
         "Town of Digby": {
             "-": {
                 "Marshmallow Monterey": {
-                    "-": 16.83
+                    "-": 20.33
                 }
             }
         },
         "Great Gnarled Tree": {
             "-": {
                 "Marshmallow Monterey": {
-                    "Dark Chocolate": 13.79
+                    "-": 13.33,
+                    "Dark Chocolate": 13.33
                 }
             }
         },
         "Dojo": {
             "-": {
                 "Marshmallow Monterey": {
-                    "-": 24.79
+                    "-": 22.05
                 }
             }
         },
         "Catacombs": {
             "-": {
                 "Marshmallow Monterey": {
-                    "-": 27.08
+                    "-": 24.74
                 }
             }
         },
         "S.S. Huntington III": {
             "-": {
                 "Marshmallow Monterey": {
-                    "-": 21.05
+                    "-": 21.28
                 }
             }
         },
         "Cape Clawed": {
             "-": {
                 "Marshmallow Monterey": {
-                    "-": 22.06
+                    "-": 21.15
                 }
             }
         },
         "King's Gauntlet": {
             "-": {
                 "Marshmallow Monterey": {
-                    "-": 22.64,
-                    "Dark Chocolate": 7.02
+                    "-": 21.56,
+                    "Dark Chocolate": 7.69
                 }
             }
         },
         "Claw Shot City": {
             "-": {
                 "Marshmallow Monterey": {
-                    "-": 26.67
+                    "-": 28.41
                 }
             }
         },
         "Muridae Market": {
             "-": {
                 "Marshmallow Monterey": {
-                    "-": 20.69
+                    "-": 22.22
                 }
             }
         },
         "Gnawnia Rift": {
             "-": {
                 "Marshmallow Monterey": {
-                    "-": 20.83,
+                    "-": 20.49,
                     "Dark Chocolate": 17.78
                 }
             }
@@ -23673,15 +23675,15 @@
         "Fungal Cavern": {
             "-": {
                 "Marshmallow Monterey": {
-                    "-": 22.53,
-                    "Dark Chocolate": 27.27
+                    "-": 22.77,
+                    "Dark Chocolate": 26.47
                 }
             }
         },
         "Moussu Picchu": {
             "-": {
                 "Marshmallow Monterey": {
-                    "-": 22.38
+                    "-": 21.59
                 }
             }
         }
@@ -23690,70 +23692,79 @@
         "Town of Gnawnia": {
             "-": {
                 "Marshmallow Monterey": {
-                    "-": 10.81
+                    "-": 10.76,
+                    "Dark Chocolate": 2.86
                 }
             }
         },
         "Town of Digby": {
             "-": {
                 "Marshmallow Monterey": {
-                    "-": 13.86
+                    "-": 13.82
+                }
+            }
+        },
+        "Great Gnarled Tree": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 20
                 }
             }
         },
         "Dojo": {
             "-": {
                 "Marshmallow Monterey": {
-                    "-": 5.98
+                    "-": 6.67
                 }
             }
         },
         "Catacombs": {
             "-": {
                 "Marshmallow Monterey": {
-                    "-": 6.25
+                    "-": 6.19
                 }
             }
         },
         "S.S. Huntington III": {
             "-": {
                 "Marshmallow Monterey": {
-                    "-": 11.84
+                    "-": 11.95
                 }
             }
         },
         "Cape Clawed": {
             "-": {
                 "Marshmallow Monterey": {
-                    "-": 5.88
+                    "-": 6.41
                 }
             }
         },
         "King's Gauntlet": {
             "-": {
                 "Marshmallow Monterey": {
-                    "-": 7.74
+                    "-": 8.4,
+                    "Dark Chocolate": 1.54
                 }
             }
         },
         "Claw Shot City": {
             "-": {
                 "Marshmallow Monterey": {
-                    "-": 6
+                    "-": 5.68
                 }
             }
         },
         "Muridae Market": {
             "-": {
                 "Marshmallow Monterey": {
-                    "-": 8.62
+                    "-": 10.1
                 }
             }
         },
         "Gnawnia Rift": {
             "-": {
                 "Marshmallow Monterey": {
-                    "-": 8.13,
+                    "-": 9.13,
                     "Dark Chocolate": 2.22
                 }
             }
@@ -23761,14 +23772,15 @@
         "Fungal Cavern": {
             "-": {
                 "Marshmallow Monterey": {
-                    "-": 10.14
+                    "-": 10.28,
+                    "Dark Chocolate": 2.94
                 }
             }
         },
         "Moussu Picchu": {
             "-": {
                 "Marshmallow Monterey": {
-                    "-": 7.64,
+                    "-": 8.23,
                     "Dark Chocolate": 6.67
                 }
             }
@@ -23778,71 +23790,71 @@
         "Town of Gnawnia": {
             "-": {
                 "Marshmallow Monterey": {
-                    "-": 9.22
+                    "-": 9.1
                 }
             }
         },
         "Town of Digby": {
             "-": {
                 "Marshmallow Monterey": {
-                    "-": 9.9
+                    "-": 8.94
                 }
             }
         },
         "Dojo": {
             "-": {
                 "Marshmallow Monterey": {
-                    "-": 5.13
+                    "-": 7.18
                 }
             }
         },
         "Catacombs": {
             "-": {
                 "Marshmallow Monterey": {
-                    "-": 2.08
+                    "-": 6.19
                 }
             }
         },
         "S.S. Huntington III": {
             "-": {
                 "Marshmallow Monterey": {
-                    "-": 10.09
+                    "-": 10.2
                 }
             }
         },
         "Cape Clawed": {
             "-": {
                 "Marshmallow Monterey": {
-                    "-": 8.09
+                    "-": 8.97
                 }
             }
         },
         "King's Gauntlet": {
             "-": {
                 "Marshmallow Monterey": {
-                    "-": 9.81,
-                    "Dark Chocolate": 1.75
+                    "-": 9.87,
+                    "Dark Chocolate": 1.54
                 }
             }
         },
         "Claw Shot City": {
             "-": {
                 "Marshmallow Monterey": {
-                    "-": 8
+                    "-": 8.52
                 }
             }
         },
         "Muridae Market": {
             "-": {
                 "Marshmallow Monterey": {
-                    "-": 5.17
+                    "-": 8.08
                 }
             }
         },
         "Gnawnia Rift": {
             "-": {
                 "Marshmallow Monterey": {
-                    "-": 8.73,
+                    "-": 9.47,
                     "Dark Chocolate": 4.44
                 }
             }
@@ -23850,14 +23862,108 @@
         "Fungal Cavern": {
             "-": {
                 "Marshmallow Monterey": {
-                    "-": 8.01
+                    "-": 8.53
                 }
             }
         },
         "Moussu Picchu": {
             "-": {
                 "Marshmallow Monterey": {
-                    "-": 10.12
+                    "-": 9.85
+                }
+            }
+        }
+    },
+    "Egg Scrambler": {
+        "Town of Gnawnia": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 9.1
+                }
+            }
+        },
+        "Town of Digby": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 9.76
+                }
+            }
+        },
+        "Great Gnarled Tree": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 20
+                }
+            }
+        },
+        "Dojo": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 8.21
+                }
+            }
+        },
+        "Catacombs": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 11.34
+                }
+            }
+        },
+        "S.S. Huntington III": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 8.16
+                }
+            }
+        },
+        "Cape Clawed": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 10.26
+                }
+            }
+        },
+        "King's Gauntlet": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 8.89,
+                    "Dark Chocolate": 6.15
+                }
+            }
+        },
+        "Claw Shot City": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 9.66
+                }
+            }
+        },
+        "Muridae Market": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 7.07
+                }
+            }
+        },
+        "Gnawnia Rift": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 9.24
+                }
+            }
+        },
+        "Fungal Cavern": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 9.08
+                }
+            }
+        },
+        "Moussu Picchu": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 9.31
                 }
             }
         }
@@ -23866,22 +23972,219 @@
         "Town of Gnawnia": {
             "-": {
                 "Marshmallow Monterey": {
-                    "-": 8.93,
-                    "Dark Chocolate": 7.14
+                    "-": 8.87,
+                    "Dark Chocolate": 14.29
                 }
             }
         },
         "Town of Digby": {
             "-": {
                 "Marshmallow Monterey": {
-                    "-": 9.9
+                    "-": 8.13
                 }
             }
         },
         "Great Gnarled Tree": {
             "-": {
                 "Marshmallow Monterey": {
-                    "Dark Chocolate": 3.45
+                    "-": 13.33,
+                    "Dark Chocolate": 3.33
+                }
+            }
+        },
+        "Dojo": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 9.23
+                }
+            }
+        },
+        "Catacombs": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 5.15
+                }
+            }
+        },
+        "S.S. Huntington III": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 7
+                }
+            }
+        },
+        "Cape Clawed": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 8.33
+                }
+            }
+        },
+        "King's Gauntlet": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 9.5,
+                    "Dark Chocolate": 4.62
+                }
+            }
+        },
+        "Claw Shot City": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 5.11
+                }
+            }
+        },
+        "Muridae Market": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 6.06
+                }
+            }
+        },
+        "Gnawnia Rift": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 9.69,
+                    "Dark Chocolate": 13.33
+                }
+            }
+        },
+        "Fungal Cavern": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 8.48,
+                    "Dark Chocolate": 2.94
+                }
+            }
+        },
+        "Moussu Picchu": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 8.64
+                }
+            }
+        }
+    },
+    "Coco Commander": {
+        "Town of Gnawnia": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 8.27,
+                    "Dark Chocolate": 2.86
+                }
+            }
+        },
+        "Town of Digby": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 6.5
+                }
+            }
+        },
+        "Great Gnarled Tree": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 6.67,
+                    "Dark Chocolate": 3.33
+                }
+            }
+        },
+        "Dojo": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 11.28
+                }
+            }
+        },
+        "Catacombs": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 9.28
+                }
+            }
+        },
+        "S.S. Huntington III": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 7.87
+                }
+            }
+        },
+        "Cape Clawed": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 6.41
+                }
+            }
+        },
+        "King's Gauntlet": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 9.5,
+                    "Dark Chocolate": 1.54
+                }
+            }
+        },
+        "Claw Shot City": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 6.25
+                }
+            }
+        },
+        "Muridae Market": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 13.13
+                }
+            }
+        },
+        "Gnawnia Rift": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 9.02,
+                    "Dark Chocolate": 4.44
+                }
+            }
+        },
+        "Fungal Cavern": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 10.48,
+                    "Dark Chocolate": 2.94
+                }
+            }
+        },
+        "Moussu Picchu": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 10.8
+                }
+            }
+        }
+    },
+    "Chocolate Gold Foil": {
+        "Town of Gnawnia": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 6.15,
+                    "Dark Chocolate": 14.29
+                }
+            }
+        },
+        "Town of Digby": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 8.94
+                }
+            }
+        },
+        "Great Gnarled Tree": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 13.33,
+                    "Dark Chocolate": 20
                 }
             }
         },
@@ -23895,233 +24198,50 @@
         "Catacombs": {
             "-": {
                 "Marshmallow Monterey": {
-                    "-": 6.25
+                    "-": 8.25
                 }
             }
         },
         "S.S. Huntington III": {
             "-": {
                 "Marshmallow Monterey": {
-                    "-": 7.02
+                    "-": 6.12
                 }
             }
         },
         "Cape Clawed": {
             "-": {
                 "Marshmallow Monterey": {
-                    "-": 8.09
+                    "-": 5.13
                 }
             }
         },
         "King's Gauntlet": {
             "-": {
                 "Marshmallow Monterey": {
-                    "-": 10.19,
-                    "Dark Chocolate": 5.26
+                    "-": 6.7,
+                    "Dark Chocolate": 9.23
                 }
             }
         },
         "Claw Shot City": {
             "-": {
                 "Marshmallow Monterey": {
-                    "-": 6
+                    "-": 5.11
                 }
             }
         },
         "Muridae Market": {
             "-": {
                 "Marshmallow Monterey": {
-                    "-": 5.17
+                    "-": 5.05
                 }
             }
         },
         "Gnawnia Rift": {
             "-": {
                 "Marshmallow Monterey": {
-                    "-": 10.32,
-                    "Dark Chocolate": 13.33
-                }
-            }
-        },
-        "Fungal Cavern": {
-            "-": {
-                "Marshmallow Monterey": {
-                    "-": 8.77,
-                    "Dark Chocolate": 4.55
-                }
-            }
-        },
-        "Moussu Picchu": {
-            "-": {
-                "Marshmallow Monterey": {
-                    "-": 9.24
-                }
-            }
-        }
-    },
-    "Egg Scrambler": {
-        "Town of Gnawnia": {
-            "-": {
-                "Marshmallow Monterey": {
-                    "-": 8.5
-                }
-            }
-        },
-        "Town of Digby": {
-            "-": {
-                "Marshmallow Monterey": {
-                    "-": 8.91
-                }
-            }
-        },
-        "Dojo": {
-            "-": {
-                "Marshmallow Monterey": {
-                    "-": 6.84
-                }
-            }
-        },
-        "Catacombs": {
-            "-": {
-                "Marshmallow Monterey": {
-                    "-": 10.42
-                }
-            }
-        },
-        "S.S. Huntington III": {
-            "-": {
-                "Marshmallow Monterey": {
-                    "-": 9.21
-                }
-            }
-        },
-        "Cape Clawed": {
-            "-": {
-                "Marshmallow Monterey": {
-                    "-": 10.29
-                }
-            }
-        },
-        "King's Gauntlet": {
-            "-": {
-                "Marshmallow Monterey": {
-                    "-": 8.87,
-                    "Dark Chocolate": 7.02
-                }
-            }
-        },
-        "Claw Shot City": {
-            "-": {
-                "Marshmallow Monterey": {
-                    "-": 8
-                }
-            }
-        },
-        "Muridae Market": {
-            "-": {
-                "Marshmallow Monterey": {
-                    "-": 6.9
-                }
-            }
-        },
-        "Gnawnia Rift": {
-            "-": {
-                "Marshmallow Monterey": {
-                    "-": 9.52
-                }
-            }
-        },
-        "Fungal Cavern": {
-            "-": {
-                "Marshmallow Monterey": {
-                    "-": 9.59
-                }
-            }
-        },
-        "Moussu Picchu": {
-            "-": {
-                "Marshmallow Monterey": {
-                    "-": 9.06
-                }
-            }
-        }
-    },
-    "Coco Commander": {
-        "Town of Gnawnia": {
-            "-": {
-                "Marshmallow Monterey": {
-                    "-": 8.07,
-                    "Dark Chocolate": 7.14
-                }
-            }
-        },
-        "Town of Digby": {
-            "-": {
-                "Marshmallow Monterey": {
-                    "-": 7.92
-                }
-            }
-        },
-        "Great Gnarled Tree": {
-            "-": {
-                "Marshmallow Monterey": {
-                    "Dark Chocolate": 3.45
-                }
-            }
-        },
-        "Dojo": {
-            "-": {
-                "Marshmallow Monterey": {
-                    "-": 11.11
-                }
-            }
-        },
-        "Catacombs": {
-            "-": {
-                "Marshmallow Monterey": {
-                    "-": 12.5
-                }
-            }
-        },
-        "S.S. Huntington III": {
-            "-": {
-                "Marshmallow Monterey": {
-                    "-": 6.14
-                }
-            }
-        },
-        "Cape Clawed": {
-            "-": {
-                "Marshmallow Monterey": {
-                    "-": 6.62
-                }
-            }
-        },
-        "King's Gauntlet": {
-            "-": {
-                "Marshmallow Monterey": {
-                    "-": 8.87
-                }
-            }
-        },
-        "Claw Shot City": {
-            "-": {
-                "Marshmallow Monterey": {
-                    "-": 7.33
-                }
-            }
-        },
-        "Muridae Market": {
-            "-": {
-                "Marshmallow Monterey": {
-                    "-": 12.07
-                }
-            }
-        },
-        "Gnawnia Rift": {
-            "-": {
-                "Marshmallow Monterey": {
-                    "-": 8.73,
+                    "-": 6.24,
                     "Dark Chocolate": 4.44
                 }
             }
@@ -24129,111 +24249,15 @@
         "Fungal Cavern": {
             "-": {
                 "Marshmallow Monterey": {
-                    "-": 10.89,
-                    "Dark Chocolate": 4.55
+                    "-": 5.22,
+                    "Dark Chocolate": 2.94
                 }
             }
         },
         "Moussu Picchu": {
             "-": {
                 "Marshmallow Monterey": {
-                    "-": 9.77
-                }
-            }
-        }
-    },
-    "Chocolate Gold Foil": {
-        "Town of Gnawnia": {
-            "-": {
-                "Marshmallow Monterey": {
-                    "-": 6.77,
-                    "Dark Chocolate": 7.14
-                }
-            }
-        },
-        "Town of Digby": {
-            "-": {
-                "Marshmallow Monterey": {
-                    "-": 9.9
-                }
-            }
-        },
-        "Great Gnarled Tree": {
-            "-": {
-                "Marshmallow Monterey": {
-                    "Dark Chocolate": 20.69
-                }
-            }
-        },
-        "Dojo": {
-            "-": {
-                "Marshmallow Monterey": {
-                    "-": 8.55
-                }
-            }
-        },
-        "Catacombs": {
-            "-": {
-                "Marshmallow Monterey": {
-                    "-": 12.5
-                }
-            }
-        },
-        "S.S. Huntington III": {
-            "-": {
-                "Marshmallow Monterey": {
-                    "-": 5.26
-                }
-            }
-        },
-        "Cape Clawed": {
-            "-": {
-                "Marshmallow Monterey": {
-                    "-": 5.88
-                }
-            }
-        },
-        "King's Gauntlet": {
-            "-": {
-                "Marshmallow Monterey": {
-                    "-": 7.17,
-                    "Dark Chocolate": 8.77
-                }
-            }
-        },
-        "Claw Shot City": {
-            "-": {
-                "Marshmallow Monterey": {
-                    "-": 5.33
-                }
-            }
-        },
-        "Muridae Market": {
-            "-": {
-                "Marshmallow Monterey": {
-                    "-": 6.9
-                }
-            }
-        },
-        "Gnawnia Rift": {
-            "-": {
-                "Marshmallow Monterey": {
-                    "-": 5.16,
-                    "Dark Chocolate": 4.44
-                }
-            }
-        },
-        "Fungal Cavern": {
-            "-": {
-                "Marshmallow Monterey": {
-                    "-": 5.55
-                }
-            }
-        },
-        "Moussu Picchu": {
-            "-": {
-                "Marshmallow Monterey": {
-                    "-": 7.82,
+                    "-": 7.96,
                     "Dark Chocolate": 6.67
                 }
             }
@@ -24243,79 +24267,80 @@
         "Town of Gnawnia": {
             "-": {
                 "Marshmallow Monterey": {
-                    "-": 6.2,
-                    "Dark Chocolate": 7.14
+                    "-": 6.15,
+                    "Dark Chocolate": 11.43
                 }
             }
         },
         "Town of Digby": {
             "-": {
                 "Marshmallow Monterey": {
-                    "-": 2.97
+                    "-": 3.25
                 }
             }
         },
         "Great Gnarled Tree": {
             "-": {
                 "Marshmallow Monterey": {
-                    "Dark Chocolate": 6.9
+                    "-": 6.67,
+                    "Dark Chocolate": 6.67
                 }
             }
         },
         "Dojo": {
             "-": {
                 "Marshmallow Monterey": {
-                    "-": 6.84
+                    "-": 6.67
                 }
             }
         },
         "Catacombs": {
             "-": {
                 "Marshmallow Monterey": {
-                    "-": 8.33
+                    "-": 9.28
                 }
             }
         },
         "S.S. Huntington III": {
             "-": {
                 "Marshmallow Monterey": {
-                    "-": 5.7
+                    "-": 4.96
                 }
             }
         },
         "Cape Clawed": {
             "-": {
                 "Marshmallow Monterey": {
-                    "-": 11.76
+                    "-": 10.9
                 }
             }
         },
         "King's Gauntlet": {
             "-": {
                 "Marshmallow Monterey": {
-                    "-": 4.72,
-                    "Dark Chocolate": 8.77
+                    "-": 4.63,
+                    "Dark Chocolate": 9.23
                 }
             }
         },
         "Claw Shot City": {
             "-": {
                 "Marshmallow Monterey": {
-                    "-": 5.33
+                    "-": 5.11
                 }
             }
         },
         "Muridae Market": {
             "-": {
                 "Marshmallow Monterey": {
-                    "-": 8.62
+                    "-": 8.08
                 }
             }
         },
         "Gnawnia Rift": {
             "-": {
                 "Marshmallow Monterey": {
-                    "-": 6.15,
+                    "-": 6.12,
                     "Dark Chocolate": 6.67
                 }
             }
@@ -24323,15 +24348,15 @@
         "Fungal Cavern": {
             "-": {
                 "Marshmallow Monterey": {
-                    "-": 5,
-                    "Dark Chocolate": 4.55
+                    "-": 5.12,
+                    "Dark Chocolate": 2.94
                 }
             }
         },
         "Moussu Picchu": {
             "-": {
                 "Marshmallow Monterey": {
-                    "-": 5.33
+                    "-": 5.53
                 }
             }
         }
@@ -24340,79 +24365,79 @@
         "Town of Gnawnia": {
             "-": {
                 "Marshmallow Monterey": {
-                    "-": 5.62,
-                    "Dark Chocolate": 14.29
+                    "-": 5.56,
+                    "Dark Chocolate": 11.43
                 }
             }
         },
         "Town of Digby": {
             "-": {
                 "Marshmallow Monterey": {
-                    "-": 2.97
+                    "-": 2.44
                 }
             }
         },
         "Great Gnarled Tree": {
             "-": {
                 "Marshmallow Monterey": {
-                    "Dark Chocolate": 6.9
+                    "Dark Chocolate": 10
                 }
             }
         },
         "Dojo": {
             "-": {
                 "Marshmallow Monterey": {
-                    "-": 4.27
+                    "-": 4.1
                 }
             }
         },
         "Catacombs": {
             "-": {
                 "Marshmallow Monterey": {
-                    "-": 6.25
+                    "-": 5.15
                 }
             }
         },
         "S.S. Huntington III": {
             "-": {
                 "Marshmallow Monterey": {
-                    "-": 9.21
+                    "-": 8.45
                 }
             }
         },
         "Cape Clawed": {
             "-": {
                 "Marshmallow Monterey": {
-                    "-": 5.15
+                    "-": 5.77
                 }
             }
         },
         "King's Gauntlet": {
             "-": {
                 "Marshmallow Monterey": {
-                    "-": 5.85,
-                    "Dark Chocolate": 8.77
+                    "-": 6.21,
+                    "Dark Chocolate": 7.69
                 }
             }
         },
         "Claw Shot City": {
             "-": {
                 "Marshmallow Monterey": {
-                    "-": 8
+                    "-": 7.39
                 }
             }
         },
         "Muridae Market": {
             "-": {
                 "Marshmallow Monterey": {
-                    "-": 6.9
+                    "-": 4.04
                 }
             }
         },
         "Gnawnia Rift": {
             "-": {
                 "Marshmallow Monterey": {
-                    "-": 4.17,
+                    "-": 4.34,
                     "Dark Chocolate": 6.67
                 }
             }
@@ -24420,15 +24445,15 @@
         "Fungal Cavern": {
             "-": {
                 "Marshmallow Monterey": {
-                    "-": 5.75,
-                    "Dark Chocolate": 4.55
+                    "-": 5.72,
+                    "Dark Chocolate": 5.88
                 }
             }
         },
         "Moussu Picchu": {
             "-": {
                 "Marshmallow Monterey": {
-                    "-": 6.04,
+                    "-": 5.53,
                     "Dark Chocolate": 6.67
                 }
             }
@@ -24439,301 +24464,21 @@
             "-": {
                 "Marshmallow Monterey": {
                     "-": 3.31,
-                    "Dark Chocolate": 7.14
+                    "Dark Chocolate": 5.71
                 }
             }
         },
         "Town of Digby": {
             "-": {
                 "Marshmallow Monterey": {
-                    "-": 2.97
+                    "-": 3.25
                 }
             }
         },
         "Great Gnarled Tree": {
             "-": {
                 "Marshmallow Monterey": {
-                    "Dark Chocolate": 6.9
-                }
-            }
-        },
-        "Dojo": {
-            "-": {
-                "Marshmallow Monterey": {
-                    "-": 3.42
-                }
-            }
-        },
-        "S.S. Huntington III": {
-            "-": {
-                "Marshmallow Monterey": {
-                    "-": 2.19
-                }
-            }
-        },
-        "Cape Clawed": {
-            "-": {
-                "Marshmallow Monterey": {
-                    "-": 2.94
-                }
-            }
-        },
-        "King's Gauntlet": {
-            "-": {
-                "Marshmallow Monterey": {
-                    "-": 3.02,
-                    "Dark Chocolate": 5.26
-                }
-            }
-        },
-        "Claw Shot City": {
-            "-": {
-                "Marshmallow Monterey": {
-                    "-": 3.33
-                }
-            }
-        },
-        "Gnawnia Rift": {
-            "-": {
-                "Marshmallow Monterey": {
-                    "-": 2.38,
-                    "Dark Chocolate": 8.89
-                }
-            }
-        },
-        "Fungal Cavern": {
-            "-": {
-                "Marshmallow Monterey": {
-                    "-": 3.29,
-                    "Dark Chocolate": 13.64
-                }
-            }
-        },
-        "Moussu Picchu": {
-            "-": {
-                "Marshmallow Monterey": {
-                    "-": 1.95,
-                    "Dark Chocolate": 20
-                }
-            }
-        }
-    },
-    "Pan Slammer": {
-        "Town of Gnawnia": {
-            "-": {
-                "Marshmallow Monterey": {
-                    "-": 3.17,
-                    "Dark Chocolate": 7.14
-                }
-            }
-        },
-        "Town of Digby": {
-            "-": {
-                "Marshmallow Monterey": {
-                    "-": 1.98
-                }
-            }
-        },
-        "Great Gnarled Tree": {
-            "-": {
-                "Marshmallow Monterey": {
-                    "Dark Chocolate": 6.9
-                }
-            }
-        },
-        "Dojo": {
-            "-": {
-                "Marshmallow Monterey": {
-                    "-": 4.27
-                }
-            }
-        },
-        "Catacombs": {
-            "-": {
-                "Marshmallow Monterey": {
-                    "-": 2.08
-                }
-            }
-        },
-        "S.S. Huntington III": {
-            "-": {
-                "Marshmallow Monterey": {
-                    "-": 4.39
-                }
-            }
-        },
-        "Cape Clawed": {
-            "-": {
-                "Marshmallow Monterey": {
-                    "-": 3.68
-                }
-            }
-        },
-        "King's Gauntlet": {
-            "-": {
-                "Marshmallow Monterey": {
-                    "-": 3.21,
-                    "Dark Chocolate": 8.77
-                }
-            }
-        },
-        "Claw Shot City": {
-            "-": {
-                "Marshmallow Monterey": {
-                    "-": 4
-                }
-            }
-        },
-        "Muridae Market": {
-            "-": {
-                "Marshmallow Monterey": {
-                    "-": 6.9
-                }
-            }
-        },
-        "Gnawnia Rift": {
-            "-": {
-                "Marshmallow Monterey": {
-                    "-": 3.57,
                     "Dark Chocolate": 6.67
-                }
-            }
-        },
-        "Fungal Cavern": {
-            "-": {
-                "Marshmallow Monterey": {
-                    "-": 3.08,
-                    "Dark Chocolate": 4.55
-                }
-            }
-        },
-        "Moussu Picchu": {
-            "-": {
-                "Marshmallow Monterey": {
-                    "-": 2.49,
-                    "Dark Chocolate": 13.33
-                }
-            }
-        }
-    },
-    "Hare Razer": {
-        "Town of Gnawnia": {
-            "-": {
-                "Marshmallow Monterey": {
-                    "-": 2.59,
-                    "Dark Chocolate": 14.29
-                }
-            }
-        },
-        "Town of Digby": {
-            "-": {
-                "Marshmallow Monterey": {
-                    "-": 0.99
-                }
-            }
-        },
-        "Great Gnarled Tree": {
-            "-": {
-                "Marshmallow Monterey": {
-                    "Dark Chocolate": 3.45
-                }
-            }
-        },
-        "Dojo": {
-            "-": {
-                "Marshmallow Monterey": {
-                    "-": 5.13
-                }
-            }
-        },
-        "Catacombs": {
-            "-": {
-                "Marshmallow Monterey": {
-                    "-": 2.08
-                }
-            }
-        },
-        "S.S. Huntington III": {
-            "-": {
-                "Marshmallow Monterey": {
-                    "-": 2.63
-                }
-            }
-        },
-        "Cape Clawed": {
-            "-": {
-                "Marshmallow Monterey": {
-                    "-": 3.68
-                }
-            }
-        },
-        "King's Gauntlet": {
-            "-": {
-                "Marshmallow Monterey": {
-                    "-": 2.45,
-                    "Dark Chocolate": 14.04
-                }
-            }
-        },
-        "Claw Shot City": {
-            "-": {
-                "Marshmallow Monterey": {
-                    "-": 6
-                }
-            }
-        },
-        "Muridae Market": {
-            "-": {
-                "Marshmallow Monterey": {
-                    "-": 1.72
-                }
-            }
-        },
-        "Gnawnia Rift": {
-            "-": {
-                "Marshmallow Monterey": {
-                    "-": 4.76,
-                    "Dark Chocolate": 6.67
-                }
-            }
-        },
-        "Fungal Cavern": {
-            "-": {
-                "Marshmallow Monterey": {
-                    "-": 2.4,
-                    "Dark Chocolate": 4.55
-                }
-            }
-        },
-        "Moussu Picchu": {
-            "-": {
-                "Marshmallow Monterey": {
-                    "-": 3.55,
-                    "Dark Chocolate": 33.33
-                }
-            }
-        }
-    },
-    "Eggsquisite Entertainer": {
-        "Town of Gnawnia": {
-            "-": {
-                "Marshmallow Monterey": {
-                    "-": 2.45,
-                    "Dark Chocolate": 7.14
-                }
-            }
-        },
-        "Town of Digby": {
-            "-": {
-                "Marshmallow Monterey": {
-                    "-": 5.94
-                }
-            }
-        },
-        "Great Gnarled Tree": {
-            "-": {
-                "Marshmallow Monterey": {
-                    "Dark Chocolate": 20.69
                 }
             }
         },
@@ -24747,67 +24492,263 @@
         "Catacombs": {
             "-": {
                 "Marshmallow Monterey": {
-                    "-": 4.17
+                    "-": 3.09
                 }
             }
         },
         "S.S. Huntington III": {
             "-": {
                 "Marshmallow Monterey": {
-                    "-": 3.07
+                    "-": 2.92
                 }
             }
         },
         "Cape Clawed": {
             "-": {
                 "Marshmallow Monterey": {
-                    "-": 0.74
+                    "-": 4.49
                 }
             }
         },
         "King's Gauntlet": {
             "-": {
                 "Marshmallow Monterey": {
-                    "-": 2.26,
-                    "Dark Chocolate": 10.53
+                    "-": 3.17,
+                    "Dark Chocolate": 7.69
                 }
             }
         },
         "Claw Shot City": {
             "-": {
                 "Marshmallow Monterey": {
-                    "-": 4
+                    "-": 2.84
                 }
             }
         },
         "Muridae Market": {
             "-": {
                 "Marshmallow Monterey": {
-                    "-": 1.72
+                    "-": 1.01
                 }
             }
         },
         "Gnawnia Rift": {
             "-": {
                 "Marshmallow Monterey": {
-                    "-": 3.17,
-                    "Dark Chocolate": 4.44
+                    "-": 2.56,
+                    "Dark Chocolate": 8.89
                 }
             }
         },
         "Fungal Cavern": {
             "-": {
                 "Marshmallow Monterey": {
-                    "-": 2.19,
-                    "Dark Chocolate": 13.64
+                    "-": 3.56,
+                    "Dark Chocolate": 14.71
                 }
             }
         },
         "Moussu Picchu": {
             "-": {
                 "Marshmallow Monterey": {
-                    "-": 2.49,
+                    "-": 2.02,
+                    "Dark Chocolate": 20
+                }
+            }
+        }
+    },
+    "Pan Slammer": {
+        "Town of Gnawnia": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 2.96,
+                    "Dark Chocolate": 2.86
+                }
+            }
+        },
+        "Town of Digby": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 2.44
+                }
+            }
+        },
+        "Great Gnarled Tree": {
+            "-": {
+                "Marshmallow Monterey": {
                     "Dark Chocolate": 6.67
+                }
+            }
+        },
+        "Dojo": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 4.1
+                }
+            }
+        },
+        "Catacombs": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 3.09
+                }
+            }
+        },
+        "S.S. Huntington III": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 3.5
+                }
+            }
+        },
+        "Cape Clawed": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 3.21
+                }
+            }
+        },
+        "King's Gauntlet": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 2.68,
+                    "Dark Chocolate": 9.23
+                }
+            }
+        },
+        "Claw Shot City": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 3.41
+                }
+            }
+        },
+        "Muridae Market": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 5.05
+                }
+            }
+        },
+        "Gnawnia Rift": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 3.01,
+                    "Dark Chocolate": 6.67
+                }
+            }
+        },
+        "Fungal Cavern": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 2.96,
+                    "Dark Chocolate": 5.88
+                }
+            }
+        },
+        "Moussu Picchu": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 2.43,
+                    "Dark Chocolate": 13.33
+                }
+            }
+        }
+    },
+    "Hare Razer": {
+        "Town of Gnawnia": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 2.48,
+                    "Dark Chocolate": 5.71
+                }
+            }
+        },
+        "Town of Digby": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 1.63
+                }
+            }
+        },
+        "Great Gnarled Tree": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "Dark Chocolate": 3.33
+                }
+            }
+        },
+        "Dojo": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 3.59
+                }
+            }
+        },
+        "Catacombs": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 3.09
+                }
+            }
+        },
+        "S.S. Huntington III": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 2.92
+                }
+            }
+        },
+        "Cape Clawed": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 3.21
+                }
+            }
+        },
+        "King's Gauntlet": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 2.8,
+                    "Dark Chocolate": 12.31
+                }
+            }
+        },
+        "Claw Shot City": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 6.82
+                }
+            }
+        },
+        "Muridae Market": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 2.02
+                }
+            }
+        },
+        "Gnawnia Rift": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 4.01,
+                    "Dark Chocolate": 6.67
+                }
+            }
+        },
+        "Fungal Cavern": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 2.51,
+                    "Dark Chocolate": 2.94
+                }
+            }
+        },
+        "Moussu Picchu": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 3.64,
+                    "Dark Chocolate": 33.33
                 }
             }
         }
@@ -24816,64 +24757,72 @@
         "Town of Gnawnia": {
             "-": {
                 "Marshmallow Monterey": {
-                    "-": 2.02
+                    "-": 2.36,
+                    "Dark Chocolate": 2.86
                 }
             }
         },
         "Town of Digby": {
             "-": {
                 "Marshmallow Monterey": {
-                    "-": 4.95
+                    "-": 4.07
                 }
             }
         },
         "Dojo": {
             "-": {
                 "Marshmallow Monterey": {
-                    "-": 0.85
+                    "-": 2.56
+                }
+            }
+        },
+        "Catacombs": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 1.03
                 }
             }
         },
         "S.S. Huntington III": {
             "-": {
                 "Marshmallow Monterey": {
-                    "-": 2.19
+                    "-": 2.04
                 }
             }
         },
         "Cape Clawed": {
             "-": {
                 "Marshmallow Monterey": {
-                    "-": 5.15
+                    "-": 4.49
                 }
             }
         },
         "King's Gauntlet": {
             "-": {
                 "Marshmallow Monterey": {
-                    "-": 3.21,
-                    "Dark Chocolate": 5.26
+                    "-": 3.41,
+                    "Dark Chocolate": 4.62
                 }
             }
         },
         "Claw Shot City": {
             "-": {
                 "Marshmallow Monterey": {
-                    "-": 2
+                    "-": 1.7
                 }
             }
         },
         "Muridae Market": {
             "-": {
                 "Marshmallow Monterey": {
-                    "-": 8.62
+                    "-": 6.06
                 }
             }
         },
         "Gnawnia Rift": {
             "-": {
                 "Marshmallow Monterey": {
-                    "-": 4.37,
+                    "-": 3.56,
                     "Dark Chocolate": 4.44
                 }
             }
@@ -24881,15 +24830,114 @@
         "Fungal Cavern": {
             "-": {
                 "Marshmallow Monterey": {
-                    "-": 2.81,
-                    "Dark Chocolate": 4.55
+                    "-": 2.91,
+                    "Dark Chocolate": 5.88
                 }
             }
         },
         "Moussu Picchu": {
             "-": {
                 "Marshmallow Monterey": {
-                    "-": 2.13
+                    "-": 1.75
+                }
+            }
+        }
+    },
+    "Eggsquisite Entertainer": {
+        "Town of Gnawnia": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 2.01,
+                    "Dark Chocolate": 2.86
+                }
+            }
+        },
+        "Town of Digby": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 6.5
+                }
+            }
+        },
+        "Great Gnarled Tree": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 6.67,
+                    "Dark Chocolate": 20
+                }
+            }
+        },
+        "Dojo": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 1.54
+                }
+            }
+        },
+        "Catacombs": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 4.12
+                }
+            }
+        },
+        "S.S. Huntington III": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 2.62
+                }
+            }
+        },
+        "Cape Clawed": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 1.28
+                }
+            }
+        },
+        "King's Gauntlet": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 2.68,
+                    "Dark Chocolate": 9.23
+                }
+            }
+        },
+        "Claw Shot City": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 3.98
+                }
+            }
+        },
+        "Muridae Market": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 2.02
+                }
+            }
+        },
+        "Gnawnia Rift": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 3.12,
+                    "Dark Chocolate": 4.44
+                }
+            }
+        },
+        "Fungal Cavern": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 2.41,
+                    "Dark Chocolate": 11.76
+                }
+            }
+        },
+        "Moussu Picchu": {
+            "-": {
+                "Marshmallow Monterey": {
+                    "-": 2.7,
+                    "Dark Chocolate": 6.67
                 }
             }
         }
@@ -24898,21 +24946,21 @@
         "Town of Gnawnia": {
             "-": {
                 "Marshmallow Monterey": {
-                    "Dark Chocolate": 21.43
+                    "Dark Chocolate": 14.29
                 }
             }
         },
         "Great Gnarled Tree": {
             "-": {
                 "Marshmallow Monterey": {
-                    "Dark Chocolate": 6.9
+                    "Dark Chocolate": 6.67
                 }
             }
         },
         "King's Gauntlet": {
             "-": {
                 "Marshmallow Monterey": {
-                    "Dark Chocolate": 8.77
+                    "Dark Chocolate": 7.69
                 }
             }
         },
@@ -24926,7 +24974,7 @@
         "Fungal Cavern": {
             "-": {
                 "Marshmallow Monterey": {
-                    "Dark Chocolate": 13.64
+                    "Dark Chocolate": 11.76
                 }
             }
         },
