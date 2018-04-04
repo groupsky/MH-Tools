@@ -9350,24 +9350,24 @@
         }
     },
     "Bristle Woods Rift": {
-        "Acolyteundefined": {
+        "Acolyte": {
             "Absolute Acolyte": {
                 "-": {
                     "-": {
                         "-": {
                             "-": {
-                                "Ancient Relic": 0.7558465855940131,
-                                "SampleSize": 1069,
-                                "Rift Antiskele Charm": 4.892422825070159,
-                                "Super Rift Vacuum Charm": 3.2740879326473338,
-                                "Ancient String Cheese Potion": 0.43966323666978485,
-                                "Tiny Sprocket": 3.227315247895229,
-                                "Clockwork Cog": 0.19083255378858746,
-                                "Runic String Cheese Potion": 0.2806361085126286,
-                                "Timesplit Charm": 0.052385406922357346,
-                                "Rift Vacuum Charm": 1.028999064546305,
-                                "Quantum Quartz": 0.2899906454630496,
-                                "Portal Scrambler": 0.01403180542563143
+                                "Ancient Relic": 0.7566574839302111,
+                                "SampleSize": 1089,
+                                "Rift Antiskele Charm": 5.004591368227731,
+                                "Super Rift Vacuum Charm": 3.3057851239669422,
+                                "Tiny Sprocket": 3.3057851239669422,
+                                "Ancient String Cheese Potion": 0.44077134986225897,
+                                "Clockwork Cog": 0.18732782369146006,
+                                "Runic String Cheese Potion": 0.27548209366391185,
+                                "Timesplit Charm": 0.051423324150596875,
+                                "Rift Vacuum Charm": 1.0101010101010102,
+                                "Quantum Quartz": 0.2846648301193756,
+                                "Portal Scrambler": 0.013774104683195593
                             }
                         }
                     }
@@ -9379,8 +9379,8 @@
                         "-": {
                             "-": {
                                 "Tiny Sprocket": 1,
-                                "SampleSize": 1316,
-                                "Time Sand": 1.2234042553191489
+                                "SampleSize": 1333,
+                                "Time Sand": 1.2258064516129032
                             }
                         }
                     }
@@ -9391,8 +9391,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Time Sand": 4.0710382513661205,
-                                "SampleSize": 183
+                                "Time Sand": 4.06989247311828,
+                                "SampleSize": 186
                             }
                         }
                     }
@@ -9403,9 +9403,9 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Tiny Sprocket": 2.999796064035893,
-                                "SampleSize": 9807,
-                                "Time Sand": 0.1401040073416947
+                                "Tiny Sprocket": 3.000402010050251,
+                                "SampleSize": 9950,
+                                "Time Sand": 0.13969849246231156
                             }
                         }
                     }
@@ -9417,9 +9417,9 @@
                         "-": {
                             "-": {
                                 "Runic String Cheese Potion": 2,
-                                "SampleSize": 1585,
-                                "Quantum Quartz": 3.9678233438485804,
-                                "Ancient Relic": 0.1331230283911672
+                                "SampleSize": 1615,
+                                "Quantum Quartz": 3.969659442724458,
+                                "Ancient Relic": 0.13188854489164087
                             }
                         }
                     }
@@ -9430,8 +9430,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Tiny Sprocket": 1.5109151973131822,
-                                "SampleSize": 2382
+                                "Tiny Sprocket": 1.5105502689284236,
+                                "SampleSize": 2417
                             }
                         }
                     }
@@ -9443,9 +9443,9 @@
                         "-": {
                             "-": {
                                 "Runic String Cheese Potion": 1,
-                                "SampleSize": 2130,
-                                "Tiny Sprocket": 0.5568075117370892,
-                                "Time Sand": 0.38403755868544603
+                                "SampleSize": 2174,
+                                "Tiny Sprocket": 0.5528978840846366,
+                                "Time Sand": 0.3840846366145354
                             }
                         }
                     }
@@ -9456,8 +9456,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Tiny Sprocket": 0.8834863425138841,
-                                "SampleSize": 8823
+                                "Tiny Sprocket": 0.8827463218903254,
+                                "SampleSize": 8972
                             }
                         }
                     }
@@ -9468,10 +9468,10 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Time Sand": 2.506040268456376,
-                                "SampleSize": 745,
-                                "Quantum Quartz": 0.8335570469798658,
-                                "Tiny Sprocket": 0.5543624161073826
+                                "Time Sand": 2.505291005291005,
+                                "SampleSize": 756,
+                                "Quantum Quartz": 0.8333333333333334,
+                                "Tiny Sprocket": 0.5515873015873016
                             }
                         }
                     }
@@ -9483,8 +9483,8 @@
                         "-": {
                             "-": {
                                 "Runic String Cheese Potion": 3,
-                                "SampleSize": 2640,
-                                "Quantum Quartz": 0.6632575757575757
+                                "SampleSize": 2685,
+                                "Quantum Quartz": 0.6629422718808193
                             }
                         }
                     }
@@ -9496,8 +9496,8 @@
                         "-": {
                             "-": {
                                 "Time Sand": 1,
-                                "SampleSize": 1787,
-                                "Runic String Cheese Potion": 1.4969222160044768
+                                "SampleSize": 1816,
+                                "Runic String Cheese Potion": 1.4955947136563876
                             }
                         }
                     }
@@ -9508,9 +9508,9 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Tiny Sprocket": 1.5160947060388401,
-                                "SampleSize": 3759,
-                                "Runic String Cheese Potion": 0.6682628358606012
+                                "Tiny Sprocket": 1.5174861951091243,
+                                "SampleSize": 3803,
+                                "Runic String Cheese Potion": 0.6671049171706548
                             }
                         }
                     }
@@ -9523,18 +9523,18 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Ancient Relic": 0.7558465855940131,
-                                "SampleSize": 1069,
-                                "Rift Antiskele Charm": 4.892422825070159,
-                                "Super Rift Vacuum Charm": 3.2740879326473338,
-                                "Ancient String Cheese Potion": 0.43966323666978485,
-                                "Tiny Sprocket": 3.227315247895229,
-                                "Clockwork Cog": 0.19083255378858746,
-                                "Runic String Cheese Potion": 0.2806361085126286,
-                                "Timesplit Charm": 0.052385406922357346,
-                                "Rift Vacuum Charm": 1.028999064546305,
-                                "Quantum Quartz": 0.2899906454630496,
-                                "Portal Scrambler": 0.01403180542563143
+                                "Ancient Relic": 0.7566574839302111,
+                                "SampleSize": 1089,
+                                "Rift Antiskele Charm": 5.004591368227731,
+                                "Super Rift Vacuum Charm": 3.3057851239669422,
+                                "Tiny Sprocket": 3.3057851239669422,
+                                "Ancient String Cheese Potion": 0.44077134986225897,
+                                "Clockwork Cog": 0.18732782369146006,
+                                "Runic String Cheese Potion": 0.27548209366391185,
+                                "Timesplit Charm": 0.051423324150596875,
+                                "Rift Vacuum Charm": 1.0101010101010102,
+                                "Quantum Quartz": 0.2846648301193756,
+                                "Portal Scrambler": 0.013774104683195593
                             }
                         }
                     }
@@ -9546,8 +9546,8 @@
                         "-": {
                             "-": {
                                 "Tiny Sprocket": 1,
-                                "SampleSize": 1316,
-                                "Time Sand": 1.2234042553191489
+                                "SampleSize": 1333,
+                                "Time Sand": 1.2258064516129032
                             }
                         }
                     }
@@ -9558,8 +9558,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Time Sand": 4.0710382513661205,
-                                "SampleSize": 183
+                                "Time Sand": 4.06989247311828,
+                                "SampleSize": 186
                             }
                         }
                     }
@@ -9570,9 +9570,9 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Tiny Sprocket": 2.999796064035893,
-                                "SampleSize": 9807,
-                                "Time Sand": 0.1401040073416947
+                                "Tiny Sprocket": 3.000402010050251,
+                                "SampleSize": 9950,
+                                "Time Sand": 0.13969849246231156
                             }
                         }
                     }
@@ -9583,10 +9583,10 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Quantum Quartz": 3.9678233438485804,
-                                "SampleSize": 1585,
                                 "Runic String Cheese Potion": 2,
-                                "Ancient Relic": 0.1331230283911672
+                                "SampleSize": 1615,
+                                "Quantum Quartz": 3.969659442724458,
+                                "Ancient Relic": 0.13188854489164087
                             }
                         }
                     }
@@ -9597,8 +9597,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Tiny Sprocket": 1.5109151973131822,
-                                "SampleSize": 2382
+                                "Tiny Sprocket": 1.5105502689284236,
+                                "SampleSize": 2417
                             }
                         }
                     }
@@ -9610,9 +9610,9 @@
                         "-": {
                             "-": {
                                 "Runic String Cheese Potion": 1,
-                                "SampleSize": 2130,
-                                "Tiny Sprocket": 0.5568075117370892,
-                                "Time Sand": 0.38403755868544603
+                                "SampleSize": 2174,
+                                "Tiny Sprocket": 0.5528978840846366,
+                                "Time Sand": 0.3840846366145354
                             }
                         }
                     }
@@ -9623,8 +9623,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Tiny Sprocket": 0.8834863425138841,
-                                "SampleSize": 8823
+                                "Tiny Sprocket": 0.8827463218903254,
+                                "SampleSize": 8972
                             }
                         }
                     }
@@ -9635,10 +9635,10 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Time Sand": 2.506040268456376,
-                                "SampleSize": 745,
-                                "Quantum Quartz": 0.8335570469798658,
-                                "Tiny Sprocket": 0.5543624161073826
+                                "Time Sand": 2.505291005291005,
+                                "SampleSize": 756,
+                                "Quantum Quartz": 0.8333333333333334,
+                                "Tiny Sprocket": 0.5515873015873016
                             }
                         }
                     }
@@ -9650,8 +9650,8 @@
                         "-": {
                             "-": {
                                 "Runic String Cheese Potion": 3,
-                                "SampleSize": 2640,
-                                "Quantum Quartz": 0.6632575757575757
+                                "SampleSize": 2685,
+                                "Quantum Quartz": 0.6629422718808193
                             }
                         }
                     }
@@ -9663,8 +9663,8 @@
                         "-": {
                             "-": {
                                 "Time Sand": 1,
-                                "SampleSize": 1787,
-                                "Runic String Cheese Potion": 1.4969222160044768
+                                "SampleSize": 1816,
+                                "Runic String Cheese Potion": 1.4955947136563876
                             }
                         }
                     }
@@ -9675,26 +9675,26 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Tiny Sprocket": 1.5160947060388401,
-                                "SampleSize": 3759,
-                                "Runic String Cheese Potion": 0.6682628358606012
+                                "Tiny Sprocket": 1.5174861951091243,
+                                "SampleSize": 3803,
+                                "Runic String Cheese Potion": 0.6671049171706548
                             }
                         }
                     }
                 }
             }
         },
-        "Hidden Treasuryundefined": {
+        "Hidden Treasury": {
             "Carrion Medium": {
                 "-": {
                     "-": {
                         "-": {
                             "-": {
-                                "Tiny Sprocket": 0.9320987654320988,
-                                "SampleSize": 162,
-                                "Rift Wealth Charm": 7.703703703703703,
-                                "Quantum Quartz": 1.8641975308641976,
-                                "Time Sand": 0.8209876543209876
+                                "Quantum Quartz": 1.8650306748466257,
+                                "SampleSize": 163,
+                                "Tiny Sprocket": 0.9325153374233128,
+                                "Rift Wealth Charm": 7.662576687116564,
+                                "Time Sand": 0.8159509202453987
                             }
                         }
                     }
@@ -9705,11 +9705,11 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Tiny Sprocket": 2.8047138047138045,
-                                "SampleSize": 297,
-                                "Rift Wealth Charm": 7.5353535353535355,
-                                "Quantum Quartz": 1.9191919191919191,
-                                "Time Sand": 0.0707070707070707
+                                "Quantum Quartz": 1.9169435215946844,
+                                "SampleSize": 301,
+                                "Tiny Sprocket": 2.7940199335548175,
+                                "Rift Wealth Charm": 7.4784053156146175,
+                                "Time Sand": 0.06976744186046512
                             }
                         }
                     }
@@ -9720,12 +9720,12 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Quantum Quartz": 2.288421052631579,
-                                "SampleSize": 475,
-                                "Rift Wealth Charm": 7.237894736842105,
-                                "Ancient String Cheese Potion": 1.7936842105263158,
-                                "Rift Antiskele Charm": 0.2463157894736842,
-                                "Time Sand": 0.2294736842105263
+                                "Quantum Quartz": 2.294979079497908,
+                                "SampleSize": 478,
+                                "Rift Wealth Charm": 7.2154811715481175,
+                                "Ancient String Cheese Potion": 1.794979079497908,
+                                "Rift Antiskele Charm": 0.24686192468619247,
+                                "Time Sand": 0.23221757322175732
                             }
                         }
                     }
@@ -9765,11 +9765,11 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Quantum Quartz": 1.854970760233918,
-                                "SampleSize": 855,
-                                "Rift Wealth Charm": 7.146198830409356,
-                                "Ancient String Cheese Potion": 1.4292397660818714,
-                                "Tiny Sprocket": 1.0935672514619883
+                                "Rift Wealth Charm": 7.15625,
+                                "SampleSize": 864,
+                                "Quantum Quartz": 1.8541666666666667,
+                                "Ancient String Cheese Potion": 1.4270833333333333,
+                                "Tiny Sprocket": 1.1018518518518519
                             }
                         }
                     }
@@ -9794,12 +9794,12 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Runic String Cheese Potion": 0.9161676646706587,
-                                "SampleSize": 167,
-                                "Quantum Quartz": 1.8562874251497006,
-                                "Rift Wealth Charm": 6.844311377245509,
-                                "Tiny Sprocket": 0.48502994011976047,
-                                "Time Sand": 0.2215568862275449
+                                "Runic String Cheese Potion": 0.9166666666666666,
+                                "SampleSize": 168,
+                                "Quantum Quartz": 1.8511904761904763,
+                                "Rift Wealth Charm": 6.9523809523809526,
+                                "Tiny Sprocket": 0.4880952380952381,
+                                "Time Sand": 0.22023809523809523
                             }
                         }
                     }
@@ -9810,10 +9810,10 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Quantum Quartz": 1.9189189189189189,
-                                "SampleSize": 148,
-                                "Rift Wealth Charm": 7.594594594594595,
-                                "Tiny Sprocket": 0.8513513513513513
+                                "Quantum Quartz": 1.9271523178807948,
+                                "SampleSize": 151,
+                                "Rift Wealth Charm": 7.543046357615894,
+                                "Tiny Sprocket": 0.8543046357615894
                             }
                         }
                     }
@@ -9824,11 +9824,11 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Rift Wealth Charm": 8.13064133016627,
-                                "SampleSize": 421,
-                                "Quantum Quartz": 2.672209026128266,
-                                "Time Sand": 1.8907363420427554,
-                                "Tiny Sprocket": 0.5510688836104513
+                                "Quantum Quartz": 2.663529411764706,
+                                "SampleSize": 425,
+                                "Rift Wealth Charm": 8.16,
+                                "Time Sand": 1.891764705882353,
+                                "Tiny Sprocket": 0.5529411764705883
                             }
                         }
                     }
@@ -9839,11 +9839,11 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Runic String Cheese Potion": 1.4385542168674699,
-                                "SampleSize": 415,
-                                "Quantum Quartz": 1.9349397590361446,
-                                "Rift Wealth Charm": 8.081927710843374,
-                                "Time Sand": 0.7325301204819277
+                                "Runic String Cheese Potion": 1.4425837320574162,
+                                "SampleSize": 418,
+                                "Quantum Quartz": 1.9282296650717703,
+                                "Rift Wealth Charm": 8.083732057416269,
+                                "Time Sand": 0.7344497607655502
                             }
                         }
                     }
@@ -9856,11 +9856,11 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Quantum Quartz": 1.8641975308641976,
-                                "SampleSize": 162,
-                                "Tiny Sprocket": 0.9320987654320988,
-                                "Rift Wealth Charm": 7.703703703703703,
-                                "Time Sand": 0.8209876543209876
+                                "Quantum Quartz": 1.8650306748466257,
+                                "SampleSize": 163,
+                                "Tiny Sprocket": 0.9325153374233128,
+                                "Rift Wealth Charm": 7.662576687116564,
+                                "Time Sand": 0.8159509202453987
                             }
                         }
                     }
@@ -9871,11 +9871,11 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Quantum Quartz": 1.9191919191919191,
-                                "SampleSize": 297,
-                                "Tiny Sprocket": 2.8047138047138045,
-                                "Rift Wealth Charm": 7.5353535353535355,
-                                "Time Sand": 0.0707070707070707
+                                "Quantum Quartz": 1.9169435215946844,
+                                "SampleSize": 301,
+                                "Tiny Sprocket": 2.7940199335548175,
+                                "Rift Wealth Charm": 7.4784053156146175,
+                                "Time Sand": 0.06976744186046512
                             }
                         }
                     }
@@ -9886,12 +9886,12 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Quantum Quartz": 2.288421052631579,
-                                "SampleSize": 475,
-                                "Rift Wealth Charm": 7.237894736842105,
-                                "Ancient String Cheese Potion": 1.7936842105263158,
-                                "Rift Antiskele Charm": 0.2463157894736842,
-                                "Time Sand": 0.2294736842105263
+                                "Quantum Quartz": 2.294979079497908,
+                                "SampleSize": 478,
+                                "Rift Wealth Charm": 7.2154811715481175,
+                                "Ancient String Cheese Potion": 1.794979079497908,
+                                "Rift Antiskele Charm": 0.24686192468619247,
+                                "Time Sand": 0.23221757322175732
                             }
                         }
                     }
@@ -9931,11 +9931,11 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Rift Wealth Charm": 7.146198830409356,
-                                "SampleSize": 855,
-                                "Quantum Quartz": 1.854970760233918,
-                                "Ancient String Cheese Potion": 1.4292397660818714,
-                                "Tiny Sprocket": 1.0935672514619883
+                                "Rift Wealth Charm": 7.15625,
+                                "SampleSize": 864,
+                                "Quantum Quartz": 1.8541666666666667,
+                                "Ancient String Cheese Potion": 1.4270833333333333,
+                                "Tiny Sprocket": 1.1018518518518519
                             }
                         }
                     }
@@ -9946,10 +9946,10 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Tiny Sprocket": 5,
+                                "Quantum Quartz": 3,
                                 "SampleSize": 2,
-                                "Rift Wealth Charm": 7.5,
-                                "Quantum Quartz": 3
+                                "Tiny Sprocket": 5,
+                                "Rift Wealth Charm": 7.5
                             }
                         }
                     }
@@ -9960,12 +9960,12 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Runic String Cheese Potion": 0.9161676646706587,
-                                "SampleSize": 167,
-                                "Quantum Quartz": 1.8562874251497006,
-                                "Rift Wealth Charm": 6.844311377245509,
-                                "Tiny Sprocket": 0.48502994011976047,
-                                "Time Sand": 0.2215568862275449
+                                "Rift Wealth Charm": 6.9523809523809526,
+                                "SampleSize": 168,
+                                "Runic String Cheese Potion": 0.9166666666666666,
+                                "Quantum Quartz": 1.8511904761904763,
+                                "Tiny Sprocket": 0.4880952380952381,
+                                "Time Sand": 0.22023809523809523
                             }
                         }
                     }
@@ -9976,10 +9976,10 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Quantum Quartz": 1.9189189189189189,
-                                "SampleSize": 148,
-                                "Rift Wealth Charm": 7.594594594594595,
-                                "Tiny Sprocket": 0.8513513513513513
+                                "Quantum Quartz": 1.9271523178807948,
+                                "SampleSize": 151,
+                                "Rift Wealth Charm": 7.543046357615894,
+                                "Tiny Sprocket": 0.8543046357615894
                             }
                         }
                     }
@@ -9990,11 +9990,11 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Quantum Quartz": 2.672209026128266,
-                                "SampleSize": 421,
-                                "Rift Wealth Charm": 8.13064133016627,
-                                "Time Sand": 1.8907363420427554,
-                                "Tiny Sprocket": 0.5510688836104513
+                                "Quantum Quartz": 2.663529411764706,
+                                "SampleSize": 425,
+                                "Rift Wealth Charm": 8.16,
+                                "Time Sand": 1.891764705882353,
+                                "Tiny Sprocket": 0.5529411764705883
                             }
                         }
                     }
@@ -10005,26 +10005,26 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Runic String Cheese Potion": 1.4385542168674699,
-                                "SampleSize": 415,
-                                "Quantum Quartz": 1.9349397590361446,
-                                "Rift Wealth Charm": 8.081927710843374,
-                                "Time Sand": 0.7325301204819277
+                                "Runic String Cheese Potion": 1.4425837320574162,
+                                "SampleSize": 418,
+                                "Quantum Quartz": 1.9282296650717703,
+                                "Rift Wealth Charm": 8.083732057416269,
+                                "Time Sand": 0.7344497607655502
                             }
                         }
                     }
                 }
             }
         },
-        "Timewarpundefined": {
+        "Timewarp": {
             "Carrion Medium": {
                 "-": {
                     "-": {
                         "-": {
                             "-": {
-                                "Tiny Sprocket": 0.9536344600658092,
-                                "SampleSize": 10029,
-                                "Time Sand": 1.0278193239605145
+                                "Tiny Sprocket": 0.9533765213977228,
+                                "SampleSize": 10188,
+                                "Time Sand": 1.0265017667844523
                             }
                         }
                     }
@@ -10035,8 +10035,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Time Sand": 3.4288032893313134,
-                                "SampleSize": 9242
+                                "Time Sand": 3.4296983264044343,
+                                "SampleSize": 9381
                             }
                         }
                     }
@@ -10047,9 +10047,9 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Tiny Sprocket": 2.6715328467153285,
-                                "SampleSize": 548,
-                                "Time Sand": 0.09671532846715329
+                                "Tiny Sprocket": 2.6684684684684683,
+                                "SampleSize": 555,
+                                "Time Sand": 0.0972972972972973
                             }
                         }
                     }
@@ -10060,8 +10060,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Tiny Sprocket": 1.4331753554502369,
-                                "SampleSize": 1055
+                                "Tiny Sprocket": 1.4335205992509363,
+                                "SampleSize": 1068
                             }
                         }
                     }
@@ -10084,8 +10084,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Tiny Sprocket": 1.1806712687455367,
-                                "SampleSize": 4201
+                                "Tiny Sprocket": 1.180435291364381,
+                                "SampleSize": 4273
                             }
                         }
                     }
@@ -10096,8 +10096,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Tiny Sprocket": 0.8380414312617702,
-                                "SampleSize": 1593
+                                "Tiny Sprocket": 0.8374689826302729,
+                                "SampleSize": 1612
                             }
                         }
                     }
@@ -10108,10 +10108,10 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Time Sand": 2.137149228767887,
-                                "SampleSize": 5381,
-                                "Quantum Quartz": 0.7987362943690763,
-                                "Tiny Sprocket": 0.5357740196989407
+                                "Time Sand": 2.139794796628802,
+                                "SampleSize": 5458,
+                                "Quantum Quartz": 0.7997434957860022,
+                                "Tiny Sprocket": 0.5366434591425431
                             }
                         }
                     }
@@ -10124,9 +10124,9 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Tiny Sprocket": 0.9536344600658092,
-                                "SampleSize": 10029,
-                                "Time Sand": 1.0278193239605145
+                                "Tiny Sprocket": 0.9533765213977228,
+                                "SampleSize": 10188,
+                                "Time Sand": 1.0265017667844523
                             }
                         }
                     }
@@ -10137,8 +10137,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Time Sand": 3.4288032893313134,
-                                "SampleSize": 9242
+                                "Time Sand": 3.4296983264044343,
+                                "SampleSize": 9381
                             }
                         }
                     }
@@ -10149,9 +10149,9 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Tiny Sprocket": 2.6715328467153285,
-                                "SampleSize": 548,
-                                "Time Sand": 0.09671532846715329
+                                "Tiny Sprocket": 2.6684684684684683,
+                                "SampleSize": 555,
+                                "Time Sand": 0.0972972972972973
                             }
                         }
                     }
@@ -10162,8 +10162,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Tiny Sprocket": 1.4331753554502369,
-                                "SampleSize": 1055
+                                "Tiny Sprocket": 1.4335205992509363,
+                                "SampleSize": 1068
                             }
                         }
                     }
@@ -10186,8 +10186,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Tiny Sprocket": 1.1806712687455367,
-                                "SampleSize": 4201
+                                "Tiny Sprocket": 1.180435291364381,
+                                "SampleSize": 4273
                             }
                         }
                     }
@@ -10198,8 +10198,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Tiny Sprocket": 0.8380414312617702,
-                                "SampleSize": 1593
+                                "Tiny Sprocket": 0.8374689826302729,
+                                "SampleSize": 1612
                             }
                         }
                     }
@@ -10210,25 +10210,25 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Time Sand": 2.137149228767887,
-                                "SampleSize": 5381,
-                                "Quantum Quartz": 0.7987362943690763,
-                                "Tiny Sprocket": 0.5357740196989407
+                                "Time Sand": 2.139794796628802,
+                                "SampleSize": 5458,
+                                "Quantum Quartz": 0.7997434957860022,
+                                "Tiny Sprocket": 0.5366434591425431
                             }
                         }
                     }
                 }
             }
         },
-        "Ancient Labundefined": {
+        "Ancient Lab": {
             "Clockwork Timespinner": {
                 "-": {
                     "-": {
                         "-": {
                             "-": {
-                                "Ancient String Cheese Potion": 1.90184633710542,
-                                "SampleSize": 8395,
-                                "Tiny Sprocket": 0.6312090530077427
+                                "Ancient String Cheese Potion": 1.9002113172106128,
+                                "SampleSize": 8518,
+                                "Tiny Sprocket": 0.6301948814275652
                             }
                         }
                     }
@@ -10239,9 +10239,9 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Tiny Sprocket": 2.811787072243346,
-                                "SampleSize": 526,
-                                "Time Sand": 0.06844106463878327
+                                "Tiny Sprocket": 2.798882681564246,
+                                "SampleSize": 537,
+                                "Time Sand": 0.0670391061452514
                             }
                         }
                     }
@@ -10252,11 +10252,11 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Ancient String Cheese Potion": 1.883594499520307,
-                                "SampleSize": 3127,
-                                "Quantum Quartz": 0.5542053086024944,
-                                "Rift Antiskele Charm": 0.29229293252318517,
-                                "Time Sand": 0.21138471378317877
+                                "Ancient String Cheese Potion": 1.884213856374565,
+                                "SampleSize": 3161,
+                                "Quantum Quartz": 0.5539386270167669,
+                                "Rift Antiskele Charm": 0.29167984814931985,
+                                "Time Sand": 0.21100917431192662
                             }
                         }
                     }
@@ -10267,8 +10267,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Tiny Sprocket": 1.463130659767141,
-                                "SampleSize": 773
+                                "Tiny Sprocket": 1.4635083226632521,
+                                "SampleSize": 781
                             }
                         }
                     }
@@ -10279,9 +10279,9 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Ancient String Cheese Potion": 1.4199794965258001,
-                                "SampleSize": 8779,
-                                "Tiny Sprocket": 1.1197175076888028
+                                "Ancient String Cheese Potion": 1.419503426581283,
+                                "SampleSize": 8901,
+                                "Tiny Sprocket": 1.1168408044039995
                             }
                         }
                     }
@@ -10304,9 +10304,9 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Tiny Sprocket": 0.566079295154185,
-                                "SampleSize": 1362,
-                                "Ancient String Cheese Potion": 0.24082232011747431
+                                "Tiny Sprocket": 0.5635439360929557,
+                                "SampleSize": 1377,
+                                "Ancient String Cheese Potion": 0.24183006535947713
                             }
                         }
                     }
@@ -10317,8 +10317,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Tiny Sprocket": 0.9597523219814241,
-                                "SampleSize": 323
+                                "Tiny Sprocket": 0.9601226993865031,
+                                "SampleSize": 326
                             }
                         }
                     }
@@ -10329,8 +10329,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Tiny Sprocket": 1.1549295774647887,
-                                "SampleSize": 284
+                                "Tiny Sprocket": 1.1637630662020906,
+                                "SampleSize": 287
                             }
                         }
                     }
@@ -10341,8 +10341,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Tiny Sprocket": 0.8137829912023461,
-                                "SampleSize": 1364
+                                "Tiny Sprocket": 0.8123636363636364,
+                                "SampleSize": 1375
                             }
                         }
                     }
@@ -10355,9 +10355,9 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Ancient String Cheese Potion": 1.90184633710542,
-                                "SampleSize": 8395,
-                                "Tiny Sprocket": 0.6312090530077427
+                                "Ancient String Cheese Potion": 1.9002113172106128,
+                                "SampleSize": 8518,
+                                "Tiny Sprocket": 0.6301948814275652
                             }
                         }
                     }
@@ -10368,9 +10368,9 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Tiny Sprocket": 2.811787072243346,
-                                "SampleSize": 526,
-                                "Time Sand": 0.06844106463878327
+                                "Tiny Sprocket": 2.798882681564246,
+                                "SampleSize": 537,
+                                "Time Sand": 0.0670391061452514
                             }
                         }
                     }
@@ -10381,11 +10381,11 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Ancient String Cheese Potion": 1.883594499520307,
-                                "SampleSize": 3127,
-                                "Quantum Quartz": 0.5542053086024944,
-                                "Rift Antiskele Charm": 0.29229293252318517,
-                                "Time Sand": 0.21138471378317877
+                                "Ancient String Cheese Potion": 1.884213856374565,
+                                "SampleSize": 3161,
+                                "Quantum Quartz": 0.5539386270167669,
+                                "Rift Antiskele Charm": 0.29167984814931985,
+                                "Time Sand": 0.21100917431192662
                             }
                         }
                     }
@@ -10396,8 +10396,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Tiny Sprocket": 1.463130659767141,
-                                "SampleSize": 773
+                                "Tiny Sprocket": 1.4635083226632521,
+                                "SampleSize": 781
                             }
                         }
                     }
@@ -10408,9 +10408,9 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Ancient String Cheese Potion": 1.4199794965258001,
-                                "SampleSize": 8779,
-                                "Tiny Sprocket": 1.1197175076888028
+                                "Ancient String Cheese Potion": 1.419503426581283,
+                                "SampleSize": 8901,
+                                "Tiny Sprocket": 1.1168408044039995
                             }
                         }
                     }
@@ -10433,9 +10433,9 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Tiny Sprocket": 0.566079295154185,
-                                "SampleSize": 1362,
-                                "Ancient String Cheese Potion": 0.24082232011747431
+                                "Tiny Sprocket": 0.5635439360929557,
+                                "SampleSize": 1377,
+                                "Ancient String Cheese Potion": 0.24183006535947713
                             }
                         }
                     }
@@ -10446,8 +10446,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Tiny Sprocket": 0.9597523219814241,
-                                "SampleSize": 323
+                                "Tiny Sprocket": 0.9601226993865031,
+                                "SampleSize": 326
                             }
                         }
                     }
@@ -10458,8 +10458,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Tiny Sprocket": 1.1549295774647887,
-                                "SampleSize": 284
+                                "Tiny Sprocket": 1.1637630662020906,
+                                "SampleSize": 287
                             }
                         }
                     }
@@ -10470,15 +10470,15 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Tiny Sprocket": 0.8137829912023461,
-                                "SampleSize": 1364
+                                "Tiny Sprocket": 0.8123636363636364,
+                                "SampleSize": 1375
                             }
                         }
                     }
                 }
             }
         },
-        "Furnace Roomundefined": {
+        "Furnace Room": {
             "Clockwork Timespinner": {
                 "-": {
                     "-": {
@@ -10628,15 +10628,15 @@
                 }
             }
         },
-        "Gearworksundefined": {
+        "Gearworks": {
             "Clockwork Timespinner": {
                 "-": {
                     "-": {
                         "-": {
                             "-": {
-                                "Ancient String Cheese Potion": 1.8557046979865772,
-                                "SampleSize": 596,
-                                "Tiny Sprocket": 0.5922818791946308
+                                "Ancient String Cheese Potion": 1.85831960461285,
+                                "SampleSize": 607,
+                                "Tiny Sprocket": 0.5947281713344317
                             }
                         }
                     }
@@ -10647,9 +10647,9 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Tiny Sprocket": 2.8217136774880256,
-                                "SampleSize": 1879,
-                                "Time Sand": 0.04736562001064396
+                                "Tiny Sprocket": 2.828706128863279,
+                                "SampleSize": 1909,
+                                "Time Sand": 0.04819277108433735
                             }
                         }
                     }
@@ -10688,8 +10688,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Tiny Sprocket": 1.4508393285371703,
-                                "SampleSize": 417
+                                "Tiny Sprocket": 1.4523809523809523,
+                                "SampleSize": 420
                             }
                         }
                     }
@@ -10700,9 +10700,9 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Ancient String Cheese Potion": 1.4496951219512195,
-                                "SampleSize": 656,
-                                "Tiny Sprocket": 1.1280487804878048
+                                "Ancient String Cheese Potion": 1.4491017964071857,
+                                "SampleSize": 668,
+                                "Tiny Sprocket": 1.1317365269461077
                             }
                         }
                     }
@@ -10725,9 +10725,9 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Tiny Sprocket": 0.5472175379426644,
-                                "SampleSize": 1186,
-                                "Ancient String Cheese Potion": 0.2166947723440135
+                                "Tiny Sprocket": 0.546058091286307,
+                                "SampleSize": 1205,
+                                "Ancient String Cheese Potion": 0.21825726141078838
                             }
                         }
                     }
@@ -10738,8 +10738,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Tiny Sprocket": 0.9275882704967086,
-                                "SampleSize": 1671
+                                "Tiny Sprocket": 0.9274764150943396,
+                                "SampleSize": 1696
                             }
                         }
                     }
@@ -10750,8 +10750,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Tiny Sprocket": 1.197158081705151,
-                                "SampleSize": 1126
+                                "Tiny Sprocket": 1.1986001749781277,
+                                "SampleSize": 1143
                             }
                         }
                     }
@@ -10775,8 +10775,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Tiny Sprocket": 0.8157625383828045,
-                                "SampleSize": 977
+                                "Tiny Sprocket": 0.8172690763052208,
+                                "SampleSize": 996
                             }
                         }
                     }
@@ -10815,9 +10815,9 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Ancient String Cheese Potion": 1.8557046979865772,
-                                "SampleSize": 596,
-                                "Tiny Sprocket": 0.5922818791946308
+                                "Ancient String Cheese Potion": 1.85831960461285,
+                                "SampleSize": 607,
+                                "Tiny Sprocket": 0.5947281713344317
                             }
                         }
                     }
@@ -10828,9 +10828,9 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Tiny Sprocket": 2.8217136774880256,
-                                "SampleSize": 1879,
-                                "Time Sand": 0.04736562001064396
+                                "Tiny Sprocket": 2.828706128863279,
+                                "SampleSize": 1909,
+                                "Time Sand": 0.04819277108433735
                             }
                         }
                     }
@@ -10869,8 +10869,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Tiny Sprocket": 1.4508393285371703,
-                                "SampleSize": 417
+                                "Tiny Sprocket": 1.4523809523809523,
+                                "SampleSize": 420
                             }
                         }
                     }
@@ -10881,9 +10881,9 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Ancient String Cheese Potion": 1.4496951219512195,
-                                "SampleSize": 656,
-                                "Tiny Sprocket": 1.1280487804878048
+                                "Ancient String Cheese Potion": 1.4491017964071857,
+                                "SampleSize": 668,
+                                "Tiny Sprocket": 1.1317365269461077
                             }
                         }
                     }
@@ -10906,9 +10906,9 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Tiny Sprocket": 0.5472175379426644,
-                                "SampleSize": 1186,
-                                "Ancient String Cheese Potion": 0.2166947723440135
+                                "Tiny Sprocket": 0.546058091286307,
+                                "SampleSize": 1205,
+                                "Ancient String Cheese Potion": 0.21825726141078838
                             }
                         }
                     }
@@ -10919,8 +10919,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Tiny Sprocket": 0.9275882704967086,
-                                "SampleSize": 1671
+                                "Tiny Sprocket": 0.9274764150943396,
+                                "SampleSize": 1696
                             }
                         }
                     }
@@ -10931,8 +10931,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Tiny Sprocket": 1.197158081705151,
-                                "SampleSize": 1126
+                                "Tiny Sprocket": 1.1986001749781277,
+                                "SampleSize": 1143
                             }
                         }
                     }
@@ -10956,8 +10956,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Tiny Sprocket": 0.8157625383828045,
-                                "SampleSize": 977
+                                "Tiny Sprocket": 0.8172690763052208,
+                                "SampleSize": 996
                             }
                         }
                     }
@@ -10990,7 +10990,7 @@
                 }
             }
         },
-        "Guard Barracksundefined": {
+        "Guard Barracks": {
             "Clockwork Timespinner": {
                 "-": {
                     "-": {
@@ -11009,9 +11009,9 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Tiny Sprocket": 2.8093862815884476,
-                                "SampleSize": 1385,
-                                "Time Sand": 0.0736462093862816
+                                "Tiny Sprocket": 2.8089171974522293,
+                                "SampleSize": 1413,
+                                "Time Sand": 0.07501769285208776
                             }
                         }
                     }
@@ -11022,11 +11022,11 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Ancient String Cheese Potion": 1.8740458015267176,
-                                "SampleSize": 1048,
-                                "Quantum Quartz": 0.5687022900763359,
-                                "Rift Antiskele Charm": 0.27958015267175573,
-                                "Time Sand": 0.18606870229007633
+                                "Ancient String Cheese Potion": 1.8739416745061148,
+                                "SampleSize": 1063,
+                                "Quantum Quartz": 0.5653809971777987,
+                                "Rift Antiskele Charm": 0.27845719661335844,
+                                "Time Sand": 0.187206020696143
                             }
                         }
                     }
@@ -11037,8 +11037,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Tiny Sprocket": 1.5110091743119265,
-                                "SampleSize": 3270
+                                "Tiny Sprocket": 1.5102533172496984,
+                                "SampleSize": 3316
                             }
                         }
                     }
@@ -11061,23 +11061,23 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Tiny Sprocket": 1.1836065573770491,
-                                "SampleSize": 610
+                                "Tiny Sprocket": 1.1830065359477124,
+                                "SampleSize": 612
                             }
                         }
                     }
                 }
             }
         },
-        "Ingressundefined": {
+        "Ingress": {
             "Clockwork Timespinner": {
                 "-": {
                     "-": {
                         "-": {
                             "-": {
-                                "Ancient String Cheese Potion": 1.8144,
-                                "SampleSize": 625,
-                                "Tiny Sprocket": 0.5968
+                                "Ancient String Cheese Potion": 1.8126984126984127,
+                                "SampleSize": 630,
+                                "Tiny Sprocket": 0.5968253968253968
                             }
                         }
                     }
@@ -11115,8 +11115,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Tiny Sprocket": 2.7371134020618557,
-                                "SampleSize": 388
+                                "Tiny Sprocket": 2.7326478149100257,
+                                "SampleSize": 389
                             }
                         }
                     }
@@ -11127,8 +11127,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Tiny Sprocket": 1.1524390243902438,
-                                "SampleSize": 656
+                                "Tiny Sprocket": 1.151057401812689,
+                                "SampleSize": 662
                             }
                         }
                     }
@@ -11139,10 +11139,10 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Runic String Cheese Potion": 0.9074074074074074,
-                                "SampleSize": 270,
-                                "Tiny Sprocket": 0.5814814814814815,
-                                "Time Sand": 0.2037037037037037
+                                "Runic String Cheese Potion": 0.9080882352941176,
+                                "SampleSize": 272,
+                                "Tiny Sprocket": 0.5808823529411765,
+                                "Time Sand": 0.20220588235294118
                             }
                         }
                     }
@@ -11153,9 +11153,9 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Tiny Sprocket": 1.4066265060240963,
-                                "SampleSize": 332,
-                                "Runic String Cheese Potion": 0.6174698795180723
+                                "Tiny Sprocket": 1.4059701492537313,
+                                "SampleSize": 335,
+                                "Runic String Cheese Potion": 0.6179104477611941
                             }
                         }
                     }
@@ -11168,9 +11168,9 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Ancient String Cheese Potion": 1.8144,
-                                "SampleSize": 625,
-                                "Tiny Sprocket": 0.5968
+                                "Ancient String Cheese Potion": 1.8126984126984127,
+                                "SampleSize": 630,
+                                "Tiny Sprocket": 0.5968253968253968
                             }
                         }
                     }
@@ -11208,8 +11208,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Tiny Sprocket": 2.7371134020618557,
-                                "SampleSize": 388
+                                "Tiny Sprocket": 2.7326478149100257,
+                                "SampleSize": 389
                             }
                         }
                     }
@@ -11220,8 +11220,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Tiny Sprocket": 1.1524390243902438,
-                                "SampleSize": 656
+                                "Tiny Sprocket": 1.151057401812689,
+                                "SampleSize": 662
                             }
                         }
                     }
@@ -11232,10 +11232,10 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Runic String Cheese Potion": 0.9074074074074074,
-                                "SampleSize": 270,
-                                "Tiny Sprocket": 0.5814814814814815,
-                                "Time Sand": 0.2037037037037037
+                                "Runic String Cheese Potion": 0.9080882352941176,
+                                "SampleSize": 272,
+                                "Tiny Sprocket": 0.5808823529411765,
+                                "Time Sand": 0.20220588235294118
                             }
                         }
                     }
@@ -11246,25 +11246,25 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Tiny Sprocket": 1.4066265060240963,
-                                "SampleSize": 332,
-                                "Runic String Cheese Potion": 0.6174698795180723
+                                "Tiny Sprocket": 1.4059701492537313,
+                                "SampleSize": 335,
+                                "Runic String Cheese Potion": 0.6179104477611941
                             }
                         }
                     }
                 }
             }
         },
-        "Lucky Towerundefined": {
+        "Lucky Tower": {
             "Clockwork Timespinner": {
                 "-": {
                     "-": {
                         "-": {
                             "-": {
-                                "Ancient String Cheese Potion": 1.9285714285714286,
-                                "SampleSize": 896,
-                                "Quantum Quartz": 0.8225446428571429,
-                                "Tiny Sprocket": 1.3549107142857142
+                                "Ancient String Cheese Potion": 1.9290465631929046,
+                                "SampleSize": 902,
+                                "Quantum Quartz": 0.8226164079822617,
+                                "Tiny Sprocket": 1.3580931263858094
                             }
                         }
                     }
@@ -11275,10 +11275,10 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Tiny Sprocket": 3.5611015490533564,
-                                "SampleSize": 581,
-                                "Quantum Quartz": 0.8175559380378657,
-                                "Time Sand": 0.10671256454388985
+                                "Tiny Sprocket": 3.5580204778157,
+                                "SampleSize": 586,
+                                "Quantum Quartz": 0.8191126279863481,
+                                "Time Sand": 0.10580204778156997
                             }
                         }
                     }
@@ -11289,12 +11289,12 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Ancient String Cheese Potion": 1.9260204081632653,
-                                "SampleSize": 784,
-                                "Quantum Quartz": 1.4375,
-                                "Rift Antiskele Charm": 0.29209183673469385,
-                                "Time Sand": 0.23979591836734693,
-                                "Tiny Sprocket": 0.7079081632653061
+                                "Ancient String Cheese Potion": 1.9271356783919598,
+                                "SampleSize": 796,
+                                "Quantum Quartz": 1.435929648241206,
+                                "Rift Antiskele Charm": 0.292713567839196,
+                                "Time Sand": 0.24120603015075376,
+                                "Tiny Sprocket": 0.7097989949748744
                             }
                         }
                     }
@@ -11305,11 +11305,11 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Runic String Cheese Potion": 1.9047619047619047,
-                                "SampleSize": 84,
-                                "Quantum Quartz": 4.523809523809524,
-                                "Ancient Relic": 0.13095238095238096,
-                                "Tiny Sprocket": 0.6547619047619048
+                                "Runic String Cheese Potion": 1.9058823529411764,
+                                "SampleSize": 85,
+                                "Quantum Quartz": 4.529411764705882,
+                                "Ancient Relic": 0.12941176470588237,
+                                "Tiny Sprocket": 0.6470588235294118
                             }
                         }
                     }
@@ -11320,9 +11320,9 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Tiny Sprocket": 2.0902777777777777,
-                                "SampleSize": 144,
-                                "Quantum Quartz": 0.7986111111111112
+                                "Tiny Sprocket": 2.0753424657534247,
+                                "SampleSize": 146,
+                                "Quantum Quartz": 0.8013698630136986
                             }
                         }
                     }
@@ -11333,10 +11333,10 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Ancient String Cheese Potion": 1.4161616161616162,
-                                "SampleSize": 990,
-                                "Quantum Quartz": 0.8191919191919191,
-                                "Tiny Sprocket": 1.7575757575757576
+                                "Ancient String Cheese Potion": 1.4184184184184183,
+                                "SampleSize": 999,
+                                "Quantum Quartz": 0.8198198198198198,
+                                "Tiny Sprocket": 1.7577577577577577
                             }
                         }
                     }
@@ -11360,10 +11360,10 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Quantum Quartz": 0.8368055555555556,
-                                "SampleSize": 576,
-                                "Tiny Sprocket": 1.2170138888888888,
-                                "Ancient String Cheese Potion": 0.234375
+                                "Quantum Quartz": 0.8344827586206897,
+                                "SampleSize": 580,
+                                "Tiny Sprocket": 1.2327586206896552,
+                                "Ancient String Cheese Potion": 0.23275862068965517
                             }
                         }
                     }
@@ -11374,9 +11374,9 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Tiny Sprocket": 1.7017241379310344,
-                                "SampleSize": 580,
-                                "Quantum Quartz": 0.8017241379310345
+                                "Tiny Sprocket": 1.699490662139219,
+                                "SampleSize": 589,
+                                "Quantum Quartz": 0.8030560271646859
                             }
                         }
                     }
@@ -11400,9 +11400,9 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Tiny Sprocket": 1.8239700374531835,
-                                "SampleSize": 267,
-                                "Quantum Quartz": 0.7415730337078652
+                                "Tiny Sprocket": 1.8208955223880596,
+                                "SampleSize": 268,
+                                "Quantum Quartz": 0.7425373134328358
                             }
                         }
                     }
@@ -11415,10 +11415,10 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Ancient String Cheese Potion": 1.9285714285714286,
-                                "SampleSize": 896,
-                                "Quantum Quartz": 0.8225446428571429,
-                                "Tiny Sprocket": 1.3549107142857142
+                                "Ancient String Cheese Potion": 1.9290465631929046,
+                                "SampleSize": 902,
+                                "Quantum Quartz": 0.8226164079822617,
+                                "Tiny Sprocket": 1.3580931263858094
                             }
                         }
                     }
@@ -11429,10 +11429,10 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Tiny Sprocket": 3.5611015490533564,
-                                "SampleSize": 581,
-                                "Quantum Quartz": 0.8175559380378657,
-                                "Time Sand": 0.10671256454388985
+                                "Tiny Sprocket": 3.5580204778157,
+                                "SampleSize": 586,
+                                "Quantum Quartz": 0.8191126279863481,
+                                "Time Sand": 0.10580204778156997
                             }
                         }
                     }
@@ -11443,12 +11443,12 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Ancient String Cheese Potion": 1.9260204081632653,
-                                "SampleSize": 784,
-                                "Quantum Quartz": 1.4375,
-                                "Rift Antiskele Charm": 0.29209183673469385,
-                                "Time Sand": 0.23979591836734693,
-                                "Tiny Sprocket": 0.7079081632653061
+                                "Ancient String Cheese Potion": 1.9271356783919598,
+                                "SampleSize": 796,
+                                "Quantum Quartz": 1.435929648241206,
+                                "Rift Antiskele Charm": 0.292713567839196,
+                                "Time Sand": 0.24120603015075376,
+                                "Tiny Sprocket": 0.7097989949748744
                             }
                         }
                     }
@@ -11459,11 +11459,11 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Runic String Cheese Potion": 1.9047619047619047,
-                                "SampleSize": 84,
-                                "Quantum Quartz": 4.523809523809524,
-                                "Ancient Relic": 0.13095238095238096,
-                                "Tiny Sprocket": 0.6547619047619048
+                                "Runic String Cheese Potion": 1.9058823529411764,
+                                "SampleSize": 85,
+                                "Quantum Quartz": 4.529411764705882,
+                                "Ancient Relic": 0.12941176470588237,
+                                "Tiny Sprocket": 0.6470588235294118
                             }
                         }
                     }
@@ -11474,9 +11474,9 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Tiny Sprocket": 2.0902777777777777,
-                                "SampleSize": 144,
-                                "Quantum Quartz": 0.7986111111111112
+                                "Tiny Sprocket": 2.0753424657534247,
+                                "SampleSize": 146,
+                                "Quantum Quartz": 0.8013698630136986
                             }
                         }
                     }
@@ -11487,10 +11487,10 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Ancient String Cheese Potion": 1.4161616161616162,
-                                "SampleSize": 990,
-                                "Quantum Quartz": 0.8191919191919191,
-                                "Tiny Sprocket": 1.7575757575757576
+                                "Ancient String Cheese Potion": 1.4184184184184183,
+                                "SampleSize": 999,
+                                "Quantum Quartz": 0.8198198198198198,
+                                "Tiny Sprocket": 1.7577577577577577
                             }
                         }
                     }
@@ -11514,10 +11514,10 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Quantum Quartz": 0.8368055555555556,
-                                "SampleSize": 576,
-                                "Tiny Sprocket": 1.2170138888888888,
-                                "Ancient String Cheese Potion": 0.234375
+                                "Quantum Quartz": 0.8344827586206897,
+                                "SampleSize": 580,
+                                "Tiny Sprocket": 1.2327586206896552,
+                                "Ancient String Cheese Potion": 0.23275862068965517
                             }
                         }
                     }
@@ -11528,9 +11528,9 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Tiny Sprocket": 1.7017241379310344,
-                                "SampleSize": 580,
-                                "Quantum Quartz": 0.8017241379310345
+                                "Tiny Sprocket": 1.699490662139219,
+                                "SampleSize": 589,
+                                "Quantum Quartz": 0.8030560271646859
                             }
                         }
                     }
@@ -11554,88 +11554,24 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Tiny Sprocket": 1.8239700374531835,
-                                "SampleSize": 267,
-                                "Quantum Quartz": 0.7415730337078652
+                                "Tiny Sprocket": 1.8208955223880596,
+                                "SampleSize": 268,
+                                "Quantum Quartz": 0.7425373134328358
                             }
                         }
                     }
                 }
             }
         },
-        "Frozen Alcoveundefined": {
+        "Frozen Alcove": {
             "Dread Knight": {
                 "-": {
                     "-": {
                         "-": {
                             "-": {
-                                "Tiny Sprocket": 2.8847167325428194,
-                                "SampleSize": 1518,
-                                "Time Sand": 0.08959156785243742
-                            }
-                        }
-                    }
-                }
-            },
-            "Harbinger of Death": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Quantum Quartz": 4.133333333333334,
-                                "SampleSize": 15,
-                                "Runic String Cheese Potion": 2
-                            }
-                        }
-                    }
-                }
-            },
-            "Portal Paladin": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Tiny Sprocket": 1.5636363636363637,
-                                "SampleSize": 220
-                            }
-                        }
-                    }
-                }
-            },
-            "Portal Pursuer": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Tiny Sprocket": 3,
-                                "SampleSize": 8
-                            }
-                        }
-                    }
-                }
-            },
-            "Sentient Slime": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Tiny Sprocket": 1.1756357185097575,
-                                "SampleSize": 3382
-                            }
-                        }
-                    }
-                }
-            }
-        },
-        "Frozen Alcove(Paladin's Bane)": {
-            "Dread Knight": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Tiny Sprocket": 2.8847167325428194,
-                                "SampleSize": 1518,
-                                "Time Sand": 0.08959156785243742
+                                "Tiny Sprocket": 2.8817413905133202,
+                                "SampleSize": 1539,
+                                "Time Sand": 0.08966861598440545
                             }
                         }
                     }
@@ -11659,8 +11595,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Tiny Sprocket": 1.5636363636363637,
-                                "SampleSize": 220
+                                "Tiny Sprocket": 1.5594713656387664,
+                                "SampleSize": 227
                             }
                         }
                     }
@@ -11683,23 +11619,23 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Tiny Sprocket": 1.1756357185097575,
-                                "SampleSize": 3382
+                                "Tiny Sprocket": 1.1762474467464255,
+                                "SampleSize": 3427
                             }
                         }
                     }
                 }
             }
         },
-        "Runic Laboratoryundefined": {
+        "Frozen Alcove(Paladin's Bane)": {
             "Dread Knight": {
                 "-": {
                     "-": {
                         "-": {
                             "-": {
-                                "Tiny Sprocket": 2.841918294849023,
-                                "SampleSize": 563,
-                                "Time Sand": 0.10301953818827708
+                                "Tiny Sprocket": 2.8817413905133202,
+                                "SampleSize": 1539,
+                                "Time Sand": 0.08966861598440545
                             }
                         }
                     }
@@ -11710,10 +11646,9 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Runic String Cheese Potion": 1.9174603174603175,
-                                "SampleSize": 315,
-                                "Quantum Quartz": 3.815873015873016,
-                                "Ancient Relic": 0.12380952380952381
+                                "Runic String Cheese Potion": 2,
+                                "SampleSize": 15,
+                                "Quantum Quartz": 4.133333333333334
                             }
                         }
                     }
@@ -11724,8 +11659,73 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Tiny Sprocket": 1.4766839378238341,
-                                "SampleSize": 386
+                                "Tiny Sprocket": 1.5594713656387664,
+                                "SampleSize": 227
+                            }
+                        }
+                    }
+                }
+            },
+            "Portal Pursuer": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Tiny Sprocket": 3,
+                                "SampleSize": 8
+                            }
+                        }
+                    }
+                }
+            },
+            "Sentient Slime": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Tiny Sprocket": 1.1762474467464255,
+                                "SampleSize": 3427
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Runic Laboratory": {
+            "Dread Knight": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Tiny Sprocket": 2.8442477876106196,
+                                "SampleSize": 565,
+                                "Time Sand": 0.10265486725663717
+                            }
+                        }
+                    }
+                }
+            },
+            "Harbinger of Death": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Runic String Cheese Potion": 1.9182389937106918,
+                                "SampleSize": 318,
+                                "Quantum Quartz": 3.8176100628930816,
+                                "Ancient Relic": 0.12264150943396226
+                            }
+                        }
+                    }
+                }
+            },
+            "Portal Paladin": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Tiny Sprocket": 1.4668367346938775,
+                                "SampleSize": 392
                             }
                         }
                     }
@@ -11748,8 +11748,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Tiny Sprocket": 1.19468438538206,
-                                "SampleSize": 1505
+                                "Tiny Sprocket": 1.194225721784777,
+                                "SampleSize": 1524
                             }
                         }
                     }
@@ -11760,10 +11760,10 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Runic String Cheese Potion": 0.9556672760511883,
-                                "SampleSize": 2188,
-                                "Tiny Sprocket": 0.5429616087751371,
-                                "Time Sand": 0.25182815356489946
+                                "Runic String Cheese Potion": 0.9551833408782254,
+                                "SampleSize": 2209,
+                                "Tiny Sprocket": 0.5432322317790855,
+                                "Time Sand": 0.2507922136713445
                             }
                         }
                     }
@@ -11774,8 +11774,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Tiny Sprocket": 0.8587570621468926,
-                                "SampleSize": 708
+                                "Tiny Sprocket": 0.8581460674157303,
+                                "SampleSize": 712
                             }
                         }
                     }
@@ -11786,9 +11786,9 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Runic String Cheese Potion": 2.8610223642172525,
-                                "SampleSize": 3130,
-                                "Quantum Quartz": 0.6389776357827476
+                                "Runic String Cheese Potion": 2.8603988603988606,
+                                "SampleSize": 3159,
+                                "Quantum Quartz": 0.6381766381766382
                             }
                         }
                     }
@@ -11799,9 +11799,9 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Runic String Cheese Potion": 1.46497461928934,
-                                "SampleSize": 985,
-                                "Time Sand": 0.7147208121827411
+                                "Runic String Cheese Potion": 1.464321608040201,
+                                "SampleSize": 995,
+                                "Time Sand": 0.7165829145728643
                             }
                         }
                     }
@@ -11812,9 +11812,9 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Tiny Sprocket": 1.4091743119266056,
-                                "SampleSize": 2180,
-                                "Runic String Cheese Potion": 0.6270642201834863
+                                "Tiny Sprocket": 1.410349523377213,
+                                "SampleSize": 2203,
+                                "Runic String Cheese Potion": 0.6277802995914662
                             }
                         }
                     }
@@ -11827,9 +11827,9 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Tiny Sprocket": 2.841918294849023,
-                                "SampleSize": 563,
-                                "Time Sand": 0.10301953818827708
+                                "Tiny Sprocket": 2.8442477876106196,
+                                "SampleSize": 565,
+                                "Time Sand": 0.10265486725663717
                             }
                         }
                     }
@@ -11840,10 +11840,10 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Runic String Cheese Potion": 1.9174603174603175,
-                                "SampleSize": 315,
-                                "Quantum Quartz": 3.815873015873016,
-                                "Ancient Relic": 0.12380952380952381
+                                "Runic String Cheese Potion": 1.9182389937106918,
+                                "SampleSize": 318,
+                                "Quantum Quartz": 3.8176100628930816,
+                                "Ancient Relic": 0.12264150943396226
                             }
                         }
                     }
@@ -11854,8 +11854,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Tiny Sprocket": 1.4766839378238341,
-                                "SampleSize": 386
+                                "Tiny Sprocket": 1.4668367346938775,
+                                "SampleSize": 392
                             }
                         }
                     }
@@ -11878,8 +11878,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Tiny Sprocket": 1.19468438538206,
-                                "SampleSize": 1505
+                                "Tiny Sprocket": 1.194225721784777,
+                                "SampleSize": 1524
                             }
                         }
                     }
@@ -11890,10 +11890,10 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Runic String Cheese Potion": 0.9556672760511883,
-                                "SampleSize": 2188,
-                                "Tiny Sprocket": 0.5429616087751371,
-                                "Time Sand": 0.25182815356489946
+                                "Runic String Cheese Potion": 0.9551833408782254,
+                                "SampleSize": 2209,
+                                "Tiny Sprocket": 0.5432322317790855,
+                                "Time Sand": 0.2507922136713445
                             }
                         }
                     }
@@ -11904,8 +11904,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Tiny Sprocket": 0.8587570621468926,
-                                "SampleSize": 708
+                                "Tiny Sprocket": 0.8581460674157303,
+                                "SampleSize": 712
                             }
                         }
                     }
@@ -11916,9 +11916,9 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Runic String Cheese Potion": 2.8610223642172525,
-                                "SampleSize": 3130,
-                                "Quantum Quartz": 0.6389776357827476
+                                "Runic String Cheese Potion": 2.8603988603988606,
+                                "SampleSize": 3159,
+                                "Quantum Quartz": 0.6381766381766382
                             }
                         }
                     }
@@ -11929,9 +11929,9 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Runic String Cheese Potion": 1.46497461928934,
-                                "SampleSize": 985,
-                                "Time Sand": 0.7147208121827411
+                                "Runic String Cheese Potion": 1.464321608040201,
+                                "SampleSize": 995,
+                                "Time Sand": 0.7165829145728643
                             }
                         }
                     }
@@ -11942,16 +11942,16 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Tiny Sprocket": 1.4091743119266056,
-                                "SampleSize": 2180,
-                                "Runic String Cheese Potion": 0.6270642201834863
+                                "Tiny Sprocket": 1.410349523377213,
+                                "SampleSize": 2203,
+                                "Runic String Cheese Potion": 0.6277802995914662
                             }
                         }
                     }
                 }
             }
         },
-        "Pursuer Mousoleumundefined": {
+        "Pursuer Mousoleum": {
             "Harbinger of Death": {
                 "-": {
                     "-": {
@@ -12019,8 +12019,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Tiny Sprocket": 0.7064220183486238,
-                                "SampleSize": 218
+                                "Tiny Sprocket": 0.7079646017699115,
+                                "SampleSize": 226
                             }
                         }
                     }
@@ -12095,15 +12095,15 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Tiny Sprocket": 0.7064220183486238,
-                                "SampleSize": 218
+                                "Tiny Sprocket": 0.7079646017699115,
+                                "SampleSize": 226
                             }
                         }
                     }
                 }
             }
         },
-        "Securityundefined": {
+        "Security": {
             "Portal Pursuer": {
                 "-": {
                     "-": {
@@ -12135,8 +12135,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Tiny Sprocket": 0.8112903225806452,
-                                "SampleSize": 620
+                                "Tiny Sprocket": 0.8125,
+                                "SampleSize": 624
                             }
                         }
                     }
@@ -12201,8 +12201,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Tiny Sprocket": 0.8112903225806452,
-                                "SampleSize": 620
+                                "Tiny Sprocket": 0.8125,
+                                "SampleSize": 624
                             }
                         }
                     }
