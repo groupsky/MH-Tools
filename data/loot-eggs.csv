@@ -1,535 +1,544 @@
 "Location","Phase","Trap","Base","Cheese","Charm","Mouse","Loot","Qty","Sample"
-"-","-","-","-","-","-","Abominable Snow","Abominable Snow Egg",1,109
-"-","-","-","-","-","-","Abominable Snow","Lucky Egg",0.027522935779816515,109
-"-","-","-","-","-","-","Absolute Acolyte","Absolute Acolyte Egg",1,71
-"-","-","-","-","-","-","Absolute Acolyte","Bristle Woods Rift Egg",0.09859154929577464,71
-"-","-","-","-","-","-","Absolute Acolyte","Lucky Egg",0.04225352112676056,71
-"-","-","-","-","-","-","Acolyte","Acolyte Egg",1,15
+"-","-","-","-","-","-","Abominable Snow","Abominable Snow Egg",1,113
+"-","-","-","-","-","-","Abominable Snow","Lucky Egg",0.02654867256637168,113
+"-","-","-","-","-","-","Absolute Acolyte","Absolute Acolyte Egg",1,80
+"-","-","-","-","-","-","Absolute Acolyte","Bristle Woods Rift Egg",0.0875,80
+"-","-","-","-","-","-","Absolute Acolyte","Lucky Egg",0.0375,80
+"-","-","-","-","-","-","Acolyte","Acolyte Egg",1,16
 "-","-","-","-","-","-","Aether","Aether Egg",1,6
-"-","-","-","-","-","-","Ascended Elder","Ascended Elder Egg",1,217
-"-","-","-","-","-","-","Assassin","Assassin Egg",1,3
-"-","-","-","-","-","-","Big Bad Burroughs","Big Bad Burroughs Egg",1,11
-"-","-","-","-","-","-","Black Widow","Black Widow Egg",1,16
-"-","-","-","-","-","-","Brown","Gnawnia Egg",0.3,380
-"-","-","-","-","-","-","Brown","Brown Egg",0.2736842105263158,380
-"-","-","-","-","-","-","Burglar","Burglar Egg",0.6842105263157895,19
-"-","-","-","-","-","-","Burglar","Lucky Egg",0.05263157894736842,19
-"-","-","-","-","-","-","Chamber Cleaver","Chamber Cleaver Egg",1,123
-"-","-","-","-","-","-","Chamber Cleaver","Bristle Woods Rift Egg",0.11382113821138211,123
+"-","-","-","-","-","-","Ascended Elder","Ascended Elder Egg",1,225
+"-","-","-","-","-","-","Assassin","Assassin Egg",1,4
+"-","-","-","-","-","-","Big Bad Burroughs","Big Bad Burroughs Egg",1,14
+"-","-","-","-","-","-","Black Widow","Black Widow Egg",1,17
+"-","-","-","-","-","-","Brown","Gnawnia Egg",0.30357142857142855,392
+"-","-","-","-","-","-","Brown","Brown Egg",0.2729591836734694,392
+"-","-","-","-","-","-","Burglar","Burglar Egg",0.6818181818181818,22
+"-","-","-","-","-","-","Burglar","Lucky Egg",0.045454545454545456,22
+"-","-","-","-","-","-","Chamber Cleaver","Chamber Cleaver Egg",1,128
+"-","-","-","-","-","-","Chamber Cleaver","Bristle Woods Rift Egg",0.1171875,128
 "-","-","-","-","-","-","Cherry","Cherry Egg",1,6
-"-","-","-","-","-","-","Cherry Sprite","Cherry Sprite Egg",1,20
-"-","-","-","-","-","-","Cherry Sprite","Lucky Egg",0.1,20
-"-","-","-","-","-","-","Cherry Sprite","Enlarged Rift Egg",0.1,20
-"-","-","-","-","-","-","Chrono","Chrono Egg",1,8
-"-","-","-","-","-","-","Hazmat","Clean Egg",0.6363636363636364,11
-"-","-","-","-","-","-","Hazmat","Toxic Spill Egg",0.09090909090909091,11
+"-","-","-","-","-","-","Cherry Sprite","Cherry Sprite Egg",1,21
+"-","-","-","-","-","-","Cherry Sprite","Lucky Egg",0.09523809523809523,21
+"-","-","-","-","-","-","Cherry Sprite","Enlarged Rift Egg",0.09523809523809523,21
+"-","-","-","-","-","-","Chrono","Chrono Egg",1,9
+"-","-","-","-","-","-","Hazmat","Clean Egg",0.6666666666666666,12
+"-","-","-","-","-","-","Hazmat","Toxic Spill Egg",0.08333333333333333,12
 "-","-","-","-","-","-","Lab Technician","Toxic Spill Egg",0.3333333333333333,6
 "-","-","-","-","-","-","Lab Technician","Clean Egg",0.16666666666666666,6
-"-","-","-","-","-","-","Cook","Cook Egg",1,11
-"-","-","-","-","-","-","Cook","Lucky Egg",0.09090909090909091,11
-"-","-","-","-","-","-","Corrupt","Corrupt Egg",0.6129032258064516,31
-"-","-","-","-","-","-","Crate Camo","Crate Egg",0.28125,32
+"-","-","-","-","-","-","Cook","Cook Egg",1,15
+"-","-","-","-","-","-","Cook","Lucky Egg",0.06666666666666667,15
+"-","-","-","-","-","-","Corrupt","Corrupt Egg",0.6388888888888888,36
+"-","-","-","-","-","-","Crate Camo","Crate Egg",0.2727272727272727,33
 "-","-","-","-","-","-","Cute Crate Carrier","Crate Egg",0.3023255813953488,43
-"-","-","-","-","-","-","Captain Croissant","Croissant Egg",1,23
-"-","-","-","-","-","-","Crown Collector","Crown Collector Egg",1,33
-"-","-","-","-","-","-","Crystal Behemoth","Crystal Behemoth Egg",1,59
-"-","-","-","-","-","-","Cursed Librarian","Cursed Librarian Egg",0.18181818181818182,44
-"-","-","-","-","-","-","Cursed Librarian","Lucky Egg",0.045454545454545456,44
-"-","-","-","-","-","-","Decrepit Tentacle Terror","Decrepit Tentacle Egg",1,82
-"-","-","-","-","-","-","Decrepit Tentacle Terror","Lucky Egg",0.012195121951219513,82
-"-","-","-","-","-","-","Deep","Deep Egg",1,15
-"-","-","-","-","-","-","Desert Nomad","Desert Nomad Egg",1,6
-"-","-","-","-","-","-","Diamond","Diamond Egg",0.53125,192
-"-","-","-","-","-","-","Student of the Cheese Belt","Dojo Student Egg",0.36363636363636365,66
-"-","-","-","-","-","-","Student of the Cheese Claw","Dojo Student Egg",0.34615384615384615,78
-"-","-","-","-","-","-","Student of the Cheese Claw","Lucky Egg",0.01282051282051282,78
-"-","-","-","-","-","-","Student of the Cheese Fang","Dojo Student Egg",0.4111111111111111,90
-"-","-","-","-","-","-","Student of the Cheese Fang","Lucky Egg",0.022222222222222223,90
+"-","-","-","-","-","-","Captain Croissant","Croissant Egg",1,24
+"-","-","-","-","-","-","Crown Collector","Crown Collector Egg",1,46
+"-","-","-","-","-","-","Crown Collector","Lucky Egg",0.021739130434782608,46
+"-","-","-","-","-","-","Crystal Behemoth","Crystal Behemoth Egg",1,60
+"-","-","-","-","-","-","Cursed Librarian","Cursed Librarian Egg",0.1875,48
+"-","-","-","-","-","-","Cursed Librarian","Lucky Egg",0.041666666666666664,48
+"-","-","-","-","-","-","Decrepit Tentacle Terror","Decrepit Tentacle Egg",1,99
+"-","-","-","-","-","-","Decrepit Tentacle Terror","Lucky Egg",0.020202020202020204,99
+"-","-","-","-","-","-","Deep","Deep Egg",1,17
+"-","-","-","-","-","-","Desert Nomad","Desert Nomad Egg",1,7
+"-","-","-","-","-","-","Diamond","Diamond Egg",0.5196078431372549,204
+"-","-","-","-","-","-","Student of the Cheese Belt","Dojo Student Egg",0.375,80
+"-","-","-","-","-","-","Student of the Cheese Claw","Dojo Student Egg",0.30927835051546393,97
+"-","-","-","-","-","-","Student of the Cheese Claw","Lucky Egg",0.030927835051546393,97
+"-","-","-","-","-","-","Student of the Cheese Fang","Dojo Student Egg",0.41346153846153844,104
+"-","-","-","-","-","-","Student of the Cheese Fang","Lucky Egg",0.019230769230769232,104
 "-","-","-","-","-","-","Dragon","Dragon Egg",1,31
 "-","-","-","-","-","-","General Drheller","Icewing's Generals Egg",1,4
 "-","-","-","-","-","-","General Drheller","Drheller Egg",1,4
-"-","-","-","-","-","-","Eclipse","Eclipse Egg",1,246
-"-","-","-","-","-","-","Essence Guardian","Essence Guardian Egg",1,31
-"-","-","-","-","-","-","Ethereal Librarian","Ethereal Librarian Egg",0.5555555555555556,18
-"-","-","-","-","-","-","Fog","Fog Egg",1,17
-"-","-","-","-","-","-","Ful'Mina, The Mountain Queen","Ful'Mina Egg",0.13231552162849872,1572
-"-","-","-","-","-","-","Gargantuamouse","Gargantua Egg",1,22
-"-","-","-","-","-","-","Gargantuamouse","Lucky Egg",0.045454545454545456,22
-"-","-","-","-","-","-","Gate Guardian","Gate Guardian Egg",0.1724137931034483,29
-"-","-","-","-","-","-","Cowbell","Gauntlet Bard Egg",0.03225806451612903,62
-"-","-","-","-","-","-","Drummer","Gauntlet Bard Egg",0.0898876404494382,89
-"-","-","-","-","-","-","Fiddler","Gauntlet Bard Egg",0.12698412698412698,63
-"-","-","-","-","-","-","Fiddler","Lucky Egg",0.015873015873015872,63
-"-","-","-","-","-","-","Guqin Player","Gauntlet Bard Egg",0.16129032258064516,62
-"-","-","-","-","-","-","Guqin Player","Lucky Egg",0.03225806451612903,62
-"-","-","-","-","-","-","Gilded Leaf","Gilded Leaf Egg",1,28
-"-","-","-","-","-","-","Gilded Leaf","Enlarged Rift Egg",0.10714285714285714,28
-"-","-","-","-","-","-","Grand Master of the Dojo","Grand Master of the Dojo Egg",0.34262295081967215,610
-"-","-","-","-","-","-","Grey","Gnawnia Egg",0.28532608695652173,368
-"-","-","-","-","-","-","Grey","Grey Egg",0.2391304347826087,368
-"-","-","-","-","-","-","Grey","Lucky Egg",0.01358695652173913,368
-"-","-","-","-","-","-","Grizzled Silth","Grizzled Silth Egg",1,9
-"-","-","-","-","-","-","Grizzled Silth","Enlarged Rift Egg",0.1111111111111111,9
-"-","-","-","-","-","-","Hydra","Hydra Egg",0.93,100
+"-","-","-","-","-","-","Eclipse","Eclipse Egg",1,273
+"-","-","-","-","-","-","Essence Guardian","Essence Guardian Egg",1,37
+"-","-","-","-","-","-","Ethereal Librarian","Ethereal Librarian Egg",0.6086956521739131,23
+"-","-","-","-","-","-","Fog","Fog Egg",1,19
+"-","-","-","-","-","-","Ful'Mina, The Mountain Queen","Ful'Mina Egg",0.13187463039621525,1691
+"-","-","-","-","-","-","Gargantuamouse","Gargantua Egg",1,24
+"-","-","-","-","-","-","Gargantuamouse","Lucky Egg",0.041666666666666664,24
+"-","-","-","-","-","-","Gate Guardian","Gate Guardian Egg",0.1935483870967742,31
+"-","-","-","-","-","-","Cowbell","Gauntlet Bard Egg",0.057971014492753624,69
+"-","-","-","-","-","-","Drummer","Gauntlet Bard Egg",0.09090909090909091,99
+"-","-","-","-","-","-","Fiddler","Gauntlet Bard Egg",0.14285714285714285,77
+"-","-","-","-","-","-","Fiddler","Lucky Egg",0.012987012987012988,77
+"-","-","-","-","-","-","Guqin Player","Gauntlet Bard Egg",0.15584415584415584,77
+"-","-","-","-","-","-","Guqin Player","Lucky Egg",0.025974025974025976,77
+"-","-","-","-","-","-","Gilded Leaf","Gilded Leaf Egg",1,29
+"-","-","-","-","-","-","Gilded Leaf","Enlarged Rift Egg",0.10344827586206896,29
+"-","-","-","-","-","-","Grand Master of the Dojo","Grand Master of the Dojo Egg",0.324438202247191,712
+"-","-","-","-","-","-","Grey","Gnawnia Egg",0.2857142857142857,385
+"-","-","-","-","-","-","Grey","Grey Egg",0.24155844155844156,385
+"-","-","-","-","-","-","Grey","Lucky Egg",0.012987012987012988,385
+"-","-","-","-","-","-","Grizzled Silth","Grizzled Silth Egg",1,10
+"-","-","-","-","-","-","Grizzled Silth","Enlarged Rift Egg",0.1,10
+"-","-","-","-","-","-","Hydra","Hydra Egg",0.9296875,128
 "-","-","-","-","-","-","Icewing","Icewing Egg",1,11
 "-","-","-","-","-","-","Icewing","Lucky Egg",0.09090909090909091,11
 "-","-","-","-","-","-","Lady Coldsnap","Icewing's Generals Egg",1,5
 "-","-","-","-","-","-","Princess Fist","Icewing's Generals Egg",1,8
 "-","-","-","-","-","-","Lord Splodington","Icewing's Generals Egg",1,11
-"-","-","-","-","-","-","Lich","Lich Egg",1,29
-"-","-","-","-","-","-","Living Salt","Living Salt Egg",1,68
-"-","-","-","-","-","-","Living Salt","Lucky Egg",0.014705882352941176,68
-"-","-","-","-","-","-","M400","M400 Egg",1,22
-"-","-","-","-","-","-","Mage Weaver","Mage Weaver Egg",1,30
-"-","-","-","-","-","-","Magic","Magic Egg",1,20
-"-","-","-","-","-","-","Magmatic Golem","Magmatic Golem Egg",1,15
-"-","-","-","-","-","-","Master of the Dojo","Furoma Egg",0.2824427480916031,131
-"-","-","-","-","-","-","Master of the Dojo","Master of the Dojo Egg",0.07633587786259542,131
-"-","-","-","-","-","-","Master of the Dojo","Lucky Egg",0.015267175572519083,131
-"-","-","-","-","-","-","Mighty Mole","Mighty Mole Egg",1,32
-"-","-","-","-","-","-","Mighty Mole","Enlarged Rift Egg",0.09375,32
-"-","-","-","-","-","-","Monster","Monster Egg",1,36
-"-","-","-","-","-","-","Monster of the Meteor","Monster of the Meteor Egg",0.6724137931034483,116
-"-","-","-","-","-","-","Monster of the Meteor","Dawn Egg",0.2413793103448276,116
-"-","-","-","-","-","-","Mutant Mongrel","Mutant Mongrel Egg",1,112
-"-","-","-","-","-","-","Mutant Mongrel","Toxic Spill Egg",0.23214285714285715,112
+"-","-","-","-","-","-","Lich","Lich Egg",1,32
+"-","-","-","-","-","-","Living Salt","Living Salt Egg",1,74
+"-","-","-","-","-","-","Living Salt","Lucky Egg",0.013513513513513514,74
+"-","-","-","-","-","-","M400","M400 Egg",1,26
+"-","-","-","-","-","-","Mage Weaver","Mage Weaver Egg",1,34
+"-","-","-","-","-","-","Magic","Magic Egg",1,23
+"-","-","-","-","-","-","Magmatic Golem","Magmatic Golem Egg",1,18
+"-","-","-","-","-","-","Master of the Dojo","Furoma Egg",0.2826086956521739,138
+"-","-","-","-","-","-","Master of the Dojo","Master of the Dojo Egg",0.08695652173913043,138
+"-","-","-","-","-","-","Master of the Dojo","Lucky Egg",0.014492753623188406,138
+"-","-","-","-","-","-","Mighty Mole","Mighty Mole Egg",1,41
+"-","-","-","-","-","-","Mighty Mole","Enlarged Rift Egg",0.07317073170731707,41
+"-","-","-","-","-","-","Monster","Monster Egg",1,50
+"-","-","-","-","-","-","Monster of the Meteor","Monster of the Meteor Egg",0.6833333333333333,120
+"-","-","-","-","-","-","Monster of the Meteor","Dawn Egg",0.25,120
+"-","-","-","-","-","-","Mutant Mongrel","Mutant Mongrel Egg",1,113
+"-","-","-","-","-","-","Mutant Mongrel","Toxic Spill Egg",0.23893805309734514,113
 "-","-","-","-","-","-","Mutated Behemoth","Mutated Behemoth Egg",1,105
 "-","-","-","-","-","-","Mutated Behemoth","Toxic Spill Egg",0.12380952380952381,105
-"-","-","-","-","-","-","Mystic King","Mystic King Egg",1,10
-"-","-","-","-","-","-","Mystic King","Lucky Egg",0.1,10
-"-","-","-","-","-","-","Naturalist","Naturalist Egg",1,18
-"-","-","-","-","-","-","Naturalist","Enlarged Rift Egg",0.1111111111111111,18
-"-","-","-","-","-","-","Naturalist","Lucky Egg",0.05555555555555555,18
-"-","-","-","-","-","-","Nibbler","Nibbler Egg",1,33
-"-","-","-","-","-","-","Nibbler","Lucky Egg",0.030303030303030304,33
-"-","-","-","-","-","-","Menace of the Rift","Null Rift Egg",1,34
-"-","-","-","-","-","-","Menace of the Rift","Rift Mist Egg",0.20588235294117646,34
-"-","-","-","-","-","-","Menace of the Rift","Enlarged Rift Egg",0.14705882352941177,34
-"-","-","-","-","-","-","Menace of the Rift","Lucky Egg",0.029411764705882353,34
-"-","-","-","-","-","-","Barmy Gunner","Pirate Crew Egg",0.6,10
-"-","-","-","-","-","-","Bilged Boatswain","Pirate Crew Egg",0.5,10
-"-","-","-","-","-","-","Bilged Boatswain","Lucky Egg",0.1,10
+"-","-","-","-","-","-","Mystic King","Mystic King Egg",1,15
+"-","-","-","-","-","-","Mystic King","Lucky Egg",0.06666666666666667,15
+"-","-","-","-","-","-","Naturalist","Naturalist Egg",1,19
+"-","-","-","-","-","-","Naturalist","Enlarged Rift Egg",0.10526315789473684,19
+"-","-","-","-","-","-","Naturalist","Lucky Egg",0.05263157894736842,19
+"-","-","-","-","-","-","Nibbler","Nibbler Egg",1,45
+"-","-","-","-","-","-","Nibbler","Lucky Egg",0.022222222222222223,45
+"-","-","-","-","-","-","Menace of the Rift","Null Rift Egg",1,35
+"-","-","-","-","-","-","Menace of the Rift","Rift Mist Egg",0.2,35
+"-","-","-","-","-","-","Menace of the Rift","Enlarged Rift Egg",0.14285714285714285,35
+"-","-","-","-","-","-","Menace of the Rift","Lucky Egg",0.02857142857142857,35
+"-","-","-","-","-","-","Barmy Gunner","Pirate Crew Egg",0.6363636363636364,11
+"-","-","-","-","-","-","Bilged Boatswain","Pirate Crew Egg",0.5454545454545454,11
+"-","-","-","-","-","-","Bilged Boatswain","Lucky Egg",0.09090909090909091,11
 "-","-","-","-","-","-","Cabin Boy","Pirate Crew Egg",0.6470588235294118,17
-"-","-","-","-","-","-","Corrupt Commodore","Pirate Crew Egg",0.6923076923076923,13
+"-","-","-","-","-","-","Corrupt Commodore","Pirate Crew Egg",0.6666666666666666,15
 "-","-","-","-","-","-","Dashing Buccaneer","Pirate Crew Egg",0.48,25
 "-","-","-","-","-","-","Dashing Buccaneer","Lucky Egg",0.04,25
-"-","-","-","-","-","-","Pirate","Pirate Egg",1,172
-"-","-","-","-","-","-","Pirate","Lucky Egg",0.005813953488372093,172
-"-","-","-","-","-","-","Pocketwatch","Pocketwatch Egg",0.32,100
-"-","-","-","-","-","-","Swarm of Pygmy Mice","Pygmy Swarm Egg",0.7948717948717948,39
-"-","-","-","-","-","-","Quesodillo","Quesodillo Egg",0.5454545454545454,22
-"-","-","-","-","-","-","Realm Ripper","Realm Ripper Egg",1,55
-"-","-","-","-","-","-","Count Vampire","Rift Fang Egg",1,17
-"-","-","-","-","-","-","Count Vampire","Rift Mist Egg",0.23529411764705882,17
-"-","-","-","-","-","-","Count Vampire","Enlarged Rift Egg",0.058823529411764705,17
-"-","-","-","-","-","-","Monstrous Black Widow","Rift Venom Egg",1,278
-"-","-","-","-","-","-","Monstrous Black Widow","Enlarged Rift Egg",0.09352517985611511,278
+"-","-","-","-","-","-","Pirate","Pirate Egg",1,209
+"-","-","-","-","-","-","Pocketwatch","Pocketwatch Egg",0.33613445378151263,119
+"-","-","-","-","-","-","Swarm of Pygmy Mice","Pygmy Swarm Egg",0.8043478260869565,46
+"-","-","-","-","-","-","Quesodillo","Quesodillo Egg",0.5555555555555556,27
+"-","-","-","-","-","-","Realm Ripper","Realm Ripper Egg",1,61
+"-","-","-","-","-","-","Count Vampire","Rift Fang Egg",1,18
+"-","-","-","-","-","-","Count Vampire","Rift Mist Egg",0.2222222222222222,18
+"-","-","-","-","-","-","Count Vampire","Enlarged Rift Egg",0.05555555555555555,18
+"-","-","-","-","-","-","Monstrous Black Widow","Rift Venom Egg",1,298
+"-","-","-","-","-","-","Monstrous Black Widow","Enlarged Rift Egg",0.087248322147651,298
 "-","-","-","-","-","-","Riptide","Riptide Egg",1,4
-"-","-","-","-","-","-","Sarcophamouse","Sarcophamouse Egg",0.17307692307692307,52
-"-","-","-","-","-","-","Scavenger","Scavenger Egg",0.3493975903614458,83
-"-","-","-","-","-","-","Sharpshooter","Sharpshooter Egg",1,23
+"-","-","-","-","-","-","Sarcophamouse","Sarcophamouse Egg",0.16071428571428573,56
+"-","-","-","-","-","-","Scavenger","Scavenger Egg",0.3402061855670103,97
+"-","-","-","-","-","-","Sharpshooter","Sharpshooter Egg",1,24
 "-","-","-","-","-","-","Shattered Carmine","Shattered Egg",1,11
-"-","-","-","-","-","-","Dark Magi","Shattered Egg",1,12
+"-","-","-","-","-","-","Dark Magi","Shattered Egg",1,13
 "-","-","-","-","-","-","King Scarab","Shattered Egg",1,17
-"-","-","-","-","-","-","Shelder","Shelder Egg",1,4
-"-","-","-","-","-","-","Silth","Silth Egg",1,8
-"-","-","-","-","-","-","Spud","Spud Egg",0.3333333333333333,51
-"-","-","-","-","-","-","Spud","Gnawnia Egg",0.21568627450980393,51
-"-","-","-","-","-","-","Technic King","Technic King Egg",1,12
-"-","-","-","-","-","-","Thistle","Living Garden Egg",0.5641025641025641,39
-"-","-","-","-","-","-","Thistle","Thistle Egg",0.48717948717948717,39
-"-","-","-","-","-","-","Thunderlord","Thunder Egg",1,215
+"-","-","-","-","-","-","Shelder","Shelder Egg",1,5
+"-","-","-","-","-","-","Silth","Silth Egg",1,12
+"-","-","-","-","-","-","Spud","Spud Egg",0.33962264150943394,53
+"-","-","-","-","-","-","Spud","Gnawnia Egg",0.22641509433962265,53
+"-","-","-","-","-","-","Technic King","Technic King Egg",1,13
+"-","-","-","-","-","-","Thistle","Living Garden Egg",0.6,55
+"-","-","-","-","-","-","Thistle","Thistle Egg",0.509090909090909,55
+"-","-","-","-","-","-","Thunderlord","Thunder Egg",1,242
 "-","-","-","-","-","-","Tiny","Tiny Egg",1,41
 "-","-","-","-","-","-","Tiny","Lucky Egg",0.024390243902439025,41
-"-","-","-","-","-","-","Tritus","Tritus Egg",1,21
-"-","-","-","-","-","-","Twisted Lilly","Twisted Lilly Egg",0.5714285714285714,28
-"-","-","-","-","-","-","Molten Midas","Unstable Crystal Egg",1,134
-"-","-","-","-","-","-","Molten Midas","Lucky Egg",0.007462686567164179,134
-"-","-","-","-","-","-","Bounty Hunter","Wanted Poster Egg",1,17
-"-","-","-","-","-","-","Warmonger","Warmonger Egg",0.875,32
-"-","-","-","-","-","-","Warmonger","Lucky Egg",0.03125,32
-"-","-","-","-","-","-","White","Gnawnia Egg",0.24634146341463414,410
-"-","-","-","-","-","-","White","White Egg",0.22926829268292684,410
-"-","-","-","-","-","-","Derr Lich","Cove Egg",1,37
-"-","-","-","-","-","-","Elub Lich","Cove Egg",1,45
-"-","-","-","-","-","-","Nerg Lich","Cove Egg",1,35
-"-","-","-","-","-","-","Effervescent","Crystal Library Egg",0.4342105263157895,76
-"-","-","-","-","-","-","Flutterby","Crystal Library Egg",0.5,54
-"-","-","-","-","-","-","Flutterby","Lucky Egg",0.018518518518518517,54
-"-","-","-","-","-","-","Infiltrator","Crystal Library Egg",0.3387096774193548,62
-"-","-","-","-","-","-","Infiltrator","Lucky Egg",0.016129032258064516,62
-"-","-","-","-","-","-","Dawn Guardian","Dawn Egg",0.2608695652173913,115
-"-","-","-","-","-","-","Dawn Guardian","Lucky Egg",0.008695652173913044,115
-"-","-","-","-","-","-","Hardworking Hauler","Day Egg",0.13333333333333333,30
-"-","-","-","-","-","-","Meteorite Miner","Day Egg",0.22580645161290322,31
-"-","-","-","-","-","-","Meteorite Snacker","Day Egg",0.35294117647058826,17
+"-","-","-","-","-","-","Tritus","Tritus Egg",1,22
+"-","-","-","-","-","-","Twisted Lilly","Twisted Lilly Egg",0.5789473684210527,38
+"-","-","-","-","-","-","Molten Midas","Unstable Crystal Egg",1,141
+"-","-","-","-","-","-","Molten Midas","Lucky Egg",0.0070921985815602835,141
+"-","-","-","-","-","-","Bounty Hunter","Wanted Poster Egg",1,18
+"-","-","-","-","-","-","Warmonger","Warmonger Egg",0.8787878787878788,33
+"-","-","-","-","-","-","Warmonger","Lucky Egg",0.030303030303030304,33
+"-","-","-","-","-","-","White","Gnawnia Egg",0.25229357798165136,436
+"-","-","-","-","-","-","White","White Egg",0.23623853211009174,436
+"-","-","-","-","-","-","Derr Lich","Cove Egg",1,48
+"-","-","-","-","-","-","Elub Lich","Cove Egg",1,50
+"-","-","-","-","-","-","Nerg Lich","Cove Egg",1,40
+"-","-","-","-","-","-","Effervescent","Crystal Library Egg",0.3917525773195876,97
+"-","-","-","-","-","-","Flutterby","Crystal Library Egg",0.5,62
+"-","-","-","-","-","-","Flutterby","Lucky Egg",0.016129032258064516,62
+"-","-","-","-","-","-","Infiltrator","Crystal Library Egg",0.3150684931506849,73
+"-","-","-","-","-","-","Infiltrator","Lucky Egg",0.0136986301369863,73
+"-","-","-","-","-","-","Dawn Guardian","Dawn Egg",0.25203252032520324,123
+"-","-","-","-","-","-","Dawn Guardian","Lucky Egg",0.008130081300813009,123
+"-","-","-","-","-","-","Hardworking Hauler","Day Egg",0.14285714285714285,35
+"-","-","-","-","-","-","Meteorite Miner","Day Egg",0.2777777777777778,36
+"-","-","-","-","-","-","Meteorite Snacker","Day Egg",0.3684210526315789,19
 "-","-","-","-","-","-","Mining Materials Manager","Day Egg",0.09090909090909091,11
-"-","-","-","-","-","-","Mischievous Meteorite Miner","Day Egg",0.25,40
-"-","-","-","-","-","-","Derr Chieftain","Derr Egg",1,12
+"-","-","-","-","-","-","Mischievous Meteorite Miner","Day Egg",0.25,44
+"-","-","-","-","-","-","Derr Chieftain","Derr Egg",1,13
 "-","-","-","-","-","-","Renegade","Derr Egg",0.5263157894736842,19
 "-","-","-","-","-","-","Elub Chieftain","Elub Egg",1,6
-"-","-","-","-","-","-","Vanquisher","Elub Egg",0.8823529411764706,17
-"-","-","-","-","-","-","Conqueror","Nerg Egg",0.7222222222222222,18
-"-","-","-","-","-","-","Nerg Chieftain","Nerg Egg",1,7
-"-","-","-","-","-","-","Dojo Sensei","Furoma Egg",0.4782608695652174,23
-"-","-","-","-","-","-","Master of the Cheese Claw","Furoma Egg",0.16666666666666666,114
-"-","-","-","-","-","-","Master of the Cheese Fang","Furoma Egg",0.0625,16
-"-","-","-","-","-","-","Aquos","Gauntlet Magic Egg",0.0547945205479452,73
-"-","-","-","-","-","-","Black Mage","Gauntlet Magic Egg",0.1388888888888889,36
-"-","-","-","-","-","-","Ignis","Gauntlet Magic Egg",0.03773584905660377,53
-"-","-","-","-","-","-","Terra","Gauntlet Magic Egg",0.034482758620689655,87
-"-","-","-","-","-","-","Zephyr","Gauntlet Magic Egg",0.046875,64
-"-","-","-","-","-","-","Cyborg","Enlarged Rift Egg",0.11724137931034483,145
-"-","-","-","-","-","-","Cyborg","Gnawnia Rift Egg",0.06206896551724138,145
-"-","-","-","-","-","-","Cyborg","Lucky Egg",0.013793103448275862,145
-"-","-","-","-","-","-","Shard Centurion","Enlarged Rift Egg",0.1048951048951049,143
-"-","-","-","-","-","-","Shard Centurion","Gnawnia Rift Egg",0.027972027972027972,143
-"-","-","-","-","-","-","Shard Centurion","Lucky Egg",0.006993006993006993,143
-"-","-","-","-","-","-","Spiritual Steel","Enlarged Rift Egg",0.1337579617834395,157
-"-","-","-","-","-","-","Spiritual Steel","Gnawnia Rift Egg",0.044585987261146494,157
-"-","-","-","-","-","-","Rift Guardian","Enlarged Rift Egg",0.09615384615384616,104
-"-","-","-","-","-","-","Rift Guardian","Gnawnia Rift Egg",0.0673076923076923,104
-"-","-","-","-","-","-","Raw Diamond","Enlarged Rift Egg",0.047619047619047616,84
-"-","-","-","-","-","-","Raw Diamond","Gnawnia Rift Egg",0.047619047619047616,84
-"-","-","-","-","-","-","Wealth","Enlarged Rift Egg",0.05063291139240506,79
-"-","-","-","-","-","-","Wealth","Lucky Egg",0.0379746835443038,79
-"-","-","-","-","-","-","Keeper's Assistant","Haunted Egg",0.56,75
-"-","-","-","-","-","-","Ghost","Haunted Egg",0.18705035971223022,139
-"-","-","-","-","-","-","Mummy","Haunted Egg",0.20634920634920634,63
-"-","-","-","-","-","-","Ravenous Zombie","Haunted Egg",0.34375,32
-"-","-","-","-","-","-","Vampire","Haunted Egg",0.42857142857142855,42
-"-","-","-","-","-","-","Iceblock","Iceberg Egg",0.6481481481481481,54
-"-","-","-","-","-","-","Iceblock","Lucky Egg",0.018518518518518517,54
-"-","-","-","-","-","-","Polar Bear","Iceberg Egg",0.5492957746478874,71
+"-","-","-","-","-","-","Vanquisher","Elub Egg",0.8888888888888888,18
+"-","-","-","-","-","-","Conqueror","Nerg Egg",0.75,20
+"-","-","-","-","-","-","Nerg Chieftain","Nerg Egg",1,8
+"-","-","-","-","-","-","Dojo Sensei","Furoma Egg",0.48148148148148145,27
+"-","-","-","-","-","-","Master of the Cheese Claw","Furoma Egg",0.17073170731707318,123
+"-","-","-","-","-","-","Master of the Cheese Fang","Furoma Egg",0.07142857142857142,28
+"-","-","-","-","-","-","Master of the Cheese Fang","Lucky Egg",0.03571428571428571,28
+"-","-","-","-","-","-","Aquos","Gauntlet Magic Egg",0.07058823529411765,85
+"-","-","-","-","-","-","Black Mage","Gauntlet Magic Egg",0.16666666666666666,42
+"-","-","-","-","-","-","Ignis","Gauntlet Magic Egg",0.03508771929824561,57
+"-","-","-","-","-","-","Terra","Gauntlet Magic Egg",0.042105263157894736,95
+"-","-","-","-","-","-","Zephyr","Gauntlet Magic Egg",0.07042253521126761,71
+"-","-","-","-","-","-","Cyborg","Enlarged Rift Egg",0.10778443113772455,167
+"-","-","-","-","-","-","Cyborg","Gnawnia Rift Egg",0.0658682634730539,167
+"-","-","-","-","-","-","Cyborg","Lucky Egg",0.011976047904191617,167
+"-","-","-","-","-","-","Shard Centurion","Enlarged Rift Egg",0.10179640718562874,167
+"-","-","-","-","-","-","Shard Centurion","Gnawnia Rift Egg",0.03592814371257485,167
+"-","-","-","-","-","-","Shard Centurion","Lucky Egg",0.011976047904191617,167
+"-","-","-","-","-","-","Spiritual Steel","Enlarged Rift Egg",0.1348314606741573,178
+"-","-","-","-","-","-","Spiritual Steel","Gnawnia Rift Egg",0.05056179775280899,178
+"-","-","-","-","-","-","Rift Guardian","Enlarged Rift Egg",0.12280701754385964,114
+"-","-","-","-","-","-","Rift Guardian","Gnawnia Rift Egg",0.06140350877192982,114
+"-","-","-","-","-","-","Raw Diamond","Gnawnia Rift Egg",0.06,100
+"-","-","-","-","-","-","Raw Diamond","Enlarged Rift Egg",0.04,100
+"-","-","-","-","-","-","Wealth","Enlarged Rift Egg",0.043478260869565216,92
+"-","-","-","-","-","-","Wealth","Lucky Egg",0.03260869565217391,92
+"-","-","-","-","-","-","Keeper's Assistant","Haunted Egg",0.5402298850574713,87
+"-","-","-","-","-","-","Ghost","Haunted Egg",0.2037037037037037,162
+"-","-","-","-","-","-","Mummy","Haunted Egg",0.2441860465116279,86
+"-","-","-","-","-","-","Ravenous Zombie","Haunted Egg",0.34210526315789475,38
+"-","-","-","-","-","-","Vampire","Haunted Egg",0.42592592592592593,54
+"-","-","-","-","-","-","Vampire","Lucky Egg",0.018518518518518517,54
+"-","-","-","-","-","-","Iceblock","Iceberg Egg",0.6268656716417911,67
+"-","-","-","-","-","-","Iceblock","Lucky Egg",0.014925373134328358,67
+"-","-","-","-","-","-","Polar Bear","Iceberg Egg",0.5517241379310345,87
 "-","-","-","-","-","-","Snowblind","Iceberg Egg",0.3,10
-"-","-","-","-","-","-","Wolfskie","Iceberg Egg",0.30434782608695654,23
-"-","-","-","-","-","-","Chitinous","Jungle of Dread Egg",1,4
-"-","-","-","-","-","-","Fetid Swamp","Jungle of Dread Egg",1,7
-"-","-","-","-","-","-","Jurassic","Jungle of Dread Egg",1,3
-"-","-","-","-","-","-","Magma Carrier","Jungle of Dread Egg",1,13
-"-","-","-","-","-","-","Primal","Jungle of Dread Egg",1,12
-"-","-","-","-","-","-","Stonework Warrior","Jungle of Dread Egg",1,12
-"-","-","-","-","-","-","Barkshell","Living Garden Egg",0.7241379310344828,29
-"-","-","-","-","-","-","Cursed Thief","Living Garden Egg",0.6229508196721312,61
-"-","-","-","-","-","-","Ethereal Engineer","Living Garden Egg",0.6111111111111112,18
-"-","-","-","-","-","-","Serpentine","Living Garden Egg",0.6037735849056604,53
-"-","-","-","-","-","-","Spiky Devil","Living Garden Egg",0.46153846153846156,26
-"-","-","-","-","-","-","Spiky Devil","Lucky Egg",0.038461538461538464,26
-"-","-","-","-","-","-","Glass Blower","Muridae Egg",0.1746031746031746,63
-"-","-","-","-","-","-","Limestone Miner","Muridae Egg",0.1267605633802817,71
-"-","-","-","-","-","-","Limestone Miner","Lucky Egg",0.028169014084507043,71
-"-","-","-","-","-","-","Lumberjack","Muridae Egg",0.1518987341772152,79
-"-","-","-","-","-","-","Alpha Weremouse","Night Egg",0.2125,80
-"-","-","-","-","-","-","Alpha Weremouse","Lucky Egg",0.0375,80
-"-","-","-","-","-","-","Arcane Summoner","Night Egg",0.4166666666666667,24
-"-","-","-","-","-","-","Cursed Taskmaster","Night Egg",0.2857142857142857,42
-"-","-","-","-","-","-","Hypnotized Gunslinger","Night Egg",0.14285714285714285,49
-"-","-","-","-","-","-","Meteorite Golem","Night Egg",0.25,24
+"-","-","-","-","-","-","Wolfskie","Iceberg Egg",0.2857142857142857,28
+"-","-","-","-","-","-","Chitinous","Jungle of Dread Egg",1,5
+"-","-","-","-","-","-","Fetid Swamp","Jungle of Dread Egg",1,8
+"-","-","-","-","-","-","Jurassic","Jungle of Dread Egg",1,4
+"-","-","-","-","-","-","Magma Carrier","Jungle of Dread Egg",1,15
+"-","-","-","-","-","-","Primal","Jungle of Dread Egg",1,13
+"-","-","-","-","-","-","Stonework Warrior","Jungle of Dread Egg",1,13
+"-","-","-","-","-","-","Barkshell","Living Garden Egg",0.6578947368421053,38
+"-","-","-","-","-","-","Cursed Thief","Living Garden Egg",0.6190476190476191,63
+"-","-","-","-","-","-","Ethereal Engineer","Living Garden Egg",0.5909090909090909,22
+"-","-","-","-","-","-","Serpentine","Living Garden Egg",0.631578947368421,57
+"-","-","-","-","-","-","Spiky Devil","Living Garden Egg",0.4827586206896552,29
+"-","-","-","-","-","-","Spiky Devil","Lucky Egg",0.034482758620689655,29
+"-","-","-","-","-","-","Glass Blower","Muridae Egg",0.16901408450704225,71
+"-","-","-","-","-","-","Limestone Miner","Muridae Egg",0.13253012048192772,83
+"-","-","-","-","-","-","Limestone Miner","Lucky Egg",0.024096385542168676,83
+"-","-","-","-","-","-","Lumberjack","Muridae Egg",0.1511627906976744,86
+"-","-","-","-","-","-","Alpha Weremouse","Night Egg",0.22916666666666666,96
+"-","-","-","-","-","-","Alpha Weremouse","Lucky Egg",0.041666666666666664,96
+"-","-","-","-","-","-","Arcane Summoner","Night Egg",0.3548387096774194,31
+"-","-","-","-","-","-","Cursed Taskmaster","Night Egg",0.29545454545454547,44
+"-","-","-","-","-","-","Hypnotized Gunslinger","Night Egg",0.1509433962264151,53
+"-","-","-","-","-","-","Meteorite Golem","Night Egg",0.28,25
 "-","-","-","-","-","-","Meteorite Mystic","Night Egg",0.30434782608695654,23
-"-","-","-","-","-","-","Mischievous Wereminer","Night Egg",0.3018867924528302,53
-"-","-","-","-","-","-","Night Shift Materials Manager","Night Egg",0.11538461538461539,26
-"-","-","-","-","-","-","Night Watcher","Night Egg",0.3157894736842105,38
-"-","-","-","-","-","-","Night Watcher","Lucky Egg",0.02631578947368421,38
-"-","-","-","-","-","-","Nightfire","Night Egg",0.2558139534883721,43
-"-","-","-","-","-","-","Nightmancer","Night Egg",0.23809523809523808,42
-"-","-","-","-","-","-","Reveling Lycanthrope","Night Egg",0.25,40
-"-","-","-","-","-","-","Wealthy Werewarrior","Night Egg",0.3125,16
-"-","-","-","-","-","-","Werehauler","Night Egg",0.25333333333333335,75
-"-","-","-","-","-","-","Wereminer","Night Egg",0.17073170731707318,41
-"-","-","-","-","-","-","Nightshade Masquerade","Nightshade Egg",0.20454545454545456,44
-"-","-","-","-","-","-","Nightshade Nanny","Nightshade Egg",0.041666666666666664,24
-"-","-","-","-","-","-","Bottled","S. S. Huntington III Egg",0.2830188679245283,53
-"-","-","-","-","-","-","Bottled","Lucky Egg",0.03773584905660377,53
-"-","-","-","-","-","-","Captain","S. S. Huntington III Egg",0.25735294117647056,136
-"-","-","-","-","-","-","Squeaken","S. S. Huntington III Egg",0.425531914893617,47
-"-","-","-","-","-","-","Squeaken","Lucky Egg",0.02127659574468085,47
-"-","-","-","-","-","-","Frostbite","Seasonal Garden Egg",0.2692307692307692,26
+"-","-","-","-","-","-","Mischievous Wereminer","Night Egg",0.26666666666666666,60
+"-","-","-","-","-","-","Mischievous Wereminer","Lucky Egg",0.016666666666666666,60
+"-","-","-","-","-","-","Night Shift Materials Manager","Night Egg",0.10714285714285714,28
+"-","-","-","-","-","-","Night Watcher","Night Egg",0.3023255813953488,43
+"-","-","-","-","-","-","Night Watcher","Lucky Egg",0.023255813953488372,43
+"-","-","-","-","-","-","Nightfire","Night Egg",0.2608695652173913,46
+"-","-","-","-","-","-","Nightmancer","Night Egg",0.26,50
+"-","-","-","-","-","-","Reveling Lycanthrope","Night Egg",0.2608695652173913,46
+"-","-","-","-","-","-","Wealthy Werewarrior","Night Egg",0.3157894736842105,19
+"-","-","-","-","-","-","Werehauler","Night Egg",0.2558139534883721,86
+"-","-","-","-","-","-","Wereminer","Night Egg",0.1875,48
+"-","-","-","-","-","-","Nightshade Masquerade","Nightshade Egg",0.21568627450980393,51
+"-","-","-","-","-","-","Nightshade Nanny","Nightshade Egg",0.03571428571428571,28
+"-","-","-","-","-","-","Bottled","S. S. Huntington III Egg",0.3150684931506849,73
+"-","-","-","-","-","-","Bottled","Lucky Egg",0.0273972602739726,73
+"-","-","-","-","-","-","Captain","S. S. Huntington III Egg",0.2392638036809816,163
+"-","-","-","-","-","-","Squeaken","S. S. Huntington III Egg",0.421875,64
+"-","-","-","-","-","-","Squeaken","Lucky Egg",0.015625,64
+"-","-","-","-","-","-","Frostbite","Seasonal Garden Egg",0.29411764705882354,51
 "-","-","-","-","-","-","Harvest Harrier","Seasonal Garden Egg",0.29850746268656714,134
 "-","-","-","-","-","-","Harvest Harrier","Lucky Egg",0.014925373134328358,134
 "-","-","-","-","-","-","Stinger","Seasonal Garden Egg",0.25,36
 "-","-","-","-","-","-","Stinger","Lucky Egg",0.027777777777777776,36
-"-","-","-","-","-","-","Crimson Commander","Warpath Egg",0.7166666666666667,60
-"-","-","-","-","-","-","Flame Ordnance","Warpath Egg",0.8461538461538461,13
-"-","-","-","-","-","-","Sand Cavalry","Warpath Egg",0.484472049689441,161
-"-","-","-","-","-","-","Sandwing Cavalry","Warpath Egg",0.5782312925170068,147
-"-","-","-","-","-","-","Sandwing Cavalry","Lucky Egg",0.02040816326530612,147
-"-","-","-","-","-","-","Centaur","Whisker Woods Egg",0.37142857142857144,35
-"-","-","-","-","-","-","Eagle Owl","Whisker Woods Egg",0.2222222222222222,27
-"-","-","-","-","-","-","Elven Princess","Whisker Woods Egg",0.2727272727272727,11
-"-","-","-","-","-","-","Nomad","Whisker Woods Egg",1,7
-"-","-","-","-","-","-","Wicked Witch of Whisker Woods","Whisker Woods Egg",0.6666666666666666,3
-"-","-","-","-","-","-","Mystic Rook","Zugzwang's Egg",0.32727272727272727,55
-"-","-","-","-","-","-","Technic Rook","Zugzwang's Egg",0.42424242424242425,33
-"-","-","-","-","-","-","Agitated Gentle Giant","Gnawnia Rift Egg",0.11888111888111888,143
-"-","-","-","-","-","-","Agitated Gentle Giant","Enlarged Rift Egg",0.06293706293706294,143
-"-","-","-","-","-","-","Agitated Gentle Giant","Lucky Egg",0.013986013986013986,143
-"-","-","-","-","-","-","Brawny","Gnawnia Rift Egg",0.09523809523809523,147
-"-","-","-","-","-","-","Brawny","Enlarged Rift Egg",0.05442176870748299,147
-"-","-","-","-","-","-","Dream Drifter","Enlarged Rift Egg",0.10416666666666667,48
-"-","-","-","-","-","-","Dream Drifter","Gnawnia Rift Egg",0.08333333333333333,48
-"-","-","-","-","-","-","Excitable Electric","Enlarged Rift Egg",0.1,130
-"-","-","-","-","-","-","Excitable Electric","Gnawnia Rift Egg",0.06923076923076923,130
-"-","-","-","-","-","-","Excitable Electric","Lucky Egg",0.007692307692307693,130
-"-","-","-","-","-","-","Goliath Field","Gnawnia Rift Egg",0.1276595744680851,47
-"-","-","-","-","-","-","Goliath Field","Enlarged Rift Egg",0.0851063829787234,47
-"-","-","-","-","-","-","Greyrun","Enlarged Rift Egg",0.0967741935483871,155
-"-","-","-","-","-","-","Greyrun","Gnawnia Rift Egg",0.07741935483870968,155
-"-","-","-","-","-","-","Micro","Enlarged Rift Egg",0.14285714285714285,70
-"-","-","-","-","-","-","Micro","Gnawnia Rift Egg",0.07142857142857142,70
-"-","-","-","-","-","-","Riftweaver","Enlarged Rift Egg",0.10625,160
-"-","-","-","-","-","-","Riftweaver","Gnawnia Rift Egg",0.0625,160
-"-","-","-","-","-","-","Riftweaver","Lucky Egg",0.0125,160
-"-","-","-","-","-","-","Supernatural","Gnawnia Rift Egg",0.06818181818181818,132
-"-","-","-","-","-","-","Supernatural","Enlarged Rift Egg",0.06818181818181818,132
-"-","-","-","-","-","-","Supernatural","Lucky Egg",0.03787878787878788,132
-"-","-","-","-","-","-","Amplified Brown","Rift Mist Egg",0.18181818181818182,11
-"-","-","-","-","-","-","Amplified Brown","Enlarged Rift Egg",0.09090909090909091,11
+"-","-","-","-","-","-","Crimson Commander","Warpath Egg",0.7341772151898734,79
+"-","-","-","-","-","-","Flame Ordnance","Warpath Egg",0.9,30
+"-","-","-","-","-","-","Sand Cavalry","Warpath Egg",0.5,192
+"-","-","-","-","-","-","Sandwing Cavalry","Warpath Egg",0.5628140703517588,199
+"-","-","-","-","-","-","Sandwing Cavalry","Lucky Egg",0.01507537688442211,199
+"-","-","-","-","-","-","Centaur","Whisker Woods Egg",0.4222222222222222,45
+"-","-","-","-","-","-","Eagle Owl","Whisker Woods Egg",0.275,40
+"-","-","-","-","-","-","Eagle Owl","Lucky Egg",0.025,40
+"-","-","-","-","-","-","Elven Princess","Whisker Woods Egg",0.4117647058823529,17
+"-","-","-","-","-","-","Nomad","Whisker Woods Egg",1,8
+"-","-","-","-","-","-","Wicked Witch of Whisker Woods","Whisker Woods Egg",0.5,4
+"-","-","-","-","-","-","Mystic Rook","Zugzwang's Egg",0.30434782608695654,69
+"-","-","-","-","-","-","Technic Rook","Zugzwang's Egg",0.38461538461538464,39
+"-","-","-","-","-","-","Agitated Gentle Giant","Gnawnia Rift Egg",0.12658227848101267,158
+"-","-","-","-","-","-","Agitated Gentle Giant","Enlarged Rift Egg",0.06329113924050633,158
+"-","-","-","-","-","-","Agitated Gentle Giant","Lucky Egg",0.012658227848101266,158
+"-","-","-","-","-","-","Brawny","Gnawnia Rift Egg",0.10240963855421686,166
+"-","-","-","-","-","-","Brawny","Enlarged Rift Egg",0.07228915662650602,166
+"-","-","-","-","-","-","Dream Drifter","Enlarged Rift Egg",0.1,50
+"-","-","-","-","-","-","Dream Drifter","Gnawnia Rift Egg",0.08,50
+"-","-","-","-","-","-","Excitable Electric","Enlarged Rift Egg",0.1,150
+"-","-","-","-","-","-","Excitable Electric","Gnawnia Rift Egg",0.06,150
+"-","-","-","-","-","-","Excitable Electric","Lucky Egg",0.02,150
+"-","-","-","-","-","-","Goliath Field","Gnawnia Rift Egg",0.11538461538461539,52
+"-","-","-","-","-","-","Goliath Field","Enlarged Rift Egg",0.09615384615384616,52
+"-","-","-","-","-","-","Greyrun","Enlarged Rift Egg",0.10465116279069768,172
+"-","-","-","-","-","-","Greyrun","Gnawnia Rift Egg",0.0755813953488372,172
+"-","-","-","-","-","-","Micro","Enlarged Rift Egg",0.12345679012345678,81
+"-","-","-","-","-","-","Micro","Gnawnia Rift Egg",0.06172839506172839,81
+"-","-","-","-","-","-","Riftweaver","Enlarged Rift Egg",0.11235955056179775,178
+"-","-","-","-","-","-","Riftweaver","Gnawnia Rift Egg",0.056179775280898875,178
+"-","-","-","-","-","-","Riftweaver","Lucky Egg",0.016853932584269662,178
+"-","-","-","-","-","-","Supernatural","Gnawnia Rift Egg",0.08108108108108109,148
+"-","-","-","-","-","-","Supernatural","Enlarged Rift Egg",0.07432432432432433,148
+"-","-","-","-","-","-","Supernatural","Lucky Egg",0.033783783783783786,148
+"-","-","-","-","-","-","Amplified Brown","Rift Mist Egg",0.16666666666666666,12
+"-","-","-","-","-","-","Amplified Brown","Enlarged Rift Egg",0.08333333333333333,12
 "-","-","-","-","-","-","Amplified Grey","Rift Mist Egg",0.25,4
-"-","-","-","-","-","-","Amplified White","Rift Mist Egg",0.14285714285714285,7
-"-","-","-","-","-","-","Assassin Beast","Rift Mist Egg",0.29411764705882354,17
-"-","-","-","-","-","-","Automated Sentry","Lucky Egg",0.125,8
-"-","-","-","-","-","-","Automated Sentry","Enlarged Rift Egg",0.125,8
-"-","-","-","-","-","-","Automated Sentry","Rift Mist Egg",0.125,8
-"-","-","-","-","-","-","Big Bad Behemoth Burroughs","Rift Mist Egg",0.2,20
-"-","-","-","-","-","-","Bloomed Sylvan","Enlarged Rift Egg",0.0975609756097561,41
-"-","-","-","-","-","-","Boulder Biter","Rift Mist Egg",0.12307692307692308,65
-"-","-","-","-","-","-","Boulder Biter","Enlarged Rift Egg",0.09230769230769231,65
-"-","-","-","-","-","-","Centaur Ranger","Enlarged Rift Egg",0.03333333333333333,30
-"-","-","-","-","-","-","Clump","Rift Mist Egg",0.15384615384615385,26
-"-","-","-","-","-","-","Clump","Enlarged Rift Egg",0.07692307692307693,26
-"-","-","-","-","-","-","Cranky Caterpillar","Enlarged Rift Egg",0.08333333333333333,48
-"-","-","-","-","-","-","Crazed Goblin","Enlarged Rift Egg",0.09090909090909091,44
-"-","-","-","-","-","-","Cyber Miner","Enlarged Rift Egg",0.047619047619047616,21
-"-","-","-","-","-","-","Cyber Miner","Rift Mist Egg",0.047619047619047616,21
+"-","-","-","-","-","-","Amplified White","Rift Mist Egg",0.25,8
+"-","-","-","-","-","-","Assassin Beast","Rift Mist Egg",0.2777777777777778,18
+"-","-","-","-","-","-","Automated Sentry","Lucky Egg",0.1111111111111111,9
+"-","-","-","-","-","-","Automated Sentry","Enlarged Rift Egg",0.1111111111111111,9
+"-","-","-","-","-","-","Automated Sentry","Rift Mist Egg",0.1111111111111111,9
+"-","-","-","-","-","-","Big Bad Behemoth Burroughs","Rift Mist Egg",0.19047619047619047,21
+"-","-","-","-","-","-","Bloomed Sylvan","Enlarged Rift Egg",0.09523809523809523,42
+"-","-","-","-","-","-","Boulder Biter","Rift Mist Egg",0.11594202898550725,69
+"-","-","-","-","-","-","Boulder Biter","Enlarged Rift Egg",0.08695652173913043,69
+"-","-","-","-","-","-","Centaur Ranger","Enlarged Rift Egg",0.05263157894736842,38
+"-","-","-","-","-","-","Clump","Rift Mist Egg",0.1724137931034483,29
+"-","-","-","-","-","-","Clump","Enlarged Rift Egg",0.06896551724137931,29
+"-","-","-","-","-","-","Cranky Caterpillar","Enlarged Rift Egg",0.08771929824561403,57
+"-","-","-","-","-","-","Crazed Goblin","Enlarged Rift Egg",0.08163265306122448,49
+"-","-","-","-","-","-","Crazed Goblin","Lucky Egg",0.02040816326530612,49
+"-","-","-","-","-","-","Cyber Miner","Enlarged Rift Egg",0.045454545454545456,22
+"-","-","-","-","-","-","Cyber Miner","Rift Mist Egg",0.045454545454545456,22
 "-","-","-","-","-","-","Cybernetic Specialist","Rift Mist Egg",0.2,5
-"-","-","-","-","-","-","Cyclops Barbarian","Enlarged Rift Egg",0.03225806451612903,31
-"-","-","-","-","-","-","Cyclops Barbarian","Lucky Egg",0.03225806451612903,31
-"-","-","-","-","-","-","Doktor","Enlarged Rift Egg",0.2857142857142857,7
-"-","-","-","-","-","-","Fungal Frog","Enlarged Rift Egg",0.04,50
-"-","-","-","-","-","-","Itty Bitty Rifty Burroughs","Rift Mist Egg",0.21052631578947367,19
-"-","-","-","-","-","-","Itty Bitty Rifty Burroughs","Enlarged Rift Egg",0.05263157894736842,19
-"-","-","-","-","-","-","Karmachameleon","Enlarged Rift Egg",0.058823529411764705,34
-"-","-","-","-","-","-","Lambent","Rift Mist Egg",0.21428571428571427,28
-"-","-","-","-","-","-","Lambent","Enlarged Rift Egg",0.10714285714285714,28
-"-","-","-","-","-","-","Lycanoid","Rift Mist Egg",0.15384615384615385,26
-"-","-","-","-","-","-","Lycanoid","Enlarged Rift Egg",0.038461538461538464,26
-"-","-","-","-","-","-","Master Exploder","Rift Mist Egg",0.17647058823529413,51
-"-","-","-","-","-","-","Master Exploder","Enlarged Rift Egg",0.11764705882352941,51
-"-","-","-","-","-","-","Master Exploder","Lucky Egg",0.0196078431372549,51
-"-","-","-","-","-","-","Medicine","Enlarged Rift Egg",0.041666666666666664,24
+"-","-","-","-","-","-","Cyclops Barbarian","Lucky Egg",0.06060606060606061,33
+"-","-","-","-","-","-","Cyclops Barbarian","Enlarged Rift Egg",0.030303030303030304,33
+"-","-","-","-","-","-","Doktor","Enlarged Rift Egg",0.2222222222222222,9
+"-","-","-","-","-","-","Fungal Frog","Enlarged Rift Egg",0.03773584905660377,53
+"-","-","-","-","-","-","Itty Bitty Rifty Burroughs","Rift Mist Egg",0.25,20
+"-","-","-","-","-","-","Itty Bitty Rifty Burroughs","Enlarged Rift Egg",0.05,20
+"-","-","-","-","-","-","Karmachameleon","Enlarged Rift Egg",0.05714285714285714,35
+"-","-","-","-","-","-","Lambent","Rift Mist Egg",0.1875,32
+"-","-","-","-","-","-","Lambent","Enlarged Rift Egg",0.09375,32
+"-","-","-","-","-","-","Lycanoid","Rift Mist Egg",0.1724137931034483,29
+"-","-","-","-","-","-","Lycanoid","Enlarged Rift Egg",0.034482758620689655,29
+"-","-","-","-","-","-","Master Exploder","Rift Mist Egg",0.17307692307692307,52
+"-","-","-","-","-","-","Master Exploder","Enlarged Rift Egg",0.11538461538461539,52
+"-","-","-","-","-","-","Master Exploder","Lucky Egg",0.019230769230769232,52
+"-","-","-","-","-","-","Medicine","Enlarged Rift Egg",0.04,25
 "-","-","-","-","-","-","Monstrous Abomination","Enlarged Rift Egg",0.08333333333333333,12
-"-","-","-","-","-","-","Mossy Moosker","Enlarged Rift Egg",0.022727272727272728,44
-"-","-","-","-","-","-","Nomadic Warrior","Enlarged Rift Egg",0.09090909090909091,22
-"-","-","-","-","-","-","Phase Zombie","Rift Mist Egg",0.15789473684210525,19
-"-","-","-","-","-","-","Phase Zombie","Lucky Egg",0.05263157894736842,19
-"-","-","-","-","-","-","Plutonium Tentacle","Rift Mist Egg",0.2608695652173913,23
-"-","-","-","-","-","-","Plutonium Tentacle","Enlarged Rift Egg",0.08695652173913043,23
-"-","-","-","-","-","-","Pneumatic Dirt Displacement","Enlarged Rift Egg",0.2,20
-"-","-","-","-","-","-","Portable Generator","Enlarged Rift Egg",0.16666666666666666,6
-"-","-","-","-","-","-","Prototype","Lucky Egg",0.1,10
-"-","-","-","-","-","-","Rancid Bog Beast","Rift Mist Egg",0.35714285714285715,14
-"-","-","-","-","-","-","Rancid Bog Beast","Enlarged Rift Egg",0.07142857142857142,14
-"-","-","-","-","-","-","Red Coat Bear","Enlarged Rift Egg",0.08695652173913043,23
-"-","-","-","-","-","-","Red Coat Bear","Lucky Egg",0.043478260869565216,23
+"-","-","-","-","-","-","Mossy Moosker","Enlarged Rift Egg",0.02,50
+"-","-","-","-","-","-","Nomadic Warrior","Enlarged Rift Egg",0.12,25
+"-","-","-","-","-","-","Phase Zombie","Rift Mist Egg",0.15384615384615385,26
+"-","-","-","-","-","-","Phase Zombie","Lucky Egg",0.07692307692307693,26
+"-","-","-","-","-","-","Plutonium Tentacle","Rift Mist Egg",0.24,25
+"-","-","-","-","-","-","Plutonium Tentacle","Enlarged Rift Egg",0.08,25
+"-","-","-","-","-","-","Pneumatic Dirt Displacement","Enlarged Rift Egg",0.18181818181818182,22
+"-","-","-","-","-","-","Portable Generator","Enlarged Rift Egg",0.125,8
+"-","-","-","-","-","-","Prototype","Lucky Egg",0.08333333333333333,12
+"-","-","-","-","-","-","Rancid Bog Beast","Rift Mist Egg",0.35294117647058826,17
+"-","-","-","-","-","-","Rancid Bog Beast","Enlarged Rift Egg",0.058823529411764705,17
+"-","-","-","-","-","-","Red Coat Bear","Enlarged Rift Egg",0.12,25
+"-","-","-","-","-","-","Red Coat Bear","Lucky Egg",0.04,25
 "-","-","-","-","-","-","Red-Eyed Watcher Owl","Enlarged Rift Egg",0.058823529411764705,34
-"-","-","-","-","-","-","Revenant","Enlarged Rift Egg",0.17857142857142858,28
-"-","-","-","-","-","-","Revenant","Rift Mist Egg",0.14285714285714285,28
-"-","-","-","-","-","-","Rift Bio Engineer","Rift Mist Egg",0.125,8
-"-","-","-","-","-","-","Rift Tiger","Enlarged Rift Egg",0.14285714285714285,21
-"-","-","-","-","-","-","Rifterranian","Enlarged Rift Egg",0.13636363636363635,22
-"-","-","-","-","-","-","Spirit Fox","Enlarged Rift Egg",0.058823529411764705,34
-"-","-","-","-","-","-","Spirit of Balance","Enlarged Rift Egg",0.061224489795918366,49
-"-","-","-","-","-","-","Super Mega Mecha Ultra RoboGold","Rift Mist Egg",0.1875,16
-"-","-","-","-","-","-","Super Mega Mecha Ultra RoboGold","Enlarged Rift Egg",0.0625,16
-"-","-","-","-","-","-","Surgeon Bot","Enlarged Rift Egg",0.125,8
-"-","-","-","-","-","-","Tech Ravenous Zombie","Rift Mist Egg",0.12,25
-"-","-","-","-","-","-","Tech Ravenous Zombie","Enlarged Rift Egg",0.04,25
-"-","-","-","-","-","-","Toxic Avenger","Rift Mist Egg",0.35294117647058826,17
-"-","-","-","-","-","-","Toxic Avenger","Enlarged Rift Egg",0.11764705882352941,17
-"-","-","-","-","-","-","Toxikinetic","Rift Mist Egg",0.2857142857142857,7
-"-","-","-","-","-","-","Toxikinetic","Enlarged Rift Egg",0.2857142857142857,7
-"-","-","-","-","-","-","Treant Queen","Enlarged Rift Egg",0.13793103448275862,29
-"-","-","-","-","-","-","Tree Troll","Enlarged Rift Egg",0.03125,32
-"-","-","-","-","-","-","Tri-dra","Enlarged Rift Egg",0.12121212121212122,33
-"-","-","-","-","-","-","Tri-dra","Lucky Egg",0.030303030303030304,33
-"-","-","-","-","-","-","Twisted Treant","Enlarged Rift Egg",0.1320754716981132,53
-"-","-","-","-","-","-","Water Sprite","Lucky Egg",0.027777777777777776,36
-"-","-","-","-","-","-","Water Sprite","Enlarged Rift Egg",0.027777777777777776,36
+"-","-","-","-","-","-","Revenant","Enlarged Rift Egg",0.14285714285714285,35
+"-","-","-","-","-","-","Revenant","Rift Mist Egg",0.14285714285714285,35
+"-","-","-","-","-","-","Rift Bio Engineer","Rift Mist Egg",0.2222222222222222,9
+"-","-","-","-","-","-","Rift Tiger","Enlarged Rift Egg",0.12,25
+"-","-","-","-","-","-","Rifterranian","Enlarged Rift Egg",0.12,25
+"-","-","-","-","-","-","Spirit Fox","Enlarged Rift Egg",0.05405405405405406,37
+"-","-","-","-","-","-","Spirit of Balance","Enlarged Rift Egg",0.08771929824561403,57
+"-","-","-","-","-","-","Super Mega Mecha Ultra RoboGold","Rift Mist Egg",0.16666666666666666,18
+"-","-","-","-","-","-","Super Mega Mecha Ultra RoboGold","Enlarged Rift Egg",0.05555555555555555,18
+"-","-","-","-","-","-","Surgeon Bot","Rift Mist Egg",0.09090909090909091,11
+"-","-","-","-","-","-","Surgeon Bot","Enlarged Rift Egg",0.09090909090909091,11
+"-","-","-","-","-","-","Tech Ravenous Zombie","Rift Mist Egg",0.12121212121212122,33
+"-","-","-","-","-","-","Tech Ravenous Zombie","Enlarged Rift Egg",0.06060606060606061,33
+"-","-","-","-","-","-","Toxic Avenger","Rift Mist Egg",0.3333333333333333,18
+"-","-","-","-","-","-","Toxic Avenger","Enlarged Rift Egg",0.16666666666666666,18
+"-","-","-","-","-","-","Toxikinetic","Enlarged Rift Egg",0.3,10
+"-","-","-","-","-","-","Toxikinetic","Rift Mist Egg",0.2,10
+"-","-","-","-","-","-","Treant Queen","Enlarged Rift Egg",0.13333333333333333,30
+"-","-","-","-","-","-","Tree Troll","Enlarged Rift Egg",0.030303030303030304,33
+"-","-","-","-","-","-","Tri-dra","Enlarged Rift Egg",0.1111111111111111,36
+"-","-","-","-","-","-","Tri-dra","Lucky Egg",0.027777777777777776,36
+"-","-","-","-","-","-","Twisted Treant","Enlarged Rift Egg",0.14285714285714285,56
+"-","-","-","-","-","-","Water Sprite","Lucky Egg",0.023255813953488372,43
+"-","-","-","-","-","-","Water Sprite","Enlarged Rift Egg",0.023255813953488372,43
 "-","-","-","-","-","-","Winged Harpy","Enlarged Rift Egg",0.13953488372093023,43
 "-","-","-","-","-","-","Winged Harpy","Lucky Egg",0.023255813953488372,43
-"-","-","-","-","-","-","Zombot Unipire the Third","Rift Mist Egg",0.1875,16
-"-","-","-","-","-","-","Zombot Unipire the Third","Enlarged Rift Egg",0.125,16
-"-","-","-","-","-","-","Carrion Medium","Bristle Woods Rift Egg",0.12403100775193798,516
-"-","-","-","-","-","-","Carrion Medium","Lucky Egg",0.011627906976744186,516
-"-","-","-","-","-","-","Chronomaster","Bristle Woods Rift Egg",0.13286713286713286,429
-"-","-","-","-","-","-","Chronomaster","Lucky Egg",0.009324009324009324,429
-"-","-","-","-","-","-","Clockwork Timespinner","Bristle Woods Rift Egg",0.12292358803986711,602
-"-","-","-","-","-","-","Clockwork Timespinner","Lucky Egg",0.009966777408637873,602
-"-","-","-","-","-","-","Dread Knight","Bristle Woods Rift Egg",0.13904235727440148,1086
-"-","-","-","-","-","-","Epoch Golem","Bristle Woods Rift Egg",0.13872832369942195,346
-"-","-","-","-","-","-","Harbinger of Death","Bristle Woods Rift Egg",0.12389380530973451,113
-"-","-","-","-","-","-","Portal Paladin","Bristle Woods Rift Egg",0.13646532438478748,447
-"-","-","-","-","-","-","Portal Plunderer","Bristle Woods Rift Egg",0.1276595744680851,658
-"-","-","-","-","-","-","Portal Pursuer","Bristle Woods Rift Egg",0.12,25
-"-","-","-","-","-","-","Record Keeper","Bristle Woods Rift Egg",0.11801242236024845,161
-"-","-","-","-","-","-","Record Keeper's Assistant","Bristle Woods Rift Egg",0.15333333333333332,150
-"-","-","-","-","-","-","Record Keeper's Assistant","Lucky Egg",0.013333333333333334,150
-"-","-","-","-","-","-","Sentient Slime","Bristle Woods Rift Egg",0.1510574018126888,662
-"-","-","-","-","-","-","Shackled Servant","Bristle Woods Rift Egg",0.14957264957264957,234
-"-","-","-","-","-","-","Skeletal Champion","Bristle Woods Rift Egg",0.12731481481481483,864
-"-","-","-","-","-","-","Timeless Lich","Bristle Woods Rift Egg",0.11387900355871886,281
-"-","-","-","-","-","-","Timeless Lich","Lucky Egg",0.010676156583629894,281
-"-","-","-","-","-","-","Timelost Thaumaturge","Bristle Woods Rift Egg",0.11724137931034483,290
-"-","-","-","-","-","-","Timelost Thaumaturge","Lucky Egg",0.010344827586206896,290
-"-","-","-","-","-","-","Timeslither Pythoness","Bristle Woods Rift Egg",0.12949640287769784,139
-"-","-","-","-","-","-","Vigilant Ward","Bristle Woods Rift Egg",0.1441717791411043,326
-"-","-","-","-","-","-","Vigilant Ward","Lucky Egg",0.009202453987730062,326
-"-","-","-","-","-","-","Biohazard","Toxic Spill Egg",0.1702127659574468,47
+"-","-","-","-","-","-","Zombot Unipire the Third","Rift Mist Egg",0.18181818181818182,22
+"-","-","-","-","-","-","Zombot Unipire the Third","Enlarged Rift Egg",0.09090909090909091,22
+"-","-","-","-","-","-","Carrion Medium","Bristle Woods Rift Egg",0.13120567375886524,564
+"-","-","-","-","-","-","Carrion Medium","Lucky Egg",0.010638297872340425,564
+"-","-","-","-","-","-","Chronomaster","Bristle Woods Rift Egg",0.1314655172413793,464
+"-","-","-","-","-","-","Chronomaster","Lucky Egg",0.008620689655172414,464
+"-","-","-","-","-","-","Clockwork Timespinner","Bristle Woods Rift Egg",0.125,672
+"-","-","-","-","-","-","Clockwork Timespinner","Lucky Egg",0.008928571428571428,672
+"-","-","-","-","-","-","Dread Knight","Bristle Woods Rift Egg",0.1363265306122449,1225
+"-","-","-","-","-","-","Epoch Golem","Bristle Woods Rift Egg",0.13333333333333333,375
+"-","-","-","-","-","-","Harbinger of Death","Bristle Woods Rift Egg",0.11811023622047244,127
+"-","-","-","-","-","-","Portal Paladin","Bristle Woods Rift Egg",0.14906832298136646,483
+"-","-","-","-","-","-","Portal Plunderer","Bristle Woods Rift Egg",0.12429378531073447,708
+"-","-","-","-","-","-","Portal Pursuer","Bristle Woods Rift Egg",0.10714285714285714,28
+"-","-","-","-","-","-","Record Keeper","Bristle Woods Rift Egg",0.10614525139664804,179
+"-","-","-","-","-","-","Record Keeper's Assistant","Bristle Woods Rift Egg",0.14285714285714285,168
+"-","-","-","-","-","-","Record Keeper's Assistant","Lucky Egg",0.011904761904761904,168
+"-","-","-","-","-","-","Sentient Slime","Bristle Woods Rift Egg",0.1492329149232915,717
+"-","-","-","-","-","-","Shackled Servant","Bristle Woods Rift Egg",0.1471698113207547,265
+"-","-","-","-","-","-","Skeletal Champion","Bristle Woods Rift Egg",0.13863404689092762,981
+"-","-","-","-","-","-","Timeless Lich","Bristle Woods Rift Egg",0.1182108626198083,313
+"-","-","-","-","-","-","Timelost Thaumaturge","Bristle Woods Rift Egg",0.11764705882352941,323
+"-","-","-","-","-","-","Timeslither Pythoness","Bristle Woods Rift Egg",0.1282051282051282,156
+"-","-","-","-","-","-","Vigilant Ward","Bristle Woods Rift Egg",0.15053763440860216,372
+"-","-","-","-","-","-","Vigilant Ward","Lucky Egg",0.008064516129032258,372
+"-","-","-","-","-","-","Biohazard","Toxic Spill Egg",0.14285714285714285,56
 "-","-","-","-","-","-","Bog Beast","Toxic Spill Egg",0.3333333333333333,3
-"-","-","-","-","-","-","Gelatinous Octahedron","Toxic Spill Egg",0.3333333333333333,3
-"-","-","-","-","-","-","Mutant Ninja","Toxic Spill Egg",0.09090909090909091,33
+"-","-","-","-","-","-","Gelatinous Octahedron","Toxic Spill Egg",0.18181818181818182,11
+"-","-","-","-","-","-","Gelatinous Octahedron","Lucky Egg",0.09090909090909091,11
+"-","-","-","-","-","-","Monster Tail","Toxic Spill Egg",0.2857142857142857,7
+"-","-","-","-","-","-","Mutant Ninja","Toxic Spill Egg",0.07894736842105263,38
 "-","-","-","-","-","-","Outbreak Assassin","Toxic Spill Egg",0.20202020202020202,99
 "-","-","-","-","-","-","Outbreak Assassin","Lucky Egg",0.010101010101010102,99
-"-","-","-","-","-","-","Plague Hag","Toxic Spill Egg",0.10714285714285714,28
-"-","-","-","-","-","-","Scrap Metal Monster","Toxic Spill Egg",0.08695652173913043,23
+"-","-","-","-","-","-","Plague Hag","Toxic Spill Egg",0.14285714285714285,35
+"-","-","-","-","-","-","Scrap Metal Monster","Toxic Spill Egg",0.125,32
 "-","-","-","-","-","-","Slimefist","Toxic Spill Egg",0.15384615384615385,104
 "-","-","-","-","-","-","Sludge","Toxic Spill Egg",0.5,2
-"-","-","-","-","-","-","Sludge Soaker","Toxic Spill Egg",0.23529411764705882,34
-"-","-","-","-","-","-","Sludge Swimmer","Toxic Spill Egg",0.11494252873563218,87
-"-","-","-","-","-","-","Sludge Swimmer","Lucky Egg",0.011494252873563218,87
-"-","-","-","-","-","-","Telekinetic Mutant","Toxic Spill Egg",0.1951219512195122,82
-"-","-","-","-","-","-","Telekinetic Mutant","Lucky Egg",0.012195121951219513,82
-"-","-","-","-","-","-","Tentacle","Toxic Spill Egg",0.06,50
+"-","-","-","-","-","-","Sludge Soaker","Toxic Spill Egg",0.20833333333333334,48
+"-","-","-","-","-","-","Sludge Swimmer","Toxic Spill Egg",0.11363636363636363,88
+"-","-","-","-","-","-","Sludge Swimmer","Lucky Egg",0.011363636363636364,88
+"-","-","-","-","-","-","Swamp Runner","Toxic Spill Egg",1,2
+"-","-","-","-","-","-","Telekinetic Mutant","Toxic Spill Egg",0.19101123595505617,89
+"-","-","-","-","-","-","Telekinetic Mutant","Lucky Egg",0.011235955056179775,89
+"-","-","-","-","-","-","Tentacle","Toxic Spill Egg",0.07272727272727272,55
 "-","-","-","-","-","-","The Menace","Toxic Spill Egg",0.12389380530973451,113
 "-","-","-","-","-","-","Toxic Warrior","Toxic Spill Egg",0.1326530612244898,98
-"Moussu Picchu","-","-","-","-","-","Breeze Borrower","Wind Egg",0.015037593984962405,133
+"Moussu Picchu","-","-","-","-","-","Breeze Borrower","Wind Egg",0.013793103448275862,145
 "Moussu Picchu","-","-","-","-","-","Charming Chimer","Rain Egg",0.025974025974025976,77
-"Moussu Picchu","-","-","-","-","-","Cloud Collector","Rain Egg",0.006535947712418301,153
-"Moussu Picchu","-","-","-","-","-","Cycloness","Wind Egg",0.028747433264887063,487
-"Moussu Picchu","-","-","-","-","-","Cycloness","Rain Egg",0.01642710472279261,487
-"Moussu Picchu","-","-","-","-","-","Fluttering Flutist","Wind Egg",0.031746031746031744,252
-"Moussu Picchu","-","-","-","-","-","Fluttering Flutist","Rain Egg",0.027777777777777776,252
-"Moussu Picchu","-","-","-","-","-","Windy Farmer","Wind Egg",0.028409090909090908,176
-"Moussu Picchu","-","-","-","-","-","Ful'Mina, The Mountain Queen","Rain Egg",0.05534351145038168,1572
-"Moussu Picchu","-","-","-","-","-","Ful'Mina, The Mountain Queen","Wind Egg",0.04961832061068702,1572
-"Moussu Picchu","-","-","-","-","-","Homeopathic Apothecary","Rain Egg",0.02702702702702703,37
-"Moussu Picchu","-","-","-","-","-","Monsoon Maker","Rain Egg",0.03260869565217391,276
-"Moussu Picchu","-","-","-","-","-","Monsoon Maker","Wind Egg",0.010869565217391304,276
-"Moussu Picchu","-","-","-","-","-","Rain Summoner","Rain Egg",0.02127659574468085,141
-"Moussu Picchu","-","-","-","-","-","Rain Summoner","Wind Egg",0.014184397163120567,141
+"Moussu Picchu","-","-","-","-","-","Cloud Collector","Rain Egg",0.006329113924050633,158
+"Moussu Picchu","-","-","-","-","-","Cycloness","Wind Egg",0.023769100169779286,589
+"Moussu Picchu","-","-","-","-","-","Cycloness","Rain Egg",0.013582342954159592,589
+"Moussu Picchu","-","-","-","-","-","Fluttering Flutist","Wind Egg",0.02962962962962963,270
+"Moussu Picchu","-","-","-","-","-","Fluttering Flutist","Rain Egg",0.025925925925925925,270
+"Moussu Picchu","-","-","-","-","-","Windy Farmer","Wind Egg",0.027777777777777776,180
+"Moussu Picchu","-","-","-","-","-","Ful'Mina, The Mountain Queen","Rain Egg",0.0514488468361916,1691
+"Moussu Picchu","-","-","-","-","-","Ful'Mina, The Mountain Queen","Wind Egg",0.046126552335895916,1691
+"Moussu Picchu","-","-","-","-","-","Homeopathic Apothecary","Rain Egg",0.02564102564102564,39
+"Moussu Picchu","-","-","-","-","-","Monsoon Maker","Rain Egg",0.02786377708978328,323
+"Moussu Picchu","-","-","-","-","-","Monsoon Maker","Wind Egg",0.009287925696594427,323
+"Moussu Picchu","-","-","-","-","-","Rain Summoner","Rain Egg",0.01910828025477707,157
+"Moussu Picchu","-","-","-","-","-","Rain Summoner","Wind Egg",0.012738853503184714,157
 "Moussu Picchu","-","-","-","-","-","Nightshade Maiden","Rain Egg",0.3333333333333333,3
-"Moussu Picchu","-","-","-","-","-","Dragoon","Wind Egg",0.10526315789473684,19
-"Moussu Picchu","-","-","-","-","-","Rainmancer","Rain Egg",0.03225806451612903,248
-"Moussu Picchu","-","-","-","-","-","Rainmancer","Wind Egg",0.028225806451612902,248
-"Moussu Picchu","-","-","-","-","-","Rainwater Purifier","Rain Egg",0.007194244604316547,139
-"Moussu Picchu","-","-","-","-","-","Thundering Watcher","Rain Egg",0.07474747474747474,495
-"Moussu Picchu","-","-","-","-","-","Thundering Watcher","Wind Egg",0.06464646464646465,495
-"Moussu Picchu","-","-","-","-","-","Thunderlord","Rain Egg",0.05581395348837209,215
-"Moussu Picchu","-","-","-","-","-","Thunderlord","Wind Egg",0.03255813953488372,215
-"Moussu Picchu","-","-","-","-","-","Violet Stormchild","Wind Egg",0.038461538461538464,26
-"Moussu Picchu","-","-","-","-","-","Wind Warrior","Wind Egg",0.03125,416
-"Moussu Picchu","-","-","-","-","-","Wind Warrior","Rain Egg",0.007211538461538462,416
-"Moussu Picchu","-","-","-","-","-","Wind Watcher","Rain Egg",0.05063291139240506,158
-"Fungal Cavern","-","-","-","-","-","Bitter Root","Fungal Egg",0.40217391304347827,92
-"Fungal Cavern","-","-","-","-","-","Crystal Behemoth","Cave Diamond Egg",1,59
+"Moussu Picchu","-","-","-","-","-","Dragoon","Wind Egg",0.09090909090909091,22
+"Moussu Picchu","-","-","-","-","-","Rainmancer","Rain Egg",0.029197080291970802,274
+"Moussu Picchu","-","-","-","-","-","Rainmancer","Wind Egg",0.025547445255474453,274
+"Moussu Picchu","-","-","-","-","-","Rainwater Purifier","Rain Egg",0.00684931506849315,146
+"Moussu Picchu","-","-","-","-","-","Thundering Watcher","Rain Egg",0.06839186691312385,541
+"Moussu Picchu","-","-","-","-","-","Thundering Watcher","Wind Egg",0.059149722735674676,541
+"Moussu Picchu","-","-","-","-","-","Thunderlord","Rain Egg",0.049586776859504134,242
+"Moussu Picchu","-","-","-","-","-","Thunderlord","Wind Egg",0.028925619834710745,242
+"Moussu Picchu","-","-","-","-","-","Violet Stormchild","Wind Egg",0.029411764705882353,34
+"Moussu Picchu","-","-","-","-","-","Wind Warrior","Wind Egg",0.02850877192982456,456
+"Moussu Picchu","-","-","-","-","-","Wind Warrior","Rain Egg",0.006578947368421052,456
+"Moussu Picchu","-","-","-","-","-","Wind Watcher","Rain Egg",0.050314465408805034,159
+"Fungal Cavern","-","-","-","-","-","Bitter Root","Fungal Egg",0.3867924528301887,106
+"Fungal Cavern","-","-","-","-","-","Crystal Behemoth","Cave Diamond Egg",1,60
 "Fungal Cavern","-","-","-","-","-","Crystal Golem","Cave Gemstone Egg",0.7,10
-"Fungal Cavern","-","-","-","-","-","Crystal Lurker","Cave Gemstone Egg",0.48,50
-"Fungal Cavern","-","-","-","-","-","Crystal Observer","Cave Gemstone Egg",0.5106382978723404,47
-"Fungal Cavern","-","-","-","-","-","Crystal Queen","Cave Gemstone Egg",0.5135135135135135,74
+"Fungal Cavern","-","-","-","-","-","Crystal Lurker","Cave Gemstone Egg",0.4716981132075472,53
+"Fungal Cavern","-","-","-","-","-","Crystal Observer","Cave Gemstone Egg",0.5294117647058824,51
+"Fungal Cavern","-","-","-","-","-","Crystal Queen","Cave Gemstone Egg",0.5185185185185185,81
 "Fungal Cavern","-","-","-","-","-","Diamondhide","Cave Diamond Egg",1,5
-"Fungal Cavern","-","-","-","-","-","Floating Spore","Fungal Egg",0.3643410852713178,129
-"Fungal Cavern","-","-","-","-","-","Funglore","Fungal Egg",0.3006535947712418,153
+"Fungal Cavern","-","-","-","-","-","Floating Spore","Fungal Egg",0.37341772151898733,158
+"Fungal Cavern","-","-","-","-","-","Funglore","Fungal Egg",0.3181818181818182,176
 "Fungal Cavern","-","-","-","-","-","Huntereater","Cave Diamond Egg",1,30
-"Fungal Cavern","-","-","-","-","-","Lumahead","Fungal Egg",0.37575757575757573,165
-"Fungal Cavern","-","-","-","-","-","Mouldy Mole","Fungal Egg",0.39285714285714285,28
-"Fungal Cavern","-","-","-","-","-","Mush","Fungal Egg",0.3732394366197183,142
-"Fungal Cavern","-","-","-","-","-","Mushroom Sprite","Fungal Egg",0.3473684210526316,95
-"Fungal Cavern","-","-","-","-","-","Quillback","Fungal Egg",0.2689075630252101,119
-"Fungal Cavern","-","-","-","-","-","Spiked Burrower","Fungal Egg",0.34831460674157305,89
-"Fungal Cavern","-","-","-","-","-","Spore Muncher","Fungal Egg",0.3333333333333333,21
-"Fungal Cavern","-","-","-","-","-","Sporeticus","Fungal Egg",0.3125,16
-"-","-","-","-","-","Enerchi Charm","-","Enerchi Egg",1,923
-"Gnawnian Express Station","-","-","-","-","-","Angry Train Staff","Gnawnian Express Egg",0.18181818181818182,55
+"Fungal Cavern","-","-","-","-","-","Lumahead","Fungal Egg",0.3711340206185567,194
+"Fungal Cavern","-","-","-","-","-","Mouldy Mole","Fungal Egg",0.38235294117647056,34
+"Fungal Cavern","-","-","-","-","-","Mush","Fungal Egg",0.3407821229050279,179
+"Fungal Cavern","-","-","-","-","-","Mushroom Sprite","Fungal Egg",0.3559322033898305,118
+"Fungal Cavern","-","-","-","-","-","Quillback","Fungal Egg",0.28662420382165604,157
+"Fungal Cavern","-","-","-","-","-","Spiked Burrower","Fungal Egg",0.3238095238095238,105
+"Fungal Cavern","-","-","-","-","-","Spore Muncher","Fungal Egg",0.3181818181818182,22
+"Fungal Cavern","-","-","-","-","-","Sporeticus","Fungal Egg",0.2608695652173913,23
+"-","-","-","-","-","Enerchi Charm","-","Enerchi Egg",0.9990645463049579,1069
+"Gnawnian Express Station","-","-","-","-","-","Angry Train Staff","Gnawnian Express Egg",0.19672131147540983,61
 "Gnawnian Express Station","-","-","-","-","-","Automorat","Gnawnian Express Egg",0.1,10
-"Gnawnian Express Station","-","-","-","-","-","Bartender","Gnawnian Express Egg",0.125,16
-"Gnawnian Express Station","-","-","-","-","-","Black Powder Thief","Gnawnian Express Egg",0.13157894736842105,38
-"Gnawnian Express Station","-","-","-","-","-","Cannonball","Gnawnian Express Egg",0.4166666666666667,12
-"Gnawnian Express Station","-","-","-","-","-","Coal Shoveller","Gnawnian Express Egg",0.13793103448275862,29
-"Gnawnian Express Station","-","-","-","-","-","Crate Camo","Gnawnian Express Egg",0.15625,32
+"Gnawnian Express Station","-","-","-","-","-","Bartender","Gnawnian Express Egg",0.11764705882352941,17
+"Gnawnian Express Station","-","-","-","-","-","Black Powder Thief","Gnawnian Express Egg",0.1590909090909091,44
+"Gnawnian Express Station","-","-","-","-","-","Cannonball","Gnawnian Express Egg",0.38461538461538464,13
+"Gnawnian Express Station","-","-","-","-","-","Coal Shoveller","Gnawnian Express Egg",0.11764705882352941,34
+"Gnawnian Express Station","-","-","-","-","-","Crate Camo","Gnawnian Express Egg",0.18181818181818182,33
 "Gnawnian Express Station","-","-","-","-","-","Cute Crate Carrier","Gnawnian Express Egg",0.11627906976744186,43
 "Gnawnian Express Station","-","-","-","-","-","Dangerous Duo","Gnawnian Express Egg",0.125,16
-"Gnawnian Express Station","-","-","-","-","-","Farrier","Gnawnian Express Egg",0.4,10
-"Gnawnian Express Station","-","-","-","-","-","Fuel","Gnawnian Express Egg",0.0975609756097561,41
+"Gnawnian Express Station","-","-","-","-","-","Farrier","Gnawnian Express Egg",0.3333333333333333,12
+"Gnawnian Express Station","-","-","-","-","-","Fuel","Gnawnian Express Egg",0.10204081632653061,49
 "Gnawnian Express Station","-","-","-","-","-","Hookshot","Gnawnian Express Egg",0.2222222222222222,9
-"Gnawnian Express Station","-","-","-","-","-","Magmatic Crystal Thief","Gnawnian Express Egg",0.10810810810810811,37
-"Gnawnian Express Station","-","-","-","-","-","Magmatic Golem","Gnawnian Express Egg",0.2,15
-"Gnawnian Express Station","-","-","-","-","-","Mouse With No Name","Gnawnian Express Egg",0.2,30
-"Gnawnian Express Station","-","-","-","-","-","Mysterious Traveller","Gnawnian Express Egg",0.2830188679245283,53
-"Gnawnian Express Station","-","-","-","-","-","Parlour Player","Gnawnian Express Egg",0.13333333333333333,15
-"Gnawnian Express Station","-","-","-","-","-","Passenger","Gnawnian Express Egg",0.2545454545454545,55
-"Gnawnian Express Station","-","-","-","-","-","Photographer","Gnawnian Express Egg",0.2608695652173913,46
-"Gnawnian Express Station","-","-","-","-","-","Sharpshooter","Gnawnian Express Egg",0.13043478260869565,23
-"Gnawnian Express Station","-","-","-","-","-","Steel Horse Rider","Gnawnian Express Egg",0.0625,16
-"Gnawnian Express Station","-","-","-","-","-","Stoutgear","Gnawnian Express Egg",0.14285714285714285,7
-"Gnawnian Express Station","-","-","-","-","-","Stowaway","Gnawnian Express Egg",0.06666666666666667,15
-"Gnawnian Express Station","-","-","-","-","-","Stuffy Banker","Gnawnian Express Egg",0.18181818181818182,22
+"Gnawnian Express Station","-","-","-","-","-","Magmatic Crystal Thief","Gnawnian Express Egg",0.13043478260869565,46
+"Gnawnian Express Station","-","-","-","-","-","Magmatic Golem","Gnawnian Express Egg",0.16666666666666666,18
+"Gnawnian Express Station","-","-","-","-","-","Mouse With No Name","Gnawnian Express Egg",0.1935483870967742,31
+"Gnawnian Express Station","-","-","-","-","-","Mysterious Traveller","Gnawnian Express Egg",0.2711864406779661,59
+"Gnawnian Express Station","-","-","-","-","-","Parlour Player","Gnawnian Express Egg",0.125,16
+"Gnawnian Express Station","-","-","-","-","-","Passenger","Gnawnian Express Egg",0.23809523809523808,63
+"Gnawnian Express Station","-","-","-","-","-","Photographer","Gnawnian Express Egg",0.24528301886792453,53
+"Gnawnian Express Station","-","-","-","-","-","Sharpshooter","Gnawnian Express Egg",0.16666666666666666,24
+"Gnawnian Express Station","-","-","-","-","-","Steel Horse Rider","Gnawnian Express Egg",0.15789473684210525,19
+"Gnawnian Express Station","-","-","-","-","-","Stoutgear","Gnawnian Express Egg",0.125,8
+"Gnawnian Express Station","-","-","-","-","-","Stowaway","Gnawnian Express Egg",0.058823529411764705,17
+"Gnawnian Express Station","-","-","-","-","-","Stuffy Banker","Gnawnian Express Egg",0.21739130434782608,23
 "Gnawnian Express Station","-","-","-","-","-","Supply Hoarder","Gnawnian Express Egg",0.19047619047619047,21
-"Gnawnian Express Station","-","-","-","-","-","Tonic Salesman","Gnawnian Express Egg",0.2727272727272727,11
-"Gnawnian Express Station","-","-","-","-","-","Train Conductor","Gnawnian Express Egg",0.1951219512195122,41
-"Gnawnian Express Station","-","-","-","-","-","Train Engineer","Gnawnian Express Egg",0.1780821917808219,73
-"Gnawnian Express Station","-","-","-","-","-","Travelling Barber","Gnawnian Express Egg",0.17391304347826086,46
-"Gnawnian Express Station","-","-","-","-","-","Upper Class Lady","Gnawnian Express Egg",0.15384615384615385,13
+"Gnawnian Express Station","-","-","-","-","-","Tonic Salesman","Gnawnian Express Egg",0.25,12
+"Gnawnian Express Station","-","-","-","-","-","Train Conductor","Gnawnian Express Egg",0.19148936170212766,47
+"Gnawnian Express Station","-","-","-","-","-","Train Engineer","Gnawnian Express Egg",0.16666666666666666,84
+"Gnawnian Express Station","-","-","-","-","-","Travelling Barber","Gnawnian Express Egg",0.17307692307692307,52
+"Gnawnian Express Station","-","-","-","-","-","Upper Class Lady","Gnawnian Express Egg",0.14285714285714285,14
 "Gnawnian Express Station","-","-","-","-","-","Warehouse Manager","Gnawnian Express Egg",0.3333333333333333,6
-"Slushy Shoreline","-","-","-","-","-","Incompetent Ice Climber","Slushy Shoreline Egg",0.16666666666666666,12
-"Slushy Shoreline","-","-","-","-","-","Living Ice","Slushy Shoreline Egg",0.16666666666666666,6
-"Slushy Shoreline","-","-","-","-","-","Polar Bear","Slushy Shoreline Egg",0.13636363636363635,22
-"Slushy Shoreline","-","-","-","-","-","Snow Bowler","Slushy Shoreline Egg",0.06666666666666667,15
-"Slushy Shoreline","-","-","-","-","-","Snow Slinger","Slushy Shoreline Egg",0.09090909090909091,22
-"Slushy Shoreline","-","-","-","-","-","Snow Sniper","Slushy Shoreline Egg",0.75,4
-"Slushy Shoreline","-","-","-","-","-","Snow Soldier","Slushy Shoreline Egg",0.09523809523809523,21
-"King's Gauntlet","-","-","-","-","-","Bandit","Valour Egg",0.10606060606060606,66
-"King's Gauntlet","-","-","-","-","-","Berserker","Valour Egg",0.14814814814814814,108
+"Slushy Shoreline","-","-","-","-","-","Chipper","Slushy Shoreline Egg",0.05660377358490566,53
+"Slushy Shoreline","-","-","-","-","-","Incompetent Ice Climber","Slushy Shoreline Egg",0.15789473684210525,19
+"Slushy Shoreline","-","-","-","-","-","Living Ice","Slushy Shoreline Egg",0.125,8
+"Slushy Shoreline","-","-","-","-","-","Polar Bear","Slushy Shoreline Egg",0.1,30
+"Slushy Shoreline","-","-","-","-","-","Snow Bowler","Slushy Shoreline Egg",0.12,25
+"Slushy Shoreline","-","-","-","-","-","Snow Slinger","Slushy Shoreline Egg",0.0967741935483871,31
+"Slushy Shoreline","-","-","-","-","-","Snow Sniper","Slushy Shoreline Egg",0.42857142857142855,7
+"Slushy Shoreline","-","-","-","-","-","Snow Soldier","Slushy Shoreline Egg",0.0625,32
+"King's Gauntlet","-","-","-","-","-","Bandit","Valour Egg",0.11428571428571428,70
+"King's Gauntlet","-","-","-","-","-","Berserker","Valour Egg",0.14814814814814814,135
 "King's Arms","-","-","-","-","-","Dwarf","Valour Egg",0.1111111111111111,9
 "King's Arms","-","-","-","-","-","Gold","Valour Egg",0.16666666666666666,6
 "Tournament Hall","-","-","-","-","-","Gold","Valour Egg",0.07692307692307693,13
 "King's Arms","-","-","-","-","-","Pugilist","Valour Egg",0.2,5
-"Zokor","Dark Library","-","-","-","-","Ancient Scribe","Zokor Scholar Egg",0.17567567567567569,74
+"Zokor","Dark Library","-","-","-","-","Ancient Scribe","Zokor Scholar Egg",0.20689655172413793,87
 "Zokor","Manaforge","-","-","-","-","Ash Golem","Zokor Tech Egg",1,1
 "Zokor","Manaforge","-","-","-","-","Automated Stone Sentry","Zokor Tech Egg",0.13043478260869565,23
 "Zokor","Outer Fealty Shrine","-","-","-","-","Battle Cleric","Zokor Fealty Egg",1,1
 "Zokor","Inner Fealty Temple","-","-","-","-","Battle Cleric","Zokor Fealty Egg",0.25,12
-"Zokor","Templar's Sancrum","-","-","-","-","Battle Cleric","Zokor Fealty Egg",0.2976190476190476,84
-"Zokor","Templar's Sancrum","-","-","-","-","Dark Templar","Zokor Fealty Egg",0.15,20
-"Zokor","Dark Library","-","-","-","-","Ethereal Guardian","Zokor Scholar Egg",0.16831683168316833,101
-"Zokor","Manaforge","-","-","-","-","Exo-Tech","Zokor Tech Egg",0.20408163265306123,98
+"Zokor","Templar's Sancrum","-","-","-","-","Battle Cleric","Zokor Fealty Egg",0.27835051546391754,97
+"Zokor","Templar's Sancrum","-","-","-","-","Dark Templar","Zokor Fealty Egg",0.17391304347826086,23
+"Zokor","Dark Library","-","-","-","-","Ethereal Guardian","Zokor Scholar Egg",0.2047244094488189,127
+"Zokor","Manaforge","-","-","-","-","Exo-Tech","Zokor Tech Egg",0.20588235294117646,102
 "Zokor","Manaforge","-","-","-","-","Fungal Technomorph","Zokor Tech Egg",0.1111111111111111,9
-"Zokor","Treasure Vault","-","-","-","-","Hired Eidolon","Zokor Treasury Egg",0.2602739726027397,73
+"Zokor","Treasure Vault","-","-","-","-","Hired Eidolon","Zokor Treasury Egg",0.2564102564102564,78
 "Zokor","Manaforge","-","-","-","-","Manaforge Smith","Zokor Tech Egg",0.4,5
 "Zokor","Tech Research Center","-","-","-","-","Matron of Machinery","Zokor Tech Egg",0.1111111111111111,9
-"Zokor","Manaforge","-","-","-","-","Matron of Machinery","Zokor Tech Egg",0.2073170731707317,82
-"Zokor","Treasure Vault","-","-","-","-","Matron of Wealth","Zokor Treasury Egg",0.3611111111111111,36
+"Zokor","Manaforge","-","-","-","-","Matron of Machinery","Zokor Tech Egg",0.21686746987951808,83
+"Zokor","Treasure Vault","-","-","-","-","Matron of Wealth","Zokor Treasury Egg",0.34210526315789475,38
 "Zokor","Treasure Room","-","-","-","-","Mimic","Zokor Treasury Egg",1,1
 "Zokor","Treasure Vault","-","-","-","-","Mimic","Zokor Treasury Egg",0.3888888888888889,18
-"Zokor","Templar's Sancrum","-","-","-","-","Mind Tearer","Zokor Fealty Egg",0.32142857142857145,28
-"Zokor","Treasure Vault","-","-","-","-","Molten Midas","Zokor Treasury Egg",0.26865671641791045,134
-"Zokor","Dark Library","-","-","-","-","Mystic Guardian","Zokor Scholar Egg",0.23076923076923078,13
-"Zokor","Dark Library","-","-","-","-","Mystic Herald","Zokor Scholar Egg",0.125,16
-"Zokor","Dark Library","-","-","-","-","Mystic Scholar","Zokor Scholar Egg",0.17647058823529413,17
+"Zokor","Templar's Sancrum","-","-","-","-","Mind Tearer","Zokor Fealty Egg",0.3225806451612903,31
+"Zokor","Treasure Vault","-","-","-","-","Molten Midas","Zokor Treasury Egg",0.28368794326241137,141
+"Zokor","Dark Library","-","-","-","-","Mystic Guardian","Zokor Scholar Egg",0.2,15
+"Zokor","Dark Library","-","-","-","-","Mystic Herald","Zokor Scholar Egg",0.15,20
+"Zokor","Dark Library","-","-","-","-","Mystic Scholar","Zokor Scholar Egg",0.18181818181818182,22
 "Zokor","Templar's Sancrum","-","-","-","-","Paladin Weapon Master","Zokor Fealty Egg",0.2,5
 "Zokor","Inner Fealty Temple","-","-","-","-","Reanimated Carver","Zokor Fealty Egg",0.5,4
-"Zokor","Templar's Sancrum","-","-","-","-","Reanimated Carver","Zokor Fealty Egg",0.19230769230769232,26
+"Zokor","Templar's Sancrum","-","-","-","-","Reanimated Carver","Zokor Fealty Egg",0.2,30
 "Zokor","Neophyte Scholar Study","-","-","-","-","Reanimated Carver","Zokor Scholar Egg",1,1
-"Zokor","Dark Library","-","-","-","-","Reanimated Carver","Zokor Scholar Egg",0.2,30
+"Zokor","Dark Library","-","-","-","-","Reanimated Carver","Zokor Scholar Egg",0.18181818181818182,33
 "Zokor","Tech Research Center","-","-","-","-","Reanimated Carver","Zokor Tech Egg",0.6666666666666666,3
 "Zokor","Manaforge","-","-","-","-","Reanimated Carver","Zokor Tech Egg",0.2727272727272727,22
-"Zokor","Treasure Vault","-","-","-","-","Reanimated Carver","Zokor Treasury Egg",0.21818181818181817,55
+"Zokor","Treasure Vault","-","-","-","-","Reanimated Carver","Zokor Treasury Egg",0.234375,64
 "Zokor","Tech Research Center","-","-","-","-","RR-8","Zokor Tech Egg",1,1
 "Zokor","Manaforge","-","-","-","-","RR-8","Zokor Tech Egg",0.16666666666666666,6
+"Zokor","Master Scholar Auditorium","-","-","-","-","Shadow Stalker","Zokor Scholar Egg",1,1
 "Zokor","Dark Library","-","-","-","-","Shadow Stalker","Zokor Scholar Egg",0.3333333333333333,6
 "Zokor","Inner Fealty Temple","-","-","-","-","Sir Fleekio","Zokor Fealty Egg",0.05555555555555555,18
-"Zokor","Templar's Sancrum","-","-","-","-","Sir Fleekio","Zokor Fealty Egg",0.1746031746031746,63
-"Zokor","Templar's Sancrum","-","-","-","-","Solemn Soldier","Zokor Fealty Egg",0.2857142857142857,7
-"Zokor","Dark Library","-","-","-","-","Summoning Scholar","Zokor Scholar Egg",0.2,5
+"Zokor","Templar's Sancrum","-","-","-","-","Sir Fleekio","Zokor Fealty Egg",0.1917808219178082,73
+"Zokor","Templar's Sancrum","-","-","-","-","Solemn Soldier","Zokor Fealty Egg",0.25,8
+"Zokor","Dark Library","-","-","-","-","Summoning Scholar","Zokor Scholar Egg",0.3333333333333333,6
 "Zokor","Tech Research Center","-","-","-","-","Tech Golem","Zokor Tech Egg",0.3333333333333333,3
 "Zokor","Manaforge","-","-","-","-","Tech Golem","Zokor Tech Egg",0.35714285714285715,14
-"Zokor","Treasure Vault","-","-","-","-","Treasure Brawler","Zokor Treasury Egg",0.25,32
+"Zokor","Treasure Vault","-","-","-","-","Treasure Brawler","Zokor Treasury Egg",0.22857142857142856,35
