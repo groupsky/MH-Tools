@@ -1,238 +1,240 @@
 "Location","Phase","Trap","Base","Cheese","Charm","Mouse","Loot","Qty","Sample"
-"-","-","-","-","-","-","Chocolate Gold Foil","Eggstra Charge Charm",1,1444
-"-","-","-","-","-","-","Chocolate Overload","Eggscavator Charge Charm",0.5050700144857557,2071
-"-","-","-","-","-","-","Carefree Cook","Eggstra Charge Charm",1,1257
-"-","-","-","-","-","-","Carefree Cook","Eggscavator Charge Charm",3,1257
-"-","-","-","-","-","-","Egg Scrambler","Eggscavator Charge Charm",0.546679499518768,2078
-"-","-","-","-","-","-","Onion Chopper","Eggstra Charge Charm",1,735
-"-","-","-","-","-","-","Onion Chopper","Eggscavator Charge Charm",3,735
-"-","-","-","-","-","-","Coco Commander","Eggscavator Charge Charm",0.6739130434782609,2254
-"-","-","-","-","-","-","Eggsplosive Scientist","Eggstra Charge Charm",1.2752380952380953,2100
-"-","-","-","-","-","-","Eggsplosive Scientist","Eggscavator Charge Charm",1.5576190476190477,2100
-"-","-","-","-","-","-","Eggscavator","Eggscavator Charge Charm",3,2065
-"-","-","-","-","-","-","Eggscavator","Eggstra Charge Charm",1.3893462469733657,2065
-"-","-","-","-","-","-","Hare Razer","Eggstra Charge Charm",2,731
-"-","-","-","-","-","-","Hare Razer","Eggscavator Charge Charm",3,731
-"-","-","-","-","-","-","Pan Slammer","Eggstra Charge Charm",1,711
-"-","-","-","-","-","-","Pan Slammer","Eggscavator Charge Charm",3,711
-"Cape Clawed","-","-","-","-","-","Aged","Marshmallow Monterey",0.7906976744186046,43
-"Gnawnia Rift","-","-","-","-","-","Agitated Gentle Giant","Marshmallow Monterey",0.7653958944281525,341
-"Cape Clawed","-","-","-","-","-","Alchemist","Marshmallow Monterey",0.7741935483870968,31
-"King's Gauntlet","-","-","-","-","-","Aquos","Marshmallow Monterey",0.48743718592964824,199
-"Dojo","-","-","-","-","-","Archer","Marshmallow Monterey",0.7325581395348837,172
-"Dojo","-","-","-","-","-","Assassin","Marshmallow Monterey",0.8888888888888888,18
-"King's Gauntlet","-","-","-","-","-","Bandit","Marshmallow Monterey",0.7202797202797203,143
-"Great Gnarled Tree","-","-","-","-","-","Bat","Marshmallow Monterey",1.3333333333333333,3
-"Catacombs","-","-","-","-","-","Bat","Marshmallow Monterey",0.5573770491803278,61
-"Great Gnarled Tree","-","-","-","-","-","Bear","Marshmallow Monterey",0.42857142857142855,14
-"King's Gauntlet","-","-","-","-","-","Berserker","Marshmallow Monterey",0.5775862068965517,348
-"Town of Digby","-","-","-","-","-","Big Bad Burroughs","Marshmallow Monterey",0.6785714285714286,28
-"Town of Gnawnia","-","-","-","-","-","Bionic","Marshmallow Monterey",0.5483870967741935,124
-"Town of Digby","-","-","-","-","-","Bionic","Marshmallow Monterey",0.72,25
-"Fungal Cavern","-","-","-","-","-","Bitter Root","Marshmallow Monterey",0.6170212765957447,282
-"King's Gauntlet","-","-","-","-","-","Black Mage","Marshmallow Monterey",0.5818181818181818,110
-"Catacombs","-","-","-","-","-","Black Widow","Marshmallow Monterey",0.5,4
-"Muridae Market","-","-","-","-","-","Blacksmith","Marshmallow Monterey",0.6666666666666666,69
-"S.S. Huntington III","-","-","-","-","-","Bottled","Marshmallow Monterey",0.69140625,256
-"Gnawnia Rift","-","-","-","-","-","Brawny","Marshmallow Monterey",0.7889688249400479,417
-"S.S. Huntington III","-","-","-","-","-","Briegull","Marshmallow Monterey",0.8136792452830188,424
-"Town of Gnawnia","-","-","-","-","-","Brown","Marshmallow Monterey",0.5877437325905293,359
-"S.S. Huntington III","-","-","-","-","-","Buccaneer","Marshmallow Monterey",0.7716981132075472,530
-"S.S. Huntington III","-","-","-","-","-","Captain","Marshmallow Monterey",0.7845804988662132,441
-"Cape Clawed","-","-","-","-","-","Caretaker","Marshmallow Monterey",0.48,25
-"King's Gauntlet","-","-","-","-","-","Cavalier","Marshmallow Monterey",0.5133333333333333,150
-"Fungal Cavern","-","-","-","-","-","Cavern Crumbler","Marshmallow Monterey",0.5714285714285714,63
-"Great Gnarled Tree","-","-","-","-","-","Centaur","Marshmallow Monterey",0.5714285714285714,28
-"Great Gnarled Tree","-","-","-","-","-","Chameleon","Marshmallow Monterey",0.6111111111111112,18
-"Cape Clawed","-","-","-","-","-","Chameleon","Marshmallow Monterey",0.75,4
-"King's Gauntlet","-","-","-","-","-","Clockwork Samurai","Marshmallow Monterey",0.5582329317269076,249
-"S.S. Huntington III","-","-","-","-","-","Cook","Marshmallow Monterey",0.7291666666666666,48
-"Town of Digby","-","-","-","-","-","Core Sample","Marshmallow Monterey",0.6666666666666666,144
-"Town of Gnawnia","-","-","-","-","-","Cowardly","Marshmallow Monterey",0.6666666666666666,399
-"King's Gauntlet","-","-","-","-","-","Cowbell","Marshmallow Monterey",0.5326633165829145,199
-"Fungal Cavern","-","-","-","-","-","Crag Elder","Marshmallow Monterey",0.6464646464646465,99
-"S.S. Huntington III","-","-","-","-","-","Crown Collector","Marshmallow Monterey",0.9158878504672897,107
-"Fungal Cavern","-","-","-","-","-","Crystal Behemoth","Marshmallow Monterey",0.6363636363636364,99
-"Fungal Cavern","-","-","-","-","-","Crystal Cave Worm","Marshmallow Monterey",0.875,32
-"Fungal Cavern","-","-","-","-","-","Crystal Controller","Marshmallow Monterey",0.7183098591549296,142
-"Fungal Cavern","-","-","-","-","-","Crystal Golem","Marshmallow Monterey",0.8125,16
-"Fungal Cavern","-","-","-","-","-","Crystal Lurker","Marshmallow Monterey",0.8,90
-"Fungal Cavern","-","-","-","-","-","Crystal Observer","Marshmallow Monterey",0.6888888888888889,90
-"Fungal Cavern","-","-","-","-","-","Crystal Queen","Marshmallow Monterey",0.6739130434782609,138
-"Fungal Cavern","-","-","-","-","-","Crystalback","Marshmallow Monterey",0.75,112
-"Fungal Cavern","-","-","-","-","-","Crystalline Slasher","Marshmallow Monterey",0.5316455696202531,79
-"Great Gnarled Tree","-","-","-","-","-","Curious Chemist","Marshmallow Monterey",0.689873417721519,158
-"Gnawnia Rift","-","-","-","-","-","Cyborg","Marshmallow Monterey",0.6793478260869565,368
-"King's Gauntlet","-","-","-","-","-","Dancer","Marshmallow Monterey",0.5104166666666666,96
-"Town of Digby","-","-","-","-","-","Demolitions","Marshmallow Monterey",0.6073619631901841,163
-"Muridae Market","-","-","-","-","-","Desert Architect","Marshmallow Monterey",0.6746987951807228,83
+"-","-","-","-","-","-","Chocolate Gold Foil","Eggstra Charge Charm",1,1599
+"-","-","-","-","-","-","Chocolate Overload","Eggscavator Charge Charm",0.508870618779749,2311
+"-","-","-","-","-","-","Carefree Cook","Eggstra Charge Charm",1,1403
+"-","-","-","-","-","-","Carefree Cook","Eggscavator Charge Charm",3,1403
+"-","-","-","-","-","-","Egg Scrambler","Eggscavator Charge Charm",0.5492160278745645,2296
+"-","-","-","-","-","-","Onion Chopper","Eggstra Charge Charm",1,828
+"-","-","-","-","-","-","Onion Chopper","Eggscavator Charge Charm",3,828
+"-","-","-","-","-","-","Coco Commander","Eggscavator Charge Charm",0.6743156199677939,2484
+"-","-","-","-","-","-","Eggsplosive Scientist","Eggstra Charge Charm",1.2748189177673626,2347
+"-","-","-","-","-","-","Eggsplosive Scientist","Eggscavator Charge Charm",1.5530464422667234,2347
+"-","-","-","-","-","-","Eggscavator","Eggscavator Charge Charm",3,2287
+"-","-","-","-","-","-","Eggscavator","Eggstra Charge Charm",1.3917796239615217,2287
+"-","-","-","-","-","-","Hare Razer","Eggstra Charge Charm",2,843
+"-","-","-","-","-","-","Hare Razer","Eggscavator Charge Charm",3,843
+"-","-","-","-","-","-","Pan Slammer","Eggstra Charge Charm",1,788
+"-","-","-","-","-","-","Pan Slammer","Eggscavator Charge Charm",3,788
+"Cape Clawed","-","-","-","-","-","Aged","Marshmallow Monterey",0.7608695652173914,46
+"Gnawnia Rift","-","-","-","-","-","Agitated Gentle Giant","Marshmallow Monterey",0.7440633245382586,379
+"Cape Clawed","-","-","-","-","-","Alchemist","Marshmallow Monterey",0.8125,32
+"King's Gauntlet","-","-","-","-","-","Aquos","Marshmallow Monterey",0.5022026431718062,227
+"Dojo","-","-","-","-","-","Archer","Marshmallow Monterey",0.7272727272727273,176
+"Dojo","-","-","-","-","-","Assassin","Marshmallow Monterey",0.8947368421052632,19
+"King's Gauntlet","-","-","-","-","-","Bandit","Marshmallow Monterey",0.7169811320754716,159
+"Town of Digby","-","-","-","-","-","Bat","Marshmallow Monterey",0.3333333333333333,3
+"Great Gnarled Tree","-","-","-","-","-","Bat","Marshmallow Monterey",1,4
+"Catacombs","-","-","-","-","-","Bat","Marshmallow Monterey",0.5538461538461539,65
+"Great Gnarled Tree","-","-","-","-","-","Bear","Marshmallow Monterey",0.42105263157894735,19
+"King's Gauntlet","-","-","-","-","-","Berserker","Marshmallow Monterey",0.5844155844155844,385
+"Town of Digby","-","-","-","-","-","Big Bad Burroughs","Marshmallow Monterey",0.65625,32
+"Town of Gnawnia","-","-","-","-","-","Bionic","Marshmallow Monterey",0.5267175572519084,131
+"Town of Digby","-","-","-","-","-","Bionic","Marshmallow Monterey",0.8181818181818182,44
+"Fungal Cavern","-","-","-","-","-","Bitter Root","Marshmallow Monterey",0.6270096463022508,311
+"King's Gauntlet","-","-","-","-","-","Black Mage","Marshmallow Monterey",0.5603448275862069,116
+"Catacombs","-","-","-","-","-","Black Widow","Marshmallow Monterey",0.8,5
+"Muridae Market","-","-","-","-","-","Blacksmith","Marshmallow Monterey",0.6891891891891891,74
+"S.S. Huntington III","-","-","-","-","-","Bottled","Marshmallow Monterey",0.7086092715231788,302
+"Gnawnia Rift","-","-","-","-","-","Brawny","Marshmallow Monterey",0.7729257641921398,458
+"S.S. Huntington III","-","-","-","-","-","Briegull","Marshmallow Monterey",0.8164948453608247,485
+"Town of Gnawnia","-","-","-","-","-","Brown","Marshmallow Monterey",0.5962059620596206,369
+"S.S. Huntington III","-","-","-","-","-","Buccaneer","Marshmallow Monterey",0.765,600
+"S.S. Huntington III","-","-","-","-","-","Captain","Marshmallow Monterey",0.7904564315352697,482
+"Cape Clawed","-","-","-","-","-","Caretaker","Marshmallow Monterey",0.4827586206896552,29
+"King's Gauntlet","-","-","-","-","-","Cavalier","Marshmallow Monterey",0.5191256830601093,183
+"Fungal Cavern","-","-","-","-","-","Cavern Crumbler","Marshmallow Monterey",0.5588235294117647,68
+"Great Gnarled Tree","-","-","-","-","-","Centaur","Marshmallow Monterey",0.6206896551724138,29
+"Great Gnarled Tree","-","-","-","-","-","Chameleon","Marshmallow Monterey",0.65,20
+"Cape Clawed","-","-","-","-","-","Chameleon","Marshmallow Monterey",0.6,5
+"King's Gauntlet","-","-","-","-","-","Clockwork Samurai","Marshmallow Monterey",0.5533596837944664,253
+"S.S. Huntington III","-","-","-","-","-","Cook","Marshmallow Monterey",0.7241379310344828,58
+"Town of Digby","-","-","-","-","-","Core Sample","Marshmallow Monterey",0.6821192052980133,151
+"Town of Gnawnia","-","-","-","-","-","Cowardly","Marshmallow Monterey",0.6547619047619048,420
+"King's Gauntlet","-","-","-","-","-","Cowbell","Marshmallow Monterey",0.5263157894736842,228
+"Fungal Cavern","-","-","-","-","-","Crag Elder","Marshmallow Monterey",0.6213592233009708,103
+"S.S. Huntington III","-","-","-","-","-","Crown Collector","Marshmallow Monterey",0.9047619047619048,126
+"Fungal Cavern","-","-","-","-","-","Crystal Behemoth","Marshmallow Monterey",0.6285714285714286,105
+"Fungal Cavern","-","-","-","-","-","Crystal Cave Worm","Marshmallow Monterey",0.8333333333333334,36
+"Fungal Cavern","-","-","-","-","-","Crystal Controller","Marshmallow Monterey",0.7241379310344828,145
+"Fungal Cavern","-","-","-","-","-","Crystal Golem","Marshmallow Monterey",0.85,20
+"Fungal Cavern","-","-","-","-","-","Crystal Lurker","Marshmallow Monterey",0.8018867924528302,106
+"Fungal Cavern","-","-","-","-","-","Crystal Observer","Marshmallow Monterey",0.6761904761904762,105
+"Fungal Cavern","-","-","-","-","-","Crystal Queen","Marshmallow Monterey",0.6178343949044586,157
+"Fungal Cavern","-","-","-","-","-","Crystalback","Marshmallow Monterey",0.7711864406779662,118
+"Fungal Cavern","-","-","-","-","-","Crystalline Slasher","Marshmallow Monterey",0.5476190476190477,84
+"Great Gnarled Tree","-","-","-","-","-","Curious Chemist","Marshmallow Monterey",0.676829268292683,164
+"Gnawnia Rift","-","-","-","-","-","Cyborg","Marshmallow Monterey",0.7078384798099763,421
+"King's Gauntlet","-","-","-","-","-","Dancer","Marshmallow Monterey",0.5137614678899083,109
+"Town of Digby","-","-","-","-","-","Demolitions","Marshmallow Monterey",0.6127167630057804,173
+"Muridae Market","-","-","-","-","-","Desert Architect","Marshmallow Monterey",0.6777777777777778,90
 "Muridae Market","-","-","-","-","-","Desert Nomad","Marshmallow Monterey",0.9166666666666666,24
-"Town of Gnawnia","-","-","-","-","-","Diamond","Marshmallow Monterey",0.6276595744680851,94
-"Town of Digby","-","-","-","-","-","Diamond","Marshmallow Monterey",0.3333333333333333,6
-"Dojo","-","-","-","-","-","Diamond","Marshmallow Monterey",0.7692307692307693,104
+"Town of Gnawnia","-","-","-","-","-","Diamond","Marshmallow Monterey",0.6632653061224489,98
+"Town of Digby","-","-","-","-","-","Diamond","Marshmallow Monterey",0.5384615384615384,13
+"Dojo","-","-","-","-","-","Diamond","Marshmallow Monterey",0.75,108
 "Fungal Cavern","-","-","-","-","-","Diamondhide","Marshmallow Monterey",0.7142857142857143,7
 "Fungal Cavern","-","-","-","-","-","Dirt Thing","Marshmallow Monterey",0.5932203389830508,59
-"Gnawnia Rift","-","-","-","-","-","Dream Drifter","Marshmallow Monterey",0.7289719626168224,107
-"King's Gauntlet","-","-","-","-","-","Drummer","Marshmallow Monterey",0.6305418719211823,203
-"Town of Gnawnia","-","-","-","-","-","Dwarf","Marshmallow Monterey",0.6900584795321637,342
-"Town of Digby","-","-","-","-","-","Dwarf","Marshmallow Monterey",0.5,6
+"Gnawnia Rift","-","-","-","-","-","Dream Drifter","Marshmallow Monterey",0.7166666666666667,120
+"King's Gauntlet","-","-","-","-","-","Drummer","Marshmallow Monterey",0.5805084745762712,236
+"Town of Gnawnia","-","-","-","-","-","Dwarf","Marshmallow Monterey",0.6853932584269663,356
+"Town of Digby","-","-","-","-","-","Dwarf","Marshmallow Monterey",0.26666666666666666,15
 "Great Gnarled Tree","-","-","-","-","-","Dwarf","Marshmallow Monterey",0.8,5
-"Great Gnarled Tree","-","-","-","-","-","Eagle Owl","Marshmallow Monterey",0.6496815286624203,157
-"King's Gauntlet","-","-","-","-","-","Eclipse","Marshmallow Monterey",0.5231788079470199,453
-"Cape Clawed","-","-","-","-","-","Elder","Marshmallow Monterey",0.7647058823529411,34
-"Great Gnarled Tree","-","-","-","-","-","Elven Princess","Marshmallow Monterey",0.7752808988764045,89
-"King's Gauntlet","-","-","-","-","-","Escape Artist","Marshmallow Monterey",0.6043956043956044,91
-"Gnawnia Rift","-","-","-","-","-","Excitable Electric","Marshmallow Monterey",0.6666666666666666,312
-"Great Gnarled Tree","-","-","-","-","-","Fairy","Marshmallow Monterey",0.603448275862069,58
-"Muridae Market","-","-","-","-","-","Falling Carpet","Marshmallow Monterey",0.8461538461538461,182
-"King's Gauntlet","-","-","-","-","-","Fencer","Marshmallow Monterey",0.5822784810126582,158
-"King's Gauntlet","-","-","-","-","-","Fiddler","Marshmallow Monterey",0.47126436781609193,174
+"Great Gnarled Tree","-","-","-","-","-","Eagle Owl","Marshmallow Monterey",0.6488095238095238,168
+"King's Gauntlet","-","-","-","-","-","Eclipse","Marshmallow Monterey",0.5193965517241379,464
+"Cape Clawed","-","-","-","-","-","Elder","Marshmallow Monterey",0.7428571428571429,35
+"Great Gnarled Tree","-","-","-","-","-","Elven Princess","Marshmallow Monterey",0.7666666666666667,90
+"King's Gauntlet","-","-","-","-","-","Escape Artist","Marshmallow Monterey",0.6019417475728155,103
+"Gnawnia Rift","-","-","-","-","-","Excitable Electric","Marshmallow Monterey",0.6514285714285715,350
+"Great Gnarled Tree","-","-","-","-","-","Fairy","Marshmallow Monterey",0.5901639344262295,61
+"Muridae Market","-","-","-","-","-","Falling Carpet","Marshmallow Monterey",0.8549222797927462,193
+"King's Gauntlet","-","-","-","-","-","Fencer","Marshmallow Monterey",0.5769230769230769,182
+"King's Gauntlet","-","-","-","-","-","Fiddler","Marshmallow Monterey",0.485,200
 "King's Gauntlet","-","-","-","-","-","Fiend","Marshmallow Monterey",0.5843373493975904,166
-"Fungal Cavern","-","-","-","-","-","Floating Spore","Marshmallow Monterey",0.6467532467532467,385
-"Town of Gnawnia","-","-","-","-","-","Flying","Marshmallow Monterey",0.6771653543307087,127
-"Great Gnarled Tree","-","-","-","-","-","Foxy","Marshmallow Monterey",0.7,20
-"Great Gnarled Tree","-","-","-","-","-","Frog","Marshmallow Monterey",0.3125,16
-"Fungal Cavern","-","-","-","-","-","Funglore","Marshmallow Monterey",0.6958424507658644,457
-"Fungal Cavern","-","-","-","-","-","Gemorpher","Marshmallow Monterey",0.6057142857142858,175
-"Fungal Cavern","-","-","-","-","-","Gemstone Worshipper","Marshmallow Monterey",0.6,10
-"Catacombs","-","-","-","-","-","Ghost","Marshmallow Monterey",0.8,240
-"Catacombs","-","-","-","-","-","Giant Snail","Marshmallow Monterey",0.7130434782608696,115
-"Muridae Market","-","-","-","-","-","Glass Blower","Marshmallow Monterey",0.7382198952879581,191
+"Fungal Cavern","-","-","-","-","-","Floating Spore","Marshmallow Monterey",0.6594724220623501,417
+"Town of Gnawnia","-","-","-","-","-","Flying","Marshmallow Monterey",0.674074074074074,135
+"Great Gnarled Tree","-","-","-","-","-","Foxy","Marshmallow Monterey",0.6363636363636364,22
+"Great Gnarled Tree","-","-","-","-","-","Frog","Marshmallow Monterey",0.42105263157894735,19
+"Fungal Cavern","-","-","-","-","-","Funglore","Marshmallow Monterey",0.7297830374753451,507
+"Fungal Cavern","-","-","-","-","-","Gemorpher","Marshmallow Monterey",0.5967741935483871,186
+"Fungal Cavern","-","-","-","-","-","Gemstone Worshipper","Marshmallow Monterey",0.5833333333333334,12
+"Catacombs","-","-","-","-","-","Ghost","Marshmallow Monterey",0.7862595419847328,262
+"Catacombs","-","-","-","-","-","Giant Snail","Marshmallow Monterey",0.7398373983739838,123
+"Muridae Market","-","-","-","-","-","Glass Blower","Marshmallow Monterey",0.7767441860465116,215
 "Catacombs","-","-","-","-","-","Gluttonous Zombie","Marshmallow Monterey",0.7142857142857143,7
-"Town of Gnawnia","-","-","-","-","-","Gold","Marshmallow Monterey",0.6354166666666666,96
-"Town of Digby","-","-","-","-","-","Gold","Marshmallow Monterey",1,4
-"Dojo","-","-","-","-","-","Gold","Marshmallow Monterey",0.6623376623376623,154
-"Great Gnarled Tree","-","-","-","-","-","Goldleaf","Marshmallow Monterey",0.5555555555555556,45
-"Catacombs","-","-","-","-","-","Golem","Marshmallow Monterey",0.5660377358490566,53
-"Gnawnia Rift","-","-","-","-","-","Goliath Field","Marshmallow Monterey",0.675,120
+"Town of Gnawnia","-","-","-","-","-","Gold","Marshmallow Monterey",0.5961538461538461,104
+"Town of Digby","-","-","-","-","-","Gold","Marshmallow Monterey",0.7777777777777778,9
+"Dojo","-","-","-","-","-","Gold","Marshmallow Monterey",0.6815286624203821,157
+"Great Gnarled Tree","-","-","-","-","-","Goldleaf","Marshmallow Monterey",0.5434782608695652,46
+"Catacombs","-","-","-","-","-","Golem","Marshmallow Monterey",0.5689655172413793,58
+"Gnawnia Rift","-","-","-","-","-","Goliath Field","Marshmallow Monterey",0.6666666666666666,126
 "Cape Clawed","-","-","-","-","-","Grandfather","Marshmallow Monterey",0.8,35
-"Town of Gnawnia","-","-","-","-","-","Granite","Marshmallow Monterey",0.7604166666666666,96
-"Town of Digby","-","-","-","-","-","Granite","Marshmallow Monterey",0.5,22
-"Catacombs","-","-","-","-","-","Grave Robber","Marshmallow Monterey",0.7058823529411765,17
-"Town of Gnawnia","-","-","-","-","-","Grey","Marshmallow Monterey",0.581267217630854,363
-"Gnawnia Rift","-","-","-","-","-","Greyrun","Marshmallow Monterey",0.71671388101983,353
-"King's Gauntlet","-","-","-","-","-","Guqin Player","Marshmallow Monterey",0.6149425287356322,174
+"Town of Gnawnia","-","-","-","-","-","Granite","Marshmallow Monterey",0.74,100
+"Town of Digby","-","-","-","-","-","Granite","Marshmallow Monterey",0.3953488372093023,43
+"Catacombs","-","-","-","-","-","Grave Robber","Marshmallow Monterey",0.7222222222222222,18
+"Town of Gnawnia","-","-","-","-","-","Grey","Marshmallow Monterey",0.5778364116094987,379
+"Gnawnia Rift","-","-","-","-","-","Greyrun","Marshmallow Monterey",0.7045454545454546,396
+"King's Gauntlet","-","-","-","-","-","Guqin Player","Marshmallow Monterey",0.6388888888888888,216
 "Dojo","-","-","-","-","-","Hapless","Marshmallow Monterey",0.825,40
-"King's Gauntlet","-","-","-","-","-","Hapless Marionette","Marshmallow Monterey",0.5206611570247934,363
-"Cape Clawed","-","-","-","-","-","Healer","Marshmallow Monterey",0.6486486486486487,37
-"Fungal Cavern","-","-","-","-","-","Huntereater","Marshmallow Monterey",0.5869565217391305,46
-"S.S. Huntington III","-","-","-","-","-","Hydra","Marshmallow Monterey",0.7228915662650602,249
-"King's Gauntlet","-","-","-","-","-","Ignis","Marshmallow Monterey",0.4723926380368098,163
-"King's Gauntlet","-","-","-","-","-","Impersonator","Marshmallow Monterey",0.6363636363636364,121
-"Town of Digby","-","-","-","-","-","Industrious Digger","Marshmallow Monterey",0.6210045662100456,219
-"Town of Digby","-","-","-","-","-","Itty-Bitty Burroughs","Marshmallow Monterey",0.6810344827586207,116
-"Catacombs","-","-","-","-","-","Keeper","Marshmallow Monterey",0.6296296296296297,81
-"Catacombs","-","-","-","-","-","Keeper's Assistant","Marshmallow Monterey",0.7127659574468085,188
-"King's Gauntlet","-","-","-","-","-","Knight","Marshmallow Monterey",0.5545977011494253,348
-"Dojo","-","-","-","-","-","Kung Fu","Marshmallow Monterey",0.703125,192
-"Town of Digby","-","-","-","-","-","Lambent Crystal","Marshmallow Monterey",0.5476190476190477,84
-"S.S. Huntington III","-","-","-","-","-","Leviathan","Marshmallow Monterey",0.7638376383763837,271
-"Muridae Market","-","-","-","-","-","Limestone Miner","Marshmallow Monterey",0.8244897959183674,245
-"King's Gauntlet","-","-","-","-","-","Lockpick","Marshmallow Monterey",0.6230769230769231,130
-"Town of Gnawnia","-","-","-","-","-","Longtail","Marshmallow Monterey",0.6915887850467289,107
-"Fungal Cavern","-","-","-","-","-","Lumahead","Marshmallow Monterey",0.6235565819861432,433
-"Muridae Market","-","-","-","-","-","Lumberjack","Marshmallow Monterey",0.6923076923076923,208
-"Catacombs","-","-","-","-","-","Lycan","Marshmallow Monterey",1.1666666666666667,12
-"Muridae Market","-","-","-","-","-","Mage Weaver","Marshmallow Monterey",0.9538461538461539,65
-"Town of Gnawnia","-","-","-","-","-","Magic","Marshmallow Monterey",0.875,16
-"Muridae Market","-","-","-","-","-","Market Guard","Marshmallow Monterey",0.6375,80
-"Muridae Market","-","-","-","-","-","Market Thief","Marshmallow Monterey",0.8181818181818182,66
-"Town of Gnawnia","-","-","-","-","-","Master Burglar","Marshmallow Monterey",0.7428571428571429,35
-"S.S. Huntington III","-","-","-","-","-","Mermouse","Marshmallow Monterey",0.6833333333333333,120
-"Gnawnia Rift","-","-","-","-","-","Micro","Marshmallow Monterey",0.6210526315789474,190
-"Gnawnia Rift","-","-","-","-","-","Mighty Mole","Marshmallow Monterey",0.6274509803921569,102
-"Town of Digby","-","-","-","-","-","Miner","Marshmallow Monterey",0.6490066225165563,151
-"Dojo","-","-","-","-","-","Monk","Marshmallow Monterey",0.6538461538461539,104
+"King's Gauntlet","-","-","-","-","-","Hapless Marionette","Marshmallow Monterey",0.5230352303523035,369
+"Cape Clawed","-","-","-","-","-","Healer","Marshmallow Monterey",0.6041666666666666,48
+"Fungal Cavern","-","-","-","-","-","Huntereater","Marshmallow Monterey",0.6170212765957447,47
+"S.S. Huntington III","-","-","-","-","-","Hydra","Marshmallow Monterey",0.7259786476868327,281
+"King's Gauntlet","-","-","-","-","-","Ignis","Marshmallow Monterey",0.46774193548387094,186
+"King's Gauntlet","-","-","-","-","-","Impersonator","Marshmallow Monterey",0.6390977443609023,133
+"Town of Digby","-","-","-","-","-","Industrious Digger","Marshmallow Monterey",0.625531914893617,235
+"Town of Digby","-","-","-","-","-","Itty-Bitty Burroughs","Marshmallow Monterey",0.6859504132231405,121
+"Catacombs","-","-","-","-","-","Keeper","Marshmallow Monterey",0.6144578313253012,83
+"Catacombs","-","-","-","-","-","Keeper's Assistant","Marshmallow Monterey",0.7208121827411168,197
+"King's Gauntlet","-","-","-","-","-","Knight","Marshmallow Monterey",0.5609137055837563,394
+"Dojo","-","-","-","-","-","Kung Fu","Marshmallow Monterey",0.6984924623115578,199
+"Town of Digby","-","-","-","-","-","Lambent Crystal","Marshmallow Monterey",0.5319148936170213,94
+"S.S. Huntington III","-","-","-","-","-","Leviathan","Marshmallow Monterey",0.7649006622516556,302
+"Muridae Market","-","-","-","-","-","Limestone Miner","Marshmallow Monterey",0.8081180811808119,271
+"King's Gauntlet","-","-","-","-","-","Lockpick","Marshmallow Monterey",0.6357142857142857,140
+"Town of Gnawnia","-","-","-","-","-","Longtail","Marshmallow Monterey",0.6814159292035398,113
+"Fungal Cavern","-","-","-","-","-","Lumahead","Marshmallow Monterey",0.6471816283924844,479
+"Muridae Market","-","-","-","-","-","Lumberjack","Marshmallow Monterey",0.691304347826087,230
+"Catacombs","-","-","-","-","-","Lycan","Marshmallow Monterey",1.0769230769230769,13
+"Muridae Market","-","-","-","-","-","Mage Weaver","Marshmallow Monterey",0.9565217391304348,69
+"Town of Gnawnia","-","-","-","-","-","Magic","Marshmallow Monterey",0.8235294117647058,17
+"Muridae Market","-","-","-","-","-","Market Guard","Marshmallow Monterey",0.6585365853658537,82
+"Muridae Market","-","-","-","-","-","Market Thief","Marshmallow Monterey",0.8026315789473685,76
+"Town of Gnawnia","-","-","-","-","-","Master Burglar","Marshmallow Monterey",0.75,36
+"S.S. Huntington III","-","-","-","-","-","Mermouse","Marshmallow Monterey",0.676923076923077,130
+"Gnawnia Rift","-","-","-","-","-","Micro","Marshmallow Monterey",0.6221198156682027,217
+"Gnawnia Rift","-","-","-","-","-","Mighty Mole","Marshmallow Monterey",0.6491228070175439,114
+"Town of Digby","-","-","-","-","-","Miner","Marshmallow Monterey",0.6358024691358025,162
+"Town of Digby","-","-","-","-","-","Mole","Marshmallow Monterey",0.5,2
+"Dojo","-","-","-","-","-","Monk","Marshmallow Monterey",0.6415094339622641,106
 "Catacombs","-","-","-","-","-","Monster","Marshmallow Monterey",1,4
-"Great Gnarled Tree","-","-","-","-","-","Moosker","Marshmallow Monterey",0.6153846153846154,13
-"Fungal Cavern","-","-","-","-","-","Mouldy Mole","Marshmallow Monterey",0.7777777777777778,72
-"Catacombs","-","-","-","-","-","Mummy","Marshmallow Monterey",0.7711864406779662,118
-"Fungal Cavern","-","-","-","-","-","Mush","Marshmallow Monterey",0.6976744186046512,473
-"Fungal Cavern","-","-","-","-","-","Mushroom Sprite","Marshmallow Monterey",0.6584507042253521,284
-"Cape Clawed","-","-","-","-","-","Narrator","Marshmallow Monterey",0.5757575757575758,33
+"Great Gnarled Tree","-","-","-","-","-","Moosker","Marshmallow Monterey",0.6666666666666666,15
+"Fungal Cavern","-","-","-","-","-","Mouldy Mole","Marshmallow Monterey",0.7857142857142857,84
+"Catacombs","-","-","-","-","-","Mummy","Marshmallow Monterey",0.7936507936507936,126
+"Fungal Cavern","-","-","-","-","-","Mush","Marshmallow Monterey",0.6865384615384615,520
+"Fungal Cavern","-","-","-","-","-","Mushroom Sprite","Marshmallow Monterey",0.6964856230031949,313
+"Cape Clawed","-","-","-","-","-","Narrator","Marshmallow Monterey",0.5428571428571428,35
 "King's Gauntlet","-","-","-","-","-","Necromancer","Marshmallow Monterey",0.6041666666666666,48
-"Town of Gnawnia","-","-","-","-","-","Nibbler","Marshmallow Monterey",0.8461538461538461,26
-"S.S. Huntington III","-","-","-","-","-","Nibbler","Marshmallow Monterey",0.7692307692307693,104
-"Fungal Cavern","-","-","-","-","-","Nightshade Masquerade","Marshmallow Monterey",0.5961538461538461,156
-"Dojo","-","-","-","-","-","Ninja","Marshmallow Monterey",0.6717948717948717,195
+"Town of Gnawnia","-","-","-","-","-","Nibbler","Marshmallow Monterey",0.8148148148148148,27
+"S.S. Huntington III","-","-","-","-","-","Nibbler","Marshmallow Monterey",0.7560975609756098,123
+"Fungal Cavern","-","-","-","-","-","Nightshade Masquerade","Marshmallow Monterey",0.6363636363636364,176
+"Dojo","-","-","-","-","-","Ninja","Marshmallow Monterey",0.6650246305418719,203
 "Great Gnarled Tree","-","-","-","-","-","Nomad","Marshmallow Monterey",1,1
-"Town of Digby","-","-","-","-","-","Nugget","Marshmallow Monterey",0.42857142857142855,7
-"Catacombs","-","-","-","-","-","Ooze","Marshmallow Monterey",0.6349206349206349,189
-"King's Gauntlet","-","-","-","-","-","Page","Marshmallow Monterey",0.584,375
-"King's Gauntlet","-","-","-","-","-","Paladin","Marshmallow Monterey",0.37777777777777777,45
-"Cape Clawed","-","-","-","-","-","Pathfinder","Marshmallow Monterey",0.926829268292683,41
-"King's Gauntlet","-","-","-","-","-","Phalanx","Marshmallow Monterey",0.5521978021978022,364
-"Muridae Market","-","-","-","-","-","Pie Thief","Marshmallow Monterey",0.7755102040816326,196
-"S.S. Huntington III","-","-","-","-","-","Pinchy","Marshmallow Monterey",0.7057057057057057,333
-"Cape Clawed","-","-","-","-","-","Pinchy","Marshmallow Monterey",0.4,5
-"S.S. Huntington III","-","-","-","-","-","Pirate","Marshmallow Monterey",0.7215189873417721,474
-"Town of Gnawnia","-","-","-","-","-","Pugilist","Marshmallow Monterey",0.5157894736842106,190
-"King's Gauntlet","-","-","-","-","-","Puppet Master","Marshmallow Monterey",0.7254901960784313,51
-"Fungal Cavern","-","-","-","-","-","Quillback","Marshmallow Monterey",0.6781002638522428,379
+"Town of Digby","-","-","-","-","-","Nugget","Marshmallow Monterey",0.625,8
+"Catacombs","-","-","-","-","-","Ooze","Marshmallow Monterey",0.6183574879227053,207
+"King's Gauntlet","-","-","-","-","-","Page","Marshmallow Monterey",0.6047619047619047,420
+"King's Gauntlet","-","-","-","-","-","Paladin","Marshmallow Monterey",0.3695652173913043,46
+"Cape Clawed","-","-","-","-","-","Pathfinder","Marshmallow Monterey",0.9090909090909091,44
+"King's Gauntlet","-","-","-","-","-","Phalanx","Marshmallow Monterey",0.542654028436019,422
+"Muridae Market","-","-","-","-","-","Pie Thief","Marshmallow Monterey",0.75,220
+"S.S. Huntington III","-","-","-","-","-","Pinchy","Marshmallow Monterey",0.7261306532663316,398
+"Cape Clawed","-","-","-","-","-","Pinchy","Marshmallow Monterey",0.3333333333333333,6
+"S.S. Huntington III","-","-","-","-","-","Pirate","Marshmallow Monterey",0.730188679245283,530
+"Town of Gnawnia","-","-","-","-","-","Pugilist","Marshmallow Monterey",0.5217391304347826,207
+"King's Gauntlet","-","-","-","-","-","Puppet Master","Marshmallow Monterey",0.6851851851851852,54
+"Fungal Cavern","-","-","-","-","-","Quillback","Marshmallow Monterey",0.6763285024154589,414
 "Catacombs","-","-","-","-","-","Ravenous Zombie","Marshmallow Monterey",0.7142857142857143,7
-"Gnawnia Rift","-","-","-","-","-","Raw Diamond","Marshmallow Monterey",0.6991869918699187,123
-"Gnawnia Rift","-","-","-","-","-","Rift Guardian","Marshmallow Monterey",0.7276595744680852,235
-"Gnawnia Rift","-","-","-","-","-","Riftweaver","Marshmallow Monterey",0.7307692307692307,390
-"Town of Digby","-","-","-","-","-","Rock Muncher","Marshmallow Monterey",0.616,125
+"Gnawnia Rift","-","-","-","-","-","Raw Diamond","Marshmallow Monterey",0.7278911564625851,147
+"Gnawnia Rift","-","-","-","-","-","Rift Guardian","Marshmallow Monterey",0.7535211267605634,284
+"Gnawnia Rift","-","-","-","-","-","Riftweaver","Marshmallow Monterey",0.726027397260274,438
+"Town of Digby","-","-","-","-","-","Rock Muncher","Marshmallow Monterey",0.6014492753623188,138
 "King's Gauntlet","-","-","-","-","-","Rogue","Marshmallow Monterey",0.6666666666666666,33
 "King's Gauntlet","-","-","-","-","-","Sacred Shrine","Marshmallow Monterey",0.5348837209302325,86
-"S.S. Huntington III","-","-","-","-","-","Salt Water Snapper","Marshmallow Monterey",0.8410757946210269,409
-"Dojo","-","-","-","-","-","Samurai","Marshmallow Monterey",0.7797619047619048,168
-"Catacombs","-","-","-","-","-","Scavenger","Marshmallow Monterey",0.7611940298507462,201
-"Cape Clawed","-","-","-","-","-","Scout","Marshmallow Monterey",0.5769230769230769,26
-"Great Gnarled Tree","-","-","-","-","-","Shaman","Marshmallow Monterey",0.7931034482758621,58
-"Gnawnia Rift","-","-","-","-","-","Shard Centurion","Marshmallow Monterey",0.7877237851662404,391
+"S.S. Huntington III","-","-","-","-","-","Salt Water Snapper","Marshmallow Monterey",0.8273684210526315,475
+"Dojo","-","-","-","-","-","Samurai","Marshmallow Monterey",0.7865168539325843,178
+"Catacombs","-","-","-","-","-","Scavenger","Marshmallow Monterey",0.7663551401869159,214
+"Cape Clawed","-","-","-","-","-","Scout","Marshmallow Monterey",0.5172413793103449,29
+"Great Gnarled Tree","-","-","-","-","-","Shaman","Marshmallow Monterey",0.7666666666666667,60
+"Gnawnia Rift","-","-","-","-","-","Shard Centurion","Marshmallow Monterey",0.7941834451901566,447
 "Fungal Cavern","-","-","-","-","-","Shattered Obsidian","Marshmallow Monterey",0.782608695652174,23
 "S.S. Huntington III","-","-","-","-","-","Shelder","Marshmallow Monterey",0.6818181818181818,22
-"S.S. Huntington III","-","-","-","-","-","Shipwrecked","Marshmallow Monterey",0.7480916030534351,393
-"Cape Clawed","-","-","-","-","-","Shipwrecked","Marshmallow Monterey",1,4
+"S.S. Huntington III","-","-","-","-","-","Shipwrecked","Marshmallow Monterey",0.7527839643652561,449
+"Cape Clawed","-","-","-","-","-","Shipwrecked","Marshmallow Monterey",0.6666666666666666,6
 "Town of Gnawnia","-","-","-","-","-","Silvertail","Marshmallow Monterey",0.7692307692307693,13
-"S.S. Huntington III","-","-","-","-","-","Siren","Marshmallow Monterey",0.7828947368421053,304
-"Catacombs","-","-","-","-","-","Skeleton","Marshmallow Monterey",0.7376543209876543,324
-"Muridae Market","-","-","-","-","-","Snake Charmer","Marshmallow Monterey",0.860655737704918,122
-"King's Gauntlet","-","-","-","-","-","Sock Puppet Ghost","Marshmallow Monterey",0.609375,256
-"Town of Gnawnia","-","-","-","-","-","Speedy","Marshmallow Monterey",0.59375,96
-"Muridae Market","-","-","-","-","-","Spice Merchant","Marshmallow Monterey",0.8928571428571429,168
-"Catacombs","-","-","-","-","-","Spider","Marshmallow Monterey",0.625,160
-"Fungal Cavern","-","-","-","-","-","Spiked Burrower","Marshmallow Monterey",0.7310924369747899,238
-"Gnawnia Rift","-","-","-","-","-","Spiritual Steel","Marshmallow Monterey",0.6732673267326733,404
+"S.S. Huntington III","-","-","-","-","-","Siren","Marshmallow Monterey",0.7640449438202247,356
+"Catacombs","-","-","-","-","-","Skeleton","Marshmallow Monterey",0.72,350
+"Muridae Market","-","-","-","-","-","Snake Charmer","Marshmallow Monterey",0.8444444444444444,135
+"King's Gauntlet","-","-","-","-","-","Sock Puppet Ghost","Marshmallow Monterey",0.6067415730337079,267
+"Town of Gnawnia","-","-","-","-","-","Speedy","Marshmallow Monterey",0.625,104
+"Muridae Market","-","-","-","-","-","Spice Merchant","Marshmallow Monterey",0.8775510204081632,196
+"Catacombs","-","-","-","-","-","Spider","Marshmallow Monterey",0.6379310344827587,174
+"Fungal Cavern","-","-","-","-","-","Spiked Burrower","Marshmallow Monterey",0.7262357414448669,263
+"Gnawnia Rift","-","-","-","-","-","Spiritual Steel","Marshmallow Monterey",0.6973684210526315,456
 "Fungal Cavern","-","-","-","-","-","Splintered Stone Sentry","Marshmallow Monterey",0.21428571428571427,14
-"Fungal Cavern","-","-","-","-","-","Spore Muncher","Marshmallow Monterey",0.9387755102040817,49
-"Fungal Cavern","-","-","-","-","-","Sporeticus","Marshmallow Monterey",0.6060606060606061,66
-"S.S. Huntington III","-","-","-","-","-","Squeaken","Marshmallow Monterey",0.8240740740740741,216
-"Fungal Cavern","-","-","-","-","-","Stalagmite","Marshmallow Monterey",0.7241379310344828,58
-"King's Gauntlet","-","-","-","-","-","Stealth","Marshmallow Monterey",0.5614035087719298,114
-"Town of Gnawnia","-","-","-","-","-","Steel","Marshmallow Monterey",0.6355140186915887,107
-"Town of Digby","-","-","-","-","-","Steel","Marshmallow Monterey",0.7777777777777778,18
-"Town of Digby","-","-","-","-","-","Stone Cutter","Marshmallow Monterey",0.6882352941176471,170
-"Fungal Cavern","-","-","-","-","-","Stone Maiden","Marshmallow Monterey",0.6195652173913043,92
-"Dojo","-","-","-","-","-","Student of the Cheese Belt","Marshmallow Monterey",0.7103825136612022,183
-"Dojo","-","-","-","-","-","Student of the Cheese Claw","Marshmallow Monterey",0.7224669603524229,227
-"Dojo","-","-","-","-","-","Student of the Cheese Fang","Marshmallow Monterey",0.7545454545454545,220
-"Town of Digby","-","-","-","-","-","Subterranean","Marshmallow Monterey",0.7547169811320755,53
-"Gnawnia Rift","-","-","-","-","-","Supernatural","Marshmallow Monterey",0.676923076923077,325
-"S.S. Huntington III","-","-","-","-","-","Swabbie","Marshmallow Monterey",0.7906976744186046,43
-"Great Gnarled Tree","-","-","-","-","-","Sylvan","Marshmallow Monterey",0.6111111111111112,18
+"Fungal Cavern","-","-","-","-","-","Spore Muncher","Marshmallow Monterey",0.9166666666666666,60
+"Fungal Cavern","-","-","-","-","-","Sporeticus","Marshmallow Monterey",0.6052631578947368,76
+"S.S. Huntington III","-","-","-","-","-","Squeaken","Marshmallow Monterey",0.8271604938271605,243
+"Fungal Cavern","-","-","-","-","-","Stalagmite","Marshmallow Monterey",0.7384615384615385,65
+"King's Gauntlet","-","-","-","-","-","Stealth","Marshmallow Monterey",0.5671641791044776,134
+"Town of Gnawnia","-","-","-","-","-","Steel","Marshmallow Monterey",0.6396396396396397,111
+"Town of Digby","-","-","-","-","-","Steel","Marshmallow Monterey",0.4857142857142857,35
+"Town of Digby","-","-","-","-","-","Stone Cutter","Marshmallow Monterey",0.7010309278350515,194
+"Fungal Cavern","-","-","-","-","-","Stone Maiden","Marshmallow Monterey",0.6185567010309279,97
+"Dojo","-","-","-","-","-","Student of the Cheese Belt","Marshmallow Monterey",0.7127659574468085,188
+"Dojo","-","-","-","-","-","Student of the Cheese Claw","Marshmallow Monterey",0.728448275862069,232
+"Dojo","-","-","-","-","-","Student of the Cheese Fang","Marshmallow Monterey",0.7644444444444445,225
+"Town of Digby","-","-","-","-","-","Subterranean","Marshmallow Monterey",0.7413793103448276,58
+"Gnawnia Rift","-","-","-","-","-","Supernatural","Marshmallow Monterey",0.680327868852459,366
+"S.S. Huntington III","-","-","-","-","-","Swabbie","Marshmallow Monterey",0.7708333333333334,48
+"Great Gnarled Tree","-","-","-","-","-","Sylvan","Marshmallow Monterey",0.7272727272727273,22
 "Cape Clawed","-","-","-","-","-","Sylvan","Marshmallow Monterey",0.7777777777777778,9
-"Cape Clawed","-","-","-","-","-","Taleweaver","Marshmallow Monterey",0.6666666666666666,33
-"King's Gauntlet","-","-","-","-","-","Terra","Marshmallow Monterey",0.4774774774774775,222
-"Catacombs","-","-","-","-","-","Terror Knight","Marshmallow Monterey",0.71875,96
+"Cape Clawed","-","-","-","-","-","Taleweaver","Marshmallow Monterey",0.7142857142857143,42
+"King's Gauntlet","-","-","-","-","-","Terra","Marshmallow Monterey",0.48132780082987553,241
+"Catacombs","-","-","-","-","-","Terror Knight","Marshmallow Monterey",0.6990291262135923,103
 "Great Gnarled Tree","-","-","-","-","-","Tiger","Marshmallow Monterey",2,1
-"King's Gauntlet","-","-","-","-","-","Toy Sylvan","Marshmallow Monterey",0.6086956521739131,414
-"Cape Clawed","-","-","-","-","-","Trailblazer","Marshmallow Monterey",0.48717948717948717,39
-"Great Gnarled Tree","-","-","-","-","-","Treant","Marshmallow Monterey",0.660377358490566,53
-"Catacombs","-","-","-","-","-","Vampire","Marshmallow Monterey",0.8108108108108109,74
-"S.S. Huntington III","-","-","-","-","-","Water Nymph","Marshmallow Monterey",0.8140350877192982,285
-"Gnawnia Rift","-","-","-","-","-","Wealth","Marshmallow Monterey",0.7927927927927928,111
-"Town of Gnawnia","-","-","-","-","-","White","Marshmallow Monterey",0.7037037037037037,432
-"King's Gauntlet","-","-","-","-","-","White Mage","Marshmallow Monterey",0.5192307692307693,104
-"Great Gnarled Tree","-","-","-","-","-","Wicked Witch of Whisker Woods","Marshmallow Monterey",0.75,12
+"King's Gauntlet","-","-","-","-","-","Toy Sylvan","Marshmallow Monterey",0.5986078886310905,431
+"Cape Clawed","-","-","-","-","-","Trailblazer","Marshmallow Monterey",0.5116279069767442,43
+"Great Gnarled Tree","-","-","-","-","-","Treant","Marshmallow Monterey",0.6727272727272727,55
+"Catacombs","-","-","-","-","-","Vampire","Marshmallow Monterey",0.7974683544303798,79
+"S.S. Huntington III","-","-","-","-","-","Water Nymph","Marshmallow Monterey",0.7933130699088146,329
+"Gnawnia Rift","-","-","-","-","-","Wealth","Marshmallow Monterey",0.8320610687022901,131
+"Town of Gnawnia","-","-","-","-","-","White","Marshmallow Monterey",0.6948775055679287,449
+"King's Gauntlet","-","-","-","-","-","White Mage","Marshmallow Monterey",0.5142857142857142,105
+"Great Gnarled Tree","-","-","-","-","-","Wicked Witch of Whisker Woods","Marshmallow Monterey",0.6,15
 "Great Gnarled Tree","-","-","-","-","-","Wiggler","Marshmallow Monterey",0.8333333333333334,18
-"Cape Clawed","-","-","-","-","-","Wordsmith","Marshmallow Monterey",0.4864864864864865,37
-"Dojo","-","-","-","-","-","Worker","Marshmallow Monterey",0.6756756756756757,37
-"King's Gauntlet","-","-","-","-","-","Wound Up White","Marshmallow Monterey",0.6324582338902148,419
-"King's Gauntlet","-","-","-","-","-","Zephyr","Marshmallow Monterey",0.6379310344827587,174
-"Town of Gnawnia","-","-","-","-","-","Zombie","Marshmallow Monterey",0.6595744680851063,47
-"Town of Digby","-","-","-","-","-","Zombie","Marshmallow Monterey",0.6666666666666666,3
-"Catacombs","-","-","-","-","-","Zombie","Marshmallow Monterey",0.5909090909090909,66
-"Catacombs","-","-","-","-","-","Zombot Unipire","Marshmallow Monterey",0.5,16
+"Cape Clawed","-","-","-","-","-","Wordsmith","Marshmallow Monterey",0.4772727272727273,44
+"Dojo","-","-","-","-","-","Worker","Marshmallow Monterey",0.6923076923076923,39
+"King's Gauntlet","-","-","-","-","-","Wound Up White","Marshmallow Monterey",0.6456876456876457,429
+"King's Gauntlet","-","-","-","-","-","Zephyr","Marshmallow Monterey",0.6565656565656566,198
+"Town of Gnawnia","-","-","-","-","-","Zombie","Marshmallow Monterey",0.64,50
+"Town of Digby","-","-","-","-","-","Zombie","Marshmallow Monterey",0.6666666666666666,9
+"Catacombs","-","-","-","-","-","Zombie","Marshmallow Monterey",0.5797101449275363,69
+"Catacombs","-","-","-","-","-","Zombot Unipire","Marshmallow Monterey",0.5,18
