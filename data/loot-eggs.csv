@@ -348,8 +348,8 @@
 "-","-","-","-","-","-","Cyclops Barbarian","Lucky Egg",0.020833333333333332,96
 "-","-","-","-","-","-","Doktor","Enlarged Rift Egg",0.11363636363636363,44
 "-","-","-","-","-","-","Doktor","Rift Mist Egg",0.06818181818181818,44
-"-","-","-","-","-","-","Evil Scientist","Rift Mist Egg",0.05128205128205128,39
 "-","-","-","-","-","-","Evil Scientist","Enlarged Rift Egg",0.05128205128205128,39
+"-","-","-","-","-","-","Evil Scientist","Rift Mist Egg",0.05128205128205128,39
 "-","-","-","-","-","-","Fungal Frog","Enlarged Rift Egg",0.06467661691542288,201
 "-","-","-","-","-","-","Itty Bitty Rifty Burroughs","Rift Mist Egg",0.2037037037037037,54
 "-","-","-","-","-","-","Itty Bitty Rifty Burroughs","Enlarged Rift Egg",0.09259259259259259,54
@@ -470,24 +470,45 @@
 "-","-","-","-","-","-","The Menace","Toxic Spill Egg",0.12574850299401197,167
 "-","-","-","-","-","-","Toxic Warrior","Toxic Spill Egg",0.1524390243902439,164
 "-","-","-","-","-","-","Toxic Warrior","Lucky Egg",0.006097560975609756,164
-"Moussu Picchu","-","-","-","-","-","Charming Chimer","Rain Egg",0.012048192771084338,166
-"Moussu Picchu","-","-","-","-","-","Cycloness","Wind Egg",0.008900190718372537,1573
-"Moussu Picchu","-","-","-","-","-","Fluttering Flutist","Wind Egg",0.013961605584642234,573
-"Moussu Picchu","-","-","-","-","-","Fluttering Flutist","Rain Egg",0.012216404886561954,573
-"Moussu Picchu","-","-","-","-","-","Windy Farmer","Wind Egg",0.008802816901408451,568
-"Moussu Picchu","-","-","-","-","-","Ful'Mina, The Mountain Queen","Rain Egg",0.02044172932330827,4256
-"Moussu Picchu","-","-","-","-","-","Ful'Mina, The Mountain Queen","Wind Egg",0.01832706766917293,4256
-"Moussu Picchu","-","-","-","-","-","Homeopathic Apothecary","Rain Egg",0.008333333333333333,120
-"Moussu Picchu","-","-","-","-","-","Nightshade Maiden","Rain Egg",0.07692307692307693,13
-"Moussu Picchu","-","-","-","-","-","Dragoon","Wind Egg",0.06060606060606061,33
-"Moussu Picchu","-","-","-","-","-","Rainmancer","Wind Egg",0.007,1000
-"Moussu Picchu","-","-","-","-","-","Thundering Watcher","Rain Egg",0.03783231083844581,978
-"Moussu Picchu","-","-","-","-","-","Thundering Watcher","Wind Egg",0.032719836400818,978
-"Moussu Picchu","-","-","-","-","-","Thunderlord","Rain Egg",0.02666666666666667,450
-"Moussu Picchu","-","-","-","-","-","Thunderlord","Wind Egg",0.015555555555555555,450
-"Moussu Picchu","-","-","-","-","-","Violet Stormchild","Wind Egg",0.0136986301369863,73
-"Moussu Picchu","-","-","-","-","-","Wind Warrior","Wind Egg",0.011333914559721011,1147
-"Moussu Picchu","-","-","-","-","-","Wind Watcher","Rain Egg",0.02768166089965398,289
+"Moussu Picchu","-","-","-","-","-","Breeze Borrower","Windy Egg",0.012411347517730497,564
+"Moussu Picchu","-","-","-","-","-","Breeze Borrower","Rainy Egg",0.010638297872340425,564
+"Moussu Picchu","-","-","-","-","-","Charming Chimer","Rainy Egg",0.13855421686746988,166
+"Moussu Picchu","-","-","-","-","-","Cloud Collector","Rainy Egg",0.05054151624548736,554
+"Moussu Picchu","-","-","-","-","-","Cloud Collector","Windy Egg",0.048736462093862815,554
+"Moussu Picchu","-","-","-","-","-","Cycloness","Windy Egg",0.25429116338207247,1573
+"Moussu Picchu","-","-","-","-","-","Cycloness","Rainy Egg",0.03178639542275906,1573
+"Moussu Picchu","-","-","-","-","-","Fluttering Flutist","Windy Egg",0.2547993019197208,573
+"Moussu Picchu","-","-","-","-","-","Fluttering Flutist","Rainy Egg",0.05759162303664921,573
+"Moussu Picchu","-","-","-","-","-","Windy Farmer","Windy Egg",0.051056338028169015,568
+"Moussu Picchu","-","-","-","-","-","Windy Farmer","Rainy Egg",0.04929577464788732,568
+"Moussu Picchu","-","-","-","-","-","Ful'Mina, The Mountain Queen","Windy Egg",0.24694548872180452,4256
+"Moussu Picchu","-","-","-","-","-","Ful'Mina, The Mountain Queen","Rainy Egg",0.23966165413533835,4256
+"Moussu Picchu","-","-","-","-","-","Homeopathic Apothecary","Windy Egg",0.016666666666666666,120
+"Moussu Picchu","-","-","-","-","-","Monsoon Maker","Rainy Egg",0.25143325143325146,1221
+"Moussu Picchu","-","-","-","-","-","Monsoon Maker","Windy Egg",0.04095004095004095,1221
+"Moussu Picchu","-","-","-","-","-","Rain Summoner","Rainy Egg",0.2641509433962264,424
+"Moussu Picchu","-","-","-","-","-","Rain Summoner","Windy Egg",0.10849056603773585,424
+"Moussu Picchu","-","-","-","-","-","Rain Collector","Windy Egg",0.21379310344827587,145
+"Moussu Picchu","-","-","-","-","-","Nightshade Flower Girl","Rainy Egg",0.005050505050505051,198
+"Moussu Picchu","-","-","-","-","-","Nightshade Maiden","Rainy Egg",0.07692307692307693,13
+"Moussu Picchu","-","-","-","-","-","Dragoon","Rainy Egg",0.2727272727272727,33
+"Moussu Picchu","-","-","-","-","-","Dragoon","Windy Egg",0.2727272727272727,33
+"Moussu Picchu","-","-","-","-","-","Rain Wallower","Windy Egg",0.2019704433497537,203
+"Moussu Picchu","-","-","-","-","-","Rainmancer","Rainy Egg",0.248,1000
+"Moussu Picchu","-","-","-","-","-","Rainmancer","Windy Egg",0.038,1000
+"Moussu Picchu","-","-","-","-","-","Rainwater Purifier","Rainy Egg",0.03677758318739054,571
+"Moussu Picchu","-","-","-","-","-","Rainwater Purifier","Windy Egg",0.021015761821366025,571
+"Moussu Picchu","-","-","-","-","-","Thunder Strike","Windy Egg",0.0967741935483871,93
+"Moussu Picchu","-","-","-","-","-","Thunder Strike","Rainy Egg",0.021505376344086023,93
+"Moussu Picchu","-","-","-","-","-","Thundering Watcher","Windy Egg",0.2229038854805726,978
+"Moussu Picchu","-","-","-","-","-","Thundering Watcher","Rainy Egg",0.21881390593047034,978
+"Moussu Picchu","-","-","-","-","-","Thunderlord","Rainy Egg",0.21555555555555556,450
+"Moussu Picchu","-","-","-","-","-","Thunderlord","Windy Egg",0.21333333333333335,450
+"Moussu Picchu","-","-","-","-","-","Violet Stormchild","Rainy Egg",0.1095890410958904,73
+"Moussu Picchu","-","-","-","-","-","Violet Stormchild","Windy Egg",0.0136986301369863,73
+"Moussu Picchu","-","-","-","-","-","Wind Warrior","Windy Egg",0.23801220575414123,1147
+"Moussu Picchu","-","-","-","-","-","Wind Warrior","Rainy Egg",0.02789886660854403,1147
+"Moussu Picchu","-","-","-","-","-","Wind Watcher","Rainy Egg",0.10380622837370242,289
 "Fungal Cavern","-","-","-","-","-","Bitter Root","Fungal Egg",0.37790697674418605,344
 "Fungal Cavern","-","-","-","-","-","Crystal Behemoth","Cave Diamond Egg",1,120
 "Fungal Cavern","-","-","-","-","-","Crystal Golem","Cave Gemstone Egg",0.6956521739130435,23

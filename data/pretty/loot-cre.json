@@ -9033,7 +9033,10 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Windy Potion": 0.5
+                                "Windy Potion": 0.5,
+                                "Windy Egg": 0.012411347517730497,
+                                "SampleSize": 564,
+                                "Rainy Egg": 0.010638297872340425
                             }
                         }
                     }
@@ -9045,7 +9048,10 @@
                         "-": {
                             "-": {
                                 "Rainy Potion": 1,
-                                "Fire Bowl Fuel": 0.25
+                                "Fire Bowl Fuel": 0.25,
+                                "Rainy Egg": 0.05054151624548736,
+                                "SampleSize": 554,
+                                "Windy Egg": 0.048736462093862815
                             }
                         }
                     }
@@ -9059,7 +9065,7 @@
                                 "Windy Potion": 1.5,
                                 "Rainy Potion": 1.5,
                                 "Fire Bowl Fuel": 2,
-                                "Rain Egg": 0.008333333333333333,
+                                "Windy Egg": 0.016666666666666666,
                                 "SampleSize": 120
                             }
                         }
@@ -9071,7 +9077,9 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Nightshade": 1
+                                "Nightshade": 1,
+                                "Rainy Egg": 0.005050505050505051,
+                                "SampleSize": 198
                             }
                         }
                     }
@@ -9084,7 +9092,7 @@
                             "-": {
                                 "Nightshade": 1.5,
                                 "Cavern Fungus": 8,
-                                "Rain Egg": 0.07692307692307693,
+                                "Rainy Egg": 0.07692307692307693,
                                 "SampleSize": 13
                             }
                         }
@@ -9096,7 +9104,10 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Rainy Potion": 0.5
+                                "Rainy Potion": 0.5,
+                                "Rainy Egg": 0.03677758318739054,
+                                "SampleSize": 571,
+                                "Windy Egg": 0.021015761821366025
                             }
                         }
                     }
@@ -9120,8 +9131,9 @@
                             "-": {
                                 "Windy Potion": 1,
                                 "Fire Bowl Fuel": 0.25,
-                                "Wind Egg": 0.008802816901408451,
-                                "SampleSize": 568
+                                "Windy Egg": 0.051056338028169015,
+                                "SampleSize": 568,
+                                "Rainy Egg": 0.04929577464788732
                             }
                         }
                     }
@@ -9132,7 +9144,9 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Shadowvine": 0.4545454545
+                                "Shadowvine": 0.4545454545,
+                                "Windy Egg": 0.21379310344827587,
+                                "SampleSize": 145
                             }
                         }
                     }
@@ -9143,7 +9157,9 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Shadowvine": 0.0769230769
+                                "Shadowvine": 0.0769230769,
+                                "Windy Egg": 0.2019704433497537,
+                                "SampleSize": 203
                             }
                         }
                     }
@@ -9154,7 +9170,10 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Shadowvine": 0.83
+                                "Shadowvine": 0.83,
+                                "Rainy Egg": 0.2641509433962264,
+                                "SampleSize": 424,
+                                "Windy Egg": 0.10849056603773585
                             }
                         }
                     }
@@ -9165,7 +9184,10 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Shadowvine": 2
+                                "Shadowvine": 2,
+                                "Rainy Egg": 0.25143325143325146,
+                                "SampleSize": 1221,
+                                "Windy Egg": 0.04095004095004095
                             }
                         }
                     }
@@ -9179,8 +9201,9 @@
                                 "Shadowvine": 3.5,
                                 "Fire Bowl Fuel": 0.3,
                                 "Dragonbane Charm": 0.07,
-                                "Wind Egg": 0.007,
-                                "SampleSize": 1000
+                                "Rainy Egg": 0.248,
+                                "SampleSize": 1000,
+                                "Windy Egg": 0.038
                             }
                         }
                     }
@@ -9192,7 +9215,7 @@
                         "-": {
                             "-": {
                                 "Arcanevine": 0.45,
-                                "Rain Egg": 0.012048192771084338,
+                                "Rainy Egg": 0.13855421686746988,
                                 "SampleSize": 166
                             }
                         }
@@ -9205,7 +9228,7 @@
                         "-": {
                             "-": {
                                 "Arcanevine": 0.08,
-                                "Rain Egg": 0.02768166089965398,
+                                "Rainy Egg": 0.10380622837370242,
                                 "SampleSize": 289
                             }
                         }
@@ -9218,9 +9241,9 @@
                         "-": {
                             "-": {
                                 "Arcanevine": 0.83,
-                                "Wind Egg": 0.013961605584642234,
+                                "Windy Egg": 0.2547993019197208,
                                 "SampleSize": 573,
-                                "Rain Egg": 0.012216404886561954
+                                "Rainy Egg": 0.05759162303664921
                             }
                         }
                     }
@@ -9232,8 +9255,9 @@
                         "-": {
                             "-": {
                                 "Arcanevine": 2,
-                                "Wind Egg": 0.008900190718372537,
-                                "SampleSize": 1573
+                                "Windy Egg": 0.25429116338207247,
+                                "SampleSize": 1573,
+                                "Rainy Egg": 0.03178639542275906
                             }
                         }
                     }
@@ -9247,8 +9271,9 @@
                                 "Arcanevine": 3.5,
                                 "Fire Bowl Fuel": 0.3,
                                 "Dragonbane Charm": 0.07,
-                                "Wind Egg": 0.011333914559721011,
-                                "SampleSize": 1147
+                                "Windy Egg": 0.23801220575414123,
+                                "SampleSize": 1147,
+                                "Rainy Egg": 0.02789886660854403
                             }
                         }
                     }
@@ -9260,7 +9285,10 @@
                         "-": {
                             "-": {
                                 "Dragonscales": 0.18,
-                                "Minerals": 0.25
+                                "Minerals": 0.25,
+                                "Windy Egg": 0.0967741935483871,
+                                "SampleSize": 93,
+                                "Rainy Egg": 0.021505376344086023
                             }
                         }
                     }
@@ -9273,8 +9301,9 @@
                             "-": {
                                 "Dragonscales": 0.22,
                                 "Minerals": 0.2,
-                                "Wind Egg": 0.0136986301369863,
-                                "SampleSize": 73
+                                "Rainy Egg": 0.1095890410958904,
+                                "SampleSize": 73,
+                                "Windy Egg": 0.0136986301369863
                             }
                         }
                     }
@@ -9287,9 +9316,9 @@
                             "-": {
                                 "Dragonscales": 0.375,
                                 "Minerals": 0.4,
-                                "Rain Egg": 0.02666666666666667,
+                                "Rainy Egg": 0.21555555555555556,
                                 "SampleSize": 450,
-                                "Wind Egg": 0.015555555555555555
+                                "Windy Egg": 0.21333333333333335
                             }
                         }
                     }
@@ -9302,9 +9331,9 @@
                             "-": {
                                 "Dragonscales": 0.53,
                                 "Minerals": 0.39,
-                                "Rain Egg": 0.03783231083844581,
+                                "Windy Egg": 0.2229038854805726,
                                 "SampleSize": 978,
-                                "Wind Egg": 0.032719836400818
+                                "Rainy Egg": 0.21881390593047034
                             }
                         }
                     }
@@ -9317,8 +9346,9 @@
                             "-": {
                                 "Dragonscales": 2.62,
                                 "Minerals": 3.43,
-                                "Wind Egg": 0.06060606060606061,
-                                "SampleSize": 33
+                                "Rainy Egg": 0.2727272727272727,
+                                "SampleSize": 33,
+                                "Windy Egg": 0.2727272727272727
                             }
                         }
                     }
@@ -9348,9 +9378,9 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Rain Egg": 0.02044172932330827,
+                                "Windy Egg": 0.24694548872180452,
                                 "SampleSize": 4256,
-                                "Wind Egg": 0.01832706766917293
+                                "Rainy Egg": 0.23966165413533835
                             }
                         }
                     }
@@ -16331,9 +16361,9 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Rift Mist Egg": 0.05128205128205128,
+                                "Enlarged Rift Egg": 0.05128205128205128,
                                 "SampleSize": 39,
-                                "Enlarged Rift Egg": 0.05128205128205128
+                                "Rift Mist Egg": 0.05128205128205128
                             }
                         }
                     }
