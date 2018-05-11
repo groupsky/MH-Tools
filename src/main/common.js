@@ -203,14 +203,13 @@ function calculateTrapSetup(skipDisp) {
   var specialPower = 0,
     specialLuck = 0,
     specialBonus = 0,
-    braceBonus = 0;
+    braceBonus = false;
 
   if (locationName && cheeseName && weaponName && baseName && phaseName) {
     locationSpecificEffects();
 
     if (trapType === "Physical" && baseName === "Physical Brace Base") {
-      //noinspection ReuseOfLocalVariableJS
-      braceBonus = 25;
+      braceBonus = true;
     } else if (
       (baseName === "Polluted Base" ||
         baseName === "Refined Pollutinum Base") &&
@@ -404,11 +403,17 @@ function calculateTrapSetup(skipDisp) {
   function getTotalTrapPower() {
     var totalPower = weaponPower + basePower + charmPower + specialPower;
     var setupPowerBonus = weaponBonus + baseBonus + charmBonus;
-    var totalBonus =
-      1 + (setupPowerBonus + specialBonus + cheeseBonus + braceBonus) / 100;
+    var totalBonus = 1 + (setupPowerBonus + specialBonus + cheeseBonus) / 100;
     var totalPourBonus = 1 + pourBonus / 100 * (1 + setupPowerBonus / 100);
 
-    return Math.ceil(totalPower * totalBonus * totalPourBonus * getAmpBonus());
+    return Math.ceil(
+      totalPower * totalBonus * totalPourBonus * getAmpBonus() * getBraceBonus()
+    );
+  }
+
+  function getBraceBonus() {
+    if (braceBonus) return 1.25;
+    else return 1;
   }
 
   function getAmpBonus() {
@@ -505,10 +510,6 @@ function findEff(mouseName) {
     return 0;
   } else {
     var typeIndex = typeEff[trapType];
-    if (!powersArray[mouseName]) {
-      console.log(`Missing power for ${mouseName}`)
-      return 1
-    }
     return powersArray[mouseName][typeIndex] / 100;
   }
 }

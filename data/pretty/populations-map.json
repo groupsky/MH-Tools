@@ -6843,610 +6843,6 @@
             }
         }
     },
-    "Hardworking Hauler": {
-        "Fort Rox": {
-            "Day": {
-                "Gouda": {
-                    "-": 18.18
-                },
-                "SB+": {
-                    "-": 18.64
-                }
-            }
-        }
-    },
-    "Meteorite Miner": {
-        "Fort Rox": {
-            "Day": {
-                "Gouda": {
-                    "-": 29.53
-                },
-                "SB+": {
-                    "-": 23.99
-                }
-            }
-        }
-    },
-    "Meteorite Mover": {
-        "Fort Rox": {
-            "Day": {
-                "Gouda": {
-                    "-": 4.24
-                },
-                "SB+": {
-                    "-": 1.6
-                }
-            }
-        }
-    },
-    "Meteorite Snacker": {
-        "Fort Rox": {
-            "Day": {
-                "Gouda": {
-                    "-": 12.55
-                },
-                "SB+": {
-                    "-": 14.21
-                }
-            }
-        }
-    },
-    "Mining Materials Manager": {
-        "Fort Rox": {
-            "Day": {
-                "Gouda": {
-                    "-": 5.17
-                },
-                "SB+": {
-                    "-": 16.13
-                }
-            }
-        }
-    },
-    "Mischievous Meteorite Miner": {
-        "Fort Rox": {
-            "Day": {
-                "Gouda": {
-                    "-": 30.32
-                },
-                "SB+": {
-                    "-": 25.43
-                }
-            }
-        }
-    },
-    "Alpha Weremouse": {
-        "Fort Rox": {
-            "Twilight": {
-                "Crescent": {
-                    "-": 18.72
-                },
-                "Moon": {
-                    "-": 17.75
-                }
-            },
-            "Midnight": {
-                "Crescent": {
-                    "-": 12.67
-                },
-                "Moon": {
-                    "-": 17.5
-                }
-            },
-            "Pitch": {
-                "Crescent": {
-                    "-": 5.35
-                },
-                "Moon": {
-                    "-": 5.97
-                }
-            },
-            "Utter Darkness": {
-                "Crescent": {
-                    "-": 6.01
-                },
-                "Moon": {
-                    "-": 5.56
-                }
-            }
-        }
-    },
-    "Mischievous Wereminer": {
-        "Fort Rox": {
-            "Twilight": {
-                "Crescent": {
-                    "-": 12.21
-                },
-                "Moon": {
-                    "-": 20.35
-                }
-            },
-            "Midnight": {
-                "Crescent": {
-                    "-": 11.03
-                },
-                "Moon": {
-                    "-": 11.42
-                }
-            },
-            "Pitch": {
-                "Crescent": {
-                    "-": 4.12
-                },
-                "Moon": {
-                    "-": 2.83
-                }
-            },
-            "Utter Darkness": {
-                "Crescent": {
-                    "-": 2.92
-                },
-                "Moon": {
-                    "-": 1.79
-                }
-            }
-        }
-    },
-    "Night Shift Materials Manager": {
-        "Fort Rox": {
-            "Twilight": {
-                "Crescent": {
-                    "-": 7.63
-                },
-                "Moon": {
-                    "-": 10.06
-                }
-            },
-            "Midnight": {
-                "Crescent": {
-                    "-": 7.45
-                },
-                "Moon": {
-                    "-": 10.01
-                }
-            },
-            "Pitch": {
-                "Crescent": {
-                    "-": 7.82
-                },
-                "Moon": {
-                    "-": 11.15
-                }
-            },
-            "Utter Darkness": {
-                "Crescent": {
-                    "-": 0
-                },
-                "Moon": {
-                    "-": 0.75
-                }
-            }
-        }
-    },
-    "Nightmancer": {
-        "Fort Rox": {
-            "Twilight": {
-                "Crescent": {
-                    "-": 5.19
-                },
-                "Moon": {
-                    "-": 5
-                }
-            },
-            "Midnight": {
-                "Crescent": {
-                    "-": 11.92
-                },
-                "Moon": {
-                    "-": 8.96
-                }
-            },
-            "Pitch": {
-                "Crescent": {
-                    "-": 10.7
-                },
-                "Moon": {
-                    "-": 11.15
-                }
-            },
-            "Utter Darkness": {
-                "Crescent": {
-                    "-": 4.64
-                },
-                "Moon": {
-                    "-": 3.86
-                }
-            }
-        }
-    },
-    "Reveling Lycanthrope": {
-        "Fort Rox": {
-            "Twilight": {
-                "Crescent": {
-                    "-": 17.8
-                },
-                "Moon": {
-                    "-": 14.92
-                }
-            },
-            "Midnight": {
-                "Crescent": {
-                    "-": 3.43
-                },
-                "Moon": {
-                    "-": 6.45
-                }
-            },
-            "Pitch": {
-                "Crescent": {
-                    "-": 5.35
-                },
-                "Moon": {
-                    "-": 4.4
-                }
-            },
-            "Utter Darkness": {
-                "Crescent": {
-                    "-": 1.72
-                },
-                "Moon": {
-                    "-": 1.41
-                }
-            }
-        }
-    },
-    "Werehauler": {
-        "Fort Rox": {
-            "Twilight": {
-                "Crescent": {
-                    "-": 23.4
-                },
-                "Moon": {
-                    "-": 16.48
-                }
-            },
-            "Midnight": {
-                "Crescent": {
-                    "-": 11.77
-                },
-                "Moon": {
-                    "-": 7
-                }
-            },
-            "Pitch": {
-                "Crescent": {
-                    "-": 4.12
-                },
-                "Moon": {
-                    "-": 3.77
-                }
-            },
-            "Utter Darkness": {
-                "Crescent": {
-                    "-": 2.75
-                },
-                "Moon": {
-                    "-": 0.19
-                }
-            }
-        }
-    },
-    "Wereminer": {
-        "Fort Rox": {
-            "Twilight": {
-                "Crescent": {
-                    "-": 15.06
-                },
-                "Moon": {
-                    "-": 15.44
-                }
-            },
-            "Midnight": {
-                "Crescent": {
-                    "-": 10.58
-                },
-                "Moon": {
-                    "-": 10.13
-                }
-            },
-            "Pitch": {
-                "Crescent": {
-                    "-": 7.41
-                },
-                "Moon": {
-                    "-": 5.18
-                }
-            },
-            "Utter Darkness": {
-                "Crescent": {
-                    "-": 3.26
-                },
-                "Moon": {
-                    "-": 4.61
-                }
-            }
-        }
-    },
-    "Arcane Summoner": {
-        "Fort Rox": {
-            "Midnight": {
-                "Crescent": {
-                    "-": 6.11
-                },
-                "Moon": {
-                    "-": 4.85
-                }
-            },
-            "Pitch": {
-                "Crescent": {
-                    "-": 5.35
-                },
-                "Moon": {
-                    "-": 4.24
-                }
-            },
-            "Utter Darkness": {
-                "Crescent": {
-                    "-": 7.04
-                },
-                "Moon": {
-                    "-": 6.69
-                }
-            },
-            "First Light": {
-                "Crescent": {
-                    "-": 8.96
-                },
-                "Moon": {
-                    "-": 12.64
-                }
-            }
-        }
-    },
-    "Hypnotized Gunslinger": {
-        "Fort Rox": {
-            "Midnight": {
-                "Crescent": {
-                    "-": 7
-                },
-                "Moon": {
-                    "-": 4.97
-                }
-            },
-            "Pitch": {
-                "Crescent": {
-                    "-": 12.35
-                },
-                "Moon": {
-                    "-": 14.29
-                }
-            },
-            "Utter Darkness": {
-                "Crescent": {
-                    "-": 15.46
-                },
-                "Moon": {
-                    "-": 10.92
-                }
-            },
-            "First Light": {
-                "Crescent": {
-                    "-": 12.66
-                },
-                "Moon": {
-                    "-": 8.25
-                }
-            }
-        }
-    },
-    "Meteorite Golem": {
-        "Fort Rox": {
-            "Midnight": {
-                "Crescent": {
-                    "-": 5.22
-                },
-                "Moon": {
-                    "-": 4.91
-                }
-            },
-            "Pitch": {
-                "Crescent": {
-                    "-": 7.41
-                },
-                "Moon": {
-                    "-": 7.54
-                }
-            },
-            "Utter Darkness": {
-                "Crescent": {
-                    "-": 12.37
-                },
-                "Moon": {
-                    "-": 12.62
-                }
-            },
-            "First Light": {
-                "Crescent": {
-                    "-": 13.94
-                },
-                "Moon": {
-                    "-": 10.24
-                }
-            }
-        }
-    },
-    "Night Watcher": {
-        "Fort Rox": {
-            "Midnight": {
-                "Crescent": {
-                    "-": 5.07
-                },
-                "Moon": {
-                    "-": 3.99
-                }
-            },
-            "Pitch": {
-                "Crescent": {
-                    "-": 4.94
-                },
-                "Moon": {
-                    "-": 6.28
-                }
-            },
-            "Utter Darkness": {
-                "Crescent": {
-                    "-": 8.42
-                },
-                "Moon": {
-                    "-": 14.12
-                }
-            },
-            "First Light": {
-                "Crescent": {
-                    "-": 15.08
-                },
-                "Moon": {
-                    "-": 12.02
-                }
-            }
-        }
-    },
-    "Wealthy Werewarrior": {
-        "Fort Rox": {
-            "Midnight": {
-                "Crescent": {
-                    "-": 7.75
-                },
-                "Moon": {
-                    "-": 9.82
-                }
-            },
-            "Pitch": {
-                "Crescent": {
-                    "-": 11.52
-                },
-                "Moon": {
-                    "-": 9.11
-                }
-            },
-            "Utter Darkness": {
-                "Crescent": {
-                    "-": 4.47
-                },
-                "Moon": {
-                    "-": 4.9
-                }
-            }
-        }
-    },
-    "Cursed Taskmaster": {
-        "Fort Rox": {
-            "Pitch": {
-                "Crescent": {
-                    "-": 2.88
-                },
-                "Moon": {
-                    "-": 4.71
-                }
-            },
-            "Utter Darkness": {
-                "Crescent": {
-                    "-": 11.68
-                },
-                "Moon": {
-                    "-": 14.31
-                }
-            },
-            "First Light": {
-                "Crescent": {
-                    "-": 14.22
-                },
-                "Moon": {
-                    "-": 23.41
-                }
-            }
-        }
-    },
-    "Meteorite Mystic": {
-        "Fort Rox": {
-            "Pitch": {
-                "Crescent": {
-                    "-": 0.82
-                },
-                "Moon": {
-                    "-": 3.92
-                }
-            },
-            "Utter Darkness": {
-                "Crescent": {
-                    "-": 7.73
-                },
-                "Moon": {
-                    "-": 8.76
-                }
-            },
-            "First Light": {
-                "Crescent": {
-                    "-": 9.82
-                },
-                "Moon": {
-                    "-": 10.66
-                }
-            }
-        }
-    },
-    "Nightfire": {
-        "Fort Rox": {
-            "Pitch": {
-                "Crescent": {
-                    "-": 9.88
-                },
-                "Moon": {
-                    "-": 5.49
-                }
-            },
-            "Utter Darkness": {
-                "Crescent": {
-                    "-": 11.51
-                },
-                "Moon": {
-                    "-": 9.51
-                }
-            },
-            "First Light": {
-                "Crescent": {
-                    "-": 25.32
-                },
-                "Moon": {
-                    "-": 22.78
-                }
-            }
-        }
-    },
-    "Dawn Guardian": {
-        "Fort Rox": {
-            "Dawn": {
-                "Crescent": {
-                    "-": 58.17
-                },
-                "Moon": {
-                    "-": 50.86
-                }
-            }
-        }
-    },
-    "Monster Of The Meteor": {
-        "Fort Rox": {
-            "Dawn": {
-                "Crescent": {
-                    "-": 41.83
-                },
-                "Moon": {
-                    "-": 49.14
-                }
-            }
-        }
-    },
     "Funglore": {
         "Fungal Cavern": {
             "-": {
@@ -7866,7 +7262,7 @@
         "Furoma Rift": {
             "Training Grounds": {
                 "Swiss String": {
-                    "-": 7.96
+                    "-": 7
                 }
             }
         }
@@ -7993,30 +7389,30 @@
         "Furoma Rift": {
             "Training Grounds": {
                 "Maki String": {
-                    "-": 10.51
+                    "-": 11.11
                 },
                 "Magical String": {
-                    "-": 9.92
+                    "-": 9.47
                 },
                 "Brie String": {
-                    "-": 8.18
+                    "-": 8.13
                 },
                 "Swiss String": {
-                    "-": 4.61
+                    "-": 4.89
                 }
             },
             "Pagoda": {
                 "Maki String": {
-                    "-": 2.18
+                    "-": 2.06
                 },
                 "Magical String": {
-                    "-": 2.62
+                    "-": 2.01
                 },
                 "Brie String": {
-                    "-": 3.04
+                    "-": 3.02
                 },
                 "Swiss String": {
-                    "-": 2.43
+                    "-": 2.55
                 }
             }
         }
@@ -8041,27 +7437,27 @@
         "Furoma Rift": {
             "Training Grounds": {
                 "Maki String": {
-                    "-": 10.51
+                    "-": 10.32
                 },
                 "Magical String": {
-                    "-": 11.07
+                    "-": 11.93
                 },
                 "Brie String": {
-                    "-": 5.19
+                    "-": 5.07
                 },
                 "Swiss String": {
-                    "-": 7.26
+                    "-": 7.82
                 }
             },
             "Pagoda": {
                 "Maki String": {
-                    "-": 2.72
+                    "-": 2.68
                 },
                 "Magical String": {
-                    "-": 3.86
+                    "-": 3.47
                 },
                 "Brie String": {
-                    "-": 3.78
+                    "-": 3.66
                 },
                 "Swiss String": {
                     "-": 7.64
@@ -8107,10 +7503,10 @@
         "Furoma Rift": {
             "Training Grounds": {
                 "Brie String": {
-                    "-": 4.66
+                    "-": 4.44
                 },
                 "Swiss String": {
-                    "-": 11.45
+                    "-": 11.56
                 }
             }
         }
@@ -20203,300 +19599,6 @@
             }
         }
     },
-    "Cloud Collector": {
-        "Moussu Picchu": {
-            "-": {
-                "SB+": {
-                    "-": 21.98
-                },
-                "Brie": {
-                    "-": 21.46
-                },
-                "Glowing Gruyere": {
-                    "-": 16.07
-                },
-                "Gouda": {
-                    "-": 21.83
-                }
-            }
-        }
-    },
-    "Windy Farmer": {
-        "Moussu Picchu": {
-            "-": {
-                "SB+": {
-                    "-": 21.42
-                },
-                "Brie": {
-                    "-": 22.1
-                },
-                "Glowing Gruyere": {
-                    "-": 15.63
-                },
-                "Gouda": {
-                    "-": 22.19
-                }
-            }
-        }
-    },
-    "Rainwater Purifier": {
-        "Moussu Picchu": {
-            "-": {
-                "SB+": {
-                    "-": 19.35
-                },
-                "Brie": {
-                    "-": 12.37
-                },
-                "Glowing Gruyere": {
-                    "-": 30.41
-                },
-                "Gouda": {
-                    "-": 12.69
-                }
-            }
-        }
-    },
-    "Breeze Borrower": {
-        "Moussu Picchu": {
-            "-": {
-                "SB+": {
-                    "-": 17.68
-                },
-                "Brie": {
-                    "-": 13.32
-                },
-                "Glowing Gruyere": {
-                    "-": 28.39
-                },
-                "Gouda": {
-                    "-": 12.61
-                }
-            }
-        }
-    },
-    "Nightshade Maiden": {
-        "Moussu Picchu": {
-            "-": {
-                "SB+": {
-                    "-": 9.1
-                }
-            }
-        }
-    },
-    "Nightshade Flower Girl": {
-        "Moussu Picchu": {
-            "-": {
-                "SB+": {
-                    "-": 7.25
-                },
-                "Brie": {
-                    "-": 13.92
-                },
-                "Gouda": {
-                    "-": 14.91
-                }
-            }
-        }
-    },
-    "Spore Salesman": {
-        "Moussu Picchu": {
-            "-": {
-                "SB+": {
-                    "-": 3.22
-                },
-                "Brie": {
-                    "-": 16.83
-                },
-                "Gouda": {
-                    "-": 15.77
-                }
-            }
-        }
-    },
-    "Homeopathic Apothecary": {
-        "Moussu Picchu": {
-            "-": {
-                "Glowing Gruyere": {
-                    "-": 9.5
-                }
-            }
-        }
-    },
-    "Rain Wallower": {
-        "Moussu Picchu": {
-            "Rain low": {
-                "Rainy": {
-                    "-": 60
-                }
-            }
-        }
-    },
-    "Rain Collector": {
-        "Moussu Picchu": {
-            "Rain low": {
-                "Rainy": {
-                    "-": 40
-                }
-            }
-        }
-    },
-    "Rain Summoner": {
-        "Moussu Picchu": {
-            "Rain medium": {
-                "Rainy": {
-                    "-": 58
-                }
-            }
-        }
-    },
-    "Monsoon Maker": {
-        "Moussu Picchu": {
-            "Rain medium": {
-                "Rainy": {
-                    "-": 42
-                }
-            },
-            "Rain high": {
-                "Rainy": {
-                    "-": 58
-                }
-            }
-        }
-    },
-    "Rainmancer": {
-        "Moussu Picchu": {
-            "Rain high": {
-                "Rainy": {
-                    "-": 42
-                }
-            },
-            "Rain max": {
-                "Rainy": {
-                    "-": 100
-                }
-            }
-        }
-    },
-    "Wind Watcher": {
-        "Moussu Picchu": {
-            "Wind low": {
-                "Windy": {
-                    "-": 60
-                }
-            }
-        }
-    },
-    "Charming Chimer": {
-        "Moussu Picchu": {
-            "Wind low": {
-                "Windy": {
-                    "-": 40
-                }
-            }
-        }
-    },
-    "Fluttering Flutist": {
-        "Moussu Picchu": {
-            "Wind medium": {
-                "Windy": {
-                    "-": 58
-                }
-            }
-        }
-    },
-    "Cycloness": {
-        "Moussu Picchu": {
-            "Wind medium": {
-                "Windy": {
-                    "-": 42
-                }
-            },
-            "Wind high": {
-                "Windy": {
-                    "-": 58
-                }
-            }
-        }
-    },
-    "Wind Warrior": {
-        "Moussu Picchu": {
-            "Wind high": {
-                "Windy": {
-                    "-": 42
-                }
-            },
-            "Wind max": {
-                "Windy": {
-                    "-": 100
-                }
-            }
-        }
-    },
-    "Thunder Strike": {
-        "Moussu Picchu": {
-            "Storm low": {
-                "Dragonvine": {
-                    "-": 60
-                }
-            }
-        }
-    },
-    "Violet Stormchild": {
-        "Moussu Picchu": {
-            "Storm low": {
-                "Dragonvine": {
-                    "-": 40
-                }
-            }
-        }
-    },
-    "Thunderlord": {
-        "Moussu Picchu": {
-            "Storm medium": {
-                "Dragonvine": {
-                    "-": 58
-                }
-            }
-        }
-    },
-    "Thundering Watcher": {
-        "Moussu Picchu": {
-            "Storm medium": {
-                "Dragonvine": {
-                    "-": 42
-                }
-            },
-            "Storm high": {
-                "Dragonvine": {
-                    "-": 60
-                }
-            }
-        }
-    },
-    "Ful'Mina, The Mountain Queen": {
-        "Moussu Picchu": {
-            "Storm high": {
-                "Dragonvine": {
-                    "-": 35
-                }
-            },
-            "Storm max": {
-                "Dragonvine": {
-                    "-": 100
-                }
-            }
-        }
-    },
-    "Dragoon": {
-        "Moussu Picchu": {
-            "Storm high": {
-                "Dragonvine": {
-                    "-": 5
-                }
-            }
-        }
-    },
     "Skeletal Champion": {
         "Bristle Woods Rift": {
             "Acolyte": {
@@ -23249,34 +22351,748 @@
             }
         }
     },
+    "Gargoyle": {
+        "Forbidden Grove": {
+            "open": {
+                "Ancient": {
+                    "-": 18.02
+                }
+            }
+        }
+    },
+    "Reaper": {
+        "Forbidden Grove": {
+            "open": {
+                "Ancient": {
+                    "-": 2.15
+                }
+            }
+        }
+    },
+    "Realm Ripper": {
+        "Forbidden Grove": {
+            "closed": {
+                "Ancient": {
+                    "-": 100
+                }
+            }
+        }
+    },
+    "Meteorite Miner": {
+        "Fort Rox": {
+            "Day": {
+                "Gouda": {
+                    "-": 29.77
+                },
+                "Brie": {
+                    "-": 28.95
+                },
+                "SB+": {
+                    "-": 24.03
+                },
+                "Crescent": {
+                    "-": 26.67
+                }
+            }
+        }
+    },
+    "Mischievous Meteorite Miner": {
+        "Fort Rox": {
+            "Day": {
+                "Gouda": {
+                    "-": 29.53
+                },
+                "Brie": {
+                    "-": 30.08
+                },
+                "SB+": {
+                    "-": 24.57
+                },
+                "Crescent": {
+                    "-": 23.59
+                }
+            }
+        }
+    },
+    "Hardworking Hauler": {
+        "Fort Rox": {
+            "Day": {
+                "Gouda": {
+                    "-": 17.75
+                },
+                "Brie": {
+                    "-": 18.98
+                },
+                "SB+": {
+                    "-": 17.32
+                },
+                "Crescent": {
+                    "-": 15.38
+                }
+            }
+        }
+    },
+    "Meteorite Snacker": {
+        "Fort Rox": {
+            "Day": {
+                "Gouda": {
+                    "-": 11.74
+                },
+                "Brie": {
+                    "-": 11.25
+                },
+                "SB+": {
+                    "-": 14.42
+                },
+                "Crescent": {
+                    "-": 18.46
+                }
+            }
+        }
+    },
+    "Meteorite Mover": {
+        "Fort Rox": {
+            "Day": {
+                "Gouda": {
+                    "-": 6.09
+                },
+                "Brie": {
+                    "-": 5.27
+                },
+                "SB+": {
+                    "-": 2.45
+                },
+                "Crescent": {
+                    "-": 11.79
+                }
+            }
+        }
+    },
+    "Mining Materials Manager": {
+        "Fort Rox": {
+            "Day": {
+                "Gouda": {
+                    "-": 5.12
+                },
+                "Brie": {
+                    "-": 5.47
+                },
+                "SB+": {
+                    "-": 17.23
+                },
+                "Crescent": {
+                    "-": 4.1
+                }
+            }
+        }
+    },
+    "Battering Ram": {
+        "Fort Rox": {
+            "Twilight": {
+                "Gouda": {
+                    "-": 24.12
+                }
+            },
+            "Dawn": {
+                "Gouda": {
+                    "-": 33.61
+                },
+                "SB+": {
+                    "-": 18.81
+                }
+            }
+        }
+    },
+    "Werehauler": {
+        "Fort Rox": {
+            "Twilight": {
+                "Gouda": {
+                    "-": 17.59
+                },
+                "Crescent": {
+                    "-": 23.15
+                },
+                "Moon": {
+                    "-": 16.5
+                }
+            },
+            "Midnight": {
+                "Crescent": {
+                    "-": 12.82
+                },
+                "Moon": {
+                    "-": 6.23
+                }
+            },
+            "Pitch": {
+                "Crescent": {
+                    "-": 6.17
+                },
+                "Moon": {
+                    "-": 4.12
+                }
+            },
+            "Utter Darkness": {
+                "Crescent": {
+                    "-": 3.19
+                },
+                "Moon": {
+                    "-": 0.99
+                }
+            }
+        }
+    },
+    "Mischievous Wereminer": {
+        "Fort Rox": {
+            "Twilight": {
+                "Gouda": {
+                    "-": 17.09
+                },
+                "Crescent": {
+                    "-": 14.44
+                },
+                "Moon": {
+                    "-": 20.82
+                }
+            },
+            "Midnight": {
+                "Crescent": {
+                    "-": 10.47
+                },
+                "Moon": {
+                    "-": 12.28
+                }
+            },
+            "Pitch": {
+                "Crescent": {
+                    "-": 3.66
+                },
+                "Moon": {
+                    "-": 4.38
+                }
+            },
+            "Utter Darkness": {
+                "Crescent": {
+                    "-": 1.91
+                },
+                "Moon": {
+                    "-": 2.67
+                }
+            }
+        }
+    },
+    "Reveling Lycanthrope": {
+        "Fort Rox": {
+            "Twilight": {
+                "Gouda": {
+                    "-": 16.58
+                },
+                "Crescent": {
+                    "-": 15.19
+                },
+                "Moon": {
+                    "-": 14.39
+                }
+            },
+            "Midnight": {
+                "Crescent": {
+                    "-": 5.94
+                },
+                "Moon": {
+                    "-": 6.11
+                }
+            },
+            "Pitch": {
+                "Crescent": {
+                    "-": 4.29
+                },
+                "Moon": {
+                    "-": 3.48
+                }
+            },
+            "Utter Darkness": {
+                "Crescent": {
+                    "-": 1.24
+                },
+                "Moon": {
+                    "-": 1.98
+                }
+            }
+        }
+    },
+    "Nightmancer": {
+        "Fort Rox": {
+            "Twilight": {
+                "Gouda": {
+                    "-": 11.06
+                },
+                "Crescent": {
+                    "-": 5.75
+                },
+                "Moon": {
+                    "-": 5.25
+                }
+            },
+            "Midnight": {
+                "Crescent": {
+                    "-": 11.59
+                },
+                "Moon": {
+                    "-": 9.71
+                }
+            },
+            "Pitch": {
+                "Crescent": {
+                    "-": 10.63
+                },
+                "Moon": {
+                    "-": 6.7
+                }
+            },
+            "Utter Darkness": {
+                "Crescent": {
+                    "-": 5.45
+                },
+                "Moon": {
+                    "-": 3.97
+                }
+            }
+        }
+    },
+    "Wereminer": {
+        "Fort Rox": {
+            "Twilight": {
+                "Gouda": {
+                    "-": 8.54
+                },
+                "Crescent": {
+                    "-": 14.73
+                },
+                "Moon": {
+                    "-": 15.61
+                }
+            },
+            "Midnight": {
+                "Crescent": {
+                    "-": 8.75
+                },
+                "Moon": {
+                    "-": 9.25
+                }
+            },
+            "Pitch": {
+                "Crescent": {
+                    "-": 5.03
+                },
+                "Moon": {
+                    "-": 5.8
+                }
+            },
+            "Utter Darkness": {
+                "Crescent": {
+                    "-": 2.52
+                },
+                "Moon": {
+                    "-": 4.9
+                }
+            }
+        }
+    },
+    "Alpha Weremouse": {
+        "Fort Rox": {
+            "Twilight": {
+                "Gouda": {
+                    "-": 5.03
+                },
+                "Crescent": {
+                    "-": 18.78
+                },
+                "Moon": {
+                    "-": 17.18
+                }
+            },
+            "Midnight": {
+                "Crescent": {
+                    "-": 14.2
+                },
+                "Moon": {
+                    "-": 20.16
+                }
+            },
+            "Pitch": {
+                "Crescent": {
+                    "-": 7.2
+                },
+                "Moon": {
+                    "-": 7.35
+                }
+            },
+            "Utter Darkness": {
+                "Crescent": {
+                    "-": 6.63
+                },
+                "Moon": {
+                    "-": 6.57
+                }
+            }
+        }
+    },
+    "Night Shift Materials Manager": {
+        "Fort Rox": {
+            "Twilight": {
+                "Crescent": {
+                    "-": 7.97
+                },
+                "Moon": {
+                    "-": 10.25
+                }
+            },
+            "Midnight": {
+                "Crescent": {
+                    "-": 8.06
+                },
+                "Moon": {
+                    "-": 9.02
+                }
+            },
+            "Pitch": {
+                "Crescent": {
+                    "-": 7.43
+                },
+                "Moon": {
+                    "-": 10.18
+                }
+            },
+            "Utter Darkness": {
+                "Crescent": {
+                    "-": 0.26
+                },
+                "Moon": {
+                    "-": 1.05
+                }
+            }
+        }
+    },
+    "Wealthy Werewarrior": {
+        "Fort Rox": {
+            "Midnight": {
+                "Crescent": {
+                    "-": 9.4
+                },
+                "Moon": {
+                    "-": 9.77
+                }
+            },
+            "Pitch": {
+                "Crescent": {
+                    "-": 9.43
+                },
+                "Moon": {
+                    "-": 10.82
+                }
+            },
+            "Utter Darkness": {
+                "Crescent": {
+                    "-": 5.13
+                },
+                "Moon": {
+                    "-": 4.84
+                }
+            }
+        }
+    },
+    "Hypnotized Gunslinger": {
+        "Fort Rox": {
+            "Midnight": {
+                "Crescent": {
+                    "-": 5.89
+                },
+                "Moon": {
+                    "-": 4.63
+                }
+            },
+            "Pitch": {
+                "Crescent": {
+                    "-": 13.38
+                },
+                "Moon": {
+                    "-": 16.49
+                }
+            },
+            "Utter Darkness": {
+                "Crescent": {
+                    "-": 15.72
+                },
+                "Moon": {
+                    "-": 11.16
+                }
+            },
+            "First Light": {
+                "Crescent": {
+                    "-": 12.02
+                },
+                "Moon": {
+                    "-": 9.87
+                }
+            }
+        }
+    },
+    "Night Watcher": {
+        "Fort Rox": {
+            "Midnight": {
+                "Crescent": {
+                    "-": 4.76
+                },
+                "Moon": {
+                    "-": 4.74
+                }
+            },
+            "Pitch": {
+                "Crescent": {
+                    "-": 4.4
+                },
+                "Moon": {
+                    "-": 6.19
+                }
+            },
+            "Utter Darkness": {
+                "Crescent": {
+                    "-": 9.6
+                },
+                "Moon": {
+                    "-": 14.07
+                }
+            },
+            "First Light": {
+                "Crescent": {
+                    "-": 14.74
+                },
+                "Moon": {
+                    "-": 12.98
+                }
+            }
+        }
+    },
+    "Arcane Summoner": {
+        "Fort Rox": {
+            "Midnight": {
+                "Crescent": {
+                    "-": 4.55
+                },
+                "Moon": {
+                    "-": 3.71
+                }
+            },
+            "Pitch": {
+                "Crescent": {
+                    "-": 5.43
+                },
+                "Moon": {
+                    "-": 4.51
+                }
+            },
+            "Utter Darkness": {
+                "Crescent": {
+                    "-": 5.58
+                },
+                "Moon": {
+                    "-": 5.33
+                }
+            },
+            "First Light": {
+                "Crescent": {
+                    "-": 9.79
+                },
+                "Moon": {
+                    "-": 11.64
+                }
+            }
+        }
+    },
+    "Meteorite Golem": {
+        "Fort Rox": {
+            "Midnight": {
+                "Crescent": {
+                    "-": 3.57
+                },
+                "Moon": {
+                    "-": 4.4
+                }
+            },
+            "Pitch": {
+                "Crescent": {
+                    "-": 5.95
+                },
+                "Moon": {
+                    "-": 6.19
+                }
+            },
+            "Utter Darkness": {
+                "Crescent": {
+                    "-": 11.22
+                },
+                "Moon": {
+                    "-": 11.47
+                }
+            },
+            "First Light": {
+                "Crescent": {
+                    "-": 14.74
+                },
+                "Moon": {
+                    "-": 9.53
+                }
+            }
+        }
+    },
+    "Nightfire": {
+        "Fort Rox": {
+            "Pitch": {
+                "Crescent": {
+                    "-": 8
+                },
+                "Moon": {
+                    "-": 4.12
+                }
+            },
+            "Utter Darkness": {
+                "Crescent": {
+                    "-": 11.38
+                },
+                "Moon": {
+                    "-": 9.11
+                }
+            },
+            "First Light": {
+                "Crescent": {
+                    "-": 22.93
+                },
+                "Moon": {
+                    "-": 21.84
+                }
+            }
+        }
+    },
+    "Cursed Taskmaster": {
+        "Fort Rox": {
+            "Pitch": {
+                "Crescent": {
+                    "-": 5.15
+                },
+                "Moon": {
+                    "-": 5.93
+                }
+            },
+            "Utter Darkness": {
+                "Crescent": {
+                    "-": 12.34
+                },
+                "Moon": {
+                    "-": 12.59
+                }
+            },
+            "First Light": {
+                "Crescent": {
+                    "-": 16.04
+                },
+                "Moon": {
+                    "-": 23.61
+                }
+            }
+        }
+    },
+    "Meteorite Mystic": {
+        "Fort Rox": {
+            "Pitch": {
+                "Crescent": {
+                    "-": 3.83
+                },
+                "Moon": {
+                    "-": 3.74
+                }
+            },
+            "Utter Darkness": {
+                "Crescent": {
+                    "-": 7.81
+                },
+                "Moon": {
+                    "-": 9.3
+                }
+            },
+            "First Light": {
+                "Crescent": {
+                    "-": 9.73
+                },
+                "Moon": {
+                    "-": 10.54
+                }
+            }
+        }
+    },
+    "Monster Of The Meteor": {
+        "Fort Rox": {
+            "Dawn": {
+                "Gouda": {
+                    "-": 33.61
+                },
+                "SB+": {
+                    "-": 33.03
+                },
+                "Crescent": {
+                    "-": 49.14
+                },
+                "Moon": {
+                    "-": 49.7
+                }
+            }
+        }
+    },
+    "Dawn Guardian": {
+        "Fort Rox": {
+            "Dawn": {
+                "Gouda": {
+                    "-": 32.77
+                },
+                "SB+": {
+                    "-": 48.17
+                },
+                "Crescent": {
+                    "-": 50.86
+                },
+                "Moon": {
+                    "-": 50.3
+                }
+            }
+        }
+    },
     "Shinobi": {
         "Furoma Rift": {
             "Training Grounds": {
                 "Maki String": {
-                    "-": 25.54
+                    "-": 25.13
                 },
                 "Magical String": {
-                    "-": 20.84
+                    "-": 20.58
                 },
                 "Brie String": {
-                    "-": 22.34
+                    "-": 22.53
                 },
                 "Swiss String": {
-                    "-": 21.51
+                    "-": 21.34
                 }
             },
             "Pagoda": {
                 "Maki String": {
-                    "-": 5.9
+                    "-": 6.01
                 },
                 "Magical String": {
-                    "-": 7.71
+                    "-": 8.21
                 },
                 "Brie String": {
-                    "-": 8.77
+                    "-": 8.67
                 },
                 "Swiss String": {
-                    "-": 10.42
+                    "-": 10.55
                 }
             }
         }
@@ -23285,16 +23101,16 @@
         "Furoma Rift": {
             "Training Grounds": {
                 "Maki String": {
-                    "-": 20.83
+                    "-": 19.84
                 },
                 "Magical String": {
-                    "-": 21.6
+                    "-": 21.95
                 },
                 "Brie String": {
-                    "-": 24.74
+                    "-": 24.96
                 },
                 "Swiss String": {
-                    "-": 21.23
+                    "-": 22.15
                 }
             }
         }
@@ -23303,16 +23119,16 @@
         "Furoma Rift": {
             "Training Grounds": {
                 "Maki String": {
-                    "-": 12.32
+                    "-": 12.96
                 },
                 "Magical String": {
-                    "-": 22.82
+                    "-": 21.67
                 },
                 "Brie String": {
-                    "-": 23.79
+                    "-": 23.64
                 },
                 "Swiss String": {
-                    "-": 17.32
+                    "-": 16.29
                 }
             }
         }
@@ -23321,13 +23137,13 @@
         "Furoma Rift": {
             "Training Grounds": {
                 "Maki String": {
-                    "-": 11.23
+                    "-": 10.32
                 },
                 "Magical String": {
-                    "-": 4.58
+                    "-": 4.94
                 },
                 "Brie String": {
-                    "-": 2.07
+                    "-": 2.14
                 }
             }
         }
@@ -23336,30 +23152,30 @@
         "Furoma Rift": {
             "Training Grounds": {
                 "Maki String": {
-                    "-": 3.62
+                    "-": 4.23
                 },
                 "Magical String": {
-                    "-": 3.59
+                    "-": 3.16
                 },
                 "Brie String": {
-                    "-": 4.18
+                    "-": 4.11
                 },
                 "Swiss String": {
-                    "-": 3.07
+                    "-": 3.26
                 }
             },
             "Pagoda": {
                 "Maki String": {
-                    "-": 11.89
+                    "-": 12.05
                 },
                 "Magical String": {
-                    "-": 11.29
+                    "-": 11.68
                 },
                 "Brie String": {
-                    "-": 11.99
+                    "-": 12
                 },
                 "Swiss String": {
-                    "-": 14.24
+                    "-": 13.82
                 }
             }
         }
@@ -23368,30 +23184,30 @@
         "Furoma Rift": {
             "Training Grounds": {
                 "Maki String": {
-                    "-": 2.9
+                    "-": 3.17
                 },
                 "Magical String": {
-                    "-": 3.66
+                    "-": 4.39
                 },
                 "Brie String": {
-                    "-": 2.94
+                    "-": 3.11
                 },
                 "Swiss String": {
-                    "-": 3.91
+                    "-": 4.07
                 }
             },
             "Pagoda": {
                 "Maki String": {
-                    "-": 6.77
+                    "-": 6.86
                 },
                 "Magical String": {
-                    "-": 12.95
+                    "-": 13.32
                 },
                 "Brie String": {
-                    "-": 11.81
+                    "-": 11.83
                 },
                 "Swiss String": {
-                    "-": 19.79
+                    "-": 19.27
                 }
             }
         }
@@ -23400,30 +23216,30 @@
         "Furoma Rift": {
             "Training Grounds": {
                 "Maki String": {
-                    "-": 2.54
+                    "-": 2.91
                 },
                 "Magical String": {
-                    "-": 1.91
+                    "-": 1.92
                 },
                 "Brie String": {
-                    "-": 1.91
+                    "-": 1.88
                 },
                 "Swiss String": {
-                    "-": 1.68
+                    "-": 1.63
                 }
             },
             "Pagoda": {
                 "Maki String": {
-                    "-": 4.9
+                    "-": 4.96
                 },
                 "Magical String": {
-                    "-": 9.5
+                    "-": 10.95
                 },
                 "Brie String": {
-                    "-": 12.07
+                    "-": 12.02
                 },
                 "Swiss String": {
-                    "-": 18.06
+                    "-": 18.55
                 }
             }
         }
@@ -23432,34 +23248,16 @@
         "Furoma Rift": {
             "Pagoda": {
                 "Maki String": {
-                    "-": 20.23
+                    "-": 20.02
                 },
                 "Magical String": {
-                    "-": 14.74
+                    "-": 13.87
                 },
                 "Brie String": {
-                    "-": 14.92
+                    "-": 15.05
                 },
                 "Swiss String": {
-                    "-": 5.9
-                }
-            }
-        }
-    },
-    "Student Of The Chi Belt": {
-        "Furoma Rift": {
-            "Pagoda": {
-                "Maki String": {
-                    "-": 19.8
-                },
-                "Magical String": {
-                    "-": 17.08
-                },
-                "Brie String": {
-                    "-": 14.93
-                },
-                "Swiss String": {
-                    "-": 8.68
+                    "-": 5.45
                 }
             }
         }
@@ -23468,16 +23266,34 @@
         "Furoma Rift": {
             "Pagoda": {
                 "Maki String": {
-                    "-": 19.74
+                    "-": 19.92
                 },
                 "Magical String": {
-                    "-": 14.6
+                    "-": 14.05
                 },
                 "Brie String": {
-                    "-": 14.83
+                    "-": 15
                 },
                 "Swiss String": {
-                    "-": 8.68
+                    "-": 8.73
+                }
+            }
+        }
+    },
+    "Student Of The Chi Belt": {
+        "Furoma Rift": {
+            "Pagoda": {
+                "Maki String": {
+                    "-": 19.63
+                },
+                "Magical String": {
+                    "-": 16.61
+                },
+                "Brie String": {
+                    "-": 14.85
+                },
+                "Swiss String": {
+                    "-": 9.09
                 }
             }
         }
@@ -23486,16 +23302,16 @@
         "Furoma Rift": {
             "Pagoda": {
                 "Maki String": {
-                    "-": 5.87
+                    "-": 5.82
                 },
                 "Magical String": {
-                    "-": 5.65
+                    "-": 5.84
                 },
                 "Brie String": {
-                    "-": 3.86
+                    "-": 3.89
                 },
                 "Swiss String": {
-                    "-": 4.17
+                    "-": 4.36
                 }
             }
         }
@@ -23504,7 +23320,7 @@
         "Furoma Rift": {
             "Pagoda": {
                 "Master Fusion": {
-                    "-": 34.26
+                    "-": 34.68
                 },
                 "Rift Combat": {
                     "-": 100
@@ -23516,7 +23332,7 @@
         "Furoma Rift": {
             "Pagoda": {
                 "Master Fusion": {
-                    "-": 33.19
+                    "-": 33.04
                 },
                 "Rift Glutter": {
                     "-": 100
@@ -23528,7 +23344,7 @@
         "Furoma Rift": {
             "Pagoda": {
                 "Master Fusion": {
-                    "-": 32.55
+                    "-": 32.28
                 },
                 "Rift Susheese": {
                     "-": 100
@@ -23563,29 +23379,296 @@
             }
         }
     },
-    "Gargoyle": {
-        "Forbidden Grove": {
-            "open": {
-                "Ancient": {
-                    "-": 18.02
+    "Cloud Collector": {
+        "Moussu Picchu": {
+            "-": {
+                "SB+": {
+                    "-": 21.98
+                },
+                "Brie": {
+                    "-": 21.46
+                },
+                "Glowing Gruyere": {
+                    "-": 16.07
+                },
+                "Gouda": {
+                    "-": 21.83
                 }
             }
         }
     },
-    "Reaper": {
-        "Forbidden Grove": {
-            "open": {
-                "Ancient": {
-                    "-": 2.15
+    "Windy Farmer": {
+        "Moussu Picchu": {
+            "-": {
+                "SB+": {
+                    "-": 21.42
+                },
+                "Brie": {
+                    "-": 22.1
+                },
+                "Glowing Gruyere": {
+                    "-": 15.63
+                },
+                "Gouda": {
+                    "-": 22.19
                 }
             }
         }
     },
-    "Realm Ripper": {
-        "Forbidden Grove": {
-            "closed": {
-                "Ancient": {
+    "Rainwater Purifier": {
+        "Moussu Picchu": {
+            "-": {
+                "SB+": {
+                    "-": 19.35
+                },
+                "Brie": {
+                    "-": 12.37
+                },
+                "Glowing Gruyere": {
+                    "-": 30.41
+                },
+                "Gouda": {
+                    "-": 12.69
+                }
+            }
+        }
+    },
+    "Breeze Borrower": {
+        "Moussu Picchu": {
+            "-": {
+                "SB+": {
+                    "-": 17.68
+                },
+                "Brie": {
+                    "-": 13.32
+                },
+                "Glowing Gruyere": {
+                    "-": 28.39
+                },
+                "Gouda": {
+                    "-": 12.61
+                }
+            }
+        }
+    },
+    "Nightshade Maiden": {
+        "Moussu Picchu": {
+            "-": {
+                "SB+": {
+                    "-": 9.1
+                }
+            }
+        }
+    },
+    "Nightshade Flower Girl": {
+        "Moussu Picchu": {
+            "-": {
+                "SB+": {
+                    "-": 7.25
+                },
+                "Brie": {
+                    "-": 13.92
+                },
+                "Gouda": {
+                    "-": 14.91
+                }
+            }
+        }
+    },
+    "Spore Salesman": {
+        "Moussu Picchu": {
+            "-": {
+                "SB+": {
+                    "-": 3.22
+                },
+                "Brie": {
+                    "-": 16.83
+                },
+                "Gouda": {
+                    "-": 15.77
+                }
+            }
+        }
+    },
+    "Homeopathic Apothecary": {
+        "Moussu Picchu": {
+            "-": {
+                "Glowing Gruyere": {
+                    "-": 9.5
+                }
+            }
+        }
+    },
+    "Rain Wallower": {
+        "Moussu Picchu": {
+            "Rain low": {
+                "Rainy": {
+                    "-": 60
+                }
+            }
+        }
+    },
+    "Rain Collector": {
+        "Moussu Picchu": {
+            "Rain low": {
+                "Rainy": {
+                    "-": 40
+                }
+            }
+        }
+    },
+    "Rain Summoner": {
+        "Moussu Picchu": {
+            "Rain medium": {
+                "Rainy": {
+                    "-": 58
+                }
+            }
+        }
+    },
+    "Monsoon Maker": {
+        "Moussu Picchu": {
+            "Rain medium": {
+                "Rainy": {
+                    "-": 42
+                }
+            },
+            "Rain high": {
+                "Rainy": {
+                    "-": 58
+                }
+            }
+        }
+    },
+    "Rainmancer": {
+        "Moussu Picchu": {
+            "Rain high": {
+                "Rainy": {
+                    "-": 42
+                }
+            },
+            "Rain max": {
+                "Rainy": {
                     "-": 100
+                }
+            }
+        }
+    },
+    "Wind Watcher": {
+        "Moussu Picchu": {
+            "Wind low": {
+                "Windy": {
+                    "-": 60
+                }
+            }
+        }
+    },
+    "Charming Chimer": {
+        "Moussu Picchu": {
+            "Wind low": {
+                "Windy": {
+                    "-": 40
+                }
+            }
+        }
+    },
+    "Fluttering Flutist": {
+        "Moussu Picchu": {
+            "Wind medium": {
+                "Windy": {
+                    "-": 58
+                }
+            }
+        }
+    },
+    "Cycloness": {
+        "Moussu Picchu": {
+            "Wind medium": {
+                "Windy": {
+                    "-": 42
+                }
+            },
+            "Wind high": {
+                "Windy": {
+                    "-": 58
+                }
+            }
+        }
+    },
+    "Wind Warrior": {
+        "Moussu Picchu": {
+            "Wind high": {
+                "Windy": {
+                    "-": 42
+                }
+            },
+            "Wind max": {
+                "Windy": {
+                    "-": 100
+                }
+            }
+        }
+    },
+    "Thunder Strike": {
+        "Moussu Picchu": {
+            "Storm low": {
+                "Dragonvine": {
+                    "-": 60
+                }
+            }
+        }
+    },
+    "Violet Stormchild": {
+        "Moussu Picchu": {
+            "Storm low": {
+                "Dragonvine": {
+                    "-": 40
+                }
+            }
+        }
+    },
+    "Thunderlord": {
+        "Moussu Picchu": {
+            "Storm medium": {
+                "Dragonvine": {
+                    "-": 58
+                }
+            }
+        }
+    },
+    "Thundering Watcher": {
+        "Moussu Picchu": {
+            "Storm medium": {
+                "Dragonvine": {
+                    "-": 42
+                }
+            },
+            "Storm high": {
+                "Dragonvine": {
+                    "-": 60
+                }
+            }
+        }
+    },
+    "Ful'Mina, The Mountain Queen": {
+        "Moussu Picchu": {
+            "Storm high": {
+                "Dragonvine": {
+                    "-": 35
+                }
+            },
+            "Storm max": {
+                "Dragonvine": {
+                    "-": 100
+                }
+            }
+        }
+    },
+    "Dragoon": {
+        "Moussu Picchu": {
+            "Storm high": {
+                "Dragonvine": {
+                    "-": 5
                 }
             }
         }

@@ -287,7 +287,6 @@ var baselineAttArray = {
   "Maki String": 0.9991, // Sample: 8219 (High)
   "Marble": 0.6500, // Guesstimate | Calculated: 0.6571, Sample: 86 (Very Low)
   "Marble String": 0.5897, // Sample: 473 (Medium)
-  "Marshmallow Monterey": 0.9914, // Sample: 1634
   "Master Fusion": 0.9577, // Sample: 4802 (High)
   "Mineral": 0.9880, // Sample: 1952 (High)
   "Moon": 0.9978, // Sample: 5161 (High)
@@ -2961,17 +2960,11 @@ var powersArray = {
   "Craggy Ore": [1200, 100, 100, 100, 100, 0, 100, 100, 100, 100, 100],
   "Slope Swimmer": [1200, 100, 100, 100, 100, 0, 100, 100, 100, 100, 100],
   "Mountain": [1900, 100, 100, 100, 100, 0, 100, 100, 100, 100, 100],
-  // Events: SEH
-  "Chocolate Gold Foil": [2774, 100, 100, 100, 100, 0, 100, 100, 100, 100, 100],
-  "Spring Sprig": [609, 100, 100, 100, 100, 0, 100, 100, 100, 100, 100],
-  "Eggsquisite Entertainer": [304, 100, 100, 100, 100, 0, 100, 100, 100, 100, 100],
 };
 
 /* [Gold, Points] */
 // prettier-ignore
 var miceArray = {
-  "Eggsquisite Entertainer": [1350, 2500],
-  "Spring Sprig": [2350, 3300],
   "Abominable Snow": [5000, 5000],
   "Bionic": [550, 300],
   "Black Widow": [10, 480],

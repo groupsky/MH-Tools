@@ -1878,206 +1878,6 @@
             }
         }
     },
-    "Fort Rox": {
-        "Day": {
-            "Gouda": {
-                "-": {
-                    "Hardworking Hauler": 18.18,
-                    "Meteorite Miner": 29.53,
-                    "Meteorite Mover": 4.24,
-                    "Meteorite Snacker": 12.55,
-                    "Mining Materials Manager": 5.17,
-                    "Mischievous Meteorite Miner": 30.32
-                }
-            },
-            "SB+": {
-                "-": {
-                    "Hardworking Hauler": 18.64,
-                    "Meteorite Miner": 23.99,
-                    "Meteorite Mover": 1.6,
-                    "Meteorite Snacker": 14.21,
-                    "Mining Materials Manager": 16.13,
-                    "Mischievous Meteorite Miner": 25.43
-                }
-            }
-        },
-        "Twilight": {
-            "Crescent": {
-                "-": {
-                    "Alpha Weremouse": 18.72,
-                    "Mischievous Wereminer": 12.21,
-                    "Night Shift Materials Manager": 7.63,
-                    "Nightmancer": 5.19,
-                    "Reveling Lycanthrope": 17.8,
-                    "Werehauler": 23.4,
-                    "Wereminer": 15.06
-                }
-            },
-            "Moon": {
-                "-": {
-                    "Alpha Weremouse": 17.75,
-                    "Mischievous Wereminer": 20.35,
-                    "Night Shift Materials Manager": 10.06,
-                    "Nightmancer": 5,
-                    "Reveling Lycanthrope": 14.92,
-                    "Werehauler": 16.48,
-                    "Wereminer": 15.44
-                }
-            }
-        },
-        "Midnight": {
-            "Crescent": {
-                "-": {
-                    "Alpha Weremouse": 12.67,
-                    "Arcane Summoner": 6.11,
-                    "Hypnotized Gunslinger": 7,
-                    "Meteorite Golem": 5.22,
-                    "Mischievous Wereminer": 11.03,
-                    "Night Shift Materials Manager": 7.45,
-                    "Night Watcher": 5.07,
-                    "Nightmancer": 11.92,
-                    "Reveling Lycanthrope": 3.43,
-                    "Wealthy Werewarrior": 7.75,
-                    "Werehauler": 11.77,
-                    "Wereminer": 10.58
-                }
-            },
-            "Moon": {
-                "-": {
-                    "Alpha Weremouse": 17.5,
-                    "Arcane Summoner": 4.85,
-                    "Hypnotized Gunslinger": 4.97,
-                    "Meteorite Golem": 4.91,
-                    "Mischievous Wereminer": 11.42,
-                    "Night Shift Materials Manager": 10.01,
-                    "Night Watcher": 3.99,
-                    "Nightmancer": 8.96,
-                    "Reveling Lycanthrope": 6.45,
-                    "Wealthy Werewarrior": 9.82,
-                    "Werehauler": 7,
-                    "Wereminer": 10.13
-                }
-            }
-        },
-        "Pitch": {
-            "Crescent": {
-                "-": {
-                    "Alpha Weremouse": 5.35,
-                    "Arcane Summoner": 5.35,
-                    "Cursed Taskmaster": 2.88,
-                    "Hypnotized Gunslinger": 12.35,
-                    "Meteorite Golem": 7.41,
-                    "Meteorite Mystic": 0.82,
-                    "Mischievous Wereminer": 4.12,
-                    "Night Shift Materials Manager": 7.82,
-                    "Night Watcher": 4.94,
-                    "Nightfire": 9.88,
-                    "Nightmancer": 10.7,
-                    "Reveling Lycanthrope": 5.35,
-                    "Wealthy Werewarrior": 11.52,
-                    "Werehauler": 4.12,
-                    "Wereminer": 7.41
-                }
-            },
-            "Moon": {
-                "-": {
-                    "Alpha Weremouse": 5.97,
-                    "Arcane Summoner": 4.24,
-                    "Cursed Taskmaster": 4.71,
-                    "Hypnotized Gunslinger": 14.29,
-                    "Meteorite Golem": 7.54,
-                    "Meteorite Mystic": 3.92,
-                    "Mischievous Wereminer": 2.83,
-                    "Night Shift Materials Manager": 11.15,
-                    "Night Watcher": 6.28,
-                    "Nightfire": 5.49,
-                    "Nightmancer": 11.15,
-                    "Reveling Lycanthrope": 4.4,
-                    "Wealthy Werewarrior": 9.11,
-                    "Werehauler": 3.77,
-                    "Wereminer": 5.18
-                }
-            }
-        },
-        "Utter Darkness": {
-            "Crescent": {
-                "-": {
-                    "Alpha Weremouse": 6.01,
-                    "Arcane Summoner": 7.04,
-                    "Cursed Taskmaster": 11.68,
-                    "Hypnotized Gunslinger": 15.46,
-                    "Meteorite Golem": 12.37,
-                    "Meteorite Mystic": 7.73,
-                    "Mischievous Wereminer": 2.92,
-                    "Night Shift Materials Manager": 0,
-                    "Night Watcher": 8.42,
-                    "Nightfire": 11.51,
-                    "Nightmancer": 4.64,
-                    "Reveling Lycanthrope": 1.72,
-                    "Wealthy Werewarrior": 4.47,
-                    "Werehauler": 2.75,
-                    "Wereminer": 3.26
-                }
-            },
-            "Moon": {
-                "-": {
-                    "Alpha Weremouse": 5.56,
-                    "Arcane Summoner": 6.69,
-                    "Cursed Taskmaster": 14.31,
-                    "Hypnotized Gunslinger": 10.92,
-                    "Meteorite Golem": 12.62,
-                    "Meteorite Mystic": 8.76,
-                    "Mischievous Wereminer": 1.79,
-                    "Night Shift Materials Manager": 0.75,
-                    "Night Watcher": 14.12,
-                    "Nightfire": 9.51,
-                    "Nightmancer": 3.86,
-                    "Reveling Lycanthrope": 1.41,
-                    "Wealthy Werewarrior": 4.9,
-                    "Werehauler": 0.19,
-                    "Wereminer": 4.61
-                }
-            }
-        },
-        "First Light": {
-            "Crescent": {
-                "-": {
-                    "Arcane Summoner": 8.96,
-                    "Cursed Taskmaster": 14.22,
-                    "Hypnotized Gunslinger": 12.66,
-                    "Meteorite Golem": 13.94,
-                    "Meteorite Mystic": 9.82,
-                    "Night Watcher": 15.08,
-                    "Nightfire": 25.32
-                }
-            },
-            "Moon": {
-                "-": {
-                    "Arcane Summoner": 12.64,
-                    "Cursed Taskmaster": 23.41,
-                    "Hypnotized Gunslinger": 8.25,
-                    "Meteorite Golem": 10.24,
-                    "Meteorite Mystic": 10.66,
-                    "Night Watcher": 12.02,
-                    "Nightfire": 22.78
-                }
-            }
-        },
-        "Dawn": {
-            "Crescent": {
-                "-": {
-                    "Dawn Guardian": 58.17,
-                    "Monster of the Meteor": 41.83
-                }
-            },
-            "Moon": {
-                "-": {
-                    "Dawn Guardian": 50.86,
-                    "Monster of the Meteor": 49.14
-                }
-            }
-        }
-    },
     "Fungal Cavern": {
         "-": {
             "SB+": {
@@ -8178,144 +7978,6 @@
             }
         }
     },
-    "Moussu Picchu": {
-        "-": {
-            "SB+": {
-                "-": {
-                    "Cloud Collector": 21.98,
-                    "Windy Farmer": 21.42,
-                    "Rainwater Purifier": 19.35,
-                    "Breeze Borrower": 17.68,
-                    "Nightshade Maiden": 9.1,
-                    "Nightshade Flower Girl": 7.25,
-                    "Spore Salesman": 3.22
-                }
-            },
-            "Brie": {
-                "-": {
-                    "Windy Farmer": 22.1,
-                    "Cloud Collector": 21.46,
-                    "Spore Salesman": 16.83,
-                    "Nightshade Flower Girl": 13.92,
-                    "Breeze Borrower": 13.32,
-                    "Rainwater Purifier": 12.37
-                }
-            },
-            "Glowing Gruyere": {
-                "-": {
-                    "Rainwater Purifier": 30.41,
-                    "Breeze Borrower": 28.39,
-                    "Cloud Collector": 16.07,
-                    "Windy Farmer": 15.63,
-                    "Homeopathic Apothecary": 9.5
-                }
-            },
-            "Gouda": {
-                "-": {
-                    "Windy Farmer": 22.19,
-                    "Cloud Collector": 21.83,
-                    "Spore Salesman": 15.77,
-                    "Nightshade Flower Girl": 14.91,
-                    "Rainwater Purifier": 12.69,
-                    "Breeze Borrower": 12.61
-                }
-            }
-        },
-        "Rain low": {
-            "Rainy": {
-                "-": {
-                    "Rain Wallower": 60,
-                    "Rain Collector": 40
-                }
-            }
-        },
-        "Rain medium": {
-            "Rainy": {
-                "-": {
-                    "Rain Summoner": 58,
-                    "Monsoon Maker": 42
-                }
-            }
-        },
-        "Rain high": {
-            "Rainy": {
-                "-": {
-                    "Monsoon Maker": 58,
-                    "Rainmancer": 42
-                }
-            }
-        },
-        "Rain max": {
-            "Rainy": {
-                "-": {
-                    "Rainmancer": 100
-                }
-            }
-        },
-        "Wind low": {
-            "Windy": {
-                "-": {
-                    "Wind Watcher": 60,
-                    "Charming Chimer": 40
-                }
-            }
-        },
-        "Wind medium": {
-            "Windy": {
-                "-": {
-                    "Fluttering Flutist": 58,
-                    "Cycloness": 42
-                }
-            }
-        },
-        "Wind high": {
-            "Windy": {
-                "-": {
-                    "Cycloness": 58,
-                    "Wind Warrior": 42
-                }
-            }
-        },
-        "Wind max": {
-            "Windy": {
-                "-": {
-                    "Wind Warrior": 100
-                }
-            }
-        },
-        "Storm low": {
-            "Dragonvine": {
-                "-": {
-                    "Thunder Strike": 60,
-                    "Violet Stormchild": 40
-                }
-            }
-        },
-        "Storm medium": {
-            "Dragonvine": {
-                "-": {
-                    "Thunderlord": 58,
-                    "Thundering Watcher": 42
-                }
-            }
-        },
-        "Storm high": {
-            "Dragonvine": {
-                "-": {
-                    "Thundering Watcher": 60,
-                    "Ful'Mina, The Mountain Queen": 35,
-                    "Dragoon": 5
-                }
-            }
-        },
-        "Storm max": {
-            "Dragonvine": {
-                "-": {
-                    "Ful'Mina, The Mountain Queen": 100
-                }
-            }
-        }
-    },
     "Bristle Woods Rift": {
         "Acolyte": {
             "Runic String": {
@@ -9922,159 +9584,6 @@
             }
         }
     },
-    "Furoma Rift": {
-        "Training Grounds": {
-            "Maki String": {
-                "-": {
-                    "Shinobi": 25.54,
-                    "Armored Archer": 20.83,
-                    "Dumpling Delivery": 12.32,
-                    "Enlightened Labourer": 11.23,
-                    "Wealth": 10.51,
-                    "Raw Diamond": 10.51,
-                    "Shaolin Kung Fu": 3.62,
-                    "Wandering Monk": 2.9,
-                    "Militant Samurai": 2.54
-                }
-            },
-            "Magical String": {
-                "-": {
-                    "Dumpling Delivery": 22.82,
-                    "Armored Archer": 21.6,
-                    "Shinobi": 20.84,
-                    "Wealth": 11.07,
-                    "Raw Diamond": 9.92,
-                    "Enlightened Labourer": 4.58,
-                    "Wandering Monk": 3.66,
-                    "Shaolin Kung Fu": 3.59,
-                    "Militant Samurai": 1.91
-                }
-            },
-            "Brie String": {
-                "-": {
-                    "Armored Archer": 24.74,
-                    "Dumpling Delivery": 23.79,
-                    "Shinobi": 22.34,
-                    "Raw Diamond": 8.18,
-                    "Wealth": 5.19,
-                    "Rift Guardian": 4.66,
-                    "Shaolin Kung Fu": 4.18,
-                    "Wandering Monk": 2.94,
-                    "Enlightened Labourer": 2.07,
-                    "Militant Samurai": 1.91
-                }
-            },
-            "Swiss String": {
-                "-": {
-                    "Shinobi": 21.51,
-                    "Armored Archer": 21.23,
-                    "Dumpling Delivery": 17.32,
-                    "Rift Guardian": 11.45,
-                    "Brawny": 7.96,
-                    "Wealth": 7.26,
-                    "Raw Diamond": 4.61,
-                    "Wandering Monk": 3.91,
-                    "Shaolin Kung Fu": 3.07,
-                    "Militant Samurai": 1.68
-                }
-            }
-        },
-        "Pagoda": {
-            "Maki String": {
-                "-": {
-                    "Student of the Chi Claw": 20.23,
-                    "Student of the Chi Belt": 19.8,
-                    "Student of the Chi Fang": 19.74,
-                    "Shaolin Kung Fu": 11.89,
-                    "Wandering Monk": 6.77,
-                    "Shinobi": 5.9,
-                    "Dancing Assassin": 5.87,
-                    "Militant Samurai": 4.9,
-                    "Wealth": 2.72,
-                    "Raw Diamond": 2.18
-                }
-            },
-            "Magical String": {
-                "-": {
-                    "Student of the Chi Belt": 17.08,
-                    "Student of the Chi Claw": 14.74,
-                    "Student of the Chi Fang": 14.6,
-                    "Wandering Monk": 12.95,
-                    "Shaolin Kung Fu": 11.29,
-                    "Militant Samurai": 9.5,
-                    "Shinobi": 7.71,
-                    "Dancing Assassin": 5.65,
-                    "Wealth": 3.86,
-                    "Raw Diamond": 2.62
-                }
-            },
-            "Brie String": {
-                "-": {
-                    "Student of the Chi Belt": 14.93,
-                    "Student of the Chi Claw": 14.92,
-                    "Student of the Chi Fang": 14.83,
-                    "Militant Samurai": 12.07,
-                    "Shaolin Kung Fu": 11.99,
-                    "Wandering Monk": 11.81,
-                    "Shinobi": 8.77,
-                    "Dancing Assassin": 3.86,
-                    "Wealth": 3.78,
-                    "Raw Diamond": 3.04
-                }
-            },
-            "Swiss String": {
-                "-": {
-                    "Wandering Monk": 19.79,
-                    "Militant Samurai": 18.06,
-                    "Shaolin Kung Fu": 14.24,
-                    "Shinobi": 10.42,
-                    "Student of the Chi Belt": 8.68,
-                    "Student of the Chi Fang": 8.68,
-                    "Wealth": 7.64,
-                    "Student of the Chi Claw": 5.9,
-                    "Dancing Assassin": 4.17,
-                    "Raw Diamond": 2.43
-                }
-            },
-            "Master Fusion": {
-                "-": {
-                    "Master of the Chi Fang": 34.26,
-                    "Master of the Chi Belt": 33.19,
-                    "Master of the Chi Claw": 32.55
-                }
-            },
-            "Rift Combat": {
-                "-": {
-                    "Master of the Chi Fang": 100
-                }
-            },
-            "Rift Glutter": {
-                "-": {
-                    "Master of the Chi Belt": 100
-                }
-            },
-            "Rift Susheese": {
-                "-": {
-                    "Master of the Chi Claw": 100
-                }
-            },
-            "Rift Rumble": {
-                "-": {
-                    "Grand Master of the Dojo": 100
-                }
-            },
-            "Null Onyx Gorgonzola": {
-                "-": {
-                    "Supreme Sensei": 100
-                }
-            },
-            "Ascended": {
-                "-": {
-                    "Ascended Elder": 100
-                }
-            }
-        }
-    },
     "Forbidden Grove": {
         "open": {
             "Ancient": {
@@ -10132,6 +9641,542 @@
             "Ancient": {
                 "-": {
                     "Realm Ripper": 100
+                }
+            }
+        }
+    },
+    "Fort Rox": {
+        "Day": {
+            "Gouda": {
+                "-": {
+                    "Meteorite Miner": 29.77,
+                    "Mischievous Meteorite Miner": 29.53,
+                    "Hardworking Hauler": 17.75,
+                    "Meteorite Snacker": 11.74,
+                    "Meteorite Mover": 6.09,
+                    "Mining Materials Manager": 5.12
+                }
+            },
+            "Brie": {
+                "-": {
+                    "Mischievous Meteorite Miner": 30.08,
+                    "Meteorite Miner": 28.95,
+                    "Hardworking Hauler": 18.98,
+                    "Meteorite Snacker": 11.25,
+                    "Mining Materials Manager": 5.47,
+                    "Meteorite Mover": 5.27
+                }
+            },
+            "SB+": {
+                "-": {
+                    "Mischievous Meteorite Miner": 24.57,
+                    "Meteorite Miner": 24.03,
+                    "Hardworking Hauler": 17.32,
+                    "Mining Materials Manager": 17.23,
+                    "Meteorite Snacker": 14.42,
+                    "Meteorite Mover": 2.45
+                }
+            },
+            "Crescent": {
+                "-": {
+                    "Meteorite Miner": 26.67,
+                    "Mischievous Meteorite Miner": 23.59,
+                    "Meteorite Snacker": 18.46,
+                    "Hardworking Hauler": 15.38,
+                    "Meteorite Mover": 11.79,
+                    "Mining Materials Manager": 4.1
+                }
+            }
+        },
+        "Twilight": {
+            "Gouda": {
+                "-": {
+                    "Battering Ram": 24.12,
+                    "Werehauler": 17.59,
+                    "Mischievous Wereminer": 17.09,
+                    "Reveling Lycanthrope": 16.58,
+                    "Nightmancer": 11.06,
+                    "Wereminer": 8.54,
+                    "Alpha Weremouse": 5.03
+                }
+            },
+            "Crescent": {
+                "-": {
+                    "Werehauler": 23.15,
+                    "Alpha Weremouse": 18.78,
+                    "Reveling Lycanthrope": 15.19,
+                    "Wereminer": 14.73,
+                    "Mischievous Wereminer": 14.44,
+                    "Night Shift Materials Manager": 7.97,
+                    "Nightmancer": 5.75
+                }
+            },
+            "Moon": {
+                "-": {
+                    "Mischievous Wereminer": 20.82,
+                    "Alpha Weremouse": 17.18,
+                    "Werehauler": 16.5,
+                    "Wereminer": 15.61,
+                    "Reveling Lycanthrope": 14.39,
+                    "Night Shift Materials Manager": 10.25,
+                    "Nightmancer": 5.25
+                }
+            }
+        },
+        "Midnight": {
+            "Crescent": {
+                "-": {
+                    "Alpha Weremouse": 14.2,
+                    "Werehauler": 12.82,
+                    "Nightmancer": 11.59,
+                    "Mischievous Wereminer": 10.47,
+                    "Wealthy Werewarrior": 9.4,
+                    "Wereminer": 8.75,
+                    "Night Shift Materials Manager": 8.06,
+                    "Reveling Lycanthrope": 5.94,
+                    "Hypnotized Gunslinger": 5.89,
+                    "Night Watcher": 4.76,
+                    "Arcane Summoner": 4.55,
+                    "Meteorite Golem": 3.57
+                }
+            },
+            "Moon": {
+                "-": {
+                    "Alpha Weremouse": 20.16,
+                    "Mischievous Wereminer": 12.28,
+                    "Wealthy Werewarrior": 9.77,
+                    "Nightmancer": 9.71,
+                    "Wereminer": 9.25,
+                    "Night Shift Materials Manager": 9.02,
+                    "Werehauler": 6.23,
+                    "Reveling Lycanthrope": 6.11,
+                    "Night Watcher": 4.74,
+                    "Hypnotized Gunslinger": 4.63,
+                    "Meteorite Golem": 4.4,
+                    "Arcane Summoner": 3.71
+                }
+            }
+        },
+        "Pitch": {
+            "Crescent": {
+                "-": {
+                    "Hypnotized Gunslinger": 13.38,
+                    "Nightmancer": 10.63,
+                    "Wealthy Werewarrior": 9.43,
+                    "Nightfire": 8,
+                    "Night Shift Materials Manager": 7.43,
+                    "Alpha Weremouse": 7.2,
+                    "Werehauler": 6.17,
+                    "Meteorite Golem": 5.95,
+                    "Arcane Summoner": 5.43,
+                    "Cursed Taskmaster": 5.15,
+                    "Wereminer": 5.03,
+                    "Night Watcher": 4.4,
+                    "Reveling Lycanthrope": 4.29,
+                    "Meteorite Mystic": 3.83,
+                    "Mischievous Wereminer": 3.66
+                }
+            },
+            "Moon": {
+                "-": {
+                    "Hypnotized Gunslinger": 16.49,
+                    "Wealthy Werewarrior": 10.82,
+                    "Night Shift Materials Manager": 10.18,
+                    "Alpha Weremouse": 7.35,
+                    "Nightmancer": 6.7,
+                    "Night Watcher": 6.19,
+                    "Meteorite Golem": 6.19,
+                    "Cursed Taskmaster": 5.93,
+                    "Wereminer": 5.8,
+                    "Arcane Summoner": 4.51,
+                    "Mischievous Wereminer": 4.38,
+                    "Nightfire": 4.12,
+                    "Werehauler": 4.12,
+                    "Meteorite Mystic": 3.74,
+                    "Reveling Lycanthrope": 3.48
+                }
+            }
+        },
+        "Utter Darkness": {
+            "Crescent": {
+                "-": {
+                    "Hypnotized Gunslinger": 15.72,
+                    "Cursed Taskmaster": 12.34,
+                    "Nightfire": 11.38,
+                    "Meteorite Golem": 11.22,
+                    "Night Watcher": 9.6,
+                    "Meteorite Mystic": 7.81,
+                    "Alpha Weremouse": 6.63,
+                    "Arcane Summoner": 5.58,
+                    "Nightmancer": 5.45,
+                    "Wealthy Werewarrior": 5.13,
+                    "Werehauler": 3.19,
+                    "Wereminer": 2.52,
+                    "Mischievous Wereminer": 1.91,
+                    "Reveling Lycanthrope": 1.24,
+                    "Night Shift Materials Manager": 0.26
+                }
+            },
+            "Moon": {
+                "-": {
+                    "Night Watcher": 14.07,
+                    "Cursed Taskmaster": 12.59,
+                    "Meteorite Golem": 11.47,
+                    "Hypnotized Gunslinger": 11.16,
+                    "Meteorite Mystic": 9.3,
+                    "Nightfire": 9.11,
+                    "Alpha Weremouse": 6.57,
+                    "Arcane Summoner": 5.33,
+                    "Wereminer": 4.9,
+                    "Wealthy Werewarrior": 4.84,
+                    "Nightmancer": 3.97,
+                    "Mischievous Wereminer": 2.67,
+                    "Reveling Lycanthrope": 1.98,
+                    "Night Shift Materials Manager": 1.05,
+                    "Werehauler": 0.99
+                }
+            }
+        },
+        "First Light": {
+            "Crescent": {
+                "-": {
+                    "Nightfire": 22.93,
+                    "Cursed Taskmaster": 16.04,
+                    "Night Watcher": 14.74,
+                    "Meteorite Golem": 14.74,
+                    "Hypnotized Gunslinger": 12.02,
+                    "Arcane Summoner": 9.79,
+                    "Meteorite Mystic": 9.73
+                }
+            },
+            "Moon": {
+                "-": {
+                    "Cursed Taskmaster": 23.61,
+                    "Nightfire": 21.84,
+                    "Night Watcher": 12.98,
+                    "Arcane Summoner": 11.64,
+                    "Meteorite Mystic": 10.54,
+                    "Hypnotized Gunslinger": 9.87,
+                    "Meteorite Golem": 9.53
+                }
+            }
+        },
+        "Dawn": {
+            "Gouda": {
+                "-": {
+                    "Battering Ram": 33.61,
+                    "Monster of the Meteor": 33.61,
+                    "Dawn Guardian": 32.77
+                }
+            },
+            "SB+": {
+                "-": {
+                    "Dawn Guardian": 48.17,
+                    "Monster of the Meteor": 33.03,
+                    "Battering Ram": 18.81
+                }
+            },
+            "Crescent": {
+                "-": {
+                    "Dawn Guardian": 50.86,
+                    "Monster of the Meteor": 49.14
+                }
+            },
+            "Moon": {
+                "-": {
+                    "Dawn Guardian": 50.3,
+                    "Monster of the Meteor": 49.7
+                }
+            }
+        }
+    },
+    "Furoma Rift": {
+        "Training Grounds": {
+            "Maki String": {
+                "-": {
+                    "Shinobi": 25.13,
+                    "Armored Archer": 19.84,
+                    "Dumpling Delivery": 12.96,
+                    "Raw Diamond": 11.11,
+                    "Enlightened Labourer": 10.32,
+                    "Wealth": 10.32,
+                    "Shaolin Kung Fu": 4.23,
+                    "Wandering Monk": 3.17,
+                    "Militant Samurai": 2.91
+                }
+            },
+            "Magical String": {
+                "-": {
+                    "Armored Archer": 21.95,
+                    "Dumpling Delivery": 21.67,
+                    "Shinobi": 20.58,
+                    "Wealth": 11.93,
+                    "Raw Diamond": 9.47,
+                    "Enlightened Labourer": 4.94,
+                    "Wandering Monk": 4.39,
+                    "Shaolin Kung Fu": 3.16,
+                    "Militant Samurai": 1.92
+                }
+            },
+            "Brie String": {
+                "-": {
+                    "Armored Archer": 24.96,
+                    "Dumpling Delivery": 23.64,
+                    "Shinobi": 22.53,
+                    "Raw Diamond": 8.13,
+                    "Wealth": 5.07,
+                    "Rift Guardian": 4.44,
+                    "Shaolin Kung Fu": 4.11,
+                    "Wandering Monk": 3.11,
+                    "Enlightened Labourer": 2.14,
+                    "Militant Samurai": 1.88
+                }
+            },
+            "Swiss String": {
+                "-": {
+                    "Armored Archer": 22.15,
+                    "Shinobi": 21.34,
+                    "Dumpling Delivery": 16.29,
+                    "Rift Guardian": 11.56,
+                    "Wealth": 7.82,
+                    "Brawny": 7,
+                    "Raw Diamond": 4.89,
+                    "Wandering Monk": 4.07,
+                    "Shaolin Kung Fu": 3.26,
+                    "Militant Samurai": 1.63
+                }
+            }
+        },
+        "Pagoda": {
+            "Maki String": {
+                "-": {
+                    "Student of the Chi Claw": 20.02,
+                    "Student of the Chi Fang": 19.92,
+                    "Student of the Chi Belt": 19.63,
+                    "Shaolin Kung Fu": 12.05,
+                    "Wandering Monk": 6.86,
+                    "Shinobi": 6.01,
+                    "Dancing Assassin": 5.82,
+                    "Militant Samurai": 4.96,
+                    "Wealth": 2.68,
+                    "Raw Diamond": 2.06
+                }
+            },
+            "Magical String": {
+                "-": {
+                    "Student of the Chi Belt": 16.61,
+                    "Student of the Chi Fang": 14.05,
+                    "Student of the Chi Claw": 13.87,
+                    "Wandering Monk": 13.32,
+                    "Shaolin Kung Fu": 11.68,
+                    "Militant Samurai": 10.95,
+                    "Shinobi": 8.21,
+                    "Dancing Assassin": 5.84,
+                    "Wealth": 3.47,
+                    "Raw Diamond": 2.01
+                }
+            },
+            "Brie String": {
+                "-": {
+                    "Student of the Chi Claw": 15.05,
+                    "Student of the Chi Fang": 15,
+                    "Student of the Chi Belt": 14.85,
+                    "Militant Samurai": 12.02,
+                    "Shaolin Kung Fu": 12,
+                    "Wandering Monk": 11.83,
+                    "Shinobi": 8.67,
+                    "Dancing Assassin": 3.89,
+                    "Wealth": 3.66,
+                    "Raw Diamond": 3.02
+                }
+            },
+            "Swiss String": {
+                "-": {
+                    "Wandering Monk": 19.27,
+                    "Militant Samurai": 18.55,
+                    "Shaolin Kung Fu": 13.82,
+                    "Shinobi": 10.55,
+                    "Student of the Chi Belt": 9.09,
+                    "Student of the Chi Fang": 8.73,
+                    "Wealth": 7.64,
+                    "Student of the Chi Claw": 5.45,
+                    "Dancing Assassin": 4.36,
+                    "Raw Diamond": 2.55
+                }
+            },
+            "Master Fusion": {
+                "-": {
+                    "Master of the Chi Fang": 34.68,
+                    "Master of the Chi Belt": 33.04,
+                    "Master of the Chi Claw": 32.28
+                }
+            },
+            "Rift Combat": {
+                "-": {
+                    "Master of the Chi Fang": 100
+                }
+            },
+            "Rift Glutter": {
+                "-": {
+                    "Master of the Chi Belt": 100
+                }
+            },
+            "Rift Susheese": {
+                "-": {
+                    "Master of the Chi Claw": 100
+                }
+            },
+            "Rift Rumble": {
+                "-": {
+                    "Grand Master of the Dojo": 100
+                }
+            },
+            "Null Onyx Gorgonzola": {
+                "-": {
+                    "Supreme Sensei": 100
+                }
+            },
+            "Ascended": {
+                "-": {
+                    "Ascended Elder": 100
+                }
+            }
+        }
+    },
+    "Moussu Picchu": {
+        "-": {
+            "SB+": {
+                "-": {
+                    "Cloud Collector": 21.98,
+                    "Windy Farmer": 21.42,
+                    "Rainwater Purifier": 19.35,
+                    "Breeze Borrower": 17.68,
+                    "Nightshade Maiden": 9.1,
+                    "Nightshade Flower Girl": 7.25,
+                    "Spore Salesman": 3.22
+                }
+            },
+            "Brie": {
+                "-": {
+                    "Windy Farmer": 22.1,
+                    "Cloud Collector": 21.46,
+                    "Spore Salesman": 16.83,
+                    "Nightshade Flower Girl": 13.92,
+                    "Breeze Borrower": 13.32,
+                    "Rainwater Purifier": 12.37
+                }
+            },
+            "Glowing Gruyere": {
+                "-": {
+                    "Rainwater Purifier": 30.41,
+                    "Breeze Borrower": 28.39,
+                    "Cloud Collector": 16.07,
+                    "Windy Farmer": 15.63,
+                    "Homeopathic Apothecary": 9.5
+                }
+            },
+            "Gouda": {
+                "-": {
+                    "Windy Farmer": 22.19,
+                    "Cloud Collector": 21.83,
+                    "Spore Salesman": 15.77,
+                    "Nightshade Flower Girl": 14.91,
+                    "Rainwater Purifier": 12.69,
+                    "Breeze Borrower": 12.61
+                }
+            }
+        },
+        "Rain low": {
+            "Rainy": {
+                "-": {
+                    "Rain Wallower": 60,
+                    "Rain Collector": 40
+                }
+            }
+        },
+        "Rain medium": {
+            "Rainy": {
+                "-": {
+                    "Rain Summoner": 58,
+                    "Monsoon Maker": 42
+                }
+            }
+        },
+        "Rain high": {
+            "Rainy": {
+                "-": {
+                    "Monsoon Maker": 58,
+                    "Rainmancer": 42
+                }
+            }
+        },
+        "Rain max": {
+            "Rainy": {
+                "-": {
+                    "Rainmancer": 100
+                }
+            }
+        },
+        "Wind low": {
+            "Windy": {
+                "-": {
+                    "Wind Watcher": 60,
+                    "Charming Chimer": 40
+                }
+            }
+        },
+        "Wind medium": {
+            "Windy": {
+                "-": {
+                    "Fluttering Flutist": 58,
+                    "Cycloness": 42
+                }
+            }
+        },
+        "Wind high": {
+            "Windy": {
+                "-": {
+                    "Cycloness": 58,
+                    "Wind Warrior": 42
+                }
+            }
+        },
+        "Wind max": {
+            "Windy": {
+                "-": {
+                    "Wind Warrior": 100
+                }
+            }
+        },
+        "Storm low": {
+            "Dragonvine": {
+                "-": {
+                    "Thunder Strike": 60,
+                    "Violet Stormchild": 40
+                }
+            }
+        },
+        "Storm medium": {
+            "Dragonvine": {
+                "-": {
+                    "Thunderlord": 58,
+                    "Thundering Watcher": 42
+                }
+            }
+        },
+        "Storm high": {
+            "Dragonvine": {
+                "-": {
+                    "Thundering Watcher": 60,
+                    "Ful'Mina, The Mountain Queen": 35,
+                    "Dragoon": 5
+                }
+            }
+        },
+        "Storm max": {
+            "Dragonvine": {
+                "-": {
+                    "Ful'Mina, The Mountain Queen": 100
                 }
             }
         }

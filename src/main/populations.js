@@ -5,8 +5,7 @@ var WISDOM_URL = "data/mouse-wisdom.json";
 // Uncomment above during local testing to bypass Cross-Origin on Chrome
 
 var popLoaded = 0,
-  wisdomLoaded = 0,
-  lootLoaded = 0;
+  wisdomLoaded = 0;
 
 /**
  * Population data parsed from CSV
@@ -21,20 +20,11 @@ var popArray = {};
 var mouseWisdom = {};
 
 /**
- * Mouse loot drops
- * @type {{location: {phase: {mouse: {charm: {base: {trap: {cheese: {loot: number}}}}}}}}}
- */
-var mouseLoot = {};
-
-/**
  * Start population loading
  */
-function startPopulationLoad(populationJsonUrl, lootJsonUrl) {
+function startPopulationLoad(populationJsonUrl) {
   $.getJSON(populationJsonUrl, setPopulation);
   $.getJSON(WISDOM_URL, setWisdom);
-  if (lootJsonUrl) {
-    $.getJSON(lootJsonUrl, setLoot);
-  }
 
   function setPopulation(jsonData) {
     popArray = jsonData;
@@ -45,12 +35,6 @@ function startPopulationLoad(populationJsonUrl, lootJsonUrl) {
   function setWisdom(jsonData) {
     mouseWisdom = jsonData;
     wisdomLoaded = true;
-    checkLoadState();
-  }
-
-  function setLoot(lootData) {
-    mouseLoot = lootData;
-    lootLoaded = true;
     checkLoadState();
   }
 }
