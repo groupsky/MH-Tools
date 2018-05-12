@@ -11,7 +11,13 @@ const cheeses = [
 module.exports = {
   default: {
     location: utils.genVarField('location', 'Fort Rox'),
-    cheese: utils.genVarField('cheese', cheeses)
+    cheese: [
+      { vars: { cheese: { Gouda: true } }, fields: { cheese: 'Gouda' } },
+      { vars: { cheese: { 'Brie': true, 'Toxic Brie': true } }, fields: { cheese: 'Brie' } },
+      { vars: { cheese: { 'SUPER|brie+': true, 'Toxic SUPER|brie+': true } }, fields: { cheese: 'SB+' } },
+      { vars: { cheese: { Crescent: true } }, fields: { cheese: 'Crescent' } },
+      { vars: { cheese: { Moon: true } }, fields: { cheese: 'Moon' } },
+    ]
   },
   series: [
     { // day
