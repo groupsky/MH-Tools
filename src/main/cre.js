@@ -1,7 +1,6 @@
 "use strict";
 
 var POPULATION_JSON_URL = "data/populations-cre.json";
-var LOOT_JSON_URL = "data/loot-cre.json";
 
 var cheeseCost = 0,
   sampleSize = 0,
@@ -24,7 +23,7 @@ window.onload = function() {
     "#bookmarkletloader"
   );
   loadBookmarkletFromJS(CRE_BOOKMARKLET_URL, "creBookmarklet", "#bookmarklet");
-  startPopulationLoad(POPULATION_JSON_URL, LOOT_JSON_URL);
+  startPopulationLoad(POPULATION_JSON_URL);
 
   loadDropdown("weapon", weaponKeys, weaponChanged, "<option></option>");
   loadDropdown("base", baseKeys, baseChanged, "<option></option>");
@@ -32,7 +31,7 @@ window.onload = function() {
 
   showHideWidgets(isCustom());
 
-  //Listening for changes in dropdowns or textboxes
+  // Listen for changes in dropdowns or textboxes
   document.getElementById("toggleCustom").onchange = function() {
     var toggle = document.getElementById("toggleCustom");
     if (toggle.checked) {
@@ -90,7 +89,7 @@ window.onload = function() {
 
   document.getElementById("rank").onchange = rankChange;
 
-  //Send to google analytics that link to setup was clicked
+  // Send clicked link to setup to Google Analytics
   document.getElementById("link").onclick = function() {
     ga("send", "event", "setup link", "click");
   };
@@ -127,7 +126,7 @@ function updateCustomSetup() {
 }
 
 function checkLoadState() {
-  var loadPercentage = (popLoaded + wisdomLoaded + lootLoaded) / 3 * 100;
+  var loadPercentage = (popLoaded + wisdomLoaded) / 2 * 100;
   var status = document.getElementById("status");
   status.innerHTML = "<td>Loaded " + loadPercentage + "%...</td>";
 
@@ -223,9 +222,8 @@ function checkPhase() {
   }
 }
 
+// type = 2 means charms are not reset
 function showPop(type) {
-  //type = 2 means don't reset charms
-
   var results = document.getElementById("results");
   var commonCheeseIndex;
 
@@ -235,7 +233,7 @@ function showPop(type) {
 
   function getHeaderRow() {
     var headerHTML =
-      "<tr align='left'><th align='left'>Mouse</th><th data-filter='false'>Attraction<br>Rate</th><th data-filter='false'>Catch<br>Rate</th><th data-filter='false'>Catches /<br>100 hunts</th><th data-filter='false'>Gold</th><th data-filter='false'>Points</th><th data-filter='false'>Tourney<br>Points</th><th data-filter='false'>Min.<br>Luck</th><th>Loot</th>";
+      "<tr align='left'><th align='left'>Mouse</th><th data-filter='false'>Attraction<br>Rate</th><th data-filter='false'>Catch<br>Rate</th><th data-filter='false'>Catches /<br>100 hunts</th><th data-filter='false'>Gold</th><th data-filter='false'>Points</th><th data-filter='false'>Tourney<br>Points</th><th data-filter='false'>Min.<br>Luck</th>";
     if (rank) {
       headerHTML += "<th data-filter='false'>Rank</th>";
     }
@@ -271,16 +269,16 @@ function showPop(type) {
     checkPhase();
     var popArrayLPC = extractPopArrayLPC(locationName, phaseName, cheeseName);
 
-    //Highlight special charms
+    // Highlight special charms
     var specialCharmsList;
     var specialCharms = Object.keys(popArrayLPC || []);
     if (type !== 2) {
       if (specialCharms.length > 1) {
         highlightSpecialCharms(specialCharms);
       } else if (popArrayLPC !== null && specialCharms[0] !== EMPTY_SELECTION) {
-        /*
-             * Allow pop with special charm(s) but without a "no charm" pop
-             */
+        /**
+         * Allow pop with special charm(s) but without a "no charm" pop
+         */
         highlightSpecialCharms(specialCharms);
       } else {
         loadCharmDropdown();
@@ -310,11 +308,8 @@ function showPop(type) {
     var overallGold = 0;
     var overallPoints = 0;
     var overallTP = 0;
-    var overallPX2 = 0;
-    var percentSD = 0;
     var minLuckOverall = 0;
     var overallProgress = 0;
-    var overallLoot = {};
 
     if (
       specialCharmsList &&
@@ -419,7 +414,6 @@ function showPop(type) {
           charmName === "Dragonbane Charm" &&
           contains(dragons, mouseName)
         ) {
-          //Dragonbane Charm has 300% power bonus agains dragons
           charmBonus += 300;
           calculateTrapSetup(true); // not "cre" or else infinite loop
           catchRate = calcCR(eff, trapPower, trapLuck, mousePower);
@@ -542,6 +536,14 @@ function showPop(type) {
           }
         }
 
+        // String.prototype.startsWith polyfill for IE
+        if (!String.prototype.startsWith) {
+          String.prototype.startsWith = function(searchString, position) {
+            position = position || 0;
+            return this.indexOf(searchString, position) === position;
+          };
+        }
+
         /**
          * Increase CR by 10% for 10th Anniversary traps
          */
@@ -551,7 +553,7 @@ function showPop(type) {
 
         minLuckOverall = Math.max(minLuckValue, minLuckOverall);
 
-        //Exceptions, modifications to catch rates
+        // Exceptions and modifications to final catch rate
         if (charmName === "Ultimate Charm") catchRate = 1;
         else if (
           locationName === "Sunken City" &&
@@ -590,10 +592,6 @@ function showPop(type) {
         var gold = catches * mouseGold / 100;
         var points = catches * mousePoints / 100;
 
-        var loot = extractMouseLoot(mouseLoot, locationName, phaseName, weaponName, baseName, cheeseName, charmName, mouseName);
-        var catchAffectedLoot = multiplyLoot(loot, catches)
-        accumulateLoot(overallLoot, catchAffectedLoot)
-
         var tournamentMice = tourneysArray[tournamentName];
         if (tournamentMice) {
           var tourneyPoints = tournamentMice[mouseName] || 0;
@@ -601,15 +599,13 @@ function showPop(type) {
           tourneyPoints = 0;
         }
         var TP = catches * tourneyPoints / 100;
-        var PX2 = TP * tourneyPoints;
 
         overallCR += catches;
         overallTP += TP;
-        overallPX2 += PX2;
         overallGold += gold;
         overallPoints += points;
 
-        //Formatting
+        // Formatting
         catchRate *= 100;
         catchRate = catchRate.toFixed(2);
         catches = catches.toFixed(2);
@@ -631,8 +627,6 @@ function showPop(type) {
           tourneyPoints +
           "</td><td>" +
           minLuckValue +
-          "</td><td>" +
-          lootToString(loot) +
           "</td>";
 
         if (rank) {
@@ -651,7 +645,6 @@ function showPop(type) {
           var dAmp = deltaAmp[mouseName];
           if (charmName === "Amplifier Charm") dAmp *= 2;
           mouseRow += "<td>" + dAmp + "%</td>";
-          // console.log("Amp bonus", dAmp);
           deltaAmpOverall += catches / 100 * dAmp;
         } else if (
           contains(locationName, "Iceberg") &&
@@ -780,11 +773,7 @@ function showPop(type) {
       }
     }
 
-    // Formatting
     overallAR *= 100;
-    overallPX2 -= overallTP * overallTP;
-    overallPX2 = Math.sqrt(overallPX2);
-    percentSD = overallPX2 / overallTP * 100;
     var averageCR = overallCR / overallAR * 100;
 
     resultsHTML +=
@@ -802,8 +791,6 @@ function showPop(type) {
       overallTP.toFixed(2) +
       "</td><td>" +
       minLuckOverall +
-      "</td><td>" +
-      lootToString(overallLoot) +
       "</td>";
     if (rank) {
       resultsHTML += "<td>" + overallProgress.toFixed(4) + "%</td>";
@@ -832,7 +819,7 @@ function showPop(type) {
       resultsHTML += "<td>" + avgLanternClues.toFixed(2) + "</td>";
       var deadEnds = (overallAR - overallCR) / 100;
       if (baseName == "Minotaur Base" || baseName == "Labyrinth Base")
-        deadEnds /= 2; //50% negate rate
+        deadEnds /= 2; // Assuming 50% negation rate
       if (charmName == "Compass Magnet Charm") deadEnds = 0;
       resultsHTML += "<td>" + deadEnds.toFixed(2) + "</td>";
     }
@@ -865,8 +852,6 @@ function showPop(type) {
       resultsHTML += "<td></td><td></td>";
     }
     resultsHTML += "</tr>";
-    //resultsHTML += "<tr><td><b>Overall</b></td><td>" + overallAR.toFixed(2) + "%</td><td></td><td>" + overallCR.toFixed(2) + "%</td><td>" + overallGold.toFixed(2) + "</td><td>" + overallPoints.toFixed(2) + "</td><td>" + overallTP.toFixed(2) + "+-" + overallPX2.toFixed(2) + " (" + percentSD.toFixed(2) + "%)</td></tr>";
-
     results.innerHTML = resultsHTML;
 
     var resort = true,
@@ -879,7 +864,7 @@ function showPop(type) {
   function extractPopArrayLPC(location, phase, cheese) {
     var popArrayLPC = popArray[location][phase][cheese];
 
-    //For common cheeses e.g. gouda, brie etc.
+    // For common cheeses e.g. Gouda, Brie etc.
     if (popArrayLPC === undefined && cheese !== "Cheese") {
       var popArrayL = popArray[location][phase];
       var locationKeys = Object.keys(popArrayL || []);
@@ -941,7 +926,7 @@ function loadCheeseDropdown(locationName, phaseName) {
     for (var key in cheeses) {
       var option = cheeses[key];
       if (option.indexOf("/") < 0 || contains(option, "Combat")) {
-        //Fix this master cheese thingy
+        // TODO: Fix this master cheese thingy
         cheeseDropdownHTML += "<option>" + option + "</option>\n";
       } else {
         var optionArray = option.split("/");
@@ -1051,12 +1036,12 @@ function cheeseChanged() {
   cheeseName = select.value;
   updateLink();
 
-  //Basic cheese costs
+  // Basic cheese costs
   var costElement = document.getElementById("cheeseCost");
   cheeseCost = standardCheeseCost[cheeseName] || 0;
   costElement.value = cheeseCost;
 
-  //Toxic checks
+  // Toxic check
   checkToxicWidget(document.getElementById("toggleCustom").checked);
 
   showPop();
@@ -1075,64 +1060,10 @@ function weaponChanged() {
   weaponName = select.value;
   populateWeaponData(weaponName);
 
-  //Certain weapons have special effects when paired with particular charms (e.g. Festive + Snowball)
+  // Certain weapons have special effects when paired with particular charms (e.g. Festive + Snowball)
   charmChangeCommon();
   calculateTrapSetup();
 }
-
-// function icebergPhase() {
-//     var autoPhase = "";
-//     switch (phaseName) {
-//         case "Treacherous Tunnels":
-//             if (baseName === "Magnet Base" || baseName === "Ultimate Iceberg Base") {
-//                 autoPhase = "Treacherous Tunnels (Magnet)";
-//             }
-//             break;
-//         case "Treacherous Tunnels (Magnet)":
-//             if (baseName !== "Magnet Base" || baseName !== "Ultimate Iceberg Base") {
-//                 autoPhase = "Treacherous Tunnels";
-//             }
-//             break;
-//         case "Bombing Run":
-//             if (baseName === "Remote Detonator Base" || baseName === "Ultimate Iceberg Base") {
-//                 autoPhase = "Bombing Run (Remote Detonator)";
-//             }
-//             break;
-//         case "Bombing Run (Remote Detonator)":
-//             if (baseName !== "Remote Detonator Base" || baseName !== "Ultimate Iceberg Base") {
-//                 autoPhase = "Bombing Run";
-//             }
-//             break;
-//         case "The Mad Depths":
-//             if (baseName === "Magnet Base" || baseName === "Ultimate Iceberg Base") {
-//                 autoPhase = "The Mad Depths (Magnet)";
-//             }
-//             break;
-//         case "The Mad Depths (Magnet)":
-//             if (baseName !== "Magnet Base" || baseName !== "Ultimate Iceberg Base") {
-//                 autoPhase = "The Mad Depths";
-//             }
-//             break;
-//         case "The Mad Depths":
-//             if (baseName === "Hearthstone Base" || baseName === "Ultimate Iceberg Base") {
-//                 autoPhase = "The Mad Depths (Hearthstone)";
-//             }
-//             break;
-//         case "The Mad Depths (Hearthstone)":
-//             if (baseName !== "Hearthstone Base" || baseName !== "Ultimate Iceberg Base") {
-//                 autoPhase = "The Mad Depths";
-//             }
-//             break;
-//         default:
-//             autoPhase = "";
-//     }
-
-//     if (autoPhase !== "") {
-//         var phaseSelect = document.getElementById("phase");
-//         phaseSelect.value = autoPhase;
-//         phaseChanged();
-//     }
-// }
 
 function icebergPhase() {
   var autoPhase = "";
@@ -1221,7 +1152,7 @@ function baseChanged() {
   icebergPhase();
   populateBaseData(baseName);
 
-  //Certain bases have special effects when paired with particular charms
+  // Certain bases have special effects when paired with particular charms
   charmChangeCommon();
   calculateTrapSetup();
 }
