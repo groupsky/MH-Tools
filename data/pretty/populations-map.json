@@ -16179,830 +16179,6 @@
             }
         }
     },
-    "Slimefist": {
-        "Toxic Spill": {
-            "Archduke/Archduchess": {
-                "Rancid Radioactive Blue": {
-                    "-": 14.28,
-                    "Super Rotten": 11.98,
-                    "Rotten": 11.16
-                }
-            },
-            "Grand Duke/Grand Duchess": {
-                "Rancid Radioactive Blue": {
-                    "-": 8.99,
-                    "Super Rotten": 7.37,
-                    "Rotten": 7.81
-                }
-            },
-            "Duke/Duchess": {
-                "Rancid Radioactive Blue": {
-                    "-": 14.66,
-                    "Super Rotten": 12,
-                    "Rotten": 12.58
-                }
-            }
-        }
-    },
-    "Telekinetic Mutant": {
-        "Toxic Spill": {
-            "Archduke/Archduchess": {
-                "Rancid Radioactive Blue": {
-                    "-": 10.73,
-                    "Super Rotten": 8.72,
-                    "Rotten": 9.22
-                }
-            },
-            "Grand Duke/Grand Duchess": {
-                "Rancid Radioactive Blue": {
-                    "-": 12.27,
-                    "Super Rotten": 9.7,
-                    "Rotten": 10.88
-                }
-            },
-            "Duke/Duchess": {
-                "Rancid Radioactive Blue": {
-                    "-": 11.38,
-                    "Super Rotten": 9.35,
-                    "Rotten": 9.62
-                }
-            },
-            "Count/Countess": {
-                "Rancid Radioactive Blue": {
-                    "-": 12.53,
-                    "Super Rotten": 9.8,
-                    "Rotten": 10.55
-                }
-            }
-        }
-    },
-    "Outbreak Assassin": {
-        "Toxic Spill": {
-            "Archduke/Archduchess": {
-                "Rancid Radioactive Blue": {
-                    "-": 10.4,
-                    "Super Rotten": 8.89,
-                    "Rotten": 10.19
-                }
-            },
-            "Grand Duke/Grand Duchess": {
-                "Rancid Radioactive Blue": {
-                    "-": 11.12,
-                    "Super Rotten": 9.21,
-                    "Rotten": 9.34
-                }
-            },
-            "Duke/Duchess": {
-                "Rancid Radioactive Blue": {
-                    "-": 13.48,
-                    "Super Rotten": 11.23,
-                    "Rotten": 11.56
-                }
-            }
-        }
-    },
-    "Mutated Behemoth": {
-        "Toxic Spill": {
-            "Archduke/Archduchess": {
-                "Rancid Radioactive Blue": {
-                    "-": 9.07,
-                    "Super Rotten": 8.48,
-                    "Rotten": 8.19
-                }
-            }
-        }
-    },
-    "Toxic Warrior": {
-        "Toxic Spill": {
-            "Archduke/Archduchess": {
-                "Rancid Radioactive Blue": {
-                    "-": 8.93,
-                    "Super Rotten": 7.29,
-                    "Rotten": 8
-                }
-            },
-            "Grand Duke/Grand Duchess": {
-                "Rancid Radioactive Blue": {
-                    "-": 11.12,
-                    "Super Rotten": 8.87,
-                    "Rotten": 9.25
-                }
-            },
-            "Duke/Duchess": {
-                "Rancid Radioactive Blue": {
-                    "-": 14.65,
-                    "Super Rotten": 11.92,
-                    "Rotten": 12.56
-                }
-            }
-        }
-    },
-    "Mutant Mongrel": {
-        "Toxic Spill": {
-            "Archduke/Archduchess": {
-                "Rancid Radioactive Blue": {
-                    "-": 8.89,
-                    "Super Rotten": 6.29,
-                    "Rotten": 7.4
-                }
-            },
-            "Grand Duke/Grand Duchess": {
-                "Rancid Radioactive Blue": {
-                    "-": 9.9,
-                    "Super Rotten": 8.08,
-                    "Rotten": 8.75
-                }
-            },
-            "Duke/Duchess": {
-                "Rancid Radioactive Blue": {
-                    "-": 12.52,
-                    "Super Rotten": 10.05,
-                    "Rotten": 10.75
-                }
-            }
-        }
-    },
-    "Sludge Swimmer": {
-        "Toxic Spill": {
-            "Archduke/Archduchess": {
-                "Rancid Radioactive Blue": {
-                    "-": 8.46,
-                    "Super Rotten": 7.5,
-                    "Rotten": 8.37
-                }
-            },
-            "Grand Duke/Grand Duchess": {
-                "Rancid Radioactive Blue": {
-                    "-": 5.68,
-                    "Super Rotten": 4.45,
-                    "Rotten": 4.88
-                }
-            }
-        }
-    },
-    "The Menace": {
-        "Toxic Spill": {
-            "Archduke/Archduchess": {
-                "Rancid Radioactive Blue": {
-                    "-": 5.77,
-                    "Super Rotten": 5.69,
-                    "Rotten": 6.06
-                }
-            },
-            "Grand Duke/Grand Duchess": {
-                "Rancid Radioactive Blue": {
-                    "-": 4.39,
-                    "Super Rotten": 3.74,
-                    "Rotten": 3.71
-                }
-            }
-        }
-    },
-    "Tentacle": {
-        "Toxic Spill": {
-            "Archduke/Archduchess": {
-                "Rancid Radioactive Blue": {
-                    "-": 5.4,
-                    "Super Rotten": 4.21,
-                    "Rotten": 4.06
-                }
-            },
-            "Grand Duke/Grand Duchess": {
-                "Rancid Radioactive Blue": {
-                    "-": 6.63,
-                    "Super Rotten": 5.41,
-                    "Rotten": 6.1
-                }
-            },
-            "Duke/Duchess": {
-                "Rancid Radioactive Blue": {
-                    "-": 4.56,
-                    "Super Rotten": 3.86,
-                    "Rotten": 3.93
-                }
-            },
-            "Count/Countess": {
-                "Rancid Radioactive Blue": {
-                    "-": 12.38,
-                    "Super Rotten": 9.9,
-                    "Rotten": 10.48
-                }
-            }
-        }
-    },
-    "Biohazard": {
-        "Toxic Spill": {
-            "Archduke/Archduchess": {
-                "Rancid Radioactive Blue": {
-                    "-": 5.26,
-                    "Super Rotten": 4.71,
-                    "Rotten": 4.55
-                }
-            },
-            "Grand Duke/Grand Duchess": {
-                "Rancid Radioactive Blue": {
-                    "-": 5.54,
-                    "Super Rotten": 4.53,
-                    "Rotten": 4.49
-                }
-            },
-            "Duke/Duchess": {
-                "Rancid Radioactive Blue": {
-                    "-": 4.58,
-                    "Super Rotten": 3.85,
-                    "Rotten": 3.85
-                }
-            },
-            "Count/Countess": {
-                "Rancid Radioactive Blue": {
-                    "-": 12.41,
-                    "Super Rotten": 9.87,
-                    "Rotten": 10.46
-                }
-            }
-        }
-    },
-    "Mutant Ninja": {
-        "Toxic Spill": {
-            "Archduke/Archduchess": {
-                "Rancid Radioactive Blue": {
-                    "-": 4.92,
-                    "Super Rotten": 3.85,
-                    "Rotten": 3.7
-                }
-            },
-            "Grand Duke/Grand Duchess": {
-                "Rancid Radioactive Blue": {
-                    "-": 6.62,
-                    "Super Rotten": 5.43,
-                    "Rotten": 5.57
-                }
-            },
-            "Duke/Duchess": {
-                "Rancid Radioactive Blue": {
-                    "-": 3.52,
-                    "Super Rotten": 2.78,
-                    "Rotten": 2.89
-                }
-            },
-            "Count/Countess": {
-                "Rancid Radioactive Blue": {
-                    "-": 8.63,
-                    "Super Rotten": 7.01,
-                    "Rotten": 7.36
-                }
-            }
-        }
-    },
-    "Sludge Soaker": {
-        "Toxic Spill": {
-            "Archduke/Archduchess": {
-                "Rancid Radioactive Blue": {
-                    "-": 2.97,
-                    "Super Rotten": 1.84,
-                    "Rotten": 2.06
-                }
-            },
-            "Grand Duke/Grand Duchess": {
-                "Rancid Radioactive Blue": {
-                    "-": 5.58,
-                    "Super Rotten": 4.74,
-                    "Rotten": 4.82
-                }
-            },
-            "Duke/Duchess": {
-                "Rancid Radioactive Blue": {
-                    "-": 2.4,
-                    "Super Rotten": 1.95,
-                    "Rotten": 2.04
-                }
-            },
-            "Count/Countess": {
-                "Rancid Radioactive Blue": {
-                    "-": 15.04,
-                    "Super Rotten": 12.11,
-                    "Rotten": 12.63
-                }
-            },
-            "Baron/Baroness": {
-                "Rancid Radioactive Blue": {
-                    "-": 26.16,
-                    "Super Rotten": 21.04,
-                    "Rotten": 22.03
-                }
-            },
-            "Lord/Lady": {
-                "Rancid Radioactive Blue": {
-                    "-": 11,
-                    "Super Rotten": 8.86,
-                    "Rotten": 9.51
-                }
-            }
-        }
-    },
-    "Plague Hag": {
-        "Toxic Spill": {
-            "Archduke/Archduchess": {
-                "Rancid Radioactive Blue": {
-                    "-": 2.82,
-                    "Super Rotten": 2.22,
-                    "Rotten": 1.39
-                }
-            },
-            "Grand Duke/Grand Duchess": {
-                "Rancid Radioactive Blue": {
-                    "-": 7.81,
-                    "Super Rotten": 6.35,
-                    "Rotten": 6.5
-                }
-            },
-            "Duke/Duchess": {
-                "Rancid Radioactive Blue": {
-                    "-": 6.83,
-                    "Super Rotten": 5.61,
-                    "Rotten": 6.01
-                }
-            },
-            "Count/Countess": {
-                "Rancid Radioactive Blue": {
-                    "-": 15,
-                    "Super Rotten": 12.19,
-                    "Rotten": 12.72
-                }
-            },
-            "Baron/Baroness": {
-                "Rancid Radioactive Blue": {
-                    "-": 27.28,
-                    "Super Rotten": 21.71,
-                    "Rotten": 23.13
-                }
-            },
-            "Lord/Lady": {
-                "Rancid Radioactive Blue": {
-                    "-": 11.15,
-                    "Super Rotten": 9.04,
-                    "Rotten": 9.48
-                }
-            }
-        }
-    },
-    "Scrap Metal Monster": {
-        "Toxic Spill": {
-            "Archduke/Archduchess": {
-                "Rancid Radioactive Blue": {
-                    "-": 2.09,
-                    "Super Rotten": 1.66,
-                    "Rotten": 1.52
-                }
-            },
-            "Grand Duke/Grand Duchess": {
-                "Rancid Radioactive Blue": {
-                    "-": 4.37,
-                    "Super Rotten": 3.78,
-                    "Rotten": 3.72
-                }
-            },
-            "Duke/Duchess": {
-                "Rancid Radioactive Blue": {
-                    "-": 2.29,
-                    "Super Rotten": 1.88,
-                    "Rotten": 2
-                }
-            },
-            "Count/Countess": {
-                "Rancid Radioactive Blue": {
-                    "-": 6.3,
-                    "Super Rotten": 5.03,
-                    "Rotten": 5.32
-                }
-            },
-            "Baron/Baroness": {
-                "Rancid Radioactive Blue": {
-                    "-": 6.28,
-                    "Super Rotten": 5.05,
-                    "Rotten": 5.28
-                }
-            },
-            "Lord/Lady": {
-                "Rancid Radioactive Blue": {
-                    "-": 6.31,
-                    "Super Rotten": 4.96,
-                    "Rotten": 5.1
-                }
-            }
-        }
-    },
-    "Hazmat": {
-        "Toxic Spill": {
-            "Archduke/Archduchess": {
-                "Rancid Radioactive Blue": {
-                    "Super Rotten": 13.13
-                }
-            },
-            "Grand Duke/Grand Duchess": {
-                "Rancid Radioactive Blue": {
-                    "Super Rotten": 13.56
-                }
-            },
-            "Duke/Duchess": {
-                "Rancid Radioactive Blue": {
-                    "Super Rotten": 13.63
-                }
-            },
-            "Count/Countess": {
-                "Rancid Radioactive Blue": {
-                    "Super Rotten": 15.05
-                }
-            },
-            "Baron/Baroness": {
-                "Rancid Radioactive Blue": {
-                    "Super Rotten": 14.96
-                }
-            },
-            "Lord/Lady": {
-                "Rancid Radioactive Blue": {
-                    "Super Rotten": 14.89
-                }
-            },
-            "Knight": {
-                "Rancid Radioactive Blue": {
-                    "Super Rotten": 14.21
-                }
-            },
-            "Hero": {
-                "Rancid Radioactive Blue": {
-                    "Super Rotten": 13.96
-                }
-            }
-        }
-    },
-    "Lab Technician": {
-        "Toxic Spill": {
-            "Archduke/Archduchess": {
-                "Rancid Radioactive Blue": {
-                    "Super Rotten": 3.53,
-                    "Rotten": 14.13
-                }
-            },
-            "Grand Duke/Grand Duchess": {
-                "Rancid Radioactive Blue": {
-                    "Super Rotten": 4.78,
-                    "Rotten": 14.16
-                }
-            },
-            "Duke/Duchess": {
-                "Rancid Radioactive Blue": {
-                    "Super Rotten": 4.47,
-                    "Rotten": 14.42
-                }
-            },
-            "Count/Countess": {
-                "Rancid Radioactive Blue": {
-                    "Super Rotten": 5.02,
-                    "Rotten": 15.69
-                }
-            },
-            "Baron/Baroness": {
-                "Rancid Radioactive Blue": {
-                    "Super Rotten": 4.95,
-                    "Rotten": 15.67
-                }
-            },
-            "Lord/Lady": {
-                "Rancid Radioactive Blue": {
-                    "Super Rotten": 4.98,
-                    "Rotten": 15.61
-                }
-            },
-            "Knight": {
-                "Rancid Radioactive Blue": {
-                    "Super Rotten": 4.55,
-                    "Rotten": 15
-                }
-            },
-            "Hero": {
-                "Rancid Radioactive Blue": {
-                    "Super Rotten": 4.81,
-                    "Rotten": 15.08
-                }
-            }
-        }
-    },
-    "Gelatinous Octahedron": {
-        "Toxic Spill": {
-            "Duke/Duchess": {
-                "Rancid Radioactive Blue": {
-                    "-": 2.3,
-                    "Super Rotten": 1.85,
-                    "Rotten": 1.95
-                }
-            },
-            "Count/Countess": {
-                "Rancid Radioactive Blue": {
-                    "-": 7.58,
-                    "Super Rotten": 6,
-                    "Rotten": 6.38
-                }
-            },
-            "Baron/Baroness": {
-                "Rancid Radioactive Blue": {
-                    "-": 22.45,
-                    "Super Rotten": 17.86,
-                    "Rotten": 18.85
-                }
-            },
-            "Lord/Lady": {
-                "Rancid Radioactive Blue": {
-                    "-": 17.54,
-                    "Super Rotten": 14.04,
-                    "Rotten": 14.73
-                }
-            },
-            "Knight": {
-                "Rancid Radioactive Blue": {
-                    "-": 5.72,
-                    "Super Rotten": 4.67,
-                    "Rotten": 5.08
-                }
-            }
-        }
-    },
-    "Mutated Siblings": {
-        "Toxic Spill": {
-            "Duke/Duchess": {
-                "Rancid Radioactive Blue": {
-                    "-": 1.17,
-                    "Super Rotten": 0.92,
-                    "Rotten": 0.93
-                }
-            },
-            "Count/Countess": {
-                "Rancid Radioactive Blue": {
-                    "-": 1.25,
-                    "Super Rotten": 1.04,
-                    "Rotten": 1.08
-                }
-            },
-            "Baron/Baroness": {
-                "Rancid Radioactive Blue": {
-                    "-": 1.24,
-                    "Super Rotten": 1.05,
-                    "Rotten": 1.09
-                }
-            },
-            "Lord/Lady": {
-                "Rancid Radioactive Blue": {
-                    "-": 3.74,
-                    "Super Rotten": 3.11,
-                    "Rotten": 3.1
-                }
-            },
-            "Knight": {
-                "Rancid Radioactive Blue": {
-                    "-": 4.97,
-                    "Super Rotten": 3.97,
-                    "Rotten": 4.33
-                }
-            },
-            "Hero": {
-                "Rancid Radioactive Blue": {
-                    "-": 24.36,
-                    "Super Rotten": 20.51,
-                    "Rotten": 20.86
-                }
-            }
-        }
-    },
-    "Monster Tail": {
-        "Toxic Spill": {
-            "Duke/Duchess": {
-                "Rancid Radioactive Blue": {
-                    "-": 1.14,
-                    "Super Rotten": 0.91,
-                    "Rotten": 0.97
-                }
-            },
-            "Count/Countess": {
-                "Rancid Radioactive Blue": {
-                    "-": 2.55,
-                    "Super Rotten": 1.98,
-                    "Rotten": 2.09
-                }
-            },
-            "Baron/Baroness": {
-                "Rancid Radioactive Blue": {
-                    "-": 6.28,
-                    "Super Rotten": 5.13,
-                    "Rotten": 5.38
-                }
-            },
-            "Lord/Lady": {
-                "Rancid Radioactive Blue": {
-                    "-": 13.95,
-                    "Super Rotten": 11.03,
-                    "Rotten": 11.72
-                }
-            },
-            "Knight": {
-                "Rancid Radioactive Blue": {
-                    "-": 32.44,
-                    "Super Rotten": 26.5,
-                    "Rotten": 27.67
-                }
-            },
-            "Hero": {
-                "Rancid Radioactive Blue": {
-                    "-": 10.41,
-                    "Super Rotten": 8.49,
-                    "Rotten": 8.96
-                }
-            }
-        }
-    },
-    "Bog Beast": {
-        "Toxic Spill": {
-            "Duke/Duchess": {
-                "Rancid Radioactive Blue": {
-                    "-": 1.13,
-                    "Super Rotten": 0.95,
-                    "Rotten": 1
-                }
-            },
-            "Count/Countess": {
-                "Rancid Radioactive Blue": {
-                    "-": 2.53,
-                    "Super Rotten": 2.04,
-                    "Rotten": 2.07
-                }
-            },
-            "Baron/Baroness": {
-                "Rancid Radioactive Blue": {
-                    "-": 2.51,
-                    "Super Rotten": 2.05,
-                    "Rotten": 2.13
-                }
-            },
-            "Lord/Lady": {
-                "Rancid Radioactive Blue": {
-                    "-": 2.55,
-                    "Super Rotten": 2.02,
-                    "Rotten": 2.16
-                }
-            },
-            "Knight": {
-                "Rancid Radioactive Blue": {
-                    "-": 4.68,
-                    "Super Rotten": 3.76,
-                    "Rotten": 3.82
-                }
-            },
-            "Hero": {
-                "Rancid Radioactive Blue": {
-                    "-": 3.44,
-                    "Super Rotten": 3.03,
-                    "Rotten": 3.14
-                }
-            }
-        }
-    },
-    "Sludge": {
-        "Toxic Spill": {
-            "Duke/Duchess": {
-                "Rancid Radioactive Blue": {
-                    "-": 1.14,
-                    "Super Rotten": 0.97,
-                    "Rotten": 0.99
-                }
-            },
-            "Count/Countess": {
-                "Rancid Radioactive Blue": {
-                    "-": 1.27,
-                    "Super Rotten": 1.02,
-                    "Rotten": 1.09
-                }
-            },
-            "Baron/Baroness": {
-                "Rancid Radioactive Blue": {
-                    "-": 1.39,
-                    "Super Rotten": 1.16,
-                    "Rotten": 1.14
-                }
-            },
-            "Lord/Lady": {
-                "Rancid Radioactive Blue": {
-                    "-": 17.31,
-                    "Super Rotten": 13.83,
-                    "Rotten": 14.78
-                }
-            },
-            "Knight": {
-                "Rancid Radioactive Blue": {
-                    "-": 14.28,
-                    "Super Rotten": 11.91,
-                    "Rotten": 12.11
-                }
-            },
-            "Hero": {
-                "Rancid Radioactive Blue": {
-                    "-": 23.68,
-                    "Super Rotten": 18.95,
-                    "Rotten": 20.14
-                }
-            }
-        }
-    },
-    "Spore": {
-        "Toxic Spill": {
-            "Duke/Duchess": {
-                "Rancid Radioactive Blue": {
-                    "-": 1.13,
-                    "Super Rotten": 0.88,
-                    "Rotten": 1
-                }
-            },
-            "Count/Countess": {
-                "Rancid Radioactive Blue": {
-                    "-": 1.27,
-                    "Super Rotten": 0.98,
-                    "Rotten": 1.07
-                }
-            },
-            "Baron/Baroness": {
-                "Rancid Radioactive Blue": {
-                    "-": 5.13,
-                    "Super Rotten": 4.04,
-                    "Rotten": 4.2
-                }
-            },
-            "Lord/Lady": {
-                "Rancid Radioactive Blue": {
-                    "-": 13.9,
-                    "Super Rotten": 11.26,
-                    "Rotten": 11.67
-                }
-            },
-            "Knight": {
-                "Rancid Radioactive Blue": {
-                    "-": 32.78,
-                    "Super Rotten": 26.33,
-                    "Rotten": 27.75
-                }
-            },
-            "Hero": {
-                "Rancid Radioactive Blue": {
-                    "-": 11.95,
-                    "Super Rotten": 9.26,
-                    "Rotten": 9.87
-                }
-            }
-        }
-    },
-    "Swamp Runner": {
-        "Toxic Spill": {
-            "Duke/Duchess": {
-                "Rancid Radioactive Blue": {
-                    "-": 1.12,
-                    "Super Rotten": 0.94,
-                    "Rotten": 0.97
-                }
-            },
-            "Count/Countess": {
-                "Rancid Radioactive Blue": {
-                    "-": 1.27,
-                    "Super Rotten": 0.99,
-                    "Rotten": 1.02
-                }
-            },
-            "Baron/Baroness": {
-                "Rancid Radioactive Blue": {
-                    "-": 1.27,
-                    "Super Rotten": 1.01,
-                    "Rotten": 1.1
-                }
-            },
-            "Lord/Lady": {
-                "Rancid Radioactive Blue": {
-                    "-": 2.55,
-                    "Super Rotten": 1.98,
-                    "Rotten": 2.15
-                }
-            },
-            "Knight": {
-                "Rancid Radioactive Blue": {
-                    "-": 5.14,
-                    "Super Rotten": 4.1,
-                    "Rotten": 4.25
-                }
-            },
-            "Hero": {
-                "Rancid Radioactive Blue": {
-                    "-": 26.16,
-                    "Super Rotten": 20.99,
-                    "Rotten": 21.95
-                }
-            }
-        }
-    },
     "Dumpling Chef": {
         "Training Grounds": {
             "-": {
@@ -22859,6 +22035,1349 @@
             "Storm high": {
                 "Dragonvine": {
                     "-": 5
+                }
+            }
+        }
+    },
+    "Swamp Runner": {
+        "Toxic Spill": {
+            "Hero": {
+                "Rancid Radioactive Blue": {
+                    "-": 20.95,
+                    "Rotten": 17.95,
+                    "Super Rotten": 16.11
+                },
+                "Magical Rancid Radioactive Blue": {
+                    "-": 2.11
+                }
+            },
+            "Knight": {
+                "Rancid Radioactive Blue": {
+                    "-": 6.62,
+                    "Rotten": 4.3,
+                    "Super Rotten": 5.31
+                },
+                "Magical Rancid Radioactive Blue": {
+                    "-": 2.86
+                }
+            },
+            "Lord/Lady": {
+                "Rancid Radioactive Blue": {
+                    "-": 1.54,
+                    "Rotten": 2.17,
+                    "Super Rotten": 1.51
+                },
+                "Magical Rancid Radioactive Blue": {
+                    "-": 1.23
+                }
+            },
+            "Baron/Baroness": {
+                "Rancid Radioactive Blue": {
+                    "-": 1.4,
+                    "Rotten": 1.18,
+                    "Super Rotten": 0.8
+                }
+            },
+            "Count/Countess": {
+                "Rancid Radioactive Blue": {
+                    "-": 1.08,
+                    "Rotten": 0.94,
+                    "Super Rotten": 1.64
+                },
+                "Magical Rancid Radioactive Blue": {
+                    "-": 2.33
+                }
+            },
+            "Duke/Duchess": {
+                "Rancid Radioactive Blue": {
+                    "-": 0.83,
+                    "Rotten": 1.48,
+                    "Super Rotten": 0.89
+                },
+                "Magical Rancid Radioactive Blue": {
+                    "-": 1.45
+                }
+            }
+        }
+    },
+    "Mutated Siblings": {
+        "Toxic Spill": {
+            "Hero": {
+                "Rancid Radioactive Blue": {
+                    "-": 20.95,
+                    "Rotten": 21.03,
+                    "Super Rotten": 14.09
+                },
+                "Magical Rancid Radioactive Blue": {
+                    "-": 2.11
+                }
+            },
+            "Knight": {
+                "Rancid Radioactive Blue": {
+                    "-": 3.63,
+                    "Rotten": 4.3,
+                    "Super Rotten": 2.65
+                },
+                "Magical Rancid Radioactive Blue": {
+                    "-": 3.57
+                }
+            },
+            "Lord/Lady": {
+                "Rancid Radioactive Blue": {
+                    "-": 2.79,
+                    "Rotten": 1.45,
+                    "Super Rotten": 1.34
+                },
+                "Magical Rancid Radioactive Blue": {
+                    "-": 1.85
+                }
+            },
+            "Baron/Baroness": {
+                "Rancid Radioactive Blue": {
+                    "-": 3.78,
+                    "Rotten": 2.36,
+                    "Super Rotten": 3.08
+                }
+            },
+            "Count/Countess": {
+                "Rancid Radioactive Blue": {
+                    "-": 2.16,
+                    "Rotten": 0.54,
+                    "Super Rotten": 1.75
+                },
+                "Magical Rancid Radioactive Blue": {
+                    "-": 0.58
+                }
+            },
+            "Duke/Duchess": {
+                "Rancid Radioactive Blue": {
+                    "-": 1.27,
+                    "Rotten": 0.84,
+                    "Super Rotten": 0.53
+                },
+                "Magical Rancid Radioactive Blue": {
+                    "-": 2.9
+                }
+            }
+        }
+    },
+    "Sludge": {
+        "Toxic Spill": {
+            "Hero": {
+                "Rancid Radioactive Blue": {
+                    "-": 20,
+                    "Rotten": 11.79,
+                    "Super Rotten": 18.12
+                },
+                "Magical Rancid Radioactive Blue": {
+                    "-": 4.23
+                }
+            },
+            "Knight": {
+                "Rancid Radioactive Blue": {
+                    "-": 13.46,
+                    "Rotten": 8.82,
+                    "Super Rotten": 13.27
+                },
+                "Magical Rancid Radioactive Blue": {
+                    "-": 3.57
+                }
+            },
+            "Lord/Lady": {
+                "Rancid Radioactive Blue": {
+                    "-": 19.41,
+                    "Rotten": 16.39,
+                    "Super Rotten": 16.42
+                }
+            },
+            "Baron/Baroness": {
+                "Rancid Radioactive Blue": {
+                    "-": 1.08,
+                    "Rotten": 1.18,
+                    "Super Rotten": 1.47
+                },
+                "Magical Rancid Radioactive Blue": {
+                    "-": 0.68
+                }
+            },
+            "Count/Countess": {
+                "Rancid Radioactive Blue": {
+                    "-": 1.26,
+                    "Rotten": 1.21,
+                    "Super Rotten": 0.92
+                }
+            },
+            "Duke/Duchess": {
+                "Rancid Radioactive Blue": {
+                    "-": 0.94,
+                    "Rotten": 0.84,
+                    "Super Rotten": 0.8
+                },
+                "Magical Rancid Radioactive Blue": {
+                    "-": 2.17
+                }
+            }
+        }
+    },
+    "Monster Tail": {
+        "Toxic Spill": {
+            "Hero": {
+                "Rancid Radioactive Blue": {
+                    "-": 16.9,
+                    "Rotten": 16.41,
+                    "Super Rotten": 11.41
+                },
+                "Magical Rancid Radioactive Blue": {
+                    "-": 13.38
+                }
+            },
+            "Knight": {
+                "Rancid Radioactive Blue": {
+                    "-": 28.21,
+                    "Rotten": 23.01,
+                    "Super Rotten": 23.3
+                },
+                "Magical Rancid Radioactive Blue": {
+                    "-": 4.29
+                }
+            },
+            "Lord/Lady": {
+                "Rancid Radioactive Blue": {
+                    "-": 12.99,
+                    "Rotten": 10.36,
+                    "Super Rotten": 9.21
+                },
+                "Magical Rancid Radioactive Blue": {
+                    "-": 1.23
+                }
+            },
+            "Baron/Baroness": {
+                "Rancid Radioactive Blue": {
+                    "-": 5.39,
+                    "Rotten": 4.72,
+                    "Super Rotten": 5.35
+                },
+                "Magical Rancid Radioactive Blue": {
+                    "-": 2.7
+                }
+            },
+            "Count/Countess": {
+                "Rancid Radioactive Blue": {
+                    "-": 1.44,
+                    "Rotten": 2.15,
+                    "Super Rotten": 2.47
+                },
+                "Magical Rancid Radioactive Blue": {
+                    "-": 0.58
+                }
+            },
+            "Duke/Duchess": {
+                "Rancid Radioactive Blue": {
+                    "-": 0.94,
+                    "Rotten": 0.63,
+                    "Super Rotten": 0.71
+                },
+                "Magical Rancid Radioactive Blue": {
+                    "-": 0.72
+                }
+            }
+        }
+    },
+    "Spore": {
+        "Toxic Spill": {
+            "Hero": {
+                "Rancid Radioactive Blue": {
+                    "-": 16.43,
+                    "Rotten": 15.9,
+                    "Super Rotten": 11.41
+                },
+                "Magical Rancid Radioactive Blue": {
+                    "-": 9.15
+                }
+            },
+            "Knight": {
+                "Rancid Radioactive Blue": {
+                    "-": 30.77,
+                    "Rotten": 27.1,
+                    "Super Rotten": 24.48
+                },
+                "Magical Rancid Radioactive Blue": {
+                    "-": 5
+                }
+            },
+            "Lord/Lady": {
+                "Rancid Radioactive Blue": {
+                    "-": 13.55,
+                    "Rotten": 12.29,
+                    "Super Rotten": 12.06
+                },
+                "Magical Rancid Radioactive Blue": {
+                    "-": 0.62
+                }
+            },
+            "Baron/Baroness": {
+                "Rancid Radioactive Blue": {
+                    "-": 4.1,
+                    "Rotten": 3.54,
+                    "Super Rotten": 2.54
+                },
+                "Magical Rancid Radioactive Blue": {
+                    "-": 0.68
+                }
+            },
+            "Count/Countess": {
+                "Rancid Radioactive Blue": {
+                    "-": 1.2,
+                    "Rotten": 0.54,
+                    "Super Rotten": 1.03
+                }
+            },
+            "Duke/Duchess": {
+                "Rancid Radioactive Blue": {
+                    "-": 0.88,
+                    "Rotten": 0.63,
+                    "Super Rotten": 0.71
+                },
+                "Magical Rancid Radioactive Blue": {
+                    "-": 0.72
+                }
+            }
+        }
+    },
+    "Bog Beast": {
+        "Toxic Spill": {
+            "Hero": {
+                "Rancid Radioactive Blue": {
+                    "-": 4.76,
+                    "Rotten": 2.05,
+                    "Super Rotten": 4.7
+                },
+                "Magical Rancid Radioactive Blue": {
+                    "-": 4.23
+                }
+            },
+            "Knight": {
+                "Rancid Radioactive Blue": {
+                    "-": 5.77,
+                    "Rotten": 3.66,
+                    "Super Rotten": 4.72
+                },
+                "Magical Rancid Radioactive Blue": {
+                    "-": 2.14
+                }
+            },
+            "Lord/Lady": {
+                "Rancid Radioactive Blue": {
+                    "-": 4.61,
+                    "Rotten": 3.13,
+                    "Super Rotten": 2.35
+                },
+                "Magical Rancid Radioactive Blue": {
+                    "-": 1.23
+                }
+            },
+            "Baron/Baroness": {
+                "Rancid Radioactive Blue": {
+                    "-": 4.53,
+                    "Rotten": 1.65,
+                    "Super Rotten": 2.01
+                },
+                "Magical Rancid Radioactive Blue": {
+                    "-": 0.68
+                }
+            },
+            "Count/Countess": {
+                "Rancid Radioactive Blue": {
+                    "-": 2.47,
+                    "Rotten": 1.48,
+                    "Super Rotten": 1.85
+                },
+                "Magical Rancid Radioactive Blue": {
+                    "-": 0.58
+                }
+            },
+            "Duke/Duchess": {
+                "Rancid Radioactive Blue": {
+                    "-": 1.33,
+                    "Rotten": 1.27,
+                    "Super Rotten": 1.16
+                },
+                "Magical Rancid Radioactive Blue": {
+                    "-": 1.45
+                }
+            }
+        }
+    },
+    "Lab Technician": {
+        "Toxic Spill": {
+            "Hero": {
+                "Rancid Radioactive Blue": {
+                    "Rotten": 14.87,
+                    "Super Rotten": 9.73
+                }
+            },
+            "Knight": {
+                "Rancid Radioactive Blue": {
+                    "Rotten": 17.63,
+                    "Super Rotten": 8.85
+                }
+            },
+            "Lord/Lady": {
+                "Rancid Radioactive Blue": {
+                    "Rotten": 15.66,
+                    "Super Rotten": 7.2
+                }
+            },
+            "Baron/Baroness": {
+                "Rancid Radioactive Blue": {
+                    "Rotten": 14.62,
+                    "Super Rotten": 6.29
+                }
+            },
+            "Count/Countess": {
+                "Rancid Radioactive Blue": {
+                    "Rotten": 15.97,
+                    "Super Rotten": 6.58
+                }
+            },
+            "Duke/Duchess": {
+                "Rancid Radioactive Blue": {
+                    "Rotten": 13.71,
+                    "Super Rotten": 4.72
+                }
+            },
+            "Grand Duke/Grand Duchess": {
+                "Rancid Radioactive Blue": {
+                    "Rotten": 9.41,
+                    "Super Rotten": 2.99
+                }
+            },
+            "Archduke/Archduchess": {
+                "Rancid Radioactive Blue": {
+                    "Rotten": 6.38,
+                    "Super Rotten": 4.43
+                }
+            }
+        }
+    },
+    "Hazmat": {
+        "Toxic Spill": {
+            "Hero": {
+                "Rancid Radioactive Blue": {
+                    "Super Rotten": 14.43
+                }
+            },
+            "Knight": {
+                "Rancid Radioactive Blue": {
+                    "Super Rotten": 8.85
+                }
+            },
+            "Lord/Lady": {
+                "Rancid Radioactive Blue": {
+                    "Super Rotten": 12.23
+                }
+            },
+            "Baron/Baroness": {
+                "Rancid Radioactive Blue": {
+                    "Super Rotten": 12.58
+                }
+            },
+            "Count/Countess": {
+                "Rancid Radioactive Blue": {
+                    "Super Rotten": 13.05
+                }
+            },
+            "Duke/Duchess": {
+                "Rancid Radioactive Blue": {
+                    "Super Rotten": 12.83
+                }
+            },
+            "Grand Duke/Grand Duchess": {
+                "Rancid Radioactive Blue": {
+                    "Super Rotten": 13.75
+                }
+            },
+            "Archduke/Archduchess": {
+                "Rancid Radioactive Blue": {
+                    "Super Rotten": 10.34
+                }
+            }
+        }
+    },
+    "Biohazard": {
+        "Toxic Spill": {
+            "Hero": {
+                "Magical Rancid Radioactive Blue": {
+                    "-": 10.56
+                }
+            },
+            "Knight": {
+                "Magical Rancid Radioactive Blue": {
+                    "-": 5.71
+                }
+            },
+            "Lord/Lady": {
+                "Magical Rancid Radioactive Blue": {
+                    "-": 8.02
+                }
+            },
+            "Baron/Baroness": {
+                "Magical Rancid Radioactive Blue": {
+                    "-": 4.05
+                }
+            },
+            "Count/Countess": {
+                "Rancid Radioactive Blue": {
+                    "-": 14.25,
+                    "Rotten": 13.02,
+                    "Super Rotten": 9.87
+                },
+                "Magical Rancid Radioactive Blue": {
+                    "-": 11.63
+                }
+            },
+            "Duke/Duchess": {
+                "Rancid Radioactive Blue": {
+                    "-": 6.74,
+                    "Rotten": 6.33,
+                    "Super Rotten": 4.46
+                },
+                "Magical Rancid Radioactive Blue": {
+                    "-": 1.45
+                }
+            },
+            "Grand Duke/Grand Duchess": {
+                "Rancid Radioactive Blue": {
+                    "-": 5.14,
+                    "Rotten": 4.94,
+                    "Super Rotten": 5.76
+                },
+                "Magical Rancid Radioactive Blue": {
+                    "-": 0.69
+                }
+            },
+            "Archduke/Archduchess": {
+                "Rancid Radioactive Blue": {
+                    "-": 5.84,
+                    "Rotten": 3.55,
+                    "Super Rotten": 2.95
+                },
+                "Magical Rancid Radioactive Blue": {
+                    "-": 0.86
+                }
+            }
+        }
+    },
+    "Scrap Metal Monster": {
+        "Toxic Spill": {
+            "Hero": {
+                "Magical Rancid Radioactive Blue": {
+                    "-": 9.15
+                }
+            },
+            "Knight": {
+                "Magical Rancid Radioactive Blue": {
+                    "-": 5.71
+                }
+            },
+            "Lord/Lady": {
+                "Rancid Radioactive Blue": {
+                    "-": 7.12,
+                    "Rotten": 4.34,
+                    "Super Rotten": 4.86
+                },
+                "Magical Rancid Radioactive Blue": {
+                    "-": 8.02
+                }
+            },
+            "Baron/Baroness": {
+                "Rancid Radioactive Blue": {
+                    "-": 6.04,
+                    "Rotten": 7.08,
+                    "Super Rotten": 4.69
+                },
+                "Magical Rancid Radioactive Blue": {
+                    "-": 4.05
+                }
+            },
+            "Count/Countess": {
+                "Rancid Radioactive Blue": {
+                    "-": 6.19,
+                    "Rotten": 5.77,
+                    "Super Rotten": 5.96
+                },
+                "Magical Rancid Radioactive Blue": {
+                    "-": 1.16
+                }
+            },
+            "Duke/Duchess": {
+                "Rancid Radioactive Blue": {
+                    "-": 1.88,
+                    "Rotten": 1.48,
+                    "Super Rotten": 1.69
+                },
+                "Magical Rancid Radioactive Blue": {
+                    "-": 1.45
+                }
+            },
+            "Grand Duke/Grand Duchess": {
+                "Rancid Radioactive Blue": {
+                    "-": 4.36,
+                    "Rotten": 3.29,
+                    "Super Rotten": 3.84
+                },
+                "Magical Rancid Radioactive Blue": {
+                    "-": 0.83
+                }
+            },
+            "Archduke/Archduchess": {
+                "Rancid Radioactive Blue": {
+                    "-": 1.64,
+                    "Rotten": 2.84,
+                    "Super Rotten": 1.27
+                },
+                "Magical Rancid Radioactive Blue": {
+                    "-": 0.69
+                }
+            }
+        }
+    },
+    "Gelatinous Octahedron": {
+        "Toxic Spill": {
+            "Hero": {
+                "Magical Rancid Radioactive Blue": {
+                    "-": 7.04
+                }
+            },
+            "Knight": {
+                "Rancid Radioactive Blue": {
+                    "-": 11.54,
+                    "Rotten": 11.18,
+                    "Super Rotten": 8.55
+                },
+                "Magical Rancid Radioactive Blue": {
+                    "-": 13.57
+                }
+            },
+            "Lord/Lady": {
+                "Rancid Radioactive Blue": {
+                    "-": 16.9,
+                    "Rotten": 14.46,
+                    "Super Rotten": 14.24
+                }
+            },
+            "Baron/Baroness": {
+                "Rancid Radioactive Blue": {
+                    "-": 21.68,
+                    "Rotten": 15.57,
+                    "Super Rotten": 16.73
+                },
+                "Magical Rancid Radioactive Blue": {
+                    "-": 2.03
+                }
+            },
+            "Count/Countess": {
+                "Rancid Radioactive Blue": {
+                    "-": 7.16,
+                    "Rotten": 6.17,
+                    "Super Rotten": 5.86
+                },
+                "Magical Rancid Radioactive Blue": {
+                    "-": 1.74
+                }
+            },
+            "Duke/Duchess": {
+                "Rancid Radioactive Blue": {
+                    "-": 2.15,
+                    "Rotten": 1.9,
+                    "Super Rotten": 1.52
+                }
+            }
+        }
+    },
+    "Telekinetic Mutant": {
+        "Toxic Spill": {
+            "Hero": {
+                "Magical Rancid Radioactive Blue": {
+                    "-": 6.34
+                }
+            },
+            "Knight": {
+                "Magical Rancid Radioactive Blue": {
+                    "-": 4.29
+                }
+            },
+            "Lord/Lady": {
+                "Magical Rancid Radioactive Blue": {
+                    "-": 6.79
+                }
+            },
+            "Baron/Baroness": {
+                "Magical Rancid Radioactive Blue": {
+                    "-": 4.73
+                }
+            },
+            "Count/Countess": {
+                "Rancid Radioactive Blue": {
+                    "-": 12.03,
+                    "Rotten": 10.74,
+                    "Super Rotten": 10.59
+                },
+                "Magical Rancid Radioactive Blue": {
+                    "-": 13.37
+                }
+            },
+            "Duke/Duchess": {
+                "Rancid Radioactive Blue": {
+                    "-": 9.39,
+                    "Rotten": 7.59,
+                    "Super Rotten": 5.88
+                },
+                "Magical Rancid Radioactive Blue": {
+                    "-": 1.45
+                }
+            },
+            "Grand Duke/Grand Duchess": {
+                "Rancid Radioactive Blue": {
+                    "-": 8.43,
+                    "Rotten": 7.29,
+                    "Super Rotten": 8.32
+                },
+                "Magical Rancid Radioactive Blue": {
+                    "-": 1.1
+                }
+            },
+            "Archduke/Archduchess": {
+                "Rancid Radioactive Blue": {
+                    "-": 10,
+                    "Rotten": 7.8,
+                    "Super Rotten": 7.17
+                },
+                "Magical Rancid Radioactive Blue": {
+                    "-": 0.77
+                }
+            }
+        }
+    },
+    "Plague Hag": {
+        "Toxic Spill": {
+            "Hero": {
+                "Magical Rancid Radioactive Blue": {
+                    "-": 5.63
+                }
+            },
+            "Knight": {
+                "Magical Rancid Radioactive Blue": {
+                    "-": 5.71
+                }
+            },
+            "Lord/Lady": {
+                "Rancid Radioactive Blue": {
+                    "-": 10.47,
+                    "Rotten": 8.67,
+                    "Super Rotten": 8.21
+                },
+                "Magical Rancid Radioactive Blue": {
+                    "-": 9.88
+                }
+            },
+            "Baron/Baroness": {
+                "Rancid Radioactive Blue": {
+                    "-": 27.4,
+                    "Rotten": 24.29,
+                    "Super Rotten": 22.76
+                },
+                "Magical Rancid Radioactive Blue": {
+                    "-": 18.92
+                }
+            },
+            "Count/Countess": {
+                "Rancid Radioactive Blue": {
+                    "-": 15.03,
+                    "Rotten": 10.87,
+                    "Super Rotten": 10.28
+                }
+            },
+            "Duke/Duchess": {
+                "Rancid Radioactive Blue": {
+                    "-": 6.52,
+                    "Rotten": 5.06,
+                    "Super Rotten": 5.53
+                },
+                "Magical Rancid Radioactive Blue": {
+                    "-": 1.45
+                }
+            },
+            "Grand Duke/Grand Duchess": {
+                "Rancid Radioactive Blue": {
+                    "-": 5.43,
+                    "Rotten": 6.59,
+                    "Super Rotten": 5.54
+                },
+                "Magical Rancid Radioactive Blue": {
+                    "-": 1.8
+                }
+            },
+            "Archduke/Archduchess": {
+                "Rancid Radioactive Blue": {
+                    "-": 1.25,
+                    "Rotten": 1.42,
+                    "Super Rotten": 1.05
+                },
+                "Magical Rancid Radioactive Blue": {
+                    "-": 1.37
+                }
+            }
+        }
+    },
+    "Sludge Soaker": {
+        "Toxic Spill": {
+            "Hero": {
+                "Magical Rancid Radioactive Blue": {
+                    "-": 5.63
+                }
+            },
+            "Knight": {
+                "Magical Rancid Radioactive Blue": {
+                    "-": 7.14
+                }
+            },
+            "Lord/Lady": {
+                "Rancid Radioactive Blue": {
+                    "-": 10.61,
+                    "Rotten": 11.08,
+                    "Super Rotten": 10.39
+                },
+                "Magical Rancid Radioactive Blue": {
+                    "-": 15.43
+                }
+            },
+            "Baron/Baroness": {
+                "Rancid Radioactive Blue": {
+                    "-": 24.6,
+                    "Rotten": 23.82,
+                    "Super Rotten": 21.69
+                },
+                "Magical Rancid Radioactive Blue": {
+                    "-": 6.76
+                }
+            },
+            "Count/Countess": {
+                "Rancid Radioactive Blue": {
+                    "-": 13.59,
+                    "Rotten": 14.23,
+                    "Super Rotten": 12.02
+                },
+                "Magical Rancid Radioactive Blue": {
+                    "-": 1.74
+                }
+            },
+            "Duke/Duchess": {
+                "Rancid Radioactive Blue": {
+                    "-": 2.15,
+                    "Rotten": 1.48,
+                    "Super Rotten": 1.34
+                },
+                "Magical Rancid Radioactive Blue": {
+                    "-": 0.72
+                }
+            },
+            "Grand Duke/Grand Duchess": {
+                "Rancid Radioactive Blue": {
+                    "-": 6.32,
+                    "Rotten": 9.41,
+                    "Super Rotten": 6.4
+                },
+                "Magical Rancid Radioactive Blue": {
+                    "-": 1.24
+                }
+            },
+            "Archduke/Archduchess": {
+                "Rancid Radioactive Blue": {
+                    "-": 1.03,
+                    "Rotten": 0.71,
+                    "Super Rotten": 1.27
+                },
+                "Magical Rancid Radioactive Blue": {
+                    "-": 1.2
+                }
+            }
+        }
+    },
+    "Tentacle": {
+        "Toxic Spill": {
+            "Hero": {
+                "Magical Rancid Radioactive Blue": {
+                    "-": 4.23
+                }
+            },
+            "Knight": {
+                "Magical Rancid Radioactive Blue": {
+                    "-": 5.71
+                }
+            },
+            "Lord/Lady": {
+                "Magical Rancid Radioactive Blue": {
+                    "-": 7.41
+                }
+            },
+            "Baron/Baroness": {
+                "Magical Rancid Radioactive Blue": {
+                    "-": 4.73
+                }
+            },
+            "Count/Countess": {
+                "Rancid Radioactive Blue": {
+                    "-": 13.05,
+                    "Rotten": 9.4,
+                    "Super Rotten": 9.66
+                },
+                "Magical Rancid Radioactive Blue": {
+                    "-": 14.53
+                }
+            },
+            "Duke/Duchess": {
+                "Rancid Radioactive Blue": {
+                    "-": 5.19,
+                    "Rotten": 4.64,
+                    "Super Rotten": 4.81
+                }
+            },
+            "Grand Duke/Grand Duchess": {
+                "Rancid Radioactive Blue": {
+                    "-": 5,
+                    "Rotten": 4.24,
+                    "Super Rotten": 3.73
+                },
+                "Magical Rancid Radioactive Blue": {
+                    "-": 1.38
+                }
+            },
+            "Archduke/Archduchess": {
+                "Rancid Radioactive Blue": {
+                    "-": 5.34,
+                    "Rotten": 4.26,
+                    "Super Rotten": 4.64
+                },
+                "Magical Rancid Radioactive Blue": {
+                    "-": 1.03
+                }
+            }
+        }
+    },
+    "Mutant Mongrel": {
+        "Toxic Spill": {
+            "Hero": {
+                "Magical Rancid Radioactive Blue": {
+                    "-": 4.23
+                }
+            },
+            "Knight": {
+                "Magical Rancid Radioactive Blue": {
+                    "-": 5.71
+                }
+            },
+            "Lord/Lady": {
+                "Magical Rancid Radioactive Blue": {
+                    "-": 7.41
+                }
+            },
+            "Baron/Baroness": {
+                "Magical Rancid Radioactive Blue": {
+                    "-": 6.76
+                }
+            },
+            "Count/Countess": {
+                "Magical Rancid Radioactive Blue": {
+                    "-": 5.81
+                }
+            },
+            "Duke/Duchess": {
+                "Rancid Radioactive Blue": {
+                    "-": 12.98,
+                    "Rotten": 11.6,
+                    "Super Rotten": 11.76
+                },
+                "Magical Rancid Radioactive Blue": {
+                    "-": 17.39
+                }
+            },
+            "Grand Duke/Grand Duchess": {
+                "Rancid Radioactive Blue": {
+                    "-": 11.14,
+                    "Rotten": 6.82,
+                    "Super Rotten": 7.68
+                },
+                "Magical Rancid Radioactive Blue": {
+                    "-": 14.92
+                }
+            },
+            "Archduke/Archduchess": {
+                "Rancid Radioactive Blue": {
+                    "-": 13.2,
+                    "Rotten": 12.06,
+                    "Super Rotten": 12.66
+                },
+                "Magical Rancid Radioactive Blue": {
+                    "-": 7.89
+                }
+            }
+        }
+    },
+    "Mutant Ninja": {
+        "Toxic Spill": {
+            "Hero": {
+                "Magical Rancid Radioactive Blue": {
+                    "-": 3.52
+                }
+            },
+            "Knight": {
+                "Magical Rancid Radioactive Blue": {
+                    "-": 3.57
+                }
+            },
+            "Lord/Lady": {
+                "Magical Rancid Radioactive Blue": {
+                    "-": 3.7
+                }
+            },
+            "Baron/Baroness": {
+                "Magical Rancid Radioactive Blue": {
+                    "-": 8.78
+                }
+            },
+            "Count/Countess": {
+                "Rancid Radioactive Blue": {
+                    "-": 9.08,
+                    "Rotten": 6.98,
+                    "Super Rotten": 6.47
+                },
+                "Magical Rancid Radioactive Blue": {
+                    "-": 9.3
+                }
+            },
+            "Duke/Duchess": {
+                "Rancid Radioactive Blue": {
+                    "-": 1.82,
+                    "Rotten": 1.9,
+                    "Super Rotten": 2.41
+                },
+                "Magical Rancid Radioactive Blue": {
+                    "-": 0.72
+                }
+            },
+            "Grand Duke/Grand Duchess": {
+                "Rancid Radioactive Blue": {
+                    "-": 8.5,
+                    "Rotten": 7.29,
+                    "Super Rotten": 7.57
+                },
+                "Magical Rancid Radioactive Blue": {
+                    "-": 0.69
+                }
+            },
+            "Archduke/Archduchess": {
+                "Rancid Radioactive Blue": {
+                    "-": 3.42,
+                    "Rotten": 2.84,
+                    "Super Rotten": 4.43
+                },
+                "Magical Rancid Radioactive Blue": {
+                    "-": 0.94
+                }
+            }
+        }
+    },
+    "Outbreak Assassin": {
+        "Toxic Spill": {
+            "Hero": {
+                "Magical Rancid Radioactive Blue": {
+                    "-": 3.52
+                }
+            },
+            "Knight": {
+                "Magical Rancid Radioactive Blue": {
+                    "-": 7.14
+                }
+            },
+            "Lord/Lady": {
+                "Magical Rancid Radioactive Blue": {
+                    "-": 4.32
+                }
+            },
+            "Baron/Baroness": {
+                "Magical Rancid Radioactive Blue": {
+                    "-": 10.14
+                }
+            },
+            "Count/Countess": {
+                "Magical Rancid Radioactive Blue": {
+                    "-": 8.72
+                }
+            },
+            "Duke/Duchess": {
+                "Rancid Radioactive Blue": {
+                    "-": 14.53,
+                    "Rotten": 11.81,
+                    "Super Rotten": 10.16
+                },
+                "Magical Rancid Radioactive Blue": {
+                    "-": 7.25
+                }
+            },
+            "Grand Duke/Grand Duchess": {
+                "Rancid Radioactive Blue": {
+                    "-": 9,
+                    "Rotten": 5.18,
+                    "Super Rotten": 6.93
+                },
+                "Magical Rancid Radioactive Blue": {
+                    "-": 14.5
+                }
+            },
+            "Archduke/Archduchess": {
+                "Rancid Radioactive Blue": {
+                    "-": 9.93,
+                    "Rotten": 7.8,
+                    "Super Rotten": 8.02
+                },
+                "Magical Rancid Radioactive Blue": {
+                    "-": 11.15
+                }
+            }
+        }
+    },
+    "Toxic Warrior": {
+        "Toxic Spill": {
+            "Hero": {
+                "Magical Rancid Radioactive Blue": {
+                    "-": 2.11
+                }
+            },
+            "Knight": {
+                "Magical Rancid Radioactive Blue": {
+                    "-": 6.43
+                }
+            },
+            "Lord/Lady": {
+                "Magical Rancid Radioactive Blue": {
+                    "-": 8.64
+                }
+            },
+            "Baron/Baroness": {
+                "Magical Rancid Radioactive Blue": {
+                    "-": 6.76
+                }
+            },
+            "Count/Countess": {
+                "Magical Rancid Radioactive Blue": {
+                    "-": 6.98
+                }
+            },
+            "Duke/Duchess": {
+                "Rancid Radioactive Blue": {
+                    "-": 17.13,
+                    "Rotten": 13.92,
+                    "Super Rotten": 14.8
+                },
+                "Magical Rancid Radioactive Blue": {
+                    "-": 11.59
+                }
+            },
+            "Grand Duke/Grand Duchess": {
+                "Rancid Radioactive Blue": {
+                    "-": 9.39,
+                    "Rotten": 9.41,
+                    "Super Rotten": 6.4
+                },
+                "Magical Rancid Radioactive Blue": {
+                    "-": 13.12
+                }
+            },
+            "Archduke/Archduchess": {
+                "Rancid Radioactive Blue": {
+                    "-": 8.22,
+                    "Rotten": 4.96,
+                    "Super Rotten": 4.85
+                },
+                "Magical Rancid Radioactive Blue": {
+                    "-": 12.18
+                }
+            }
+        }
+    },
+    "Slimefist": {
+        "Toxic Spill": {
+            "Hero": {
+                "Magical Rancid Radioactive Blue": {
+                    "-": 2.11
+                }
+            },
+            "Knight": {
+                "Magical Rancid Radioactive Blue": {
+                    "-": 3.57
+                }
+            },
+            "Lord/Lady": {
+                "Magical Rancid Radioactive Blue": {
+                    "-": 6.79
+                }
+            },
+            "Baron/Baroness": {
+                "Magical Rancid Radioactive Blue": {
+                    "-": 6.08
+                }
+            },
+            "Count/Countess": {
+                "Magical Rancid Radioactive Blue": {
+                    "-": 6.98
+                }
+            },
+            "Duke/Duchess": {
+                "Rancid Radioactive Blue": {
+                    "-": 13.31,
+                    "Rotten": 12.87,
+                    "Super Rotten": 13.28
+                },
+                "Magical Rancid Radioactive Blue": {
+                    "-": 17.39
+                }
+            },
+            "Grand Duke/Grand Duchess": {
+                "Rancid Radioactive Blue": {
+                    "-": 9.71,
+                    "Rotten": 8.47,
+                    "Super Rotten": 7.68
+                },
+                "Magical Rancid Radioactive Blue": {
+                    "-": 13.67
+                }
+            },
+            "Archduke/Archduchess": {
+                "Rancid Radioactive Blue": {
+                    "-": 10.11,
+                    "Rotten": 12.06,
+                    "Super Rotten": 7.17
+                },
+                "Magical Rancid Radioactive Blue": {
+                    "-": 11.58
+                }
+            }
+        }
+    },
+    "Sludge Swimmer": {
+        "Toxic Spill": {
+            "Hero": {
+                "Magical Rancid Radioactive Blue": {
+                    "-": 0.7
+                }
+            },
+            "Knight": {
+                "Magical Rancid Radioactive Blue": {
+                    "-": 2.14
+                }
+            },
+            "Lord/Lady": {
+                "Magical Rancid Radioactive Blue": {
+                    "-": 5.56
+                }
+            },
+            "Baron/Baroness": {
+                "Magical Rancid Radioactive Blue": {
+                    "-": 7.43
+                }
+            },
+            "Count/Countess": {
+                "Magical Rancid Radioactive Blue": {
+                    "-": 4.65
+                }
+            },
+            "Duke/Duchess": {
+                "Magical Rancid Radioactive Blue": {
+                    "-": 20.29
+                }
+            },
+            "Grand Duke/Grand Duchess": {
+                "Rancid Radioactive Blue": {
+                    "-": 8.93,
+                    "Rotten": 8.71,
+                    "Super Rotten": 7.04
+                },
+                "Magical Rancid Radioactive Blue": {
+                    "-": 17.27
+                }
+            },
+            "Archduke/Archduchess": {
+                "Rancid Radioactive Blue": {
+                    "-": 8.65,
+                    "Rotten": 9.22,
+                    "Super Rotten": 7.17
+                },
+                "Magical Rancid Radioactive Blue": {
+                    "-": 14.32
+                }
+            }
+        }
+    },
+    "The Menace": {
+        "Toxic Spill": {
+            "Knight": {
+                "Magical Rancid Radioactive Blue": {
+                    "-": 2.14
+                }
+            },
+            "Lord/Lady": {
+                "Magical Rancid Radioactive Blue": {
+                    "-": 1.85
+                }
+            },
+            "Baron/Baroness": {
+                "Magical Rancid Radioactive Blue": {
+                    "-": 4.05
+                }
+            },
+            "Count/Countess": {
+                "Magical Rancid Radioactive Blue": {
+                    "-": 9.3
+                }
+            },
+            "Duke/Duchess": {
+                "Magical Rancid Radioactive Blue": {
+                    "-": 9.42
+                }
+            },
+            "Grand Duke/Grand Duchess": {
+                "Rancid Radioactive Blue": {
+                    "-": 8.64,
+                    "Rotten": 8.94,
+                    "Super Rotten": 6.4
+                },
+                "Magical Rancid Radioactive Blue": {
+                    "-": 18.78
+                }
+            },
+            "Archduke/Archduchess": {
+                "Rancid Radioactive Blue": {
+                    "-": 10.11,
+                    "Rotten": 9.93,
+                    "Super Rotten": 11.18
+                },
+                "Magical Rancid Radioactive Blue": {
+                    "-": 14.84
+                }
+            }
+        }
+    },
+    "Mutated Behemoth": {
+        "Toxic Spill": {
+            "Archduke/Archduchess": {
+                "Rancid Radioactive Blue": {
+                    "-": 11.28,
+                    "Rotten": 14.18,
+                    "Super Rotten": 11.39
+                },
+                "Magical Rancid Radioactive Blue": {
+                    "-": 21.18
                 }
             }
         }
