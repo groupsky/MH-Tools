@@ -6440,9 +6440,9 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Cavern Fungus": 7.948948948948949,
+                                "Nightshade": 1.5135135135135136,
                                 "SampleSize": 333,
-                                "Nightshade": 1.5135135135135136
+                                "Cavern Fungus": 7.948948948948949
                             }
                         }
                     }
@@ -6629,13 +6629,80 @@
                     }
                 }
             },
+            "Dragoon": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Mineral": 3.4806451612903224,
+                                "SampleSize": 310,
+                                "Dragon Scale": 2.4806451612903224
+                            }
+                        }
+                    }
+                }
+            },
+            "Thunder Strike": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Dragon Scale": 0.19615384615384615,
+                                "SampleSize": 780,
+                                "Mineral": 0.19487179487179487
+                            }
+                        }
+                    }
+                }
+            },
+            "Thundering Watcher": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Dragon Scale": 0.5298455544733547,
+                                "SampleSize": 7187,
+                                "Mineral": 0.37275636566021986
+                            }
+                        }
+                    }
+                }
+            },
+            "Thunderlord": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Dragon Scale": 0.37964361220175175,
+                                "SampleSize": 3311,
+                                "Mineral": 0.3844759891271519
+                            }
+                        }
+                    }
+                }
+            },
+            "Violet Stormchild": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Mineral": 0.21626984126984128,
+                                "SampleSize": 504,
+                                "Dragon Scale": 0.21626984126984128
+                            }
+                        }
+                    }
+                }
+            },
             "Ful'Mina, The Mountain Queen": {
                 "-": {
                     "-": {
                         "-": {
                             "-": {
-                                "Ancient Relic": 0.07378420360855538,
+                                "Dragon Scale": 4.3848130003584656,
                                 "SampleSize": 33476,
+                                "Mineral": 2.936641175767714,
+                                "Ancient Relic": 0.07378420360855538,
                                 "Cavern Fungus": 0.36258812283426933,
                                 "Arcanevine": 0.040088421555741424,
                                 "Shadowvine": 0.03608555382960927,
