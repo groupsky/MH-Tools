@@ -6394,10 +6394,10 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Windy Potion": 1.5104022191400832,
+                                "Fire Bowl Fuel": 2.0198797965788255,
                                 "SampleSize": 2163,
-                                "Rainy Potion": 1.5006934812760055,
-                                "Fire Bowl Fuel": 2.0198797965788255
+                                "Windy Potion": 1.5104022191400832,
+                                "Rainy Potion": 1.5006934812760055
                             }
                         }
                     }
@@ -6440,9 +6440,9 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Nightshade": 1.5135135135135136,
+                                "Cavern Fungus": 7.948948948948949,
                                 "SampleSize": 333,
-                                "Cavern Fungus": 7.948948948948949
+                                "Nightshade": 1.5135135135135136
                             }
                         }
                     }
@@ -6634,56 +6634,15 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Dragon Scale": 4.3848130003584656,
-                                "SampleSize": 33476,
-                                "Mineral": 2.936641175767714,
-                                "Dumpling Cheese": 0.17639502927470427,
-                                "Scrap Metal": 1.5727088063089976,
                                 "Ancient Relic": 0.07378420360855538,
+                                "SampleSize": 33476,
                                 "Cavern Fungus": 0.36258812283426933,
-                                "Cursed Gold": 1878.3606165611184,
-                                "Marshmallow Monterey": 0.09027362886844306,
-                                "Unstable Charm": 0.5851654916955431,
-                                "Pollutinum": 0.8685028079818378,
-                                "Chrome Charm": 0.05317242203369578,
-                                "Ionized Salt": 0.15685864499940255,
-                                "Meteorite Piece": 1.3203190345322022,
-                                "Living Shard": 0.27126896881347834,
-                                "Inferno Havarti Cheese": 0.09902616800095591,
                                 "Arcanevine": 0.040088421555741424,
                                 "Shadowvine": 0.03608555382960927,
-                                "Ful'Mina's Gift": 0.03480105149958179,
-                                "Windy Egg": 0.047227864738917436,
-                                "Rainy Egg": 0.046152467439359544,
-                                "Wealth Charm": 0.031007288803919227,
-                                "Ghastly Galleon Gouda": 0.12307324650495878,
-                                "Ultimate Spore Charm": 0.027064165372206954,
-                                "Gauntlet Potion Tier 5": 0.02574979089496953,
-                                "Toxic Brie Cheese": 0.25660174453339707,
-                                "Vengeful Vanilla Stilton Cheese": 0.11447006810849564,
                                 "Windy Potion": 0.02407695065121281,
                                 "Rainy Potion": 0.024047078504002867,
                                 "Glowing Gruyere Cheese": 0.05842991994264548,
-                                "High Charge Egg": 0.03769864977894611,
-                                "Snowball Charm": 0.020372804397180068,
-                                "Super Wealth Charm": 0.019506512128091767,
-                                "Ful'Mina Egg": 0.02509260365635082,
-                                "Simple Orb": 0.028886366352013384,
-                                "Gauntlet Potion Tier 6": 0.012785279005854942,
-                                "Lantern Oil": 0.06288086987692676,
-                                "Nightshade": 0.012486557533755526,
-                                "Rumble Cheese": 0.08411996654319512,
-                                "SUPER|brie+": 0.010873461584418688,
-                                "Ultimate Lucky Power Charm": 0.05379973712510455,
-                                "Ultimate Luck Charm": 0.010216274345799976,
-                                "Ultimate Power Charm": 0.010156530051380093,
-                                "Moon Cheese": 0.07584538176604134,
-                                "Ultimate Attraction Charm": 0.01009678575696021,
-                                "Flawless Orb": 0.015145178635440315,
-                                "Tower Mana": 0.021328713107898196,
-                                "Toxic SUPER|brie+": 0.04839287848010515,
-                                "Magic Essence": 0.056757079698888754,
-                                "Galleon Gouda": 0.02509260365635082
+                                "Nightshade": 0.012486557533755526
                             }
                         }
                     }
