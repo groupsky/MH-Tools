@@ -1,47 +1,81 @@
-Location,Phase,Trap,Base,Cheese,Charm,Mouse,Loot,Qty,Sample
-Moussu Picchu,-,-,-,-,-,Breeze Borrower,Windy Potion,0.5,
-Moussu Picchu,-,-,-,-,-,Cloud Collector,Rainy Potion,1,
-Moussu Picchu,-,-,-,-,-,Cloud Collector,Fire Bowl Fuel,0.25,
-Moussu Picchu,-,-,-,-,-,Homeopathic Apothecary,Windy Potion,1.5,
-Moussu Picchu,-,-,-,-,-,Homeopathic Apothecary,Rainy Potion,1.5,
-Moussu Picchu,-,-,-,-,-,Homeopathic Apothecary,Fire Bowl Fuel,2,
-Moussu Picchu,-,-,-,-,-,Nightshade Flower Girl,Nightshade,1,
-Moussu Picchu,-,-,-,-,-,Nightshade Maiden,Nightshade,1.5,
-Moussu Picchu,-,-,-,-,-,Nightshade Maiden,Cavern Fungus,8,
-Moussu Picchu,-,-,-,-,-,Rainwater Purifier,Rainy Potion,0.5,
-Moussu Picchu,-,-,-,-,-,Spore Salesman,Cavern Fungus,4,
-Moussu Picchu,-,-,-,-,-,Windy Farmer,Windy Potion,1,
-Moussu Picchu,-,-,-,-,-,Windy Farmer,Fire Bowl Fuel,0.25,
-Moussu Picchu,-,-,-,-,-,Rain Collector,Shadowvine,0.4545454545,
-Moussu Picchu,-,-,-,-,-,Rain Wallower,Shadowvine,0.0769230769,
-Moussu Picchu,-,-,-,-,-,Rain Summoner,Shadowvine,0.83,
-Moussu Picchu,-,-,-,-,-,Monsoon Maker,Shadowvine,2,
-Moussu Picchu,-,-,-,-,-,Rainmancer,Shadowvine,3.5,
-Moussu Picchu,-,-,-,-,-,Rainmancer,Fire Bowl Fuel,0.3,
-Moussu Picchu,-,-,-,-,-,Rainmancer,Dragonbane Charm,0.07,
-Moussu Picchu,-,-,-,-,-,Charming Chimer,Arcanevine,0.45,
-Moussu Picchu,-,-,-,-,-,Wind Watcher,Arcanevine,0.08,
-Moussu Picchu,-,-,-,-,-,Fluttering Flutist,Arcanevine,0.83,
-Moussu Picchu,-,-,-,-,-,Cycloness,Arcanevine,2,
-Moussu Picchu,-,-,-,-,-,Wind Warrior,Arcanevine,3.5,
-Moussu Picchu,-,-,-,-,-,Wind Warrior,Fire Bowl Fuel,0.3,
-Moussu Picchu,-,-,-,-,-,Wind Warrior,Dragonbane Charm,0.07,
-Moussu Picchu,-,-,-,-,-,Thunder Strike,Dragonscales,0.18,
-Moussu Picchu,-,-,-,-,-,Violet Stormchild,Dragonscales,0.22,
-Moussu Picchu,-,-,-,-,-,Thunderlord,Dragonscales,0.375,
-Moussu Picchu,-,-,-,-,-,Thundering Watcher,Dragonscales,0.53,
-Moussu Picchu,-,-,-,-,-,Dragoon,Dragonscales,2.62,
-Moussu Picchu,-,-,-,-,-,Ful'Mina,Dragonscales,4.5,
-Moussu Picchu,-,-,-,-,-,Ful'Mina,Ful'Mina's Tooth,0.01,
-Moussu Picchu,-,-,-,-,-,Ful'Mina,Arcanevine,0.04,
-Moussu Picchu,-,-,-,-,-,Ful'Mina,Shadowvine,0.04,
-Moussu Picchu,-,-,-,-,-,Ful'Mina,Cavern Fungus,0.38,
-Moussu Picchu,-,-,-,-,-,Ful'Mina,Nightshade,0.01,
-Moussu Picchu,-,-,-,-,-,Ful'Mina,Rainy Potion,0.02,
-Moussu Picchu,-,-,-,-,-,Ful'Mina,Windy Potion,0.02,
-Moussu Picchu,-,-,-,-,-,Thunder Strike,Minerals,0.25,
-Moussu Picchu,-,-,-,-,-,Violet Stormchild,Minerals,0.2,
-Moussu Picchu,-,-,-,-,-,Thunderlord,Minerals,0.4,
-Moussu Picchu,-,-,-,-,-,Thundering Watcher,Minerals,0.39,
-Moussu Picchu,-,-,-,-,-,Dragoon,Minerals,3.43,
-Moussu Picchu,-,-,-,-,-,Ful'Mina,Minerals,2.85,
+"Location","Phase","Trap","Base","Cheese","Charm","Mouse","Loot","Qty","Sample"
+"Moussu Picchu","-","-","-","-","-","Breeze Borrower","Windy Potion",0.49017006392473766,8291
+"Moussu Picchu","-","-","-","-","-","Cloud Collector","Rainy Potion",1,7170
+"Moussu Picchu","-","-","-","-","-","Cloud Collector","Fire Bowl Fuel",0.25578800557880055,7170
+"Moussu Picchu","-","-","-","-","-","Homeopathic Apothecary","Windy Potion",1.5104022191400832,2163
+"Moussu Picchu","-","-","-","-","-","Homeopathic Apothecary","Rainy Potion",1.5006934812760055,2163
+"Moussu Picchu","-","-","-","-","-","Homeopathic Apothecary","Fire Bowl Fuel",2.0198797965788255,2163
+"Moussu Picchu","-","-","-","-","-","Nightshade Flower Girl","Nightshade",1,2192
+"Moussu Picchu","-","-","-","-","Nightshade Farming Charm","Nightshade Flower Girl","Nightshade",2,2192
+"Moussu Picchu","-","-","-","-","Super Nightshade Farming Charm","Nightshade Flower Girl","Nightshade",2,2192
+"Moussu Picchu","-","-","-","-","-","Nightshade Maiden","Nightshade",1.5135135135135136,333
+"Moussu Picchu","-","-","-","-","Nightshade Farming Charm","Nightshade Maiden","Nightshade",2.5135135135135136,333
+"Moussu Picchu","-","-","-","-","Super Nightshade Farming Charm","Nightshade Maiden","Nightshade",2.5135135135135136,333
+"Moussu Picchu","-","-","-","-","-","Nightshade Maiden","Cavern Fungus",7.948948948948949,333
+"Moussu Picchu","-","-","-","-","-","Rainwater Purifier","Rainy Potion",0.4896567936060179,8508
+"Moussu Picchu","-","-","-","-","-","Spore Salesman","Cavern Fungus",3.973071656777727,2191
+"Moussu Picchu","-","-","-","-","-","Windy Farmer","Windy Potion",1,7264
+"Moussu Picchu","-","-","-","-","-","Windy Farmer","Fire Bowl Fuel",0.2720264317180617,7264
+"Moussu Picchu","-","-","-","-","-","Rain Collector","Shadowvine",0.4640561075394506,1711
+"Moussu Picchu","-","-","-","-","-","Rain Wallower","Shadowvine",0.07053941908713693,2651
+"Moussu Picchu","-","-","-","-","-","Rain Summoner","Shadowvine",0.8436415595019392,4899
+"Moussu Picchu","-","-","-","-","-","Monsoon Maker","Shadowvine",2,13479
+"Moussu Picchu","-","-","-","-","-","Rainmancer","Shadowvine",3.5011687363038715,13690
+"Moussu Picchu","-","-","-","-","-","Rainmancer","Fire Bowl Fuel",0.29737034331628925,13690
+"Moussu Picchu","-","-","-","-","-","Rainmancer","Dragonbane Charm",0.07173119065010956,13690
+"Moussu Picchu","-","-","-","-","-","Charming Chimer","Arcanevine",0.4266666666666667,1800
+"Moussu Picchu","-","-","-","-","-","Cycloness","Arcanevine",2,14207
+"Moussu Picchu","-","-","-","-","-","Fluttering Flutist","Arcanevine",0.8497967479674797,4920
+"Moussu Picchu","-","-","-","-","-","Wind Warrior","Arcanevine",3.5069093610698365,13460
+"Moussu Picchu","-","-","-","-","-","Wind Warrior","Fire Bowl Fuel",0.3043090638930163,13460
+"Moussu Picchu","-","-","-","-","-","Wind Warrior","Dragonbane Charm",0.07050520059435364,13460
+"Moussu Picchu","-","-","-","-","-","Wind Watcher","Arcanevine",0.07331821617535904,2646
+"Moussu Picchu","-","-","-","-","-","Ful'Mina, The Mountain Queen","Dragon Scale",4.3848130003584656,33476
+"Moussu Picchu","-","-","-","-","-","Ful'Mina, The Mountain Queen","Mineral",2.936641175767714,33476
+"Moussu Picchu","-","-","-","-","-","Ful'Mina, The Mountain Queen","Dumpling Cheese",0.17639502927470427,33476
+"Moussu Picchu","-","-","-","-","-","Ful'Mina, The Mountain Queen","Scrap Metal",1.5727088063089976,33476
+"Moussu Picchu","-","-","-","-","-","Ful'Mina, The Mountain Queen","Ancient Relic",0.07378420360855538,33476
+"Moussu Picchu","-","-","-","-","-","Ful'Mina, The Mountain Queen","Cavern Fungus",0.36258812283426933,33476
+"Moussu Picchu","-","-","-","-","-","Ful'Mina, The Mountain Queen","Cursed Gold",1878.3606165611184,33476
+"Moussu Picchu","-","-","-","-","-","Ful'Mina, The Mountain Queen","Marshmallow Monterey",0.09027362886844306,33476
+"Moussu Picchu","-","-","-","-","-","Ful'Mina, The Mountain Queen","Unstable Charm",0.5851654916955431,33476
+"Moussu Picchu","-","-","-","-","-","Ful'Mina, The Mountain Queen","Pollutinum",0.8685028079818378,33476
+"Moussu Picchu","-","-","-","-","-","Ful'Mina, The Mountain Queen","Chrome Charm",0.05317242203369578,33476
+"Moussu Picchu","-","-","-","-","-","Ful'Mina, The Mountain Queen","Ionized Salt",0.15685864499940255,33476
+"Moussu Picchu","-","-","-","-","-","Ful'Mina, The Mountain Queen","Meteorite Piece",1.3203190345322022,33476
+"Moussu Picchu","-","-","-","-","-","Ful'Mina, The Mountain Queen","Living Shard",0.27126896881347834,33476
+"Moussu Picchu","-","-","-","-","-","Ful'Mina, The Mountain Queen","Inferno Havarti Cheese",0.09902616800095591,33476
+"Moussu Picchu","-","-","-","-","-","Ful'Mina, The Mountain Queen","Arcanevine",0.040088421555741424,33476
+"Moussu Picchu","-","-","-","-","-","Ful'Mina, The Mountain Queen","Shadowvine",0.03608555382960927,33476
+"Moussu Picchu","-","-","-","-","-","Ful'Mina, The Mountain Queen","Ful'Mina's Gift",0.03480105149958179,33476
+"Moussu Picchu","-","-","-","-","-","Ful'Mina, The Mountain Queen","Windy Egg",0.047227864738917436,33476
+"Moussu Picchu","-","-","-","-","-","Ful'Mina, The Mountain Queen","Rainy Egg",0.046152467439359544,33476
+"Moussu Picchu","-","-","-","-","-","Ful'Mina, The Mountain Queen","Wealth Charm",0.031007288803919227,33476
+"Moussu Picchu","-","-","-","-","-","Ful'Mina, The Mountain Queen","Ghastly Galleon Gouda",0.12307324650495878,33476
+"Moussu Picchu","-","-","-","-","-","Ful'Mina, The Mountain Queen","Ultimate Spore Charm",0.027064165372206954,33476
+"Moussu Picchu","-","-","-","-","-","Ful'Mina, The Mountain Queen","Gauntlet Potion Tier 5",0.02574979089496953,33476
+"Moussu Picchu","-","-","-","-","-","Ful'Mina, The Mountain Queen","Toxic Brie Cheese",0.25660174453339707,33476
+"Moussu Picchu","-","-","-","-","-","Ful'Mina, The Mountain Queen","Vengeful Vanilla Stilton Cheese",0.11447006810849564,33476
+"Moussu Picchu","-","-","-","-","-","Ful'Mina, The Mountain Queen","Windy Potion",0.02407695065121281,33476
+"Moussu Picchu","-","-","-","-","-","Ful'Mina, The Mountain Queen","Rainy Potion",0.024047078504002867,33476
+"Moussu Picchu","-","-","-","-","-","Ful'Mina, The Mountain Queen","Glowing Gruyere Cheese",0.05842991994264548,33476
+"Moussu Picchu","-","-","-","-","-","Ful'Mina, The Mountain Queen","High Charge Egg",0.03769864977894611,33476
+"Moussu Picchu","-","-","-","-","-","Ful'Mina, The Mountain Queen","Snowball Charm",0.020372804397180068,33476
+"Moussu Picchu","-","-","-","-","-","Ful'Mina, The Mountain Queen","Super Wealth Charm",0.019506512128091767,33476
+"Moussu Picchu","-","-","-","-","-","Ful'Mina, The Mountain Queen","Ful'Mina Egg",0.02509260365635082,33476
+"Moussu Picchu","-","-","-","-","-","Ful'Mina, The Mountain Queen","Simple Orb",0.028886366352013384,33476
+"Moussu Picchu","-","-","-","-","-","Ful'Mina, The Mountain Queen","Gauntlet Potion Tier 6",0.012785279005854942,33476
+"Moussu Picchu","-","-","-","-","-","Ful'Mina, The Mountain Queen","Lantern Oil",0.06288086987692676,33476
+"Moussu Picchu","-","-","-","-","-","Ful'Mina, The Mountain Queen","Nightshade",0.012486557533755526,33476
+"Moussu Picchu","-","-","-","-","-","Ful'Mina, The Mountain Queen","Rumble Cheese",0.08411996654319512,33476
+"Moussu Picchu","-","-","-","-","-","Ful'Mina, The Mountain Queen","SUPER|brie+",0.010873461584418688,33476
+"Moussu Picchu","-","-","-","-","-","Ful'Mina, The Mountain Queen","Ultimate Lucky Power Charm",0.05379973712510455,33476
+"Moussu Picchu","-","-","-","-","-","Ful'Mina, The Mountain Queen","Ultimate Luck Charm",0.010216274345799976,33476
+"Moussu Picchu","-","-","-","-","-","Ful'Mina, The Mountain Queen","Ultimate Power Charm",0.010156530051380093,33476
+"Moussu Picchu","-","-","-","-","-","Ful'Mina, The Mountain Queen","Moon Cheese",0.07584538176604134,33476
+"Moussu Picchu","-","-","-","-","-","Ful'Mina, The Mountain Queen","Ultimate Attraction Charm",0.01009678575696021,33476
+"Moussu Picchu","-","-","-","-","-","Ful'Mina, The Mountain Queen","Flawless Orb",0.015145178635440315,33476
+"Moussu Picchu","-","-","-","-","-","Ful'Mina, The Mountain Queen","Tower Mana",0.021328713107898196,33476
+"Moussu Picchu","-","-","-","-","-","Ful'Mina, The Mountain Queen","Toxic SUPER|brie+",0.04839287848010515,33476
+"Moussu Picchu","-","-","-","-","-","Ful'Mina, The Mountain Queen","Magic Essence",0.056757079698888754,33476
+"Moussu Picchu","-","-","-","-","-","Ful'Mina, The Mountain Queen","Galleon Gouda",0.02509260365635082,33476
