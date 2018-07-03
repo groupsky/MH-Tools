@@ -6369,7 +6369,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Windy Potion": 0.5
+                                "Windy Potion": 0.49017006392473766,
+                                "SampleSize": 8291
                             }
                         }
                     }
@@ -6381,7 +6382,8 @@
                         "-": {
                             "-": {
                                 "Rainy Potion": 1,
-                                "Fire Bowl Fuel": 0.25
+                                "SampleSize": 7170,
+                                "Fire Bowl Fuel": 0.25578800557880055
                             }
                         }
                     }
@@ -6392,9 +6394,10 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Windy Potion": 1.5,
-                                "Rainy Potion": 1.5,
-                                "Fire Bowl Fuel": 2
+                                "Fire Bowl Fuel": 2.0198797965788255,
+                                "SampleSize": 2163,
+                                "Windy Potion": 1.5104022191400832,
+                                "Rainy Potion": 1.5006934812760055
                             }
                         }
                     }
@@ -6405,7 +6408,28 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Nightshade": 1
+                                "Nightshade": 1,
+                                "SampleSize": 2192
+                            }
+                        }
+                    }
+                },
+                "Nightshade Farming Charm": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Nightshade": 2,
+                                "SampleSize": 2192
+                            }
+                        }
+                    }
+                },
+                "Super Nightshade Farming Charm": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Nightshade": 2,
+                                "SampleSize": 2192
                             }
                         }
                     }
@@ -6416,8 +6440,29 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Nightshade": 1.5,
-                                "Cavern Fungus": 8
+                                "Nightshade": 1.5135135135135136,
+                                "SampleSize": 333,
+                                "Cavern Fungus": 7.948948948948949
+                            }
+                        }
+                    }
+                },
+                "Nightshade Farming Charm": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Nightshade": 2.5135135135135136,
+                                "SampleSize": 333
+                            }
+                        }
+                    }
+                },
+                "Super Nightshade Farming Charm": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Nightshade": 2.5135135135135136,
+                                "SampleSize": 333
                             }
                         }
                     }
@@ -6428,7 +6473,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Rainy Potion": 0.5
+                                "Rainy Potion": 0.4896567936060179,
+                                "SampleSize": 8508
                             }
                         }
                     }
@@ -6439,7 +6485,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Cavern Fungus": 4
+                                "Cavern Fungus": 3.973071656777727,
+                                "SampleSize": 2191
                             }
                         }
                     }
@@ -6451,7 +6498,8 @@
                         "-": {
                             "-": {
                                 "Windy Potion": 1,
-                                "Fire Bowl Fuel": 0.25
+                                "SampleSize": 7264,
+                                "Fire Bowl Fuel": 0.2720264317180617
                             }
                         }
                     }
@@ -6462,7 +6510,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Shadowvine": 0.4545454545
+                                "Shadowvine": 0.4640561075394506,
+                                "SampleSize": 1711
                             }
                         }
                     }
@@ -6473,7 +6522,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Shadowvine": 0.0769230769
+                                "Shadowvine": 0.07053941908713693,
+                                "SampleSize": 2651
                             }
                         }
                     }
@@ -6484,7 +6534,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Shadowvine": 0.83
+                                "Shadowvine": 0.8436415595019392,
+                                "SampleSize": 4899
                             }
                         }
                     }
@@ -6495,7 +6546,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Shadowvine": 2
+                                "Shadowvine": 2,
+                                "SampleSize": 13479
                             }
                         }
                     }
@@ -6506,9 +6558,10 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Shadowvine": 3.5,
-                                "Fire Bowl Fuel": 0.3,
-                                "Dragonbane Charm": 0.07
+                                "Shadowvine": 3.5011687363038715,
+                                "SampleSize": 13690,
+                                "Fire Bowl Fuel": 0.29737034331628925,
+                                "Dragonbane Charm": 0.07173119065010956
                             }
                         }
                     }
@@ -6519,29 +6572,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Arcanevine": 0.45
-                            }
-                        }
-                    }
-                }
-            },
-            "Wind Watcher": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Arcanevine": 0.08
-                            }
-                        }
-                    }
-                }
-            },
-            "Fluttering Flutist": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Arcanevine": 0.83
+                                "Arcanevine": 0.4266666666666667,
+                                "SampleSize": 1800
                             }
                         }
                     }
@@ -6552,7 +6584,20 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Arcanevine": 2
+                                "Arcanevine": 2,
+                                "SampleSize": 14207
+                            }
+                        }
+                    }
+                }
+            },
+            "Fluttering Flutist": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Arcanevine": 0.8497967479674797,
+                                "SampleSize": 4920
                             }
                         }
                     }
@@ -6563,57 +6608,22 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Arcanevine": 3.5,
-                                "Fire Bowl Fuel": 0.3,
-                                "Dragonbane Charm": 0.07
+                                "Arcanevine": 3.5069093610698365,
+                                "SampleSize": 13460,
+                                "Fire Bowl Fuel": 0.3043090638930163,
+                                "Dragonbane Charm": 0.07050520059435364
                             }
                         }
                     }
                 }
             },
-            "Thunder Strike": {
+            "Wind Watcher": {
                 "-": {
                     "-": {
                         "-": {
                             "-": {
-                                "Dragonscales": 0.18,
-                                "Minerals": 0.25
-                            }
-                        }
-                    }
-                }
-            },
-            "Violet Stormchild": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Dragonscales": 0.22,
-                                "Minerals": 0.2
-                            }
-                        }
-                    }
-                }
-            },
-            "Thunderlord": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Dragonscales": 0.375,
-                                "Minerals": 0.4
-                            }
-                        }
-                    }
-                }
-            },
-            "Thundering Watcher": {
-                "-": {
-                    "-": {
-                        "-": {
-                            "-": {
-                                "Dragonscales": 0.53,
-                                "Minerals": 0.39
+                                "Arcanevine": 0.07331821617535904,
+                                "SampleSize": 2646
                             }
                         }
                     }
@@ -6624,27 +6634,138 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Dragonscales": 2.62,
-                                "Minerals": 3.43
+                                "Dragon Scale": 2.4864864864864864,
+                                "SampleSize": 296,
+                                "Mineral": 3.4966216216216215
+                            }
+                        },
+                        "Storm Wrought Ballista Trap": {
+                            "-": {
+                                "Dragon Scale": 4.486486486486486,
+                                "SampleSize": 296
                             }
                         }
                     }
                 }
             },
-            "Ful'Mina": {
+            "Thunder Strike": {
                 "-": {
                     "-": {
                         "-": {
                             "-": {
-                                "Dragonscales": 4.5,
-                                "Ful'Mina's Tooth": 0.01,
-                                "Arcanevine": 0.04,
-                                "Shadowvine": 0.04,
-                                "Cavern Fungus": 0.38,
-                                "Nightshade": 0.01,
-                                "Rainy Potion": 0.02,
-                                "Windy Potion": 0.02,
-                                "Minerals": 2.85
+                                "Dragon Scale": 0.19313304721030042,
+                                "SampleSize": 699,
+                                "Mineral": 0.19313304721030042
+                            }
+                        },
+                        "Storm Wrought Ballista Trap": {
+                            "-": {
+                                "Dragon Scale": 0.5793991416309012,
+                                "SampleSize": 699
+                            }
+                        }
+                    }
+                }
+            },
+            "Thundering Watcher": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Dragon Scale": 0.5322128851540616,
+                                "SampleSize": 6783,
+                                "Mineral": 0.3724015922158337
+                            }
+                        },
+                        "Storm Wrought Ballista Trap": {
+                            "-": {
+                                "Dragon Scale": 1.596638655462185,
+                                "SampleSize": 6783
+                            }
+                        }
+                    }
+                }
+            },
+            "Thunderlord": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Dragon Scale": 0.38545095457537853,
+                                "SampleSize": 3038,
+                                "Mineral": 0.38413429888084266
+                            }
+                        },
+                        "Storm Wrought Ballista Trap": {
+                            "-": {
+                                "Dragon Scale": 1.1563528637261355,
+                                "SampleSize": 3038
+                            }
+                        }
+                    }
+                }
+            },
+            "Violet Stormchild": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Dragon Scale": 0.21935483870967742,
+                                "SampleSize": 465,
+                                "Mineral": 0.2129032258064516
+                            }
+                        },
+                        "Storm Wrought Ballista Trap": {
+                            "-": {
+                                "Dragon Scale": 0.6580645161290323,
+                                "SampleSize": 465
+                            }
+                        }
+                    }
+                }
+            },
+            "Ful'Mina, The Mountain Queen": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Dragon Scale": 4.38462243681814,
+                                "SampleSize": 32723,
+                                "Mineral": 2.9242123277205634,
+                                "Ancient Relic": 0.07367906365553281,
+                                "Cavern Fungus": 0.36115270604773403,
+                                "Arcanevine": 0.04000244476362192,
+                                "Shadowvine": 0.036090822968554225,
+                                "Rainy Potion": 0.024142040766433396,
+                                "Windy Potion": 0.023958683494789596,
+                                "Glowing Gruyere Cheese": 0.05849096965437154,
+                                "Nightshade": 0.012315496745408428
+                            }
+                        },
+                        "Storm Wrought Ballista Trap": {
+                            "-": {
+                                "Dragon Scale": 6.38462243681814,
+                                "SampleSize": 32723
+                            }
+                        }
+                    }
+                },
+                "Nightshade Farming Charm": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Nightshade": 0.024630993490816856,
+                                "SampleSize": 32723
+                            }
+                        }
+                    }
+                },
+                "Super Nightshade Farming Charm": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Nightshade": 1.0123154967454084,
+                                "SampleSize": 32723
                             }
                         }
                     }
@@ -9217,7 +9338,278 @@
                     "-": {
                         "Digby Drillbot": {
                             "-": {
-                                "Scrap Metal": 1
+                                "Scrap Metal": 1,
+                                "SampleSize": "Phase"
+                            }
+                        }
+                    }
+                }
+            },
+            "Queen Quesada": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Unstable Ember Gadget": 1,
+                                "SampleSize": 16,
+                                "Ancient Relic": 0.625
+                            }
+                        }
+                    }
+                }
+            },
+            "Inferna, The Engulfed": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Ember Root": 1.8125,
+                                "SampleSize": 80,
+                                "Medium Spice Leaf": 1.075,
+                                "Ancient Relic": 0.2375,
+                                "Hot Spice Leaf": 0.425,
+                                "Mild Spice Leaf": 0.5625,
+                                "Flamin' Spice Leaf": 0.0625
+                            }
+                        }
+                    }
+                }
+            },
+            "Nachous, The Molten": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Ember Stone": 1.7328767123287672,
+                                "SampleSize": 146,
+                                "Ultimate Power Charm": 1,
+                                "Nachore": 110.03424657534246,
+                                "Magmatic Crystal Charm": 1.1712328767123288,
+                                "Ancient Relic": 0.04794520547945205,
+                                "Wild Tonic": 0.0958904109589041
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Queso River": {
+        "-": {
+            "Sleepy Merchant": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Bland Queso": 4.996223564954683,
+                                "SampleSize": 1324,
+                                "Wild Tonic": 0.26057401812688824
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Prickly Plains": {
+        "-": {
+            "Spice Seer": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Mild Spice Leaf": 4,
+                                "SampleSize": 2669
+                            }
+                        }
+                    }
+                }
+            },
+            "Old Spice Collector": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Mild Spice Leaf": 1.20600115406809,
+                                "SampleSize": 1733
+                            }
+                        }
+                    }
+                }
+            },
+            "Spice Farmer": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Medium Spice Leaf": 3,
+                                "SampleSize": 1464
+                            }
+                        }
+                    }
+                }
+            },
+            "Granny Spice": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Medium Spice Leaf": 0.9153627311522048,
+                                "SampleSize": 1406
+                            }
+                        }
+                    }
+                }
+            },
+            "Spice Sovereign": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Hot Spice Leaf": 2,
+                                "SampleSize": 330
+                            }
+                        }
+                    }
+                }
+            },
+            "Spice Finder": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Hot Spice Leaf": 0.9030023094688222,
+                                "SampleSize": 433
+                            }
+                        }
+                    }
+                }
+            },
+            "Spice Raider": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Flamin' Spice Leaf": 1,
+                                "SampleSize": 78
+                            }
+                        }
+                    }
+                }
+            },
+            "Spice Reaper": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Flamin' Spice Leaf": 0.7924528301886793,
+                                "SampleSize": 106
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Cantera Quarry": {
+        "-": {
+            "Chip Chiseler": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Nachore": 1,
+                                "SampleSize": 725,
+                                "Wild Tonic": 0.013793103448275862
+                            }
+                        }
+                    }
+                }
+            },
+            "Tiny Toppler": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Nachore": 0.19130434782608696,
+                                "SampleSize": 460,
+                                "Wild Tonic": 0.01956521739130435
+                            }
+                        }
+                    }
+                }
+            },
+            "Ore Chipper": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Nachore": 3,
+                                "SampleSize": 1365,
+                                "Wild Tonic": 0.015384615384615385
+                            }
+                        }
+                    }
+                }
+            },
+            "Rubble Rummager": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Nachore": 1.4856711915535445,
+                                "SampleSize": 1326,
+                                "Wild Tonic": 0.01583710407239819
+                            }
+                        }
+                    }
+                }
+            },
+            "Nachore Golem": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Nachore": 10,
+                                "SampleSize": 1587,
+                                "Wild Tonic": 0.02205419029615627
+                            }
+                        }
+                    }
+                }
+            },
+            "Rubble Rouser": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Nachore": 3.743509865005192,
+                                "SampleSize": 963,
+                                "Wild Tonic": 0.010384215991692628
+                            }
+                        }
+                    }
+                }
+            },
+            "Grampa Golem": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Nachore": 50,
+                                "SampleSize": 320
+                            }
+                        }
+                    }
+                }
+            },
+            "Fiery Crusher": {
+                "-": {
+                    "-": {
+                        "-": {
+                            "-": {
+                                "Nachore": 17.71217712177122,
+                                "SampleSize": 271
                             }
                         }
                     }
