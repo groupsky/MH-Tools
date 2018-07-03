@@ -1910,6 +1910,596 @@
             }
         }
     },
+    "Doktor": {
+        "Burroughs Rift": {
+            "Mist Level 0": {
+                "Magical String": {
+                    "-": 20.68
+                },
+                "Brie String": {
+                    "-": 20.28
+                },
+                "Swiss String": {
+                    "-": 5.01
+                },
+                "Marble String": {
+                    "-": 4.7
+                }
+            }
+        }
+    },
+    "Portable Generator": {
+        "Burroughs Rift": {
+            "Mist Level 0": {
+                "Magical String": {
+                    "-": 15.61
+                }
+            }
+        }
+    },
+    "Evil Scientist": {
+        "Burroughs Rift": {
+            "Mist Level 0": {
+                "Magical String": {
+                    "-": 15.56
+                },
+                "Brie String": {
+                    "-": 20.1
+                },
+                "Swiss String": {
+                    "-": 4.99
+                },
+                "Marble String": {
+                    "-": 4.19
+                }
+            }
+        }
+    },
+    "Surgeon Bot": {
+        "Burroughs Rift": {
+            "Mist Level 0": {
+                "Magical String": {
+                    "-": 15.15
+                },
+                "Brie String": {
+                    "-": 14.85
+                },
+                "Swiss String": {
+                    "-": 9.89
+                },
+                "Marble String": {
+                    "-": 5.13
+                }
+            }
+        }
+    },
+    "Automated Sentry": {
+        "Burroughs Rift": {
+            "Mist Level 0": {
+                "Magical String": {
+                    "-": 10.34
+                },
+                "Brie String": {
+                    "-": 15
+                },
+                "Swiss String": {
+                    "-": 15.28
+                },
+                "Marble String": {
+                    "-": 5.38
+                }
+            }
+        }
+    },
+    "Amplified Brown": {
+        "Burroughs Rift": {
+            "Mist Level 0": {
+                "Magical String": {
+                    "-": 5.22
+                },
+                "Brie String": {
+                    "-": 4.92
+                },
+                "Swiss String": {
+                    "-": 15.14
+                },
+                "Marble String": {
+                    "-": 16.15
+                }
+            }
+        }
+    },
+    "Amplified Grey": {
+        "Burroughs Rift": {
+            "Mist Level 0": {
+                "Magical String": {
+                    "-": 5.15
+                },
+                "Brie String": {
+                    "-": 4.95
+                },
+                "Swiss String": {
+                    "-": 5.12
+                },
+                "Marble String": {
+                    "-": 9.06
+                }
+            }
+        }
+    },
+    "Cybernetic Specialist": {
+        "Burroughs Rift": {
+            "Mist Level 0": {
+                "Magical String": {
+                    "-": 5.14
+                },
+                "Brie String": {
+                    "-": 4.94
+                },
+                "Swiss String": {
+                    "-": 19.79
+                },
+                "Marble String": {
+                    "-": 15.98
+                }
+            }
+        }
+    },
+    "Amplified White": {
+        "Burroughs Rift": {
+            "Mist Level 0": {
+                "Magical String": {
+                    "-": 5.07
+                },
+                "Brie String": {
+                    "-": 5.09
+                },
+                "Swiss String": {
+                    "-": 4.99
+                },
+                "Marble String": {
+                    "-": 18.55
+                }
+            }
+        }
+    },
+    "Rift Bio Engineer": {
+        "Burroughs Rift": {
+            "Mist Level 0": {
+                "Magical String": {
+                    "-": 2.08
+                },
+                "Brie String": {
+                    "-": 9.87
+                },
+                "Swiss String": {
+                    "-": 19.78
+                },
+                "Marble String": {
+                    "-": 20.85
+                }
+            }
+        }
+    },
+    "Tech Ravenous Zombie": {
+        "Burroughs Rift": {
+            "Mist Level 1-5": {
+                "Magical String": {
+                    "-": 30.31
+                },
+                "Brie String": {
+                    "-": 31.2
+                },
+                "Swiss String": {
+                    "-": 32.16
+                }
+            },
+            "Mist Level 6-18": {
+                "Magical String": {
+                    "-": 8.77
+                },
+                "Brie String": {
+                    "-": 8.57,
+                    "Brain": 18.69
+                },
+                "Swiss String": {
+                    "-": 8.42
+                }
+            }
+        }
+    },
+    "Count Vampire": {
+        "Burroughs Rift": {
+            "Mist Level 1-5": {
+                "Magical String": {
+                    "-": 23.68
+                },
+                "Brie String": {
+                    "-": 24.09
+                },
+                "Swiss String": {
+                    "-": 23.6
+                }
+            },
+            "Mist Level 6-18": {
+                "Magical String": {
+                    "-": 7
+                },
+                "Brie String": {
+                    "-": 6.97,
+                    "Brain": 4.32
+                },
+                "Swiss String": {
+                    "-": 6.93
+                }
+            }
+        }
+    },
+    "Phase Zombie": {
+        "Burroughs Rift": {
+            "Mist Level 1-5": {
+                "Magical String": {
+                    "-": 20.3
+                },
+                "Brie String": {
+                    "-": 20.5
+                },
+                "Swiss String": {
+                    "-": 20.36
+                }
+            },
+            "Mist Level 6-18": {
+                "Magical String": {
+                    "-": 6.7
+                },
+                "Brie String": {
+                    "-": 6.38,
+                    "Brain": 13.79
+                },
+                "Swiss String": {
+                    "-": 6.28
+                }
+            }
+        }
+    },
+    "Robat": {
+        "Burroughs Rift": {
+            "Mist Level 1-5": {
+                "Magical String": {
+                    "-": 13.94
+                },
+                "Brie String": {
+                    "-": 14.51
+                },
+                "Swiss String": {
+                    "-": 14.21
+                }
+            },
+            "Mist Level 6-18": {
+                "Magical String": {
+                    "-": 5.19
+                },
+                "Brie String": {
+                    "-": 5.02,
+                    "Brain": 2.96
+                },
+                "Swiss String": {
+                    "-": 5
+                }
+            }
+        }
+    },
+    "Prototype": {
+        "Burroughs Rift": {
+            "Mist Level 1-5": {
+                "Magical String": {
+                    "-": 9.3
+                },
+                "Brie String": {
+                    "-": 9.71
+                },
+                "Swiss String": {
+                    "-": 9.67
+                }
+            },
+            "Mist Level 6-18": {
+                "Magical String": {
+                    "-": 3.84
+                },
+                "Brie String": {
+                    "-": 4.07,
+                    "Brain": 2.87
+                },
+                "Swiss String": {
+                    "-": 3.93
+                }
+            }
+        }
+    },
+    "Lycanoid": {
+        "Burroughs Rift": {
+            "Mist Level 1-5": {
+                "Magical String": {
+                    "-": 1.28
+                }
+            },
+            "Mist Level 6-18": {
+                "Magical String": {
+                    "-": 24.49
+                },
+                "Brie String": {
+                    "-": 24.51,
+                    "Brain": 16.63
+                },
+                "Swiss String": {
+                    "-": 25.24
+                }
+            }
+        }
+    },
+    "Revenant": {
+        "Burroughs Rift": {
+            "Mist Level 1-5": {
+                "Magical String": {
+                    "-": 1.19
+                }
+            },
+            "Mist Level 6-18": {
+                "Magical String": {
+                    "-": 24.25
+                },
+                "Brie String": {
+                    "-": 24.51,
+                    "Brain": 16.63
+                },
+                "Swiss String": {
+                    "-": 24.73
+                }
+            }
+        }
+    },
+    "Cyber Miner": {
+        "Burroughs Rift": {
+            "Mist Level 1-5": {
+                "Terre Ricotta": {
+                    "-": 25.17
+                }
+            },
+            "Mist Level 6-18": {
+                "Terre Ricotta": {
+                    "-": 10.1
+                }
+            }
+        }
+    },
+    "Clump": {
+        "Burroughs Rift": {
+            "Mist Level 1-5": {
+                "Terre Ricotta": {
+                    "-": 23.08
+                }
+            },
+            "Mist Level 6-18": {
+                "Terre Ricotta": {
+                    "-": 8.99
+                }
+            }
+        }
+    },
+    "Rifterranian": {
+        "Burroughs Rift": {
+            "Mist Level 1-5": {
+                "Terre Ricotta": {
+                    "-": 19.65
+                }
+            },
+            "Mist Level 6-18": {
+                "Terre Ricotta": {
+                    "-": 8.07
+                }
+            }
+        }
+    },
+    "Itty Bitty Rifty Burroughs": {
+        "Burroughs Rift": {
+            "Mist Level 1-5": {
+                "Terre Ricotta": {
+                    "-": 17.14
+                }
+            },
+            "Mist Level 6-18": {
+                "Terre Ricotta": {
+                    "-": 7.01
+                }
+            }
+        }
+    },
+    "Pneumatic Dirt Displacement": {
+        "Burroughs Rift": {
+            "Mist Level 1-5": {
+                "Terre Ricotta": {
+                    "-": 14.96
+                }
+            },
+            "Mist Level 6-18": {
+                "Terre Ricotta": {
+                    "-": 6.03
+                }
+            }
+        }
+    },
+    "Toxikinetic": {
+        "Burroughs Rift": {
+            "Mist Level 1-5": {
+                "Polluted Parmesan": {
+                    "-": 39.16
+                }
+            },
+            "Mist Level 6-18": {
+                "Polluted Parmesan": {
+                    "-": 14.51
+                }
+            }
+        }
+    },
+    "Radioactive Ooze": {
+        "Burroughs Rift": {
+            "Mist Level 1-5": {
+                "Polluted Parmesan": {
+                    "-": 31.25
+                }
+            },
+            "Mist Level 6-18": {
+                "Polluted Parmesan": {
+                    "-": 9.99
+                }
+            }
+        }
+    },
+    "Mecha Tail": {
+        "Burroughs Rift": {
+            "Mist Level 1-5": {
+                "Polluted Parmesan": {
+                    "-": 29.59
+                }
+            },
+            "Mist Level 6-18": {
+                "Polluted Parmesan": {
+                    "-": 9.78
+                }
+            }
+        }
+    },
+    "Zombot Unipire The Third": {
+        "Burroughs Rift": {
+            "Mist Level 6-18": {
+                "Magical String": {
+                    "-": 19.77
+                },
+                "Brie String": {
+                    "-": 19.99,
+                    "Brain": 24.11
+                },
+                "Swiss String": {
+                    "-": 19.48
+                }
+            }
+        }
+    },
+    "Boulder Biter": {
+        "Burroughs Rift": {
+            "Mist Level 6-18": {
+                "Terre Ricotta": {
+                    "-": 24.97
+                }
+            }
+        }
+    },
+    "Master Exploder": {
+        "Burroughs Rift": {
+            "Mist Level 6-18": {
+                "Terre Ricotta": {
+                    "-": 19.9
+                }
+            }
+        }
+    },
+    "Lambent": {
+        "Burroughs Rift": {
+            "Mist Level 6-18": {
+                "Terre Ricotta": {
+                    "-": 14.93
+                }
+            }
+        }
+    },
+    "Super Mega Mecha Ultra RoboGold": {
+        "Burroughs Rift": {
+            "Mist Level 6-18": {
+                "Polluted Parmesan": {
+                    "-": 23.06
+                }
+            },
+            "Mist Level 19-20": {
+                "Polluted Parmesan": {
+                    "-": 10.12
+                }
+            }
+        }
+    },
+    "Toxic Avenger": {
+        "Burroughs Rift": {
+            "Mist Level 6-18": {
+                "Polluted Parmesan": {
+                    "-": 21.62
+                }
+            },
+            "Mist Level 19-20": {
+                "Polluted Parmesan": {
+                    "-": 10.08
+                }
+            }
+        }
+    },
+    "Rancid Bog Beast": {
+        "Burroughs Rift": {
+            "Mist Level 6-18": {
+                "Polluted Parmesan": {
+                    "-": 21.04
+                }
+            },
+            "Mist Level 19-20": {
+                "Polluted Parmesan": {
+                    "-": 10.07
+                }
+            }
+        }
+    },
+    "Monstrous Abomination": {
+        "Burroughs Rift": {
+            "Mist Level 19-20": {
+                "Magical String/Brie String/Swiss String": {
+                    "-": 100
+                }
+            }
+        }
+    },
+    "Big Bad Behemoth Burroughs": {
+        "Burroughs Rift": {
+            "Mist Level 19-20": {
+                "Terre Ricotta": {
+                    "-": 100
+                }
+            }
+        }
+    },
+    "Plutonium Tentacle": {
+        "Burroughs Rift": {
+            "Mist Level 19-20": {
+                "Polluted Parmesan": {
+                    "-": 25.04
+                }
+            }
+        }
+    },
+    "Assassin Beast": {
+        "Burroughs Rift": {
+            "Mist Level 19-20": {
+                "Polluted Parmesan": {
+                    "-": 24.95
+                }
+            }
+        }
+    },
+    "Menace Of The Rift": {
+        "Burroughs Rift": {
+            "Mist Level 19-20": {
+                "Polluted Parmesan": {
+                    "-": 19.74
+                }
+            }
+        }
+    },
     "Chameleon": {
         "Calm Clearing": {
             "-": {
@@ -18190,840 +18780,6 @@
             "Chess Master": {
                 "Checkmate": {
                     "-": 15.24
-                }
-            }
-        }
-    },
-    "Doktor": {
-        "Burroughs Rift": {
-            "Mist Level 0": {
-                "Magical String": {
-                    "-": 19.8
-                },
-                "Brie String": {
-                    "-": 19.55
-                },
-                "Swiss String": {
-                    "-": 5.77
-                },
-                "Marble String": {
-                    "-": 5.35
-                }
-            },
-            "Mist Level 1-5": {
-                "Magical String": {
-                    "-": 0.58
-                },
-                "Brie String": {
-                    "-": 0.17
-                }
-            }
-        }
-    },
-    "Evil Scientist": {
-        "Burroughs Rift": {
-            "Mist Level 0": {
-                "Magical String": {
-                    "-": 15.28
-                },
-                "Brie String": {
-                    "-": 20.62
-                },
-                "Swiss String": {
-                    "-": 6.09
-                },
-                "Marble String": {
-                    "-": 4.77
-                }
-            },
-            "Mist Level 1-5": {
-                "Magical String": {
-                    "-": 0.29
-                },
-                "Brie String": {
-                    "-": 0.17
-                }
-            }
-        }
-    },
-    "Portable Generator": {
-        "Burroughs Rift": {
-            "Mist Level 0": {
-                "Magical String": {
-                    "-": 15.19
-                }
-            }
-        }
-    },
-    "Surgeon Bot": {
-        "Burroughs Rift": {
-            "Mist Level 0": {
-                "Magical String": {
-                    "-": 15.14
-                },
-                "Brie String": {
-                    "-": 14.36
-                },
-                "Swiss String": {
-                    "-": 11.38
-                },
-                "Marble String": {
-                    "-": 4.48
-                }
-            },
-            "Mist Level 1-5": {
-                "Magical String": {
-                    "-": 0.87
-                },
-                "Brie String": {
-                    "-": 0.17
-                },
-                "Swiss String": {
-                    "-": 0.81
-                }
-            }
-        }
-    },
-    "Automated Sentry": {
-        "Burroughs Rift": {
-            "Mist Level 0": {
-                "Magical String": {
-                    "-": 10.58
-                },
-                "Brie String": {
-                    "-": 15.47
-                },
-                "Swiss String": {
-                    "-": 13.62
-                },
-                "Marble String": {
-                    "-": 4.19
-                }
-            },
-            "Mist Level 1-5": {
-                "Brie String": {
-                    "-": 0.17
-                }
-            }
-        }
-    },
-    "Amplified White": {
-        "Burroughs Rift": {
-            "Mist Level 0": {
-                "Magical String": {
-                    "-": 6.89
-                },
-                "Brie String": {
-                    "-": 6.25
-                },
-                "Swiss String": {
-                    "-": 5.45
-                },
-                "Marble String": {
-                    "-": 22.11
-                }
-            },
-            "Mist Level 1-5": {
-                "Brie String": {
-                    "-": 0.06
-                }
-            }
-        }
-    },
-    "Amplified Brown": {
-        "Burroughs Rift": {
-            "Mist Level 0": {
-                "Magical String": {
-                    "-": 5.58
-                },
-                "Brie String": {
-                    "-": 4.59
-                },
-                "Swiss String": {
-                    "-": 13.14
-                },
-                "Marble String": {
-                    "-": 13.29
-                }
-            }
-        }
-    },
-    "Cybernetic Specialist": {
-        "Burroughs Rift": {
-            "Mist Level 0": {
-                "Magical String": {
-                    "-": 4.92
-                },
-                "Brie String": {
-                    "-": 5.24
-                },
-                "Swiss String": {
-                    "-": 21.15
-                },
-                "Marble String": {
-                    "-": 14.45
-                }
-            },
-            "Mist Level 1-5": {
-                "Magical String": {
-                    "-": 0.29
-                },
-                "Brie String": {
-                    "-": 0.06
-                }
-            }
-        }
-    },
-    "Amplified Grey": {
-        "Burroughs Rift": {
-            "Mist Level 0": {
-                "Magical String": {
-                    "-": 4.7
-                },
-                "Brie String": {
-                    "-": 5.05
-                },
-                "Swiss String": {
-                    "-": 4.81
-                },
-                "Marble String": {
-                    "-": 9.97
-                }
-            }
-        }
-    },
-    "Rift Bio Engineer": {
-        "Burroughs Rift": {
-            "Mist Level 0": {
-                "Magical String": {
-                    "-": 1.89
-                },
-                "Brie String": {
-                    "-": 8.87
-                },
-                "Swiss String": {
-                    "-": 18.59
-                },
-                "Marble String": {
-                    "-": 21.39
-                }
-            },
-            "Mist Level 1-5": {
-                "Magical String": {
-                    "-": 0.29
-                }
-            }
-        }
-    },
-    "Tech Ravenous Zombie": {
-        "Burroughs Rift": {
-            "Mist Level 0": {
-                "Magical String": {
-                    "-": 0.04
-                },
-                "Undead String Emmental": {
-                    "-": 18.93
-                }
-            },
-            "Mist Level 1-5": {
-                "Magical String": {
-                    "-": 30.06
-                },
-                "Brie String": {
-                    "-": 32.37
-                },
-                "Swiss String": {
-                    "-": 29.03
-                },
-                "Undead String Emmental": {
-                    "-": 14.85
-                }
-            },
-            "Mist Level 6-18": {
-                "Magical String": {
-                    "-": 9.38
-                },
-                "Brie String": {
-                    "-": 8.78
-                },
-                "Swiss String": {
-                    "-": 8.4
-                },
-                "Undead String Emmental": {
-                    "-": 17.72
-                }
-            },
-            "Mist Level 19-20": {
-                "Brie String": {
-                    "-": 0.17
-                }
-            }
-        }
-    },
-    "Tomb Exhumer": {
-        "Burroughs Rift": {
-            "Mist Level 0": {
-                "Undead String Emmental": {
-                    "-": 20.9
-                }
-            },
-            "Mist Level 1-5": {
-                "Undead String Emmental": {
-                    "-": 25.99
-                }
-            },
-            "Mist Level 6-18": {
-                "Undead String Emmental": {
-                    "-": 23.01
-                }
-            }
-        }
-    },
-    "Revenant": {
-        "Burroughs Rift": {
-            "Mist Level 0": {
-                "Undead String Emmental": {
-                    "-": 15.25
-                }
-            },
-            "Mist Level 1-5": {
-                "Undead String Emmental": {
-                    "-": 16.47
-                }
-            },
-            "Mist Level 6-18": {
-                "Magical String": {
-                    "-": 24.26
-                },
-                "Brie String": {
-                    "-": 24.17
-                },
-                "Swiss String": {
-                    "-": 25.21
-                },
-                "Undead String Emmental": {
-                    "-": 16.5
-                }
-            },
-            "Mist Level 19-20": {
-                "Magical String": {
-                    "-": 0.62
-                },
-                "Brie String": {
-                    "-": 1.19
-                }
-            }
-        }
-    },
-    "Phase Zombie": {
-        "Burroughs Rift": {
-            "Mist Level 0": {
-                "Undead String Emmental": {
-                    "-": 14.41
-                }
-            },
-            "Mist Level 1-5": {
-                "Magical String": {
-                    "-": 20.81
-                },
-                "Brie String": {
-                    "-": 19.69
-                },
-                "Swiss String": {
-                    "-": 17.74
-                },
-                "Undead String Emmental": {
-                    "-": 14.62
-                }
-            },
-            "Mist Level 6-18": {
-                "Magical String": {
-                    "-": 7.35
-                },
-                "Brie String": {
-                    "-": 6.39
-                },
-                "Swiss String": {
-                    "-": 5.04
-                },
-                "Undead String Emmental": {
-                    "-": 15.27
-                }
-            },
-            "Mist Level 19-20": {
-                "Magical String": {
-                    "-": 0.31
-                },
-                "Brie String": {
-                    "-": 0.26
-                }
-            }
-        }
-    },
-    "Lycanoid": {
-        "Burroughs Rift": {
-            "Mist Level 0": {
-                "Undead String Emmental": {
-                    "-": 10.73
-                }
-            },
-            "Mist Level 1-5": {
-                "Undead String Emmental": {
-                    "-": 10.9
-                }
-            },
-            "Mist Level 6-18": {
-                "Magical String": {
-                    "-": 21.88
-                },
-                "Brie String": {
-                    "-": 25.43
-                },
-                "Swiss String": {
-                    "-": 28.15
-                },
-                "Undead String Emmental": {
-                    "-": 9.98
-                }
-            },
-            "Mist Level 19-20": {
-                "Magical String": {
-                    "-": 0.93
-                },
-                "Brie String": {
-                    "-": 0.77
-                }
-            }
-        }
-    },
-    "Count Vampire": {
-        "Burroughs Rift": {
-            "Mist Level 0": {
-                "Undead String Emmental": {
-                    "-": 10.45
-                }
-            },
-            "Mist Level 1-5": {
-                "Magical String": {
-                    "-": 23.41
-                },
-                "Brie String": {
-                    "-": 24.22
-                },
-                "Swiss String": {
-                    "-": 27.42
-                },
-                "Undead String Emmental": {
-                    "-": 7.89
-                }
-            },
-            "Mist Level 6-18": {
-                "Magical String": {
-                    "-": 8.82
-                },
-                "Brie String": {
-                    "-": 6.26
-                },
-                "Swiss String": {
-                    "-": 5.88
-                },
-                "Undead String Emmental": {
-                    "-": 8.15
-                }
-            },
-            "Mist Level 19-20": {
-                "Brie String": {
-                    "-": 0.34
-                }
-            }
-        }
-    },
-    "Zombot Unipire The Third": {
-        "Burroughs Rift": {
-            "Mist Level 0": {
-                "Undead String Emmental": {
-                    "-": 9.32
-                }
-            },
-            "Mist Level 1-5": {
-                "Undead String Emmental": {
-                    "-": 9.28
-                }
-            },
-            "Mist Level 6-18": {
-                "Magical String": {
-                    "-": 18.75
-                },
-                "Brie String": {
-                    "-": 19.32
-                },
-                "Swiss String": {
-                    "-": 19.33
-                },
-                "Undead String Emmental": {
-                    "-": 9.37
-                }
-            },
-            "Mist Level 19-20": {
-                "Magical String": {
-                    "-": 0.93
-                },
-                "Brie String": {
-                    "-": 0.51
-                }
-            }
-        }
-    },
-    "Robat": {
-        "Burroughs Rift": {
-            "Mist Level 1-5": {
-                "Magical String": {
-                    "-": 13.01
-                },
-                "Brie String": {
-                    "-": 13.36
-                },
-                "Swiss String": {
-                    "-": 15.32
-                }
-            },
-            "Mist Level 6-18": {
-                "Magical String": {
-                    "-": 4.23
-                },
-                "Brie String": {
-                    "-": 5.27
-                },
-                "Swiss String": {
-                    "-": 2.52
-                }
-            },
-            "Mist Level 19-20": {
-                "Magical String": {
-                    "-": 0.31
-                },
-                "Brie String": {
-                    "-": 0.43
-                }
-            }
-        }
-    },
-    "Prototype": {
-        "Burroughs Rift": {
-            "Mist Level 1-5": {
-                "Magical String": {
-                    "-": 10.4
-                },
-                "Brie String": {
-                    "-": 9.56
-                },
-                "Swiss String": {
-                    "-": 9.68
-                }
-            },
-            "Mist Level 6-18": {
-                "Magical String": {
-                    "-": 5.33
-                },
-                "Brie String": {
-                    "-": 4.37
-                },
-                "Swiss String": {
-                    "-": 5.46
-                }
-            },
-            "Mist Level 19-20": {
-                "Brie String": {
-                    "-": 0.09
-                }
-            }
-        }
-    },
-    "Clump": {
-        "Burroughs Rift": {
-            "Mist Level 1-5": {
-                "Terre Ricotta": {
-                    "-": 25.04
-                }
-            },
-            "Mist Level 6-18": {
-                "Terre Ricotta": {
-                    "-": 9.12
-                }
-            },
-            "Mist Level 19-20": {
-                "Terre Ricotta": {
-                    "-": 0.49
-                }
-            }
-        }
-    },
-    "Cyber Miner": {
-        "Burroughs Rift": {
-            "Mist Level 1-5": {
-                "Terre Ricotta": {
-                    "-": 23.55
-                }
-            },
-            "Mist Level 6-18": {
-                "Terre Ricotta": {
-                    "-": 9.35
-                }
-            },
-            "Mist Level 19-20": {
-                "Terre Ricotta": {
-                    "-": 0.24
-                }
-            }
-        }
-    },
-    "Rifterranian": {
-        "Burroughs Rift": {
-            "Mist Level 1-5": {
-                "Terre Ricotta": {
-                    "-": 21.01
-                }
-            },
-            "Mist Level 6-18": {
-                "Terre Ricotta": {
-                    "-": 8.45
-                }
-            },
-            "Mist Level 19-20": {
-                "Terre Ricotta": {
-                    "-": 0.16
-                }
-            }
-        }
-    },
-    "Itty Bitty Rifty Burroughs": {
-        "Burroughs Rift": {
-            "Mist Level 1-5": {
-                "Terre Ricotta": {
-                    "-": 15.35
-                }
-            },
-            "Mist Level 6-18": {
-                "Terre Ricotta": {
-                    "-": 7.31
-                }
-            },
-            "Mist Level 19-20": {
-                "Terre Ricotta": {
-                    "-": 0.33
-                }
-            }
-        }
-    },
-    "Pneumatic Dirt Displacement": {
-        "Burroughs Rift": {
-            "Mist Level 1-5": {
-                "Terre Ricotta": {
-                    "-": 15.05
-                }
-            },
-            "Mist Level 6-18": {
-                "Terre Ricotta": {
-                    "-": 6.51
-                }
-            },
-            "Mist Level 19-20": {
-                "Terre Ricotta": {
-                    "-": 0.24
-                }
-            }
-        }
-    },
-    "Toxikinetic": {
-        "Burroughs Rift": {
-            "Mist Level 1-5": {
-                "Polluted Parmesan": {
-                    "-": 38.75
-                }
-            },
-            "Mist Level 6-18": {
-                "Polluted Parmesan": {
-                    "-": 14.41
-                }
-            },
-            "Mist Level 19-20": {
-                "Polluted Parmesan": {
-                    "-": 0.21
-                }
-            }
-        }
-    },
-    "Mecha Tail": {
-        "Burroughs Rift": {
-            "Mist Level 1-5": {
-                "Polluted Parmesan": {
-                    "-": 33.41
-                }
-            },
-            "Mist Level 6-18": {
-                "Polluted Parmesan": {
-                    "-": 10.71
-                }
-            },
-            "Mist Level 19-20": {
-                "Polluted Parmesan": {
-                    "-": 0.21
-                }
-            }
-        }
-    },
-    "Radioactive Ooze": {
-        "Burroughs Rift": {
-            "Mist Level 1-5": {
-                "Polluted Parmesan": {
-                    "-": 27.84
-                }
-            },
-            "Mist Level 6-18": {
-                "Polluted Parmesan": {
-                    "-": 9.53
-                }
-            },
-            "Mist Level 19-20": {
-                "Polluted Parmesan": {
-                    "-": 0.19
-                }
-            }
-        }
-    },
-    "Monstrous Abomination": {
-        "Burroughs Rift": {
-            "Mist Level 6-18": {
-                "Brie String": {
-                    "-": 0.02
-                }
-            },
-            "Mist Level 19-20": {
-                "Magical String": {
-                    "-": 96.91
-                },
-                "Brie String": {
-                    "-": 96.26
-                }
-            }
-        }
-    },
-    "Boulder Biter": {
-        "Burroughs Rift": {
-            "Mist Level 6-18": {
-                "Terre Ricotta": {
-                    "-": 24.72
-                }
-            },
-            "Mist Level 19-20": {
-                "Terre Ricotta": {
-                    "-": 0.98
-                }
-            }
-        }
-    },
-    "Master Exploder": {
-        "Burroughs Rift": {
-            "Mist Level 6-18": {
-                "Terre Ricotta": {
-                    "-": 19.65
-                }
-            },
-            "Mist Level 19-20": {
-                "Terre Ricotta": {
-                    "-": 0.65
-                }
-            }
-        }
-    },
-    "Lambent": {
-        "Burroughs Rift": {
-            "Mist Level 6-18": {
-                "Terre Ricotta": {
-                    "-": 14.89
-                }
-            },
-            "Mist Level 19-20": {
-                "Terre Ricotta": {
-                    "-": 0.65
-                }
-            }
-        }
-    },
-    "Super Mega Mecha Ultra RoboGold": {
-        "Burroughs Rift": {
-            "Mist Level 6-18": {
-                "Polluted Parmesan": {
-                    "-": 23.46
-                }
-            },
-            "Mist Level 19-20": {
-                "Polluted Parmesan": {
-                    "-": 9.88
-                }
-            }
-        }
-    },
-    "Toxic Avenger": {
-        "Burroughs Rift": {
-            "Mist Level 6-18": {
-                "Polluted Parmesan": {
-                    "-": 21.26
-                }
-            },
-            "Mist Level 19-20": {
-                "Polluted Parmesan": {
-                    "-": 10.77
-                }
-            }
-        }
-    },
-    "Rancid Bog Beast": {
-        "Burroughs Rift": {
-            "Mist Level 6-18": {
-                "Polluted Parmesan": {
-                    "-": 20.63
-                }
-            },
-            "Mist Level 19-20": {
-                "Polluted Parmesan": {
-                    "-": 9.98
-                }
-            }
-        }
-    },
-    "Big Bad Behemoth Burroughs": {
-        "Burroughs Rift": {
-            "Mist Level 19-20": {
-                "Terre Ricotta": {
-                    "-": 96.25
-                }
-            }
-        }
-    },
-    "Plutonium Tentacle": {
-        "Burroughs Rift": {
-            "Mist Level 19-20": {
-                "Polluted Parmesan": {
-                    "-": 24.76
-                }
-            }
-        }
-    },
-    "Assassin Beast": {
-        "Burroughs Rift": {
-            "Mist Level 19-20": {
-                "Polluted Parmesan": {
-                    "-": 23.63
-                }
-            }
-        }
-    },
-    "Menace Of The Rift": {
-        "Burroughs Rift": {
-            "Mist Level 19-20": {
-                "Polluted Parmesan": {
-                    "-": 20.37
                 }
             }
         }
