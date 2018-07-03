@@ -194,202 +194,6 @@
             }
         }
     },
-    "Burroughs Rift": {
-        "Mist Level 0": {
-            "Magical String": {
-                "-": {
-                    "Doktor": 20.68,
-                    "Portable Generator": 15.61,
-                    "Evil Scientist": 15.56,
-                    "Surgeon Bot": 15.15,
-                    "Automated Sentry": 10.34,
-                    "Amplified Brown": 5.22,
-                    "Amplified Grey": 5.15,
-                    "Cybernetic Specialist": 5.14,
-                    "Amplified White": 5.07,
-                    "Rift Bio Engineer": 2.08
-                }
-            },
-            "Brie String": {
-                "-": {
-                    "Doktor": 20.28,
-                    "Evil Scientist": 20.1,
-                    "Automated Sentry": 15,
-                    "Surgeon Bot": 14.85,
-                    "Rift Bio Engineer": 9.87,
-                    "Amplified White": 5.09,
-                    "Amplified Grey": 4.95,
-                    "Cybernetic Specialist": 4.94,
-                    "Amplified Brown": 4.92
-                }
-            },
-            "Swiss String": {
-                "-": {
-                    "Cybernetic Specialist": 19.79,
-                    "Rift Bio Engineer": 19.78,
-                    "Automated Sentry": 15.28,
-                    "Amplified Brown": 15.14,
-                    "Surgeon Bot": 9.89,
-                    "Amplified Grey": 5.12,
-                    "Doktor": 5.01,
-                    "Evil Scientist": 4.99,
-                    "Amplified White": 4.99
-                }
-            },
-            "Marble String": {
-                "-": {
-                    "Rift Bio Engineer": 20.85,
-                    "Amplified White": 18.55,
-                    "Amplified Brown": 16.15,
-                    "Cybernetic Specialist": 15.98,
-                    "Amplified Grey": 9.06,
-                    "Automated Sentry": 5.38,
-                    "Surgeon Bot": 5.13,
-                    "Doktor": 4.7,
-                    "Evil Scientist": 4.19
-                }
-            }
-        },
-        "Mist Level 1-5": {
-            "Magical String": {
-                "-": {
-                    "Tech Ravenous Zombie": 30.31,
-                    "Count Vampire": 23.68,
-                    "Phase Zombie": 20.3,
-                    "Robat": 13.94,
-                    "Prototype": 9.3,
-                    "Lycanoid": 1.28,
-                    "Revenant": 1.19
-                }
-            },
-            "Brie String": {
-                "-": {
-                    "Tech Ravenous Zombie": 31.2,
-                    "Count Vampire": 24.09,
-                    "Phase Zombie": 20.5,
-                    "Robat": 14.51,
-                    "Prototype": 9.71
-                }
-            },
-            "Swiss String": {
-                "-": {
-                    "Tech Ravenous Zombie": 32.16,
-                    "Count Vampire": 23.6,
-                    "Phase Zombie": 20.36,
-                    "Robat": 14.21,
-                    "Prototype": 9.67
-                }
-            },
-            "Terre Ricotta": {
-                "-": {
-                    "Cyber Miner": 25.17,
-                    "Clump": 23.08,
-                    "Rifterranian": 19.65,
-                    "Itty Bitty Rifty Burroughs": 17.14,
-                    "Pneumatic Dirt Displacement": 14.96
-                }
-            },
-            "Polluted Parmesan": {
-                "-": {
-                    "Toxikinetic": 39.16,
-                    "Radioactive Ooze": 31.25,
-                    "Mecha Tail": 29.59
-                }
-            }
-        },
-        "Mist Level 6-18": {
-            "Magical String": {
-                "-": {
-                    "Lycanoid": 24.49,
-                    "Revenant": 24.25,
-                    "Zombot Unipire the Third": 19.77,
-                    "Tech Ravenous Zombie": 8.77,
-                    "Count Vampire": 7,
-                    "Phase Zombie": 6.7,
-                    "Robat": 5.19,
-                    "Prototype": 3.84
-                }
-            },
-            "Brie String": {
-                "-": {
-                    "Lycanoid": 24.51,
-                    "Revenant": 24.51,
-                    "Zombot Unipire the Third": 19.99,
-                    "Tech Ravenous Zombie": 8.57,
-                    "Count Vampire": 6.97,
-                    "Phase Zombie": 6.38,
-                    "Robat": 5.02,
-                    "Prototype": 4.07
-                },
-                "Brain": {
-                    "Zombot Unipire the Third": 24.11,
-                    "Tech Ravenous Zombie": 18.69,
-                    "Lycanoid": 16.63,
-                    "Revenant": 16.63,
-                    "Phase Zombie": 13.79,
-                    "Count Vampire": 4.32,
-                    "Robat": 2.96,
-                    "Prototype": 2.87
-                }
-            },
-            "Swiss String": {
-                "-": {
-                    "Lycanoid": 25.24,
-                    "Revenant": 24.73,
-                    "Zombot Unipire the Third": 19.48,
-                    "Tech Ravenous Zombie": 8.42,
-                    "Count Vampire": 6.93,
-                    "Phase Zombie": 6.28,
-                    "Robat": 5,
-                    "Prototype": 3.93
-                }
-            },
-            "Terre Ricotta": {
-                "-": {
-                    "Boulder Biter": 24.97,
-                    "Master Exploder": 19.9,
-                    "Lambent": 14.93,
-                    "Cyber Miner": 10.1,
-                    "Clump": 8.99,
-                    "Rifterranian": 8.07,
-                    "Itty Bitty Rifty Burroughs": 7.01,
-                    "Pneumatic Dirt Displacement": 6.03
-                }
-            },
-            "Polluted Parmesan": {
-                "-": {
-                    "Super Mega Mecha Ultra RoboGold": 23.06,
-                    "Toxic Avenger": 21.62,
-                    "Rancid Bog Beast": 21.04,
-                    "Toxikinetic": 14.51,
-                    "Radioactive Ooze": 9.99,
-                    "Mecha Tail": 9.78
-                }
-            }
-        },
-        "Mist Level 19-20": {
-            "Magical String/Brie String/Swiss String": {
-                "-": {
-                    "Monstrous Abomination": 100
-                }
-            },
-            "Terre Ricotta": {
-                "-": {
-                    "Big Bad Behemoth Burroughs": 100
-                }
-            },
-            "Polluted Parmesan": {
-                "-": {
-                    "Plutonium Tentacle": 25.04,
-                    "Assassin Beast": 24.95,
-                    "Menace of the Rift": 19.74,
-                    "Super Mega Mecha Ultra RoboGold": 10.12,
-                    "Toxic Avenger": 10.08,
-                    "Rancid Bog Beast": 10.07
-                }
-            }
-        }
-    },
     "Calm Clearing": {
         "-": {
             "Cherry": {
@@ -7592,6 +7396,266 @@
                     "Technic Queen": 4.08,
                     "Mystic Queen": 3.77,
                     "Technic Knight": 2.75
+                }
+            }
+        }
+    },
+    "Burroughs Rift": {
+        "Mist Level 0": {
+            "Magical String": {
+                "-": {
+                    "Doktor": 19.8,
+                    "Evil Scientist": 15.28,
+                    "Portable Generator": 15.19,
+                    "Surgeon Bot": 15.14,
+                    "Automated Sentry": 10.58,
+                    "Amplified White": 6.89,
+                    "Amplified Brown": 5.58,
+                    "Cybernetic Specialist": 4.92,
+                    "Amplified Grey": 4.7,
+                    "Rift Bio Engineer": 1.89,
+                    "Tech Ravenous Zombie": 0.04
+                }
+            },
+            "Brie String": {
+                "-": {
+                    "Evil Scientist": 20.62,
+                    "Doktor": 19.55,
+                    "Automated Sentry": 15.47,
+                    "Surgeon Bot": 14.36,
+                    "Rift Bio Engineer": 8.87,
+                    "Amplified White": 6.25,
+                    "Cybernetic Specialist": 5.24,
+                    "Amplified Grey": 5.05,
+                    "Amplified Brown": 4.59
+                }
+            },
+            "Swiss String": {
+                "-": {
+                    "Cybernetic Specialist": 21.15,
+                    "Rift Bio Engineer": 18.59,
+                    "Automated Sentry": 13.62,
+                    "Amplified Brown": 13.14,
+                    "Surgeon Bot": 11.38,
+                    "Evil Scientist": 6.09,
+                    "Doktor": 5.77,
+                    "Amplified White": 5.45,
+                    "Amplified Grey": 4.81
+                }
+            },
+            "Marble String": {
+                "-": {
+                    "Amplified White": 22.11,
+                    "Rift Bio Engineer": 21.39,
+                    "Cybernetic Specialist": 14.45,
+                    "Amplified Brown": 13.29,
+                    "Amplified Grey": 9.97,
+                    "Doktor": 5.35,
+                    "Evil Scientist": 4.77,
+                    "Surgeon Bot": 4.48,
+                    "Automated Sentry": 4.19
+                }
+            },
+            "Undead String Emmental": {
+                "-": {
+                    "Tomb Exhumer": 20.9,
+                    "Tech Ravenous Zombie": 18.93,
+                    "Revenant": 15.25,
+                    "Phase Zombie": 14.41,
+                    "Lycanoid": 10.73,
+                    "Count Vampire": 10.45,
+                    "Zombot Unipire the Third": 9.32
+                }
+            }
+        },
+        "Mist Level 1-5": {
+            "Magical String": {
+                "-": {
+                    "Tech Ravenous Zombie": 30.06,
+                    "Count Vampire": 23.41,
+                    "Phase Zombie": 20.81,
+                    "Robat": 13.01,
+                    "Prototype": 10.4,
+                    "Surgeon Bot": 0.87,
+                    "Doktor": 0.58,
+                    "Cybernetic Specialist": 0.29,
+                    "Evil Scientist": 0.29,
+                    "Rift Bio Engineer": 0.29
+                }
+            },
+            "Brie String": {
+                "-": {
+                    "Tech Ravenous Zombie": 32.37,
+                    "Count Vampire": 24.22,
+                    "Phase Zombie": 19.69,
+                    "Robat": 13.36,
+                    "Prototype": 9.56,
+                    "Surgeon Bot": 0.17,
+                    "Evil Scientist": 0.17,
+                    "Automated Sentry": 0.17,
+                    "Doktor": 0.17,
+                    "Amplified White": 0.06,
+                    "Cybernetic Specialist": 0.06
+                }
+            },
+            "Swiss String": {
+                "-": {
+                    "Tech Ravenous Zombie": 29.03,
+                    "Count Vampire": 27.42,
+                    "Phase Zombie": 17.74,
+                    "Robat": 15.32,
+                    "Prototype": 9.68,
+                    "Surgeon Bot": 0.81
+                }
+            },
+            "Terre Ricotta": {
+                "-": {
+                    "Clump": 25.04,
+                    "Cyber Miner": 23.55,
+                    "Rifterranian": 21.01,
+                    "Itty Bitty Rifty Burroughs": 15.35,
+                    "Pneumatic Dirt Displacement": 15.05
+                }
+            },
+            "Polluted Parmesan": {
+                "-": {
+                    "Toxikinetic": 38.75,
+                    "Mecha Tail": 33.41,
+                    "Radioactive Ooze": 27.84
+                }
+            },
+            "Undead String Emmental": {
+                "-": {
+                    "Tomb Exhumer": 25.99,
+                    "Revenant": 16.47,
+                    "Tech Ravenous Zombie": 14.85,
+                    "Phase Zombie": 14.62,
+                    "Lycanoid": 10.9,
+                    "Zombot Unipire the Third": 9.28,
+                    "Count Vampire": 7.89
+                }
+            }
+        },
+        "Mist Level 6-18": {
+            "Magical String": {
+                "-": {
+                    "Revenant": 24.26,
+                    "Lycanoid": 21.88,
+                    "Zombot Unipire the Third": 18.75,
+                    "Tech Ravenous Zombie": 9.38,
+                    "Count Vampire": 8.82,
+                    "Phase Zombie": 7.35,
+                    "Prototype": 5.33,
+                    "Robat": 4.23
+                }
+            },
+            "Brie String": {
+                "-": {
+                    "Lycanoid": 25.43,
+                    "Revenant": 24.17,
+                    "Zombot Unipire the Third": 19.32,
+                    "Tech Ravenous Zombie": 8.78,
+                    "Phase Zombie": 6.39,
+                    "Count Vampire": 6.26,
+                    "Robat": 5.27,
+                    "Prototype": 4.37,
+                    "Monstrous Abomination": 0.02
+                }
+            },
+            "Swiss String": {
+                "-": {
+                    "Lycanoid": 28.15,
+                    "Revenant": 25.21,
+                    "Zombot Unipire the Third": 19.33,
+                    "Tech Ravenous Zombie": 8.4,
+                    "Count Vampire": 5.88,
+                    "Prototype": 5.46,
+                    "Phase Zombie": 5.04,
+                    "Robat": 2.52
+                }
+            },
+            "Terre Ricotta": {
+                "-": {
+                    "Boulder Biter": 24.72,
+                    "Master Exploder": 19.65,
+                    "Lambent": 14.89,
+                    "Cyber Miner": 9.35,
+                    "Clump": 9.12,
+                    "Rifterranian": 8.45,
+                    "Itty Bitty Rifty Burroughs": 7.31,
+                    "Pneumatic Dirt Displacement": 6.51
+                }
+            },
+            "Polluted Parmesan": {
+                "-": {
+                    "Super Mega Mecha Ultra RoboGold": 23.46,
+                    "Toxic Avenger": 21.26,
+                    "Rancid Bog Beast": 20.63,
+                    "Toxikinetic": 14.41,
+                    "Mecha Tail": 10.71,
+                    "Radioactive Ooze": 9.53
+                }
+            },
+            "Undead String Emmental": {
+                "-": {
+                    "Tomb Exhumer": 23.01,
+                    "Tech Ravenous Zombie": 17.72,
+                    "Revenant": 16.5,
+                    "Phase Zombie": 15.27,
+                    "Lycanoid": 9.98,
+                    "Zombot Unipire the Third": 9.37,
+                    "Count Vampire": 8.15
+                }
+            }
+        },
+        "Mist Level 19-20": {
+            "Magical String": {
+                "-": {
+                    "Monstrous Abomination": 96.91,
+                    "Zombot Unipire the Third": 0.93,
+                    "Lycanoid": 0.93,
+                    "Revenant": 0.62,
+                    "Robat": 0.31,
+                    "Phase Zombie": 0.31
+                }
+            },
+            "Brie String": {
+                "-": {
+                    "Monstrous Abomination": 96.26,
+                    "Revenant": 1.19,
+                    "Lycanoid": 0.77,
+                    "Zombot Unipire the Third": 0.51,
+                    "Robat": 0.43,
+                    "Count Vampire": 0.34,
+                    "Phase Zombie": 0.26,
+                    "Tech Ravenous Zombie": 0.17,
+                    "Prototype": 0.09
+                }
+            },
+            "Terre Ricotta": {
+                "-": {
+                    "Big Bad Behemoth Burroughs": 96.25,
+                    "Boulder Biter": 0.98,
+                    "Master Exploder": 0.65,
+                    "Lambent": 0.65,
+                    "Clump": 0.49,
+                    "Itty Bitty Rifty Burroughs": 0.33,
+                    "Pneumatic Dirt Displacement": 0.24,
+                    "Cyber Miner": 0.24,
+                    "Rifterranian": 0.16
+                }
+            },
+            "Polluted Parmesan": {
+                "-": {
+                    "Plutonium Tentacle": 24.76,
+                    "Assassin Beast": 23.63,
+                    "Menace of the Rift": 20.37,
+                    "Toxic Avenger": 10.77,
+                    "Rancid Bog Beast": 9.98,
+                    "Super Mega Mecha Ultra RoboGold": 9.88,
+                    "Toxikinetic": 0.21,
+                    "Mecha Tail": 0.21,
+                    "Radioactive Ooze": 0.19
                 }
             }
         }
