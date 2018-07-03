@@ -13804,12 +13804,11 @@
                     "Queso Extractor": 9.53,
                     "Croquet Crusher": 5.74
                 }
-            }
-        },
-        "-\".\"Wildfire Queso": {
-            "-": {
-                "100.00%": {
-                    "22": "Queen Quesada"
+            },
+            "Wildfire Queso": {
+                "-": {
+                    "Queen Quesada": 100,
+                    "SampleSize": 22
                 }
             }
         }

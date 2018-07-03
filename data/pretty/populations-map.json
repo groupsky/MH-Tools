@@ -1,13 +1,4 @@
 {
-    "22": {
-        "Queso River": {
-            "-\".\"Wildfire Queso": {
-                "-": {
-                    "100.00%": "Queen Quesada"
-                }
-            }
-        }
-    },
     "Golem": {
         "Acolyte Realm": {
             "-": {
@@ -23700,6 +23691,15 @@
             "-": {
                 "SB+": {
                     "-": 23.95
+                }
+            }
+        }
+    },
+    "Queen Quesada": {
+        "Queso River": {
+            "-": {
+                "Wildfire Queso": {
+                    "-": 100
                 }
             }
         }

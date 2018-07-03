@@ -333,7 +333,8 @@ var baselineAttArray = {
   "Mild Queso": 0.9487478664222776, // Sample: 5819 (High)
   "Medium Queso": 0.9761907913992343, // Sample: 3384 (High)
   "Hot Queso": 0.9963449212719975, // Sample: 790 (Medium)
-  "Flamin Queso": 1, // Sample: 22 (Very Low)
+  "Flamin' Queso": 1, // Sample: 294 (Low)
+  "Wildfire Queso": 1, // Sample: 22 (Low)
 };
 
 /* Its okay using strings as keys here, JS will convert it */
@@ -2978,7 +2979,7 @@ var powersArray = {
   "Pump Raider": [1915, 0, 0, 0, 0, 0, 0, 0, 0, 100, 0],
   "Croquet Crusher": [2945, 0, 0, 0, 0, 0, 0, 0, 0, 100, 0],
   "Queso Extractor": [4310, 0, 0, 0, 0, 0, 0, 0, 0, 100, 0],
-  "Queen Quesada": [8400*5, 0, 0, 0, 0, 0, 0, 0, 0, 500, 0],
+  "Queen Quesada": [8400*13, 0, 0, 0, 0, 0, 0, 0, 0, 1300, 0],
   "Spice Seer": [1873, 100, 0, 0, 0, 0, 0, 0, 0, 0, 0],
   "Old Spice Collector": [3800, 100, 0, 0, 0, 0, 0, 0, 0, 0, 0],
   "Spice Farmer": [2455, 100, 0, 0, 0, 0, 0, 0, 0, 0, 0],
@@ -2987,7 +2988,7 @@ var powersArray = {
   "Spice Finder": [5575, 100, 0, 0, 0, 0, 0, 0, 0, 0, 0],
   "Spice Raider": [3810, 100, 0, 0, 0, 0, 0, 0, 0, 0, 0],
   "Spice Reaper": [6700, 100, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-  "Inferna, The Engulfed": [7065*3, 300, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+  "Inferna, The Engulfed": [7065*13, 1300, 0, 0, 0, 0, 0, 0, 0, 0, 0],
   "Chip Chiseler": [1260, 0, 0, 0, 0, 0, 0, 100, 0, 0, 0],
   "Tiny Toppler": [2815, 0, 0, 0, 0, 0, 0, 100, 0, 0, 0],
   "Ore Chipper": [1720, 0, 0, 0, 0, 0, 0, 100, 0, 0, 0],
@@ -2996,7 +2997,7 @@ var powersArray = {
   "Rubble Rouser": [4225, 0, 0, 0, 0, 0, 0, 100, 0, 0, 0],
   "Grampa Golem": [2815, 0, 0, 0, 0, 0, 0, 100, 0, 0, 0],
   "Fiery Crusher": [5095, 0, 0, 0, 0, 0, 0, 100, 0, 0, 0],
-  "Nachous, The Molten": [5335*3, 0, 0, 0, 0, 0, 0, 300, 0, 0, 0],
+  "Nachous, The Molten": [5335*13, 0, 0, 0, 0, 0, 0, 1300, 0, 0, 0],
    // "Mouse name": [Power, Arcane, Draconic, Forgotten, Hydro, Parental, Physical, Shadow, Tactical, Law, Rift],
 };
 
