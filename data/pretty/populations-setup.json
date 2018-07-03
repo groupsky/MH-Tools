@@ -5997,388 +5997,6 @@
             }
         }
     },
-    "Toxic Spill": {
-        "Archduke/Archduchess": {
-            "Rancid Radioactive Blue": {
-                "-": {
-                    "Slimefist": 14.28,
-                    "Telekinetic Mutant": 10.73,
-                    "Outbreak Assassin": 10.4,
-                    "Mutated Behemoth": 9.07,
-                    "Toxic Warrior": 8.93,
-                    "Mutant Mongrel": 8.89,
-                    "Sludge Swimmer": 8.46,
-                    "The Menace": 5.77,
-                    "Tentacle": 5.4,
-                    "Biohazard": 5.26,
-                    "Mutant Ninja": 4.92,
-                    "Sludge Soaker": 2.97,
-                    "Plague Hag": 2.82,
-                    "Scrap Metal Monster": 2.09
-                },
-                "Super Rotten": {
-                    "Hazmat": 13.13,
-                    "Slimefist": 11.98,
-                    "Outbreak Assassin": 8.89,
-                    "Telekinetic Mutant": 8.72,
-                    "Mutated Behemoth": 8.48,
-                    "Sludge Swimmer": 7.5,
-                    "Toxic Warrior": 7.29,
-                    "Mutant Mongrel": 6.29,
-                    "The Menace": 5.69,
-                    "Biohazard": 4.71,
-                    "Tentacle": 4.21,
-                    "Mutant Ninja": 3.85,
-                    "Lab Technician": 3.53,
-                    "Plague Hag": 2.22,
-                    "Sludge Soaker": 1.84,
-                    "Scrap Metal Monster": 1.66
-                },
-                "Rotten": {
-                    "Lab Technician": 14.13,
-                    "Slimefist": 11.16,
-                    "Outbreak Assassin": 10.19,
-                    "Telekinetic Mutant": 9.22,
-                    "Sludge Swimmer": 8.37,
-                    "Mutated Behemoth": 8.19,
-                    "Toxic Warrior": 8,
-                    "Mutant Mongrel": 7.4,
-                    "The Menace": 6.06,
-                    "Biohazard": 4.55,
-                    "Tentacle": 4.06,
-                    "Mutant Ninja": 3.7,
-                    "Sludge Soaker": 2.06,
-                    "Scrap Metal Monster": 1.52,
-                    "Plague Hag": 1.39
-                }
-            }
-        },
-        "Grand Duke/Grand Duchess": {
-            "Rancid Radioactive Blue": {
-                "-": {
-                    "Telekinetic Mutant": 12.27,
-                    "Toxic Warrior": 11.12,
-                    "Outbreak Assassin": 11.12,
-                    "Mutant Mongrel": 9.9,
-                    "Slimefist": 8.99,
-                    "Plague Hag": 7.81,
-                    "Tentacle": 6.63,
-                    "Mutant Ninja": 6.62,
-                    "Sludge Swimmer": 5.68,
-                    "Sludge Soaker": 5.58,
-                    "Biohazard": 5.54,
-                    "The Menace": 4.39,
-                    "Scrap Metal Monster": 4.37
-                },
-                "Super Rotten": {
-                    "Hazmat": 13.56,
-                    "Telekinetic Mutant": 9.7,
-                    "Outbreak Assassin": 9.21,
-                    "Toxic Warrior": 8.87,
-                    "Mutant Mongrel": 8.08,
-                    "Slimefist": 7.37,
-                    "Plague Hag": 6.35,
-                    "Mutant Ninja": 5.43,
-                    "Tentacle": 5.41,
-                    "Lab Technician": 4.78,
-                    "Sludge Soaker": 4.74,
-                    "Biohazard": 4.53,
-                    "Sludge Swimmer": 4.45,
-                    "Scrap Metal Monster": 3.78,
-                    "The Menace": 3.74
-                },
-                "Rotten": {
-                    "Lab Technician": 14.16,
-                    "Telekinetic Mutant": 10.88,
-                    "Outbreak Assassin": 9.34,
-                    "Toxic Warrior": 9.25,
-                    "Mutant Mongrel": 8.75,
-                    "Slimefist": 7.81,
-                    "Plague Hag": 6.5,
-                    "Tentacle": 6.1,
-                    "Mutant Ninja": 5.57,
-                    "Sludge Swimmer": 4.88,
-                    "Sludge Soaker": 4.82,
-                    "Biohazard": 4.49,
-                    "Scrap Metal Monster": 3.72,
-                    "The Menace": 3.71
-                }
-            }
-        },
-        "Duke/Duchess": {
-            "Rancid Radioactive Blue": {
-                "-": {
-                    "Slimefist": 14.66,
-                    "Toxic Warrior": 14.65,
-                    "Outbreak Assassin": 13.48,
-                    "Mutant Mongrel": 12.52,
-                    "Telekinetic Mutant": 11.38,
-                    "Plague Hag": 6.83,
-                    "Biohazard": 4.58,
-                    "Tentacle": 4.56,
-                    "Mutant Ninja": 3.52,
-                    "Sludge Soaker": 2.4,
-                    "Gelatinous Octahedron": 2.3,
-                    "Scrap Metal Monster": 2.29,
-                    "Mutated Siblings": 1.17,
-                    "Monster Tail": 1.14,
-                    "Bog Beast": 1.13,
-                    "Sludge": 1.14,
-                    "Spore": 1.13,
-                    "Swamp Runner": 1.12
-                },
-                "Super Rotten": {
-                    "Hazmat": 13.63,
-                    "Slimefist": 12,
-                    "Toxic Warrior": 11.92,
-                    "Outbreak Assassin": 11.23,
-                    "Mutant Mongrel": 10.05,
-                    "Telekinetic Mutant": 9.35,
-                    "Plague Hag": 5.61,
-                    "Lab Technician": 4.47,
-                    "Tentacle": 3.86,
-                    "Biohazard": 3.85,
-                    "Mutant Ninja": 2.78,
-                    "Sludge Soaker": 1.95,
-                    "Scrap Metal Monster": 1.88,
-                    "Gelatinous Octahedron": 1.85,
-                    "Sludge": 0.97,
-                    "Bog Beast": 0.95,
-                    "Swamp Runner": 0.94,
-                    "Mutated Siblings": 0.92,
-                    "Monster Tail": 0.91,
-                    "Spore": 0.88
-                },
-                "Rotten": {
-                    "Lab Technician": 14.42,
-                    "Slimefist": 12.58,
-                    "Toxic Warrior": 12.56,
-                    "Outbreak Assassin": 11.56,
-                    "Mutant Mongrel": 10.75,
-                    "Telekinetic Mutant": 9.62,
-                    "Plague Hag": 6.01,
-                    "Tentacle": 3.93,
-                    "Biohazard": 3.85,
-                    "Mutant Ninja": 2.89,
-                    "Sludge Soaker": 2.04,
-                    "Scrap Metal Monster": 2,
-                    "Gelatinous Octahedron": 1.95,
-                    "Spore": 1,
-                    "Bog Beast": 1,
-                    "Sludge": 0.99,
-                    "Monster Tail": 0.97,
-                    "Swamp Runner": 0.97,
-                    "Mutated Siblings": 0.93
-                }
-            }
-        },
-        "Count/Countess": {
-            "Rancid Radioactive Blue": {
-                "-": {
-                    "Sludge Soaker": 15.04,
-                    "Plague Hag": 15,
-                    "Telekinetic Mutant": 12.53,
-                    "Biohazard": 12.41,
-                    "Tentacle": 12.38,
-                    "Mutant Ninja": 8.63,
-                    "Gelatinous Octahedron": 7.58,
-                    "Scrap Metal Monster": 6.3,
-                    "Monster Tail": 2.55,
-                    "Bog Beast": 2.53,
-                    "Sludge": 1.27,
-                    "Spore": 1.27,
-                    "Swamp Runner": 1.27,
-                    "Mutated Siblings": 1.25
-                },
-                "Super Rotten": {
-                    "Hazmat": 15.05,
-                    "Plague Hag": 12.19,
-                    "Sludge Soaker": 12.11,
-                    "Tentacle": 9.9,
-                    "Biohazard": 9.87,
-                    "Telekinetic Mutant": 9.8,
-                    "Mutant Ninja": 7.01,
-                    "Gelatinous Octahedron": 6,
-                    "Scrap Metal Monster": 5.03,
-                    "Lab Technician": 5.02,
-                    "Bog Beast": 2.04,
-                    "Monster Tail": 1.98,
-                    "Mutated Siblings": 1.04,
-                    "Sludge": 1.02,
-                    "Swamp Runner": 0.99,
-                    "Spore": 0.98
-                },
-                "Rotten": {
-                    "Lab Technician": 15.69,
-                    "Plague Hag": 12.72,
-                    "Sludge Soaker": 12.63,
-                    "Telekinetic Mutant": 10.55,
-                    "Tentacle": 10.48,
-                    "Biohazard": 10.46,
-                    "Mutant Ninja": 7.36,
-                    "Gelatinous Octahedron": 6.38,
-                    "Scrap Metal Monster": 5.32,
-                    "Monster Tail": 2.09,
-                    "Bog Beast": 2.07,
-                    "Mutated Siblings": 1.08,
-                    "Sludge": 1.09,
-                    "Spore": 1.07,
-                    "Swamp Runner": 1.02
-                }
-            }
-        },
-        "Baron/Baroness": {
-            "Rancid Radioactive Blue": {
-                "-": {
-                    "Plague Hag": 27.28,
-                    "Sludge Soaker": 26.16,
-                    "Gelatinous Octahedron": 22.45,
-                    "Monster Tail": 6.28,
-                    "Scrap Metal Monster": 6.28,
-                    "Spore": 5.13,
-                    "Bog Beast": 2.51,
-                    "Sludge": 1.39,
-                    "Swamp Runner": 1.27,
-                    "Mutated Siblings": 1.24
-                },
-                "Super Rotten": {
-                    "Plague Hag": 21.71,
-                    "Sludge Soaker": 21.04,
-                    "Gelatinous Octahedron": 17.86,
-                    "Hazmat": 14.96,
-                    "Monster Tail": 5.13,
-                    "Scrap Metal Monster": 5.05,
-                    "Lab Technician": 4.95,
-                    "Spore": 4.04,
-                    "Bog Beast": 2.05,
-                    "Sludge": 1.16,
-                    "Mutated Siblings": 1.05,
-                    "Swamp Runner": 1.01
-                },
-                "Rotten": {
-                    "Plague Hag": 23.13,
-                    "Sludge Soaker": 22.03,
-                    "Gelatinous Octahedron": 18.85,
-                    "Lab Technician": 15.67,
-                    "Monster Tail": 5.38,
-                    "Scrap Metal Monster": 5.28,
-                    "Spore": 4.2,
-                    "Bog Beast": 2.13,
-                    "Sludge": 1.14,
-                    "Swamp Runner": 1.1,
-                    "Mutated Siblings": 1.09
-                }
-            }
-        },
-        "Lord/Lady": {
-            "Rancid Radioactive Blue": {
-                "-": {
-                    "Gelatinous Octahedron": 17.54,
-                    "Sludge": 17.31,
-                    "Monster Tail": 13.95,
-                    "Spore": 13.9,
-                    "Plague Hag": 11.15,
-                    "Sludge Soaker": 11,
-                    "Scrap Metal Monster": 6.31,
-                    "Mutated Siblings": 3.74,
-                    "Bog Beast": 2.55,
-                    "Swamp Runner": 2.55
-                },
-                "Super Rotten": {
-                    "Hazmat": 14.89,
-                    "Gelatinous Octahedron": 14.04,
-                    "Sludge": 13.83,
-                    "Spore": 11.26,
-                    "Monster Tail": 11.03,
-                    "Plague Hag": 9.04,
-                    "Sludge Soaker": 8.86,
-                    "Lab Technician": 4.98,
-                    "Scrap Metal Monster": 4.96,
-                    "Mutated Siblings": 3.11,
-                    "Bog Beast": 2.02,
-                    "Swamp Runner": 1.98
-                },
-                "Rotten": {
-                    "Lab Technician": 15.61,
-                    "Sludge": 14.78,
-                    "Gelatinous Octahedron": 14.73,
-                    "Monster Tail": 11.72,
-                    "Spore": 11.67,
-                    "Sludge Soaker": 9.51,
-                    "Plague Hag": 9.48,
-                    "Scrap Metal Monster": 5.1,
-                    "Mutated Siblings": 3.1,
-                    "Bog Beast": 2.16,
-                    "Swamp Runner": 2.15
-                }
-            }
-        },
-        "Knight": {
-            "Rancid Radioactive Blue": {
-                "-": {
-                    "Spore": 32.78,
-                    "Monster Tail": 32.44,
-                    "Sludge": 14.28,
-                    "Gelatinous Octahedron": 5.72,
-                    "Swamp Runner": 5.14,
-                    "Mutated Siblings": 4.97,
-                    "Bog Beast": 4.68
-                },
-                "Super Rotten": {
-                    "Monster Tail": 26.5,
-                    "Spore": 26.33,
-                    "Hazmat": 14.21,
-                    "Sludge": 11.91,
-                    "Gelatinous Octahedron": 4.67,
-                    "Lab Technician": 4.55,
-                    "Swamp Runner": 4.1,
-                    "Mutated Siblings": 3.97,
-                    "Bog Beast": 3.76
-                },
-                "Rotten": {
-                    "Spore": 27.75,
-                    "Monster Tail": 27.67,
-                    "Lab Technician": 15,
-                    "Sludge": 12.11,
-                    "Gelatinous Octahedron": 5.08,
-                    "Mutated Siblings": 4.33,
-                    "Swamp Runner": 4.25,
-                    "Bog Beast": 3.82
-                }
-            }
-        },
-        "Hero": {
-            "Rancid Radioactive Blue": {
-                "-": {
-                    "Swamp Runner": 26.16,
-                    "Mutated Siblings": 24.36,
-                    "Sludge": 23.68,
-                    "Spore": 11.95,
-                    "Monster Tail": 10.41,
-                    "Bog Beast": 3.44
-                },
-                "Super Rotten": {
-                    "Swamp Runner": 20.99,
-                    "Mutated Siblings": 20.51,
-                    "Sludge": 18.95,
-                    "Hazmat": 13.96,
-                    "Spore": 9.26,
-                    "Monster Tail": 8.49,
-                    "Lab Technician": 4.81,
-                    "Bog Beast": 3.03
-                },
-                "Rotten": {
-                    "Swamp Runner": 21.95,
-                    "Mutated Siblings": 20.86,
-                    "Sludge": 20.14,
-                    "Lab Technician": 15.08,
-                    "Spore": 9.87,
-                    "Monster Tail": 8.96,
-                    "Bog Beast": 3.14
-                }
-            }
-        }
-    },
     "Training Grounds": {
         "-": {
             "SB+": {
@@ -7982,1604 +7600,874 @@
         "Acolyte": {
             "Runic String": {
                 "-": {
-                    "Skeletal Champion": 23.9,
-                    "Dread Knight": 23.69,
-                    "Vigilant Ward": 9.21,
-                    "Absolute Acolyte": 8.05,
-                    "Portal Paladin": 7.74,
-                    "Timelost Thaumaturge": 6.38,
-                    "Timeslither Pythoness": 5.47,
-                    "Shackled Servant": 5.36,
-                    "Harbinger of Death": 3.72,
-                    "Carrion Medium": 3.66,
-                    "Timeless Lich": 2.32,
-                    "Chronomaster": 0.49
+                    "Portal Paladin": 32.32,
+                    "Skeletal Champion": 15.81,
+                    "Dread Knight": 15.48,
+                    "Absolute Acolyte": 10.66,
+                    "Vigilant Ward": 6.97,
+                    "Timelost Thaumaturge": 4.83,
+                    "Timeslither Pythoness": 3.95,
+                    "Shackled Servant": 3.63,
+                    "Carrion Medium": 2.39,
+                    "Harbinger of Death": 2.24,
+                    "Timeless Lich": 1.52,
+                    "Chronomaster": 0.21
                 },
                 "Rift Antiskele": {
-                    "Dread Knight": 31.12,
-                    "Vigilant Ward": 12.15,
-                    "Absolute Acolyte": 10.5,
-                    "Portal Paladin": 10.08,
-                    "Timelost Thaumaturge": 8.43,
-                    "Timeslither Pythoness": 7.19,
-                    "Shackled Servant": 7.14,
-                    "Harbinger of Death": 4.89,
-                    "Carrion Medium": 4.84,
-                    "Timeless Lich": 3.02,
-                    "Chronomaster": 0.64
-                }
-            }
-        },
-        "Acolyte (Paladin's Bane)": {
-            "Runic String": {
-                "-": {
-                    "Skeletal Champion": 25.91,
-                    "Dread Knight": 25.68,
-                    "Vigilant Ward": 9.98,
-                    "Absolute Acolyte": 8.72,
-                    "Timelost Thaumaturge": 6.92,
-                    "Timeslither Pythoness": 5.93,
-                    "Shackled Servant": 5.81,
-                    "Harbinger of Death": 4.03,
-                    "Carrion Medium": 3.97,
-                    "Timeless Lich": 2.52,
-                    "Chronomaster": 0.53
-                },
-                "Rift Antiskele": {
-                    "Dread Knight": 34.6,
-                    "Vigilant Ward": 13.51,
-                    "Absolute Acolyte": 11.68,
-                    "Timelost Thaumaturge": 9.38,
-                    "Timeslither Pythoness": 8,
-                    "Shackled Servant": 7.94,
-                    "Harbinger of Death": 5.43,
-                    "Carrion Medium": 5.39,
-                    "Timeless Lich": 3.36,
-                    "Chronomaster": 0.71
+                    "Portal Paladin": 38.16,
+                    "Dread Knight": 20.18,
+                    "Absolute Acolyte": 12.28,
+                    "Vigilant Ward": 8.63,
+                    "Timelost Thaumaturge": 4.68,
+                    "Shackled Servant": 4.24,
+                    "Harbinger of Death": 4.24,
+                    "Timeslither Pythoness": 2.63,
+                    "Carrion Medium": 2.63,
+                    "Timeless Lich": 2.19,
+                    "Chronomaster": 0.15
                 }
             }
         },
         "Ancient Lab": {
             "Runic String": {
                 "-": {
-                    "Epoch Golem": 34.74,
-                    "Chamber Cleaver": 24.55,
-                    "Portal Plunderer": 14.04,
-                    "Dread Knight": 13.13,
-                    "Skeletal Champion": 5.32,
-                    "Portal Paladin": 3.44,
-                    "Clockwork Timespinner": 2.16,
-                    "Record Keeper": 1.1,
-                    "Record Keeper's Assistant": 0.83,
-                    "Sentient Slime": 0.69
-                },
-                "Rift Antiskele": {
-                    "Epoch Golem": 37.1,
-                    "Chamber Cleaver": 25.67,
-                    "Portal Plunderer": 14.91,
-                    "Dread Knight": 13.87,
-                    "Portal Paladin": 3.62,
-                    "Clockwork Timespinner": 2.26,
-                    "Record Keeper": 1.08,
-                    "Record Keeper's Assistant": 0.81,
-                    "Sentient Slime": 0.68
+                    "Epoch Golem": 35.4,
+                    "Chamber Cleaver": 20.34,
+                    "Portal Plunderer": 14.37,
+                    "Dread Knight": 12.18,
+                    "Portal Paladin": 8.74,
+                    "Skeletal Champion": 4.37,
+                    "Clockwork Timespinner": 2.53,
+                    "Sentient Slime": 1.26,
+                    "Record Keeper": 0.46,
+                    "Record Keeper's Assistant": 0.34
                 }
             },
             "Ancient String": {
                 "-": {
-                    "Epoch Golem": 44.05,
-                    "Portal Plunderer": 22.31,
-                    "Dread Knight": 9.4,
-                    "Portal Paladin": 5.89,
-                    "Skeletal Champion": 5.7,
-                    "Record Keeper": 5.14,
-                    "Clockwork Timespinner": 4.14,
-                    "Record Keeper's Assistant": 2.26,
-                    "Sentient Slime": 1.13
-                },
-                "Rift Antiskele": {
-                    "Epoch Golem": 46.76,
-                    "Portal Plunderer": 23.83,
-                    "Dread Knight": 9.82,
-                    "Portal Paladin": 6,
-                    "Record Keeper": 5.58,
-                    "Clockwork Timespinner": 4.49,
-                    "Record Keeper's Assistant": 2.37,
-                    "Sentient Slime": 1.15
+                    "Epoch Golem": 37.5,
+                    "Portal Plunderer": 23.06,
+                    "Dread Knight": 10.56,
+                    "Portal Paladin": 10.34,
+                    "Clockwork Timespinner": 6.25,
+                    "Skeletal Champion": 5.17,
+                    "Record Keeper": 4.74,
+                    "Record Keeper's Assistant": 1.72,
+                    "Sentient Slime": 0.65
                 }
             },
             "Magical String": {
                 "-": {
-                    "Epoch Golem": 40.09,
-                    "Portal Plunderer": 21.21,
-                    "Clockwork Timespinner": 13.25,
-                    "Portal Paladin": 5.58,
-                    "Record Keeper's Assistant": 5.17,
-                    "Sentient Slime": 4.96,
+                    "Epoch Golem": 38,
+                    "Portal Plunderer": 17.97,
+                    "Clockwork Timespinner": 13.74,
+                    "Portal Paladin": 10.14,
+                    "Sentient Slime": 5.65,
+                    "Record Keeper's Assistant": 5.01,
                     "Record Keeper": 4.88,
-                    "Skeletal Champion": 4.86
-                },
-                "Rift Antiskele": {
-                    "Epoch Golem": 42.02,
-                    "Portal Plunderer": 22.37,
-                    "Clockwork Timespinner": 13.97,
-                    "Portal Paladin": 5.98,
-                    "Record Keeper's Assistant": 5.38,
-                    "Sentient Slime": 5.15,
-                    "Record Keeper": 5.13
+                    "Skeletal Champion": 4.62
                 }
             },
             "Brie String": {
                 "-": {
-                    "Clockwork Timespinner": 40.95,
-                    "Portal Plunderer": 37.23,
-                    "Skeletal Champion": 5.37,
-                    "Record Keeper": 5.21,
-                    "Portal Paladin": 4.97,
-                    "Epoch Golem": 4.19,
-                    "Dread Knight": 1.07,
-                    "Sentient Slime": 0.51,
-                    "Record Keeper's Assistant": 0.5
+                    "Clockwork Timespinner": 38.36,
+                    "Portal Plunderer": 35.31,
+                    "Portal Paladin": 10.33,
+                    "Skeletal Champion": 5.53,
+                    "Record Keeper": 4.49,
+                    "Epoch Golem": 3.88,
+                    "Dread Knight": 1.03,
+                    "Sentient Slime": 0.6,
+                    "Record Keeper's Assistant": 0.47
                 },
                 "Rift Antiskele": {
-                    "Clockwork Timespinner": 43.36,
-                    "Portal Plunderer": 39.28,
-                    "Record Keeper": 5.51,
-                    "Portal Paladin": 5.3,
-                    "Epoch Golem": 4.41,
-                    "Dread Knight": 1.09,
-                    "Sentient Slime": 0.53,
-                    "Record Keeper's Assistant": 0.52
+                    "Clockwork Timespinner": 39.42,
+                    "Portal Plunderer": 37.96,
+                    "Portal Paladin": 9.49,
+                    "Epoch Golem": 5.84,
+                    "Record Keeper": 4.38,
+                    "Dread Knight": 2.19,
+                    "Record Keeper's Assistant": 0.73
                 }
             },
             "Swiss String": {
                 "-": {
-                    "Portal Plunderer": 26.37,
-                    "Clockwork Timespinner": 26.14,
-                    "Record Keeper": 16.64,
-                    "Skeletal Champion": 8.99,
-                    "Record Keeper's Assistant": 8.06,
-                    "Portal Paladin": 6.29,
-                    "Sentient Slime": 5.68,
-                    "Dread Knight": 1.82
-                },
-                "Rift Antiskele": {
-                    "Clockwork Timespinner": 28.84,
-                    "Portal Plunderer": 28.45,
-                    "Record Keeper": 18.76,
-                    "Record Keeper's Assistant": 9.07,
-                    "Portal Paladin": 6.67,
-                    "Sentient Slime": 6.24,
-                    "Dread Knight": 1.97
-                }
-            }
-        },
-        "Ancient Lab (Paladin's Bane)": {
-            "Runic String": {
-                "-": {
-                    "Epoch Golem": 35.98,
-                    "Chamber Cleaver": 25.43,
-                    "Portal Plunderer": 14.54,
-                    "Dread Knight": 13.59,
-                    "Skeletal Champion": 5.51,
-                    "Clockwork Timespinner": 2.23,
-                    "Record Keeper": 1.14,
-                    "Record Keeper's Assistant": 0.86,
-                    "Sentient Slime": 0.71
-                },
-                "Rift Antiskele": {
-                    "Epoch Golem": 38.49,
-                    "Chamber Cleaver": 26.63,
-                    "Portal Plunderer": 15.47,
-                    "Dread Knight": 14.39,
-                    "Clockwork Timespinner": 2.34,
-                    "Record Keeper": 1.13,
-                    "Record Keeper's Assistant": 0.84,
-                    "Sentient Slime": 0.7
-                }
-            },
-            "Ancient String": {
-                "-": {
-                    "Epoch Golem": 46.8,
-                    "Portal Plunderer": 23.7,
-                    "Dread Knight": 9.99,
-                    "Skeletal Champion": 6.06,
-                    "Record Keeper": 5.46,
-                    "Clockwork Timespinner": 4.39,
-                    "Record Keeper's Assistant": 2.4,
-                    "Sentient Slime": 1.2
-                },
-                "Rift Antiskele": {
-                    "Epoch Golem": 49.74,
-                    "Portal Plunderer": 25.35,
-                    "Dread Knight": 10.45,
-                    "Record Keeper": 5.94,
-                    "Clockwork Timespinner": 4.77,
-                    "Record Keeper's Assistant": 2.52,
-                    "Sentient Slime": 1.23
-                }
-            },
-            "Magical String": {
-                "-": {
-                    "Epoch Golem": 42.46,
-                    "Portal Plunderer": 22.46,
-                    "Clockwork Timespinner": 14.04,
-                    "Record Keeper's Assistant": 5.47,
-                    "Sentient Slime": 5.25,
-                    "Record Keeper": 5.17,
-                    "Skeletal Champion": 5.14
-                },
-                "Rift Antiskele": {
-                    "Epoch Golem": 44.69,
-                    "Portal Plunderer": 23.79,
-                    "Clockwork Timespinner": 14.86,
-                    "Record Keeper's Assistant": 5.72,
-                    "Sentient Slime": 5.48,
-                    "Record Keeper": 5.45
-                }
-            },
-            "Brie String": {
-                "-": {
-                    "Clockwork Timespinner": 43.09,
-                    "Portal Plunderer": 39.17,
-                    "Skeletal Champion": 5.65,
-                    "Record Keeper": 5.48,
-                    "Epoch Golem": 4.41,
-                    "Dread Knight": 1.13,
-                    "Sentient Slime": 0.53,
-                    "Record Keeper's Assistant": 0.53
-                },
-                "Rift Antiskele": {
-                    "Clockwork Timespinner": 45.79,
-                    "Portal Plunderer": 41.48,
-                    "Record Keeper": 5.82,
-                    "Epoch Golem": 4.66,
-                    "Dread Knight": 1.15,
-                    "Sentient Slime": 0.56,
-                    "Record Keeper's Assistant": 0.55
-                }
-            },
-            "Swiss String": {
-                "-": {
-                    "Portal Plunderer": 28.15,
-                    "Clockwork Timespinner": 27.9,
-                    "Record Keeper": 17.75,
-                    "Skeletal Champion": 9.6,
-                    "Record Keeper's Assistant": 8.6,
-                    "Sentient Slime": 6.07,
-                    "Dread Knight": 1.94
-                },
-                "Rift Antiskele": {
-                    "Clockwork Timespinner": 30.9,
-                    "Portal Plunderer": 30.49,
-                    "Record Keeper": 20.1,
-                    "Record Keeper's Assistant": 9.72,
-                    "Sentient Slime": 6.68,
-                    "Dread Knight": 2.11
+                    "Portal Plunderer": 26.29,
+                    "Clockwork Timespinner": 24,
+                    "Record Keeper": 14.29,
+                    "Skeletal Champion": 13.71,
+                    "Portal Paladin": 7.43,
+                    "Sentient Slime": 7.43,
+                    "Record Keeper's Assistant": 5.71,
+                    "Dread Knight": 1.14
                 }
             }
         },
         "Entrance": {
             "Runic String": {
                 "-": {
-                    "Vigilant Ward": 78.46,
-                    "Portal Paladin": 10.46,
-                    "Portal Plunderer": 3.69,
-                    "Epoch Golem": 3.08,
-                    "Skeletal Champion": 3.08,
-                    "Clockwork Timespinner": 0.62,
-                    "Sentient Slime": 0.62
-                },
-                "Rift Antiskele": {
-                    "Vigilant Ward": 80.95,
-                    "Portal Paladin": 10.64,
-                    "Portal Plunderer": 3.92,
-                    "Epoch Golem": 3.36,
-                    "Sentient Slime": 0.56,
-                    "Clockwork Timespinner": 0.56
+                    "Vigilant Ward": 78.66,
+                    "Portal Paladin": 10.88,
+                    "Skeletal Champion": 4.18,
+                    "Portal Plunderer": 3.35,
+                    "Epoch Golem": 2.93
                 }
             }
         },
         "Frozen Alcove": {
             "Runic String": {
                 "-": {
-                    "Sentient Slime": 54.79,
-                    "Dread Knight": 38.59,
-                    "Portal Paladin": 6.11,
-                    "Harbinger of Death": 0.51
-                },
-                "Rift Antiskele": {
-                    "Sentient Slime": 54.56,
-                    "Dread Knight": 38.79,
-                    "Portal Paladin": 6.15,
-                    "Harbinger of Death": 0.49
+                    "Sentient Slime": 52.21,
+                    "Dread Knight": 35.91,
+                    "Portal Paladin": 11.49,
+                    "Harbinger of Death": 0.4
                 }
             },
             "Ancient String": {
                 "-": {
-                    "Sentient Slime": 54.92,
-                    "Dread Knight": 36.29,
-                    "Portal Paladin": 8.6,
-                    "Harbinger of Death": 0.19
-                },
-                "Rift Antiskele": {
-                    "Sentient Slime": 54.87,
-                    "Dread Knight": 36.39,
-                    "Portal Paladin": 8.55,
-                    "Harbinger of Death": 0.19
+                    "Sentient Slime": 48.76,
+                    "Dread Knight": 37.56,
+                    "Portal Paladin": 13.43,
+                    "Harbinger of Death": 0.25
                 }
             },
             "Magical String": {
                 "-": {
-                    "Sentient Slime": 79.75,
-                    "Dread Knight": 11.75,
-                    "Portal Paladin": 8.5
-                },
-                "Rift Antiskele": {
-                    "Sentient Slime": 79.79,
-                    "Dread Knight": 11.66,
-                    "Portal Paladin": 8.48,
-                    "Harbinger of Death": 0.07
+                    "Sentient Slime": 70.59,
+                    "Portal Paladin": 14.97,
+                    "Dread Knight": 14.44
                 }
             },
             "Brie String": {
                 "-": {
-                    "Sentient Slime": 80.12,
-                    "Dread Knight": 11.04,
-                    "Portal Paladin": 8.85
-                },
-                "Rift Antiskele": {
-                    "Sentient Slime": 79.91,
-                    "Dread Knight": 11.21,
-                    "Portal Paladin": 8.88
-                }
-            }
-        },
-        "Frozen Alcove (Paladin's Bane)": {
-            "Runic String": {
-                "-": {
-                    "Sentient Slime": 58.36,
-                    "Dread Knight": 41.1,
-                    "Harbinger of Death": 0.54
-                },
-                "Rift Antiskele": {
-                    "Sentient Slime": 58.14,
-                    "Dread Knight": 41.33,
-                    "Harbinger of Death": 0.52
-                }
-            },
-            "Ancient String": {
-                "-": {
-                    "Sentient Slime": 60.08,
-                    "Dread Knight": 39.7,
-                    "Harbinger of Death": 0.21
-                },
-                "Rift Antiskele": {
-                    "Sentient Slime": 60,
-                    "Dread Knight": 39.79,
-                    "Harbinger of Death": 0.21
-                }
-            },
-            "Magical String": {
-                "-": {
-                    "Sentient Slime": 87.16,
-                    "Dread Knight": 12.84
-                },
-                "Rift Antiskele": {
-                    "Sentient Slime": 87.19,
-                    "Dread Knight": 12.74,
-                    "Harbinger of Death": 0.08
-                }
-            },
-            "Brie String": {
-                "-": {
-                    "Sentient Slime": 87.89,
-                    "Dread Knight": 12.11
-                },
-                "Rift Antiskele": {
-                    "Sentient Slime": 87.69,
-                    "Dread Knight": 12.31
-                }
-            }
-        },
-        "Furnace Room": {
-            "Brie String": {
-                "-": {
-                    "Skeletal Champion": 91.9,
-                    "Portal Paladin": 2.8,
-                    "Clockwork Timespinner": 1.87,
-                    "Portal Plunderer": 1.87,
-                    "Dread Knight": 1.56
-                },
-                "Rift Antiskele": {
-                    "Portal Paladin": 35.42,
-                    "Clockwork Timespinner": 31.25,
-                    "Portal Plunderer": 16.67,
-                    "Dread Knight": 16.67
-                }
-            }
-        },
-        "Furnace Room (Paladin's Bane)": {
-            "Brie String": {
-                "-": {
-                    "Skeletal Champion": 94.55,
-                    "Portal Plunderer": 1.92,
-                    "Clockwork Timespinner": 1.92,
-                    "Dread Knight": 1.6
-                },
-                "Rift Antiskele": {
-                    "Clockwork Timespinner": 48.39,
-                    "Portal Plunderer": 25.81,
-                    "Dread Knight": 25.81
+                    "Sentient Slime": 73.79,
+                    "Portal Paladin": 13.59,
+                    "Dread Knight": 12.62
                 }
             }
         },
         "Gearworks": {
             "Runic String": {
                 "-": {
-                    "Dread Knight": 37.44,
-                    "Chamber Cleaver": 25.21,
-                    "Portal Plunderer": 11.37,
-                    "Skeletal Champion": 8.71,
-                    "Portal Paladin": 6.18,
-                    "Clockwork Timespinner": 4.15,
-                    "Sentient Slime": 3.29,
-                    "Record Keeper": 2.17,
-                    "Record Keeper's Assistant": 0.9,
-                    "Timelost Thaumaturge": 0.27,
-                    "Vigilant Ward": 0.18,
-                    "Shackled Servant": 0.09,
-                    "Harbinger of Death": 0.05
-                },
-                "Rift Antiskele": {
-                    "Dread Knight": 41.06,
-                    "Chamber Cleaver": 26.65,
-                    "Portal Plunderer": 12.92,
-                    "Portal Paladin": 6.93,
-                    "Clockwork Timespinner": 4.77,
-                    "Sentient Slime": 3.6,
-                    "Record Keeper": 2.34,
-                    "Record Keeper's Assistant": 0.99,
-                    "Vigilant Ward": 0.27,
-                    "Timelost Thaumaturge": 0.27,
-                    "Shackled Servant": 0.09,
-                    "Harbinger of Death": 0.05,
-                    "Timeslither Pythoness": 0.05
-                }
-            },
-            "Ancient String": {
-                "-": {
-                    "Dread Knight": 38.49,
-                    "Portal Plunderer": 13.13,
-                    "Record Keeper's Assistant": 9.17,
-                    "Clockwork Timespinner": 8.99,
-                    "Sentient Slime": 8.81,
-                    "Skeletal Champion": 7.91,
-                    "Record Keeper": 7.55,
-                    "Portal Paladin": 5.94
-                },
-                "Rift Antiskele": {
-                    "Dread Knight": 41.35,
-                    "Portal Plunderer": 13.84,
-                    "Record Keeper's Assistant": 10.21,
-                    "Clockwork Timespinner": 10.03,
-                    "Sentient Slime": 10.03,
-                    "Record Keeper": 8.13,
-                    "Portal Paladin": 6.4
-                }
-            },
-            "Magical String": {
-                "-": {
-                    "Record Keeper's Assistant": 20.61,
-                    "Record Keeper": 17.44,
-                    "Dread Knight": 16.47,
-                    "Sentient Slime": 14.65,
-                    "Skeletal Champion": 9.03,
-                    "Portal Paladin": 8.89,
-                    "Clockwork Timespinner": 4.51,
-                    "Portal Plunderer": 4.27,
-                    "Epoch Golem": 4.13
-                },
-                "Rift Antiskele": {
-                    "Record Keeper's Assistant": 22.54,
-                    "Record Keeper": 19.55,
-                    "Dread Knight": 18.13,
-                    "Sentient Slime": 16.22,
-                    "Portal Paladin": 9.55,
-                    "Clockwork Timespinner": 4.9,
-                    "Portal Plunderer": 4.61,
-                    "Epoch Golem": 4.51
-                }
-            },
-            "Brie String": {
-                "-": {
-                    "Record Keeper's Assistant": 22.75,
-                    "Dread Knight": 16.73,
-                    "Record Keeper": 15.08,
-                    "Sentient Slime": 13.35,
-                    "Skeletal Champion": 11.82,
-                    "Clockwork Timespinner": 7.51,
-                    "Portal Paladin": 7.33,
-                    "Portal Plunderer": 5.43
-                },
-                "Rift Antiskele": {
-                    "Record Keeper's Assistant": 25.96,
-                    "Dread Knight": 18.77,
-                    "Record Keeper": 17.35,
-                    "Sentient Slime": 15.1,
-                    "Clockwork Timespinner": 8.33,
-                    "Portal Paladin": 8.31,
-                    "Portal Plunderer": 6.19
-                }
-            },
-            "Swiss String": {
-                "-": {
-                    "Sentient Slime": 23.72,
-                    "Record Keeper's Assistant": 19.18,
-                    "Record Keeper": 16.19,
-                    "Skeletal Champion": 15.48,
-                    "Portal Paladin": 8.52,
-                    "Dread Knight": 8.24,
-                    "Clockwork Timespinner": 5.4,
-                    "Portal Plunderer": 3.27
-                },
-                "Rift Antiskele": {
-                    "Sentient Slime": 28.73,
-                    "Record Keeper's Assistant": 22.79,
-                    "Record Keeper": 18.62,
-                    "Portal Paladin": 10.27,
-                    "Dread Knight": 9.79,
-                    "Clockwork Timespinner": 6.1,
-                    "Portal Plunderer": 3.69
-                }
-            }
-        },
-        "Gearworks (Paladin's Bane)": {
-            "Runic String": {
-                "-": {
-                    "Dread Knight": 39.9,
-                    "Chamber Cleaver": 26.88,
-                    "Portal Plunderer": 12.12,
-                    "Skeletal Champion": 9.28,
-                    "Clockwork Timespinner": 4.42,
-                    "Sentient Slime": 3.51,
-                    "Record Keeper": 2.31,
+                    "Dread Knight": 40.29,
+                    "Chamber Cleaver": 20.55,
+                    "Portal Plunderer": 11.24,
+                    "Portal Paladin": 8.91,
+                    "Skeletal Champion": 8.19,
+                    "Clockwork Timespinner": 4.09,
+                    "Sentient Slime": 3.61,
+                    "Record Keeper": 1.85,
                     "Record Keeper's Assistant": 0.96,
-                    "Timelost Thaumaturge": 0.29,
-                    "Vigilant Ward": 0.19,
-                    "Shackled Servant": 0.1,
-                    "Harbinger of Death": 0.05
-                },
-                "Rift Antiskele": {
-                    "Dread Knight": 44.12,
-                    "Chamber Cleaver": 28.64,
-                    "Portal Plunderer": 13.88,
-                    "Clockwork Timespinner": 5.13,
-                    "Sentient Slime": 3.87,
-                    "Record Keeper": 2.52,
-                    "Record Keeper's Assistant": 1.06,
-                    "Vigilant Ward": 0.29,
-                    "Timelost Thaumaturge": 0.29,
-                    "Shackled Servant": 0.1,
-                    "Harbinger of Death": 0.05,
-                    "Timeslither Pythoness": 0.05
+                    "Harbinger of Death": 0.16,
+                    "Vigilant Ward": 0.08,
+                    "Absolute Acolyte": 0.08
                 }
             },
             "Ancient String": {
                 "-": {
-                    "Dread Knight": 40.92,
-                    "Portal Plunderer": 13.96,
-                    "Record Keeper's Assistant": 9.75,
-                    "Clockwork Timespinner": 9.56,
-                    "Sentient Slime": 9.37,
-                    "Skeletal Champion": 8.41,
-                    "Record Keeper": 8.03
-                },
-                "Rift Antiskele": {
-                    "Dread Knight": 44.18,
-                    "Portal Plunderer": 14.79,
-                    "Record Keeper's Assistant": 10.91,
-                    "Clockwork Timespinner": 10.72,
-                    "Sentient Slime": 10.72,
-                    "Record Keeper": 8.69
+                    "Dread Knight": 34.03,
+                    "Portal Plunderer": 17.01,
+                    "Clockwork Timespinner": 11.64,
+                    "Skeletal Champion": 9.85,
+                    "Record Keeper's Assistant": 7.46,
+                    "Sentient Slime": 6.87,
+                    "Portal Paladin": 6.87,
+                    "Record Keeper": 6.27
                 }
             },
             "Magical String": {
                 "-": {
-                    "Record Keeper's Assistant": 22.61,
-                    "Record Keeper": 19.14,
-                    "Dread Knight": 18.08,
-                    "Sentient Slime": 16.08,
-                    "Skeletal Champion": 9.91,
-                    "Clockwork Timespinner": 4.96,
-                    "Portal Plunderer": 4.69,
-                    "Epoch Golem": 4.53
-                },
-                "Rift Antiskele": {
-                    "Record Keeper's Assistant": 24.92,
-                    "Record Keeper": 21.61,
-                    "Dread Knight": 20.04,
-                    "Sentient Slime": 17.93,
-                    "Clockwork Timespinner": 5.42,
-                    "Portal Plunderer": 5.09,
-                    "Epoch Golem": 4.98
+                    "Dread Knight": 18.17,
+                    "Record Keeper": 17.33,
+                    "Record Keeper's Assistant": 17,
+                    "Sentient Slime": 12.5,
+                    "Portal Paladin": 12,
+                    "Skeletal Champion": 11,
+                    "Portal Plunderer": 4.5,
+                    "Clockwork Timespinner": 4.17,
+                    "Epoch Golem": 3.33
                 }
             },
             "Brie String": {
                 "-": {
-                    "Record Keeper's Assistant": 24.55,
-                    "Dread Knight": 18.05,
-                    "Record Keeper": 16.28,
-                    "Sentient Slime": 14.41,
-                    "Skeletal Champion": 12.76,
-                    "Clockwork Timespinner": 8.1,
-                    "Portal Plunderer": 5.85
+                    "Record Keeper's Assistant": 20.66,
+                    "Record Keeper": 16.02,
+                    "Dread Knight": 15.87,
+                    "Sentient Slime": 13.42,
+                    "Skeletal Champion": 12.3,
+                    "Portal Paladin": 10.22,
+                    "Clockwork Timespinner": 6.27,
+                    "Portal Plunderer": 5.24
                 },
                 "Rift Antiskele": {
-                    "Record Keeper's Assistant": 28.31,
-                    "Dread Knight": 20.47,
-                    "Record Keeper": 18.92,
-                    "Sentient Slime": 16.46,
-                    "Clockwork Timespinner": 9.09,
-                    "Portal Plunderer": 6.75
-                }
-            },
-            "Swiss String": {
-                "-": {
-                    "Sentient Slime": 25.93,
-                    "Record Keeper's Assistant": 20.96,
-                    "Record Keeper": 17.7,
-                    "Skeletal Champion": 16.93,
-                    "Dread Knight": 9.01,
-                    "Clockwork Timespinner": 5.9,
-                    "Portal Plunderer": 3.57
-                },
-                "Rift Antiskele": {
-                    "Sentient Slime": 32.02,
-                    "Record Keeper's Assistant": 25.4,
-                    "Record Keeper": 20.75,
-                    "Dread Knight": 10.91,
-                    "Clockwork Timespinner": 6.8,
-                    "Portal Plunderer": 4.11
+                    "Record Keeper's Assistant": 30.2,
+                    "Dread Knight": 20.13,
+                    "Record Keeper": 16.11,
+                    "Sentient Slime": 14.09,
+                    "Portal Paladin": 11.41,
+                    "Clockwork Timespinner": 5.37,
+                    "Portal Plunderer": 2.68
                 }
             }
         },
         "Guard Barracks": {
             "Runic String": {
                 "-": {
-                    "Portal Paladin": 65.45,
-                    "Dread Knight": 18.05,
-                    "Epoch Golem": 13.45,
-                    "Clockwork Timespinner": 2.01,
-                    "Sentient Slime": 1.03
+                    "Portal Paladin": 65.52,
+                    "Dread Knight": 19.05,
+                    "Epoch Golem": 12.53,
+                    "Clockwork Timespinner": 1.79,
+                    "Sentient Slime": 1.11
+                },
+                "Rift Antiskele": {
+                    "Portal Paladin": 66.09,
+                    "Dread Knight": 20,
+                    "Epoch Golem": 9.57,
+                    "Clockwork Timespinner": 2.61,
+                    "Sentient Slime": 1.74
                 }
             },
             "Ancient String": {
                 "-": {
-                    "Portal Paladin": 57.16,
-                    "Dread Knight": 15.77,
-                    "Sentient Slime": 11.58,
-                    "Epoch Golem": 9.36,
-                    "Clockwork Timespinner": 6.13
+                    "Portal Paladin": 61.38,
+                    "Dread Knight": 14.47,
+                    "Sentient Slime": 11.82,
+                    "Epoch Golem": 7.42,
+                    "Clockwork Timespinner": 4.91
                 }
             },
             "Magical String": {
                 "-": {
-                    "Portal Paladin": 44.94,
-                    "Sentient Slime": 18.04,
-                    "Clockwork Timespinner": 14.5,
-                    "Epoch Golem": 11.97,
-                    "Dread Knight": 10.55
+                    "Portal Paladin": 43.8,
+                    "Sentient Slime": 17.49,
+                    "Clockwork Timespinner": 15.4,
+                    "Epoch Golem": 13.15,
+                    "Dread Knight": 10.16
                 }
             },
             "Brie String": {
                 "-": {
-                    "Portal Paladin": 41.05,
-                    "Clockwork Timespinner": 26.69,
-                    "Sentient Slime": 23.07,
-                    "Dread Knight": 9.19
+                    "Portal Paladin": 40.89,
+                    "Clockwork Timespinner": 26.15,
+                    "Sentient Slime": 25.03,
+                    "Dread Knight": 7.93
                 }
             }
         },
         "Hidden Treasury": {
             "Runic String": {
                 "-": {
-                    "Timeless Lich": 27.2,
-                    "Timeslither Pythoness": 25.89,
-                    "Portal Plunderer": 11.88,
-                    "Epoch Golem": 9.26,
-                    "Dread Knight": 5.94,
-                    "Shackled Servant": 4.75,
-                    "Carrion Medium": 4.51,
-                    "Skeletal Champion": 4.28,
-                    "Portal Paladin": 4.16,
-                    "Harbinger of Death": 2.14
-                },
-                "Rift Antiskele": {
-                    "Timeless Lich": 27.96,
-                    "Timeslither Pythoness": 26.64,
-                    "Portal Plunderer": 12.28,
-                    "Epoch Golem": 9.98,
-                    "Dread Knight": 6.03,
-                    "Shackled Servant": 5.26,
-                    "Portal Paladin": 4.93,
-                    "Carrion Medium": 4.71,
-                    "Harbinger of Death": 2.19
-                }
-            },
-            "Ancient String": {
-                "-": {
-                    "Timeslither Pythoness": 23.77,
-                    "Epoch Golem": 19.95,
-                    "Timeless Lich": 16.39,
-                    "Portal Plunderer": 13.93,
-                    "Dread Knight": 5.74,
-                    "Carrion Medium": 5.46,
-                    "Portal Paladin": 5.46,
-                    "Shackled Servant": 4.1,
-                    "Skeletal Champion": 3.55,
-                    "Harbinger of Death": 1.64
-                },
-                "Rift Antiskele": {
-                    "Timeslither Pythoness": 26.03,
-                    "Epoch Golem": 20.19,
-                    "Timeless Lich": 18,
-                    "Portal Plunderer": 14.11,
-                    "Dread Knight": 5.84,
-                    "Portal Paladin": 5.11,
-                    "Carrion Medium": 4.87,
-                    "Shackled Servant": 4.14,
-                    "Harbinger of Death": 1.7
-                }
-            },
-            "Magical String": {
-                "-": {
-                    "Epoch Golem": 36.86,
-                    "Timeless Lich": 12.89,
-                    "Timeslither Pythoness": 10.82,
-                    "Portal Plunderer": 10.57,
-                    "Skeletal Champion": 6.44,
-                    "Portal Paladin": 6.19,
-                    "Dread Knight": 5.93,
-                    "Shackled Servant": 4.9,
-                    "Carrion Medium": 3.87,
-                    "Harbinger of Death": 1.55
-                },
-                "Rift Antiskele": {
-                    "Epoch Golem": 38.37,
-                    "Timeless Lich": 13.95,
-                    "Timeslither Pythoness": 11.86,
-                    "Portal Plunderer": 11.4,
-                    "Portal Paladin": 6.74,
-                    "Shackled Servant": 6.05,
-                    "Dread Knight": 5.35,
-                    "Carrion Medium": 4.42,
-                    "Harbinger of Death": 1.86
+                    "Timeslither Pythoness": 24.35,
+                    "Timeless Lich": 18.08,
+                    "Portal Paladin": 11.07,
+                    "Epoch Golem": 10.33,
+                    "Portal Plunderer": 8.12,
+                    "Skeletal Champion": 7.38,
+                    "Shackled Servant": 5.9,
+                    "Dread Knight": 5.17,
+                    "Harbinger of Death": 4.8,
+                    "Carrion Medium": 4.8
                 }
             },
             "Brie String": {
                 "-": {
-                    "Portal Plunderer": 35.78,
-                    "Dread Knight": 11.55,
-                    "Timeslither Pythoness": 10.86,
-                    "Timeless Lich": 10.21,
-                    "Epoch Golem": 8.72,
-                    "Carrion Medium": 6.15,
-                    "Skeletal Champion": 5.03,
-                    "Shackled Servant": 5.03,
-                    "Portal Paladin": 4.55,
-                    "Harbinger of Death": 2.14
-                },
-                "Rift Antiskele": {
-                    "Portal Plunderer": 38.19,
-                    "Dread Knight": 12.26,
-                    "Timeslither Pythoness": 11.27,
-                    "Timeless Lich": 10.76,
-                    "Epoch Golem": 9.07,
-                    "Carrion Medium": 6.58,
-                    "Shackled Servant": 4.98,
-                    "Portal Paladin": 4.6,
-                    "Harbinger of Death": 2.3
-                }
-            }
-        },
-        "Hidden Treasury (Paladin's Bane)": {
-            "Runic String": {
-                "-": {
-                    "Timeless Lich": 28.38,
-                    "Timeslither Pythoness": 27.01,
-                    "Portal Plunderer": 12.39,
-                    "Epoch Golem": 9.67,
-                    "Dread Knight": 6.2,
-                    "Shackled Servant": 4.96,
-                    "Carrion Medium": 4.71,
-                    "Skeletal Champion": 4.46,
-                    "Harbinger of Death": 2.23
-                },
-                "Rift Antiskele": {
-                    "Timeless Lich": 29.41,
-                    "Timeslither Pythoness": 28.03,
-                    "Portal Plunderer": 12.92,
-                    "Epoch Golem": 10.5,
-                    "Dread Knight": 6.34,
-                    "Shackled Servant": 5.54,
-                    "Carrion Medium": 4.96,
-                    "Harbinger of Death": 2.31
-                }
-            },
-            "Ancient String": {
-                "-": {
-                    "Timeslither Pythoness": 25.14,
-                    "Epoch Golem": 21.1,
-                    "Timeless Lich": 17.34,
-                    "Portal Plunderer": 14.74,
-                    "Dread Knight": 6.07,
-                    "Carrion Medium": 5.78,
-                    "Shackled Servant": 4.34,
-                    "Skeletal Champion": 3.76,
-                    "Harbinger of Death": 1.73
-                },
-                "Rift Antiskele": {
-                    "Timeslither Pythoness": 27.44,
-                    "Epoch Golem": 21.28,
-                    "Timeless Lich": 18.97,
-                    "Portal Plunderer": 14.87,
-                    "Dread Knight": 6.15,
-                    "Carrion Medium": 5.13,
-                    "Shackled Servant": 4.36,
-                    "Harbinger of Death": 1.79
-                }
-            },
-            "Magical String": {
-                "-": {
-                    "Epoch Golem": 39.29,
-                    "Timeless Lich": 13.74,
-                    "Timeslither Pythoness": 11.54,
-                    "Portal Plunderer": 11.26,
-                    "Skeletal Champion": 6.87,
-                    "Dread Knight": 6.32,
-                    "Shackled Servant": 5.22,
-                    "Carrion Medium": 4.12,
-                    "Harbinger of Death": 1.65
-                },
-                "Rift Antiskele": {
-                    "Epoch Golem": 41.15,
-                    "Timeless Lich": 14.96,
-                    "Timeslither Pythoness": 12.72,
-                    "Portal Plunderer": 12.22,
-                    "Shackled Servant": 6.48,
-                    "Dread Knight": 5.74,
-                    "Carrion Medium": 4.74,
-                    "Harbinger of Death": 2
-                }
-            },
-            "Brie String": {
-                "-": {
-                    "Portal Plunderer": 37.48,
-                    "Dread Knight": 12.1,
-                    "Timeslither Pythoness": 11.37,
-                    "Timeless Lich": 10.7,
-                    "Epoch Golem": 9.13,
-                    "Carrion Medium": 6.44,
-                    "Shackled Servant": 5.27,
-                    "Skeletal Champion": 5.27,
-                    "Harbinger of Death": 2.24
-                },
-                "Rift Antiskele": {
-                    "Portal Plunderer": 40.03,
-                    "Dread Knight": 12.85,
-                    "Timeslither Pythoness": 11.82,
-                    "Timeless Lich": 11.28,
-                    "Epoch Golem": 9.5,
-                    "Carrion Medium": 6.89,
-                    "Shackled Servant": 5.22,
-                    "Harbinger of Death": 2.41
+                    "Portal Plunderer": 35.81,
+                    "Dread Knight": 11.51,
+                    "Timeslither Pythoness": 10.23,
+                    "Timeless Lich": 8.7,
+                    "Epoch Golem": 8.18,
+                    "Portal Paladin": 7.67,
+                    "Shackled Servant": 6.91,
+                    "Carrion Medium": 4.35,
+                    "Harbinger of Death": 3.58,
+                    "Skeletal Champion": 3.07
                 }
             }
         },
         "Ingress": {
             "Runic String": {
                 "-": {
-                    "Clockwork Timespinner": 20.3,
-                    "Sentient Slime": 19.93,
-                    "Portal Pursuer": 18.92,
-                    "Dread Knight": 18.87,
-                    "Vigilant Ward": 11.7,
-                    "Shackled Servant": 9.25,
-                    "Harbinger of Death": 1.02
+                    "Sentient Slime": 22.17,
+                    "Dread Knight": 20.03,
+                    "Clockwork Timespinner": 19.4,
+                    "Portal Pursuer": 16.37,
+                    "Vigilant Ward": 11.08,
+                    "Shackled Servant": 10.08,
+                    "Harbinger of Death": 0.88
                 }
             },
             "Ancient String": {
                 "-": {
-                    "Portal Pursuer": 23.78,
-                    "Clockwork Timespinner": 20.19,
-                    "Sentient Slime": 16.82,
-                    "Dread Knight": 14.73,
-                    "Shackled Servant": 12.18,
-                    "Vigilant Ward": 11.14,
-                    "Harbinger of Death": 1.16
+                    "Portal Pursuer": 21.09,
+                    "Clockwork Timespinner": 18.85,
+                    "Sentient Slime": 17.89,
+                    "Dread Knight": 15.02,
+                    "Vigilant Ward": 14.7,
+                    "Shackled Servant": 11.82,
+                    "Harbinger of Death": 0.64
                 }
             },
             "Magical String": {
                 "-": {
-                    "Portal Pursuer": 38.66,
-                    "Sentient Slime": 19.44,
-                    "Clockwork Timespinner": 18.98,
-                    "Shackled Servant": 9.49,
-                    "Vigilant Ward": 8.8,
-                    "Dread Knight": 3.24,
-                    "Harbinger of Death": 1.39
+                    "Portal Pursuer": 42.65,
+                    "Sentient Slime": 22.55,
+                    "Clockwork Timespinner": 16.67,
+                    "Vigilant Ward": 7.84,
+                    "Shackled Servant": 5.88,
+                    "Dread Knight": 3.92,
+                    "Harbinger of Death": 0.49
                 }
             },
             "Brie String": {
                 "-": {
-                    "Portal Pursuer": 33.46,
-                    "Sentient Slime": 26.39,
-                    "Clockwork Timespinner": 20.83,
-                    "Vigilant Ward": 8.86,
-                    "Shackled Servant": 6.22,
-                    "Dread Knight": 2.83,
-                    "Harbinger of Death": 1.41
-                }
-            }
-        },
-        "Ingress (Paladin's Bane)": {
-            "Runic String": {
-                "-": {
-                    "Clockwork Timespinner": 20.3,
-                    "Sentient Slime": 19.93,
-                    "Portal Pursuer": 18.92,
-                    "Dread Knight": 18.87,
-                    "Vigilant Ward": 11.7,
-                    "Shackled Servant": 9.25,
-                    "Harbinger of Death": 1.02
-                }
-            },
-            "Ancient String": {
-                "-": {
-                    "Portal Pursuer": 23.78,
-                    "Clockwork Timespinner": 20.19,
-                    "Sentient Slime": 16.82,
-                    "Dread Knight": 14.73,
-                    "Shackled Servant": 12.18,
-                    "Vigilant Ward": 11.14,
-                    "Harbinger of Death": 1.16
-                }
-            },
-            "Magical String": {
-                "-": {
-                    "Portal Pursuer": 38.66,
-                    "Sentient Slime": 19.44,
-                    "Clockwork Timespinner": 18.98,
-                    "Shackled Servant": 9.49,
-                    "Vigilant Ward": 8.8,
-                    "Dread Knight": 3.24,
-                    "Harbinger of Death": 1.39
-                }
-            },
-            "Brie String": {
-                "-": {
-                    "Portal Pursuer": 33.46,
-                    "Sentient Slime": 26.39,
-                    "Clockwork Timespinner": 20.83,
-                    "Vigilant Ward": 8.86,
-                    "Shackled Servant": 6.22,
-                    "Dread Knight": 2.83,
-                    "Harbinger of Death": 1.41
+                    "Portal Pursuer": 34.87,
+                    "Sentient Slime": 24.37,
+                    "Clockwork Timespinner": 19.33,
+                    "Vigilant Ward": 8.82,
+                    "Shackled Servant": 7.56,
+                    "Dread Knight": 3.78,
+                    "Harbinger of Death": 1.26
                 }
             }
         },
         "Lucky Tower": {
             "Runic String": {
                 "-": {
-                    "Epoch Golem": 23.31,
-                    "Portal Plunderer": 15.6,
-                    "Clockwork Timespinner": 13.32,
-                    "Dread Knight": 11.8,
-                    "Record Keeper": 10.37,
-                    "Record Keeper's Assistant": 9.8,
-                    "Skeletal Champion": 5.52,
-                    "Portal Paladin": 5.42,
-                    "Sentient Slime": 2.85,
-                    "Harbinger of Death": 2
-                },
-                "Rift Antiskele": {
-                    "Epoch Golem": 24.2,
-                    "Portal Plunderer": 17.03,
-                    "Clockwork Timespinner": 13.58,
-                    "Dread Knight": 12.98,
-                    "Record Keeper's Assistant": 10.88,
-                    "Record Keeper": 10.71,
-                    "Portal Paladin": 5.56,
-                    "Sentient Slime": 3.12,
-                    "Harbinger of Death": 1.94
+                    "Epoch Golem": 24.59,
+                    "Portal Plunderer": 15.95,
+                    "Portal Paladin": 11.08,
+                    "Dread Knight": 10.54,
+                    "Clockwork Timespinner": 9.73,
+                    "Record Keeper's Assistant": 9.46,
+                    "Record Keeper": 8.92,
+                    "Skeletal Champion": 6.76,
+                    "Harbinger of Death": 1.62,
+                    "Sentient Slime": 1.35
                 }
             },
             "Ancient String": {
                 "-": {
-                    "Epoch Golem": 22.5,
-                    "Portal Plunderer": 16.35,
-                    "Clockwork Timespinner": 14.62,
-                    "Record Keeper": 10.77,
-                    "Dread Knight": 10.38,
-                    "Record Keeper's Assistant": 9.62,
-                    "Portal Paladin": 7.12,
-                    "Skeletal Champion": 4.62,
-                    "Sentient Slime": 2.69,
-                    "Harbinger of Death": 1.35
-                },
-                "Rift Antiskele": {
-                    "Epoch Golem": 23.01,
-                    "Portal Plunderer": 17.3,
-                    "Clockwork Timespinner": 15.4,
-                    "Record Keeper": 11.42,
-                    "Dread Knight": 11.07,
-                    "Record Keeper's Assistant": 10.55,
-                    "Portal Paladin": 6.4,
-                    "Sentient Slime": 2.94,
-                    "Harbinger of Death": 1.9
+                    "Epoch Golem": 18.58,
+                    "Clockwork Timespinner": 15.93,
+                    "Portal Plunderer": 15.04,
+                    "Portal Paladin": 11.5,
+                    "Dread Knight": 10.62,
+                    "Record Keeper": 10.62,
+                    "Record Keeper's Assistant": 7.08,
+                    "Skeletal Champion": 6.19,
+                    "Sentient Slime": 2.65,
+                    "Harbinger of Death": 1.77
                 }
             },
             "Magical String": {
                 "-": {
-                    "Epoch Golem": 22.84,
-                    "Clockwork Timespinner": 17.43,
-                    "Portal Plunderer": 13.03,
-                    "Record Keeper's Assistant": 10.49,
-                    "Record Keeper": 10.49,
-                    "Dread Knight": 9.98,
-                    "Skeletal Champion": 5.08,
-                    "Portal Paladin": 4.23,
-                    "Sentient Slime": 4.06,
-                    "Harbinger of Death": 2.37
-                },
-                "Rift Antiskele": {
-                    "Epoch Golem": 24.28,
-                    "Clockwork Timespinner": 17.96,
-                    "Portal Plunderer": 14.8,
-                    "Record Keeper": 11.64,
-                    "Dread Knight": 10.63,
-                    "Record Keeper's Assistant": 9.77,
-                    "Sentient Slime": 4.31,
-                    "Portal Paladin": 4.17,
-                    "Harbinger of Death": 2.44
+                    "Epoch Golem": 19.8,
+                    "Clockwork Timespinner": 18.81,
+                    "Portal Plunderer": 14.85,
+                    "Record Keeper's Assistant": 12.87,
+                    "Dread Knight": 10.89,
+                    "Record Keeper": 7.92,
+                    "Portal Paladin": 5.94,
+                    "Skeletal Champion": 4.95,
+                    "Sentient Slime": 2.97,
+                    "Harbinger of Death": 0.99
                 }
             },
             "Brie String": {
                 "-": {
-                    "Clockwork Timespinner": 20.4,
-                    "Portal Plunderer": 20.24,
-                    "Record Keeper": 11.02,
-                    "Record Keeper's Assistant": 10.98,
-                    "Dread Knight": 10.41,
-                    "Sentient Slime": 10.33,
-                    "Epoch Golem": 5.6,
-                    "Skeletal Champion": 5.18,
-                    "Portal Paladin": 4.31,
-                    "Harbinger of Death": 1.52
-                },
-                "Rift Antiskele": {
-                    "Clockwork Timespinner": 21.49,
-                    "Portal Plunderer": 21.18,
-                    "Record Keeper": 11.81,
-                    "Record Keeper's Assistant": 11.37,
-                    "Dread Knight": 11.24,
-                    "Sentient Slime": 10.76,
-                    "Epoch Golem": 5.87,
-                    "Portal Paladin": 4.58,
-                    "Harbinger of Death": 1.7
-                }
-            }
-        },
-        "Lucky Tower (Paladin's Bane)": {
-            "Runic String": {
-                "-": {
-                    "Epoch Golem": 24.65,
-                    "Portal Plunderer": 16.5,
-                    "Clockwork Timespinner": 14.08,
-                    "Dread Knight": 12.47,
-                    "Record Keeper": 10.97,
-                    "Record Keeper's Assistant": 10.36,
-                    "Skeletal Champion": 5.84,
-                    "Sentient Slime": 3.02,
-                    "Harbinger of Death": 2.11
-                },
-                "Rift Antiskele": {
-                    "Epoch Golem": 25.62,
-                    "Portal Plunderer": 18.04,
-                    "Clockwork Timespinner": 14.37,
-                    "Dread Knight": 13.75,
-                    "Record Keeper's Assistant": 11.52,
-                    "Record Keeper": 11.34,
-                    "Sentient Slime": 3.3,
-                    "Harbinger of Death": 2.05
-                }
-            },
-            "Ancient String": {
-                "-": {
-                    "Epoch Golem": 24.22,
-                    "Portal Plunderer": 17.6,
-                    "Clockwork Timespinner": 15.73,
-                    "Record Keeper": 11.59,
-                    "Dread Knight": 11.18,
-                    "Record Keeper's Assistant": 10.35,
-                    "Skeletal Champion": 4.97,
-                    "Sentient Slime": 2.9,
-                    "Harbinger of Death": 1.45
-                },
-                "Rift Antiskele": {
-                    "Epoch Golem": 24.58,
-                    "Portal Plunderer": 18.48,
-                    "Clockwork Timespinner": 16.45,
-                    "Record Keeper": 12.2,
-                    "Dread Knight": 11.83,
-                    "Record Keeper's Assistant": 11.28,
-                    "Sentient Slime": 3.14,
-                    "Harbinger of Death": 2.03
-                }
-            },
-            "Magical String": {
-                "-": {
-                    "Epoch Golem": 23.85,
-                    "Clockwork Timespinner": 18.2,
-                    "Portal Plunderer": 13.6,
-                    "Record Keeper": 10.95,
-                    "Record Keeper's Assistant": 10.95,
-                    "Dread Knight": 10.42,
-                    "Skeletal Champion": 5.3,
-                    "Sentient Slime": 4.24,
-                    "Harbinger of Death": 2.47
-                },
-                "Rift Antiskele": {
-                    "Epoch Golem": 25.34,
-                    "Clockwork Timespinner": 18.74,
-                    "Portal Plunderer": 15.44,
-                    "Record Keeper": 12.14,
-                    "Dread Knight": 11.09,
-                    "Record Keeper's Assistant": 10.19,
-                    "Sentient Slime": 4.5,
-                    "Harbinger of Death": 2.55
-                }
-            },
-            "Brie String": {
-                "-": {
-                    "Clockwork Timespinner": 21.31,
-                    "Portal Plunderer": 21.16,
-                    "Record Keeper": 11.51,
-                    "Record Keeper's Assistant": 11.47,
-                    "Dread Knight": 10.88,
-                    "Sentient Slime": 10.8,
-                    "Epoch Golem": 5.86,
-                    "Skeletal Champion": 5.42,
-                    "Harbinger of Death": 1.59
-                },
-                "Rift Antiskele": {
-                    "Clockwork Timespinner": 22.52,
-                    "Portal Plunderer": 22.2,
-                    "Record Keeper": 12.38,
-                    "Record Keeper's Assistant": 11.92,
-                    "Dread Knight": 11.78,
-                    "Sentient Slime": 11.28,
-                    "Epoch Golem": 6.15,
-                    "Harbinger of Death": 1.78
-                }
-            }
-        },
-        "Pursuer Mousoleum": {
-            "Brie String": {
-                "-": {
-                    "Skeletal Champion": 82.96,
-                    "Portal Pursuer": 11.85,
-                    "Record Keeper's Assistant": 5.19
-                },
-                "Rift Antiskele": {
-                    "Portal Pursuer": 69.01,
-                    "Record Keeper's Assistant": 28.87,
-                    "Record Keeper": 2.11
-                }
-            }
-        },
-        "Pursuer Mousoleum (Paladin's Bane)": {
-            "Brie String": {
-                "-": {
-                    "Skeletal Champion": 82.96,
-                    "Portal Pursuer": 11.85,
-                    "Record Keeper's Assistant": 5.19
-                },
-                "Rift Antiskele": {
-                    "Portal Pursuer": 69.01,
-                    "Record Keeper's Assistant": 28.87,
-                    "Record Keeper": 2.11
+                    "Portal Plunderer": 20.82,
+                    "Clockwork Timespinner": 19.72,
+                    "Portal Paladin": 12.62,
+                    "Dread Knight": 10.09,
+                    "Sentient Slime": 9.78,
+                    "Record Keeper": 8.36,
+                    "Record Keeper's Assistant": 7.73,
+                    "Epoch Golem": 5.21,
+                    "Skeletal Champion": 5.05,
+                    "Harbinger of Death": 0.63
                 }
             }
         },
         "Runic Laboratory": {
             "Runic String": {
                 "-": {
-                    "Timelost Thaumaturge": 29.54,
-                    "Shackled Servant": 15.86,
-                    "Chamber Cleaver": 15.73,
-                    "Timeslither Pythoness": 11.45,
-                    "Dread Knight": 10.24,
-                    "Vigilant Ward": 6.72,
-                    "Skeletal Champion": 4.34,
-                    "Portal Paladin": 3.95,
-                    "Harbinger of Death": 1.84,
-                    "Sentient Slime": 0.32
-                },
-                "Rift Antiskele": {
-                    "Timelost Thaumaturge": 30.53,
-                    "Chamber Cleaver": 16.63,
-                    "Shackled Servant": 16.4,
-                    "Timeslither Pythoness": 12.03,
-                    "Dread Knight": 10.93,
-                    "Vigilant Ward": 6.97,
-                    "Portal Paladin": 4.22,
-                    "Harbinger of Death": 1.91,
-                    "Sentient Slime": 0.38
+                    "Timelost Thaumaturge": 26.5,
+                    "Chamber Cleaver": 16.69,
+                    "Shackled Servant": 14.27,
+                    "Timeslither Pythoness": 12.61,
+                    "Dread Knight": 10.45,
+                    "Portal Paladin": 7.9,
+                    "Vigilant Ward": 5.73,
+                    "Skeletal Champion": 3.57,
+                    "Harbinger of Death": 1.78,
+                    "Sentient Slime": 0.51
                 }
             },
             "Ancient String": {
                 "-": {
-                    "Timelost Thaumaturge": 26.07,
-                    "Vigilant Ward": 20.93,
-                    "Shackled Servant": 20.11,
-                    "Timeslither Pythoness": 10.57,
-                    "Sentient Slime": 9.5,
-                    "Portal Paladin": 5.47,
-                    "Skeletal Champion": 5.2,
-                    "Harbinger of Death": 2.15
+                    "Timelost Thaumaturge": 25.12,
+                    "Vigilant Ward": 20.05,
+                    "Shackled Servant": 19.84,
+                    "Timeslither Pythoness": 9.7,
+                    "Portal Paladin": 9.49,
+                    "Sentient Slime": 8.76,
+                    "Skeletal Champion": 5.24,
+                    "Harbinger of Death": 1.8
                 },
                 "Rift Antiskele": {
-                    "Timelost Thaumaturge": 27.51,
-                    "Vigilant Ward": 22.11,
-                    "Shackled Servant": 21.12,
-                    "Timeslither Pythoness": 11.09,
-                    "Sentient Slime": 10.14,
-                    "Portal Paladin": 5.69,
+                    "Shackled Servant": 26.61,
+                    "Timelost Thaumaturge": 17.43,
+                    "Vigilant Ward": 17.43,
+                    "Timeslither Pythoness": 14.68,
+                    "Sentient Slime": 11.93,
+                    "Portal Paladin": 9.17,
+                    "Harbinger of Death": 2.75
+                }
+            },
+            "Brie String": {
+                "-": {
+                    "Sentient Slime": 35.88,
+                    "Dread Knight": 25.13,
+                    "Vigilant Ward": 13.86,
+                    "Portal Paladin": 9.2,
+                    "Shackled Servant": 8.81,
+                    "Skeletal Champion": 4.79,
                     "Harbinger of Death": 2.33
-                }
-            },
-            "Magical String": {
-                "-": {
-                    "Sentient Slime": 40.97,
-                    "Dread Knight": 19.34,
-                    "Shackled Servant": 16.03,
-                    "Vigilant Ward": 8.14,
-                    "Skeletal Champion": 6.36,
-                    "Portal Paladin": 4.07,
-                    "Harbinger of Death": 3.56,
-                    "Timelost Thaumaturge": 1.53
-                },
-                "Rift Antiskele": {
-                    "Sentient Slime": 41.51,
-                    "Dread Knight": 22.58,
-                    "Shackled Servant": 17.2,
-                    "Vigilant Ward": 9.68,
-                    "Portal Paladin": 4.52,
-                    "Harbinger of Death": 3.23,
-                    "Timelost Thaumaturge": 1.29
-                }
-            },
-            "Brie String": {
-                "-": {
-                    "Sentient Slime": 38.88,
-                    "Dread Knight": 25.25,
-                    "Vigilant Ward": 14.89,
-                    "Shackled Servant": 8.79,
-                    "Portal Paladin": 5.16,
-                    "Skeletal Champion": 4.98,
-                    "Harbinger of Death": 2.06
-                },
-                "Rift Antiskele": {
-                    "Sentient Slime": 40.95,
-                    "Dread Knight": 25.9,
-                    "Vigilant Ward": 15.26,
-                    "Shackled Servant": 9.48,
-                    "Portal Paladin": 6.1,
-                    "Harbinger of Death": 2.31
-                }
-            },
-            "Swiss String": {
-                "-": {
-                    "Sentient Slime": 42.94,
-                    "Dread Knight": 24.12,
-                    "Vigilant Ward": 18.24,
-                    "Skeletal Champion": 5.29,
-                    "Shackled Servant": 4.12,
-                    "Harbinger of Death": 3.53,
-                    "Portal Paladin": 1.76
-                },
-                "Rift Antiskele": {
-                    "Sentient Slime": 46.01,
-                    "Dread Knight": 25.15,
-                    "Vigilant Ward": 19.02,
-                    "Shackled Servant": 4.29,
-                    "Harbinger of Death": 3.68,
-                    "Portal Paladin": 1.84
-                }
-            }
-        },
-        "Runic Laboratory (Paladin's Bane)": {
-            "Runic String": {
-                "-": {
-                    "Timelost Thaumaturge": 30.75,
-                    "Shackled Servant": 16.51,
-                    "Chamber Cleaver": 16.38,
-                    "Timeslither Pythoness": 11.92,
-                    "Dread Knight": 10.66,
-                    "Vigilant Ward": 7,
-                    "Skeletal Champion": 4.52,
-                    "Harbinger of Death": 1.91,
-                    "Sentient Slime": 0.34
-                },
-                "Rift Antiskele": {
-                    "Timelost Thaumaturge": 31.87,
-                    "Chamber Cleaver": 17.36,
-                    "Shackled Servant": 17.12,
-                    "Timeslither Pythoness": 12.56,
-                    "Dread Knight": 11.41,
-                    "Vigilant Ward": 7.28,
-                    "Harbinger of Death": 1.99,
-                    "Sentient Slime": 0.4
-                }
-            },
-            "Ancient String": {
-                "-": {
-                    "Timelost Thaumaturge": 27.58,
-                    "Vigilant Ward": 22.14,
-                    "Shackled Servant": 21.28,
-                    "Timeslither Pythoness": 11.18,
-                    "Sentient Slime": 10.05,
-                    "Skeletal Champion": 5.5,
-                    "Harbinger of Death": 2.27
-                },
-                "Rift Antiskele": {
-                    "Timelost Thaumaturge": 29.17,
-                    "Vigilant Ward": 23.44,
-                    "Shackled Servant": 22.39,
-                    "Timeslither Pythoness": 11.76,
-                    "Sentient Slime": 10.75,
-                    "Harbinger of Death": 2.48
-                }
-            },
-            "Magical String": {
-                "-": {
-                    "Sentient Slime": 42.71,
-                    "Dread Knight": 20.16,
-                    "Shackled Servant": 16.71,
-                    "Vigilant Ward": 8.49,
-                    "Skeletal Champion": 6.63,
-                    "Harbinger of Death": 3.71,
-                    "Timelost Thaumaturge": 1.59
-                },
-                "Rift Antiskele": {
-                    "Sentient Slime": 43.47,
-                    "Dread Knight": 23.65,
-                    "Shackled Servant": 18.02,
-                    "Vigilant Ward": 10.14,
-                    "Harbinger of Death": 3.38,
-                    "Timelost Thaumaturge": 1.35
-                }
-            },
-            "Brie String": {
-                "-": {
-                    "Sentient Slime": 40.99,
-                    "Dread Knight": 26.62,
-                    "Vigilant Ward": 15.7,
-                    "Shackled Servant": 9.27,
-                    "Skeletal Champion": 5.25,
-                    "Harbinger of Death": 2.17
-                },
-                "Rift Antiskele": {
-                    "Sentient Slime": 43.61,
-                    "Dread Knight": 27.58,
-                    "Vigilant Ward": 16.25,
-                    "Shackled Servant": 10.1,
-                    "Harbinger of Death": 2.46
-                }
-            },
-            "Swiss String": {
-                "-": {
-                    "Sentient Slime": 43.71,
-                    "Dread Knight": 24.55,
-                    "Vigilant Ward": 18.56,
-                    "Skeletal Champion": 5.39,
-                    "Shackled Servant": 4.19,
-                    "Harbinger of Death": 3.59
-                },
-                "Rift Antiskele": {
-                    "Sentient Slime": 46.88,
-                    "Dread Knight": 25.62,
-                    "Vigilant Ward": 19.38,
-                    "Shackled Servant": 4.38,
-                    "Harbinger of Death": 3.75
-                }
-            }
-        },
-        "Security (Paladin's Bane)": {
-            "Runic String": {
-                "-": {
-                    "Skeletal Champion": 91.7,
-                    "Timelost Thaumaturge": 7.11,
-                    "Shackled Servant": 0.79,
-                    "Vigilant Ward": 0.4
-                },
-                "Rift Antiskele": {
-                    "Timelost Thaumaturge": 77.42,
-                    "Shackled Servant": 19.35,
-                    "Vigilant Ward": 3.23
-                }
-            },
-            "Ancient String": {
-                "-": {
-                    "Skeletal Champion": 91.06,
-                    "Timelost Thaumaturge": 6.15,
-                    "Shackled Servant": 1.68,
-                    "Vigilant Ward": 1.12
-                },
-                "Rift Antiskele": {
-                    "Timelost Thaumaturge": 62.07,
-                    "Shackled Servant": 24.14,
-                    "Vigilant Ward": 13.79
-                }
-            },
-            "Magical String": {
-                "-": {
-                    "Skeletal Champion": 91.67,
-                    "Timelost Thaumaturge": 5.83,
-                    "Vigilant Ward": 1.67,
-                    "Shackled Servant": 0.83
-                },
-                "Rift Antiskele": {
-                    "Timelost Thaumaturge": 76.47,
-                    "Vigilant Ward": 17.65,
-                    "Shackled Servant": 5.88
-                }
-            },
-            "Brie String": {
-                "-": {
-                    "Skeletal Champion": 90.58,
-                    "Vigilant Ward": 4.21,
-                    "Timelost Thaumaturge": 3.33,
-                    "Shackled Servant": 1.88
-                },
-                "Rift Antiskele": {
-                    "Timelost Thaumaturge": 41.33,
-                    "Vigilant Ward": 37.76,
-                    "Shackled Servant": 20.92
                 }
             }
         },
         "Timewarp": {
             "Runic String": {
                 "-": {
-                    "Carrion Medium": 33.83,
-                    "Chronomaster": 26.26,
-                    "Timeless Lich": 19.17,
-                    "Sentient Slime": 10.24,
-                    "Skeletal Champion": 5.36,
-                    "Portal Paladin": 5.15
+                    "Carrion Medium": 31.34,
+                    "Chronomaster": 26.06,
+                    "Timeless Lich": 17.9,
+                    "Sentient Slime": 10.28,
+                    "Portal Paladin": 9.8,
+                    "Skeletal Champion": 4.62
                 },
                 "Rift Antiskele": {
-                    "Carrion Medium": 35.77,
-                    "Chronomaster": 27.71,
-                    "Timeless Lich": 20.18,
-                    "Sentient Slime": 10.92,
-                    "Portal Paladin": 5.42
+                    "Carrion Medium": 31.11,
+                    "Chronomaster": 27.02,
+                    "Timeless Lich": 19,
+                    "Portal Paladin": 12.06,
+                    "Sentient Slime": 10.81
                 }
             },
             "Ancient String": {
                 "-": {
-                    "Dread Knight": 30.48,
-                    "Sentient Slime": 26.28,
-                    "Carrion Medium": 16.58,
-                    "Timeless Lich": 15.82,
-                    "Skeletal Champion": 5.87,
-                    "Portal Paladin": 4.97
-                },
-                "Rift Antiskele": {
-                    "Dread Knight": 32.08,
-                    "Sentient Slime": 27.48,
-                    "Timeless Lich": 17.45,
-                    "Carrion Medium": 17.33,
-                    "Portal Paladin": 5.66
-                }
-            },
-            "Magical String": {
-                "-": {
-                    "Sentient Slime": 40.41,
-                    "Dread Knight": 33.72,
-                    "Carrion Medium": 11.05,
-                    "Skeletal Champion": 6.4,
-                    "Portal Paladin": 4.94,
-                    "Timeless Lich": 3.49
-                },
-                "Rift Antiskele": {
-                    "Sentient Slime": 42.49,
-                    "Dread Knight": 36.42,
-                    "Carrion Medium": 12.14,
-                    "Portal Paladin": 5.2,
-                    "Timeless Lich": 3.76
+                    "Dread Knight": 35.29,
+                    "Sentient Slime": 19.85,
+                    "Carrion Medium": 17.65,
+                    "Timeless Lich": 11.03,
+                    "Portal Paladin": 10.29,
+                    "Skeletal Champion": 5.88
                 }
             },
             "Brie String": {
                 "-": {
-                    "Dread Knight": 41.16,
-                    "Sentient Slime": 38.21,
-                    "Carrion Medium": 8.03,
-                    "Skeletal Champion": 6.18,
-                    "Portal Paladin": 4.22,
-                    "Timeless Lich": 2.2
+                    "Sentient Slime": 38.6,
+                    "Dread Knight": 36.84,
+                    "Portal Paladin": 9.21,
+                    "Skeletal Champion": 7.02,
+                    "Carrion Medium": 6.58,
+                    "Timeless Lich": 1.75
+                }
+            }
+        },
+        "Acolyte (Paladin's Bane)": {
+            "Runic String": {
+                "-": {
+                    "Skeletal Champion": 27.35,
+                    "Dread Knight": 26.2,
+                    "Vigilant Ward": 10.67,
+                    "Timelost Thaumaturge": 7.44,
+                    "Timeslither Pythoness": 6.41,
+                    "Shackled Servant": 6.2,
+                    "Absolute Acolyte": 5.4,
+                    "Harbinger of Death": 4.26,
+                    "Carrion Medium": 3.62,
+                    "Timeless Lich": 2,
+                    "Chronomaster": 0.45
                 },
                 "Rift Antiskele": {
-                    "Dread Knight": 43.41,
-                    "Sentient Slime": 41.13,
-                    "Carrion Medium": 8.45,
-                    "Portal Paladin": 4.67,
-                    "Timeless Lich": 2.33
+                    "Dread Knight": 36.59,
+                    "Vigilant Ward": 13.79,
+                    "Timelost Thaumaturge": 10.46,
+                    "Shackled Servant": 9.35,
+                    "Timeslither Pythoness": 7.54,
+                    "Absolute Acolyte": 7.31,
+                    "Carrion Medium": 6.14,
+                    "Harbinger of Death": 5.73,
+                    "Timeless Lich": 2.81,
+                    "Chronomaster": 0.29
+                }
+            }
+        },
+        "Ancient Lab (Paladin's Bane)": {
+            "Runic String": {
+                "-": {
+                    "Epoch Golem": 41.36,
+                    "Portal Plunderer": 18.6,
+                    "Chamber Cleaver": 16.45,
+                    "Dread Knight": 14.29,
+                    "Clockwork Timespinner": 3.49,
+                    "Skeletal Champion": 3.49,
+                    "Sentient Slime": 1.33,
+                    "Record Keeper's Assistant": 0.5,
+                    "Record Keeper": 0.5
+                }
+            },
+            "Ancient String": {
+                "-": {
+                    "Epoch Golem": 42.99,
+                    "Portal Plunderer": 22.87,
+                    "Dread Knight": 10.37,
+                    "Record Keeper": 7.93,
+                    "Clockwork Timespinner": 7.62,
+                    "Skeletal Champion": 6.1,
+                    "Sentient Slime": 1.22,
+                    "Record Keeper's Assistant": 0.91
+                }
+            },
+            "Magical String": {
+                "-": {
+                    "Epoch Golem": 39.44,
+                    "Portal Plunderer": 21.68,
+                    "Clockwork Timespinner": 13.83,
+                    "Sentient Slime": 6.92,
+                    "Record Keeper's Assistant": 6.92,
+                    "Skeletal Champion": 6.36,
+                    "Record Keeper": 4.86
+                }
+            },
+            "Brie String": {
+                "-": {
+                    "Clockwork Timespinner": 42.25,
+                    "Portal Plunderer": 40,
+                    "Record Keeper": 5.67,
+                    "Skeletal Champion": 5.61,
+                    "Epoch Golem": 4.16,
+                    "Dread Knight": 1.18,
+                    "Record Keeper's Assistant": 0.57,
+                    "Sentient Slime": 0.56
+                },
+                "Rift Antiskele": {
+                    "Clockwork Timespinner": 42.48,
+                    "Portal Plunderer": 42.04,
+                    "Record Keeper": 7.52,
+                    "Epoch Golem": 3.54,
+                    "Dread Knight": 2.21,
+                    "Sentient Slime": 1.33,
+                    "Record Keeper's Assistant": 0.88
+                }
+            }
+        },
+        "Frozen Alcove (Paladin's Bane)": {
+            "Runic String": {
+                "-": {
+                    "Sentient Slime": 58.23,
+                    "Dread Knight": 40.93,
+                    "Harbinger of Death": 0.84
+                }
+            },
+            "Ancient String": {
+                "-": {
+                    "Sentient Slime": 61.15,
+                    "Dread Knight": 38.85
+                }
+            },
+            "Magical String": {
+                "-": {
+                    "Sentient Slime": 85.98,
+                    "Dread Knight": 14.02
+                }
+            },
+            "Brie String": {
+                "-": {
+                    "Sentient Slime": 90.29,
+                    "Dread Knight": 9.71
+                }
+            }
+        },
+        "Gearworks (Paladin's Bane)": {
+            "Runic String": {
+                "-": {
+                    "Dread Knight": 46.23,
+                    "Chamber Cleaver": 20.33,
+                    "Portal Plunderer": 10.49,
+                    "Skeletal Champion": 8.85,
+                    "Clockwork Timespinner": 7.54,
+                    "Sentient Slime": 4.92,
+                    "Record Keeper's Assistant": 1.31,
+                    "Record Keeper": 0.33
+                }
+            },
+            "Brie String": {
+                "-": {
+                    "Record Keeper's Assistant": 24.18,
+                    "Dread Knight": 16.03,
+                    "Sentient Slime": 15.74,
+                    "Skeletal Champion": 15.55,
+                    "Record Keeper": 14.97,
+                    "Clockwork Timespinner": 8.06,
+                    "Portal Plunderer": 5.47
+                }
+            }
+        },
+        "Hidden Treasury (Paladin's Bane)": {
+            "Runic String": {
+                "-": {
+                    "Timeless Lich": 28.51,
+                    "Timeslither Pythoness": 26.51,
+                    "Portal Plunderer": 10.04,
+                    "Carrion Medium": 7.63,
+                    "Epoch Golem": 7.23,
+                    "Skeletal Champion": 6.02,
+                    "Shackled Servant": 5.62,
+                    "Dread Knight": 5.62,
+                    "Harbinger of Death": 2.81
+                }
+            },
+            "Ancient String": {
+                "-": {
+                    "Timeless Lich": 23.08,
+                    "Epoch Golem": 22.31,
+                    "Timeslither Pythoness": 21.54,
+                    "Portal Plunderer": 13.85,
+                    "Skeletal Champion": 5.38,
+                    "Carrion Medium": 4.62,
+                    "Harbinger of Death": 3.08,
+                    "Dread Knight": 3.08,
+                    "Shackled Servant": 3.08
+                }
+            },
+            "Brie String": {
+                "-": {
+                    "Portal Plunderer": 38.54,
+                    "Dread Knight": 13.75,
+                    "Timeless Lich": 12.4,
+                    "Timeslither Pythoness": 10.51,
+                    "Epoch Golem": 7.28,
+                    "Shackled Servant": 6.2,
+                    "Carrion Medium": 4.04,
+                    "Skeletal Champion": 4.04,
+                    "Harbinger of Death": 3.23
+                },
+                "Rift Antiskele": {
+                    "Portal Plunderer": 39.62,
+                    "Timeslither Pythoness": 13.21,
+                    "Timeless Lich": 11.32,
+                    "Epoch Golem": 10.38,
+                    "Dread Knight": 10.38,
+                    "Carrion Medium": 9.43,
+                    "Shackled Servant": 5.66
+                }
+            }
+        },
+        "Ingress (Paladin's Bane)": {
+            "Runic String": {
+                "-": {
+                    "Sentient Slime": 22.25,
+                    "Dread Knight": 21.83,
+                    "Portal Pursuer": 18.09,
+                    "Clockwork Timespinner": 16.22,
+                    "Vigilant Ward": 11.85,
+                    "Shackled Servant": 9.15,
+                    "Harbinger of Death": 0.62
+                }
+            },
+            "Ancient String": {
+                "-": {
+                    "Clockwork Timespinner": 23.84,
+                    "Portal Pursuer": 19.87,
+                    "Vigilant Ward": 18.54,
+                    "Shackled Servant": 14.57,
+                    "Sentient Slime": 11.26,
+                    "Dread Knight": 9.93,
+                    "Harbinger of Death": 1.99
+                }
+            },
+            "Brie String": {
+                "-": {
+                    "Sentient Slime": 35.62,
+                    "Portal Pursuer": 26.18,
+                    "Clockwork Timespinner": 21.03,
+                    "Shackled Servant": 6.87,
+                    "Vigilant Ward": 6.87,
+                    "Dread Knight": 3.43
+                }
+            }
+        },
+        "Lucky Tower (Paladin's Bane)": {
+            "Runic String": {
+                "-": {
+                    "Epoch Golem": 23.63,
+                    "Portal Plunderer": 17.66,
+                    "Clockwork Timespinner": 13.93,
+                    "Record Keeper's Assistant": 13.93,
+                    "Record Keeper": 11.19,
+                    "Dread Knight": 10.7,
+                    "Skeletal Champion": 5.97,
+                    "Harbinger of Death": 1.99,
+                    "Sentient Slime": 1
+                }
+            },
+            "Ancient String": {
+                "-": {
+                    "Clockwork Timespinner": 22.75,
+                    "Epoch Golem": 20.96,
+                    "Portal Plunderer": 16.77,
+                    "Record Keeper's Assistant": 11.38,
+                    "Record Keeper": 10.78,
+                    "Dread Knight": 10.18,
+                    "Harbinger of Death": 3.59,
+                    "Skeletal Champion": 2.4,
+                    "Sentient Slime": 1.2
+                }
+            },
+            "Magical String": {
+                "-": {
+                    "Portal Plunderer": 22.96,
+                    "Epoch Golem": 15.56,
+                    "Record Keeper": 14.07,
+                    "Clockwork Timespinner": 12.59,
+                    "Record Keeper's Assistant": 9.63,
+                    "Dread Knight": 8.89,
+                    "Sentient Slime": 7.41,
+                    "Skeletal Champion": 5.93,
+                    "Harbinger of Death": 2.96
+                }
+            },
+            "Brie String": {
+                "-": {
+                    "Portal Plunderer": 21.23,
+                    "Record Keeper's Assistant": 16.47,
+                    "Clockwork Timespinner": 16.07,
+                    "Dread Knight": 11.71,
+                    "Sentient Slime": 11.11,
+                    "Record Keeper": 9.33,
+                    "Skeletal Champion": 6.35,
+                    "Epoch Golem": 5.95,
+                    "Harbinger of Death": 1.79
+                }
+            }
+        },
+        "Runic Laboratory (Paladin's Bane)": {
+            "Runic String": {
+                "-": {
+                    "Timelost Thaumaturge": 28.88,
+                    "Chamber Cleaver": 19.83,
+                    "Shackled Servant": 15.52,
+                    "Timeslither Pythoness": 12.07,
+                    "Dread Knight": 7.54,
+                    "Vigilant Ward": 7.33,
+                    "Skeletal Champion": 4.53,
+                    "Harbinger of Death": 3.45,
+                    "Sentient Slime": 0.86
+                }
+            },
+            "Ancient String": {
+                "-": {
+                    "Timelost Thaumaturge": 27.66,
+                    "Shackled Servant": 21.62,
+                    "Vigilant Ward": 21.43,
+                    "Timeslither Pythoness": 11.48,
+                    "Sentient Slime": 10.19,
+                    "Skeletal Champion": 5.84,
+                    "Harbinger of Death": 1.78
+                }
+            },
+            "Brie String": {
+                "-": {
+                    "Sentient Slime": 37.84,
+                    "Dread Knight": 25.68,
+                    "Vigilant Ward": 18.07,
+                    "Shackled Servant": 8.61,
+                    "Skeletal Champion": 7.26,
+                    "Harbinger of Death": 2.53
+                }
+            }
+        },
+        "Security (Paladin's Bane)": {
+            "Runic String": {
+                "-": {
+                    "Skeletal Champion": 95.83,
+                    "Timelost Thaumaturge": 2.5,
+                    "Shackled Servant": 0.83,
+                    "Vigilant Ward": 0.83
+                }
+            },
+            "Brie String": {
+                "-": {
+                    "Skeletal Champion": 87.97,
+                    "Timelost Thaumaturge": 4.76,
+                    "Vigilant Ward": 4.51,
+                    "Shackled Servant": 2.76
                 }
             }
         },
         "Timewarp (Paladin's Bane)": {
             "Runic String": {
                 "-": {
-                    "Carrion Medium": 35.66,
-                    "Chronomaster": 27.68,
-                    "Timeless Lich": 20.21,
-                    "Sentient Slime": 10.79,
-                    "Skeletal Champion": 5.65
+                    "Carrion Medium": 35.43,
+                    "Chronomaster": 27.87,
+                    "Timeless Lich": 19.95,
+                    "Sentient Slime": 11.39,
+                    "Skeletal Champion": 5.36
                 },
                 "Rift Antiskele": {
-                    "Carrion Medium": 37.82,
-                    "Chronomaster": 29.3,
-                    "Timeless Lich": 21.33,
-                    "Sentient Slime": 11.54
-                }
-            },
-            "Ancient String": {
-                "-": {
-                    "Dread Knight": 32.08,
-                    "Sentient Slime": 27.65,
-                    "Carrion Medium": 17.45,
-                    "Timeless Lich": 16.64,
-                    "Skeletal Champion": 6.17
-                },
-                "Rift Antiskele": {
-                    "Dread Knight": 34,
-                    "Sentient Slime": 29.13,
-                    "Timeless Lich": 18.5,
-                    "Carrion Medium": 18.38
-                }
-            },
-            "Magical String": {
-                "-": {
-                    "Sentient Slime": 42.51,
-                    "Dread Knight": 35.47,
-                    "Carrion Medium": 11.62,
-                    "Skeletal Champion": 6.73,
-                    "Timeless Lich": 3.67
-                },
-                "Rift Antiskele": {
-                    "Sentient Slime": 44.82,
-                    "Dread Knight": 38.41,
-                    "Carrion Medium": 12.8,
-                    "Timeless Lich": 3.96
+                    "Carrion Medium": 36.71,
+                    "Chronomaster": 29.13,
+                    "Timeless Lich": 21.55,
+                    "Sentient Slime": 12.61
                 }
             },
             "Brie String": {
                 "-": {
-                    "Dread Knight": 42.97,
-                    "Sentient Slime": 39.89,
-                    "Carrion Medium": 8.39,
-                    "Skeletal Champion": 6.46,
-                    "Timeless Lich": 2.29
-                },
-                "Rift Antiskele": {
-                    "Dread Knight": 45.54,
-                    "Sentient Slime": 43.15,
-                    "Carrion Medium": 8.86,
-                    "Timeless Lich": 2.45
+                    "Sentient Slime": 45.71,
+                    "Dread Knight": 36.27,
+                    "Carrion Medium": 11.37,
+                    "Skeletal Champion": 4.51,
+                    "Timeless Lich": 2.15
+                }
+            }
+        },
+        "Timewarp (Pursued)": {
+            "Runic String": {
+                "-": {
+                    "Carrion Medium": 32.76,
+                    "Chronomaster": 23.28,
+                    "Portal Pursuer": 14.66,
+                    "Timeless Lich": 12.93,
+                    "Sentient Slime": 6.9,
+                    "Portal Paladin": 6.03,
+                    "Skeletal Champion": 3.45
+                }
+            }
+        },
+        "Timewarp (Paladin's Bane) (Pursued)": {
+            "Runic String": {
+                "-": {
+                    "Carrion Medium": 32.69,
+                    "Chronomaster": 23.08,
+                    "Timeless Lich": 15.38,
+                    "Portal Pursuer": 14.42,
+                    "Sentient Slime": 11.54,
+                    "Skeletal Champion": 2.88
+                }
+            }
+        },
+        "Ancient Lab (Paladin's Bane) (Pursued)": {
+            "Brie String": {
+                "-": {
+                    "Clockwork Timespinner": 39.25,
+                    "Portal Plunderer": 25.23,
+                    "Portal Pursuer": 18.69,
+                    "Record Keeper": 6.54,
+                    "Skeletal Champion": 5.61,
+                    "Epoch Golem": 3.74,
+                    "Dread Knight": 0.93
                 }
             }
         }
@@ -10177,6 +9065,557 @@
             "Dragonvine": {
                 "-": {
                     "Ful'Mina, The Mountain Queen": 100
+                }
+            }
+        }
+    },
+    "Toxic Spill": {
+        "Hero": {
+            "Rancid Radioactive Blue": {
+                "-": {
+                    "Swamp Runner": 20.95,
+                    "Mutated Siblings": 20.95,
+                    "Sludge": 20,
+                    "Monster Tail": 16.9,
+                    "Spore": 16.43,
+                    "Bog Beast": 4.76
+                },
+                "Rotten": {
+                    "Mutated Siblings": 21.03,
+                    "Swamp Runner": 17.95,
+                    "Monster Tail": 16.41,
+                    "Spore": 15.9,
+                    "Lab Technician": 14.87,
+                    "Sludge": 11.79,
+                    "Bog Beast": 2.05
+                },
+                "Super Rotten": {
+                    "Sludge": 18.12,
+                    "Swamp Runner": 16.11,
+                    "Hazmat": 14.43,
+                    "Mutated Siblings": 14.09,
+                    "Spore": 11.41,
+                    "Monster Tail": 11.41,
+                    "Lab Technician": 9.73,
+                    "Bog Beast": 4.7
+                }
+            },
+            "Magical Rancid Radioactive Blue": {
+                "-": {
+                    "Monster Tail": 13.38,
+                    "Biohazard": 10.56,
+                    "Spore": 9.15,
+                    "Scrap Metal Monster": 9.15,
+                    "Gelatinous Octahedron": 7.04,
+                    "Telekinetic Mutant": 6.34,
+                    "Plague Hag": 5.63,
+                    "Sludge Soaker": 5.63,
+                    "Tentacle": 4.23,
+                    "Sludge": 4.23,
+                    "Mutant Mongrel": 4.23,
+                    "Bog Beast": 4.23,
+                    "Mutant Ninja": 3.52,
+                    "Outbreak Assassin": 3.52,
+                    "Mutated Siblings": 2.11,
+                    "Toxic Warrior": 2.11,
+                    "Slimefist": 2.11,
+                    "Swamp Runner": 2.11,
+                    "Sludge Swimmer": 0.7
+                }
+            }
+        },
+        "Knight": {
+            "Rancid Radioactive Blue": {
+                "-": {
+                    "Spore": 30.77,
+                    "Monster Tail": 28.21,
+                    "Sludge": 13.46,
+                    "Gelatinous Octahedron": 11.54,
+                    "Swamp Runner": 6.62,
+                    "Bog Beast": 5.77,
+                    "Mutated Siblings": 3.63
+                },
+                "Rotten": {
+                    "Spore": 27.1,
+                    "Monster Tail": 23.01,
+                    "Lab Technician": 17.63,
+                    "Gelatinous Octahedron": 11.18,
+                    "Sludge": 8.82,
+                    "Swamp Runner": 4.3,
+                    "Mutated Siblings": 4.3,
+                    "Bog Beast": 3.66
+                },
+                "Super Rotten": {
+                    "Spore": 24.48,
+                    "Monster Tail": 23.3,
+                    "Sludge": 13.27,
+                    "Lab Technician": 8.85,
+                    "Hazmat": 8.85,
+                    "Gelatinous Octahedron": 8.55,
+                    "Swamp Runner": 5.31,
+                    "Bog Beast": 4.72,
+                    "Mutated Siblings": 2.65
+                }
+            },
+            "Magical Rancid Radioactive Blue": {
+                "-": {
+                    "Gelatinous Octahedron": 13.57,
+                    "Sludge Soaker": 7.14,
+                    "Outbreak Assassin": 7.14,
+                    "Toxic Warrior": 6.43,
+                    "Biohazard": 5.71,
+                    "Tentacle": 5.71,
+                    "Mutant Mongrel": 5.71,
+                    "Scrap Metal Monster": 5.71,
+                    "Plague Hag": 5.71,
+                    "Spore": 5,
+                    "Telekinetic Mutant": 4.29,
+                    "Monster Tail": 4.29,
+                    "Slimefist": 3.57,
+                    "Mutant Ninja": 3.57,
+                    "Sludge": 3.57,
+                    "Mutated Siblings": 3.57,
+                    "Swamp Runner": 2.86,
+                    "Bog Beast": 2.14,
+                    "Sludge Swimmer": 2.14,
+                    "The Menace": 2.14
+                }
+            }
+        },
+        "Lord/Lady": {
+            "Rancid Radioactive Blue": {
+                "-": {
+                    "Sludge": 19.41,
+                    "Gelatinous Octahedron": 16.9,
+                    "Spore": 13.55,
+                    "Monster Tail": 12.99,
+                    "Sludge Soaker": 10.61,
+                    "Plague Hag": 10.47,
+                    "Scrap Metal Monster": 7.12,
+                    "Bog Beast": 4.61,
+                    "Mutated Siblings": 2.79,
+                    "Swamp Runner": 1.54
+                },
+                "Rotten": {
+                    "Sludge": 16.39,
+                    "Lab Technician": 15.66,
+                    "Gelatinous Octahedron": 14.46,
+                    "Spore": 12.29,
+                    "Sludge Soaker": 11.08,
+                    "Monster Tail": 10.36,
+                    "Plague Hag": 8.67,
+                    "Scrap Metal Monster": 4.34,
+                    "Bog Beast": 3.13,
+                    "Swamp Runner": 2.17,
+                    "Mutated Siblings": 1.45
+                },
+                "Super Rotten": {
+                    "Sludge": 16.42,
+                    "Gelatinous Octahedron": 14.24,
+                    "Hazmat": 12.23,
+                    "Spore": 12.06,
+                    "Sludge Soaker": 10.39,
+                    "Monster Tail": 9.21,
+                    "Plague Hag": 8.21,
+                    "Lab Technician": 7.2,
+                    "Scrap Metal Monster": 4.86,
+                    "Bog Beast": 2.35,
+                    "Swamp Runner": 1.51,
+                    "Mutated Siblings": 1.34
+                }
+            },
+            "Magical Rancid Radioactive Blue": {
+                "-": {
+                    "Sludge Soaker": 15.43,
+                    "Plague Hag": 9.88,
+                    "Toxic Warrior": 8.64,
+                    "Scrap Metal Monster": 8.02,
+                    "Biohazard": 8.02,
+                    "Mutant Mongrel": 7.41,
+                    "Tentacle": 7.41,
+                    "Slimefist": 6.79,
+                    "Telekinetic Mutant": 6.79,
+                    "Sludge Swimmer": 5.56,
+                    "Outbreak Assassin": 4.32,
+                    "Mutant Ninja": 3.7,
+                    "The Menace": 1.85,
+                    "Mutated Siblings": 1.85,
+                    "Bog Beast": 1.23,
+                    "Monster Tail": 1.23,
+                    "Swamp Runner": 1.23,
+                    "Spore": 0.62
+                }
+            }
+        },
+        "Baron/Baroness": {
+            "Rancid Radioactive Blue": {
+                "-": {
+                    "Plague Hag": 27.4,
+                    "Sludge Soaker": 24.6,
+                    "Gelatinous Octahedron": 21.68,
+                    "Scrap Metal Monster": 6.04,
+                    "Monster Tail": 5.39,
+                    "Bog Beast": 4.53,
+                    "Spore": 4.1,
+                    "Mutated Siblings": 3.78,
+                    "Swamp Runner": 1.4,
+                    "Sludge": 1.08
+                },
+                "Rotten": {
+                    "Plague Hag": 24.29,
+                    "Sludge Soaker": 23.82,
+                    "Gelatinous Octahedron": 15.57,
+                    "Lab Technician": 14.62,
+                    "Scrap Metal Monster": 7.08,
+                    "Monster Tail": 4.72,
+                    "Spore": 3.54,
+                    "Mutated Siblings": 2.36,
+                    "Bog Beast": 1.65,
+                    "Sludge": 1.18,
+                    "Swamp Runner": 1.18
+                },
+                "Super Rotten": {
+                    "Plague Hag": 22.76,
+                    "Sludge Soaker": 21.69,
+                    "Gelatinous Octahedron": 16.73,
+                    "Hazmat": 12.58,
+                    "Lab Technician": 6.29,
+                    "Monster Tail": 5.35,
+                    "Scrap Metal Monster": 4.69,
+                    "Mutated Siblings": 3.08,
+                    "Spore": 2.54,
+                    "Bog Beast": 2.01,
+                    "Sludge": 1.47,
+                    "Swamp Runner": 0.8
+                }
+            },
+            "Magical Rancid Radioactive Blue": {
+                "-": {
+                    "Plague Hag": 18.92,
+                    "Outbreak Assassin": 10.14,
+                    "Mutant Ninja": 8.78,
+                    "Sludge Swimmer": 7.43,
+                    "Toxic Warrior": 6.76,
+                    "Mutant Mongrel": 6.76,
+                    "Sludge Soaker": 6.76,
+                    "Slimefist": 6.08,
+                    "Tentacle": 4.73,
+                    "Telekinetic Mutant": 4.73,
+                    "Scrap Metal Monster": 4.05,
+                    "The Menace": 4.05,
+                    "Biohazard": 4.05,
+                    "Monster Tail": 2.7,
+                    "Gelatinous Octahedron": 2.03,
+                    "Spore": 0.68,
+                    "Bog Beast": 0.68,
+                    "Sludge": 0.68
+                }
+            }
+        },
+        "Count/Countess": {
+            "Rancid Radioactive Blue": {
+                "-": {
+                    "Plague Hag": 15.03,
+                    "Biohazard": 14.25,
+                    "Sludge Soaker": 13.59,
+                    "Tentacle": 13.05,
+                    "Telekinetic Mutant": 12.03,
+                    "Mutant Ninja": 9.08,
+                    "Gelatinous Octahedron": 7.16,
+                    "Scrap Metal Monster": 6.19,
+                    "Bog Beast": 2.47,
+                    "Mutated Siblings": 2.16,
+                    "Monster Tail": 1.44,
+                    "Sludge": 1.26,
+                    "Spore": 1.2,
+                    "Swamp Runner": 1.08
+                },
+                "Rotten": {
+                    "Lab Technician": 15.97,
+                    "Sludge Soaker": 14.23,
+                    "Biohazard": 13.02,
+                    "Plague Hag": 10.87,
+                    "Telekinetic Mutant": 10.74,
+                    "Tentacle": 9.4,
+                    "Mutant Ninja": 6.98,
+                    "Gelatinous Octahedron": 6.17,
+                    "Scrap Metal Monster": 5.77,
+                    "Monster Tail": 2.15,
+                    "Bog Beast": 1.48,
+                    "Sludge": 1.21,
+                    "Swamp Runner": 0.94,
+                    "Mutated Siblings": 0.54,
+                    "Spore": 0.54
+                },
+                "Super Rotten": {
+                    "Hazmat": 13.05,
+                    "Sludge Soaker": 12.02,
+                    "Telekinetic Mutant": 10.59,
+                    "Plague Hag": 10.28,
+                    "Biohazard": 9.87,
+                    "Tentacle": 9.66,
+                    "Lab Technician": 6.58,
+                    "Mutant Ninja": 6.47,
+                    "Scrap Metal Monster": 5.96,
+                    "Gelatinous Octahedron": 5.86,
+                    "Monster Tail": 2.47,
+                    "Bog Beast": 1.85,
+                    "Mutated Siblings": 1.75,
+                    "Swamp Runner": 1.64,
+                    "Spore": 1.03,
+                    "Sludge": 0.92
+                }
+            },
+            "Magical Rancid Radioactive Blue": {
+                "-": {
+                    "Tentacle": 14.53,
+                    "Telekinetic Mutant": 13.37,
+                    "Biohazard": 11.63,
+                    "The Menace": 9.3,
+                    "Mutant Ninja": 9.3,
+                    "Outbreak Assassin": 8.72,
+                    "Toxic Warrior": 6.98,
+                    "Slimefist": 6.98,
+                    "Mutant Mongrel": 5.81,
+                    "Sludge Swimmer": 4.65,
+                    "Swamp Runner": 2.33,
+                    "Gelatinous Octahedron": 1.74,
+                    "Sludge Soaker": 1.74,
+                    "Scrap Metal Monster": 1.16,
+                    "Mutated Siblings": 0.58,
+                    "Monster Tail": 0.58,
+                    "Bog Beast": 0.58
+                }
+            }
+        },
+        "Duke/Duchess": {
+            "Rancid Radioactive Blue": {
+                "-": {
+                    "Toxic Warrior": 17.13,
+                    "Outbreak Assassin": 14.53,
+                    "Slimefist": 13.31,
+                    "Mutant Mongrel": 12.98,
+                    "Telekinetic Mutant": 9.39,
+                    "Biohazard": 6.74,
+                    "Plague Hag": 6.52,
+                    "Tentacle": 5.19,
+                    "Sludge Soaker": 2.15,
+                    "Gelatinous Octahedron": 2.15,
+                    "Scrap Metal Monster": 1.88,
+                    "Mutant Ninja": 1.82,
+                    "Bog Beast": 1.33,
+                    "Mutated Siblings": 1.27,
+                    "Sludge": 0.94,
+                    "Monster Tail": 0.94,
+                    "Spore": 0.88,
+                    "Swamp Runner": 0.83
+                },
+                "Rotten": {
+                    "Toxic Warrior": 13.92,
+                    "Lab Technician": 13.71,
+                    "Slimefist": 12.87,
+                    "Outbreak Assassin": 11.81,
+                    "Mutant Mongrel": 11.6,
+                    "Telekinetic Mutant": 7.59,
+                    "Biohazard": 6.33,
+                    "Plague Hag": 5.06,
+                    "Tentacle": 4.64,
+                    "Gelatinous Octahedron": 1.9,
+                    "Mutant Ninja": 1.9,
+                    "Sludge Soaker": 1.48,
+                    "Scrap Metal Monster": 1.48,
+                    "Swamp Runner": 1.48,
+                    "Bog Beast": 1.27,
+                    "Sludge": 0.84,
+                    "Mutated Siblings": 0.84,
+                    "Monster Tail": 0.63,
+                    "Spore": 0.63
+                },
+                "Super Rotten": {
+                    "Toxic Warrior": 14.8,
+                    "Slimefist": 13.28,
+                    "Hazmat": 12.83,
+                    "Mutant Mongrel": 11.76,
+                    "Outbreak Assassin": 10.16,
+                    "Telekinetic Mutant": 5.88,
+                    "Plague Hag": 5.53,
+                    "Tentacle": 4.81,
+                    "Lab Technician": 4.72,
+                    "Biohazard": 4.46,
+                    "Mutant Ninja": 2.41,
+                    "Scrap Metal Monster": 1.69,
+                    "Gelatinous Octahedron": 1.52,
+                    "Sludge Soaker": 1.34,
+                    "Bog Beast": 1.16,
+                    "Swamp Runner": 0.89,
+                    "Sludge": 0.8,
+                    "Spore": 0.71,
+                    "Monster Tail": 0.71,
+                    "Mutated Siblings": 0.53
+                }
+            },
+            "Magical Rancid Radioactive Blue": {
+                "-": {
+                    "Sludge Swimmer": 20.29,
+                    "Mutant Mongrel": 17.39,
+                    "Slimefist": 17.39,
+                    "Toxic Warrior": 11.59,
+                    "The Menace": 9.42,
+                    "Outbreak Assassin": 7.25,
+                    "Mutated Siblings": 2.9,
+                    "Sludge": 2.17,
+                    "Bog Beast": 1.45,
+                    "Telekinetic Mutant": 1.45,
+                    "Biohazard": 1.45,
+                    "Plague Hag": 1.45,
+                    "Scrap Metal Monster": 1.45,
+                    "Swamp Runner": 1.45,
+                    "Spore": 0.72,
+                    "Monster Tail": 0.72,
+                    "Sludge Soaker": 0.72,
+                    "Mutant Ninja": 0.72
+                }
+            }
+        },
+        "Grand Duke/Grand Duchess": {
+            "Rancid Radioactive Blue": {
+                "-": {
+                    "Mutant Mongrel": 11.14,
+                    "Slimefist": 9.71,
+                    "Toxic Warrior": 9.39,
+                    "Outbreak Assassin": 9,
+                    "Sludge Swimmer": 8.93,
+                    "The Menace": 8.64,
+                    "Mutant Ninja": 8.5,
+                    "Telekinetic Mutant": 8.43,
+                    "Sludge Soaker": 6.32,
+                    "Plague Hag": 5.43,
+                    "Biohazard": 5.14,
+                    "Tentacle": 5,
+                    "Scrap Metal Monster": 4.36
+                },
+                "Rotten": {
+                    "Lab Technician": 9.41,
+                    "Toxic Warrior": 9.41,
+                    "Sludge Soaker": 9.41,
+                    "The Menace": 8.94,
+                    "Sludge Swimmer": 8.71,
+                    "Slimefist": 8.47,
+                    "Mutant Ninja": 7.29,
+                    "Telekinetic Mutant": 7.29,
+                    "Mutant Mongrel": 6.82,
+                    "Plague Hag": 6.59,
+                    "Outbreak Assassin": 5.18,
+                    "Biohazard": 4.94,
+                    "Tentacle": 4.24,
+                    "Scrap Metal Monster": 3.29
+                },
+                "Super Rotten": {
+                    "Hazmat": 13.75,
+                    "Telekinetic Mutant": 8.32,
+                    "Slimefist": 7.68,
+                    "Mutant Mongrel": 7.68,
+                    "Mutant Ninja": 7.57,
+                    "Sludge Swimmer": 7.04,
+                    "Outbreak Assassin": 6.93,
+                    "The Menace": 6.4,
+                    "Toxic Warrior": 6.4,
+                    "Sludge Soaker": 6.4,
+                    "Biohazard": 5.76,
+                    "Plague Hag": 5.54,
+                    "Scrap Metal Monster": 3.84,
+                    "Tentacle": 3.73,
+                    "Lab Technician": 2.99
+                }
+            },
+            "Magical Rancid Radioactive Blue": {
+                "-": {
+                    "The Menace": 18.78,
+                    "Sludge Swimmer": 17.27,
+                    "Mutant Mongrel": 14.92,
+                    "Outbreak Assassin": 14.5,
+                    "Slimefist": 13.67,
+                    "Toxic Warrior": 13.12,
+                    "Plague Hag": 1.8,
+                    "Tentacle": 1.38,
+                    "Sludge Soaker": 1.24,
+                    "Telekinetic Mutant": 1.1,
+                    "Scrap Metal Monster": 0.83,
+                    "Biohazard": 0.69,
+                    "Mutant Ninja": 0.69
+                }
+            }
+        },
+        "Archduke/Archduchess": {
+            "Rancid Radioactive Blue": {
+                "-": {
+                    "Mutant Mongrel": 13.2,
+                    "Mutated Behemoth": 11.28,
+                    "The Menace": 10.11,
+                    "Slimefist": 10.11,
+                    "Telekinetic Mutant": 10,
+                    "Outbreak Assassin": 9.93,
+                    "Sludge Swimmer": 8.65,
+                    "Toxic Warrior": 8.22,
+                    "Biohazard": 5.84,
+                    "Tentacle": 5.34,
+                    "Mutant Ninja": 3.42,
+                    "Scrap Metal Monster": 1.64,
+                    "Plague Hag": 1.25,
+                    "Sludge Soaker": 1.03
+                },
+                "Rotten": {
+                    "Mutated Behemoth": 14.18,
+                    "Mutant Mongrel": 12.06,
+                    "Slimefist": 12.06,
+                    "The Menace": 9.93,
+                    "Sludge Swimmer": 9.22,
+                    "Telekinetic Mutant": 7.8,
+                    "Outbreak Assassin": 7.8,
+                    "Lab Technician": 6.38,
+                    "Toxic Warrior": 4.96,
+                    "Tentacle": 4.26,
+                    "Biohazard": 3.55,
+                    "Scrap Metal Monster": 2.84,
+                    "Mutant Ninja": 2.84,
+                    "Plague Hag": 1.42,
+                    "Sludge Soaker": 0.71
+                },
+                "Super Rotten": {
+                    "Mutant Mongrel": 12.66,
+                    "Mutated Behemoth": 11.39,
+                    "The Menace": 11.18,
+                    "Hazmat": 10.34,
+                    "Outbreak Assassin": 8.02,
+                    "Sludge Swimmer": 7.17,
+                    "Telekinetic Mutant": 7.17,
+                    "Slimefist": 7.17,
+                    "Toxic Warrior": 4.85,
+                    "Tentacle": 4.64,
+                    "Lab Technician": 4.43,
+                    "Mutant Ninja": 4.43,
+                    "Biohazard": 2.95,
+                    "Sludge Soaker": 1.27,
+                    "Scrap Metal Monster": 1.27,
+                    "Plague Hag": 1.05
+                }
+            },
+            "Magical Rancid Radioactive Blue": {
+                "-": {
+                    "Mutated Behemoth": 21.18,
+                    "The Menace": 14.84,
+                    "Sludge Swimmer": 14.32,
+                    "Toxic Warrior": 12.18,
+                    "Slimefist": 11.58,
+                    "Outbreak Assassin": 11.15,
+                    "Mutant Mongrel": 7.89,
+                    "Plague Hag": 1.37,
+                    "Sludge Soaker": 1.2,
+                    "Tentacle": 1.03,
+                    "Mutant Ninja": 0.94,
+                    "Biohazard": 0.86,
+                    "Telekinetic Mutant": 0.77,
+                    "Scrap Metal Monster": 0.69
                 }
             }
         }
