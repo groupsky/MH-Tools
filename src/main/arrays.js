@@ -328,7 +328,12 @@ var baselineAttArray = {
   "Vengeful Vanilla Stilton": 0.9891, // Sample: 678 (Medium)
   "White Cheddar": 0.5842, // Sample: 505 (Medium)
   "Wicked Gnarly": 0.9870, // Sample: 1116 (High)
-  "Windy": 0.9992 // Sample: 14793 (Very High)
+  "Windy": 0.9992, // Sample: 14793 (Very High)
+  "Bland Queso": 0.8967647356317608, // Sample: 6100 (High)
+  "Mild Queso": 0.9487478664222776, // Sample: 5819 (High)
+  "Medium Queso": 0.9761907913992343, // Sample: 3384 (High)
+  "Hot Queso": 0.9963449212719975, // Sample: 790 (Medium)
+  "Flamin Queso": 1, // Sample: 22 (Very Low)
 };
 
 /* Its okay using strings as keys here, JS will convert it */
@@ -1666,6 +1671,7 @@ var basesArray = {
   "Molten Shrapnel Base": [300, 12, 5, 8, "Extremely Stale"],
   "Monkey Jade Base": [350, 12, 10, 10, "Stale"],
   "Monolith Base": [300, 12, 0, 0, "No Effect"],
+  "Overgrown Ember Stone Base": [450, 10, 18, 12, "Ultimately Stale"],
   "Papyrus Base": [400, 0, 0, 10, "Fresh"],
   "Physical Brace Base": [300, 0, 5, 8, "No Effect"],
   "Polar Base": [200, 10, 0, 4, "Insanely Fresh"],
@@ -1720,6 +1726,7 @@ var weaponsArray = {
   "Birthday Candle Kaboom": ["Physical", 2400, 30, 20, 14, "Very Stale"],
   "Birthday Party Pi\xF1ata Bonanza": ["Physical", 2500, 35, 0, 10, "Stale"],
   "Blackstone Pass Trap": ["Tactical", 3000, 15, 0, 12, "Very Fresh"],
+  "Blazing Ember Spear Trap": ["Draconic", 5500, 15, 10, 12, "Extremely Stale"],
   "Bottomless Grave": ["Shadow", 1500, 0, 0, 5, "No Effect"],
   "Brain Extractor": ["Shadow", 2000, 5, 5, 6, "Fresh"],
   "Bubbles: The Party Crasher Trap": ["Hydro", 5800, 18, 8, 8, "Very Stale"],
@@ -1755,6 +1762,7 @@ var weaponsArray = {
   "Dragonvine Ballista Trap": ["Draconic", 5750, 15, 5, 14, "Stale"],
   "Dreaded Totem Trap": ["Shadow", 3000, 15, 10, 10, "Very Stale"],
   "Droid Archmagus Trap" : ["Arcane", 5000, 15, 10, 20, "Stale"],
+  "Ember Prison Core Trap" : ["Law", 4500, 25, 10, 16, "Stale"],
   "Endless Labyrinth Trap": ["Forgotten", 10000, 15, 5, 9, "Very Stale"],
   "Engine Doubler": ["Law", 1500, 12, 0, 0, "No Effect"],
   "Enraged RhinoBot": ["Physical", 5900, 10, 0, 20, "Insanely Stale"],
@@ -1791,6 +1799,7 @@ var weaponsArray = {
   "Isle Idol Trap": ["Physical", 5050, 0, 0, 7, "Stale"],
   "Isle Idol Hydroplane Skin": ["Hydro", 3500, 5, 15, 10, "Stale"],
   "Isle Idol Stakeshooter Skin": ["Tactical", 3750, 12, 5, 14, "Stale"],
+  "Judge Droid Trap": ["Law", 2000, 10, 0, 6, "Very Fresh"],
   "Kraken Chaos": ["Hydro", 3400, 0, 0, 18, "Very Stale"],
   "Law Laser Trap": ["Law", 1750, 20, 10, 3, "Fresh"],
   "Maniacal Brain Extractor": ["Shadow", 2600, 10, 0, 13, "Very Fresh"],
@@ -1832,6 +1841,7 @@ var weaponsArray = {
   "Sandcastle Shard Trap":["Shadow", 3000, 5, 15, 12, "Fresh"],
   "Sandstorm MonstroBot": ["Physical", 8000, 20, 5, 27, "No Effect"],
   "Sandtail Sentinel": ["Physical", 6800, 17, 10, 25, "No Effect"],
+  "Scarlet Ember Root Trap": ["Forgotten", 6000, 3, 10, 7, "Very Stale"],
   "School of Sharks": ["Hydro", 9850, 15, 20, 30, "Extremely Fresh"],
   "Scum Scrubber": ["Hydro", 3000, 15, 0, 13, "Stale"],
   "Shrink Ray Trap": ["Physical", 1000, 5, 2, 8, "Fresh"],
@@ -1915,6 +1925,7 @@ var charmsArray = {
   "Eggstra Charm": [0, 0, 0, 0, "No Effect"],
   "Eggstra Charge Charm": [0, 0, 0, 0, "No Effect"],
   "Elub Power Charm": [0, 0, 0, 0, "No Effect"],
+  "Ember Charm": [0, 500, 0, 0, "No Effect"],
   "EMP400 Charm": [0, 0, 0, 0, "Stale"],
   "Empowered Anchor Charm": [300, 4, 0, 0, "No Effect"],
   "Enerchi Charm": [100, 1, 0, 0, "No Effect"],
@@ -1975,6 +1986,7 @@ var charmsArray = {
   "Polluted Charm": [0, 0, 0, 0, "No Effect"],
   "Power Charm": [120, 1, 0, 0, "No Effect"],
   "Prospector's Charm": [200, 1, 0, 0, "No Effect"],
+  "Queso Pump Charm": [50, 5, 5, 0, "Fresh"],
   "Rainbow Luck Charm": [800, 0, 0, 12, "No Effect"],
   "Ramming Speed Charm": [0, 0, 0, 0, "No Effect"],
   "Reality Restitch Charm": [0, 10, 10, 5, "Fresh"],
@@ -2130,10 +2142,10 @@ var powersArray = {
   "Brimstone": 	[3200, 150, 0, 125, 0, 0, 0, 200, 0, 0, 0],
   "Riptide":  	[3260, 150, 0, 200, 0, 0, 0, 200, 0, 0, 0],
   "Enslaved Spirit": 	[5732, 150, 0, 125, 0, 0, 0, 200, 0, 0, 0],
-  "Derr Lich": 	[18025, 150, 0, 200, 0, 0, 0, 125, 0, 0, 0],
-  "Nerg Lich": 	[16342, 150, 0, 200, 0, 0, 0, 125, 0, 0, 0],
-  "Elub Lich": 	[17882, 150, 0, 200, 0, 0, 0, 125, 0, 0, 0],
-  "Balack the Banished": 	[40896, 50, 0, 200, 0, 0, 0, 50, 0, 0, 0],
+  "Derr Lich": 	[20800, 150, 0, 200, 0, 0, 0, 125, 0, 0, 0],
+  "Nerg Lich": 	[20900, 150, 0, 200, 0, 0, 0, 125, 0, 0, 0],
+  "Elub Lich": 	[22000, 150, 0, 200, 0, 0, 0, 125, 0, 0, 0],
+  "Balack the Banished": 	[72929, 50, 0, 200, 0, 0, 0, 25, 0, 0, 0],
   "Nugget": 	    [900, 100, 0, 0, 0, 0, 100, 100, 100, 0, 0],
   "Core Sample": 	[1000, 100, 0, 0, 0, 0, 100, 100, 100, 0, 0],
   "Rock Muncher": [1145, 100, 0, 0, 0, 0, 100, 100, 100, 0, 0],
@@ -2732,8 +2744,8 @@ var powersArray = {
   "Derpshark": 	[11302, 0, 0, 0, 100, 0, 0, 0, 0, 0, 0],
   "Carnivore": 	[15099, 0, 0, 0, 100, 0, 0, 0, 0, 0, 0],
   "Serpent Monster": 	[26599, 0, 0, 0, 100, 0, 0, 0, 0, 0, 0],
-  "Ancient of the Deep": 	[33448, 0, 0, 0, 100, 0, 0, 0, 0, 0, 0],
-  "Tritus": 	        [43642, 0, 0, 0, 100, 0, 0, 0, 0, 0, 0],
+  "Ancient of the Deep": 	[37999, 0, 0, 0, 100, 0, 0, 0, 0, 0, 0],
+  "Tritus": 	        [68501, 0, 0, 0, 100, 0, 0, 0, 0, 0, 0],
   "Amplified White": 	[750, 10, 10, 10, 10, 0, 10, 10, 10, 10, 100],
   "Amplified Grey": 	[750, 10, 10, 10, 10, 0, 10, 10, 10, 10, 100],
   "Amplified Brown": 	[750, 10, 10, 10, 10, 0, 10, 10, 10, 10, 100],
@@ -2960,6 +2972,32 @@ var powersArray = {
   "Craggy Ore": [1200, 100, 100, 100, 100, 0, 100, 100, 100, 100, 100],
   "Slope Swimmer": [1200, 100, 100, 100, 100, 0, 100, 100, 100, 100, 100],
   "Mountain": [1900, 100, 100, 100, 100, 0, 100, 100, 100, 100, 100],
+  // Queso Canyoneers
+  "Sleepy Merchant": [420, 0, 0, 0, 0, 0, 0, 0, 0, 100, 0],
+  "Tiny Saboteur": [1120, 0, 0, 0, 0, 0, 0, 0, 0, 100, 0],
+  "Pump Raider": [1915, 0, 0, 0, 0, 0, 0, 0, 0, 100, 0],
+  "Croquet Crusher": [2945, 0, 0, 0, 0, 0, 0, 0, 0, 100, 0],
+  "Queso Extractor": [4310, 0, 0, 0, 0, 0, 0, 0, 0, 100, 0],
+  "Queen Quesada": [8400*5, 0, 0, 0, 0, 0, 0, 0, 0, 500, 0],
+  "Spice Seer": [1873, 100, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+  "Old Spice Collector": [3800, 100, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+  "Spice Farmer": [2455, 100, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+  "Granny Spice": [4625, 100, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+  "Spice Sovereign": [3080, 100, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+  "Spice Finder": [5575, 100, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+  "Spice Raider": [3810, 100, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+  "Spice Reaper": [6700, 100, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+  "Inferna The Engulfed": [7065*3, 300, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+  "Chip Chiseler": [1260, 0, 0, 0, 0, 0, 0, 100, 0, 0, 0],
+  "Tiny Toppler": [2815, 0, 0, 0, 0, 0, 0, 100, 0, 0, 0],
+  "Ore Chipper": [1720, 0, 0, 0, 0, 0, 0, 100, 0, 0, 0],
+  "Rubble Rummager": [3480, 0, 0, 0, 0, 0, 0, 100, 0, 0, 0],
+  "Nachore Golem": [2235, 0, 0, 0, 0, 0, 0, 100, 0, 0, 0],
+  "Rubble Rouser": [4225, 0, 0, 0, 0, 0, 0, 100, 0, 0, 0],
+  "Grampa Golem": [2815, 0, 0, 0, 0, 0, 0, 100, 0, 0, 0],
+  "Fiery Crusher": [5095, 0, 0, 0, 0, 0, 0, 100, 0, 0, 0],
+  "Nachous The Molten": [5335*3, 0, 0, 0, 0, 0, 0, 300, 0, 0, 0],
+   // "Mouse name": [Power, Arcane, Draconic, Forgotten, Hydro, Parental, Physical, Shadow, Tactical, Law, Rift],
 };
 
 /* [Gold, Points] */
@@ -3840,6 +3878,32 @@ var miceArray = {
   "Craggy Ore": [1000, 1600],
   "Slope Swimmer": [1000, 1600],
   "Mountain": [1000, 3000],
+  // Queso Canyoneers
+  "Sleepy Merchant": [5000, 25000],
+  "Tiny Saboteur": [900, 8500],
+  "Pump Raider": [1000, 15000],
+  "Croquet Crusher": [2000, 12000],
+  "Queso Extractor": [4000, 8008],
+  "Queen Quesada": [70000, 300000],
+  "Spice Seer": [2000, 20000],
+  "Old Spice Collector": [2500, 22000],
+  "Spice Farmer": [3070, 30000],
+  "Granny Spice": [4500, 34000],
+  "Spice Sovereign": [5000, 40000],
+  "Spice Finder": [6000, 46000],
+  "Spice Raider": [8000, 50000],
+  "Spice Reaper": [9000, 62200],
+  "Inferna The Engulfed": [18000, 150000],
+  "Chip Chiseler": [1000, 14670],
+  "Tiny Toppler": [2000, 16000],
+  "Ore Chipper": [3800, 10000],
+  "Rubble Rummager": [4500, 12000],
+  "Nachore Golem": [7000, 30000],
+  "Rubble Rouser": [8000, 35000],
+  "Grampa Golem": [10000, 54500],
+  "Fiery Crusher": [13200, 70000],
+  "Nachous The Molten": [35000, 90000],
+  // "Mouse name": [Gold, Points],
 };
 
 var festiveTraps = [
