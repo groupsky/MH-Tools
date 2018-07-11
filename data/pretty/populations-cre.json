@@ -13779,36 +13779,36 @@
         "-": {
             "Gouda": {
                 "-": {
-                    "Pump Raider": 34.15,
-                    "SampleSize": 6308,
-                    "Tiny Saboteur": 30.68,
-                    "Queso Extractor": 29.82,
-                    "Croquet Crusher": 5.36
+                    "Pump Raider": 34.51,
+                    "SampleSize": 15771,
+                    "Tiny Saboteur": 30.28,
+                    "Queso Extractor": 30.23,
+                    "Croquet Crusher": 4.99
                 }
             },
             "Brie": {
                 "-": {
-                    "Pump Raider": 36.18,
-                    "SampleSize": 456,
-                    "Tiny Saboteur": 30.26,
-                    "Queso Extractor": 28.51,
-                    "Croquet Crusher": 5.04
+                    "Pump Raider": 35.95,
+                    "SampleSize": 1032,
+                    "Tiny Saboteur": 30.23,
+                    "Queso Extractor": 29.26,
+                    "Croquet Crusher": 4.55
                 }
             },
             "SB+": {
                 "-": {
-                    "Tiny Saboteur": 31.95,
-                    "SampleSize": 5486,
-                    "Pump Raider": 28.82,
-                    "Sleepy Merchant": 23.95,
-                    "Queso Extractor": 9.53,
-                    "Croquet Crusher": 5.74
+                    "Tiny Saboteur": 31.25,
+                    "SampleSize": 10861,
+                    "Pump Raider": 29.11,
+                    "Sleepy Merchant": 24.44,
+                    "Queso Extractor": 9.56,
+                    "Croquet Crusher": 5.64
                 }
             },
             "Wildfire Queso": {
                 "-": {
                     "Queen Quesada": 100,
-                    "SampleSize": 22
+                    "SampleSize": 212
                 }
             }
         }
@@ -13817,36 +13817,36 @@
         "-": {
             "Bland Queso": {
                 "-": {
-                    "Spice Seer": 60.39,
-                    "SampleSize": 4433,
-                    "Old Spice Collector": 39.61
+                    "Spice Seer": 60.22,
+                    "SampleSize": 8625,
+                    "Old Spice Collector": 39.78
                 }
             },
             "Mild Queso": {
                 "-": {
-                    "Spice Farmer": 50.46,
-                    "SampleSize": 2905,
-                    "Granny Spice": 49.54
+                    "Spice Farmer": 50.61,
+                    "SampleSize": 6752,
+                    "Granny Spice": 49.39
                 }
             },
             "Medium Queso": {
                 "-": {
-                    "Spice Finder": 57.75,
-                    "SampleSize": 781,
-                    "Spice Sovereign": 42.25
+                    "Spice Finder": 56.94,
+                    "SampleSize": 3579,
+                    "Spice Sovereign": 43.06
                 }
             },
             "Hot Queso": {
                 "-": {
-                    "Spice Reaper": 60.61,
-                    "SampleSize": 198,
-                    "Spice Raider": 39.39
+                    "Spice Reaper": 59.72,
+                    "SampleSize": 715,
+                    "Spice Raider": 40.28
                 }
             },
             "Flamin' Queso": {
                 "-": {
                     "Inferna, The Engulfed": 100,
-                    "SampleSize": 102
+                    "SampleSize": 540
                 }
             }
         }
@@ -13855,36 +13855,36 @@
         "-": {
             "Bland Queso": {
                 "-": {
-                    "Chip Chiseler": 60.87,
-                    "SampleSize": 1191,
-                    "Tiny Toppler": 39.13
+                    "Chip Chiseler": 61.81,
+                    "SampleSize": 2257,
+                    "Tiny Toppler": 38.19
                 }
             },
             "Mild Queso": {
                 "-": {
-                    "Ore Chipper": 50.41,
-                    "SampleSize": 2710,
-                    "Rubble Rummager": 49.59
+                    "Ore Chipper": 50.64,
+                    "SampleSize": 3843,
+                    "Rubble Rummager": 49.36
                 }
             },
             "Medium Queso": {
                 "-": {
-                    "Nachore Golem": 62.02,
-                    "SampleSize": 2562,
-                    "Rubble Rouser": 37.98
+                    "Nachore Golem": 61.48,
+                    "SampleSize": 4297,
+                    "Rubble Rouser": 38.52
                 }
             },
             "Hot Queso": {
                 "-": {
-                    "Grampa Golem": 53.51,
-                    "SampleSize": 598,
-                    "Fiery Crusher": 46.49
+                    "Grampa Golem": 51.9,
+                    "SampleSize": 2717,
+                    "Fiery Crusher": 48.1
                 }
             },
             "Flamin' Queso": {
                 "-": {
                     "Nachous, The Molten": 100,
-                    "SampleSize": 192
+                    "SampleSize": 742
                 }
             }
         }

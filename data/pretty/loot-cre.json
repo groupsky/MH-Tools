@@ -9350,9 +9350,9 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Unstable Ember Gadget": 1,
-                                "SampleSize": 16,
-                                "Ancient Relic": 0.625
+                                "Unstable Ember Gadget": 1.0555555555555556,
+                                "SampleSize": 144,
+                                "Ancient Relic": 0.5694444444444444
                             }
                         }
                     }
@@ -9363,13 +9363,13 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Ember Root": 1.8125,
-                                "SampleSize": 80,
-                                "Medium Spice Leaf": 1.075,
-                                "Ancient Relic": 0.2375,
-                                "Hot Spice Leaf": 0.425,
-                                "Mild Spice Leaf": 0.5625,
-                                "Flamin' Spice Leaf": 0.0625
+                                "Ember Root": 1.667481662591687,
+                                "SampleSize": 409,
+                                "Medium Spice Leaf": 0.9535452322738386,
+                                "Ancient Relic": 0.26894865525672373,
+                                "Hot Spice Leaf": 0.5232273838630807,
+                                "Mild Spice Leaf": 0.5207823960880196,
+                                "Flamin' Spice Leaf": 0.08801955990220049
                             }
                         }
                     }
@@ -9380,13 +9380,13 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Ember Stone": 1.7328767123287672,
-                                "SampleSize": 146,
                                 "Ultimate Power Charm": 1,
-                                "Nachore": 110.03424657534246,
-                                "Magmatic Crystal Charm": 1.1712328767123288,
-                                "Ancient Relic": 0.04794520547945205,
-                                "Wild Tonic": 0.0958904109589041
+                                "SampleSize": 613,
+                                "Nachore": 110.22512234910278,
+                                "Ember Stone": 1.701468189233279,
+                                "Magmatic Crystal Charm": 0.9461663947797716,
+                                "Ancient Relic": 0.0766721044045677,
+                                "Wild Tonic": 0.08972267536704731
                             }
                         }
                     }
@@ -9401,9 +9401,9 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Bland Queso": 4.996223564954683,
-                                "SampleSize": 1324,
-                                "Wild Tonic": 0.26057401812688824
+                                "Bland Queso": 5,
+                                "SampleSize": 2663,
+                                "Wild Tonic": 0.25009387908374014
                             }
                         }
                     }
@@ -9418,8 +9418,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Mild Spice Leaf": 4,
-                                "SampleSize": 2669
+                                "Mild Spice Leaf": 3.9992283950617282,
+                                "SampleSize": 5184
                             }
                         }
                     }
@@ -9430,8 +9430,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Mild Spice Leaf": 1.20600115406809,
-                                "SampleSize": 1733
+                                "Mild Spice Leaf": 1.2060660124888491,
+                                "SampleSize": 3363
                             }
                         }
                     }
@@ -9443,7 +9443,7 @@
                         "-": {
                             "-": {
                                 "Medium Spice Leaf": 3,
-                                "SampleSize": 1464
+                                "SampleSize": 3413
                             }
                         }
                     }
@@ -9454,8 +9454,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Medium Spice Leaf": 0.9153627311522048,
-                                "SampleSize": 1406
+                                "Medium Spice Leaf": 0.9104294478527607,
+                                "SampleSize": 3260
                             }
                         }
                     }
@@ -9467,7 +9467,7 @@
                         "-": {
                             "-": {
                                 "Hot Spice Leaf": 2,
-                                "SampleSize": 330
+                                "SampleSize": 1540
                             }
                         }
                     }
@@ -9478,8 +9478,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Hot Spice Leaf": 0.9030023094688222,
-                                "SampleSize": 433
+                                "Hot Spice Leaf": 0.9178294573643411,
+                                "SampleSize": 1935
                             }
                         }
                     }
@@ -9491,7 +9491,7 @@
                         "-": {
                             "-": {
                                 "Flamin' Spice Leaf": 1,
-                                "SampleSize": 78
+                                "SampleSize": 287
                             }
                         }
                     }
@@ -9502,8 +9502,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Flamin' Spice Leaf": 0.7924528301886793,
-                                "SampleSize": 106
+                                "Flamin' Spice Leaf": 0.7760814249363868,
+                                "SampleSize": 393
                             }
                         }
                     }
@@ -9519,8 +9519,8 @@
                         "-": {
                             "-": {
                                 "Nachore": 1,
-                                "SampleSize": 725,
-                                "Wild Tonic": 0.013793103448275862
+                                "SampleSize": 1394,
+                                "Wild Tonic": 0.013629842180774749
                             }
                         }
                     }
@@ -9531,9 +9531,9 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Nachore": 0.19130434782608696,
-                                "SampleSize": 460,
-                                "Wild Tonic": 0.01956521739130435
+                                "Nachore": 0.1896348645465253,
+                                "SampleSize": 849,
+                                "Wild Tonic": 0.016489988221436984
                             }
                         }
                     }
@@ -9545,8 +9545,8 @@
                         "-": {
                             "-": {
                                 "Nachore": 3,
-                                "SampleSize": 1365,
-                                "Wild Tonic": 0.015384615384615385
+                                "SampleSize": 1945,
+                                "Wild Tonic": 0.019023136246786632
                             }
                         }
                     }
@@ -9557,9 +9557,9 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Nachore": 1.4856711915535445,
-                                "SampleSize": 1326,
-                                "Wild Tonic": 0.01583710407239819
+                                "Nachore": 1.483593329747176,
+                                "SampleSize": 1859,
+                                "Wild Tonic": 0.01506186121570737
                             }
                         }
                     }
@@ -9571,8 +9571,8 @@
                         "-": {
                             "-": {
                                 "Nachore": 10,
-                                "SampleSize": 1587,
-                                "Wild Tonic": 0.02205419029615627
+                                "SampleSize": 2639,
+                                "Wild Tonic": 0.023493747631678667
                             }
                         }
                     }
@@ -9583,9 +9583,9 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Nachore": 3.743509865005192,
-                                "SampleSize": 963,
-                                "Wild Tonic": 0.010384215991692628
+                                "Nachore": 3.773758430410791,
+                                "SampleSize": 1631,
+                                "Wild Tonic": 0.010423053341508276
                             }
                         }
                     }
@@ -9597,7 +9597,7 @@
                         "-": {
                             "-": {
                                 "Nachore": 50,
-                                "SampleSize": 320
+                                "SampleSize": 1410
                             }
                         }
                     }
@@ -9608,8 +9608,8 @@
                     "-": {
                         "-": {
                             "-": {
-                                "Nachore": 17.71217712177122,
-                                "SampleSize": 271
+                                "Nachore": 17.99301242236025,
+                                "SampleSize": 1288
                             }
                         }
                     }
